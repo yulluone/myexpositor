@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const ScrollLink = ({ href, scrollToId, children }) => {
   return (
-    <Link href={`/bible/${href}${scrollToId}`}>
+    <Link href={`/bible${href}${scrollToId}`}>
       <span style={{ color: "blue" }}>{children}</span>
     </Link>
   );

@@ -2,69 +2,92 @@
 
 import { useState } from "react";
 import BibleIcon from "./icons/BibleIcon";
+import Link from "next/link";
 
 const Nav = ({ children }) => {
-  const [hidden, setHidden] = useState(false);
+  const [menuIsOpen, setMenuIsOpen] = useState(true);
 
-  const handleToggleChapters = () => {
-    setHidden(!hidden);
+  const handleToggleMenu = () => {
+    setMenuIsOpen(!menuIsOpen);
   };
 
   return (
-    <div class="h-screen w-full bg-white md:grid-cols-3 grid grid-cols-1">
+    <div className="h-screen w-full bg-white md:grid-cols-3 grid grid-cols-1">
       {/* <!-- Nav --> */}
-      <aside class="md:h-full md:w-full w-full h-16 flex md:flex-col flex-row  items-center justify-between px-3 md:justify-center bg-gray-800 text-white overflow-hidden">
+      <aside className="md:h-full flex flex-wrap md:block md:flex-row md:w-full w-full h-16 mx-auto items-center bg-gray-800 text-white ">
         {/* <!-- Logo --> */}
-        <div class="h-10 w-30 flex px-2 items-center justify-center rounded-lg cursor-pointer hover:text-gray-800 hover:bg-white  hover:duration-300 hover:ease-linear focus:bg-white">
-          My Expositor
-        </div>
-
-        {/* <!-- Bible --> */}
-        <div
-          onClick={handleToggleChapters}
-          class="h-10 px-2 flex flex-row space-x-2 items-center justify-center rounded-lg cursor-pointer hover:text-gray-800 hover:bg-white  hover:duration-300 hover:ease-linear focus:bg-white"
+        <Link
+          href="/"
+          className="h-10 mr-auto text-white w-32 px-2 flex justify-center items-center rounded-lg cursor-pointer hover:text-gray-800 hover:bg-white  hover:duration-300 hover:ease-linear focus:bg-white"
         >
-          <BibleIcon />
-          <div>Chapters</div>
-        </div>
-        {!hidden && (
+          My Expositor
+        </Link>
+
+        {/* <!-- menu --> */}
+        <div className="block ml-auto text-base  items-center ">
+          {/* <!-- icon --> */}
+          <div className="block md:hidden">
+            <button
+              onClick={handleToggleMenu}
+              className="flex items-center px-3 py-2 rounded text-black-500 hover:text-black-400"
+            >
+              <svg
+                className={`fill-current h-3 w-3 ${
+                  menuIsOpen ? "hidden" : "block"
+                }`}
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
+              </svg>
+              <svg
+                className={`fill-current h-3 w-3 ${
+                  menuIsOpen ? "block" : "hidden"
+                }`}
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z" />
+              </svg>
+            </button>
+          </div>
+
+          {/* <!-- dropdown --> */}
           <div
             id="dropdownNavbar"
-            class="z-10 font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600"
+            className={`z-50  divide-y ${
+              menuIsOpen ? "" : "hidden"
+            } divide-gray-100 rounded-lg bg-gray-800 shadow `}
           >
-            <ul
-              class="py-2 text-sm text-gray-700 dark:text-gray-400"
-              aria-labelledby="dropdownLargeButton"
-            >
+            <ul className="py-2 text-sm flex flex-col items-center justify-center bg-gray-800 cursor-pointer">
               <li>
-                <a
-                  href="#"
-                  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                <Link
+                  href=" "
+                  className="block text-white px-4 py-2 hover:bg-gray-100 dark:hover:text-white cursor-pointer "
                 >
                   Dashboard
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="#"
-                  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                <Link
+                  href=" "
+                  className="block text-white px-4 py-2 hover:bg-gray-100 dark:hover:text-white cursor-pointer"
                 >
                   Settings
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="#"
-                  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                <Link
+                  href=" "
+                  className="block text-white px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                 >
                   Earnings
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
-        )}
+        </div>
       </aside>
-
       <aside className="relative overflow-y-scroll col-span-2 px-10">
         {children}
       </aside>
