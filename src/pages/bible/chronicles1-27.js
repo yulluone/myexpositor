@@ -116,7 +116,7 @@ export default function Chronicles127() {
           twenty and four thousand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4630687">
                   <span className="calibre_19">
@@ -215,7 +215,7 @@ export default function Chronicles127() {
           king David.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This wrath of God against Israel was all because of David
                 disobeying the Word of God, and not supplying the half-shekel of
                 silver of the Sanctuary, as he was commanded to do. This was
@@ -319,7 +319,7 @@ export default function Chronicles127() {
           was Joab.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4638496">
                   <span className="calibre_19">

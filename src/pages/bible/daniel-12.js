@@ -19,7 +19,7 @@ export default function Daniel12() {
           delivered, everyone who shall be found written in the Book.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Michael is the great Archangel; he is also referred to as the
                 Great Prince. He is the Lord Protector of Israel, which stands
                 for the children of your people. If not for him, Israel would no
@@ -145,7 +145,7 @@ export default function Daniel12() {
           shame and everlasting contempt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are two Resurrections pointed to in this Verse. These are
                 separated by a long period of a thousand years [
                 <ScrollLink href="/revelation-20" scrollToId="#filepos15122458">
@@ -233,7 +233,7 @@ export default function Daniel12() {
           righteousness as the stars for ever and ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wise are they who live for God and do everything they can
                 to take the Gospel to others.)
               </span>
@@ -253,7 +253,7 @@ export default function Daniel12() {
           fro, and knowledge shall be increased.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But you, O Daniel, shut up the words, and seal the Book, means
                 that Daniel has been given the entire blueprint concerning the
                 fate of Israel, and nothing else is to be said. The phrase, Even
@@ -288,7 +288,7 @@ export default function Daniel12() {
           and the other on that side of the bank of the river.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel is speaking of the River Hiddekel, i.e. the Tigris,
                 which is close to the Euphrates. The other two spoken of here
                 probably refer to Angels, with no identification given.)
@@ -304,7 +304,7 @@ export default function Daniel12() {
           the end of these wonders?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Man clothed in linen, no doubt, refers to the same One
                 described in{" "}
                 <ScrollLink href="/daniel-10" scrollToId="#filepos9902896">
@@ -331,14 +331,14 @@ export default function Daniel12() {
           it shall be for a time, times, and an half; and when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           shall have accomplished to scatter the power of the holy people, all
           these things shall be finished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The swearing of this Man proves Him to be a Divine Person, for
                 not one time in Scripture does an ordinary Angel make an oath to
                 God or man.
@@ -387,7 +387,7 @@ export default function Daniel12() {
           the words are closed up and sealed till the time of the end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse declares that these Prophecies belong to the future.
                 However, the time of the end is now very close!
               </span>
@@ -415,7 +415,7 @@ export default function Daniel12() {
           wicked shall understand; but the wise shall understand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many shall be purified, and made white, and tried, could refer
                 to the Church, but could also refer to the 144,000 Jews who will
                 come to Christ during the first half of the Great Tribulation.
@@ -455,7 +455,7 @@ export default function Daniel12() {
           sacrifice shall be taken away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the midpoint of the Great Tribulation)
               </span>
             </span>
@@ -463,7 +463,7 @@ export default function Daniel12() {
           , and the abomination that makes desolate set up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers back to{" "}
                 <ScrollLink href="/daniel-08" scrollToId="#filepos9865687">
                   <span className="calibre_19">
@@ -485,7 +485,7 @@ export default function Daniel12() {
           to the thousand three hundred and five and thirty days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is forty-five days more than the number of days given in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9958044">
                   <span className="calibre_19">
@@ -525,7 +525,7 @@ export default function Daniel12() {
           for you shall rest, and stand in your lot at the end of the days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But go You your way till the end be, refers to Daniel dying and
                 then being a part of the First Resurrection of Life. Until that
                 time, Christ said, you shall rest.

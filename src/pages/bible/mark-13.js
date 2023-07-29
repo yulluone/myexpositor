@@ -337,7 +337,7 @@ export default function Mark13() {
           and deliver you up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to persecution)</span>
+              <span className="explanation">(refers to persecution)</span>
             </span>
           </span>
           , take no thought beforehand what you shall speak, neither do you
@@ -513,7 +513,7 @@ export default function Mark13() {
           to take any thing out of his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(make haste)</span>
+              <span className="explanation">(make haste)</span>
             </span>
           </span>
           :
@@ -530,7 +530,7 @@ export default function Mark13() {
           <sup className="calibre7">17</sup>But woe to them who are with child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pregnant women)</span>
+              <span className="explanation">(pregnant women)</span>
             </span>
           </span>
           , and to them who give suck in those days!{" "}
@@ -549,7 +549,7 @@ export default function Mark13() {
           in the winter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bad weather)</span>
+              <span className="explanation">(bad weather)</span>
             </span>
           </span>
           .
@@ -621,7 +621,7 @@ export default function Mark13() {
           , He hath shortened the days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by how much, we arent told)</span>
+              <span className="explanation">(by how much, we arent told)</span>
             </span>
           </span>
           .
@@ -647,7 +647,7 @@ export default function Mark13() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Messiah)</span>
+              <span className="explanation">(Messiah)</span>
             </span>
           </span>
           ; or, lo,{" "}
@@ -726,7 +726,7 @@ export default function Mark13() {
           <sup className="calibre7">24</sup>But in those days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>
           , after that tribulation, the sun shall be darkened, and the moon
@@ -794,7 +794,7 @@ export default function Mark13() {
           the Son of Man coming{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>{" "}
           in the clouds{" "}
@@ -1045,7 +1045,7 @@ export default function Mark13() {
           , and gave authority to his servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pertains to every Believer)</span>
+              <span className="explanation">(pertains to every Believer)</span>
             </span>
           </span>
           , and to every man his work{" "}
@@ -1106,13 +1106,13 @@ export default function Mark13() {
           <sup className="calibre7">37</sup>And what I say unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Disciples and Israel)</span>
+              <span className="explanation">(the Disciples and Israel)</span>
             </span>
           </span>{" "}
           I say unto all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(includes the Church)</span>
+              <span className="explanation">(includes the Church)</span>
             </span>
           </span>
           , Watch{" "}

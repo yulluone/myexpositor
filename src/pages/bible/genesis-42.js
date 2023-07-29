@@ -18,13 +18,13 @@ export default function Genesis42() {
           corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           in Egypt, Jacob said unto his sons, Why do you look one upon another?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, go down into Egypt and buy grain!)
               </span>
             </span>
@@ -37,14 +37,14 @@ export default function Genesis42() {
           that there is corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           in Egypt: get you down thither, and buy for us from thence; that we
           may live, and not die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, the famine was severe in Canaan)
               </span>
             </span>
@@ -58,13 +58,13 @@ export default function Genesis42() {
           buy corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           in Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a group of this nature was much safer than one or two making
                 the trip)
               </span>
@@ -80,7 +80,7 @@ export default function Genesis42() {
           befall him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not only did Jacob love this boy, and because he was the son of
                 Rachel, but, as well, he no doubt felt, Joseph now being lost,
                 that the Lord would place the mantel on Benjamin)
@@ -96,13 +96,13 @@ export default function Genesis42() {
           corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           among those who came{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many others from Canaan and other parts of the Middle East were
                 in Egypt, as well, in order to buy grain)
               </span>
@@ -119,7 +119,7 @@ export default function Genesis42() {
           faces to the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephs dream concerning the sheaves bowing down to him [
                 <ScrollLink href="/genesis-37" scrollToId="#filepos499214">
                   <span className="calibre_19">
@@ -143,7 +143,7 @@ export default function Genesis42() {
           From the land of Canaan to buy food.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Had Joseph thought of his own dignity and of his own affection,
                 he would have revealed himself at once to his brothers. Such a
                 revelation, however, would have produced only confusion, but not
@@ -170,7 +170,7 @@ export default function Genesis42() {
           the nakedness of the land you are come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this accusation was morally true; for the men who were guilty
                 of the treachery, cruelty, and stupidity of{" "}
                 <ScrollLink href="/genesis-34" scrollToId="#filepos470148">
@@ -227,7 +227,7 @@ export default function Genesis42() {
           brother come hither.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Reasoning that Jacob had probably transferred the birthright to
                 Benjamin, he wanted to know the attitude of these men toward
                 Benjamin. So he proves them.)
@@ -253,7 +253,7 @@ export default function Genesis42() {
           ward three days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Likewise, Israel will be under tremendous pressure by the
                 Antichrist for a little over three years.)
               </span>
@@ -267,7 +267,7 @@ export default function Genesis42() {
           day, This do, and live; for I fear God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what must these men have thought when Joseph mentions Elohim,
                 the God of the Hebrews? All of this had to be extremely strange
                 to them, because they knew that Elohim was little known, if at
@@ -284,13 +284,13 @@ export default function Genesis42() {
           brethren be bound in the house of your prison: go you, carry corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           for the famine of your houses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph now softens his demands, in that he at first stated that
                 nine of the brothers would remain in Egypt, while one was sent
                 to fetch Benjamin; but now he limits that to just one remaining
@@ -308,7 +308,7 @@ export default function Genesis42() {
           did so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when they return, Benjamin must come with them)
               </span>
             </span>
@@ -324,7 +324,7 @@ export default function Genesis42() {
           this distress come upon us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Israel in a coming sad day, of which they are a type, the
                 brothers of Joseph are called to pass through deep and searching
                 trial, through intensely painful exercises of conscience)
@@ -341,7 +341,7 @@ export default function Genesis42() {
           you would not hear? therefore, behold, also his blood is required{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after all of these years, their consciences still bother them,
                 and rightly so! Sin can only be forgotten when it is properly
                 forgiven by the Lord. And it cannot be properly forgiven until
@@ -358,7 +358,7 @@ export default function Genesis42() {
           understood them; for he spoke unto them by an interpreter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but he did understand them)</span>
+              <span className="explanation">(but he did understand them)</span>
             </span>
           </span>
         </span>
@@ -374,7 +374,7 @@ export default function Genesis42() {
           and took from them Simeon, and bound him before their eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (why Simeon was chosen, we arent told; he could have been the
                 ringleader in the terrible sin that had been committed against
                 Joseph those long years earlier)
@@ -390,14 +390,14 @@ export default function Genesis42() {
           sacks with corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>
           , and to restore every mans money into his sack, and to give them
           provision for the way: and thus did he unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this coincides with the sustenance that the Lord will give
                 Israel during the Great Tribulation [
                 <ScrollLink href="/revelation-12" scrollToId="#filepos15009136">
@@ -420,7 +420,7 @@ export default function Genesis42() {
           corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>
           , and departed thence.
@@ -432,13 +432,13 @@ export default function Genesis42() {
           to give his ass provender in the inn, he espied{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(found)</span>
+              <span className="explanation">(found)</span>
             </span>
           </span>{" "}
           his money; for, behold, it was in his sacks mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(easily found)</span>
+              <span className="explanation">(easily found)</span>
             </span>
           </span>
         </span>
@@ -452,7 +452,7 @@ export default function Genesis42() {
           that God has done unto us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Actually, they were right! It was God Who was guiding these
                 events, giving Joseph instructions all along the way as to how
                 he could handle the situation; however, because of their sin, a
@@ -516,7 +516,7 @@ export default function Genesis42() {
           were afraid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From the terminology used by these men at this present time, it
                 is obvious that a change has taken place in their lives;
                 however, it is a change that is not quite yet complete.)
@@ -536,7 +536,7 @@ export default function Genesis42() {
           me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob thinks that Joseph is dead; and likewise, Israel thinks
                 that Jesus is dead, denying that He rose from the dead.)
               </span>
@@ -550,7 +550,7 @@ export default function Genesis42() {
           saying, Kill my two sons, if I bring him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Benjamin)</span>
+              <span className="explanation">(Benjamin)</span>
             </span>
           </span>{" "}
           not to you: deliver him into my hand, and I will bring him to you
@@ -565,7 +565,7 @@ export default function Genesis42() {
           bring down my gray hairs with sorrow to the grave.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse speaks of Jacobs great sorrow. The Great Tribulation
                 Period is called the time of Jacobs trouble. But then it says,
                 but he shall be saved out of it [

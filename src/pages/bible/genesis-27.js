@@ -18,7 +18,7 @@ export default function Genesis27() {
           was old, and his eyes were dim, so that he could not see{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the physical dimness, there was spiritual dimness as well)
               </span>
             </span>
@@ -26,7 +26,7 @@ export default function Genesis27() {
           , he called Esau his oldest son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (older than Jacob by just a few minutes; in fact, they were
                 twins, but totally dissimilar in both appearance and character)
               </span>
@@ -41,7 +41,7 @@ export default function Genesis27() {
           know not the day of my death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, it would be many years before Isaac would die)
               </span>
             </span>
@@ -56,7 +56,7 @@ export default function Genesis27() {
           me some venison{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esau sold his birthright for a mess of pottage; his father was
                 prepared to sell it for a dish of venison! Williams says:
                 Humbling picture of a man of God under the power of his lower
@@ -74,7 +74,7 @@ export default function Genesis27() {
           before I die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was to be the blessing of the birthright; Isaac had been
                 told by God at the time of Jacobs birth that Jacob was to
                 possess the birthright. But yet he ignores this Word from the
@@ -92,7 +92,7 @@ export default function Genesis27() {
           bring it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rebekah, overhearing the intentions of Isaac, proceeds now to
                 manage the affairs herself; therefore, she steps outside the
                 path of Faith.)
@@ -108,7 +108,7 @@ export default function Genesis27() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the history of Jacob is a treasure house of spiritual
                 instruction for the people of God; Jacob as no other man
                 symbolizes the Sanctification process; Jacob symbolizes it so
@@ -132,7 +132,7 @@ export default function Genesis27() {
           according to that which I command you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rebekah schemes in order to get Jacob the birthright, exactly
                 as Sarah schemed to give Abraham a son; both were on the path of
                 self-will)
@@ -149,7 +149,7 @@ export default function Genesis27() {
           meat for your father, such as he loves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacobs history, as we shall see, teaches the lesson which the
                 natural will is so unwilling to learn, that planning for self
                 instead of resting in the Hand of God brings sorrow)
@@ -165,7 +165,7 @@ export default function Genesis27() {
           father, that he may eat, and that he may bless you before his death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to obtain the birthright by subterfuge)
               </span>
             </span>
@@ -179,7 +179,7 @@ export default function Genesis27() {
           mother, Behold, Esau my brother is a hairy man, and I am a smooth man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now the deception begins in earnest)
               </span>
             </span>
@@ -194,7 +194,7 @@ export default function Genesis27() {
           me, and not a blessing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As shown here, Jacob was the most unlovely member of the
                 family; yet Grace chose him to be the head of all the nations of
                 the Earth.)
@@ -209,7 +209,7 @@ export default function Genesis27() {
           me be your curse, my son: only obey my voice, and go fetch me them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham and Sarah attempted to deceive Pharaoh; Isaac and
                 Rebekah attempted to deceive Abimelech; Jacob and Rebekah
                 attempted to deceive Isaac. Such is the path of self-will.)
@@ -224,7 +224,7 @@ export default function Genesis27() {
           brought them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(two kids of the goats)</span>
+              <span className="explanation">(two kids of the goats)</span>
             </span>
           </span>{" "}
           to his mother: and his mother made savoury meat, such as his father
@@ -250,7 +250,7 @@ export default function Genesis27() {
           the bread, which she had prepared, into the hand of her son Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this which we observe is a perfect description of
                 resorting to the flesh; such never pleases God [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13393992">
@@ -280,7 +280,7 @@ export default function Genesis27() {
           pray thee, sit and eat of my venison, that your soul may bless me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob lies to his father, which God can never condone)
               </span>
             </span>
@@ -295,7 +295,7 @@ export default function Genesis27() {
           LORD your God brought it to me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a Believers sin is worse than the sin of an unbeliever, simply
                 because it makes the Lord, in essence, a part of the sin; thus,
                 blasphemy is added to disobedience)
@@ -312,7 +312,7 @@ export default function Genesis27() {
           son Esau or not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Henry says, It was one of those crooked measures which have too
                 often been adopted to accomplish the Divine Promises; as if the
                 end would justify, or at least excuse, the means.)
@@ -327,20 +327,20 @@ export default function Genesis27() {
           father; and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Isaac)</span>
+              <span className="explanation">(Isaac)</span>
             </span>
           </span>{" "}
           felt him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>
           , and said, The voice is Jacobs voice, but the hands are the hands of
           Esau{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of this transaction speaks of fraud)
               </span>
             </span>
@@ -354,7 +354,7 @@ export default function Genesis27() {
           his hands were hairy, as his brother Esaus hands: so he blessed him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac was wrong; Rebekah was wrong; and Jacob was wrong.)
               </span>
             </span>
@@ -395,7 +395,7 @@ export default function Genesis27() {
           heaven, and the fatness of the Earth, and plenty of corn and wine:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are two grand points brought out in Jacobs history Gods
                 purpose of Grace, on the one hand; and on the other, self-will
                 plotting and scheming to reach what that purpose would have
@@ -413,7 +413,7 @@ export default function Genesis27() {
           who blesses you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This part of the Blessing points to Christ, Who would be in the
                 lineage of Jacob. God did not need the aid of such elements as
                 Rebekahs cunning and Jacobs gross deceit in order to accomplish
@@ -444,7 +444,7 @@ export default function Genesis27() {
           father arise, and eat of his sons venison, that your soul may bless me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Jacob had tried to obtain the birthright by having
                 Esau sell it to him, it is obvious here that Esau did not
                 recognize what had transpired [
@@ -468,7 +468,7 @@ export default function Genesis27() {
           Who are you? And he said, I am your son, your firstborn Esau.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esau represents those in the Church who would walk the path of
                 self-will. Jacob represents those who know the path of Faith,
                 but would leave that path and suffer greatly. Isaac represents
@@ -485,7 +485,7 @@ export default function Genesis27() {
           <sup className="calibre7">33</sup>And Isaac trembled very exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he trembled exceedingly at what he had almost done in giving
                 the birthright to Esau, considering that he had been told by God
                 at the time of Jacobs birth that he [Jacob] was to possess the
@@ -500,7 +500,7 @@ export default function Genesis27() {
           yes, and he shall be blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the will of the flesh made Isaac wish to bless Esau, but Faith
                 in the end conquered [
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14566002">
@@ -528,7 +528,7 @@ export default function Genesis27() {
           his father, Bless me, even me also, O my father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esau wanted the material part of the blessing, but had no
                 regard whatsoever for the spiritual part; unfortunately, far too
                 many in the modern Church follow the same path of material
@@ -552,14 +552,14 @@ export default function Genesis27() {
           <sup className="calibre7">35</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Isaac)</span>
+              <span className="explanation">(Isaac)</span>
             </span>
           </span>{" "}
           said, Your brother came with subtilty, and has taken away your
           blessing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the birthright normally belonged to the firstborn, which Esau
                 here claims; however, it had been promised to Jacob by the Lord
                 [
@@ -583,7 +583,7 @@ export default function Genesis27() {
           <sup className="calibre7">36</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Esau)</span>
+              <span className="explanation">(Esau)</span>
             </span>
           </span>{" "}
           said, Is not he rightly named Jacob? for he has supplanted me these
@@ -592,7 +592,7 @@ export default function Genesis27() {
           me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (First of all, the blessing went with the birthright. As well,
                 only one son could inherit the spiritual prerogatives of the
                 birthright, and the temporal lordship which accompanied it.)
@@ -609,7 +609,7 @@ export default function Genesis27() {
           him: and what shall I do now unto you, my son?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, there is no more blessing, and rightly so! All
                 Blessing comes in and through Christ and what He did at the
                 Cross, and Esau had no regard for that. Millions want the
@@ -626,7 +626,7 @@ export default function Genesis27() {
           And Esau lifted up his voice, and wept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, once again we reiterate, his remorse was not for the
                 true blessing, but only for the material benefits)
               </span>
@@ -642,7 +642,7 @@ export default function Genesis27() {
           Earth, and of the dew of heaven from above{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (most Expositors consider that the preposition of should be
                 translated from; thus, it would read, Behold, your dwelling
                 shall be away from the fat places of the Earth, and away from
@@ -658,7 +658,7 @@ export default function Genesis27() {
           <sup className="calibre7">40</sup>And by your sword shall you live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they have been, and are, a violent people)
               </span>
             </span>
@@ -666,7 +666,7 @@ export default function Genesis27() {
           , and you shall serve your brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Edomites were the descendants of Esau, and they served
                 Israel for nearly 900 years)
               </span>
@@ -676,7 +676,7 @@ export default function Genesis27() {
           shall break his yoke from off your neck{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the first days of Joram, and then of Ahaz, Edom revolted,
                 and recovered its freedom, exactly as Isaac had prophesied; so,
                 in reality, there was no blessing for Esau, as there can be no
@@ -697,7 +697,7 @@ export default function Genesis27() {
           blessing wherewith his father blessed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite the deception, Esau had no cause to hate Jacob; he knew
                 that the prophecy had given the birthright to Jacob; as well, he
                 knew that his profligate lifestyle did not warrant such; he had
@@ -711,7 +711,7 @@ export default function Genesis27() {
           at hand; then will I kill my brother Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the flesh always tries to kill that which is of the Spirit)
               </span>
             </span>
@@ -727,7 +727,7 @@ export default function Genesis27() {
           does comfort himself, purposing to kill you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob himself was a sad illustration of the destructive power
                 of fallen human nature. But yet, he truly loved the Lord, and
                 truly wanted the things of the Lord. He just tried to obtain
@@ -743,7 +743,7 @@ export default function Genesis27() {
           voice; and arise, flee thou to Laban my brother to Haran{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now, the bitter fruits of sin rise to the surface)
               </span>
             </span>
@@ -757,7 +757,7 @@ export default function Genesis27() {
           your brothers fury turn away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that few days would turn into twenty years; in fact, Jacob
                 would never see his mother again)
               </span>
@@ -782,7 +782,7 @@ export default function Genesis27() {
           daughters of the land, what good shall my life do me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no doubt that Rebekah was concerned about the
                 daughters of the land, and none of them being a suitable wife
                 for Jacob; however, her real reason at this time for sending

@@ -39,7 +39,7 @@ export default function Deuteronmy03() {
           cities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(60)</span>
+              <span className="explanation">(60)</span>
             </span>
           </span>
           , all the region of Argob, the kingdom of Og in Bashan.
@@ -58,7 +58,7 @@ export default function Deuteronmy03() {
           children, of every city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again, with the Lord leading the charge, victory is certain in
                 all capacities)
               </span>
@@ -100,19 +100,19 @@ export default function Deuteronmy03() {
           is it not in Rabbath of the children of Ammon? nine cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(13 feet)</span>
+              <span className="explanation">(13 feet)</span>
             </span>
           </span>{" "}
           was the length thereof, and four cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>{" "}
           the breadth of it, after the cubit of a man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, a part of the population was made up of the giants,
                 which were easily defeated by Gods people. To have the help of
                 the Lord is to have everything. To not have that help is to have
@@ -167,13 +167,13 @@ export default function Deuteronmy03() {
           coast thereof, from Chinnereth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>{" "}
           even unto the sea of the plain, even the Salt Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Dead Sea)</span>
+              <span className="explanation">(Dead Sea)</span>
             </span>
           </span>
           , under Ashdoth-pisgah eastward.
@@ -220,7 +220,7 @@ export default function Deuteronmy03() {
           LORD your God He shall fight for you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the Lord fights for us, victory is guaranteed. He will do
                 so presently, that is if our Faith has the correct Object, which
                 must always be the Cross [
@@ -268,7 +268,7 @@ export default function Deuteronmy03() {
           suffice you; speak no more unto Me of this matter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As much as wrongly striking the Rock the second time, which, in
                 effect, denied the veracity of Calvary, which was a grievous
                 sin, Moses being the great Lawgiver, and due to the fact that
@@ -302,7 +302,7 @@ export default function Deuteronmy03() {
           he shall cause them to inherit the land which you shall see{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Law could see Salvation, but it took Faith to obtain it [
                 <ScrollLink href="/ephesians-2" scrollToId="#filepos14010259">
                   <span className="calibre_19">

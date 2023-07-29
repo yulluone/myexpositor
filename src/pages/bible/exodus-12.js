@@ -18,7 +18,7 @@ export default function Exodus12() {
           Aaron in the land of Egypt saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter is a perfect picture of Christ, the True Pascal
                 Lamb)
               </span>
@@ -33,7 +33,7 @@ export default function Exodus12() {
           beginning of months: it shall be the first month of the year to you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The person doesnt really begin to live until he comes to
                 Christ; as well, the Believer doesnt really begin to enjoy the
                 more abundant life afforded him by Christ until he learns Gods
@@ -146,7 +146,7 @@ export default function Exodus12() {
           Israel, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Another great lesson learned here is the fact that neither
                 Moses nor Aaron introduced any legislation of their own, either
                 at this time or later. The whole system, spiritual, political,
@@ -163,7 +163,7 @@ export default function Exodus12() {
           lamb, according to the house of their fathers, a lamb for an house:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the{" "}
                 <ScrollLink href="/genesis-04" scrollToId="#filepos62716">
                   <span className="calibre_19">
@@ -220,7 +220,7 @@ export default function Exodus12() {
           eating shall make your count for the lamb.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every person had to partake of the Passover. This was
                 mandatory. Even though the lamb represented the entire house, it
                 had to be partaken by each and every individual in that house.
@@ -236,7 +236,7 @@ export default function Exodus12() {
           <sup className="calibre7">5</sup>Your lamb shall be without blemish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ was without blemish, Who the lamb represented, holy,
                 harmless, undefiled a lamb without spot [
                 <ScrollLink href="/peter1-1" scrollToId="#filepos14682758">
@@ -253,7 +253,7 @@ export default function Exodus12() {
           , a male of the first year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meant to portray the virile manhood of Christ; in other words,
                 He didnt die in the throes of old age, but rather in the prime
                 of manhood)
@@ -263,7 +263,7 @@ export default function Exodus12() {
           : you shall take it out from the sheep, or from the goats{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the goats then represented were different from our goats
                 presently; then they were very similar to the sheep, actually,
                 with their long flowing mane, even more beautiful than the
@@ -280,7 +280,7 @@ export default function Exodus12() {
           fourteenth day of the same month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were to select the animal on the tenth day, and then kill
                 it on the fourteenth day [
                 <ScrollLink href="/" scrollToId="#filepos822857">
@@ -300,7 +300,7 @@ export default function Exodus12() {
           in the evening.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The actual Hebrew says, between the two evenings, which was
                 about 3 p.m. This was the exact time that Jesus died on the
                 Cross of Calvary [
@@ -322,7 +322,7 @@ export default function Exodus12() {
           <sup className="calibre7">7</sup>And they shall take of the blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which represented the shed Blood of the Lord Jesus Christ)
               </span>
             </span>
@@ -331,7 +331,7 @@ export default function Exodus12() {
           the houses, wherein they shall eat it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (eat the Passover; in{" "}
                 <ScrollLink
                   href="/corinthians1-05"
@@ -386,7 +386,7 @@ export default function Exodus12() {
           night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, Jesus was referring to this in{" "}
                 <ScrollLink href="/john-06" scrollToId="#filepos12421893">
                   <span className="calibre_19">
@@ -405,7 +405,7 @@ export default function Exodus12() {
           , roast with fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this spoke of the Judgment of God that would come upon Him as
                 the Sin-Bearer, which was death, instead of us)
               </span>
@@ -414,7 +414,7 @@ export default function Exodus12() {
           , and unleavened bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this typified the Perfection of Christ; He was Holy, harmless,
                 and undefiled [
                 <ScrollLink href="/hebrews-07" scrollToId="#filepos14498995">
@@ -431,7 +431,7 @@ export default function Exodus12() {
           ; and with bitter herbs they shall eat it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the bitter herbs were to remind the Children of Israel of the
                 slavery which they had experienced in Egypt [
                 <ScrollLink href="/exodus-01" scrollToId="#filepos687138">
@@ -455,7 +455,7 @@ export default function Exodus12() {
           with water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of accepting Christ, but without the Cross, which
                 God cannot condone)
               </span>
@@ -464,7 +464,7 @@ export default function Exodus12() {
           , but roast with fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Cross and the price paid there)
               </span>
             </span>
@@ -472,7 +472,7 @@ export default function Exodus12() {
           ; his head with his legs, and with the purtenance thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The purtenance pertained to the intestines, which were removed
                 and washed, and then placed back in the animal and, as obvious
                 here, to be eaten when the lamb was consumed. This speaks of
@@ -491,7 +491,7 @@ export default function Exodus12() {
           remain until the morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of it must be consumed, referring to the fact that we must
                 accept all of Christ, or else we will not have any of Christ;
                 untold millions attempt to accept Christ as a good man, a great
@@ -516,7 +516,7 @@ export default function Exodus12() {
           fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us that Christ cannot be received in stages. He can
                 only be received in totality. Burning the remainder with fire
                 once again points to the Cross. We must always remember, Christ
@@ -532,7 +532,7 @@ export default function Exodus12() {
           loins girded, your shoes on your feet, and your staff in your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that they were leaving Egypt; after the Law
                 was given, and Israel was safely ensconced in the Promised Land,
                 they were to eat the Passover resting, and for all the obvious
@@ -543,7 +543,7 @@ export default function Exodus12() {
           ; and you shall eat it in haste{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the same admonition, however, should hold true for the modern
                 Believer, in that we should be eagerly awaiting the moment when
                 the Trump of God shall sound and, thereby, we will be raptured
@@ -565,7 +565,7 @@ export default function Exodus12() {
           : it is the LORDs Passover.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Pink says: The Death of Christ glorified God
                 if never a single sinner had been saved by the virtue of it. The
                 more we study the teaching of Scripture on this subject, and the
@@ -597,7 +597,7 @@ export default function Exodus12() {
           execute judgment: I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words pass through could be translated go through, since
                 the word used is entirely unconnected with the Passover.
                 According to{" "}
@@ -624,7 +624,7 @@ export default function Exodus12() {
           token upon the houses where you are{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the blood applied to the door posts meant that their Faith and
                 trust were in the Pascal Lamb; the blood then applied was only a
                 token, meaning that it was then but a symbol of One Who was to
@@ -636,7 +636,7 @@ export default function Exodus12() {
           : and when I see the blood, I will pass over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is, without a doubt, one of the single most important
                 Scriptures in the entirety of the Word of God; the lamb had
                 taken the fatal blow; and because it had taken the blow, those
@@ -668,7 +668,7 @@ export default function Exodus12() {
           the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Salvation from the plague of Judgment is afforded only by the
                 shed Blood of the Lamb, and Faith in that shed Blood.)
               </span>
@@ -683,7 +683,7 @@ export default function Exodus12() {
           generations; you shall keep it a feast by an ordinance forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passover is continued in the Lords Supper [
                 <ScrollLink
                   href="/corinthians1-05"
@@ -715,7 +715,7 @@ export default function Exodus12() {
           bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Feast of Unleavened Bread was to be kept in conjunction
                 with the Passover Feast; the Unleavened Bread symbolized the
                 Perfection of Christ; the number seven symbolized His Perfection
@@ -729,7 +729,7 @@ export default function Exodus12() {
           day, that soul shall be cut off from Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (would be eternally lost; sin destroys and destroys completely!
                 the entire idea of the Cross was to atone for all sin and, as
                 well, to make it possible for the Believer to live a life free
@@ -781,7 +781,7 @@ export default function Exodus12() {
           an holy convocation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was holy unto the Lord, and what it typified, which
                 speaks of what Christ did at the Cross, had better be holy to
                 us, as well)
@@ -791,7 +791,7 @@ export default function Exodus12() {
           , and in the seventh day there shall be an holy convocation to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first day and the seventh day indicated that the entirety
                 of this convocation was holy)
               </span>
@@ -800,7 +800,7 @@ export default function Exodus12() {
           ; no manner of work shall be done in them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that it is not of works, lest any man should boast [
                 <ScrollLink href="/ephesians-2" scrollToId="#filepos14010259">
                   <span className="calibre_19">
@@ -816,7 +816,7 @@ export default function Exodus12() {
           , save that which every man must eat, that only may be done of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only works that God will recognize is the Work of Christ at
                 the Cross, and our Faith in that Finished Work)
               </span>
@@ -833,7 +833,7 @@ export default function Exodus12() {
           generations by an ordinance forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross is referred to as The Everlasting Covenant [
                 <ScrollLink href="/hebrews-13" scrollToId="#filepos14606342">
                   <span className="calibre_19">
@@ -855,7 +855,7 @@ export default function Exodus12() {
           bread, until the one and twentieth day of the month at evening.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase in the first month, as it regards this Verse, refers
                 to the fact that Christ and His Cross are to be first and
                 foremost. In fact, the Cross is not within itself a Doctrine,
@@ -881,7 +881,7 @@ export default function Exodus12() {
           be a stranger, or born in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The absence of leaven proclaims the fact that what Jesus would
                 do would make it possible for us to live free of the domination
                 of sin. As well, Jesus Christ and Him Crucified is the answer
@@ -896,7 +896,7 @@ export default function Exodus12() {
           <sup className="calibre7">20</sup>You shall eat nothing leavened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that we are to have victory over all sin)
               </span>
             </span>
@@ -904,7 +904,7 @@ export default function Exodus12() {
           ; in all your habitations shall you eat unleavened bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the Bible doesnt teach sinless perfection, it definitely
                 does teach that sin is not to have dominion over us [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13355486">
@@ -928,7 +928,7 @@ export default function Exodus12() {
           to your families, and kill the Passover.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Elders of Israel were to take the lead, and the people were
                 to follow. If Preachers will presently preach the Cross, most of
                 the people will follow. Concerning the Passover, Pink says: The
@@ -964,7 +964,7 @@ export default function Exodus12() {
           <sup className="calibre7">22</sup>And you shall take a bunch of hyssop{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the hyssop was not connected with the Lamb, but with the
                 application of its blood; it speaks, then, not of Christ, but of
                 the sinners appropriation of the Sacrifice of Christ; hyssop was
@@ -976,7 +976,7 @@ export default function Exodus12() {
           and the two side posts with the blood that is in the bason{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the blood applied to the header [lintel] and two side
                 posts formed a perfect cross; we are to never regard the Cross
                 of Christ as a mere circumstance in the Life of Christ referring
@@ -999,7 +999,7 @@ export default function Exodus12() {
           morning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The death Angel was to come through at night and, beyond the
                 protection of the Blood of the Lamb, there was no assurance of
                 safety. In fact, there was no safety outside of this
@@ -1018,7 +1018,7 @@ export default function Exodus12() {
           suffer the destroyer to come in unto your houses to smite you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word destroyer implies the fact that the Lord sent an Angel
                 to carry out this task. The only protection from judgment is the
                 Cross of Christ.)
@@ -1033,7 +1033,7 @@ export default function Exodus12() {
           an ordinance to you and to your sons forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some three times the Lord ordered Israel to keep the Feast of
                 the Passover forever [
                 <ScrollLink href="/" scrollToId="#filepos836297">
@@ -1083,7 +1083,7 @@ export default function Exodus12() {
           promised, that you shall keep this service.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every Promise of God is based, without exception, on the great
                 Sacrifice of Christ.)
               </span>
@@ -1097,7 +1097,7 @@ export default function Exodus12() {
           children shall say unto you, What mean you by this service?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, we are plainly told that it is our
                 responsibility to properly relate and explain the great
                 Sacrifice of Christ to our children. This we must not fail to
@@ -1115,7 +1115,7 @@ export default function Exodus12() {
           delivered our houses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The application of the Blood spelled Salvation for the Children
                 of Israel, but destruction for the Egyptians. Spiritually
                 speaking, it is no less presently!)
@@ -1125,7 +1125,7 @@ export default function Exodus12() {
           And the people bowed the head and worshipped.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Without a proper understanding of the Cross, true Worship of
                 God cannot be properly enjoined.)
               </span>
@@ -1139,7 +1139,7 @@ export default function Exodus12() {
           away, and did as the LORD had commanded Moses and Aaron, so did they.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They went to prepare the Passover, and no doubt paid careful
                 attention to that preparation. Their very lives and eternal
                 souls depended on it.)
@@ -1159,7 +1159,7 @@ export default function Exodus12() {
           the captive that was in the dungeon; and all the firstborn of cattle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blame for all the deaths of the firstborn in Egypt had to
                 be laid at the feet of Pharaoh, and not God.)
               </span>
@@ -1174,7 +1174,7 @@ export default function Exodus12() {
           cry in Egypt; for there was not a house where there was not one dead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Believing that the afterlife consisted of the prosperity of the
                 firstborn, what had happened to them was tantamount to a
                 Christian being consigned to eternal darkness, the loss of the
@@ -1193,7 +1193,7 @@ export default function Exodus12() {
           said.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At the beginning, the Monarch had asked the question, Who is
                 the Lord, that I should obey His Voice to let Israel go? [
                 <ScrollLink href="/exodus-05" scrollToId="#filepos733469">
@@ -1215,7 +1215,7 @@ export default function Exodus12() {
           herds, as you have said, and be gone; and bless me also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Trembling with fear, the Monarch requests of Moses and Aaron
                 that they should bless him also. To be sure, the less will be
                 blessed of the better.)
@@ -1231,7 +1231,7 @@ export default function Exodus12() {
           they said, We be all dead men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord knew this would happen; consequently, He told Israel,
                 as it regards the Passover, You shall eat it in haste [
                 <ScrollLink href="/" scrollToId="#filepos831872">
@@ -1254,7 +1254,7 @@ export default function Exodus12() {
           clothes upon their shoulders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(They were ready to go!)</span>
+              <span className="explanation">(They were ready to go!)</span>
             </span>
           </span>
         </span>
@@ -1265,7 +1265,7 @@ export default function Exodus12() {
           according to the word of Moses: and they borrowed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(asked)</span>
+              <span className="explanation">(asked)</span>
             </span>
           </span>{" "}
           of the Egyptians jewels of silver, and jewels of gold, and raiment:
@@ -1277,7 +1277,7 @@ export default function Exodus12() {
           in the sight of the Egyptians, so that they lent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gave, with no thought of it being returned)
               </span>
             </span>
@@ -1285,7 +1285,7 @@ export default function Exodus12() {
           unto them such things as they required. And they spoiled the Egyptians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that much gold and silver, etc., were given to the
                 Israelites)
               </span>
@@ -1303,13 +1303,15 @@ export default function Exodus12() {
           from Rameses to Succoth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a distance of about 15 miles)</span>
+              <span className="explanation">
+                (a distance of about 15 miles)
+              </span>
             </span>
           </span>
           , about six hundred thousand on foot who were men, beside children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to men of war, between 20 and 50 years of age; counting
                 all the women and children, and men over 50, the total number
                 was approximately 3 million)
@@ -1325,7 +1327,7 @@ export default function Exodus12() {
           with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egyptian sympathizers, of which the number was considerable)
               </span>
             </span>
@@ -1333,7 +1335,7 @@ export default function Exodus12() {
           ; and flocks, and herds, even very much cattle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Moses said, Not one hoof shall be left behind [
                 <ScrollLink href="/exodus-10" scrollToId="#filepos811511">
                   <span className="calibre_19">
@@ -1357,7 +1359,7 @@ export default function Exodus12() {
           neither had they prepared for themselves any victual.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were ordered to leave immediately, and did so.)
               </span>
             </span>
@@ -1370,7 +1372,7 @@ export default function Exodus12() {
           of Israel, who dwelt in Egypt, was four hundred and thirty years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This doesnt mean that they dwelt in Egypt for 430 years, but it
                 is rather from the time of Abraham, when he was 75 years old,
                 and called of God to leave Ur of Chaldees, that the 430 years
@@ -1388,7 +1390,7 @@ export default function Exodus12() {
           pass, that all the hosts of the LORD went out from the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, the hosts of the Lord, refers to the fact that they
                 belonged to Him.)
               </span>
@@ -1404,7 +1406,7 @@ export default function Exodus12() {
           their generations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This first Passover-night was a night of the Lord, much to be
                 observed; but the last Passover-night, in which Christ was
                 betrayed, and in which the first Passover, with the rest of the
@@ -1430,7 +1432,7 @@ export default function Exodus12() {
           eat thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is, they were the Lords by purchase bought with a
                 price; the unredeemed have no understanding of Christ and what
                 He has done for us at the Cross; consequently, they cannot
@@ -1447,7 +1449,7 @@ export default function Exodus12() {
           for money, when you have circumcised him, then shall he eat thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Circumcision has its antitype in the Cross. The male alone was
                 circumcised; the female was represented in the male. So, in the
                 Cross, Christ represents His Church, and hence the Church is
@@ -1489,7 +1491,7 @@ export default function Exodus12() {
           shall not eat thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ordinance of circumcision formed the grand boundary line
                 between the Israel of God and all the nations that were upon the
                 face of the Earth; the Cross of our Lord Jesus Christ forms the
@@ -1506,7 +1508,7 @@ export default function Exodus12() {
           neither shall you break a bone thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The flesh of the Lamb was not to be taken out of the house, but
                 rather eaten in the house, typifying the fact that none are
                 saved outside of the Family of God. The house is Christ. And let
@@ -1524,7 +1526,7 @@ export default function Exodus12() {
           keep it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As all of Israel was to keep the Passover, likewise, all
                 Believers must look to the Cross. There is no exception.)
               </span>
@@ -1541,7 +1543,7 @@ export default function Exodus12() {
           thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word stranger refers to Gentiles. They could come into the
                 Covenant, but only if they came Gods Way. It is the same
                 presently. To be saved, irrespective as to who the person might
@@ -1558,7 +1560,7 @@ export default function Exodus12() {
           homeborn, and unto the stranger who sojourns among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord doesnt have two ways of Salvation, only one. That is
                 Christ, even as it has always been Christ.)
               </span>
@@ -1572,7 +1574,7 @@ export default function Exodus12() {
           as the LORD commanded Moses and Aaron, so did they.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was the Word of the Lord, and to disobey meant death.)
               </span>
             </span>
@@ -1586,7 +1588,7 @@ export default function Exodus12() {
           Egypt by their armies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word armies refers to the fact that the people were
                 organized as they came out of Egypt, which means they did not
                 come out as a rabble. The Lord was their Captain and, through

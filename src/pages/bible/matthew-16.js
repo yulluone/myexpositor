@@ -134,7 +134,7 @@ export default function Matthew16() {
           and beware of the leaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false doctrine)</span>
+              <span className="explanation">(false doctrine)</span>
             </span>
           </span>{" "}
           of the Pharisees and of the Sadducees.
@@ -220,7 +220,7 @@ export default function Matthew16() {
           not to you concerning bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bread that one can eat)</span>
+              <span className="explanation">(bread that one can eat)</span>
             </span>
           </span>
           , that you should beware of the leaven of the Pharisees and of the
@@ -255,7 +255,7 @@ export default function Matthew16() {
           <sup className="calibre7">13</sup>When Jesus came into the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Caesarea Philippi{" "}
@@ -320,7 +320,7 @@ export default function Matthew16() {
           You are the Christ, the Son of the Living God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Great Confession)</span>
+              <span className="explanation">(the Great Confession)</span>
             </span>
           </span>
           .
@@ -346,7 +346,7 @@ export default function Matthew16() {
           unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mere human ingenuity)</span>
+              <span className="explanation">(mere human ingenuity)</span>
             </span>
           </span>
           , but My Father Who is in Heaven{" "}
@@ -442,7 +442,7 @@ export default function Matthew16() {
           <sup className="calibre7">19</sup>And I will give unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you refers to all Believers)</span>
+              <span className="explanation">(you refers to all Believers)</span>
             </span>
           </span>{" "}
           the keys of the Kingdom of Heaven{" "}
@@ -498,7 +498,7 @@ export default function Matthew16() {
           <sup className="calibre7">20</sup>Then charged He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Commanded)</span>
+              <span className="explanation">(Commanded)</span>
             </span>
           </span>
           His Disciples that they should tell no man that He was Jesus the

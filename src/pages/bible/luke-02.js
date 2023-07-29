@@ -233,7 +233,7 @@ export default function Luke02() {
           be to all people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(includes all races)</span>
+              <span className="explanation">(includes all races)</span>
             </span>
           </span>
           .
@@ -400,7 +400,7 @@ export default function Luke02() {
           <sup className="calibre7">20</sup>And the shepherds returned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to their flocks)</span>
+              <span className="explanation">(to their flocks)</span>
             </span>
           </span>
           , glorifying and praising God for all the things that they had heard
@@ -436,7 +436,7 @@ export default function Luke02() {
           , His Name was called JESUS{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(meaning Saviour)</span>
+              <span className="explanation">(meaning Saviour)</span>
             </span>
           </span>
           , which was so named of the Angel before He was conceived in the womb.
@@ -616,7 +616,7 @@ export default function Luke02() {
           : and when the parents{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joseph and Mary)</span>
+              <span className="explanation">(Joseph and Mary)</span>
             </span>
           </span>{" "}
           brought in the Child Jesus, to do for Him after the custom of the Law{" "}
@@ -840,7 +840,9 @@ export default function Luke02() {
           , of the Tribe of Aser{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Tribe of Asher)</span>
+              <span className="explanation">
+                (refers to the Tribe of Asher)
+              </span>
             </span>
           </span>
           : she was of a great age, and had lived with an husband seven years
@@ -931,7 +933,9 @@ export default function Luke02() {
           things according to the Law of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(referred to the Law of Moses)</span>
+              <span className="explanation">
+                (referred to the Law of Moses)
+              </span>
             </span>
           </span>
           , they returned into Galilee, to their own city Nazareth{" "}
@@ -970,7 +974,7 @@ export default function Luke02() {
           : and the Grace of God was upon Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Goodness of God)</span>
+              <span className="explanation">(the Goodness of God)</span>
             </span>
           </span>
           .
@@ -999,7 +1003,7 @@ export default function Luke02() {
           <sup className="calibre7">42</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           was twelve years old{" "}
@@ -1173,7 +1177,7 @@ export default function Luke02() {
           amazed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(referring to His parents)</span>
+              <span className="explanation">(referring to His parents)</span>
             </span>
           </span>
           : and His mother said unto Him, Son, why have you thus dealt with us?{" "}
@@ -1237,7 +1241,9 @@ export default function Luke02() {
           which He spoke unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they should have understood!)</span>
+              <span className="explanation">
+                (they should have understood!)
+              </span>
             </span>
           </span>
           .

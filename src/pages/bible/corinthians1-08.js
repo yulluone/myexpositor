@@ -16,7 +16,7 @@ export default function Corinthians108() {
           idols{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (lambs and oxen were offered up and Sacrificed to idols, with
                 part of the meat then offered for sale in the market place)
               </span>
@@ -25,7 +25,7 @@ export default function Corinthians108() {
           , we know that we all have knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but our consecration must not stop there)
               </span>
             </span>
@@ -33,19 +33,19 @@ export default function Corinthians108() {
           . Knowledge puffs up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(knowledge without love)</span>
+              <span className="explanation">(knowledge without love)</span>
             </span>
           </span>
           , but charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           edi fies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(builds up)</span>
+              <span className="explanation">(builds up)</span>
             </span>
           </span>
           .
@@ -57,7 +57,7 @@ export default function Corinthians108() {
           anything{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that we never know as much about the Word of
                 God as we think we know)
               </span>
@@ -66,7 +66,7 @@ export default function Corinthians108() {
           , he knows nothing yet as he ought to know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we ought to know much more)</span>
+              <span className="explanation">(we ought to know much more)</span>
             </span>
           </span>
           .
@@ -78,7 +78,7 @@ export default function Corinthians108() {
           known of him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We all should have knowledge of the Word, but the emphasis must
                 be on Love.)
               </span>
@@ -99,7 +99,7 @@ export default function Corinthians108() {
           nothing in the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, Paul is saying that the eating of such meat contains
                 no offense to the Lord or His Word)
               </span>
@@ -114,7 +114,7 @@ export default function Corinthians108() {
           none other God but one.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gods the heathen worshiped actually didnt exist.)
               </span>
             </span>
@@ -139,7 +139,7 @@ export default function Corinthians108() {
           one God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One in unity and not One in number; it can refer to either)
               </span>
             </span>
@@ -147,7 +147,7 @@ export default function Corinthians108() {
           , the Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of relationship)</span>
+              <span className="explanation">(speaks of relationship)</span>
             </span>
           </span>
           , of whom{" "}
@@ -159,7 +159,7 @@ export default function Corinthians108() {
           all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to God as the Creator of all things)
               </span>
             </span>
@@ -167,7 +167,7 @@ export default function Corinthians108() {
           , and we in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which we are by virtue of Christ and the Cross)
               </span>
             </span>
@@ -175,7 +175,7 @@ export default function Corinthians108() {
           ; and one Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our Saviour)</span>
+              <span className="explanation">(our Saviour)</span>
             </span>
           </span>
           , by whom{" "}
@@ -187,7 +187,7 @@ export default function Corinthians108() {
           all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what He did at the Cross made it all possible)
               </span>
             </span>
@@ -195,7 +195,7 @@ export default function Corinthians108() {
           , and we by Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything we have from God comes to us from Christ, with the
                 Cross being the means by which it is done.)
               </span>
@@ -214,7 +214,7 @@ export default function Corinthians108() {
           not in every man that knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the knowledge of the Cross was deficient, even as Paul said in{" "}
                 <ScrollLink
                   href="/corinthians1-01"
@@ -239,7 +239,7 @@ export default function Corinthians108() {
           as a thing offered unto an idol{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means some could not dismiss from their minds the painful sense
                 that, by eating the idol-sacrifice, they are participating in
                 idol-worship)
@@ -249,7 +249,7 @@ export default function Corinthians108() {
           ; and their conscience being weak is defiled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to these Gentiles who until recently had been idolaters)
               </span>
             </span>
@@ -264,7 +264,7 @@ export default function Corinthians108() {
           we the worse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has nothing to do with spirituality)
               </span>
             </span>
@@ -281,7 +281,7 @@ export default function Corinthians108() {
           liberty of yours become a stumblingblock to them who are weak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We make men worse if, by our example, we teach them to act in
                 contradiction to their conscience.)
               </span>
@@ -295,7 +295,7 @@ export default function Corinthians108() {
           knowledge sit at meat in the idols temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of those who knew and understood true Christian Liberty,
                 but yet lacked wisdom)
               </span>
@@ -305,7 +305,7 @@ export default function Corinthians108() {
           those things which are offered to idols{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (contains the idea that such action on the part of the strong
                 could very well fall out to the spiritual destruction of the one
                 who is weak)
@@ -321,7 +321,7 @@ export default function Corinthians108() {
           weak brother perish, for whom Christ died?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul could use no word that would more effectually point his
                 warning.)
               </span>
@@ -335,7 +335,7 @@ export default function Corinthians108() {
           Brethren, and wound their weak conscience, you sin against Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to sin against a brother in any capacity is to sin against
                 Christ)
               </span>
@@ -351,7 +351,7 @@ export default function Corinthians108() {
           brother to offend.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything we do must be done always with the idea of how it
                 affects others.)
               </span>

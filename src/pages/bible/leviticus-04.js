@@ -417,7 +417,7 @@ export default function Leviticus04() {
           Burnt Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brazen Altar)</span>
+              <span className="explanation">(the Brazen Altar)</span>
             </span>
           </span>
           , which is at the door of the Tabernacle of the congregation{" "}

@@ -229,7 +229,7 @@ export default function Romans16() {
           <sup className="calibre7">11</sup>Salute Herodion my kinsman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another Jew)</span>
+              <span className="explanation">(another Jew)</span>
             </span>
           </span>
           . Greet them who be of the{" "}
@@ -264,7 +264,7 @@ export default function Romans16() {
           . Salute the beloved Persis, which laboured much in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to a woman)</span>
+              <span className="explanation">(refers to a woman)</span>
             </span>
           </span>
           .
@@ -296,7 +296,7 @@ export default function Romans16() {
           <sup className="calibre7">15</sup>Salute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greet)</span>
+              <span className="explanation">(greet)</span>
             </span>
           </span>{" "}
           Philologus, and Julia, Nereus, and his sister, and Olympas, and all
@@ -460,7 +460,7 @@ export default function Romans16() {
           , and Lucius, and Jason, and Sosipater, my kinsmen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fellow Jews)</span>
+              <span className="explanation">(fellow Jews)</span>
             </span>
           </span>
           , salute you.

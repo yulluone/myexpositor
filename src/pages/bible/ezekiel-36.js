@@ -17,7 +17,7 @@ export default function Ezekiel36() {
           Word of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy is divided into two parts, with{" "}
                 <ScrollLink href="/" scrollToId="#filepos9526853">
                   <span className="calibre_19">
@@ -57,7 +57,7 @@ export default function Ezekiel36() {
           in possession{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this enemy was Edom)</span>
+              <span className="explanation">(this enemy was Edom)</span>
             </span>
           </span>
           :
@@ -72,7 +72,7 @@ export default function Ezekiel36() {
           infamy of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sense of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9527868">
                   <span className="calibre_19">
@@ -101,7 +101,7 @@ export default function Ezekiel36() {
           prey and derision to the residue of the heathen who are round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God chastens His People, as this Verse proclaims, but destroys
                 their enemies)
               </span>
@@ -119,7 +119,7 @@ export default function Ezekiel36() {
           minds, to cast it out for a prey.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Edom not only proposed to take My Land, but to do so with a
                 gleeful joy, and with despiteful minds, i.e., with contempt of
                 soul, meaning that Edom held Judah and Judahs God, Jehovah, in
@@ -138,7 +138,7 @@ export default function Ezekiel36() {
           of the heathen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the key to this Verse is the phrase, You have borne the shame
                 of the heathen, which means that the shame of Gods People is
                 temporary, while that of their enemies is perpetual. The Law of
@@ -159,7 +159,7 @@ export default function Ezekiel36() {
           shall bear their shame.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The certitude is found in the phrase, I have lifted up My Hand,
                 which refers to God taking an oath that what He has stated about
                 the heathen and their punishment will come to pass.)
@@ -175,7 +175,7 @@ export default function Ezekiel36() {
           Israel; for they are at hand to come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrases, O mountains of Israel and The everlasting hills of{" "}
                 <ScrollLink href="/genesis-49" scrollToId="#filepos662711">
                   <span className="calibre_19">
@@ -197,7 +197,7 @@ export default function Ezekiel36() {
           turn unto you, and you shall be tilled and sown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Lord said that He was against Edom [
                 <ScrollLink href="/ezekiel-35" scrollToId="#filepos9520457">
                   <span className="calibre_19">
@@ -220,7 +220,7 @@ export default function Ezekiel36() {
           inhabited, and the wastes shall be built{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Lord outlined the destruction of Edom and other nations,
                 He here outlines the coming blessing and prosperity of the House
                 of Israel)
@@ -238,7 +238,7 @@ export default function Ezekiel36() {
           beginnings: and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the coming Kingdom Age.)
               </span>
             </span>
@@ -253,7 +253,7 @@ export default function Ezekiel36() {
           men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Edom said they would possess the Land. They are indicative of
                 the modern Palestinians. The Lord says, My People Israel shall
                 possess you, i.e., the Land.)
@@ -268,7 +268,7 @@ export default function Ezekiel36() {
           say unto you, Your land devours up men, and has bereaved your nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning Israel, the heathen spread the evil report that the
                 Land of Israel had devoured its inhabitants and was, therefore,
                 cursed!)
@@ -284,7 +284,7 @@ export default function Ezekiel36() {
           more, neither bereave your nations any more, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the Verse is this: the great Spiritual conflict
                 between Light and darkness has brought about the terrible
                 contest for the Land of Israel, which began immediately upon its
@@ -315,7 +315,7 @@ export default function Ezekiel36() {
           to fall any more, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was not fulfilled, not even in the slightest, upon the
                 return of the Exiles from their bondage, but will be fulfilled
                 totally in the coming Kingdom Age.)
@@ -340,7 +340,7 @@ export default function Ezekiel36() {
           doings: their way was before Me as the uncleanness of a removed woman.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The uncleanness pictures the vileness of the sinner in Gods
                 Sight. The first statement of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9542275">
@@ -376,7 +376,7 @@ export default function Ezekiel36() {
           wherewith they had polluted it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse proclaims that the idol worshipped produced the
                 shedding of blood and the offering up of little children in
                 human sacrifices. Because of this, the Anger of the Lord knew no
@@ -394,7 +394,7 @@ export default function Ezekiel36() {
           their way and according to their doings I judged them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This not only concerned Ezekiels day, but also concerned itself
                 with A.D. 70, when Titus destroyed Jerusalem. This was done
                 because they had shed the Blood of Christ.)
@@ -411,7 +411,7 @@ export default function Ezekiel36() {
           His Land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These are the People of the LORD, is the key phrase to this
                 Verse. Their being defeated caused the heathen to conclude that
                 Jehovah had either behaved capriciously toward His People and
@@ -431,7 +431,7 @@ export default function Ezekiel36() {
           went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the Lord will restore Israel, but not because of
                 any good in them, but because of good in Himself.)
               </span>
@@ -450,7 +450,7 @@ export default function Ezekiel36() {
           the heathen, whither you went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture further reinforces the statement regarding{" "}
                 <ScrollLink href="/" scrollToId="#filepos9537171">
                   <span className="calibre_19">
@@ -474,7 +474,7 @@ export default function Ezekiel36() {
           Lord GOD, when I shall be sanctified in you before their eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Acts of Grace toward guilty men solely because of His Name
                 as Saviour and not because of any moral excellence in them are
                 shown in{" "}
@@ -500,7 +500,7 @@ export default function Ezekiel36() {
           your own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage was not fulfilled when the Children of Israel came
                 back from Babylonian captivity, and has not even been fulfilled
                 as of yet! It will be fulfilled immediately after the Second
@@ -517,7 +517,7 @@ export default function Ezekiel36() {
           all your idols, will I cleanse you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word then marks the time for the fulfillment of these
                 Prophecies. Israel, as a nation, will not be won to Christ until
                 the Antichrist is defeated by the Second Coming of Christ.
@@ -534,7 +534,7 @@ export default function Ezekiel36() {
           heart out of your flesh, and I will give you an heart of flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the New Birth, and totally refutes the claims of
                 those who say that modern Israel will not be restored, and that
                 they have no part or parcel in the Gospel program, presently or
@@ -551,7 +551,7 @@ export default function Ezekiel36() {
           and do them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will put My Spirit within you, refers both to
                 Regeneration, as carried out by the Holy Spirit at the time of
                 one being Born-Again, and also to the Baptism with the Holy
@@ -621,7 +621,7 @@ export default function Ezekiel36() {
           God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The conflict regarding the Land of Israel will be solved only
                 when Christ comes back. All hinges on Christ, as all always
                 hinges on Christ.)
@@ -637,7 +637,7 @@ export default function Ezekiel36() {
           lay no famine upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Regeneration, not reformation a new heart, and not a changed
                 heart is essential to Salvation.)
               </span>
@@ -660,7 +660,7 @@ export default function Ezekiel36() {
           abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The effect of Grace is self-judgment, which will then make
                 possible the Blessing of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9542621">
@@ -683,7 +683,7 @@ export default function Ezekiel36() {
           own ways, O House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that is done for the Child of God is done for Christs sake
                 [
                 <ScrollLink href="/ephesians-4" scrollToId="#filepos14050279">
@@ -714,7 +714,7 @@ export default function Ezekiel36() {
           cause you to dwell in the cities, and the wastes shall be built.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels Conversion to Christ will precipitate their Blessing.
                 Only when all iniquities have been cleansed can the individual
                 then dwell in the inheritance, with the wastes then being
@@ -730,7 +730,7 @@ export default function Ezekiel36() {
           tilled, whereas it lay desolate in the sight of all who passed by.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For nearly 2,000 years, the Land of Israel lay desolate. This
                 was the Promised Land, and yet there was little semblance of
                 that which originally was. It is now beginning to be restored,
@@ -747,7 +747,7 @@ export default function Ezekiel36() {
           desolate and ruined cities are become fenced, and are inhabited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tyre and Assyria claimed to be like the Garden of Eden. But
                 this similitude belongs only to Israel [
                 <ScrollLink href="/ezekiel-28" scrollToId="#filepos9413867">
@@ -787,7 +787,7 @@ export default function Ezekiel36() {
           it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that the Lord says He will do in this Verse is predicated
                 on Israels acceptance of Him as Lord and Saviour.)
               </span>
@@ -802,7 +802,7 @@ export default function Ezekiel36() {
           will increase them with men like a flock.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will yet for this be enquired of by the House of Israel,
                 refers to the coming Great Tribulation of the future, which will
                 bring them to utter desolation and threatened annihilation,
@@ -861,7 +861,7 @@ export default function Ezekiel36() {
           with flocks of men: and they shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The theme of these Chapters is the relationship between Jehovah
                 and His People. Hence, there are no details given respecting the
                 First Advent. The Chapters present a general picture of the Last

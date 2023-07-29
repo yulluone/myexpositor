@@ -67,7 +67,7 @@ export default function Samuel113() {
           Beth-el, and a thousand were with Jonathan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his son)</span>
+              <span className="explanation">(his son)</span>
             </span>
           </span>{" "}
           in Gibeah of Benjamin: and the rest of the people he sent every man to
@@ -173,7 +173,7 @@ export default function Samuel113() {
           <sup className="calibre7">7</sup>And some of the Hebrews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(used here contemptuously)</span>
+              <span className="explanation">(used here contemptuously)</span>
             </span>
           </span>{" "}
           went over Jordan to the land of Gad and Gilead{" "}
@@ -188,7 +188,7 @@ export default function Samuel113() {
           trembling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(trembling for fear)</span>
+              <span className="explanation">(trembling for fear)</span>
             </span>
           </span>
         </span>
@@ -274,7 +274,7 @@ export default function Samuel113() {
           and that you came not within the days appointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but he did!)</span>
+              <span className="explanation">(but he did!)</span>
             </span>
           </span>
           , and that the Philistines gathered themselves together at Michmash;
@@ -332,7 +332,7 @@ export default function Samuel113() {
           : the LORD has sought Him a man after His Own Heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that man would be David)</span>
+              <span className="explanation">(that man would be David)</span>
             </span>
           </span>
           , and the LORD has commanded him to be Captain over His People,
@@ -426,7 +426,7 @@ export default function Samuel113() {
           <sup className="calibre7">19</sup>Now there was no smith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(blacksmith)</span>
+              <span className="explanation">(blacksmith)</span>
             </span>
           </span>{" "}
           found throughout all the land of Israel: for the Philistines said,

@@ -18,7 +18,7 @@ export default function Ezekiel23() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter clearly and graphically illustrates the sin and
                 wickedness of both the Northern and the Southern Kingdoms of
                 Samaria and Judah)
@@ -34,7 +34,7 @@ export default function Ezekiel23() {
           daughters of one mother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pictures both Kingdoms, Samaria and Judah. The phrase, The
                 daughters of one mother, refers to Sarah, who gave birth to
                 Isaac, who sired Jacob, from whom sprang the twelve sons
@@ -52,7 +52,7 @@ export default function Ezekiel23() {
           breasts pressed, and there they bruised the teats of their virginity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter reviews their conduct from Egypt to the final
                 destruction of their city and the nation. Thus, under this
                 lengthened test of about 1,100 years was demonstrated the
@@ -72,7 +72,7 @@ export default function Ezekiel23() {
           Aholibah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Aholibah in the Hebrew means Shalibah, and refers to Jerusalem
                 and means My tent is in her. The elder, referring to Aholah
                 [Samaria], probably would have been better translated the
@@ -93,7 +93,7 @@ export default function Ezekiel23() {
           was Mine; and she doted on her lovers, on the Assyrians her neighbours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And Aholah played the harlot, refers to her adopting the gods
                 of the Assyrians. This was probably the worship of Ishtar
                 [Ashtoreth] as the Queen of Heaven. When she was Mine, refers to
@@ -121,7 +121,7 @@ export default function Ezekiel23() {
           upon horses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage brings before us the magnificent array of the
                 Assyrian Cavalry a force in which Israel, throughout its
                 history, was deficient [
@@ -161,7 +161,7 @@ export default function Ezekiel23() {
           on whom she doted: with all their idols she defiled herself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Northern Kingdom of Samaria being enamored
                 by the power and pomp of the Assyrians. With all their idols she
                 defiled herself, proclaims her attempting to gain the plaudits
@@ -179,7 +179,7 @@ export default function Ezekiel23() {
           her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us that the worship of Egyptian idols was never
                 completely expunged from Samaria. As well, the presence of this
                 wickedness made it much easier to accept the Assyrian idols.)
@@ -195,7 +195,7 @@ export default function Ezekiel23() {
           doted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What Believers want, if they insist upon it, the Lord will
                 ultimately allow them to have, whether good or bad.)
               </span>
@@ -210,7 +210,7 @@ export default function Ezekiel23() {
           became famous among women; for they had executed Judgment upon her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To be naked meant to be open to the Judgment of God, which
                 would allow heathen nations to have their way, as with Assyria.
                 She became famous among women, actually means that she became
@@ -233,7 +233,7 @@ export default function Ezekiel23() {
           whoredoms more than her sister in her whoredoms.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judgment, having already destroyed Samaria in sweeping its
                 people into captivity, now a similar doom is impending over
                 Jerusalem. She, far from taking warning from the fate of her
@@ -264,7 +264,7 @@ export default function Ezekiel23() {
           riding upon horses, all of them desirable young men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem, as her northern sister, courted the alliance of the
                 kings of Assyria, as in the case of Ahaz [
                 <ScrollLink href="/kings2-16" scrollToId="#filepos4230025">
@@ -289,7 +289,7 @@ export default function Ezekiel23() {
           that they took both one way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the way of disobedience rather than Gods Way)
               </span>
             </span>
@@ -304,7 +304,7 @@ export default function Ezekiel23() {
           of the Chaldeans pourtrayed with vermilion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this pertains to pictures of gods, which were painted on the
                 walls in various government buildings in Babylon)
               </span>
@@ -321,7 +321,7 @@ export default function Ezekiel23() {
           of their nativity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when Judah began to lose her way, because of pulling farther
                 and farther away from Jehovah, they lost the Presence of God,
                 and then the glitter of other nations became very enticing)
@@ -337,7 +337,7 @@ export default function Ezekiel23() {
           eyes, she doted upon them, and sent messengers unto them into Chaldea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Judah actively seeking alliances with the
                 Babylonians, which was not at all pleasing to the Lord. The idea
                 is: the Believer must put total and complete Trust and Faith in
@@ -356,7 +356,7 @@ export default function Ezekiel23() {
           polluted with them, and her mind was alienated from them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these terms, such as whoredom, etc., pertained to Judah
                 being unfaithful to the Lord, and doing so by worshipping idols.
                 And her mind was alienated from them, is a strange statement! It
@@ -376,7 +376,7 @@ export default function Ezekiel23() {
           My Mind was alienated from her sister.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because of her sin, the Mind of the Lord was alienated from
                 Judah. Whether Judah or a lone Believer, the end result of such
                 disposition on the part of God is catastrophic.)
@@ -392,7 +392,7 @@ export default function Ezekiel23() {
           the harlot in the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Recalling old sins frequently leads to a resumption of them.)
               </span>
             </span>
@@ -406,7 +406,7 @@ export default function Ezekiel23() {
           issue of horses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For she doted upon their paramours, refers to the Egyptian
                 princes, whose favor Judah courted. She threw herself into the
                 idolatrous ritual of Egypt with an almost orgiastic passion.
@@ -437,7 +437,7 @@ export default function Ezekiel23() {
           the paps of your youth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The harlot nation returned, as it were, to her first love and
                 renewed the whoredoms of her youth, actually, the very whoredoms
                 from which she was delivered [
@@ -467,7 +467,7 @@ export default function Ezekiel23() {
           side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passage refers to the Babylonians and others, which would
                 turn against Judah. In other words, the very safety and
                 protection she thought she was securing would turn out to be the
@@ -486,7 +486,7 @@ export default function Ezekiel23() {
           renowned, all of them riding upon horses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pekod, Shoa, and Koa were eastern nations. They are all named
                 in the Babylonian inscriptions. Riding upon horses, refers to
                 something which once greatly impressed Judah; but now they ride
@@ -505,7 +505,7 @@ export default function Ezekiel23() {
           their judgments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passage refers to the fact that no pity will be shown
                 whatsoever to hapless Judah.)
               </span>
@@ -522,7 +522,7 @@ export default function Ezekiel23() {
           devoured by the fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, They shall take away your nose and your ears,
                 refers to the manner in which the Babylonians mutilated their
                 prisoners by cutting off their nose and ears. They slaughtered
@@ -547,7 +547,7 @@ export default function Ezekiel23() {
           more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fact that Israel was an idolater in Egypt is again
                 recalled, because she had never fully overcome the propensity
                 toward this evil.)
@@ -563,7 +563,7 @@ export default function Ezekiel23() {
           of them from whom your mind is alienated{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a former love for Babylon that had now passed into
                 loathing. They will now receive with disgust their fill of that
                 for which they had once so ardently sought)
@@ -581,7 +581,7 @@ export default function Ezekiel23() {
           discovered, both your lewdness and your whoredoms.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this speaks of them forsaking Jehovah and resorting to
                 idols.)
               </span>
@@ -596,7 +596,7 @@ export default function Ezekiel23() {
           polluted with their idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And because you are polluted with their idols, refers to what
                 always happens to the Child of God concerning involvement with
                 the world. It always brings spiritual pollution.)
@@ -611,7 +611,7 @@ export default function Ezekiel23() {
           sis ter; therefore will I give her cup into your hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Northern Kingdom of Samaria, with her way
                 referring to idol worship and, above all, the way of the world
                 instead of the Way of God.)
@@ -627,7 +627,7 @@ export default function Ezekiel23() {
           scorn and had in derision; it contains much.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall drink of your sisters cup deep and large, pertains to
                 the Judgment being far more severe than anyone contemplated.
               </span>
@@ -668,7 +668,7 @@ export default function Ezekiel23() {
           of your sister Samaria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The drunkenness of the first phrase does not refer to alcohol
                 inebriation, but instead the drunkenness of anguish an anguish
                 so great as to cause the captives to beat their bosoms in
@@ -685,7 +685,7 @@ export default function Ezekiel23() {
           breasts: for I have spoken it, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall even drink it and suck it out, refers to not only the
                 entire cup being drunk, but the bitter dregs at the bottom being
                 consumed, as well. The mutilation of your own breasts refers to
@@ -703,7 +703,7 @@ export default function Ezekiel23() {
           bear you also your lewdness and your whoredoms.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase pertains to Judah forsaking the Word of God
                 and, thereby, forsaking God. The latter phrase refers to idol
                 worship with all its attendant demon spirits.)
@@ -724,7 +724,7 @@ export default function Ezekiel23() {
           their abominations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Yes, declare unto them their abominations, pertains
                 to the sins being named, which they were)
               </span>
@@ -741,7 +741,7 @@ export default function Ezekiel23() {
           pass for them through the fire, to devour them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They have committed adultery, refers to idol worship, because
                 the Lord looks at Judah as His Wife and He, her husband [
                 <ScrollLink href="/isaiah-54" scrollToId="#filepos7934994">
@@ -766,7 +766,7 @@ export default function Ezekiel23() {
           My Sabbaths.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Moreover this they have done unto Me, proclaims the
                 truth that the deepest depth of evil is the association of
                 idolatry with God, which these Judahites did!)
@@ -782,7 +782,7 @@ export default function Ezekiel23() {
           to profane it; and, lo, thus have they done in the midst of My House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, they would offer up their children as sacrifice
                 in the morning [which is horrible beyond contemplation], and
                 then they would take a lamb to the Temple that afternoon and
@@ -800,7 +800,7 @@ export default function Ezekiel23() {
           decked yourself with ornaments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to ambassadors which had been sent from time to
                 time by both Samaria and Jerusalem to Egypt, Assyria, and
                 Babylon, seeking alliances; to secure those alliances, they
@@ -818,7 +818,7 @@ export default function Ezekiel23() {
           Oil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And sat upon a stately bed, has reference to the Altar, or
                 Table of worship, which sat before the Veil immediately in front
                 of the Holy of Holies. There the Priests would offer up Incense
@@ -836,7 +836,7 @@ export default function Ezekiel23() {
           beautiful crowns upon their heads.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And a voice of a multitude [tumult] being at ease was with her,
                 refers to the fact that Jerusalem had strayed so far from God
                 that now the heathen were at ease with her. The reason: Judahs
@@ -853,7 +853,7 @@ export default function Ezekiel23() {
           them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the heathen nations which Judah courted, and
                 which had been long in debauchery actually all of their
                 existence.)
@@ -869,7 +869,7 @@ export default function Ezekiel23() {
           and unto Aholibah, the lewd women.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here the Lord calls Samaria and Jerusalem, the lewd women.)
               </span>
             </span>
@@ -884,7 +884,7 @@ export default function Ezekiel23() {
           their hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9355676">
                   <span className="calibre_19">
@@ -933,7 +933,7 @@ export default function Ezekiel23() {
           spoiled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And will give them to be removed and spoiled,
                 refers to the people being removed from the Promised Land.)
               </span>
@@ -948,7 +948,7 @@ export default function Ezekiel23() {
           their sons and their daughters, and burn up their houses with fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, the sentence was death!)
               </span>
             </span>
@@ -962,7 +962,7 @@ export default function Ezekiel23() {
           lewdness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lewdness refers to idolatry, which would be made to cease
                 out of the land. And thats exactly what ultimately happened!
               </span>
@@ -992,7 +992,7 @@ export default function Ezekiel23() {
           shall know that I Am the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem suffered the just doom of an adulteress; her walls
                 were beaten down with stones, her houses burned with fire, and
                 her children slain with the sword. This fearful doom was

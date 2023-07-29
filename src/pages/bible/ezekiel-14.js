@@ -16,7 +16,7 @@ export default function Ezekiel14() {
           Israel unto me, and sat before me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Elders of Israel concerned those among the captives.)
               </span>
             </span>
@@ -36,7 +36,7 @@ export default function Ezekiel14() {
           iniquity before their face: should I be enquired of at all by them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, These men have set up their idols in their heart,
                 goes to the very seat of the problem. The statement means that
                 these Elders were hankering after the old false worship in which
@@ -59,7 +59,7 @@ export default function Ezekiel14() {
           answer him who comes according to the multitude of his idols{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God can have no fellowship with evil. He, therefore, not only
                 refuses to answer such prayers, but He replies to them with just
                 judgments. Let me quickly state: Any object of faith other than
@@ -85,7 +85,7 @@ export default function Ezekiel14() {
           their idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However fair the outward profession of faith in God may be, the
                 Holy Spirit can unmask the evil lodged within the heart.)
               </span>
@@ -100,7 +100,7 @@ export default function Ezekiel14() {
           idols; and turn away your faces from all your abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God loved and pitied these hypocrites and the fact of this Love
                 added to the certitude and horror of the just doom that was
                 impending over them. He cried to them to repent, no longer to
@@ -120,7 +120,7 @@ export default function Ezekiel14() {
           concerning me; I the LORD will answer him by Myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is: these particular individuals wanted help from God,
                 but did not want to rid themselves of their sins. I the LORD
                 will answer him by Myself, is found in the next Verse; however,
@@ -142,7 +142,7 @@ export default function Ezekiel14() {
           from the midst of My People; and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The threatenings in this Prophecy are, in substance and
                 language, all found in Leviticus and Deuteronomy. This Passage,
                 as so many others, completely refutes the unscriptural doctrine
@@ -165,7 +165,7 @@ export default function Ezekiel14() {
           of My People Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I the LORD have deceived that prophet, actually means that the
                 Lord permitted that prophet to be deceived, and actually aided
                 the process, because this is what the prophet wanted. It is most
@@ -184,7 +184,7 @@ export default function Ezekiel14() {
           punishment of him who seeks unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (both the false prophet and his hearers can expect judgment.
                 This is a clear condemnation, not only to the false prophet, but
                 also to those who entertain and support his false message)
@@ -202,7 +202,7 @@ export default function Ezekiel14() {
           God, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The heart of God beats in this Verse. It is the cry of the Holy
                 Spirit that all transgressions be put away, and that these
                 people may be My people, and I may be their God. This will
@@ -237,7 +237,7 @@ export default function Ezekiel14() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (here, a new section of Prophecy begins. What follows is
                 strikingly similar to{" "}
                 <ScrollLink href="/jeremiah-15" scrollToId="#filepos8355492">
@@ -262,7 +262,7 @@ export default function Ezekiel14() {
           famine upon it, and will cut off man and beast from it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we find from this Verse that the prosperity of a nation is
                 directly linked to the spiritual prosperity of its people)
               </span>
@@ -278,7 +278,7 @@ export default function Ezekiel14() {
           by their righteousness, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/jeremiah-15" scrollToId="#filepos8355492">
                   <span className="calibre_19">
@@ -327,7 +327,7 @@ export default function Ezekiel14() {
           man may pass through because of the beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the four sore judgments mentioned in this Chapter are: famine [
                 <ScrollLink href="/" scrollToId="#filepos9181288">
                   <span className="calibre_19">
@@ -375,7 +375,7 @@ export default function Ezekiel14() {
           desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, let us state: the righteousness of others cannot
                 save the sinner. He must personally come to the Lord and be
                 Born-Again [
@@ -399,7 +399,7 @@ export default function Ezekiel14() {
           beast from it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anytime war comes to a people or a nation, this Passage plus
                 others tell us that the Lord allows such because of the
                 wickedness of the people. As well, it proclaims that the Godly,
@@ -419,7 +419,7 @@ export default function Ezekiel14() {
           daughters, but they only shall be delivered themselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Four times the Holy Spirit repeats this phraseology [
                 <ScrollLink href="/" scrollToId="#filepos9181738">
                   <span className="calibre_19">
@@ -466,7 +466,7 @@ export default function Ezekiel14() {
           and beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Hebrew, the word blood expresses every kind of unnatural
                 death)
               </span>
@@ -483,7 +483,7 @@ export default function Ezekiel14() {
           righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord testifies here to the Righteousness of Noah, Daniel,
                 and Job. Of the three, Daniel was still alive.)
               </span>
@@ -499,7 +499,7 @@ export default function Ezekiel14() {
           it man and beast?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument of this Verse is that if these three men could not
                 turn aside one judgment, how could they turn aside four sore
                 ones?)
@@ -518,7 +518,7 @@ export default function Ezekiel14() {
           it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The remnant addressed here concerns the few who would be saved
                 from the judgments of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9186135">
@@ -542,7 +542,7 @@ export default function Ezekiel14() {
           done without cause all that I have done in it, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No doubt many of the faithful captives had very near and dear
                 relatives who were still living in Jerusalem. That the Wrath of
                 God should fall on these must have perplexed and deeply agitated

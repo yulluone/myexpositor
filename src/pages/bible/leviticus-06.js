@@ -78,7 +78,7 @@ export default function Leviticus06() {
           falsely; he shall even restore it in the principal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(restore its full value)</span>
+              <span className="explanation">(restore its full value)</span>
             </span>
           </span>
           , and shall add the fifth part more thereto, and give it unto him to
@@ -207,7 +207,9 @@ export default function Leviticus06() {
           and put on other garments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(garments of glory and beauty)</span>
+              <span className="explanation">
+                (garments of glory and beauty)
+              </span>
             </span>
           </span>
           , and carry forth the ashes without the camp unto a clean place.{" "}
@@ -323,7 +325,7 @@ export default function Leviticus06() {
           , and shall burn it upon the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typifying the Cross)</span>
+              <span className="explanation">(typifying the Cross)</span>
             </span>
           </span>{" "}
           for a sweet savour{" "}
@@ -685,7 +687,7 @@ export default function Leviticus06() {
           <sup className="calibre7">27</sup>Whatsoever shall touch the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(flesh of the Sin Offering)</span>
+              <span className="explanation">(flesh of the Sin Offering)</span>
             </span>
           </span>{" "}
           thereof shall be holy{" "}
@@ -713,7 +715,7 @@ export default function Leviticus06() {
           <sup className="calibre7">28</sup>But the earthen vessel wherein it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sin Offering)</span>
+              <span className="explanation">(the Sin Offering)</span>
             </span>
           </span>{" "}
           is sodden shall be broken: and if it be sodden in a brasen pot, it

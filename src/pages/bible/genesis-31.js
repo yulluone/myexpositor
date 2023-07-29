@@ -17,7 +17,7 @@ export default function Genesis31() {
           <sup className="calibre7">1</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           heard the words of Labans sons, saying, Jacob has taken away all that
@@ -25,7 +25,7 @@ export default function Genesis31() {
           this glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As long as Jacob was increasing the wealth of Laban, and he
                 [Jacob] remained poor, Laban had no problem with that. But once
                 Jacob begins to prosper, and begins to do so in a grand way,
@@ -41,7 +41,7 @@ export default function Genesis31() {
           Laban, and, behold, it was not toward him as before{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(jealousy)</span>
+              <span className="explanation">(jealousy)</span>
             </span>
           </span>
         </span>
@@ -54,7 +54,7 @@ export default function Genesis31() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is so pleasing to the heart to note the minute leading of
                 the Lord in the life of the Patriarch; it is now time for him to
                 return to Canaan; he has been away for some twenty years)
@@ -77,7 +77,7 @@ export default function Genesis31() {
           of my father has been with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he gives the praise to the Lord for his prosperity)
               </span>
             </span>
@@ -97,7 +97,7 @@ export default function Genesis31() {
           changed my wages ten times; but God suffered him not to hurt me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Laban saw that Jacobs flocks were increasing according to
                 the bargain originally made, he then changed the rules. Whatever
                 it was that he did we arent told; however, we do note that God
@@ -116,7 +116,9 @@ export default function Genesis31() {
           ringstraked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(men rule, but God overrules!)</span>
+              <span className="explanation">
+                (men rule, but God overrules!)
+              </span>
             </span>
           </span>
         </span>
@@ -128,7 +130,7 @@ export default function Genesis31() {
           your father, and given them to me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from all of this, we learn that Jacob had not done anything
                 wrong, or else God would not have prospered him)
               </span>
@@ -145,7 +147,7 @@ export default function Genesis31() {
           speckled, and grisled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (specifying to Jacob that it was the Lord Who had given the
                 increase)
               </span>
@@ -163,7 +165,7 @@ export default function Genesis31() {
           in a dream, saying, Jacob: And I said, Here am I{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is actually Jehovah!)</span>
+              <span className="explanation">(this is actually Jehovah!)</span>
             </span>
           </span>
         </span>
@@ -174,7 +176,7 @@ export default function Genesis31() {
           <sup className="calibre7">12</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, Lift up now your eyes, and see, all the rams which leap upon the
@@ -182,7 +184,7 @@ export default function Genesis31() {
           that Laban has done unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we should take a lesson from this, understanding that the Lord
                 sees and notes all)
               </span>
@@ -196,7 +198,7 @@ export default function Genesis31() {
           <sup className="calibre7">13</sup>I am the God of Beth-el{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He reaffirms that He is the God of Beth-el, which proclaims the
                 fact that every promise given there to Jacob still held true)
               </span>
@@ -205,7 +207,7 @@ export default function Genesis31() {
           , where you anointed the pillar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which spoke of Christ and the Holy Spirit)
               </span>
             </span>
@@ -213,7 +215,7 @@ export default function Genesis31() {
           , and where you vowed a vow unto Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the tenth that was to be given to the Lord; all of
                 these animals had been offered up in sacrifice, seeming that
                 Jacob had been faithful to the vow [
@@ -232,7 +234,7 @@ export default function Genesis31() {
           your kindred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, twenty years had passed since he had seen his
                 kindred)
               </span>
@@ -251,7 +253,7 @@ export default function Genesis31() {
           fathers house?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both Rachel and Leah understood completely the duplicity of
                 their father. He not only had done Jacob wrong, but he had
                 wronged them as well.)
@@ -266,7 +268,7 @@ export default function Genesis31() {
           for he has sold us, and has quite devoured also our money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (its a shame that Laban figures so prominently in the Gospel
                 Message, but yet never came to know the Lord)
               </span>
@@ -282,7 +284,7 @@ export default function Genesis31() {
           whatsoever God has said unto you, do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they recognized the Hand of God in all of this, and readily
                 acquiesced to Jacobs proposal to leave)
               </span>
@@ -305,7 +307,7 @@ export default function Genesis31() {
           the land of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these twenty years that Jacob has been gone are silent
                 regarding Isaac)
               </span>
@@ -320,7 +322,7 @@ export default function Genesis31() {
           and Rachel had stolen the images that were her fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the images had to do with her inheritance, of which we will
                 momentarily address)
               </span>
@@ -342,7 +344,7 @@ export default function Genesis31() {
           mount Gilead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for Jacob to leave in this manner shows that the situation had
                 become intolerable)
               </span>
@@ -365,13 +367,13 @@ export default function Genesis31() {
           <sup className="calibre7">23</sup>And he took his brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his sons and others)</span>
+              <span className="explanation">(his sons and others)</span>
             </span>
           </span>{" "}
           with him, and pursued after him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after Jacob)</span>
+              <span className="explanation">(after Jacob)</span>
             </span>
           </span>{" "}
           seven days journey; and they overtook him in the mount Gilead.
@@ -384,7 +386,7 @@ export default function Genesis31() {
           Jacob either good or bad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord warning Laban in a dream indicates that the man
                 intended to do Jacob harm)
               </span>
@@ -407,7 +409,7 @@ export default function Genesis31() {
           my daughters, as captives taken with the sword?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was totally untrue. Rachel and Leah had voluntarily
                 accompanied their husband in his departure.)
               </span>
@@ -429,7 +431,7 @@ export default function Genesis31() {
           sons and my daughters? you have now done foolishly in so doing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Labans words are hypocritical. More than likely, the Lord told
                 Jacob to depart as he did because of Labans hostile intentions.)
               </span>
@@ -451,7 +453,7 @@ export default function Genesis31() {
           have you stolen my gods?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob had no idea that Rachel had taken these things.)
               </span>
             </span>
@@ -473,7 +475,7 @@ export default function Genesis31() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When there was any question about the inheritance, the person
                 who had the teraphim [gods] was considered to have the right to
                 the double portion of the primary heir. When Jacob first came,
@@ -497,7 +499,7 @@ export default function Genesis31() {
           tent.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How foolish for Laban to call those things his gods which could
                 be stolen! Could he expect protection from things that could
                 neither resist nor discover their invaders?)
@@ -520,7 +522,7 @@ export default function Genesis31() {
           of women is upon me. And he searched but found not the images.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (She apologized for not standing, claiming that she was having
                 her period. Whether this was correct or not, we have no way of
                 knowing; but there is a good possibility that it was.)
@@ -536,7 +538,7 @@ export default function Genesis31() {
           what is my sin, that you have so hotly pursued after me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob was now very angry. Instead of Laban being sad regarding
                 his two daughters and all of his grandchildren leaving, and
                 knowing that he would possibly never see them again, he was more
@@ -552,7 +554,7 @@ export default function Genesis31() {
           stuff{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is interesting that Jacob referred to these images as stuff)
               </span>
             </span>
@@ -589,7 +591,7 @@ export default function Genesis31() {
           six years for your cattle: and you have changed my wages ten times.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob rehearses his twenty years with Laban and, in effect, is
                 saying that Laban has absolutely no reason to be angry with
                 him.)
@@ -604,7 +606,7 @@ export default function Genesis31() {
           of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Whom Laban did not serve)</span>
+              <span className="explanation">(Whom Laban did not serve)</span>
             </span>
           </span>
           , and the fear of Isaac, had been with me, surely you had sent me away
@@ -612,7 +614,7 @@ export default function Genesis31() {
           rebuked you yesternight.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The dream that the Lord gave to Laban. What a spectacle of
                 infinite humor, if it were not so sad a man seeking for his lost
                 gods! The Gospel presents us with the opposite picture the ever
@@ -634,7 +636,7 @@ export default function Genesis31() {
           their children which they have born?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At Beth-el, Jacob learned what God was; at Haran, what man was.
                 And what a difference! At Beth-el, God enriched him: at Haran,
                 man robbed him! Laban wrongly claims everything that Jacob has,
@@ -651,7 +653,7 @@ export default function Genesis31() {
           a Covenant, I and you; and let it be for a witness between me and you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban wanted this Covenant because he was afraid, relative to
                 what the Lord had told him in the dream.)
               </span>
@@ -664,7 +666,7 @@ export default function Genesis31() {
           <sup className="calibre7">45</sup>And Jacob took a stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of Christ)</span>
+              <span className="explanation">(a Type of Christ)</span>
             </span>
           </span>
           , and set it up for a pillar.
@@ -677,7 +679,7 @@ export default function Genesis31() {
           eat there upon the heap{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for both to eat signified an agreement)
               </span>
             </span>
@@ -690,13 +692,13 @@ export default function Genesis31() {
           <sup className="calibre7">47</sup>And Laban called it Jegar-sahadutha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the heap of witness)</span>
+              <span className="explanation">(the heap of witness)</span>
             </span>
           </span>
           : but Jacob called it Galeed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in Hebrew, it means the same thing, the heap of witness)
               </span>
             </span>
@@ -716,20 +718,20 @@ export default function Genesis31() {
           <sup className="calibre7">49</sup>And Mizpah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a beacon or watchtower)</span>
+              <span className="explanation">(a beacon or watchtower)</span>
             </span>
           </span>
           ; for he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Laban)</span>
+              <span className="explanation">(Laban)</span>
             </span>
           </span>{" "}
           said, The LORD watch between me and you, when we are absent one from
           another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban uses the Name of the Lord, but really does not know Him)
               </span>
             </span>
@@ -744,7 +746,7 @@ export default function Genesis31() {
           us; see, God is witness between me and you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this stage, Laban makes a show of piety as it regards his
                 daughters, but his actions have spoken much louder than his
                 words)
@@ -774,7 +776,7 @@ export default function Genesis31() {
           Nahor, the god of their father, judge between us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban now adds an oath to the covenant, calling on the God of
                 Abraham, and the gods of Nahor, to judge between Jacob and
                 Laban; all of this proves that Laban worshipped many so-called
@@ -786,7 +788,7 @@ export default function Genesis31() {
           . And Jacob swore by the fear of his father Isaac.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob ignored the gods of Nahor, and took his oath only in the
                 name of the only True God, Who was the fear of, or the One
                 Reverenced by, Isaac.)
@@ -802,7 +804,7 @@ export default function Genesis31() {
           bread, and tarried all night in the mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sacrifice meant nothing to Laban, even though he was well
                 acquainted with this practice, but everything to Jacob. In
                 essence, Jacob was saying that he was placing his faith and
@@ -821,7 +823,7 @@ export default function Genesis31() {
           departed, and returned unto his place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So, Laban passes from the scene, not to be mentioned again,
                 except in passing [
                 <ScrollLink href="/genesis-46" scrollToId="#filepos619074">

@@ -43,13 +43,13 @@ export default function Mark01() {
           , Behold, I send My Messenger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John the Baptist)</span>
+              <span className="explanation">(John the Baptist)</span>
             </span>
           </span>{" "}
           before Your Face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>
           , which shall prepare Your Way before You{" "}
@@ -122,7 +122,9 @@ export default function Mark01() {
           , and preach the baptism of Repentance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Repentance of the individual)</span>
+              <span className="explanation">
+                (Repentance of the individual)
+              </span>
             </span>
           </span>{" "}
           for the Remission of sins{" "}
@@ -169,7 +171,7 @@ export default function Mark01() {
           , and with a girdle of a skin about his loins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a sash)</span>
+              <span className="explanation">(a sash)</span>
             </span>
           </span>
           ; and he did eat locusts and wild honey{" "}
@@ -189,7 +191,7 @@ export default function Mark01() {
           <sup className="calibre7">7</sup>And preached{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deep emotion)</span>
+              <span className="explanation">(deep emotion)</span>
             </span>
           </span>
           , saying, There comes One{" "}
@@ -203,13 +205,13 @@ export default function Mark01() {
           mightier than I{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The Almighty One)</span>
+              <span className="explanation">(The Almighty One)</span>
             </span>
           </span>{" "}
           after me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I will prepare the way)</span>
+              <span className="explanation">(I will prepare the way)</span>
             </span>
           </span>
           , the latchet of Whose shoes I am not worthy to stoop down and unloose{" "}
@@ -276,7 +278,7 @@ export default function Mark01() {
           <sup className="calibre7">10</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           coming up out of the water{" "}
@@ -291,7 +293,7 @@ export default function Mark01() {
           , he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>{" "}
           saw the Heavens opened{" "}
@@ -377,19 +379,19 @@ export default function Mark01() {
           the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           driveth Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(strongly moved upon Him)</span>
+              <span className="explanation">(strongly moved upon Him)</span>
             </span>
           </span>{" "}
           into the wilderness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(believed to be near Jericho)</span>
+              <span className="explanation">(believed to be near Jericho)</span>
             </span>
           </span>
           .
@@ -401,7 +403,7 @@ export default function Mark01() {
           forty days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probationary period)</span>
+              <span className="explanation">(probationary period)</span>
             </span>
           </span>
           , tempted of Satan{" "}
@@ -441,7 +443,7 @@ export default function Mark01() {
           prison, Jesus came into Galilee, Preaching the Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Good News)</span>
+              <span className="explanation">(Good News)</span>
             </span>
           </span>{" "}
           of the Kingdom of God{" "}
@@ -469,7 +471,7 @@ export default function Mark01() {
           , and the Kingdom of God is at hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is available)</span>
+              <span className="explanation">(is available)</span>
             </span>
           </span>
           : repent ye, and believe the Gospel{" "}
@@ -492,7 +494,7 @@ export default function Mark01() {
           Galilee, He saw Simon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>{" "}
           and Andrew his brother casting a net into the sea: for they were
@@ -510,7 +512,7 @@ export default function Mark01() {
           <sup className="calibre7">18</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           they forsook their nets, and followed Him.
@@ -561,7 +563,7 @@ export default function Mark01() {
           ; and straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           on the Sabbath Day He entered into the Synagogue, and taught.
@@ -670,7 +672,7 @@ export default function Mark01() {
           <sup className="calibre7">25</sup>And Jesus rebuked him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the lead demon)</span>
+              <span className="explanation">(the lead demon)</span>
             </span>
           </span>
           , saying, Hold your peace, and come out of him{" "}
@@ -690,7 +692,7 @@ export default function Mark01() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hastily, trying to come out)</span>
+              <span className="explanation">(hastily, trying to come out)</span>
             </span>
           </span>
           , and cried with a loud voice{" "}
@@ -705,7 +707,7 @@ export default function Mark01() {
           , he came out of him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there was no delay)</span>
+              <span className="explanation">(there was no delay)</span>
             </span>
           </span>
           .
@@ -716,7 +718,7 @@ export default function Mark01() {
           <sup className="calibre7">27</sup>And they were all amazed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speechless)</span>
+              <span className="explanation">(speechless)</span>
             </span>
           </span>
           , insomuch that they questioned among themselves{" "}
@@ -788,13 +790,13 @@ export default function Mark01() {
           out of the Synagogue, they entered into the house of Simon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>{" "}
           and Andrew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peters brother)</span>
+              <span className="explanation">(Peters brother)</span>
             </span>
           </span>
           , with James and John{" "}
@@ -815,13 +817,13 @@ export default function Mark01() {
           a fever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bedridden)</span>
+              <span className="explanation">(bedridden)</span>
             </span>
           </span>
           , and anon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           they tell Him of her{" "}
@@ -844,14 +846,14 @@ export default function Mark01() {
           <sup className="calibre7">31</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           came and took her by the hand, and lifted her up; and immediately the
           fever left her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(healed immediately)</span>
+              <span className="explanation">(healed immediately)</span>
             </span>
           </span>
           , and she ministered unto them{" "}
@@ -873,14 +875,14 @@ export default function Mark01() {
           <sup className="calibre7">32</sup>And at evening, when the sun did set{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when the Sabbath ended)</span>
+              <span className="explanation">(when the Sabbath ended)</span>
             </span>
           </span>
           , they brought unto Him all who were diseased, and them who were
           possessed with devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           .
@@ -892,7 +894,7 @@ export default function Mark01() {
           together at the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all the sick and afflicted)</span>
+              <span className="explanation">(all the sick and afflicted)</span>
             </span>
           </span>
           .
@@ -912,7 +914,7 @@ export default function Mark01() {
           , and cast out many devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           ; and suffered not the devils to speak, because they knew Him{" "}
@@ -1003,7 +1005,7 @@ export default function Mark01() {
           followed after Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sought to find Him)</span>
+              <span className="explanation">(sought to find Him)</span>
             </span>
           </span>
           .
@@ -1077,7 +1079,7 @@ export default function Mark01() {
           beseeching Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(begging Him)</span>
+              <span className="explanation">(begging Him)</span>
             </span>
           </span>
           , and kneeling down to Him{" "}
@@ -1151,13 +1153,13 @@ export default function Mark01() {
           <sup className="calibre7">43</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           straitly charged him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(strongly demanded of him)</span>
+              <span className="explanation">(strongly demanded of him)</span>
             </span>
           </span>
           , and forthwith sent him away{" "}
@@ -1185,13 +1187,13 @@ export default function Mark01() {
           nothing to any man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not at the present time)</span>
+              <span className="explanation">(not at the present time)</span>
             </span>
           </span>
           : but go your way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(first)</span>
+              <span className="explanation">(first)</span>
             </span>
           </span>
           , show yourself to the Priest, and offer for your cleansing those
@@ -1228,7 +1230,7 @@ export default function Mark01() {
           more openly enter into the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was Capernaum)</span>
+              <span className="explanation">(was Capernaum)</span>
             </span>
           </span>
           , but was without in desert places{" "}

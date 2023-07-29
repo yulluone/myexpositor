@@ -21,7 +21,7 @@ export default function John20() {
           of the week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sunday)</span>
+              <span className="explanation">(Sunday)</span>
             </span>
           </span>{" "}
           comes Mary Magdalene early, when it was yet dark, unto the sepulchre{" "}
@@ -49,7 +49,7 @@ export default function John20() {
           Peter, and to the other Disciple, whom Jesus loved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John the Beloved)</span>
+              <span className="explanation">(John the Beloved)</span>
             </span>
           </span>
           , and said unto them, They have taken away the Lord out of the
@@ -72,7 +72,7 @@ export default function John20() {
           other Disciple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>
           , and came to the sepulchre{" "}
@@ -93,13 +93,13 @@ export default function John20() {
           other Disciple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>{" "}
           did outrun Peter, and came first to the sepulchre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John arrived first)</span>
+              <span className="explanation">(John arrived first)</span>
             </span>
           </span>
           .
@@ -110,7 +110,7 @@ export default function John20() {
           <sup className="calibre7">5</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>{" "}
           stooping down,{" "}
@@ -144,7 +144,7 @@ export default function John20() {
           <sup className="calibre7">6</sup>Then came Simon Peter following him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>
           , and went into the sepulchre, and saw the linen clothes lie{" "}
@@ -1025,7 +1025,9 @@ export default function John20() {
           , which are not written in this Book{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Gospel of John)</span>
+              <span className="explanation">
+                (refers to the Gospel of John)
+              </span>
             </span>
           </span>
           :

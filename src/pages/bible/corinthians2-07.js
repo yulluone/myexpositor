@@ -15,7 +15,7 @@ export default function Corinthians207() {
           <sup className="calibre7">1</sup>Having therefore these Promises{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that we can draw all nourishment from the Lord)
               </span>
             </span>
@@ -24,7 +24,7 @@ export default function Corinthians207() {
           flesh and spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when one sins, he sins spirit, soul, and body; there is no such
                 thing as the body sinning, and not the spirit, etc.)
               </span>
@@ -33,7 +33,7 @@ export default function Corinthians207() {
           , perfecting holiness in the fear of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to bring to a state of completion; we can do this only by
                 walking after the Spirit [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13387535">
@@ -59,7 +59,7 @@ export default function Corinthians207() {
           <sup className="calibre7">2</sup>Receive us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont turn a deaf ear to what we are saying)
               </span>
             </span>
@@ -68,7 +68,7 @@ export default function Corinthians207() {
           no man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is insinuating that false teachers with their false
                 doctrine would definitely wrong, corrupt, and defraud their
                 followers.)
@@ -91,7 +91,7 @@ export default function Corinthians207() {
               <span className="calibre_19">you</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I do not speak this with any desire to reproach you)
               </span>
             </span>
@@ -103,7 +103,7 @@ export default function Corinthians207() {
               <span className="calibre_19">you</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Corinthians having such a place in his
                 affections).
               </span>
@@ -122,7 +122,7 @@ export default function Corinthians207() {
           my boldness of speech toward you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were his children in the Lord)
               </span>
             </span>
@@ -136,7 +136,7 @@ export default function Corinthians207() {
           my glorying of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though he used boldness when addressing them personally,
                 behind their backs he gloried in them by praising them)
               </span>
@@ -146,7 +146,7 @@ export default function Corinthians207() {
           tribulation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The tribulation, whatever it might have been, did not take away
                 the joy.)
               </span>
@@ -160,7 +160,7 @@ export default function Corinthians207() {
           Macedonia, our flesh had no rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he had written his First Epistle to the Church at Corinth, and
                 was not certain if they would accept his admonitions; if not,
                 the Church would be lost)
@@ -182,7 +182,7 @@ export default function Corinthians207() {
           fears.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Like the rest of us, Paul was human. As such, he had all of
                 these emotions, all in regard to the Church at Corinth.)
               </span>
@@ -196,7 +196,7 @@ export default function Corinthians207() {
           who are cast down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God comforts the lowly, while He will not comfort the proud;
                 that is, if the lowly will trust Christ and what Christ did at
                 the Cross)
@@ -206,7 +206,7 @@ export default function Corinthians207() {
           , comforted us by the coming of Titus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Titus gave happy news regarding Pauls First Epistle to the
                 Corinthians; they had accepted Pauls admonitions; as well, Paul
                 puts himself in the place of the lowly)
@@ -222,7 +222,7 @@ export default function Corinthians207() {
           the consolation wherewith he was comforted in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what his coming brought, which was good news)
               </span>
             </span>
@@ -230,7 +230,7 @@ export default function Corinthians207() {
           , when he told us your earnest desire, your mourning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (over the sin being committed in the Church, and it not being
                 properly addressed)
               </span>
@@ -239,7 +239,7 @@ export default function Corinthians207() {
           , your fervent mind toward me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (their expressed love for Paul)
               </span>
             </span>
@@ -253,13 +253,13 @@ export default function Corinthians207() {
           Letter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his First Epistle to them)</span>
+              <span className="explanation">(his First Epistle to them)</span>
             </span>
           </span>
           , I do not repent, though I did repent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not a contradiction! he had to send the Letter, but he was
                 sorry it had to be sent)
               </span>
@@ -274,7 +274,7 @@ export default function Corinthians207() {
           but for a season.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They repented, and the sorrow was lifted.)
               </span>
             </span>
@@ -287,7 +287,7 @@ export default function Corinthians207() {
           sorry, but that you sorrowed to Repentance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is what the Holy Spirit intended)
               </span>
             </span>
@@ -295,13 +295,13 @@ export default function Corinthians207() {
           : for you were made sorry after a Godly manner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(toward Repentance)</span>
+              <span className="explanation">(toward Repentance)</span>
             </span>
           </span>
           , that you might receive damage by us in nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the grief of Repentance as never a loss in any
                 way.)
               </span>
@@ -314,7 +314,7 @@ export default function Corinthians207() {
           <sup className="calibre7">10</sup>For godly sorrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sorrow instigated by the Holy Spirit over wrongdoing)
               </span>
             </span>
@@ -322,7 +322,7 @@ export default function Corinthians207() {
           works Repentance to Salvation not to be repented of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that such action will never be regretted)
               </span>
             </span>
@@ -330,7 +330,7 @@ export default function Corinthians207() {
           : but the sorrow of the world works death.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents a sorrow that is merely remorse, often despair.)
               </span>
             </span>
@@ -342,7 +342,7 @@ export default function Corinthians207() {
           <sup className="calibre7">11</sup>For behold this selfsame thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the happy effects of Godly sorrow)
               </span>
             </span>
@@ -350,7 +350,7 @@ export default function Corinthians207() {
           , that you sorrowed after a Godly sort{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did what true Repentance required)
               </span>
             </span>
@@ -358,7 +358,7 @@ export default function Corinthians207() {
           , what carefulness it wrought in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they wanted to correct the wrong immediately)
               </span>
             </span>
@@ -372,7 +372,7 @@ export default function Corinthians207() {
           clearing of yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (an apology for their laxness in respect to these problems being
                 left unattended)
               </span>
@@ -387,7 +387,7 @@ export default function Corinthians207() {
           indignation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a decided hatred of sin)</span>
+              <span className="explanation">(a decided hatred of sin)</span>
             </span>
           </span>
           , yes,{" "}
@@ -399,7 +399,7 @@ export default function Corinthians207() {
           fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the fear of God they should have had all along, but
                 did not)
               </span>
@@ -414,7 +414,7 @@ export default function Corinthians207() {
           vehement desire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fervent effort to carry out that which Paul had proclaimed)
               </span>
             </span>
@@ -428,7 +428,7 @@ export default function Corinthians207() {
           zeal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (setting about the reformation in great earnest)
               </span>
             </span>
@@ -442,7 +442,7 @@ export default function Corinthians207() {
           revenge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a determination to right the wrongs perpetrated against Paul)
               </span>
             </span>
@@ -456,7 +456,7 @@ export default function Corinthians207() {
           you have approved yourselves to be clear in this matter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their Repentance was sincere, resulting in certain things
                 taking place.)
               </span>
@@ -476,7 +476,7 @@ export default function Corinthians207() {
           suffered wrong{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the one who was committing the sin of incest [I Cor., Chpt.{" "}
                 <ScrollLink
                   href="/corinthians1-05"
@@ -496,7 +496,7 @@ export default function Corinthians207() {
           , but that our care for you in the sight of God might appear unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the Church at Corinth needed direction.)
               </span>
             </span>
@@ -509,7 +509,7 @@ export default function Corinthians207() {
           comfort{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the joy and comfort the Corinthians experienced when
                 they obeyed the Word of the Lord)
               </span>
@@ -519,7 +519,7 @@ export default function Corinthians207() {
           his spirit was refreshed by you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Titus being so kindly received and hospitably
                 entertained)
               </span>
@@ -534,7 +534,7 @@ export default function Corinthians207() {
           him of you, I am not ashamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostles boast to Titus had proven to be true)
               </span>
             </span>
@@ -549,7 +549,7 @@ export default function Corinthians207() {
           before Titus, is found a Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Faith is never idle boasting)
               </span>
             </span>
@@ -563,7 +563,7 @@ export default function Corinthians207() {
           abundant toward you, while he remembered the obedience of you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is natural that the stock of this Church went up in the eyes
                 of Titus)
               </span>
@@ -572,7 +572,7 @@ export default function Corinthians207() {
           , how with fear and trembling you received him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This suggests he had not expected to be received accordingly.)
               </span>
             </span>
@@ -588,7 +588,7 @@ export default function Corinthians207() {
               <span className="calibre_19">things.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers not only to the present, but the future as well!)
               </span>
             </span>

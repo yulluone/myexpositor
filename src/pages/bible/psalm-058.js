@@ -193,13 +193,13 @@ export default function Psalm058() {
           <sup className="calibre7">10</sup>The righteous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           shall rejoice when he sees the vengeance: he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           shall wash his feet in the blood of the wicked{" "}

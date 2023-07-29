@@ -1408,7 +1408,7 @@ export default function Psalm119() {
           settled in Heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods Word is eternal.)</span>
+              <span className="explanation">(Gods Word is eternal.)</span>
             </span>
           </span>
         </span>

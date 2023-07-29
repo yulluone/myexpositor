@@ -17,7 +17,7 @@ export default function Isaiah49() {
           from the bowels of My mother has He made mention of My Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Speaker in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7851982">
                   <span className="calibre_19">
@@ -62,7 +62,7 @@ export default function Isaiah49() {
           shaft; in His quiver has He hid Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no one knew the Word like Christ; in fact, He was, and is, the
                 the Living Word [
                 <ScrollLink href="/john-01" scrollToId="#filepos12284332">
@@ -119,7 +119,7 @@ export default function Isaiah49() {
           O Israel, in Whom I will be glorified.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Servant is used concerning the Messiah. He Alone
                 portrayed the true Servant spirit. The Prophecy is that now
                 Christ, addressed as Israel, would stand as a new federal head
@@ -139,7 +139,7 @@ export default function Isaiah49() {
           judgment is with the LORD, and My work with My God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From the Exodus to Pentecost, He labored and spent Himself for
                 Israel, but in vain; yet His judgment, i.e., vindication, was
                 with Jehovah, and His work, i.e., His reward, with His God.)
@@ -156,7 +156,7 @@ export default function Isaiah49() {
           LORD, and My God shall be My strength.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse predicts that Christ will gather Israel to God; that
                 the ability enabling Him to do so will be Gods; and that He
                 Himself shall always be glorious in the Eyes of Jehovah.
@@ -190,7 +190,7 @@ export default function Isaiah49() {
           the Gentiles, that You may be My Salvation unto the end of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, It is a light thing, refers to the fact that God
                 considers the raising up of the Tribes of Jacob and the
                 Restoration of the preserved of Israel as a small thing in
@@ -224,7 +224,7 @@ export default function Isaiah49() {
           the Holy One of Israel, and He shall choose You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage gives our Lords humiliation and exaltation. The
                 Speaker in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7857053">
@@ -276,7 +276,7 @@ export default function Isaiah49() {
           establish the Earth, to cause to inherit the desolate heritages{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Father helped the Son throughout His Earthly Ministry;
                 however, the acceptable time and day of Salvation refer to
                 Calvary and the Resurrection, where at Calvary every foe was
@@ -316,7 +316,7 @@ export default function Isaiah49() {
           in the ways, and their pastures shall be in all high places.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to what Christ did at the Cross, the prisoners can be
                 released from the prison house of darkness. Coming out to the
                 Light, they shall feed in the ways and have great pastures.)
@@ -333,7 +333,7 @@ export default function Isaiah49() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7859393">
                   <span className="calibre_19">
@@ -372,7 +372,7 @@ export default function Isaiah49() {
           way, and My highways shall be exalted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan endeavors to make the Christian think that even though he
                 might make it, still, its going to be so difficult that the
                 journey will not be worth the effort! Conversely, the Holy
@@ -391,7 +391,7 @@ export default function Isaiah49() {
           land of Sinim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The four points of the compass appear in this Verse, with the
                 word far representing the south, and the word Sinim
                 representing, as many Scholars believe, China and, therefore,
@@ -424,7 +424,7 @@ export default function Isaiah49() {
           comforted His People, and will have mercy upon His afflicted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The exclamations of both the heavens and the Earth are given
                 here at the Restoration of Israel and the fulfillment of these
                 great Promises! This is happening because Israel, who has been
@@ -441,7 +441,7 @@ export default function Isaiah49() {
           me, and my Lord has forgotten me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At her most terrible time, with Jerusalem falling and the
                 Antichrist pressing for total destruction, Israel will realize
                 that the Messiah is her only hope; and yet it seems from events
@@ -459,7 +459,7 @@ export default function Isaiah49() {
           s, they may forget, yet will I not forget you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord speaks of Israel as His child. The analogy is drawn of
                 a woman who loves her child, the son of her womb. She loves it,
                 no matter how it looks, or what it has done!
@@ -487,7 +487,7 @@ export default function Isaiah49() {
           palms of My Hands; your walls are continually before Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is said that there was a custom among pilgrims to Jerusalem
                 to have representations of the city or Temple tattooed on their
                 hands and arms to remind them of the sacred places. They were
@@ -538,7 +538,7 @@ export default function Isaiah49() {
           destroyers and they who made you waste shall go forth of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Second Coming of Christ, with the defeat of
                 the Antichrist and Israel finally accepting the Lord as their
                 Saviour. When this happens, Jews from all over the world will
@@ -556,7 +556,7 @@ export default function Isaiah49() {
           with an ornament, and bind them on You, as a bride does.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, All these, continues to refer to Your children of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7864853">
                   <span className="calibre_19">
@@ -581,7 +581,7 @@ export default function Isaiah49() {
           far away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The land of your destruction refers to Israel, which has become
                 a graveyard for the entirety of the Jewish people. Now it will
                 be the opposite! All those who threatened to swallow you up
@@ -612,7 +612,7 @@ export default function Isaiah49() {
           is too strait for me: give place to me that I may dwell.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, the Holy Spirit continues to speak of the millions
                 of Jews who will come to Israel from all parts of the world at
                 the beginning of the Kingdom Age.)
@@ -629,7 +629,7 @@ export default function Isaiah49() {
           these? Behold, I was left alone; these, where had they been?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At the very conclusion of the Battle of Armageddon, and at the
                 return of Christ, after losing so many millions in this terrible
                 conflict, the leaders of Israel will wonder if they have enough
@@ -652,7 +652,7 @@ export default function Isaiah49() {
           daughters shall be carried upon their shoulders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Standard that the Lord will set up is Jesus Christ. Not
                 only will the Jews be rallying to My Standard, but the Gentiles,
                 as well!
@@ -685,7 +685,7 @@ export default function Isaiah49() {
           ashamed who wait for Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Lick up the dust, is an expression of complete
                 submission. Kings and queens, i.e., world leaders, will bow down
                 to you. This will be done, not so much because of the Jew
@@ -702,7 +702,7 @@ export default function Isaiah49() {
           mighty, or the lawful captive delivered?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mighty and terrible one of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7869690">
                   <span className="calibre_19">
@@ -744,7 +744,7 @@ export default function Isaiah49() {
           with you, and I will save your children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Deliverance that will come to Israel, even at the last
                 minute, will be the Second Coming of Christ. At that time, the
                 prey, i.e., Israel, shall be delivered.
@@ -786,7 +786,7 @@ export default function Isaiah49() {
           Saviour and your Redeemer, the Mighty One of Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage proclaims the destruction of the Antichrist and
                 all who oppose Israel in that coming day of the Battle of
                 Armageddon. At that time, and we continue to speak of the Second

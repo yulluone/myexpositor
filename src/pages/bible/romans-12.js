@@ -15,7 +15,7 @@ export default function Romans12() {
           <sup className="calibre7">1</sup>I beseech you therefore, Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I beg of you please)</span>
+              <span className="explanation">(I beg of you please)</span>
             </span>
           </span>
           , by the Mercies of God{" "}
@@ -78,7 +78,7 @@ export default function Romans12() {
           <sup className="calibre7">2</sup>And be not conformed to this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the ways of the world)</span>
+              <span className="explanation">(the ways of the world)</span>
             </span>
           </span>
           : but be you transformed by the renewing of your mind{" "}
@@ -160,7 +160,7 @@ export default function Romans12() {
           ; but to think soberly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont be high-minded)</span>
+              <span className="explanation">(dont be high-minded)</span>
             </span>
           </span>
           , according as God has dealt to every man the measure of Faith{" "}
@@ -188,7 +188,9 @@ export default function Romans12() {
           , and all members have not the same office{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a mode of acting or function)</span>
+              <span className="explanation">
+                (a mode of acting or function)
+              </span>
             </span>
           </span>
           :
@@ -257,7 +259,7 @@ export default function Romans12() {
           <sup className="calibre7">7</sup>Or Ministry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one who serves)</span>
+              <span className="explanation">(one who serves)</span>
             </span>
           </span>
           ,{" "}
@@ -315,7 +317,7 @@ export default function Romans12() {
           ; he who rules, with diligence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a position of authority)</span>
+              <span className="explanation">(a position of authority)</span>
             </span>
           </span>
           ; he who shows mercy, with cheerfulness{" "}
@@ -360,7 +362,7 @@ export default function Romans12() {
           ; cleave to that which is good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fasten, and firmly)</span>
+              <span className="explanation">(fasten, and firmly)</span>
             </span>
           </span>
           .
@@ -486,7 +488,7 @@ export default function Romans12() {
           <sup className="calibre7">14</sup>Bless them which persecute you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speak well of such a one)</span>
+              <span className="explanation">(speak well of such a one)</span>
             </span>
           </span>
           : bless, and curse not{" "}

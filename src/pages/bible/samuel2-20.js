@@ -16,7 +16,7 @@ export default function Samuel220() {
           of Belial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthless)</span>
+              <span className="explanation">(worthless)</span>
             </span>
           </span>
           , whose name was Sheba, the son of Bichri, a Benjamite: and he blew a
@@ -82,7 +82,7 @@ export default function Samuel220() {
           Judah: but he tarried longer than the set time which he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           had appointed him.{" "}
@@ -199,7 +199,7 @@ export default function Samuel220() {
           <sup className="calibre7">15</sup>And they came and besieged him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(besieged Sheba)</span>
+              <span className="explanation">(besieged Sheba)</span>
             </span>
           </span>{" "}
           in Abel of Beth-maachah, and they cast up a bank against the city, and
@@ -298,7 +298,7 @@ export default function Samuel220() {
           Abiathar were the Priests{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(both were High Priests)</span>
+              <span className="explanation">(both were High Priests)</span>
             </span>
           </span>
           :

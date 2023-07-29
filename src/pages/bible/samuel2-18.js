@@ -180,7 +180,7 @@ export default function Samuel218() {
           people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stopped the slaughter)</span>
+              <span className="explanation">(stopped the slaughter)</span>
             </span>
           </span>
         </span>
@@ -368,7 +368,7 @@ export default function Samuel218() {
           another man running alone. And the king said, He also brings tidings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this second one was Cushi)</span>
+              <span className="explanation">(this second one was Cushi)</span>
             </span>
           </span>
         </span>

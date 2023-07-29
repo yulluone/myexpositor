@@ -23,7 +23,7 @@ export default function Matthew03() {
           came John the Baptist, preaching in the wilderness of Judaea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the area near Jericho)</span>
+              <span className="explanation">(the area near Jericho)</span>
             </span>
           </span>
           ;
@@ -50,7 +50,7 @@ export default function Matthew03() {
           is at hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was being offered to Israel)</span>
+              <span className="explanation">(was being offered to Israel)</span>
             </span>
           </span>
           .
@@ -61,7 +61,7 @@ export default function Matthew03() {
           <sup className="calibre7">3</sup>For this is he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John the Baptist)</span>
+              <span className="explanation">(John the Baptist)</span>
             </span>
           </span>{" "}
           who was spoken of by the Prophet Isaiah, saying, The voice of one
@@ -98,7 +98,7 @@ export default function Matthew03() {
           all Judaea, and all the region round about Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Jordan River)</span>
+              <span className="explanation">(the Jordan River)</span>
             </span>
           </span>
           ,
@@ -109,7 +109,7 @@ export default function Matthew03() {
           <sup className="calibre7">6</sup>And were baptized of him in Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dipped completely under)</span>
+              <span className="explanation">(dipped completely under)</span>
             </span>
           </span>
           , confessing their sins.
@@ -129,13 +129,13 @@ export default function Matthew03() {
           come to his baptism{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Water Baptism)</span>
+              <span className="explanation">(Water Baptism)</span>
             </span>
           </span>
           , he said unto them, O generation of vipers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(snakes)</span>
+              <span className="explanation">(snakes)</span>
             </span>
           </span>
           , who has warned you to flee from the wrath to come?
@@ -146,13 +146,13 @@ export default function Matthew03() {
           <sup className="calibre7">8</sup>Bring forth therefore fruits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evidence)</span>
+              <span className="explanation">(evidence)</span>
             </span>
           </span>{" "}
           meet for{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(befitting)</span>
+              <span className="explanation">(befitting)</span>
             </span>
           </span>{" "}
           Repentance:
@@ -170,7 +170,7 @@ export default function Matthew03() {
           father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pride)</span>
+              <span className="explanation">(pride)</span>
             </span>
           </span>
           : for I say unto you, that God is able of these stones to raise up
@@ -239,7 +239,7 @@ export default function Matthew03() {
           : but He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           Who comes after me is mightier than I, Whose Shoes I am not worthy to
@@ -303,7 +303,7 @@ export default function Matthew03() {
           , and gather His Wheat into the garner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the end product as developed</span>
+              <span className="explanation">(the end product as developed</span>
             </span>
             <span>
               <span className="calibre_19">by the Spirit)</span>
@@ -363,7 +363,7 @@ export default function Matthew03() {
           now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(permit Me to be</span>
+              <span className="explanation">(permit Me to be</span>
             </span>
             <span>
               <span className="calibre_19">baptized)</span>
@@ -402,7 +402,7 @@ export default function Matthew03() {
           , went up straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           out of the water{" "}
@@ -425,7 +425,7 @@ export default function Matthew03() {
           , and he saw the Spirit of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           descending like a dove, and lighting upon Him{" "}
@@ -444,7 +444,7 @@ export default function Matthew03() {
           <sup className="calibre7">17</sup>And lo a Voice from Heaven, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Voice of God the Father)</span>
+              <span className="explanation">(the Voice of God the Father)</span>
             </span>
           </span>
           , This is My Beloved Son, in Whom I am well pleased{" "}

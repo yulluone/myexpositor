@@ -338,7 +338,7 @@ export default function Samuel223() {
           troop, where was a piece of ground full of lentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a pea patch)</span>
+              <span className="explanation">(a pea patch)</span>
             </span>
           </span>
           : and the people fled from the Philistines.{" "}

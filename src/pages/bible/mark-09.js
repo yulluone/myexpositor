@@ -15,13 +15,13 @@ export default function Mark09() {
           <sup className="calibre7">1</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the twelve)</span>
+              <span className="explanation">(the twelve)</span>
             </span>
           </span>
           , Verily I say unto you, That there be some of them who stand here{" "}
@@ -99,13 +99,15 @@ export default function Mark09() {
           , and leadeth them up into an high mountain apart by themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we arent told which mountain)</span>
+              <span className="explanation">
+                (we arent told which mountain)
+              </span>
             </span>
           </span>
           : and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           was transfigured before them{" "}
@@ -179,7 +181,7 @@ export default function Mark09() {
           were sore afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(terrified)</span>
+              <span className="explanation">(terrified)</span>
             </span>
           </span>
           .
@@ -233,7 +235,7 @@ export default function Mark09() {
           <sup className="calibre7">8</sup>And suddenly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims a sudden change),</span>
+              <span className="explanation">(proclaims a sudden change),</span>
             </span>
           </span>{" "}
           when they had looked round about, they saw no man any more, save Jesus
@@ -406,7 +408,7 @@ export default function Mark09() {
           with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(actually, taunting them)</span>
+              <span className="explanation">(actually, taunting them)</span>
             </span>
           </span>
           .
@@ -417,7 +419,7 @@ export default function Mark09() {
           <sup className="calibre7">15</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           all the people, when they beheld Him, were greatly amazed, and running
@@ -480,7 +482,7 @@ export default function Mark09() {
           <sup className="calibre7">18</sup>And wheresoever he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the demon spirit)</span>
+              <span className="explanation">(the demon spirit)</span>
             </span>
           </span>{" "}
           takes him, he tears him: and he foams, and gnasheth with his teeth,
@@ -551,25 +553,25 @@ export default function Mark09() {
           when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the demon spirit)</span>
+              <span className="explanation">(the demon spirit)</span>
             </span>
           </span>{" "}
           saw Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>
           , straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           the spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon spirit)</span>
+              <span className="explanation">(demon spirit)</span>
             </span>
             <span>
               <span className="calibre_19">tore</span>
@@ -578,7 +580,7 @@ export default function Mark09() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the boy)</span>
+              <span className="explanation">(the boy)</span>
             </span>
           </span>
           ; and he fell on the ground, and wallowed foaming.
@@ -589,7 +591,7 @@ export default function Mark09() {
           <sup className="calibre7">21</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           asked his father, How long is it ago since this came unto him? And he
@@ -652,7 +654,7 @@ export default function Mark09() {
           <sup className="calibre7">24</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           the father of the child cried out{" "}
@@ -765,7 +767,7 @@ export default function Mark09() {
           <sup className="calibre7">28</sup>And when He was come into the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(doesnt say which house)</span>
+              <span className="explanation">(doesnt say which house)</span>
             </span>
           </span>
           , His Disciples asked Him privately, Why could not we cast him out?{" "}
@@ -785,7 +787,7 @@ export default function Mark09() {
           <sup className="calibre7">29</sup>And He said unto them, This kind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon spirits of this power)</span>
+              <span className="explanation">(demon spirits of this power)</span>
             </span>
           </span>{" "}
           can come forth by nothing, but by prayer and fasting{" "}
@@ -845,7 +847,7 @@ export default function Mark09() {
           , and they shall kill Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Crucifixion)</span>
+              <span className="explanation">(the Crucifixion)</span>
             </span>
           </span>
           ; and after that He is killed, He shall rise the third day{" "}
@@ -884,7 +886,7 @@ export default function Mark09() {
           in the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peters house)</span>
+              <span className="explanation">(Peters house)</span>
             </span>
           </span>{" "}
           He asked them, What was it that you disputed among yourselves by the

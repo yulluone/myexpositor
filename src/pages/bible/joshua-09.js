@@ -52,7 +52,7 @@ export default function Joshua09() {
           asses, and wine bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wine skins)</span>
+              <span className="explanation">(wine skins)</span>
             </span>
           </span>
           , old, and rent, and bound up;
@@ -178,7 +178,7 @@ export default function Joshua09() {
           <sup className="calibre7">13</sup>And these bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(skins)</span>
+              <span className="explanation">(skins)</span>
             </span>
           </span>{" "}
           of wine, which we filled, were new; and, behold, they be rent: and
@@ -432,7 +432,7 @@ export default function Joshua09() {
           are very far from you; when{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in fact)</span>
+              <span className="explanation">(in fact)</span>
             </span>
           </span>{" "}
           you dwell among us?
@@ -466,7 +466,7 @@ export default function Joshua09() {
           <sup className="calibre7">26</sup>And so did he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           unto them, and delivered them out of the hand of the Children of

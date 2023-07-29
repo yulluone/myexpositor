@@ -19,7 +19,7 @@ export default function Genesis28() {
           the daughters of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was not the Will of God for Esau or Jacob to marry the
                 daughters of the land, but now that Jacob was the recipient of
                 the Blessing, thereby the chosen one as it regards the
@@ -41,7 +41,7 @@ export default function Genesis28() {
           daughters of Laban your mothers brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now we have the commencing of Gods special dealings with Jacob;
                 now begins the making of a man)
               </span>
@@ -56,7 +56,7 @@ export default function Genesis28() {
           you fruitful, and multiply you, that you may be a multitude of people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the appellative God Almighty means El-Shaddai, and promises
                 guardianship and companionship)
               </span>
@@ -72,7 +72,7 @@ export default function Genesis28() {
           wherein you are a stranger, which God gave unto Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul addressed the Blessing of Abraham [
                 <ScrollLink href="/galatians-3" scrollToId="#filepos13941154">
                   <span className="calibre_19">
@@ -97,7 +97,7 @@ export default function Genesis28() {
           of Rebekah, Jacobs and Esaus mother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac now fully seems to have returned to the path of Faith;
                 there is now no attempt to substitute Esau for Jacob, or to
                 lessen the privileges of the latter, but, with hearty
@@ -117,7 +117,7 @@ export default function Genesis28() {
           shall not take a wife of the daughters of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esau, knowing nothing of the path of Faith, concludes
                 erroneously that the reason that Isaac gave Jacob the Blessing
                 is because he [Esau] had married Canaanite women)
@@ -133,7 +133,7 @@ export default function Genesis28() {
           his mother, and was gone to Padan-aram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the obedience mentioned here of Jacob was the opposite of that
                 concerning Esau)
               </span>
@@ -155,7 +155,7 @@ export default function Genesis28() {
           son, the sister of Nebajoth, to be his wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, Ishmael had been dead now for some years, so it refers
                 to Esau going to the family of Ishmael. The truth is, Ishmael
                 was no closer to acceptance than the daughters of Canaan. He had
@@ -179,7 +179,7 @@ export default function Genesis28() {
           and went toward Haran{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob is alone, but yet God and all the Holy Angels are with
                 him, as we shall see)
               </span>
@@ -196,7 +196,7 @@ export default function Genesis28() {
           in that place to sleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sleep represents him ceasing from his personal activity and
                 God beginning His Personal activity; Jacob has much to learn,
                 and it will begin here)
@@ -213,7 +213,7 @@ export default function Genesis28() {
           the Angels of God ascending and descending on it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, the ladder represents Christ; He Alone is the Way
                 to Heaven; He would refer to this at the beginning of His
                 Ministry [
@@ -239,7 +239,7 @@ export default function Genesis28() {
           seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words above it in the original Hebrew actually should read
                 beside him; not only did the Angels descend by it to him, but
                 God Himself descended this stairway of glory and stood by him;
@@ -261,7 +261,7 @@ export default function Genesis28() {
           shall all the families of the Earth be blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this speaks of Christ, Who Alone is the Blessing; His
                 Gospel, through the Cross, would go and, in fact, has gone, to
                 the entirety of the world)
@@ -279,7 +279,7 @@ export default function Genesis28() {
           have spoken to you of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord said to Jacob: 1. I am with you; 2. I will keep you;
                 3. I will bring you again into this land; and, 4. I wont leave
                 you, until I have done all that of which I have spoken to you;
@@ -299,7 +299,7 @@ export default function Genesis28() {
           and he said, Surely the LORD is in this place; and I knew it not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for the first time, the Lord reveals Himself to Jacob; this is
                 the night that Jacob was born from above; all of this tells us
                 that all hopes of the flesh must die before the Spirit can
@@ -317,7 +317,7 @@ export default function Genesis28() {
           this is the Gate of Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, How all-inspiring is this place!; the Gate
                 of Heaven is Jesus Christ)
               </span>
@@ -333,7 +333,7 @@ export default function Genesis28() {
           it up for a pillar, and poured oil upon the top of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the stone is a Type of Christ, with the oil serving as a symbol
                 of the Holy Spirit; no doubt, he was inspired by the Lord to do
                 this)
@@ -349,7 +349,7 @@ export default function Genesis28() {
           Beth-el: but the name of that city was called Luz at the first{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beth-el means House of God; Luz means separation; the Lord can
                 turn Luz into the House of God, only as the Believer is
                 separated from the world)
@@ -364,7 +364,7 @@ export default function Genesis28() {
           <sup className="calibre7">20</sup>And Jacob vowed a vow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first recorded vow in the Bible)
               </span>
             </span>
@@ -372,7 +372,7 @@ export default function Genesis28() {
           , saying, If God be with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should read, Since God be with me)
               </span>
             </span>
@@ -387,7 +387,7 @@ export default function Genesis28() {
           house in peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (free from Esaus avenging threats)
               </span>
             </span>
@@ -400,13 +400,13 @@ export default function Genesis28() {
           <sup className="calibre7">22</sup>And this stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(representing Christ)</span>
+              <span className="explanation">(representing Christ)</span>
             </span>
           </span>
           , which I have set for a pillar, shall be Gods House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this sets the stage for the Holy Spirit making the
                 Believer His Sanctuary; it was all made possible by the Cross [
                 <ScrollLink href="/john-14" scrollToId="#filepos12608539">
@@ -424,7 +424,7 @@ export default function Genesis28() {
           you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This obviously means that Jacob gave a tenth of his vast herds
                 of sheep and cattle to the Lord as a Sacrifice. If that, in
                 fact, was the case, we now find Jacob offering up Sacrifices to

@@ -89,7 +89,9 @@ export default function Psalm034() {
           lightened: and their faces were not ashamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(such will always be the case)</span>
+              <span className="explanation">
+                (such will always be the case)
+              </span>
             </span>
           </span>
           .
@@ -204,7 +206,7 @@ export default function Psalm034() {
           hunger: but they who seek the LORD shall not want any good thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a promise!)</span>
+              <span className="explanation">(what a promise!)</span>
             </span>
           </span>
           .
@@ -315,7 +317,9 @@ export default function Psalm034() {
           hears, and delivers them out of all their troubles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(take the problem to the Lord)</span>
+              <span className="explanation">
+                (take the problem to the Lord)
+              </span>
             </span>
           </span>
           .

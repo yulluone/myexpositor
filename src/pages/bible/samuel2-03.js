@@ -149,7 +149,7 @@ export default function Samuel203() {
           <sup className="calibre7">11</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ish-bosheth)</span>
+              <span className="explanation">(Ish-bosheth)</span>
             </span>
           </span>{" "}
           could not answer Abner a word again, because he feared him.

@@ -87,7 +87,7 @@ export default function Psalm002() {
           : the LORD shall have them in derision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(holds them in contempt)</span>
+              <span className="explanation">(holds them in contempt)</span>
             </span>
           </span>
           .
@@ -138,7 +138,7 @@ export default function Psalm002() {
           : the LORD has said unto Me, You are My Son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           ; this day have I begotten You.{" "}

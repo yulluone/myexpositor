@@ -80,7 +80,7 @@ export default function Leviticus11() {
           <sup className="calibre7">6</sup>And the hare{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rabbit)</span>
+              <span className="explanation">(rabbit)</span>
             </span>
           </span>
           , because he chews the cud, but divides not the hoof; he is unclean
@@ -270,7 +270,7 @@ export default function Leviticus11() {
           you: whoso touches their carcase shall be unclean until the evening{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(approximately 6 p.m.)</span>
+              <span className="explanation">(approximately 6 p.m.)</span>
             </span>
           </span>
         </span>

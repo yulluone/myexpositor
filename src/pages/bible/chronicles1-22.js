@@ -16,7 +16,7 @@ export default function Chronicles122() {
           the LORD God, and this is the Altar of the Burnt Offering for Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, this is where the House of the Lord will be
                 built)
               </span>
@@ -32,7 +32,7 @@ export default function Chronicles122() {
           masons to hew wrought stones to build the House of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Davids heart, until the day of his death, would be for the
                 preparation of the Temple construction)
               </span>
@@ -48,7 +48,7 @@ export default function Chronicles122() {
           brass in abundance without weight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (here we have the beginning of gathering the materials for the
                 Temple not counted in the 7 years of the actual construction by
                 Solomon)
@@ -73,7 +73,7 @@ export default function Chronicles122() {
           prepared abundantly before his death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this House was to be in type the Millennial Glory of the
                 Messiah, just as the Tabernacle had set forth His Mediatorial
                 Glory)
@@ -92,7 +92,7 @@ export default function Chronicles122() {
           and charged him to build an House for the LORD God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon was chosen by the Lord [
                 <ScrollLink href="/kings1-01" scrollToId="#filepos3686937">
                   <span className="calibre_19">
@@ -139,7 +139,7 @@ export default function Chronicles122() {
           blood upon the Earth in My sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David typifies Christ as a Man of war, destroying His enemies;
                 Solomon, as Christ, the Prince of Peace, reigning over a kingdom
                 free from these enemies)
@@ -157,7 +157,7 @@ export default function Chronicles122() {
           peace and quietness unto Israel in his days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse proclaims that Solomon was named before he was born;
                 he was one of the seven men in the Bible named before birth)
               </span>
@@ -173,7 +173,7 @@ export default function Chronicles122() {
           the throne of his kingdom over Israel for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the complete fulfillment will be in Christ, and will take place
                 in the coming Kingdom Age [Isa., Chpt.{" "}
                 <ScrollLink href="/isaiah-11" scrollToId="#filepos7397010">
@@ -197,7 +197,7 @@ export default function Chronicles122() {
           said of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the charge by David given to Solomon)
               </span>
             </span>
@@ -212,7 +212,7 @@ export default function Chronicles122() {
           keep the Law of the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these words said by David may have been the germ of Solomons
                 own prayer, which pleased the Lord [
                 <ScrollLink href="/kings1-03" scrollToId="#filepos3722218">
@@ -245,7 +245,7 @@ export default function Chronicles122() {
           not, nor be dismayed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (basically, David quotes the very words given by the Lord to
                 Joshua, which were given about 500 years earlier; however, a
                 general Promise given by the Lord is applicable to anyone who
@@ -262,7 +262,7 @@ export default function Chronicles122() {
           prepared for the House of the LORD an hundred thousand talents of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (approximately $50 billion in 2004 currency)
               </span>
             </span>
@@ -270,7 +270,7 @@ export default function Chronicles122() {
           , and a thousand thousand talents of silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (approximately $100 million in 2004 currency)
               </span>
             </span>
@@ -279,7 +279,7 @@ export default function Chronicles122() {
           also and stone have I prepared; and you may add thereto{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these words confirm what so often appears in the character of
                 David, that all through his stormy life of warfare, his heart
                 was true to one great purpose, the establishment of the House of
@@ -304,7 +304,7 @@ export default function Chronicles122() {
           doing, and the LORD be with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this command, Arise... and be doing, should be the criteria for
                 every Believer, as well!)
               </span>
@@ -327,7 +327,7 @@ export default function Chronicles122() {
           the LORD, and before His people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At long last, every enemy has been defeated, and the great
                 Promises of God have been brought to fulfillment. What a
                 moment!)
@@ -345,7 +345,7 @@ export default function Chronicles122() {
           the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is basically the same Word given by Christ in{" "}
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10918843">
                   <span className="calibre_19">

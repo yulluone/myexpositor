@@ -16,7 +16,7 @@ export default function Revelation08() {
           Seal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the last Seal)</span>
+              <span className="explanation">(this is the last Seal)</span>
             </span>
           </span>
           , there was silence in Heaven about the space of half an hour.{" "}
@@ -217,7 +217,7 @@ export default function Revelation08() {
           <sup className="calibre7">7</sup>The first Angel sounded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first Trumpet Judgment)</span>
+              <span className="explanation">(the first Trumpet Judgment)</span>
             </span>
           </span>
           , and there followed hail and fire mingled with blood, and they were

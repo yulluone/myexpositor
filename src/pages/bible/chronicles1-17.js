@@ -18,7 +18,7 @@ export default function Chronicles117() {
           curtains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David is here a Type of the Lord Jesus Christ residing in
                 Jerusalem in the glories of the Kingdom Age; all enemies are
                 defeated; David desires to build a house for the Lord; this
@@ -36,7 +36,7 @@ export default function Chronicles117() {
           that is in your heart; for God is with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the Lord definitely was with David, it was not the Will
                 of God that David build the House; this tells us that
                 irrespective as to who the person might be, even a Prophet such
@@ -58,7 +58,7 @@ export default function Chronicles117() {
           that the Word of God came to Nathan, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as to how the Lord spoke to Nathan, we arent told; however, the
                 main thing is, Nathan was in such a spiritual condition that God
                 could speak to him; regrettably, that isnt the case with most)
@@ -74,7 +74,7 @@ export default function Chronicles117() {
           says the LORD, you shall not build Me an house to dwell in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hebrew marks the personal pronoun, you, as emphatic; you
                 shall not build)
               </span>
@@ -89,14 +89,14 @@ export default function Chronicles117() {
           since the day that I brought up Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(out of Egypt)</span>
+              <span className="explanation">(out of Egypt)</span>
             </span>
           </span>{" "}
           unto this day; but have gone from tent to tent, and from one
           tabernacle to another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord means to remind David how surely and faithfully He had
                 shared the pilgrim lot and unsettledness of His people)
               </span>
@@ -113,7 +113,7 @@ export default function Chronicles117() {
           house of cedars?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord had shared their lot, and had shared it
                 unmurmuringly.)
               </span>
@@ -129,7 +129,7 @@ export default function Chronicles117() {
           over My People Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse records the price of admission into this house; it
                 is trust in the slain Lamb, by the route of humility; as well,
                 David was a shepherd, and the Lord Jesus Christ also would be a
@@ -156,7 +156,7 @@ export default function Chronicles117() {
           who are in the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God will be with those who desire to be with Him)
               </span>
             </span>
@@ -172,7 +172,7 @@ export default function Chronicles117() {
           wickedness waste them anymore, as at the beginning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is Gods unconditional Covenant with Israel; however, it
                 must be stated that this unconditional Covenant is unconditional
                 only in the sense that God will bring the Promises to pass
@@ -197,7 +197,7 @@ export default function Chronicles117() {
           enemies. Furthermore I tell you that the LORD will build you an house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the more complete fulfillment of this Promise awaits the coming
                 of the Messiah [
                 <ScrollLink href="/isaiah-09" scrollToId="#filepos7366780">
@@ -235,7 +235,7 @@ export default function Chronicles117() {
           establish his kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this has a double application, with Solomon being spoken of in
                 the immediate present, but far more so in the Lord Jesus Christ
                 as the Son of David)
@@ -251,7 +251,7 @@ export default function Chronicles117() {
           will stablish his throne for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the total fulfillment will be in Christ, Who will occupy this
                 Throne in the coming Kingdom Age, and then forever)
               </span>
@@ -267,7 +267,7 @@ export default function Chronicles117() {
           from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saul)</span>
+              <span className="explanation">(Saul)</span>
             </span>
           </span>{" "}
           who was before you:
@@ -280,7 +280,7 @@ export default function Chronicles117() {
           evermore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Arabs should read these words, and consider them carefully;
                 in fact, the entirety of the world needs to read them, and to
                 consider them carefully)
@@ -306,7 +306,7 @@ export default function Chronicles117() {
           that You have brought me hitherto?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David now knows fully and beyond the shadow of a doubt that the
                 Messiah will come through his lineage.)
               </span>
@@ -322,7 +322,7 @@ export default function Chronicles117() {
           a man of high degree, O LORD God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though it is not recorded in this Chapter, still, in{" "}
                 <ScrollLink href="/samuel2-07" scrollToId="#filepos3459728">
                   <span className="calibre_19">
@@ -357,7 +357,7 @@ export default function Chronicles117() {
           the honour of Your servant? for You know Your servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that David in no way could merit this great and high
                 honor, even as no Child of God can merit the high honor of
                 Salvation freely given by the Lord Jesus Christ)
@@ -374,7 +374,7 @@ export default function Chronicles117() {
           making known all these great things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, David exclaims the Glory of God, which is so much
                 greater than what he at first thought; he wanted to build a
                 house for the Lord; instead, the Lord tells David that He will
@@ -392,7 +392,7 @@ export default function Chronicles117() {
           heard with our ears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no heathen god, which, in fact, was no god at all, but rather
                 figments of mens imaginations, could compare with this!)
               </span>
@@ -409,7 +409,7 @@ export default function Chronicles117() {
           nations from before Your People, whom You have redeemed out of Egypt?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel constituted the only people on Earth who knew Jehovah,
                 the Creator of the ages.)
               </span>
@@ -423,7 +423,7 @@ export default function Chronicles117() {
           Your own people for ever; and You, LORD, became their God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this meant that Israel was light-years, so to speak, above
                 every other nation in the world)
               </span>
@@ -439,7 +439,7 @@ export default function Chronicles117() {
           be established for ever, and do as You have said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this has only partially been fulfilled, but definitely will be
                 fulfilled in the coming Kingdom Age)
               </span>
@@ -456,7 +456,7 @@ export default function Chronicles117() {
           servant be established before You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (hence Jesus said to the woman at Jacobs well, For Salvation is
                 of the Jews [
                 <ScrollLink href="/john-04" scrollToId="#filepos12354068">
@@ -481,7 +481,7 @@ export default function Chronicles117() {
           found in his heart to pray before You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when prayers are found in the heart, they are the result of
                 gratitude or the overflow of some desperate need)
               </span>
@@ -496,7 +496,7 @@ export default function Chronicles117() {
           promised this goodness unto Your servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God keeps His Promises!)</span>
+              <span className="explanation">(God keeps His Promises!)</span>
             </span>
           </span>
           :
@@ -509,7 +509,7 @@ export default function Chronicles117() {
           for You bless, O LORD, and it shall be blessed for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what God has blessed, nothing can curse [
                 <ScrollLink href="/numbers-23" scrollToId="#filepos1975301">
                   <span className="calibre_19">

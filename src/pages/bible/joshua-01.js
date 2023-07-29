@@ -100,7 +100,7 @@ export default function Joshua01() {
           stand before you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before Joshua)</span>
+              <span className="explanation">(before Joshua)</span>
             </span>
           </span>{" "}
           all the days of your life: as I was with Moses, so I will be with you:
@@ -213,7 +213,7 @@ export default function Joshua01() {
           good success.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What a Promise!)</span>
+              <span className="explanation">(What a Promise!)</span>
             </span>
           </span>
         </span>

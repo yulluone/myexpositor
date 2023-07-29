@@ -222,13 +222,13 @@ export default function Kings208() {
           <sup className="calibre7">11</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           settled his countenance stedfastly, until he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hazael)</span>
+              <span className="explanation">(Hazael)</span>
             </span>
           </span>{" "}
           was ashamed: and the man of God wept.{" "}
@@ -274,7 +274,7 @@ export default function Kings208() {
           his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ben-hadads)</span>
+              <span className="explanation">(Ben-hadads)</span>
             </span>
           </span>{" "}
           face, so that he died: and Hazael reigned in his stead.
@@ -388,7 +388,7 @@ export default function Kings208() {
           hand of Judah unto this day. Then Libnah revolted at the same time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all as a result of sin)</span>
+              <span className="explanation">(all as a result of sin)</span>
             </span>
           </span>
           .

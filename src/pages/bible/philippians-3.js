@@ -64,7 +64,7 @@ export default function Philippians3() {
           , beware of evil workers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they denigrated the Cross)</span>
+              <span className="explanation">(they denigrated the Cross)</span>
             </span>
           </span>
           , beware of the concision.{" "}
@@ -125,7 +125,7 @@ export default function Philippians3() {
           in the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to human attainments)</span>
+              <span className="explanation">(refers to human attainments)</span>
             </span>
           </span>
           . If any other man thinks that he has whereof he might trust in the
@@ -149,7 +149,7 @@ export default function Philippians3() {
           stock of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was a pure-blooded Jew)</span>
+              <span className="explanation">(he was a pure-blooded Jew)</span>
             </span>
           </span>
           ,{" "}
@@ -302,7 +302,7 @@ export default function Philippians3() {
           , but that which is through the Faith of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what He did at the Cross)</span>
+              <span className="explanation">(what He did at the Cross)</span>
             </span>
           </span>
           , the Righteousness which is of God by Faith{" "}
@@ -418,7 +418,7 @@ export default function Philippians3() {
           : but I follow after{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to pursue)</span>
+              <span className="explanation">(to pursue)</span>
             </span>
           </span>
           , if that I may apprehend{" "}
@@ -506,7 +506,7 @@ export default function Philippians3() {
           for the prize of the high calling of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christlikeness)</span>
+              <span className="explanation">(Christlikeness)</span>
             </span>
           </span>{" "}
           in Christ Jesus{" "}
@@ -552,7 +552,7 @@ export default function Philippians3() {
           perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mature)</span>
+              <span className="explanation">(mature)</span>
             </span>
           </span>
           , be thus minded{" "}
@@ -583,7 +583,7 @@ export default function Philippians3() {
           already attained{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(progress)</span>
+              <span className="explanation">(progress)</span>
             </span>
           </span>
           , let us walk by the same rule, let us mind the same thing.{" "}
@@ -613,13 +613,13 @@ export default function Philippians3() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be fellow-imitators)</span>
+              <span className="explanation">(be fellow-imitators)</span>
             </span>
           </span>
           , and mark them which walk so as you have us for an ensample{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(observe intently)</span>
+              <span className="explanation">(observe intently)</span>
             </span>
           </span>
           .
@@ -730,7 +730,7 @@ export default function Philippians3() {
           <sup className="calibre7">20</sup>For our conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(citizenship)</span>
+              <span className="explanation">(citizenship)</span>
             </span>
           </span>{" "}
           is in Heaven{" "}
@@ -744,7 +744,7 @@ export default function Philippians3() {
           ; from whence also we look for the Saviour, the Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture)</span>
+              <span className="explanation">(the Rapture)</span>
             </span>
           </span>
           :
@@ -755,13 +755,13 @@ export default function Philippians3() {
           <sup className="calibre7">21</sup>Who{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           shall change our vile body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>
           , that it may be fashioned like unto His Glorious Body{" "}

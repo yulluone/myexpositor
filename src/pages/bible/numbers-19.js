@@ -123,7 +123,7 @@ export default function Numbers19() {
           <sup className="calibre7">6</sup>And the Priest shall take cedar wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typical of the Cross)</span>
+              <span className="explanation">(typical of the Cross)</span>
             </span>
           </span>
           , and hyssop{" "}
@@ -137,7 +137,7 @@ export default function Numbers19() {
           , and scarlet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typical of the shed Blood)</span>
+              <span className="explanation">(typical of the shed Blood)</span>
             </span>
           </span>
           , and cast it into the midst of the burning of the heifer{" "}
@@ -178,7 +178,7 @@ export default function Numbers19() {
           <sup className="calibre7">8</sup>And he who burns her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the heifer)</span>
+              <span className="explanation">(the heifer)</span>
             </span>
           </span>{" "}
           shall wash his clothes in water, and bathe his flesh in water, and

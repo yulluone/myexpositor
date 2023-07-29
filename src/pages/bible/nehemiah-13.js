@@ -164,7 +164,7 @@ export default function Nehemiah13() {
           chamber{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(connected to the Temple)</span>
+              <span className="explanation">(connected to the Temple)</span>
             </span>
           </span>
           , where aforetime they laid the Meat Offerings, the frankincense, and
@@ -236,13 +236,13 @@ export default function Nehemiah13() {
           understood of the evil that Eliashib{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the High Priest)</span>
+              <span className="explanation">(the High Priest)</span>
             </span>
           </span>{" "}
           did for Tobiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ammonite)</span>
+              <span className="explanation">(the Ammonite)</span>
             </span>
           </span>
           , in preparing him a chamber in the courts of the House of God.
@@ -516,7 +516,7 @@ export default function Nehemiah13() {
           , and cursed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(reviled them)</span>
+              <span className="explanation">(reviled them)</span>
             </span>
           </span>
           , and smote certain of them, and plucked off their hair, and made them

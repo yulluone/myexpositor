@@ -18,7 +18,7 @@ export default function Exodus30() {
           Incense upon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Altar of Incense, which portrays Christ making
                 Intercession for us constantly [
                 <ScrollLink href="/hebrews-07" scrollToId="#filepos14498207">
@@ -35,7 +35,7 @@ export default function Exodus30() {
           : of Shittim Wood shall you make it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indestructible wood, portraying the perfect manhood of Christ [
                 <ScrollLink
                   href="/corinthians1-15"
@@ -60,25 +60,25 @@ export default function Exodus30() {
           and a cubit the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(1 and 1/2 feet)</span>
+              <span className="explanation">(1 and 1/2 feet)</span>
             </span>
           </span>
           ; foursquare shall it be: and two cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 feet)</span>
+              <span className="explanation">(3 feet)</span>
             </span>
           </span>{" "}
           shall be the height thereof: the horns thereof shall be of the same{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the four horns of the Brazen Altar signified that the power
                 of Redemption was for all, likewise, the four horns of the Altar
                 of Incense stipulate the fact that the Believer can have total
@@ -130,7 +130,7 @@ export default function Exodus30() {
           Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the wood typified the Humanity of Christ, the Gold
                 typified His Deity)
               </span>
@@ -140,7 +140,7 @@ export default function Exodus30() {
           thereof; and you shall make unto it a Crown of Gold round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying the Kingly character of Christ [
                 <ScrollLink href="/john-19" scrollToId="#filepos12700203">
                   <span className="calibre_19">
@@ -163,7 +163,7 @@ export default function Exodus30() {
           sides of it shall you make it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (two is the number of witness, and speaks of the Holy Spirit,
                 Who is here to testify of Christ [
                 <ScrollLink href="/john-15" scrollToId="#filepos12634675">
@@ -180,7 +180,7 @@ export default function Exodus30() {
           ; and they shall be for places for the staves to bear it withal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the staves of wood overlaid with gold intimate that it is the
                 God-Man Whom the Spirit is here to glorify; at times it had to
                 be moved, so it was to be a day and night companion of a pilgrim
@@ -211,13 +211,13 @@ export default function Exodus30() {
           that is by the Ark of the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ark of the Covenant)</span>
+              <span className="explanation">(Ark of the Covenant)</span>
             </span>
           </span>
           , before the Mercy Seat that is over the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ten Commandments inside the Ark of the Covenant)
               </span>
             </span>
@@ -225,7 +225,7 @@ export default function Exodus30() {
           , where I will meet with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar of Incense was to sit immediately in front of the
                 Veil, which separated the Holy Place from the Holy of Holies.
                 So, in point of fact, it was situated immediately in front of
@@ -260,7 +260,7 @@ export default function Exodus30() {
           Incense every morning: when he dresses the lamps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Golden Lampstand)</span>
+              <span className="explanation">(the Golden Lampstand)</span>
             </span>
           </span>
           , he shall burn Incense upon it.
@@ -273,7 +273,7 @@ export default function Exodus30() {
           LORD throughout your generations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One or more coals of fire were to be taken from the Brazen
                 Altar, which typified the Cross, and placed on the Altar of
                 Incense, with Incense poured over the coals, which filled the
@@ -321,7 +321,7 @@ export default function Exodus30() {
           there on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Incense poured on the burning coals had to be that which
                 the Lord had designed, and no other kind; anything else would be
                 called strange incense, and would be unacceptable! As we will
@@ -334,7 +334,7 @@ export default function Exodus30() {
           , nor burnt sacrifice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord will recognize no Sacrifice but that of the Cross, of
                 which the Brazen Altar was a Type; the Altar of Incense was for
                 worship and intercession only, all made possible by the Cross;
@@ -346,7 +346,7 @@ export default function Exodus30() {
           , nor Meat Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning this, Pink says: This, in figure, tells us that our
                 Great High Priest expects no blessings which His Blood has not
                 purchased, and expects pardon from Divine Justice for no sins
@@ -359,7 +359,7 @@ export default function Exodus30() {
           ; neither shall you pour Drink Offering thereon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Anytime the Believer places his faith and trust in anything
                 other than the Cross, he violates the Cross of Christ, and
                 wrongly uses the Altar of Incense, which, if continued, will
@@ -385,7 +385,7 @@ export default function Exodus30() {
           throughout your generations: it is most holy unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Great Day of Atonement, which took place
                 once a year. The Blood applied to the horns typifies the fact
                 that the Believer can have total dominion over sin, but can only
@@ -418,7 +418,7 @@ export default function Exodus30() {
           <sup className="calibre7">12</sup>When you take the sum{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(census)</span>
+              <span className="explanation">(census)</span>
             </span>
           </span>{" "}
           of the Children of Israel after their number, then shall they give
@@ -426,7 +426,7 @@ export default function Exodus30() {
           that there be no plague among them, when you number them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos1128688">
                   <span className="calibre_19">
@@ -461,7 +461,7 @@ export default function Exodus30() {
           the Offering of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (equal to about $40 in 2004 money)
               </span>
             </span>
@@ -483,7 +483,7 @@ export default function Exodus30() {
           Offering unto the LORD, to make an Atonement for your souls.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All gave the same whether rich or poor, placing every man on an
                 equal footing in relation to God and obligation to the Law. It
                 should be noted that the money did not actually redeem the soul.
@@ -521,7 +521,7 @@ export default function Exodus30() {
           souls.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A census taken of the Children of Israel was important, because
                 they belonged to God, and they belonged to Him by virtue of the
                 slain lamb, and their Faith in that Sacrifice [
@@ -560,26 +560,26 @@ export default function Exodus30() {
           <sup className="calibre7">18</sup>You shall also make a Laver of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
           , and his foot also of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a pedestal on which it sat)</span>
+              <span className="explanation">(a pedestal on which it sat)</span>
             </span>
           </span>
           , to wash withal: and you shall put it between the Tabernacle of the
           congregation and the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Altar)</span>
+              <span className="explanation">(Brazen Altar)</span>
             </span>
           </span>
           , and you shall put Water therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Water was a Type of the Word of God. One might say that the
                 Brazen Altar was for the sinner; the Brazen Laver for the Saint.
                 The former testified of the Blood of Christ; the latter, of the
@@ -619,7 +619,7 @@ export default function Exodus30() {
           them, even to him and to his seed throughout their generations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hands spoke of their doing, while the feet spoke of their
                 walk, referring to lifestyle. Before attending to the duties of
                 the Lord, they needed cleansing from constant defilement, hence
@@ -648,7 +648,7 @@ export default function Exodus30() {
           spices, of pure Myrrh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a gum which exudes from a particular tree through incisions
                 made for the purpose; this typifies Christ Who was pierced for
                 us, and from Whose wounds there flowed a sweet smelling savour
@@ -667,7 +667,7 @@ export default function Exodus30() {
           five hundred shekels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the shekel at that time was actually a weight instead of a
                 coin; it was about one third of a modern ounce; representing
                 silver, the five hundred shekels were worth, in 2004 money,
@@ -679,7 +679,7 @@ export default function Exodus30() {
           shekels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cinnamon was very rare at that time; it came from the inner
                 bark or rind of a tree allied to the laurel)
               </span>
@@ -688,7 +688,7 @@ export default function Exodus30() {
           , and of sweet Calamus two hundred and fifty shekels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(came from aromatic reeds)</span>
+              <span className="explanation">(came from aromatic reeds)</span>
             </span>
           </span>
           ,
@@ -699,7 +699,7 @@ export default function Exodus30() {
           <sup className="calibre7">24</sup>And of Cassia five hundred shekels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (came from the inner bark distinct from the Cinnamon tree)
               </span>
             </span>
@@ -707,7 +707,7 @@ export default function Exodus30() {
           , after the shekel of the sanctuary, and of Oil olive an hin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about a gallon; all of these spices were extracted by either
                 cutting or crushing or both; such proclaimed the fact that the
                 great Work carried out by Christ on the Cross of Calvary
@@ -732,13 +732,13 @@ export default function Exodus30() {
           ointment, an ointment compound after the art of the apothecary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(maker of perfumes)</span>
+              <span className="explanation">(maker of perfumes)</span>
             </span>
           </span>
           : it shall be an holy anointing Oil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Oil was a Type of the Holy Spirit, with the perfumes being
                 a Type of Christ. The minutest emotions of Christs Nature as a
                 Man were perfect; and all were of like weight in His sinless
@@ -754,7 +754,7 @@ export default function Exodus30() {
           of the congregation therewith, and the Ark of the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that it was all dedicated to the Lord)
               </span>
             </span>
@@ -767,13 +767,13 @@ export default function Exodus30() {
           <sup className="calibre7">27</sup>And the Table{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Table of Shewbread)</span>
+              <span className="explanation">(Table of Shewbread)</span>
             </span>
           </span>{" "}
           and all his vessels, and the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>{" "}
           and his vessels, and the Altar of Incense,
@@ -785,13 +785,13 @@ export default function Exodus30() {
           all his vessels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brazen Altar)</span>
+              <span className="explanation">(the Brazen Altar)</span>
             </span>
           </span>
           , and the laver and his foot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Laver)</span>
+              <span className="explanation">(Brazen Laver)</span>
             </span>
           </span>
         </span>
@@ -803,7 +803,9 @@ export default function Exodus30() {
           they may be most holy: whatsoever touches them shall be holy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because it symbolized Christ)</span>
+              <span className="explanation">
+                (because it symbolized Christ)
+              </span>
             </span>
           </span>
         </span>
@@ -816,7 +818,7 @@ export default function Exodus30() {
           Priests office{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were Types of Christ, as well)
               </span>
             </span>
@@ -831,7 +833,7 @@ export default function Exodus30() {
           Me throughout your generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (or at least until the Cross was a fact, and the Holy Spirit
                 could then come in a new dimension; then, these things would no
                 longer be needed)
@@ -848,7 +850,7 @@ export default function Exodus30() {
           composition of it: it is holy, and it shall be holy unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This ointment was not to be imitated, nor poured upon mans
                 flesh. Spiritual graces cannot be imitated, nor can they be
                 given to men in the flesh.)
@@ -863,13 +865,13 @@ export default function Exodus30() {
           whosoever puts any of it upon a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , shall even be cut off from his people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that this particular Israelite would lose his soul; the
                 Holy Spirit, Who glorifies Christ, must not be trifled with [
                 <ScrollLink href="/matthew-12" scrollToId="#filepos11013211">
@@ -896,7 +898,7 @@ export default function Exodus30() {
           spices with pure Frankincense{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these four typified the Intercessory Work of Christ, all on our
                 behalf)
               </span>
@@ -905,7 +907,7 @@ export default function Exodus30() {
           : of each shall there be a like weight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, Christ was Perfect in every respect)
               </span>
             </span>
@@ -920,7 +922,7 @@ export default function Exodus30() {
           and holy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prepared by one who was skilled in this art)
               </span>
             </span>
@@ -934,7 +936,7 @@ export default function Exodus30() {
           small{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Intercession by Christ on our behalf is
                 needed in all things, even in the very small things)
               </span>
@@ -945,7 +947,7 @@ export default function Exodus30() {
           holy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These spices mentioned are those which made up the Incense that
                 was poured upon the coals of fire, which were brought from the
                 Brazen Altar, and placed on the Altar of Incense.)
@@ -961,7 +963,7 @@ export default function Exodus30() {
           composition thereof: it shall be unto you holy for the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be used only as directed by the Word of God; Gods Government
                 is exact in His Word; it must not be changed, diluted, added to,
                 or taken from)
@@ -977,7 +979,7 @@ export default function Exodus30() {
           to smell thereto, shall even be cut off from his people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will lose his soul; all of this, in one way or the other,
                 points to Christ and the Cross; if the Cross is rejected, then
                 Salvation is rejected, as well!)

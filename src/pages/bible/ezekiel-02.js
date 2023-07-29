@@ -16,7 +16,7 @@ export default function Ezekiel02() {
           stand upon your feet, and I will speak unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Apart from the four Gospels, the term, Son of man, is not used
                 in the New Testament; and apart from Ezekiel, it is found only
                 in{" "}
@@ -63,14 +63,14 @@ export default function Ezekiel02() {
           <sup className="calibre7">2</sup>And the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           entered into me when He spoke unto me, and set me upon my feet, that I
           heard Him Who spoke unto me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And the Spirit entered into me, refers to Ezekiel
                 being given the Holy Spirit in order to perform a particular
                 service. It is not the same as the Baptism with the Holy Spirit,
@@ -96,7 +96,7 @@ export default function Ezekiel02() {
           Me, even unto this very day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel, in this Book, is addressed as son of man, and not as a
                 son of Abraham, for Israel was now Lo-Ammi [
                 <ScrollLink href="/hosea-01" scrollToId="#filepos9967454">
@@ -143,7 +143,7 @@ export default function Ezekiel02() {
           Thus sa ys the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words which Ezekiel were to speak were to be the words of
                 Adonai Jehovah. God was their Author. In the Hebrew, the Name
                 Lord GOD is Adonai Jehovah. As such, it is characteristic of
@@ -160,7 +160,7 @@ export default function Ezekiel02() {
           shall know that there has been a Prophet among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the first time, the Lord designates the calling of Prophet
                 to Ezekiel! The Lord is speaking primarily of the Exiles.)
               </span>
@@ -177,7 +177,7 @@ export default function Ezekiel02() {
           house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their rebellion was against God, and despite the miracles, Law,
                 Patriarchs, and Prophets. They simply would not obey the Bible.)
               </span>
@@ -192,7 +192,7 @@ export default function Ezekiel02() {
           are most rebellious.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And you shall speak My Words unto them, is encouraging in that
                 the Words conveyed would be those given by Jehovah. At the same
                 time, there is a warning against the intermingling of lower
@@ -212,7 +212,7 @@ export default function Ezekiel02() {
           mouth, and eat that I give you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Be not you rebellious like that rebellious house, is a warning
                 against the Prophets natural weakness. Open your mouth, and eat
                 that I give you, concerns the Lord giving him the Words he was
@@ -228,7 +228,7 @@ export default function Ezekiel02() {
           was sent unto me; and, lo, a roll of a Book was therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the books of that day were actually several skins sewn together
                 to make a long piece which was rolled up from each end. An hand
                 was sent unto me, seems to imply that even though it came from
@@ -258,7 +258,7 @@ export default function Ezekiel02() {
           lamentations, and mourning, and woe.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord spread it before him, he finds that it is no
                 message of glad tidings, but instead of lamentations, and
                 mourning, and woe.)

@@ -181,7 +181,7 @@ export default function Corinthians106() {
           and that before the unbelievers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a bad example!)</span>
+              <span className="explanation">(a bad example!)</span>
             </span>
           </span>
           .
@@ -309,7 +309,7 @@ export default function Corinthians106() {
           <sup className="calibre7">11</sup>And such were some of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before conversion)</span>
+              <span className="explanation">(before conversion)</span>
             </span>
           </span>
           : but you are washed{" "}
@@ -323,13 +323,13 @@ export default function Corinthians106() {
           , but you are Sanctified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ones position in Christ)</span>
+              <span className="explanation">(ones position in Christ)</span>
             </span>
           </span>
           , but you are Justified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(declared not guilty)</span>
+              <span className="explanation">(declared not guilty)</span>
             </span>
           </span>{" "}
           in the Name of the Lord Jesus{" "}
@@ -367,7 +367,7 @@ export default function Corinthians106() {
           , but all things are not expedient{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not profitable)</span>
+              <span className="explanation">(not profitable)</span>
             </span>
           </span>
           : all things are Lawful for me, but I will not be brought under the
@@ -445,7 +445,9 @@ export default function Corinthians106() {
           <sup className="calibre7">14</sup>And God has both raised up the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection of our Lord)</span>
+              <span className="explanation">
+                (the Resurrection of our Lord)
+              </span>
             </span>
           </span>
           , and will also raise up us by His Own Power{" "}
@@ -492,7 +494,7 @@ export default function Corinthians106() {
           God forbid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(may it never be!)</span>
+              <span className="explanation">(may it never be!)</span>
             </span>
           </span>
           .
@@ -656,7 +658,7 @@ export default function Corinthians106() {
           , and you are not your own?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(We belong to the Lord.)</span>
+              <span className="explanation">(We belong to the Lord.)</span>
             </span>
           </span>
         </span>
@@ -674,13 +676,13 @@ export default function Corinthians106() {
           : therefore Glorify God in your body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the house of the Spirit)</span>
+              <span className="explanation">(the house of the Spirit)</span>
             </span>
           </span>
           , and in your spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the use of the house)</span>
+              <span className="explanation">(the use of the house)</span>
             </span>
           </span>
           , which are Gods{" "}

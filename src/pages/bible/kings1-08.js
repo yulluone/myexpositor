@@ -78,7 +78,7 @@ export default function Kings108() {
           is the seventh month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(October)</span>
+              <span className="explanation">(October)</span>
             </span>
           </span>
         </span>
@@ -219,13 +219,13 @@ export default function Kings108() {
           two tables of stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ten Commandments)</span>
+              <span className="explanation">(the Ten Commandments)</span>
             </span>
           </span>
           , which Moses put there at Horeb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(over 500 years before)</span>
+              <span className="explanation">(over 500 years before)</span>
             </span>
           </span>
           , when the LORD made a Covenant with the Children of Israel, when they
@@ -738,7 +738,7 @@ export default function Kings108() {
           <sup className="calibre7">41</sup>Moreover concerning a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , who is not of Your people Israel, but comes out of a far country for
@@ -776,13 +776,13 @@ export default function Kings108() {
           unto the LORD toward the city which You have chosen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>
           , and toward the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Temple)</span>
+              <span className="explanation">(the Temple)</span>
             </span>
           </span>{" "}
           that I have built for Your Name{" "}
@@ -823,7 +823,7 @@ export default function Kings108() {
           ,) and You be angry with them, and deliver them to the enemy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because they have sinned)</span>
+              <span className="explanation">(because they have sinned)</span>
             </span>
           </span>
           , so that they carry them away captives unto the land of the enemy,

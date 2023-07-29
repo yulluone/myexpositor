@@ -18,7 +18,7 @@ export default function Hosea04() {
           knowledge of God in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this Chapter, except{" "}
                 <ScrollLink href="/" scrollToId="#filepos9997867">
                   <span className="calibre_19">
@@ -59,7 +59,7 @@ export default function Hosea04() {
           touches blood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They break out, speaks of the terrible sins mentioned and
                 presents the allusion of water overflowing its banks and
                 spreading in all directions. It means to break through the
@@ -80,7 +80,7 @@ export default function Hosea04() {
           shall be taken away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore shall the land mourn, is the result of the sins of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9990502">
                   <span className="calibre_19">
@@ -112,7 +112,7 @@ export default function Hosea04() {
           another: for your people are as they who strive with the Priest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers back to the true position of the High Priest in
                 Israel, whose word was Law; consequently, there was no point in
                 striving with him. Consequently, it is also useless concerning
@@ -141,7 +141,7 @@ export default function Hosea04() {
           destroy your mother.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first part of this Verse has to do with both people and
                 prophet, which actually refers to false prophets, and that all
                 would fall alike, whether day or night. The destruction of the
@@ -160,7 +160,7 @@ export default function Hosea04() {
           Law of your God, I will also forget your children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My People are destroyed for lack of knowledge, is the cause of
                 all the problems in the church, and the world, for that matter!
                 The knowledge spoken of is the Bible. This lack of knowledge was
@@ -177,7 +177,7 @@ export default function Hosea04() {
           sinned against Me: therefore will I change their glory into shame.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The increase speaks both numerically and economically.
                 Therefore will I change their glory into shame, may also read:
                 My glory have they changed into shame; that is, they substituted
@@ -193,7 +193,7 @@ export default function Hosea04() {
           they set their heart on their iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They eat up the sin of My People, actually meant that the
                 Priests ate the Sin Offering instead of offering it as a Burnt
                 Offering, as they were supposed to do.)
@@ -209,7 +209,7 @@ export default function Hosea04() {
           doings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Like people, like Priests, they were one in guilt and,
                 therefore, justly one in punishment. The word reward is
                 generally used in the positive sense, but here it is used in the
@@ -226,7 +226,7 @@ export default function Hosea04() {
           they have left off to take heed to the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They shall commit whoredom, and shall not increase, means that
                 because of whoredom, i.e., idolatry, the Lord will stop the
                 numerical increase of the nation. A large population was then
@@ -243,7 +243,7 @@ export default function Hosea04() {
           away the heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Idol worship and its licentious rites destroy the understanding
                 and make men insensible to their own good.)
               </span>
@@ -262,7 +262,7 @@ export default function Hosea04() {
           under their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Their stocks, refers to wooden idols. Their staff
                 refers to divination rods [
                 <ScrollLink href="/ezekiel-21" scrollToId="#filepos9309190">
@@ -294,7 +294,7 @@ export default function Hosea04() {
           harlots: therefore the people who do not understand shall fall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The tops of mountains, of hills, and of houses were chosen for
                 the worship of idols because they were nearer to the sun, moon,
                 and stars. The wives and daughters were guilty of actual
@@ -332,7 +332,7 @@ export default function Hosea04() {
           up to Beth-aven, nor swear, The LORD lives.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Though you, Israel, play the harlot, yet let not Judah offend,
                 means that Israel had passed the point of no return. Judah is
                 advised to not follow suit. Nor swear, The LORD lives, refers to
@@ -349,7 +349,7 @@ export default function Hosea04() {
           place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse could read, Israel is refractory as a refractory
                 heifer, that is, one who throws the yoke off its neck. Now the
                 LORD will feed them as a lamb in a large place, means that He
@@ -370,7 +370,7 @@ export default function Hosea04() {
           alone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ephraim, being the dominant Tribe, gave its name, along with
                 Israel, to the Northern Kingdom. Joined to idols, means that he
                 is mated or united to his idols and will not get a divorce from
@@ -400,7 +400,7 @@ export default function Hosea04() {
           you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Committed whoredom continually, shows that idolatry was the
                 cause of their Spiritual condition, which would result in their
                 destruction. Her rulers with shame do love, Give you, pertains
@@ -419,7 +419,7 @@ export default function Hosea04() {
           wings, and they shall be ashamed because of their sacrifices.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wind, i.e., the spirit of idolatry [
                 <ScrollLink href="/" scrollToId="#filepos9995881">
                   <span className="calibre_19">

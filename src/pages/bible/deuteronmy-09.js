@@ -24,7 +24,7 @@ export default function Deuteronmy09() {
           stand before the children of Anak!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Without the Lord, there was no way that Israel could have taken
                 the land of Canaan. But with the Lord, they could do all
                 things.)
@@ -51,7 +51,7 @@ export default function Deuteronmy09() {
           before you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it wasnt because Israel was so good that these nations were
                 driven out, but simply because the pagans were so wicked)
               </span>
@@ -69,7 +69,7 @@ export default function Deuteronmy09() {
           swore unto your fathers, Abraham, Isaac, and Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-15" scrollToId="#filepos199779">
                   <span className="calibre_19">
@@ -103,7 +103,7 @@ export default function Deuteronmy09() {
           place, you have been rebellious against the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many blessings are promised here, but promised not at all
                 because of the righteousness of Israel. The truth was, they were
                 stiffnecked and rebellious. But God loved them just the same,
@@ -119,7 +119,7 @@ export default function Deuteronmy09() {
           to wrath, so that the LORD was angry with you to have destroyed you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-32" scrollToId="#filepos1152670">
                   <span className="calibre_19">
@@ -151,7 +151,7 @@ export default function Deuteronmy09() {
           the Mount out of the midst of the fire in the day of the assembly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ten Commandments [Ex., Chpt.{" "}
                 <ScrollLink href="/exodus-20" scrollToId="#filepos961212">
                   <span className="calibre_19">
@@ -183,7 +183,7 @@ export default function Deuteronmy09() {
           them a molten image{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the golden calf [Ex., Chpt.{" "}
                 <ScrollLink href="/exodus-32" scrollToId="#filepos1147369">
                   <span className="calibre_19">
@@ -234,7 +234,7 @@ export default function Deuteronmy09() {
           them out of my two hands, and broke them before your eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no record that the Lord reprimanded Moses for this
                 act)
               </span>
@@ -258,7 +258,7 @@ export default function Deuteronmy09() {
           you. But the LORD hearkened unto me at that time also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses pleaded for the Lord to spare Israel [
                 <ScrollLink href="/exodus-32" scrollToId="#filepos1163497">
                   <span className="calibre_19">
@@ -280,7 +280,7 @@ export default function Deuteronmy09() {
           Aaron to have destroyed him: and I prayed for Aaron also the same time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the evidence here is that the Lord would have killed Aaron had
                 not Moses interceded for him)
               </span>
@@ -303,7 +303,7 @@ export default function Deuteronmy09() {
           at Kibroth-hattaavah, you provoked the LORD to wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/numbers-11" scrollToId="#filepos1811350">
                   <span className="calibre_19">
@@ -327,7 +327,7 @@ export default function Deuteronmy09() {
           and you believed Him not, nor hearkened to His Voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/numbers-13" scrollToId="#filepos1841301">
                   <span className="calibre_19">
@@ -382,7 +382,7 @@ export default function Deuteronmy09() {
           to their wickedness, nor to their sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses served as a mediator between God and Israel)
               </span>
             </span>

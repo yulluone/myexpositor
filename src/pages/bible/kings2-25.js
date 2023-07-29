@@ -16,7 +16,7 @@ export default function Kings225() {
           of his reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the reign of Zedekiah)</span>
+              <span className="explanation">(the reign of Zedekiah)</span>
             </span>
           </span>
           , in the tenth month, in the tenth day of the month, that
@@ -233,7 +233,7 @@ export default function Kings225() {
           <sup className="calibre7">9</sup>And he burnt the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Temple)</span>
+              <span className="explanation">(the Temple)</span>
             </span>
           </span>
           , and the kings house, and all the houses of Jerusalem, and every
@@ -289,7 +289,7 @@ export default function Kings225() {
           in the House of the LORD, and the bases, and the Brasen Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Laver)</span>
+              <span className="explanation">(Brazen Laver)</span>
             </span>
           </span>{" "}
           that was in the House of the LORD, did the Chaldees break in pieces,
@@ -358,14 +358,14 @@ export default function Kings225() {
           eighteen cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(27 feet)</span>
+              <span className="explanation">(27 feet)</span>
             </span>
           </span>
           , and the chapiter upon it was brass: and the height of the chapiter
           three cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(4 feet)</span>
+              <span className="explanation">(4 feet)</span>
             </span>
           </span>
           ; and the wreathen work, and pomegranates upon the chapiter round

@@ -267,7 +267,7 @@ export default function Romans15() {
           , For this cause I will confess to You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to God)</span>
+              <span className="explanation">(to God)</span>
             </span>
           </span>{" "}
           among the Gentiles, and sing unto Your Name{" "}
@@ -435,7 +435,9 @@ export default function Romans15() {
           you, my Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(has faith in these Believers)</span>
+              <span className="explanation">
+                (has faith in these Believers)
+              </span>
             </span>
           </span>
           , that you also are full of goodness{" "}
@@ -449,7 +451,7 @@ export default function Romans15() {
           , filled with all knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(knowledge of the Word)</span>
+              <span className="explanation">(knowledge of the Word)</span>
             </span>
           </span>
           , able also to admonish one another{" "}
@@ -611,7 +613,7 @@ export default function Romans15() {
           Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of his earnest zeal)</span>
+              <span className="explanation">(speaks of his earnest zeal)</span>
             </span>
           </span>
           , not where Christ was named{" "}

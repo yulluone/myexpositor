@@ -17,7 +17,7 @@ export default function Isaiah20() {
           Ashdod, and took it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy is different from the Prophecy of the previous
                 Chapter, which is obvious; its lesson for Israel was the bitter
                 fruit that the servants of God must taste when the arm of flesh
@@ -36,7 +36,7 @@ export default function Isaiah20() {
           walking naked and barefoot.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehovah was the Speaker and Isaiah was His Instrument. The
                 Prophet was not naked, as we think of such, simply laying aside
                 his peculiar prophetic garment.)
@@ -52,7 +52,7 @@ export default function Isaiah20() {
           upon Egypt and upon Ethiopia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the three years mentioned here probably refer to the same
                 number mentioned in{" "}
                 <ScrollLink href="/isaiah-16" scrollToId="#filepos7449369">
@@ -78,7 +78,7 @@ export default function Isaiah20() {
           shame of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such was meant the object lesson of Isaiah of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7475380">
                   <span className="calibre_19">
@@ -102,7 +102,7 @@ export default function Isaiah20() {
           of Ethiopia their expectation, and of Egypt their glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet is telling Judah not to look to Ethiopia or Egypt
                 for help, because none would be forthcoming from these sectors,
                 due to the fact that they themselves would be completely
@@ -120,7 +120,7 @@ export default function Isaiah20() {
           escape?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah would ask the question, How shall we escape? If they
                 cannot get the help of Ethiopia and Egypt, what can they do?
               </span>

@@ -19,7 +19,7 @@ export default function Exodus29() {
           office: Take one young bullock, and two rams without blemish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter pertains to the consecration of the Priests. It
                 began with Sacrifice, i.e., the Cross. All consecration must
                 begin with the Cross, or else it isnt consecration. The young
@@ -37,7 +37,7 @@ export default function Exodus29() {
           of wheaten flour shall you make them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The unleavened bread signifies the Perfect Life of Christ, and
                 the oil typified the Holy Spirit, which was upon Him without
                 measure [
@@ -61,7 +61,7 @@ export default function Exodus29() {
           rams.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The unleavened bread and the wafers were put into one basket,
                 because all pertained to Christ.)
               </span>
@@ -79,7 +79,7 @@ export default function Exodus29() {
           wash them with water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though it does not mention it here, this was probably
                 before the great Laver. The washing with water speaks of the
                 Word of God [
@@ -115,7 +115,7 @@ export default function Exodus29() {
           head, and put the Holy Crown upon the Mitre.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these things were Types of Christ, in His Atoning,
                 Intercessory, and Mediatorial Work. It was topped off by the
                 placing of the Holy Crown upon his head. It marked the royal
@@ -136,7 +136,7 @@ export default function Exodus29() {
           Oil, and pour it upon his head, and anoint him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This signified, as would be obvious, the Holy Spirit [
                 <ScrollLink href="/luke-04" scrollToId="#filepos11778560">
                   <span className="calibre_19">
@@ -168,7 +168,7 @@ export default function Exodus29() {
           consecrate Aaron and his sons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is to be noticed, Aaron was anointed before the blood was
                 shed, as it respects the Sacrifices being offered. This was done
                 in this manner, because he stands before us as the Type of
@@ -193,7 +193,7 @@ export default function Exodus29() {
           sons shall put their hands upon the head of the bullock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, transferring their sins to this innocent victim;
                 this portrays Christ taking our sins upon Himself, and then
                 paying the penalty for those sins, which we will see
@@ -210,7 +210,7 @@ export default function Exodus29() {
           before the LORD, by the door of the Tabernacle of the congregation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was commanded by the Lord. This tells us that Jesus had to
                 die. In fact, His Crucifixion was not an execution, or an
                 assassination, it was a Sacrifice. It had been planned by God
@@ -235,7 +235,7 @@ export default function Exodus29() {
           the bullock, and put it upon the horns of the Altar with your finger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (horns specify power; as well, these horns were on all four
                 corners of the Altar, pointing toward the north, south, east,
                 and west; this signified the Power of the Cross in delivering
@@ -258,7 +258,7 @@ export default function Exodus29() {
           , and pour all the blood beside the bottom of the Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This signified the Blood that would be shed by Christ at the
                 Crucifixion, in the pouring out of His Life, which would redeem
                 humanity, at least for those who will believe [
@@ -282,7 +282,7 @@ export default function Exodus29() {
           kidneys, and the fat that is upon them, and burn them upon the Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fat signified the health and prosperity of the animal,
                 symbolizing that God would give His best for our Redemption and,
                 as well, it signified blessing upon the one who receives
@@ -307,7 +307,7 @@ export default function Exodus29() {
           is a Sin Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The curse of sin, which was on them, made them unfit for food,
                 and even unworthy of burial within the camp. So the remains were
                 to be taken outside the camp, and burned with fire. Jesus was
@@ -341,7 +341,7 @@ export default function Exodus29() {
           shall take his blood, and sprinkle it round about upon the Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The portrayal in the Levitical Offerings of Substitution and
                 Identification is the very heart of the Gospel. Jesus Christ
                 became our Substitute, and we identify with Him, and are,
@@ -384,7 +384,7 @@ export default function Exodus29() {
           <sup className="calibre7">17</sup>And you shall cut the ram in pieces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that sin is more than a surface problem; it goes to
                 the very vitals of the individual)
               </span>
@@ -393,7 +393,7 @@ export default function Exodus29() {
           , and wash the inwards of him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this portrays the purity of Christ)
               </span>
             </span>
@@ -401,7 +401,7 @@ export default function Exodus29() {
           , and his legs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that the walk of Christ was perfect)
               </span>
             </span>
@@ -409,7 +409,7 @@ export default function Exodus29() {
           , and put them unto his pieces, and unto his head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the fact that Christ was perfectly lucid at all times
                 during the Crucifixion)
               </span>
@@ -424,7 +424,7 @@ export default function Exodus29() {
           upon the Altar: it is a Burnt Offering unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Burnt Offering signifies consecration; the Lord would give
                 Heavens best for our Redemption)
               </span>
@@ -433,7 +433,7 @@ export default function Exodus29() {
           : it is a sweet savour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was such because it represented what Christ would do in
                 order to redeem fallen humanity)
               </span>
@@ -442,7 +442,7 @@ export default function Exodus29() {
           , an offering made by fire unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fire signified the Judgment of God which came upon Christ,
                 instead of upon us. Once again, its the Doctrine of Substitution
                 and Identification.)
@@ -460,7 +460,7 @@ export default function Exodus29() {
           and Aaron and his sons shall put their hands upon the head of the ram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(do so before it was killed)</span>
+              <span className="explanation">(do so before it was killed)</span>
             </span>
           </span>
         </span>
@@ -472,7 +472,7 @@ export default function Exodus29() {
           take of his blood, and put it upon the tip of the right ear of Aaron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presenting the fact that Christ heard only the Father [
                 <ScrollLink href="/john-14" scrollToId="#filepos12613771">
                   <span className="calibre_19">
@@ -489,7 +489,7 @@ export default function Exodus29() {
           their right hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that Christ always did right)
               </span>
             </span>
@@ -497,7 +497,7 @@ export default function Exodus29() {
           , and upon the great toe of their right foot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ always walked right regarding character)
               </span>
             </span>
@@ -505,7 +505,7 @@ export default function Exodus29() {
           , and sprinkle the blood upon the Altar round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaimed the fact that they could not live as they ought
                 to live, do as they ought to do, be as they ought to be, without
                 Faith in Christ and what He would do for us at the Cross [
@@ -530,7 +530,7 @@ export default function Exodus29() {
           of his sons with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that the blood and the anointing oil were mixed
                 together, and then sprinkled upon Aaron, upon his garments, as
                 well as upon his sons, etc.; this proclaims the way in which the
@@ -550,7 +550,7 @@ export default function Exodus29() {
           : and he shall be hallowed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(consecrated)</span>
+              <span className="explanation">(consecrated)</span>
             </span>
           </span>
           , and his garments, and his sons, and his sons garments with him.
@@ -578,7 +578,7 @@ export default function Exodus29() {
           Offering before the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this specifies thankfulness for material blessings, but,
                 above all, for what Christ would do in order to redeem humanity.
                 Wave Offerings now are carried out by Believers lifting their
@@ -595,7 +595,7 @@ export default function Exodus29() {
           Savour before the LORD: it is an Offering made by fire unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This signifies that our praises to the Lord are done strictly
                 because of what Christ has done at the Cross, and such are
                 accepted by the Lord solely because of our Faith in Christ and
@@ -623,7 +623,7 @@ export default function Exodus29() {
           LORD: and it shall be your part.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, they could take this part for themselves for
                 food, symbolizing the eating of Christ [
                 <ScrollLink href="/john-06" scrollToId="#filepos12421893">
@@ -647,7 +647,7 @@ export default function Exodus29() {
           that which is for Aaron, and of that which is for his sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the shoulder was to be heaved, while the breast was to be
                 waved; the former typified Christ taking our sins upon Himself,
                 while the latter typified thankfulness that He had done so)
@@ -666,7 +666,7 @@ export default function Exodus29() {
           Offering unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When a Burnt, Sin, or Trespass Offering was presented to the
                 Lord by the Priests, and on behalf of the people, then a Peace
                 Offering was to be presented to the Lord. It signified that God
@@ -705,7 +705,7 @@ export default function Exodus29() {
           of the congregation to minister in the Holy Place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The High Priesthood was to ever remain in the family of Aaron,
                 which it did down through the centuries, with the exception of
                 the last years when Jesus came. Then it was dictated by Rome.
@@ -730,7 +730,7 @@ export default function Exodus29() {
           consecration, and seethe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(roast)</span>
+              <span className="explanation">(roast)</span>
             </span>
           </span>{" "}
           his flesh in the Holy Place.
@@ -742,7 +742,7 @@ export default function Exodus29() {
           flesh of the ram, and the bread that is in the basket{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which Jesus addressed in{" "}
                 <ScrollLink href="/john-06" scrollToId="#filepos12421893">
                   <span className="calibre_19">
@@ -759,7 +759,7 @@ export default function Exodus29() {
           , by the door of the Tabernacle of the congregation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus is the Door [
                 <ScrollLink href="/john-10" scrollToId="#filepos12508598">
                   <span className="calibre_19">
@@ -790,7 +790,7 @@ export default function Exodus29() {
           but a stranger shall not eat thereof, because they are holy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a stranger could not partake of this repast, referring to the
                 fact that the person who doesnt know Christ surely cannot
                 partake of His Blessings [
@@ -816,7 +816,7 @@ export default function Exodus29() {
           is holy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the fact that one must partake of all of
                 Christ, in other words, the entirety of the Cross, which all of
                 this typifies.)
@@ -840,7 +840,7 @@ export default function Exodus29() {
           it, to sanctify it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that Christ sanctified the Cross, but
                 the Cross didnt sanctify Him, because He didnt need such. This
                 completely abrogates the erroneous doctrine, as taught by some,
@@ -878,7 +878,7 @@ export default function Exodus29() {
           most holy: whatsoever touches the Altar shall be holy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus sanctified the Cross; consequently, everything done there
                 is most holy. As well, everyone who places their faith and trust
                 in Christ, and what He did at the Cross, is holy; however, it is
@@ -910,7 +910,7 @@ export default function Exodus29() {
           continually.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word continually stresses the fact that the Believer must
                 place his faith and trust in Christ and the Cross, doing so
                 daily, and everlastingly [
@@ -933,13 +933,13 @@ export default function Exodus29() {
           morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 a.m.)</span>
+              <span className="explanation">(9 a.m.)</span>
             </span>
           </span>
           ; and the other lamb you shall offer at evening{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (3 p.m.; Jesus was placed on the Cross at 9 a.m., the time of
                 the morning sacrifice, and died at 3 p.m., the time of the
                 evening sacrifice [
@@ -963,7 +963,7 @@ export default function Exodus29() {
           of the flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the Perfect Manhood and Perfect Life of Christ)
               </span>
             </span>
@@ -971,7 +971,7 @@ export default function Exodus29() {
           mingled with the fourth part of an hin of beaten oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the Holy Spirit, which was on Him and in Him, as in
                 no other, and brought to fruition after the wilderness
                 experience, hence, the word beaten, which speaks of the crushing
@@ -998,13 +998,13 @@ export default function Exodus29() {
           ; and the fourth part of an hin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about a quart)</span>
+              <span className="explanation">(about a quart)</span>
             </span>
           </span>{" "}
           of wine for a Drink Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which speaks of joy, which all will have who follow Christ [
                 <ScrollLink href="/peter1-1" scrollToId="#filepos14675325">
                   <span className="calibre_19">
@@ -1026,14 +1026,14 @@ export default function Exodus29() {
           at evening, and shall do thereto according to the Meat Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Thanksgiving Offering)</span>
+              <span className="explanation">(Thanksgiving Offering)</span>
             </span>
           </span>{" "}
           of the morning, and according to the Drink Offering thereof, for a
           Sweet Savour, an Offering made by fire unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this represents what Christ would do at the Cross and,
                 as such, is a Sweet Savour to God the Father [
                 <ScrollLink href="/matthew-03" scrollToId="#filepos10858056">
@@ -1057,7 +1057,7 @@ export default function Exodus29() {
           the congregation before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a continual trust in Christ and the Cross; hence Paul referred
                 to the Cross as The Everlasting Covenant [
                 <ScrollLink href="/hebrews-13" scrollToId="#filepos14606342">
@@ -1074,7 +1074,7 @@ export default function Exodus29() {
           : where I will meet you, to speak there unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the Source, but the Cross is the Means by which God
                 meets with us, and the only Means!)
               </span>
@@ -1088,7 +1088,7 @@ export default function Exodus29() {
           Children of Israel, and the Tabernacle shall be sanctified by My Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Glory is only upon that which is of Christ, and is extended
                 to man by and through what Christ did at the Cross [
                 <ScrollLink href="/hebrews-10" scrollToId="#filepos14539500">
@@ -1112,7 +1112,7 @@ export default function Exodus29() {
           and his sons, to minister to Me in the Priests office{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord sanctified the Tabernacle, because it was a Type of
                 Christ; the Altar, as well, was sanctified, because it
                 represented Christ and what He would do at the Cross; all the
@@ -1134,7 +1134,7 @@ export default function Exodus29() {
           of Israel, and will be their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the Cross, the Lord now dwells within the heart and life
                 of the Believer [
                 <ScrollLink
@@ -1160,7 +1160,7 @@ export default function Exodus29() {
           I may dwell among them: I am the LORD their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this tells us that the Lord will meet with us and dwell
                 with us, only as we go by the way of the slain Lamb [
                 <ScrollLink href="/john-01" scrollToId="#filepos12298674">

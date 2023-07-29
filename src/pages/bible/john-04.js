@@ -293,7 +293,7 @@ export default function John04() {
           Whosoever drinks of this water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(water of the world)</span>
+              <span className="explanation">(water of the world)</span>
             </span>
           </span>{" "}
           shall thirst again{" "}
@@ -815,7 +815,7 @@ export default function John04() {
           cometh harvest?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The harvest is now!)</span>
+              <span className="explanation">(The harvest is now!)</span>
             </span>
           </span>{" "}
           behold, I say unto you, Lift up your eyes, and look on the fields{" "}
@@ -834,7 +834,7 @@ export default function John04() {
           <sup className="calibre7">36</sup>And He who reaps receives wages{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wages are souls)</span>
+              <span className="explanation">(the wages are souls)</span>
             </span>
           </span>
           , and gathers fruit unto life eternal{" "}
@@ -1101,7 +1101,7 @@ export default function John04() {
           Galilee, where He made the water wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His First Miracle)</span>
+              <span className="explanation">(His First Miracle)</span>
             </span>
           </span>
           . And there was a certain nobleman, whose son was sick at Capernaum{" "}
@@ -1191,7 +1191,7 @@ export default function John04() {
           went his way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(back to Capernaum)</span>
+              <span className="explanation">(back to Capernaum)</span>
             </span>
           </span>
           .

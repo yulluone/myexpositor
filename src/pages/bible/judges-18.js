@@ -55,7 +55,7 @@ export default function Judges18() {
           family five men from their coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>
           , men of valour, from Zorah, and from Eshtaol, to spy out the land,
@@ -151,7 +151,7 @@ export default function Judges18() {
           be not slothful to go, and to enter to possess the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in other words, do it now!)</span>
+              <span className="explanation">(in other words, do it now!)</span>
             </span>
           </span>
         </span>

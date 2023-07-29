@@ -400,7 +400,7 @@ export default function John17() {
           , and I come to You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ascension)</span>
+              <span className="explanation">(the Ascension)</span>
             </span>
           </span>
           . Holy Father, keep through Your Own Name those whom You have given Me{" "}
@@ -753,13 +753,13 @@ export default function John17() {
           in Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unity and Communion)</span>
+              <span className="explanation">(unity and Communion)</span>
             </span>
           </span>
           , and I in You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unity and Purpose)</span>
+              <span className="explanation">(unity and Purpose)</span>
             </span>
           </span>
           , that they also may be One in Us{" "}
@@ -789,7 +789,7 @@ export default function John17() {
           have given them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unity and Glory)</span>
+              <span className="explanation">(unity and Glory)</span>
             </span>
           </span>
           ; that they may be one, even as We are One{" "}
@@ -848,7 +848,7 @@ export default function John17() {
           You have given Me, be with Me where I am{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one with the Father)</span>
+              <span className="explanation">(one with the Father)</span>
             </span>
           </span>
           ; that they may behold My Glory, which You have given Me{" "}

@@ -126,7 +126,7 @@ export default function Psalm081() {
           <sup className="calibre7">6</sup>I removed his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israels)</span>
+              <span className="explanation">(Israels)</span>
             </span>
           </span>{" "}
           shoulder from the burden: his hands were delivered from the pots{" "}

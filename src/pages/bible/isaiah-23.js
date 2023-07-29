@@ -17,7 +17,7 @@ export default function Isaiah23() {
           entering in: from the land of Chittim it is revealed to them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tyre, in its early days, was a great stronghold. Tarshish
                 refers to Spain and Chittim refers to Cyprus.)
               </span>
@@ -32,7 +32,7 @@ export default function Isaiah23() {
           replenished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The general meaning of the words, have replenished, concern
                 Zidon, which was secondary to Tyre and, for the most part,
                 acquiesced to Tyrian supremacy.)
@@ -48,7 +48,7 @@ export default function Isaiah23() {
           nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sihor is another name for the Nile River in Egypt. The phrase,
                 mart of nations, has to do with Tyres being somewhat of a
                 clearinghouse for great cargo vessels from Egypt and other
@@ -66,7 +66,7 @@ export default function Isaiah23() {
           virgins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage has to do with Zidons statement respecting Tyre.
                 Even though Tyre was the stronger of the two cities, it seems
                 that Zidon in essence had founded this great trade mart; so
@@ -84,7 +84,7 @@ export default function Isaiah23() {
           shall they be sorely pained at the report of Tyre.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Egyptians bore no great affection towards foreign nations.
                 They were a people whose charity began and ended at home. But
                 the fall of Tyre was always a shock to them and they felt it
@@ -100,7 +100,7 @@ export default function Isaiah23() {
           inhabitants of the isle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Nebuchadnezzar would lay siege to the city, approximately
                 100 years into the future, many of the inhabitants would flee,
                 taking their wealth with them. So when the city was finally
@@ -119,7 +119,7 @@ export default function Isaiah23() {
           sojourn.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The feet of Tyre were her ships. As a man flees upon his feet,
                 so the Tyrians would flee upon their ships.)
               </span>
@@ -134,7 +134,7 @@ export default function Isaiah23() {
           traffickers are the honourable of the Earth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question as to Who has taken this counsel against Tyre?
                 will be answered in the next Verse.)
               </span>
@@ -149,7 +149,7 @@ export default function Isaiah23() {
           honourable of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse tells us that God was the One Who took counsel
                 against Tyre. It presents the judgment of Tyre as an earnest of
                 the universal judgment yet to come upon the world, which will
@@ -166,7 +166,7 @@ export default function Isaiah23() {
           daughter of Tarshish: there is no more strength.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The announcement is here given by the Holy Spirit that colony
                 cities, such as Tarshish, were no more to be subject to the
                 bonds of Tyre.)
@@ -182,7 +182,7 @@ export default function Isaiah23() {
           the merchant city, to destroy the strongholds thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is the Lord of Glory. He would give instructions for the
                 destruction of the city, because of her pride.)
               </span>
@@ -197,7 +197,7 @@ export default function Isaiah23() {
           to Chittim; there also shall you have no rest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning of the Passage is that once the quest by the
                 Babylonians commences, they will not cease until they have
                 accomplished their intended purpose.)
@@ -214,7 +214,7 @@ export default function Isaiah23() {
           palaces thereof; and he brought it to ruin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet points to Assyria, a stronger and much more ancient
                 government, and urged that it would fall before the king of the
                 Chaldeans. How much more surely would Tyre fall!)
@@ -229,7 +229,7 @@ export default function Isaiah23() {
           your strength is laid waste.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Alexanders destruction of the city was the final and complete
                 fulfillment of the Prophecy. So the Prophecy would be several
                 hundreds of years in its total fulfillment. The mills of God
@@ -250,7 +250,7 @@ export default function Isaiah23() {
           harlot.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, the days of one king, means the duration of the
                 Babylonian kingdom. It lasted exactly seventy years. During the
                 seventy years, Jerusalem was a captive and Tyre, a desolation [
@@ -274,7 +274,7 @@ export default function Isaiah23() {
           that you may be remembered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In addressing Tyre as a harlot, the Prophet does not seem to
                 mean more than that her aims were, or at any rate had been,
                 selfish and worldly such as to sever man and God. Hers had been
@@ -300,7 +300,7 @@ export default function Isaiah23() {
           of the world upon the face of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While Tyre regained her power, wealth, and fame, even as here
                 recorded, the new city was taken by Alexander the Great, which
                 was about 250 years after the former one had been destroyed by
@@ -318,7 +318,7 @@ export default function Isaiah23() {
           eat sufficiently, and for durable clothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Oftentimes, the Holy Spirit will give Prophecies that will span
                 from one age to the other without a break in the sentence. Such
                 is the case, evidently, in this particular Prophecy.

@@ -413,7 +413,7 @@ export default function Chronicles220() {
           <sup className="calibre7">20</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judah)</span>
+              <span className="explanation">(Judah)</span>
             </span>
           </span>{" "}
           rose early in the morning, and went forth into the wilderness of
@@ -421,19 +421,19 @@ export default function Chronicles220() {
           Judah, and you inhabitants of Jerusalem; Believe in the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(have faith in Him)</span>
+              <span className="explanation">(have faith in Him)</span>
             </span>
           </span>
           , so shall you be established{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(established in His Word)</span>
+              <span className="explanation">(established in His Word)</span>
             </span>
           </span>
           ; believe His Prophets, so shall you prosper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(true Prophets!)</span>
+              <span className="explanation">(true Prophets!)</span>
             </span>
           </span>
           .
@@ -445,7 +445,7 @@ export default function Chronicles220() {
           people, he appointed singers unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(told to do this by the Lord)</span>
+              <span className="explanation">(told to do this by the Lord)</span>
             </span>
           </span>
           , and that should praise the Beauty of Holiness, as they went out
@@ -574,7 +574,7 @@ export default function Chronicles220() {
           Berachah, unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the valley of Blessing)</span>
+              <span className="explanation">(the valley of Blessing)</span>
             </span>
           </span>
         </span>
@@ -789,7 +789,7 @@ export default function Chronicles220() {
           of Judah join himself with Ahaziah king of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(son of Ahab)</span>
+              <span className="explanation">(son of Ahab)</span>
             </span>
           </span>
           , who did very wickedly:

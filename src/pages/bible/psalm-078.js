@@ -297,7 +297,7 @@ export default function Psalm078() {
           wilderness, and gave them drink as out of the great depths{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the water out of the Rock)</span>
+              <span className="explanation">(the water out of the Rock)</span>
             </span>
           </span>
           .
@@ -363,7 +363,7 @@ export default function Psalm078() {
           said, Can God furnish a table in the wilderness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He could, and He did!)</span>
+              <span className="explanation">(He could, and He did!)</span>
             </span>
           </span>
         </span>
@@ -477,7 +477,7 @@ export default function Psalm078() {
           <sup className="calibre7">28</sup>And He let it fall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the quail)</span>
+              <span className="explanation">(the quail)</span>
             </span>
           </span>{" "}
           in the midst of their camp, round about their habitations.
@@ -537,7 +537,9 @@ export default function Psalm078() {
           in vanity, and their years in trouble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(And unbelief was the reason!)</span>
+              <span className="explanation">
+                (And unbelief was the reason!)
+              </span>
             </span>
           </span>
         </span>
@@ -798,7 +800,7 @@ export default function Psalm078() {
           they feared not: but the sea overwhelmed their enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Red Sea)</span>
+              <span className="explanation">(the Red Sea)</span>
             </span>
           </span>
           .
@@ -811,7 +813,7 @@ export default function Psalm078() {
           purchased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Land of Israel)</span>
+              <span className="explanation">(the Land of Israel)</span>
             </span>
           </span>
           .
@@ -876,7 +878,7 @@ export default function Psalm078() {
           and greatly abhorred Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of their sin)</span>
+              <span className="explanation">(because of their sin)</span>
             </span>
           </span>
           :

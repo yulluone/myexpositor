@@ -325,7 +325,7 @@ export default function Judges13() {
           ready a kid for You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a young lamb for sacrifice)</span>
+              <span className="explanation">(a young lamb for sacrifice)</span>
             </span>
           </span>
         </span>
@@ -368,7 +368,7 @@ export default function Judges13() {
           <sup className="calibre7">19</sup>So Manoah took a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(small lamb)</span>
+              <span className="explanation">(small lamb)</span>
             </span>
           </span>{" "}
           with a Meat Offering, and offered it upon a rock unto the LORD: and

@@ -17,13 +17,13 @@ export default function Chronicles212() {
           the Law of the LORD, and all Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judah)</span>
+              <span className="explanation">(Judah)</span>
             </span>
           </span>{" "}
           with him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah prospered. Regrettably, prosperity sometimes is not a
                 blessing. Too many times when Believers are blessed, they do
                 exactly as Rehoboam did. They forsake the Law of the LORD.)
@@ -42,7 +42,7 @@ export default function Chronicles212() {
           Jerusalem, because they had transgressed against the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, the Lord allowed such, because of Judahs
                 backsliding; the Lord allows such in order to cause people to
                 appeal to Him; sometimes it works, and sometimes it doesnt!)
@@ -58,14 +58,14 @@ export default function Chronicles212() {
           threescore thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(60,000)</span>
+              <span className="explanation">(60,000)</span>
             </span>
           </span>{" "}
           horsemen: and the people were without number who came with him out of
           Egypt; the Lubims, the Sukkiims, and the Ethiopians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the troops that accompanied the cavalry and the horse-soldiers
                 were without number)
               </span>
@@ -79,13 +79,13 @@ export default function Chronicles212() {
           <sup className="calibre7">4</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Shishak)</span>
+              <span className="explanation">(Shishak)</span>
             </span>
           </span>{" "}
           took the fenced cities which pertained to Judah, and came to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only way that Shishak could have taken Judah, and
                 especially Jerusalem, was because Judah had forsaken the Lord;
                 the Lord was their power and strength; as long as they kept His
@@ -107,7 +107,7 @@ export default function Chronicles212() {
           of Shishak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord, in His Mercy, gives Judah warning; no warning could
                 be more clear than this; if we follow the Lord, we will receive
                 His Blessing; if we forsake the Lord, He will allow enemies to
@@ -124,7 +124,7 @@ export default function Chronicles212() {
           the king humbled themselves; and they said, The LORD is righteous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regrettably, their Repentance was not very deep; nevertheless,
                 the Lord would honor it; when they said, The LORD is righteous,
                 this means that they knew that He was justified in what He had
@@ -144,7 +144,7 @@ export default function Chronicles212() {
           upon Jerusalem by the hand of Shishak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Notice the words some deliverance. They would not have a
                 complete Deliverance, only partial. The reason? Their Repentance
                 was partial; therefore, their Deliverance was partial.)
@@ -160,7 +160,7 @@ export default function Chronicles212() {
           kingdoms of the countries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this meant that Judah must learn to obey and know the
                 difference between serving God and serving ungodly nations; if
                 they persisted in their ungodly ways, they would serve ungodly
@@ -179,7 +179,7 @@ export default function Chronicles212() {
           away also the shields of gold which Solomon had made.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To be sure, considering the riches that Solomon had amassed,
                 what Shishak took must have been astronomical. Let the reader
                 understand:
@@ -209,7 +209,7 @@ export default function Chronicles212() {
           guard, that kept the entrance of the kings house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The world robs the Church of Divine realities and public
                 worship, and the Church tries to hide the loss by substituting
                 imitation. How many Churches presently have shields of brass
@@ -235,7 +235,7 @@ export default function Chronicles212() {
           altogether: and also in Judah things went well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (humility is the only coin that will spend in Gods economy [
                 <ScrollLink href="/isaiah-66" scrollToId="#filepos8100779">
                   <span className="calibre_19">
@@ -270,7 +270,7 @@ export default function Chronicles212() {
           not his heart to seek the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What an indictment! But yet how true of so many.)
               </span>
             </span>
@@ -284,7 +284,7 @@ export default function Chronicles212() {
           Iddo the Seer concerning genealogies?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A continued register of Davids genealogies.)
               </span>
             </span>

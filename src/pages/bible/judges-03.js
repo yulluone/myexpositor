@@ -247,14 +247,14 @@ export default function Judges03() {
           <sup className="calibre7">13</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eglon)</span>
+              <span className="explanation">(Eglon)</span>
             </span>
           </span>{" "}
           gathered unto him the children of Ammon and Amalek, and went and smote
           Israel, and possessed the city of palm trees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jericho)</span>
+              <span className="explanation">(Jericho)</span>
             </span>
           </span>
         </span>
@@ -421,7 +421,7 @@ export default function Judges03() {
           locked, they said, Surely he covers his feet in his summer chamber{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is asleep)</span>
+              <span className="explanation">(is asleep)</span>
             </span>
           </span>
         </span>
@@ -441,7 +441,7 @@ export default function Judges03() {
           : and, behold, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eglon)</span>
+              <span className="explanation">(Eglon)</span>
             </span>
           </span>{" "}
           opened not the doors of the parlour; therefore they took a key, and
@@ -458,7 +458,7 @@ export default function Judges03() {
           and passed beyond the quarries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(graven images)</span>
+              <span className="explanation">(graven images)</span>
             </span>
           </span>
           , and escaped unto Seirath.
@@ -524,7 +524,7 @@ export default function Judges03() {
           the hand of Israel. And the land had rest fourscore years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(80 years)</span>
+              <span className="explanation">(80 years)</span>
             </span>
           </span>
         </span>

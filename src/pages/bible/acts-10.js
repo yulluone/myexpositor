@@ -16,7 +16,7 @@ export default function Acts10() {
           called Cornelius{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the beginning of one of the great turning points of
                 history)
               </span>
@@ -28,7 +28,7 @@ export default function Acts10() {
               <span className="calibre_19">band</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in charge of about a hundred men),
               </span>
             </span>
@@ -43,25 +43,25 @@ export default function Acts10() {
               <span className="calibre_19">man</span>
             </span>
             <span>
-              <span className="calibre_19">(but unsaved!),</span>
+              <span className="explanation">(but unsaved!),</span>
             </span>
           </span>{" "}
           and one who feared God with all his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but unsaved!)</span>
+              <span className="explanation">(but unsaved!)</span>
             </span>
           </span>
           , which gave much alms to the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but unsaved!)</span>
+              <span className="explanation">(but unsaved!)</span>
             </span>
           </span>
           , and prayed to God always{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but unsaved! all of these things were wonderful, and certainly
                 noticed by the Lord; but they did not save the man, even as they
                 do not save anyone now; being religious does not constitute
@@ -103,13 +103,13 @@ export default function Acts10() {
           the ninth hour of the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but which did not save him)</span>
+              <span className="explanation">(but which did not save him)</span>
             </span>
           </span>{" "}
           an Angel of God coming in to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this as well did not save him!)
               </span>
             </span>
@@ -117,7 +117,7 @@ export default function Acts10() {
           , and saying unto him, Cornelius{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Angel knowing his name did not save him!)
               </span>
             </span>
@@ -130,19 +130,19 @@ export default function Acts10() {
           <sup className="calibre7">4</sup>And when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Cornelius)</span>
+              <span className="explanation">(Cornelius)</span>
             </span>
           </span>{" "}
           looked on him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angel)</span>
+              <span className="explanation">(the Angel)</span>
             </span>
           </span>
           , he was afraid, and said, What is it, Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The title Lord, in the manner in which Cornelius used it, does
                 not refer to Deity, but rather refers to respect or honor.)
               </span>
@@ -151,14 +151,14 @@ export default function Acts10() {
           And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angel)</span>
+              <span className="explanation">(the Angel)</span>
             </span>
           </span>{" "}
           said unto him, Your prayers and your alms are come up for a memorial
           before God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a seeking heart will find the Lord)
               </span>
             </span>
@@ -171,7 +171,7 @@ export default function Acts10() {
           <sup className="calibre7">5</sup>And now send men to Joppa{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Angel telling Cornelius what to do in order to
                 hear the Gospel, but not presenting the Gospel himself; that
                 privilege is given to man and not to Angels)
@@ -187,7 +187,7 @@ export default function Acts10() {
           Simon, whose surname is Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (through Peter, the Lord will open the door to the Gentile
                 world, for whom Christ died)
               </span>
@@ -202,7 +202,7 @@ export default function Acts10() {
           whose house is by the sea side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents, as should be obvious, the Lord knowing at all times
                 exactly where His People are)
               </span>
@@ -211,7 +211,7 @@ export default function Acts10() {
           : he shall tell you what you ought to do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all he had previously done, as commendable as it was, did not
                 save him)
               </span>
@@ -226,7 +226,7 @@ export default function Acts10() {
           Cornelius was departed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signals the beginning of this scenario which will shake the
                 world)
               </span>
@@ -236,7 +236,7 @@ export default function Acts10() {
           them who waited on him continually{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the three who would go to fetch Peter; it was about
                 thirty-five miles from Caesarea to Joppa)
               </span>
@@ -256,7 +256,7 @@ export default function Acts10() {
           things unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt referred to the visitation by the Angel, and what the
                 Angel
               </span>
@@ -277,7 +277,7 @@ export default function Acts10() {
           journey, and drew near unto the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably means that they left Caesarea very shortly after being
                 given instructions by Cornelius the day before)
               </span>
@@ -286,7 +286,7 @@ export default function Acts10() {
           , Peter went up on the housetop to pray about the sixth hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(12 noon)</span>
+              <span className="explanation">(12 noon)</span>
             </span>
           </span>
           :
@@ -298,7 +298,7 @@ export default function Acts10() {
           have eaten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that he was about to quit praying and have lunch)
               </span>
             </span>
@@ -306,7 +306,7 @@ export default function Acts10() {
           : but while they made ready, he fell into a trance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a state in which one ceases to be aware of surroundings, but
                 sees only what is portrayed to him)
               </span>
@@ -320,7 +320,7 @@ export default function Acts10() {
           <sup className="calibre7">11</sup>And saw Heaven opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (before Jesus, Heaven had been closed; due to the Cross, it is
                 now open!)
               </span>
@@ -330,7 +330,7 @@ export default function Acts10() {
           sheet knit at the four corners, and let down to the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an object lesson)</span>
+              <span className="explanation">(an object lesson)</span>
             </span>
           </span>
           :
@@ -343,7 +343,7 @@ export default function Acts10() {
           and fowls of the air{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they all seemed to be unclean animals and fowls as listed in
                 Lev., Chpt.{" "}
                 <ScrollLink href="/leviticus-11" scrollToId="#filepos1416853">
@@ -365,7 +365,7 @@ export default function Acts10() {
           <sup className="calibre7">13</sup>And there came a Voice to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Lord now speaking to Peter)
               </span>
             </span>
@@ -373,7 +373,7 @@ export default function Acts10() {
           , Rise, Peter; kill, and eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (literally says in the Greek Text, sacrifice and eat)
               </span>
             </span>
@@ -386,7 +386,7 @@ export default function Acts10() {
           <sup className="calibre7">14</sup>But Peter said, Not so, Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter will now have to be taught a lesson)
               </span>
             </span>
@@ -394,7 +394,7 @@ export default function Acts10() {
           ; for I have never eaten any thing that is common or unclean{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to that which is defiled and forbidden by the Law of
                 Moses [Lev. 11; Deut. 14;{" "}
                 <ScrollLink href="/mark-07" scrollToId="#filepos11457784">
@@ -422,7 +422,7 @@ export default function Acts10() {
           unto him again the second time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a correction tended toward Peter by the Lord)
               </span>
             </span>
@@ -436,7 +436,7 @@ export default function Acts10() {
           call not thou common{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (struck at the very heart of present Jewish beliefs
               </span>
             </span>
@@ -460,7 +460,7 @@ export default function Acts10() {
           <sup className="calibre7">16</sup>This was done thrice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meant to impress the significance of what is being said)
               </span>
             </span>
@@ -468,7 +468,7 @@ export default function Acts10() {
           : and the vessel was received up again into Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Vision ended)</span>
+              <span className="explanation">(the Vision ended)</span>
             </span>
           </span>
           .
@@ -480,7 +480,7 @@ export default function Acts10() {
           what this vision which he had seen should mean{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that, at this stage, Peter did not actually know what
                 the Lord was telling him)
               </span>
@@ -490,7 +490,7 @@ export default function Acts10() {
           Simons house, and stood before the gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he will soon know what the Vision meant, and will understand
                 perfectly what the Lord is telling him)
               </span>
@@ -505,7 +505,7 @@ export default function Acts10() {
           which was surnamed Peter, were lodged there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (specifies emphatically, so that only Peter would do!)
               </span>
             </span>
@@ -518,7 +518,7 @@ export default function Acts10() {
           <sup className="calibre7">19</sup>While Peter thought on the Vision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (trying to understand what the Lord had told him)
               </span>
             </span>
@@ -526,7 +526,7 @@ export default function Acts10() {
           , the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           said unto him, Behold, three men seek you.
@@ -537,7 +537,7 @@ export default function Acts10() {
           <sup className="calibre7">20</sup>Arise therefore, and get thee down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to Peter being on the housetop, which in those days,
                 as now, in that area are flat)
               </span>
@@ -546,7 +546,7 @@ export default function Acts10() {
           , and go with them, doubting nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (do not waver or hesitate to obey)
               </span>
             </span>
@@ -554,7 +554,7 @@ export default function Acts10() {
           : for I have sent them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now he will begin to understand what the Lord was telling him)
               </span>
             </span>
@@ -575,7 +575,7 @@ export default function Acts10() {
           the cause wherefore you are come?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit didnt tell Peter what they wanted or the reason
                 for their coming. He just told Peter to go with them, doubting
                 nothing.)
@@ -590,7 +590,7 @@ export default function Acts10() {
           Centurion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays to Peter immediately that this man is a Gentile)
               </span>
             </span>
@@ -600,7 +600,7 @@ export default function Acts10() {
           you into his house, and to hear words of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what Cornelius must hear in order to be saved; Peter had been
                 chosen to deliver to those Words, and now it was up to Cornelius
                 to hear them)
@@ -618,7 +618,7 @@ export default function Acts10() {
               <span className="calibre_19">them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that Peter now knows what the Vision meant, or at
                 least has a good idea)
               </span>
@@ -628,7 +628,7 @@ export default function Acts10() {
           from Joppa accompanied him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (six Jewish brethren accompanied him [
                 <ScrollLink href="/acts-11" scrollToId="#filepos12961139">
                   <span className="calibre_19">
@@ -661,7 +661,7 @@ export default function Acts10() {
           into Caesarea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they probably had spent the night at Apollonia, which was about
                 halfway along on the coast road)
               </span>
@@ -671,7 +671,7 @@ export default function Acts10() {
           and near friends{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably was quite a crowd)</span>
+              <span className="explanation">(probably was quite a crowd)</span>
             </span>
           </span>
           .
@@ -683,7 +683,7 @@ export default function Acts10() {
           Cornelius met him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this meeting probably took place outside the house, at the
                 gate)
               </span>
@@ -695,7 +695,7 @@ export default function Acts10() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not necessarily mean that Cornelius was worshipping Peter,
                 but was merely worshipping, inasmuch as the pronoun him was
                 added by the translators).
@@ -709,7 +709,7 @@ export default function Acts10() {
           <sup className="calibre7">26</sup>But Peter took him up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (better translated, but Peter raised him up)
               </span>
             </span>
@@ -717,7 +717,7 @@ export default function Acts10() {
           , saying, Stand up; I myself also am a man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is not to be bowed before or worshipped)
               </span>
             </span>
@@ -730,13 +730,13 @@ export default function Acts10() {
           <sup className="calibre7">27</sup>And as he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>{" "}
           talked with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays Peter putting himself on the same level as Cornelius)
               </span>
             </span>
@@ -744,7 +744,7 @@ export default function Acts10() {
           , he went in, and found many who were come together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that they were awe-struck when they saw him)
               </span>
             </span>
@@ -759,7 +759,7 @@ export default function Acts10() {
           or come unto one of another nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims him relating something that was quite well-known by
                 all Gentiles who had resided in Israel for any length of time)
               </span>
@@ -769,7 +769,7 @@ export default function Acts10() {
           unclean{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that Peter now fully understands what the Vision was
                 all about, concerning the sheet let down from Heaven)
               </span>
@@ -789,7 +789,7 @@ export default function Acts10() {
           without gainsaying, as soon as I was sent for{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means he questioned nothing, but obeyed as the Holy Spirit had
                 told him to)
               </span>
@@ -798,7 +798,7 @@ export default function Acts10() {
           : I ask therefore for what intent you have sent for me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This actually pertains to that which he already knew, but
                 wanted to hear from Cornelius.)
               </span>
@@ -813,13 +813,13 @@ export default function Acts10() {
           house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 p.m.)</span>
+              <span className="explanation">(3 p.m.)</span>
             </span>
           </span>
           , and, behold, a man stood before me in bright clothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Angel who radiated with the Presence of God)
               </span>
             </span>
@@ -833,7 +833,7 @@ export default function Acts10() {
           heard, and your alms are had in remembrance in the sight of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God</span>
+              <span className="explanation">(God</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -851,7 +851,7 @@ export default function Acts10() {
           hither Simon, whose surname is Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (second time related, which tells us how important all of this
                 is)
               </span>
@@ -867,7 +867,7 @@ export default function Acts10() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Way of Salvation made clear by Peter; this
                 signifies that God uses men in this capacity, and not Angels)
               </span>
@@ -881,7 +881,7 @@ export default function Acts10() {
           <sup className="calibre7">33</sup>Immediately therefore I sent to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that such was done within the hour)
               </span>
             </span>
@@ -889,7 +889,7 @@ export default function Acts10() {
           ; and you have well done that you are come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that they are so very pleased that Peter has come, and
                 that he came as soon as possible)
               </span>
@@ -899,7 +899,7 @@ export default function Acts10() {
           that are Commanded you of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they were ready!)</span>
+              <span className="explanation">(they were ready!)</span>
             </span>
           </span>
           .
@@ -919,7 +919,7 @@ export default function Acts10() {
           mouth, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a profound truth, as simple as it was; the Gospel
                 will now break the bounds of Judaism, despite the efforts of man
                 to do otherwise)
@@ -929,7 +929,7 @@ export default function Acts10() {
           , Of a truth I perceive that God is no respecter of persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not meant to be implied by Peter that this Truth is new, for it
                 is not [
                 <ScrollLink href="/samuel2-14" scrollToId="#filepos3531333">
@@ -952,13 +952,13 @@ export default function Acts10() {
           <sup className="calibre7">35</sup>But in every Nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Gospel is for all)</span>
+              <span className="explanation">(the Gospel is for all)</span>
             </span>
           </span>{" "}
           he who fears Him, and works righteousness, is accepted with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the pronoun Him refers to Christ; God accepted the Sacrifice of
                 Christ on the Cross, and all who accept Christ and the Cross are
                 accepted with Him)
@@ -979,7 +979,7 @@ export default function Acts10() {
           sent unto the Children of Israel, preaching peace by Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is justifying Peace, which comes instantly upon the
                 acceptance of Christ)
               </span>
@@ -988,7 +988,7 @@ export default function Acts10() {
           : (He is Lord of all:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus Christ is Lord because He has made Salvation possible for
                 all who will believe [
                 <ScrollLink href="/philippians-2" scrollToId="#filepos14100345">
@@ -1016,7 +1016,7 @@ export default function Acts10() {
           you know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Life, Ministry, Death, Resurrection, and
                 Ascension of Christ)
               </span>
@@ -1026,7 +1026,7 @@ export default function Acts10() {
           after the Baptism which John preached{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John introduced Christ)</span>
+              <span className="explanation">(John introduced Christ)</span>
             </span>
           </span>
           ;
@@ -1038,7 +1038,7 @@ export default function Acts10() {
           with the Holy Spirit and with Power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as a Man, Christ needed the Holy Spirit, as we certainly do as
                 well! in fact, everything He did was by the Power of the Spirit)
               </span>
@@ -1047,13 +1047,13 @@ export default function Acts10() {
           : who went about doing good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(everything He did was good)</span>
+              <span className="explanation">(everything He did was good)</span>
             </span>
           </span>
           , and healing all who were oppressed of the Devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only Christ could do this, and Believers can do such only as
                 Christ empowers them by the Spirit)
               </span>
@@ -1062,7 +1062,7 @@ export default function Acts10() {
           ; for God was with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is with us only as we are with Him)
               </span>
             </span>
@@ -1075,14 +1075,14 @@ export default function Acts10() {
           <sup className="calibre7">39</sup>And we{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Apostles and others)</span>
+              <span className="explanation">(the Apostles and others)</span>
             </span>
           </span>{" "}
           are witnesses of all things which He did both in the land of the Jews,
           and in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem is inferred because it was the center of religious
                 authority; so they were without excuse)
               </span>
@@ -1091,7 +1091,7 @@ export default function Acts10() {
           ; Whom they slew and hanged on a tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they referred to the Sanhedrin, the religious leaders of
                 Israel)
               </span>
@@ -1105,7 +1105,7 @@ export default function Acts10() {
           <sup className="calibre7">40</sup>Him God raised up the third day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter is affirming the Resurrection of Christ)
               </span>
             </span>
@@ -1113,7 +1113,7 @@ export default function Acts10() {
           , and show ed Him openly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus revealed Himself after the Resurrection to quite a number
                 of people)
               </span>
@@ -1127,13 +1127,13 @@ export default function Acts10() {
           <sup className="calibre7">41</sup>Not to all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not to all of Israel),</span>
+              <span className="explanation">(not to all of Israel),</span>
             </span>
           </span>{" "}
           but unto witnesses chosen before of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those who had Faith in Him and Believed)
               </span>
             </span>
@@ -1147,7 +1147,7 @@ export default function Acts10() {
           to us, who did eat and drink with Him after He rose from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that Jesus was not a spirit, or mere apparition, but
                 rather real, physical, and alive)
               </span>
@@ -1162,7 +1162,7 @@ export default function Acts10() {
           the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Gods Way of spreading the Gospel)
               </span>
             </span>
@@ -1176,13 +1176,13 @@ export default function Acts10() {
           the Judge of the quick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living)</span>
+              <span className="explanation">(living)</span>
             </span>
           </span>{" "}
           and dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (today Jesus is the Saviour, tomorrow He will be the Judge)
               </span>
             </span>
@@ -1195,7 +1195,7 @@ export default function Acts10() {
           <sup className="calibre7">43</sup>To Him give all the Prophets witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that He fulfilled all of the Prophecies)
               </span>
             </span>
@@ -1203,19 +1203,19 @@ export default function Acts10() {
           , that through His Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Name Alone)</span>
+              <span className="explanation">(His Name Alone)</span>
             </span>
           </span>{" "}
           whosoever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(anyone in the world)</span>
+              <span className="explanation">(anyone in the world)</span>
             </span>
           </span>{" "}
           believes in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Believes in Who and What He has done, referring to the Cross)
               </span>
             </span>
@@ -1223,7 +1223,7 @@ export default function Acts10() {
           shall receive remission of sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (freedom, deliverance, forgiveness)
               </span>
             </span>
@@ -1239,13 +1239,13 @@ export default function Acts10() {
           <sup className="calibre7">44</sup>While Peter yet spoke these words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerning Believing in Him)</span>
+              <span className="explanation">(concerning Believing in Him)</span>
             </span>
           </span>
           , the Holy Spirit fell on all them which heard the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though we are given very little information here, this is
                 the moment when Cornelius and his household accepted Christ, and
                 were saved)
@@ -1260,19 +1260,19 @@ export default function Acts10() {
           <sup className="calibre7">45</sup>And they of the Circumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews)</span>
+              <span className="explanation">(Jews)</span>
             </span>
           </span>{" "}
           which believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believed in Christ)</span>
+              <span className="explanation">(Believed in Christ)</span>
             </span>
           </span>{" "}
           were ast onished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at what they saw the Lord doing, which could not be denied)
               </span>
             </span>
@@ -1281,7 +1281,7 @@ export default function Acts10() {
           poured out the Gift of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cornelius and his household were saved, and then moments later
                 Baptized with the Holy Spirit; it was quite a meeting!)
               </span>
@@ -1296,7 +1296,7 @@ export default function Acts10() {
           tongues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the initial, physical evidence that one has been
                 baptized with the Holy Spirit; it always and without exception
                 accompanies the Spirit Baptism)
@@ -1306,7 +1306,7 @@ export default function Acts10() {
           , and magnify God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that some of them would stop speaking in tongues
                 momentarily, and then begin to praise God in their natural
                 language, magnifying His Name)
@@ -1316,7 +1316,7 @@ export default function Acts10() {
           . Then answered Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle about to take another step)
               </span>
             </span>
@@ -1330,7 +1330,7 @@ export default function Acts10() {
           should not be baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had accepted Christ and had been Baptized with the Spirit,
                 so now they should be Baptized in Water, which they were)
               </span>
@@ -1339,7 +1339,7 @@ export default function Acts10() {
           , which have received the Holy Spirit as well as we?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Multiple millions of Gentiles since that day have been Baptized
                 with the Holy Spirit.)
               </span>
@@ -1353,7 +1353,7 @@ export default function Acts10() {
           in the Name of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (simply means, by the Authority of the Lord)
               </span>
             </span>
@@ -1361,7 +1361,7 @@ export default function Acts10() {
           . Then prayed they him to tarry certain days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which he possibly did!)</span>
+              <span className="explanation">(which he possibly did!)</span>
             </span>
           </span>
           .

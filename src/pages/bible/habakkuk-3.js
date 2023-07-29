@@ -16,7 +16,7 @@ export default function Habakkuk3() {
           Shigionoth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Shigionoth is the plural of Shiggaion, and means a
                 crying aloud.)
               </span>
@@ -31,7 +31,7 @@ export default function Habakkuk3() {
           midst of the years make known; in wrath remember mercy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse may be thus paraphrased: O Jehovah, I have heard
                 Your fame, and I bowed in reverent worship. O Jehovah, repeat
                 Your doings of old in the midst of these years of affliction; in
@@ -54,7 +54,7 @@ export default function Habakkuk3() {
           was full of His Praise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This phrase, God came from Teman, refers to Sinai. It refers to
                 the Lord leading the Children of Israel out of Egypt through
                 this barren wasteland. The phrase, And the Holy One from Mount
@@ -92,7 +92,7 @@ export default function Habakkuk3() {
           Power.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And His Brightness was as the light, refers to the Glory of
                 God, which is of such magnitude that mere mortals, especially in
                 the unconverted state, could not stand it. He had horns coming
@@ -118,7 +118,7 @@ export default function Habakkuk3() {
           burn ing coals went forth at His Feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the Verse concerns Judgment on sin and rebellion.
                 Even though He has evidenced such in the past, still, the
                 greatest portrayal of this Judgment concerning the pestilence,
@@ -135,7 +135,7 @@ export default function Habakkuk3() {
           were scattered, the perpetual hills did bow: His Ways are everlasting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He stood, and measured the Earth, has to do with measuring it
                 for Judgment, and more particularly, the land of Egypt in the
                 deliverance of the Children of Israel. He will measure it again
@@ -199,7 +199,7 @@ export default function Habakkuk3() {
           affliction: and the curtains of the land of Midian did tremble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I saw the tents of Cushan in affliction, refers to Egypt at the
                 death of the firstborn. The phrase, And the curtains of the land
                 of Midian did tremble, refers to the country between Egypt and
@@ -221,7 +221,7 @@ export default function Habakkuk3() {
           Salvation?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Was the LORD displeased against the rivers?, uses
                 the plural of majesty for the great river, the Nile, when turned
                 by Moses into blood. The sea concerns the Red Sea, when it was
@@ -268,7 +268,7 @@ export default function Habakkuk3() {
           cleave the Earth with rivers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your Bow was made quite naked, refers to Gods Word. According
                 to the oaths of the Tribes, even Your Word, refers to a plural
                 of excellence for the great Promise, confirmed with an oath,
@@ -296,7 +296,7 @@ export default function Habakkuk3() {
           voice, and lifted up his hands on high.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase concerns the earthquake that shook Sinai at
                 the Presence of the Lord, when the Law was given [
                 <ScrollLink href="/exodus-19" scrollToId="#filepos958516">
@@ -322,7 +322,7 @@ export default function Habakkuk3() {
           shining of Your glittering Spear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase concerns the miracle given to Joshua when he
                 faced the combined forces of the enemy at Gibeon. There the sun
                 stood still, and the moon stayed [
@@ -355,7 +355,7 @@ export default function Habakkuk3() {
           indignation, You did thresh the heathen in anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The land speaks of Canaan; the heathen refers to the
                 inhabitants who possessed it, who were to be driven out. The
                 Lord was indignant against them because of their idol worship
@@ -373,7 +373,7 @@ export default function Habakkuk3() {
           unto the neck. Selah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to the Lord as being the General
                 directing the activities of Joshua in the taking of the land of
                 Canaan. Even for Salvation with Your Anointed, pertains to
@@ -431,7 +431,7 @@ export default function Habakkuk3() {
           scatter Me: their rejoicing was as to devour the poor secretly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase continues respecting the great victory given
                 by the Lord to Joshua concerning the defeat of the five kings.
                 They came out as a whirlwind to scatter Me, refers to the
@@ -452,7 +452,7 @@ export default function Habakkuk3() {
           Your Horses, through the heap of great waters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to the seven nations of Canaan. The
                 words, with Your Horses, refer back to{" "}
                 <ScrollLink href="/" scrollToId="#filepos10462670">
@@ -482,7 +482,7 @@ export default function Habakkuk3() {
           come up unto the people, he will invade them with his troops.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase addresses the effect of the entirety of that
                 given to him by the Lord, as denoted in this short Book. He
                 trembles, realizing that God has shown him a picture, not only
@@ -530,7 +530,7 @@ export default function Habakkuk3() {
           off from the fold, and there shall be no herd in the stalls{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, the Prophet is asking the Lord to grant his request
                 that the invasion be held off until his demise. But if he is
                 fated to witness the devastation of the country, he will still
@@ -550,7 +550,7 @@ export default function Habakkuk3() {
           will joy in the God of my Salvation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such is the triumph of Faith! It trusts God in the darkest
                 hours and sharpest trials; it awaits His Vindication of His
                 Actions and looks forward with conviction to the sure dawning of
@@ -567,7 +567,7 @@ export default function Habakkuk3() {
           high places. To the chief singer on my stringed instruments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason the Prophet could rejoice, irrespective of what
                 happened in the future, was because the LORD God [was his]
                 strength. To the chief singer on my stringed instruments,

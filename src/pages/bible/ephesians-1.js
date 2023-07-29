@@ -17,7 +17,7 @@ export default function Ephesians1() {
           <sup className="calibre7">1</sup>Paul, an Apostle of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle stands as the de facto leader of the Church, and
                 does so by the special Message he brings; with Paul, it was
                 Grace)
@@ -27,7 +27,7 @@ export default function Ephesians1() {
           by the Will of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Foundation of Pauls Calling)
               </span>
             </span>
@@ -35,7 +35,7 @@ export default function Ephesians1() {
           , to the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which one instantly becomes upon accepting Christ)
               </span>
             </span>
@@ -43,7 +43,7 @@ export default function Ephesians1() {
           which are at Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to those Saints and all others as well, and for all time)
               </span>
             </span>
@@ -51,7 +51,7 @@ export default function Ephesians1() {
           , and to the Faithful in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (ever Faithful in making the Cross the Object of ones Faith)
               </span>
             </span>
@@ -70,7 +70,7 @@ export default function Ephesians1() {
           to you, and peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which come by means of the Cross)
               </span>
             </span>
@@ -78,7 +78,7 @@ export default function Ephesians1() {
           , from God our Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a privilege of untold proportions)
               </span>
             </span>
@@ -92,7 +92,7 @@ export default function Ephesians1() {
           the Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Saviour in association with the Father)
               </span>
             </span>
@@ -114,7 +114,7 @@ export default function Ephesians1() {
           the God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we should ever bless the Lord for what He has done for us)
               </span>
             </span>
@@ -122,7 +122,7 @@ export default function Ephesians1() {
           and Father of our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is the Father of Christ, as Christ is seen in His Humanity)
               </span>
             </span>
@@ -130,7 +130,7 @@ export default function Ephesians1() {
           , Who has blessed us with all spiritual blessings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every benefit of the Atonement)
               </span>
             </span>
@@ -144,7 +144,7 @@ export default function Ephesians1() {
           in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Divine Blessing has its ground and reason in Christ; it is
                 ours by reason of our being in Him, which was brought about by
                 the Cross)
@@ -159,7 +159,7 @@ export default function Ephesians1() {
           <sup className="calibre7">4</sup>According as He has chosen us in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to the person being chosen, but rather the
                 purpose for which the person is chosen)
               </span>
@@ -168,7 +168,7 @@ export default function Ephesians1() {
           before the foundation of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Creator, in laying His Plans for the world, had the purpose
                 of Redeeming Grace in view)
               </span>
@@ -177,7 +177,7 @@ export default function Ephesians1() {
           , that we should be Holy and without blame before Him in Love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the purpose of the chosen)
               </span>
             </span>
@@ -191,7 +191,7 @@ export default function Ephesians1() {
           adoption of children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to the individual being predestinated as to
                 whether he will be saved or lost, but rather the manner in which
                 one becomes a Child of God)
@@ -201,13 +201,13 @@ export default function Ephesians1() {
           by Jesus Christ to Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by means of the Cross)</span>
+              <span className="explanation">(by means of the Cross)</span>
             </span>
           </span>
           , according to the good pleasure of His Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is an act of sovereignty, but an act based on love)
               </span>
             </span>
@@ -221,19 +221,19 @@ export default function Ephesians1() {
           Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the ultimate reason)</span>
+              <span className="explanation">(the ultimate reason)</span>
             </span>
           </span>
           , wherein He has made us accepted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>{" "}
           in the beloved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Christ)</span>
+              <span className="explanation">(in Christ)</span>
             </span>
           </span>
           .
@@ -244,13 +244,13 @@ export default function Ephesians1() {
           <sup className="calibre7">7</sup>In Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Christ)</span>
+              <span className="explanation">(in Christ)</span>
             </span>
           </span>{" "}
           we have Redemption through His Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the outpoured Blood of the Son of God at the Cross is the price
                 for Redemption)
               </span>
@@ -259,13 +259,15 @@ export default function Ephesians1() {
           , the forgiveness of sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a remission of their penalty)</span>
+              <span className="explanation">
+                (a remission of their penalty)
+              </span>
             </span>
           </span>
           , according to the riches of His Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the riches of that Grace gave us the Cross)
               </span>
             </span>
@@ -278,7 +280,7 @@ export default function Ephesians1() {
           <sup className="calibre7">8</sup>Wherein He has abounded toward us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Gods Grace being manifested toward us in
                 superabundance, again made possible by the Cross)
               </span>
@@ -287,13 +289,13 @@ export default function Ephesians1() {
           in all wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(insight)</span>
+              <span className="explanation">(insight)</span>
             </span>
           </span>{" "}
           and prudence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to solve the problems of each moment of time)
               </span>
             </span>
@@ -307,7 +309,7 @@ export default function Ephesians1() {
           of His Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the secret purposes and counsels God intends to carry
                 into effect in His Kingdom)
               </span>
@@ -316,13 +318,13 @@ export default function Ephesians1() {
           , according to His good pleasure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(extended to Believers)</span>
+              <span className="explanation">(extended to Believers)</span>
             </span>
           </span>{" "}
           which He has purposed in Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(originated in His Own Mind)</span>
+              <span className="explanation">(originated in His Own Mind)</span>
             </span>
           </span>
           :
@@ -334,7 +336,7 @@ export default function Ephesians1() {
           fulness of times{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns itself with a well-ordered plan)
               </span>
             </span>
@@ -345,7 +347,7 @@ export default function Ephesians1() {
           e might gather together in one all things in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Atonement addressed not only mans Fall, but the revolution
                 of Lucifer as well)
               </span>
@@ -354,7 +356,7 @@ export default function Ephesians1() {
           , both which are in Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (where the revolution of Lucifer began)
               </span>
             </span>
@@ -362,7 +364,7 @@ export default function Ephesians1() {
           , and which are on earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Fall of man)</span>
+              <span className="explanation">(the Fall of man)</span>
             </span>
           </span>
           ;{" "}
@@ -374,7 +376,7 @@ export default function Ephesians1() {
           in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (made possible by what Christ did at the Cross)
               </span>
             </span>
@@ -387,13 +389,13 @@ export default function Ephesians1() {
           <sup className="calibre7">11</sup>In Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           also we have obtained an inheritance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the best Greek Texts have, we were designated as a heritage;
                 thus, the Saints are Gods Heritage, His Possession through the
                 Work of Christ on the Cross)
@@ -403,7 +405,7 @@ export default function Ephesians1() {
           , being predestinated according to the purpose of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the inheritance being predestinated, not the
                 individual who would obtain the inheritance)
               </span>
@@ -412,7 +414,7 @@ export default function Ephesians1() {
           Who works all things after the Counsel of His Own Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(therefore, it is perfect)</span>
+              <span className="explanation">(therefore, it is perfect)</span>
             </span>
           </span>
           :
@@ -424,7 +426,7 @@ export default function Ephesians1() {
           His Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which is guaranteed to be, not what is hoped to
                 be)
               </span>
@@ -433,7 +435,7 @@ export default function Ephesians1() {
           , who first trusted in Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We will attain all of this by first trusting in Christ, which
                 means accepting what He did for us at the Cross.)
               </span>
@@ -446,7 +448,7 @@ export default function Ephesians1() {
           <sup className="calibre7">13</sup>In Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           you also{" "}
@@ -458,7 +460,7 @@ export default function Ephesians1() {
           after that you heard the Word of Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Message of the Cross [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -477,7 +479,7 @@ export default function Ephesians1() {
           , the Gospel of your Salvation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the good news provided by the Cross)
               </span>
             </span>
@@ -485,13 +487,13 @@ export default function Ephesians1() {
           : In Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           also after that you believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (believed in what Christ did for us at the Cross)
               </span>
             </span>
@@ -499,7 +501,7 @@ export default function Ephesians1() {
           , you were sealed with that Holy Spirit of Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           ,
@@ -510,13 +512,13 @@ export default function Ephesians1() {
           <sup className="calibre7">14</sup>Which is the earnest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(down payment)</span>
+              <span className="explanation">(down payment)</span>
             </span>
           </span>{" "}
           of our inheritance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but with a guarantee that it all will come at the Resurrection)
               </span>
             </span>
@@ -524,7 +526,7 @@ export default function Ephesians1() {
           until the Redemption of the purchased possession{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (bought by the Blood of Christ, and will be totally fulfilled at
                 the Resurrection)
               </span>
@@ -533,7 +535,7 @@ export default function Ephesians1() {
           , unto the praise of His Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to that which God has done, and will do, which is a
                 victory of astounding proportions.)
               </span>
@@ -550,7 +552,7 @@ export default function Ephesians1() {
           your Faith in the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (day-by-day Faith exercised in the Lord Jesus for daily living)
               </span>
             </span>
@@ -558,7 +560,7 @@ export default function Ephesians1() {
           , and love unto all the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is only those who do not depend on the Finished Work of the
                 Cross, who lack in love)
               </span>
@@ -572,7 +574,7 @@ export default function Ephesians1() {
           <sup className="calibre7">16</sup>Cease not to give thanks for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is used some twenty-three times in one way or the other in
                 Pauls Epistles)
               </span>
@@ -581,7 +583,7 @@ export default function Ephesians1() {
           , making mention of you in my prayers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a habit of the Apostle his intercessory prayer life)
               </span>
             </span>
@@ -595,7 +597,7 @@ export default function Ephesians1() {
           Christ, the Father of Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to our Lord in His Humanity as worshiping and being
                 obedient to God the Father)
               </span>
@@ -605,7 +607,7 @@ export default function Ephesians1() {
           knowledge of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (knowledge of Christ, which we receive through the Word, enables
                 the Holy Spirit to increase our Wisdom and Revelation)
               </span>
@@ -620,7 +622,7 @@ export default function Ephesians1() {
           enlightened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, The eyes of your heart having been
                 enlightened with the present result that they are in a state of
                 illumination)
@@ -630,7 +632,7 @@ export default function Ephesians1() {
           ; that you may know what is the hope of His calling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, actually points to what the hope really is)
               </span>
             </span>
@@ -638,7 +640,7 @@ export default function Ephesians1() {
           , and what the riches of the glory of His inheritance in the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks now not of the Saints inheritance, but rather Gods
                 inheritance; the Saints are that inheritance)
               </span>
@@ -658,7 +660,7 @@ export default function Ephesians1() {
           the exceeding greatness of His power to us-ward who believe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (power to live a Holy life; who believe in Christ and what He
                 has done at the Cross)
               </span>
@@ -667,7 +669,7 @@ export default function Ephesians1() {
           , according to the working of His mighty power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it works for us according to our Faith in the Finished Work of
                 Christ, and by no other means)
               </span>
@@ -681,13 +683,13 @@ export default function Ephesians1() {
           <sup className="calibre7">20</sup>Which He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           wrought in Christ, when He raised Him from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which He did by the Power of the Holy Spirit)
               </span>
             </span>
@@ -704,7 +706,7 @@ export default function Ephesians1() {
               <span className="calibre_19">places</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the highest place of honor, dignity, and authority,
                 and means that the Sacrifice of Christ was totally accepted),
               </span>
@@ -718,7 +720,7 @@ export default function Ephesians1() {
           power, and might, and dominion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the exalted position of Christ)
               </span>
             </span>
@@ -727,7 +729,7 @@ export default function Ephesians1() {
           that which is to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is given this exalted position, and will retain it
                 forever, because of the Cross)
               </span>
@@ -747,7 +749,7 @@ export default function Ephesians1() {
           under His feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He thus fulfills the destiny for which man was originally
                 created)
               </span>
@@ -768,7 +770,7 @@ export default function Ephesians1() {
           to the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is the absolute, ultimate authority, because of the Cross)
               </span>
             </span>
@@ -781,7 +783,7 @@ export default function Ephesians1() {
           <sup className="calibre7">23</sup>Which is His Body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Church has its Source of Life in Him, sustained and
                 directed by His Power, the instrument also by and through which
                 He works)
@@ -791,7 +793,7 @@ export default function Ephesians1() {
           , the fulness of Him that fills all in all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Christ was the True Israel, and is the True Man, He is also
                 the True Church.)
               </span>

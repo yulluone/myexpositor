@@ -19,7 +19,7 @@ export default function Chronicles125() {
           was{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are now told of the division of the 4,000 singers into 24
                 courses or weekly periods; there was no such provision for song
                 and worship in the Tabernacle in the wilderness, as in the
@@ -82,7 +82,7 @@ export default function Chronicles125() {
           to the kings order to Asaph, Jeduthun, and Heman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the overseership of this service seemed to be divided among the
                 sons of Asaph, Jeduthun, and Heman)
               </span>
@@ -98,7 +98,7 @@ export default function Chronicles125() {
           were cunning, was two hundred fourscore and eight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were helped by 288 skilled musicians and skilled singers)
               </span>
             </span>

@@ -18,7 +18,7 @@ export default function Genesis24() {
           stricken in age: and the LORD had blessed Abraham in all things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham was now about 140 years old, and would actually live to
                 the age of 175 [
                 <ScrollLink href="/genesis-25" scrollToId="#filepos334175">
@@ -101,14 +101,14 @@ export default function Genesis24() {
           servant of his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>
           , who ruled over all that he had, Put, I pray you, your hand under my
           thigh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Eliezer, in a sense, is a Type of the Holy Spirit; the putting
                 the hand under the thigh of the Patriarch, which was the source
                 of posterity, points to Abrahams future descendants, and in
@@ -128,7 +128,7 @@ export default function Genesis24() {
           I dwell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were descendants of Ham, and not Shem, with the latter
                 being the lineage through which Christ would come, and only
                 through that lineage [
@@ -152,13 +152,13 @@ export default function Genesis24() {
           to my kindred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(descendants of Shem)</span>
+              <span className="explanation">(descendants of Shem)</span>
             </span>
           </span>
           , and take a wife unto my son Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of the Holy Spirit calling out Believers as a bride for
                 Christ, of Whom Isaac was a Type)
               </span>
@@ -172,13 +172,13 @@ export default function Genesis24() {
           <sup className="calibre7">5</sup>And the servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>
           , Peradventure the woman will not be willing to follow me unto this
@@ -192,7 +192,7 @@ export default function Genesis24() {
           that you bring not my son thither again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by no means was Isaac to be taken to the particular land where
                 his wife was to be found; the Promised Land was his home, and
                 opportunity for temptation must not be put in his way)
@@ -211,7 +211,7 @@ export default function Genesis24() {
           wife unto my son from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord would send an Angel who would precede Eliezer, and
                 thereby prepare the way)
               </span>
@@ -227,7 +227,7 @@ export default function Genesis24() {
           not my son thither again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the instructions were specific: Isaac was to remain in Canaan,
                 and the woman was to come to Canaan to be with him)
               </span>
@@ -242,7 +242,7 @@ export default function Genesis24() {
           the thigh of Abraham his master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as Abraham had demanded)</span>
+              <span className="explanation">(as Abraham had demanded)</span>
             </span>
           </span>
           , and swore to him concerning that matter.
@@ -257,7 +257,7 @@ export default function Genesis24() {
           the camels of his master, and departed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number ten portrays completeness; the Salvation of our Lord
                 is a complete Salvation)
               </span>
@@ -266,7 +266,7 @@ export default function Genesis24() {
           ; for all the goods of his master were in his hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the goods of our Heavenly Father are in the Hand of the
                 Holy Spirit, of Whom Eliezer was a Type)
               </span>
@@ -275,7 +275,7 @@ export default function Genesis24() {
           : and he arose, and went to Mesopotamia, unto the city of Nahor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit came to this Earth on the Day of Pentecost in a
                 new dimension, of which Mesopotamia was a Type)
               </span>
@@ -291,7 +291,7 @@ export default function Genesis24() {
           the time that women go out to draw water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the well of water is a Type of the Living Water)
               </span>
             </span>
@@ -306,7 +306,7 @@ export default function Genesis24() {
           unto my master Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Eliezer does not trust his own instincts or personal wisdom; he
                 rather seeks leading from the Lord, ever conscious of the
                 significance of his journey)
@@ -333,7 +333,7 @@ export default function Genesis24() {
           master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fleece, so to speak, was not simple or easy; camels drink
                 an awful lot of water, and for a young lady to draw enough water
                 to slake the thirst of ten camels, and for her to volunteer to
@@ -355,7 +355,7 @@ export default function Genesis24() {
           pitcher upon her shoulder{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we have the first mention here of Rebekah, who will be the wife
                 of Isaac, and who will figure so prominently in the great Plan
                 of God)
@@ -372,7 +372,7 @@ export default function Genesis24() {
           the well, and filled her pitcher, and came up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a Type of the Church partaking of the Water of Life)
               </span>
             </span>
@@ -385,7 +385,7 @@ export default function Genesis24() {
           <sup className="calibre7">17</sup>And the servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>
           ran to meet her, and said, Let me, I pray you, drink a little water of
@@ -406,7 +406,7 @@ export default function Genesis24() {
           have done drinking.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Most of the wells in those days were fed by a spring, with a
                 series of steps that led down to the water; consequently, to
                 walk up those steps carrying one or two goatskins full of water
@@ -423,7 +423,7 @@ export default function Genesis24() {
           and drew for all his camels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a Type of the Church giving the Water of Life to a lost world)
               </span>
             </span>
@@ -438,7 +438,7 @@ export default function Genesis24() {
           or not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wondering at her means that he eagerly or carefully watched
                 her)
               </span>
@@ -453,14 +453,14 @@ export default function Genesis24() {
           had done drinking, that the man took a golden earring{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a jewel for her forehead)</span>
+              <span className="explanation">(a jewel for her forehead)</span>
             </span>
           </span>{" "}
           of half a shekel weight, and two bracelets for her hands of ten
           shekels weight of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (worth about $5,000 in 2003 money; a Type of the gifts given by
                 the Holy Spirit to the Church)
               </span>
@@ -476,7 +476,7 @@ export default function Genesis24() {
           lodge in?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the question that the Holy Spirit asks of every
                 believing sinner)
               </span>
@@ -491,7 +491,7 @@ export default function Genesis24() {
           daughter of Bethuel the son of Milcah, which she bore unto Nahor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rebekah mentions her fathers mother to show that she was
                 descended from a high born wife, and not from a concubine)
               </span>
@@ -506,7 +506,7 @@ export default function Genesis24() {
           both straw and provender enough, and room to lodge in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rebekah said, There is room; the Holy Spirit awaits the same
                 answer from us)
               </span>
@@ -529,7 +529,7 @@ export default function Genesis24() {
           of my masters brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the prayer of Eliezer shows that he understood the significance
                 of all of this)
               </span>
@@ -550,7 +550,7 @@ export default function Genesis24() {
           name was Laban: and Laban ran out unto the man, unto the well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rebekah was a witness of what she had experienced, which
                 brought others to Eliezer; we must be a witness as well)
               </span>
@@ -565,7 +565,7 @@ export default function Genesis24() {
           earring and the bracelets upon his sisters hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does the world see in us Righteousness and Holiness, of which
                 these gifts were a Type?)
               </span>
@@ -576,7 +576,7 @@ export default function Genesis24() {
           stood by the camels at the well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Bible said that Laban saw and heard; the world must see and
                 they must hear!)
               </span>
@@ -592,7 +592,7 @@ export default function Genesis24() {
           room for the camels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many people want the gifts of the Spirit, but they dont want to
                 make room for the camels, i.e., that which they consider to be
                 an imposition; but if we are to have the gifts, we must make
@@ -608,20 +608,20 @@ export default function Genesis24() {
           <sup className="calibre7">32</sup>And the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>{" "}
           came into the house: and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Laban)</span>
+              <span className="explanation">(Laban)</span>
             </span>
           </span>{" "}
           ungirded his camels, and gave straw and provender for the camels, and
           water to wash his feet, and the mens feet who were with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with Eliezer)</span>
+              <span className="explanation">(with Eliezer)</span>
             </span>
           </span>
         </span>
@@ -635,20 +635,20 @@ export default function Genesis24() {
           <sup className="calibre7">33</sup>And there was set meat before him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before Eliezer)</span>
+              <span className="explanation">(before Eliezer)</span>
             </span>
           </span>{" "}
           to eat: but he said, I will not eat, until I have told my errand. And
           he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Laban)</span>
+              <span className="explanation">(Laban)</span>
             </span>
           </span>{" "}
           said, Speak on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Marriage Supper of the Lamb cannot commence until the
                 errand of the Holy Spirit has been completed, which is to secure
                 the Bride for Christ)
@@ -663,7 +663,7 @@ export default function Genesis24() {
           <sup className="calibre7">34</sup>And he said, I am Abrahams servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is careful to say exactly what Abraham has said; we as well
                 must be very careful that we faithfully deliver the Word of the
                 Lord, and not err in that delivery)
@@ -681,7 +681,7 @@ export default function Genesis24() {
           camels, and asses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after Eliezer identifies himself, he promotes Abraham, which
                 the Holy Spirit always does, of Whom Eliezer was a Type, as it
                 regards God the Father and God the Son)
@@ -698,7 +698,7 @@ export default function Genesis24() {
           has{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Heavenly Father has given all things unto the Son)
               </span>
             </span>
@@ -719,7 +719,7 @@ export default function Genesis24() {
           house, and to my kindred, and take a wife unto my son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was to be that wife, but having forfeited the position,
                 the Church now takes Israels place, at least during the
                 Dispensation of Grace)
@@ -741,14 +741,14 @@ export default function Genesis24() {
           before Whom I walk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(order my behavior)</span>
+              <span className="explanation">(order my behavior)</span>
             </span>
           </span>
           , will send His Angel with you, and prosper your way; and you shall
           take a wife for my son of my kindred, and of my fathers house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (under the New Covenant, we now have the constant help of the
                 Holy Spirit [
                 <ScrollLink href="/john-14" scrollToId="#filepos12608539">
@@ -771,7 +771,7 @@ export default function Genesis24() {
           oath, when you come to my kindred; and if they give not you one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will not allow the girl to go)
               </span>
             </span>
@@ -799,7 +799,7 @@ export default function Genesis24() {
           <sup className="calibre7">44</sup>And she said to me, Both{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer and those with him)</span>
+              <span className="explanation">(Eliezer and those with him)</span>
             </span>
           </span>{" "}
           you drink, and I will also draw water for your camels: let the same be
@@ -828,7 +828,7 @@ export default function Genesis24() {
           whom Milcah bore unto him: and I put the earring upon her face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on her forehead)</span>
+              <span className="explanation">(on her forehead)</span>
             </span>
           </span>
           , and the bracelets upon her hands.
@@ -859,7 +859,7 @@ export default function Genesis24() {
           or good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They obviously recognized the Hand of the Lord in all of these
                 things, and conducted themselves accordingly.)
               </span>
@@ -874,7 +874,7 @@ export default function Genesis24() {
           spoken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The journey she would travel would be about 700 miles distant.
                 It was very long in those days, and they would probably never
                 see Rebekah again.)
@@ -890,7 +890,7 @@ export default function Genesis24() {
           himself to the earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is to be noticed, Eliezer frequently worships the Lord,
                 being careful to give Him thanks.)
               </span>
@@ -905,7 +905,7 @@ export default function Genesis24() {
           he gave also to her brother and to her mother precious things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Considering how rich Abraham was, and how important this event,
                 the worth of all of this was undoubtedly staggering. Thus are
                 the spiritual gifts to the Church, made possible by Christ and
@@ -923,13 +923,15 @@ export default function Genesis24() {
           the morning, and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>{" "}
           said, Send me away unto my master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(give me permission to leave!)</span>
+              <span className="explanation">
+                (give me permission to leave!)
+              </span>
             </span>
           </span>
         </span>
@@ -949,7 +951,7 @@ export default function Genesis24() {
           to my master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (knowing the urgency of his mission, Eliezer is anxious to get
                 underway)
               </span>
@@ -970,7 +972,7 @@ export default function Genesis24() {
           unto her, Will you go with this man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the question that the Holy Spirit is asking everyone
                 who would be a part of the Bride of Christ)
               </span>
@@ -979,7 +981,7 @@ export default function Genesis24() {
           ? And she said, I will go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (She was leaving her family and, as stated, possibly to never
                 see them again. Whenever we come to Christ, we, in effect, as
                 well, must give up our families, our friends, and everything,
@@ -1003,7 +1005,7 @@ export default function Genesis24() {
           millions, and let your seed possess the gate of those which hate them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Little did they realize the staggering numbers they presented
                 would in fact come to pass. Every single person who has ever
                 come to Christ is a part of these thousands of millions. As
@@ -1020,7 +1022,7 @@ export default function Genesis24() {
           and they rode upon the camels, and followed the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well, we are to follow the Holy Spirit in all of His
                 leading, and always without exception, He will lead us to
                 Christ)
@@ -1030,7 +1032,7 @@ export default function Genesis24() {
           : and the servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>{" "}
           took Rebekah, and went his way.
@@ -1051,14 +1053,14 @@ export default function Genesis24() {
           the field at the eventide{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evening)</span>
+              <span className="explanation">(evening)</span>
             </span>
           </span>
           : and he lifted up his eyes, and saw, and, behold, the camels were
           coming{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while in prayer, he happened to look up and, behold, he saw the
                 camel train coming)
               </span>
@@ -1073,7 +1075,7 @@ export default function Genesis24() {
           when she saw Isaac, she lighted off the camel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rebekah would meet Isaac at his place of prayer)
               </span>
             </span>
@@ -1086,7 +1088,7 @@ export default function Genesis24() {
           <sup className="calibre7">65</sup>For she had said unto the servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliezer)</span>
+              <span className="explanation">(Eliezer)</span>
             </span>
           </span>
           , What man is this who walks in the field to meet us? And the servant
@@ -1094,7 +1096,7 @@ export default function Genesis24() {
           herself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord had arranged this marriage, and all marriages which He
                 arranges are as they should be; Rebekah was beautiful, a virgin
                 and, above all, she was the Will of the Lord for Isaac)
@@ -1110,7 +1112,7 @@ export default function Genesis24() {
           things that he had done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was quite a story!)</span>
+              <span className="explanation">(it was quite a story!)</span>
             </span>
           </span>
         </span>
@@ -1123,7 +1125,7 @@ export default function Genesis24() {
           loved her; and Isaac was comforted after his mothers death.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In those days, the primitive marriage ceremony consisted solely
                 of the taking of a bride before witnesses. The word death is
                 added here by the translators. It was not in the original Text.

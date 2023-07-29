@@ -16,7 +16,7 @@ export default function Acts05() {
           Sapphira his wife, sold a possession{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the story of this man and his wife was placed here in graphic
                 detail by the Holy Spirit as a warning)
               </span>
@@ -39,7 +39,7 @@ export default function Acts05() {
               <span className="calibre_19">to it</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (instantly proclaims the conception of this great sin and its
                 deception in being carried out),
               </span>
@@ -54,7 +54,7 @@ export default function Acts05() {
           at the Apostles feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a detailed plan with a very wide application; it was done with
                 a certain purpose in mind)
               </span>
@@ -69,7 +69,7 @@ export default function Acts05() {
           Satan filled Your heart to lie to the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents two Gifts of the Spirit in operation: Discerning of
                 Spirits, and A Word of Knowledge; how many millions of
                 professing Christians are presently lying to the Holy Spirit?)
@@ -85,7 +85,7 @@ export default function Acts05() {
           of the price of the land?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This details their insidious plan.)
               </span>
             </span>
@@ -98,7 +98,7 @@ export default function Acts05() {
           own? and after it was sold, was it not in your own power?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means simply that God did not require of them to sell the
                 land, or to give all the money received to the Work of the
                 Lord.)
@@ -108,7 +108,7 @@ export default function Acts05() {
           why have you conceived this thing in your heart?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims to us where sin originates.)
               </span>
             </span>
@@ -116,7 +116,7 @@ export default function Acts05() {
           you have not lied unto men, but unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually portrays the object of all sin; it is against God!)
               </span>
             </span>
@@ -130,7 +130,7 @@ export default function Acts05() {
           down, and gave up the ghost{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was stricken dead on the spot)
               </span>
             </span>
@@ -138,7 +138,7 @@ export default function Acts05() {
           : and great fear came on all them who heard these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the type of healthy fear of God that all men should
                 have)
               </span>
@@ -162,7 +162,7 @@ export default function Acts05() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">(prepared him for burial).</span>
+              <span className="explanation">(prepared him for burial).</span>
             </span>
           </span>
         </span>
@@ -179,7 +179,7 @@ export default function Acts05() {
           whether you sold the land for so much? And she said, Yes, for so much{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this seems to indicate that these were not strangers
                 among the thousands who had gotten saved, but were fairly well
                 known; she had an opportunity to tell the truth, but didnt!)
@@ -195,7 +195,7 @@ export default function Acts05() {
           that you have agreed together to tempt the Spirit of the Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peters question concerning the tempting of the Holy Spirit
                 seems to imply that the Spirit of God dealt with them greatly
                 so, but to no avail. They pushed aside His Warnings.)
@@ -211,7 +211,7 @@ export default function Acts05() {
           at the door, and shall carry you out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to imply that the Lord had already told Peter what her
                 reaction would be, and that the same young men who had attended
                 her husband were waiting to do the same with her)
@@ -227,7 +227,7 @@ export default function Acts05() {
           his feet, and yielded up the ghost{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Judgment of God striking her exactly as it had
                 stricken her husband)
               </span>
@@ -248,7 +248,7 @@ export default function Acts05() {
           by her husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prepared her for burial)</span>
+              <span className="explanation">(prepared her for burial)</span>
             </span>
           </span>
           .
@@ -260,7 +260,7 @@ export default function Acts05() {
           Church, and upon as many as heard these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (inasmuch as the Holy Spirit again makes the same statement as
                 He had made in{" "}
                 <ScrollLink href="/" scrollToId="#filepos12829787">
@@ -289,7 +289,7 @@ export default function Acts05() {
           were many signs and wonders wrought among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Church was founded on the Power of God, and is meant to
                 continue by the Power of God)
               </span>
@@ -298,7 +298,7 @@ export default function Acts05() {
           ; (and they were all with one accord in Solomons porch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays a roofed colonnade bearing Solomons name, which ran
                 along the eastern wall in the Court of the Gentiles of Herods
                 Temple)
@@ -314,13 +314,13 @@ export default function Acts05() {
           himself to them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Apostles)</span>
+              <span className="explanation">(to the Apostles)</span>
             </span>
           </span>
           : but the people magnified them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they knew the Apostles were of the Lord and that the Lord was
                 greatly using them, so they found no fault with them)
               </span>
@@ -335,7 +335,7 @@ export default function Acts05() {
           the Lord, multitudes both of men and women.){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It could have been as many as forty or fifty thousand, or even
                 more.)
               </span>
@@ -355,7 +355,7 @@ export default function Acts05() {
           on beds and couches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently refers to two or three different streets on which
                 Peter and the Apostles came to the Temple each day; the crowds
                 were so large they could not all get into the Temple Court)
@@ -366,7 +366,7 @@ export default function Acts05() {
           some of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implying that when this happened, healing resulted)
               </span>
             </span>
@@ -385,7 +385,7 @@ export default function Acts05() {
           of the cities round about unto Jerusalem, bringing sick folks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the extent to which this Move of God had reached)
               </span>
             </span>
@@ -393,7 +393,7 @@ export default function Acts05() {
           , and them which were vexed with unclean spirits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably implying that much of the sickness was caused by demon
                 spirits)
               </span>
@@ -402,7 +402,7 @@ export default function Acts05() {
           : and they were healed every one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(delivered and healed)</span>
+              <span className="explanation">(delivered and healed)</span>
             </span>
           </span>
           .
@@ -416,7 +416,7 @@ export default function Acts05() {
           <sup className="calibre7">17</sup>Then the High Priest rose up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (either speaks of Annas or Caiaphas, which one is not clear)
               </span>
             </span>
@@ -425,7 +425,7 @@ export default function Acts05() {
           Sadducees,) and were filled with indignation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers here to envy or jealousy)
               </span>
             </span>
@@ -438,7 +438,7 @@ export default function Acts05() {
           <sup className="calibre7">18</sup>And laid their hands on the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to all Twelve)</span>
+              <span className="explanation">(refers to all Twelve)</span>
             </span>
           </span>
           , and put them in the common prison.
@@ -453,7 +453,7 @@ export default function Acts05() {
           opened the prison doors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, an Angel; it was one of the many
                 Angels who serve as Ministering Spirits to Believers [
                 <ScrollLink href="/hebrews-01" scrollToId="#filepos14424107">
@@ -470,7 +470,7 @@ export default function Acts05() {
           , and brought them forth, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (brought them out of the prison)
               </span>
             </span>
@@ -484,7 +484,7 @@ export default function Acts05() {
           the people all the words of this life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents instructions directly opposite of those the religious
                 leaders had given; these were Words announcing Eternal Life to
                 dying men)
@@ -505,7 +505,7 @@ export default function Acts05() {
           they entered into the Temple early in the morning, and taught{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims it was the night before that they were released by
                 the Angel)
               </span>
@@ -515,7 +515,7 @@ export default function Acts05() {
           Council together, and all the senate of the children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of the Jewish Sanhedrin, the ruling body of
                 Israel),
               </span>
@@ -524,7 +524,7 @@ export default function Acts05() {
           and sent to the prison to have them brought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were in for quite a surprise)
               </span>
             </span>
@@ -538,7 +538,7 @@ export default function Acts05() {
           found them not in the prison, they returned, and told{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a scenario which is absolutely unbelievable, but yet
                 totally true!)
               </span>
@@ -553,7 +553,7 @@ export default function Acts05() {
           shut with all safety{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that nothing seemed unusual, and that the
                 locks had not been tampered with)
               </span>
@@ -562,7 +562,7 @@ export default function Acts05() {
           , and the keepers standing without before the doors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that the guards had no idea what had
                 happened)
               </span>
@@ -571,7 +571,7 @@ export default function Acts05() {
           : but when we had opened, we found no man within{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what must these jailers have thought?)
               </span>
             </span>
@@ -585,13 +585,13 @@ export default function Acts05() {
           Captain of the Temple and the Chief Priests heard these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(imagine their surprise!)</span>
+              <span className="explanation">(imagine their surprise!)</span>
             </span>
           </span>
           , they doubt ed of them whereunto this would grow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were thoroughly perplexed; no one could explain what had
                 happened or where it would stop!)
               </span>
@@ -610,7 +610,7 @@ export default function Acts05() {
           teaching the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they obeyed exactly what the Angel had said do)
               </span>
             </span>
@@ -624,7 +624,7 @@ export default function Acts05() {
           officers, and brought them without violence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means they did not bind them, but simply asked that they
                 follow)
               </span>
@@ -633,7 +633,7 @@ export default function Acts05() {
           : for they feared the people, lest they should have been stoned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they feared the people, but they did not fear Him Who
                 manifested His Power in opening the prison, for their hearts and
                 consciences were hardened with hatred against Him and His
@@ -656,7 +656,7 @@ export default function Acts05() {
           before the Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies the full Sanhedrin of seventy-one members, plus
                 onlookers)
               </span>
@@ -672,7 +672,7 @@ export default function Acts05() {
           filled Jerusalem with your doctrine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the success of their Preaching and Teaching)
               </span>
             </span>
@@ -680,7 +680,7 @@ export default function Acts05() {
           , and intend to bring this Mans blood upon us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to now seek to avoid their own imprecation, having
                 previously prayed that His Blood might be on them and on their
                 children [Mat. 27: 25])
@@ -701,7 +701,7 @@ export default function Acts05() {
           Apostles answered and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents their answer being instant and unequivocally clear)
               </span>
             </span>
@@ -709,7 +709,7 @@ export default function Acts05() {
           , We ought to obey God rather than men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this brave reply there was neither pride nor self-will;
                 there was faithfulness, subjection to Truth, and intelligence in
                 the Scriptures; Hervey said, The rule is a golden one for all
@@ -726,7 +726,7 @@ export default function Acts05() {
           Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter links Jesus with the Patriarchs and Prophets of old, as
                 well with God)
               </span>
@@ -735,7 +735,7 @@ export default function Acts05() {
           , Whom you slew and hanged on a tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places the responsibility of the murder of Christ squarely on
                 the shoulders of the Sanhedrin)
               </span>
@@ -750,7 +750,7 @@ export default function Acts05() {
           Hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the Power of God not only raised Jesus
                 from the dead, but as well has seated Him at His Own Right Hand
                 in the Heavenlies [
@@ -779,7 +779,7 @@ export default function Acts05() {
           a Prince and a Saviour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Prince, He is the Titular Leader of Israel and the Church;
                 as Saviour, He is the Deliverer, and there is no other)
               </span>
@@ -788,7 +788,7 @@ export default function Acts05() {
           , for to give repentance to Israel, and forgiveness of sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that not only is the Lord Jesus the Medium of
                 Forgiveness and Life, but He is the Dispenser of both; as well,
                 He Gives, not sells!)
@@ -804,7 +804,7 @@ export default function Acts05() {
           things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says that their Doctrine was not a mere philosophy,
                 but rather eyewitness accounts)
               </span>
@@ -819,7 +819,7 @@ export default function Acts05() {
           also the Holy Spirit, Whom God has given to them who obey Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the witness of the Holy Spirit in the hearts and lives of
                 Believers guarantees the veracity of all that Christ has done at
                 the Cross)
@@ -843,7 +843,7 @@ export default function Acts05() {
               <span className="calibre_19">to the heart</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peters words were said with powerful conviction),
               </span>
             </span>
@@ -851,7 +851,7 @@ export default function Acts05() {
           and took counsel to slay them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is the reaction which normally comes from the world of
                 religion)
               </span>
@@ -870,7 +870,7 @@ export default function Acts05() {
           reputation among all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (constitutes one of the most celebrated and honored Jewish
                 Rabbis; He was Grandson of Hillel and succeeded as President of
                 the Sanhedrin on the death of His Father, Rabbi Simeon, son of
@@ -881,7 +881,7 @@ export default function Acts05() {
           , and commanded to put the Apostles forth a little space{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in order that his word of wisdom may be given to the members of
                 the Sanhedrin)
               </span>
@@ -897,7 +897,7 @@ export default function Acts05() {
           these men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, the Holy Spirit moved upon him to take this
                 position)
               </span>
@@ -912,7 +912,7 @@ export default function Acts05() {
           Theudas, boasting himself to be somebody{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently concerns a particular insurrection led by this man,
                 which had recently taken place)
               </span>
@@ -923,7 +923,7 @@ export default function Acts05() {
           to nought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those who were dupes of this self-pronounced Messiah,
                 or some such)
               </span>
@@ -938,7 +938,7 @@ export default function Acts05() {
           Galilee in the days of the taxing, and drew away much people after him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another insurrectionist)</span>
+              <span className="explanation">(another insurrectionist)</span>
             </span>
           </span>
           : he also perished; and all,{" "}
@@ -950,7 +950,7 @@ export default function Acts05() {
           as many as obeyed him, were dispersed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims these as coming to the same end as those under
                 Theudas)
               </span>
@@ -965,7 +965,7 @@ export default function Acts05() {
           these men, and let them alone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, Gamaliel was saying, let them alone, Rome will
                 handle the problem)
               </span>
@@ -974,7 +974,7 @@ export default function Acts05() {
           : for if this counsel or this work be of men, it will come to nought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this case, such advice was correct)
               </span>
             </span>
@@ -988,7 +988,7 @@ export default function Acts05() {
           overthrow it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a great Truth as given by Gamaliel)
               </span>
             </span>
@@ -996,7 +996,7 @@ export default function Acts05() {
           ; lest haply you be found even to fight against God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the very worst position in which anyone can find
                 themselves)
               </span>
@@ -1013,7 +1013,7 @@ export default function Acts05() {
           <sup className="calibre7">40</sup>And to him they agreed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at least about not killing them)
               </span>
             </span>
@@ -1024,7 +1024,7 @@ export default function Acts05() {
               <span className="calibre_19">them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a cruel and brutal punishment which was cowardly and
                 unjust),
               </span>
@@ -1034,7 +1034,7 @@ export default function Acts05() {
           let them go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the second command not to Preach in this Name [
                 <ScrollLink href="/acts-04" scrollToId="#filepos12817451">
                   <span className="calibre_19">
@@ -1059,7 +1059,7 @@ export default function Acts05() {
           of the Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that from which the Lord had long since departed)
               </span>
             </span>
@@ -1067,7 +1067,7 @@ export default function Acts05() {
           , rejoicing that they were counted worthy to suffer shame for His Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the first sharp stroke of persecution; it was bitter
                 and painful to the flesh, but caused rejoicing in the spirit;
                 shame is Glory if suffered for the Name)
@@ -1082,7 +1082,7 @@ export default function Acts05() {
           <sup className="calibre7">42</sup>And daily in the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents them boldly and properly disregarding their illegal
                 Judges, as they kept on preaching that Jesus was the Promised
                 Messiah)
@@ -1092,7 +1092,7 @@ export default function Acts05() {
           , and in every house, they ceased not to teach and preach Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that the Churches then were in houses for the most
                 part, if not altogether)
               </span>

@@ -258,13 +258,13 @@ export default function Ezekiel11() {
           <sup className="calibre7">11</sup>This city shall not be your caldron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fortress)</span>
+              <span className="explanation">(fortress)</span>
             </span>
           </span>
           , neither shall you be the flesh in the midst thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(protected in the fortress)</span>
+              <span className="explanation">(protected in the fortress)</span>
             </span>
           </span>
           ; but I will judge you in the border of Israel{" "}

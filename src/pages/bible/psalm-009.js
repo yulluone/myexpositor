@@ -292,13 +292,13 @@ export default function Psalm009() {
           <sup className="calibre7">18</sup>For the needy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           shall not alway be forgotten: the expectation of the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           shall not perish for ever{" "}
@@ -318,7 +318,7 @@ export default function Psalm009() {
           <sup className="calibre7">19</sup>Arise, O LORD; let not man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           prevail: let the heathen be judged in Your sight.

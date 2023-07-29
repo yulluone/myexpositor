@@ -166,7 +166,7 @@ export default function Chronicles206() {
           Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Moses)</span>
+              <span className="explanation">(the Law of Moses)</span>
             </span>
           </span>
           .
@@ -181,7 +181,7 @@ export default function Chronicles206() {
           LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Altar)</span>
+              <span className="explanation">(Brazen Altar)</span>
             </span>
           </span>{" "}
           in the presence of all the congregation of Israel, and spread forth
@@ -194,19 +194,19 @@ export default function Chronicles206() {
           scaffold, of five cubits long{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           , and five cubits broad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           , and three cubits high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(4 feet)</span>
+              <span className="explanation">(4 feet)</span>
             </span>
           </span>
           , and had set it in the midst of the Court: and upon it he stood, and
@@ -345,7 +345,7 @@ export default function Chronicles206() {
           according to his righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(vindicate the righteous)</span>
+              <span className="explanation">(vindicate the righteous)</span>
             </span>
           </span>
           .
@@ -487,7 +487,7 @@ export default function Chronicles206() {
           <sup className="calibre7">32</sup>Moreover concerning the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , which is not of Your people Israel, but is come from a far country
@@ -501,7 +501,7 @@ export default function Chronicles206() {
           from Your dwelling place, and do according to all that the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           calls to You for; that all people of the Earth may know Your Name, and
@@ -648,7 +648,7 @@ export default function Chronicles206() {
           gave unto their fathers, and toward the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>{" "}
           which You have chosen, and toward the House which I have built for

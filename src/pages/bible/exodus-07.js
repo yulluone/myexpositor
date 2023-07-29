@@ -19,7 +19,7 @@ export default function Exodus07() {
           prophet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses having declared that he was of uncircumcised lips, that
                 is, that he was wanting in eloquence, Grace once more pitied his
                 fears, and Aaron is appointed to be his prophet, i.e., his
@@ -35,7 +35,7 @@ export default function Exodus07() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word of God Alone holds the answer)
               </span>
             </span>
@@ -44,7 +44,7 @@ export default function Exodus07() {
           Children of Israel out of his land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The weakness of the instrument was fully manifested that it
                 might the better be seen that the power was in Jehovah Alone,
                 and of Jehovah acting not so much in response to Faith, as in
@@ -59,7 +59,7 @@ export default function Exodus07() {
           <sup className="calibre7">3</sup>And I will harden Pharaohs heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord hardened Pharaohs heart, by providing the means for
                 the monarch to do so; in fact, He does the same with all; some
                 accept the Lord, while some rebel, even as did Pharaoh)
@@ -69,7 +69,7 @@ export default function Exodus07() {
           , and multiply My Signs and My Wonders in the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is Gods purpose that Israel shall be preeminent in the
                 Earth; and, therefore, everyone who presumes to stand in the way
                 of that preeminence must be set aside. Divine Grace must find
@@ -90,7 +90,7 @@ export default function Exodus07() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (through foreknowledge, the Lord knew this)
               </span>
             </span>
@@ -100,7 +100,7 @@ export default function Exodus07() {
           judgments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is, Pharaoh would not yield, would not give in, would
                 not heed the voice of God, as given him through Moses and Aaron,
                 so the Lord turns the tables on him, using his obstinacy to
@@ -117,7 +117,7 @@ export default function Exodus07() {
           the Children of Israel from among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will allow Egypt to do her worst, to put forth her best, to
                 use all the power that she possessed, to keep the Children of
                 Israel as slaves, but, despite this power, the Lord will
@@ -133,7 +133,7 @@ export default function Exodus07() {
           commanded them, so did they.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thats all the Lord requires of us, as well!)
               </span>
             </span>
@@ -145,13 +145,13 @@ export default function Exodus07() {
           <sup className="calibre7">7</sup>And Moses was fourscore years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(80 years old)</span>
+              <span className="explanation">(80 years old)</span>
             </span>
           </span>
           , and Aaron fourscore and three years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(83 years old)</span>
+              <span className="explanation">(83 years old)</span>
             </span>
           </span>
           , when they spoke unto Pharaoh.
@@ -166,7 +166,7 @@ export default function Exodus07() {
           unto Aaron, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos759645">
                   <span className="calibre_19">
@@ -199,7 +199,7 @@ export default function Exodus07() {
           your rod, and cast it before Pharaoh, and it shall become a serpent.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first miracle, but yet it is not counted among the
                 ten which would affect Egypt. The first miracle that would
                 affect Egypt, which would be the first of the ten, would be the
@@ -219,7 +219,7 @@ export default function Exodus07() {
           serpent.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let the Reader understand that this happened exactly as the
                 Word of God said it happened. To deny that is to deny God!)
               </span>
@@ -234,7 +234,7 @@ export default function Exodus07() {
           like manner with their enchantments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that these magicians did actually bring
                 about this miracle, in which Satan himself helped them.)
               </span>
@@ -248,7 +248,7 @@ export default function Exodus07() {
           rod, and they became serpents: but Aarons rod swallowed up their rods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only power on Earth that is greater than the power of Satan
                 is the Power of God, evidenced here by Aarons rod swallowing up
                 their rod, i.e., the serpent.)
@@ -262,14 +262,14 @@ export default function Exodus07() {
           <sup className="calibre7">13</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           hardened Pharaohs heart, that he hearkened not unto them; as the LORD
           had said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos757026">
                   <span className="calibre_19">
@@ -291,7 +291,7 @@ export default function Exodus07() {
           Pharaohs heart is hardened, he refuses to let the people go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan does not give in easily, as should be obvious.)
               </span>
             </span>
@@ -306,7 +306,7 @@ export default function Exodus07() {
           serpent shall you take in your hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This would be the scene of the first miracle designed to affect
                 Egypt.)
               </span>
@@ -328,7 +328,7 @@ export default function Exodus07() {
           shall know that I am the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will see His miracle-working power)
               </span>
             </span>
@@ -337,7 +337,7 @@ export default function Exodus07() {
           which are in the river, and they shall be turned to blood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Nile is a large river, so this must have seemed totally
                 preposterous to Pharaoh. The necessity of the shed blood of
                 Christ seems preposterous to the world; nevertheless, it is
@@ -353,7 +353,7 @@ export default function Exodus07() {
           shall die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at least three species of the Nile fish were sacred the
                 oxyrhineus, the lepidotus, and the phagrus; in fact, the River
                 Nile was worshipped by the Egyptians under various names and
@@ -379,7 +379,7 @@ export default function Exodus07() {
           vessels of wood, and in vessels of stone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Egyptians abhorred blood, and their horror must have been
                 extreme when they saw that their sacred river, and all other
                 water in their country, turned to blood. Again, let it be
@@ -413,7 +413,7 @@ export default function Exodus07() {
           he hearken unto them; as the LORD had said.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We find that the effect on Pharaohs heart was to harden it.
                 Such is the incurable hatred of the natural heart that Divine
                 judgments harden instead of subdue it.)
@@ -428,7 +428,7 @@ export default function Exodus07() {
           house, neither did he set his heart to this also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He refused to yield!)</span>
+              <span className="explanation">(He refused to yield!)</span>
             </span>
           </span>
         </span>
@@ -445,7 +445,7 @@ export default function Exodus07() {
           <sup className="calibre7">25</sup>And seven days were fulfilled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the blood remained for that long)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Exodus07() {
           , after that the LORD had smitten the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number seven indicates that God will be fully able to
                 accomplish what He has declared)
               </span>

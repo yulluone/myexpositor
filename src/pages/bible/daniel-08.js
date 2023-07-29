@@ -19,7 +19,7 @@ export default function Daniel08() {
           that which appeared unto me at the first.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, In the third year of the reign of king Belshazzar,
                 means that this Vision was given some two years after the Vision
                 of{" "}
@@ -77,7 +77,7 @@ export default function Daniel08() {
           Ulai.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Shushan was the chief city of Persia.)
               </span>
             </span>
@@ -95,7 +95,7 @@ export default function Daniel08() {
           the higher came up last.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A ram which had two horns, symbolized the Medo-Persian Empire,
                 ruled by two kings, Darius of the Medes and Cyrus of Persia. And
                 the two horns were high, spoke of their power, which was great
@@ -117,7 +117,7 @@ export default function Daniel08() {
           according to his will, and became great.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ram is used here by the Holy Spirit as symbolic of the
                 Empire of the Medes and the Persians. I saw the ram pushing
                 westward, refers to an event of the recent past, the taking of
@@ -138,7 +138,7 @@ export default function Daniel08() {
           not the ground: and the goat had a notable horn between his eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In Nebuchadnezzars dream, the Grecian Empire is represented by
                 the belly and thighs of brass. In Daniels first Vision in{" "}
                 <ScrollLink href="/daniel-07" scrollToId="#filepos9836887">
@@ -180,7 +180,7 @@ export default function Daniel08() {
           the fury of his power.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fury of his power, portrays the speed of his conquests and
                 the ferociousness of his attack, plus military strategy that
                 completely overwhelmed the much larger force of the Medes and
@@ -199,7 +199,7 @@ export default function Daniel08() {
           there was none who could deliver the ram out of his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Daniel sees this, of course, it is yet future. The word
                 choler means that Alexander was greatly angry at the
                 Medo-Persians.)
@@ -218,7 +218,7 @@ export default function Daniel08() {
           came up four notable ones toward the four winds of heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And when he was strong, the great horn was broken, refers to
                 the untimely death of Alexander the Great in 323 B.C., when he
                 was at the apex of his strength. He was 32 years old when he
@@ -251,7 +251,7 @@ export default function Daniel08() {
           the east, and toward the pleasant land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And out of one of them came forth a little horn, refers to the
                 future Antichrist coming out of one of these four divisions of
                 the old Grecian Empire. Toward the south refers to Egypt; toward
@@ -270,7 +270,7 @@ export default function Daniel08() {
           ground, and stamped upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And it waxed great, even to the host of heaven, refers to the
                 little horn [Antichrist] breaking his seven-year Covenant with
                 Israel, which Daniel speaks of in a future Vision [
@@ -298,7 +298,7 @@ export default function Daniel08() {
           and the place of his sanctuary was cast down.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Yes, he magnified himself even to the prince of the host,
                 refers to the Antichrist usurping authority over the High Priest
                 of Israel. These Verses actually speak of the war which will be
@@ -320,7 +320,7 @@ export default function Daniel08() {
           truth to the ground; and it practiced, and prospered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By reason of transgression, refers to the Antichrist breaking
                 his seven-year covenant with Israel, therefore, committing
                 transgression. As stated, he will then stop the daily sacrifice.
@@ -340,7 +340,7 @@ export default function Daniel08() {
           under foot?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These are Saints in Heaven; Daniel overheard their
                 conversation, but had no identification as to who they were. The
                 Sanctuary spoken of here is the rebuilt Temple. The Host to be
@@ -368,7 +368,7 @@ export default function Daniel08() {
           thousand and three hundred days; then shall the Sanctuary be cleansed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse makes reference to 2,300 evenings and mornings [
                 <ScrollLink href="/" scrollToId="#filepos9867185">
                   <span className="calibre_19">
@@ -417,7 +417,7 @@ export default function Daniel08() {
           there stood before me as the appearance of a man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is actually the mighty Angel, Gabriel, who stands in the
                 Presence of God [
                 <ScrollLink href="/luke-01" scrollToId="#filepos11695281">
@@ -440,7 +440,7 @@ export default function Daniel08() {
           understand the Vision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not known whether the mans voice spoken of here refers to
                 an Angel or a redeemed man. At any rate, he will inform Gabriel
                 that he is to make Daniel to understand the Vision.)
@@ -460,7 +460,7 @@ export default function Daniel08() {
           Vision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For at the time of the end shall be the Vision, refers to the
                 Endtime, namely the very days in which we now live, extending
                 into the immediate future.)
@@ -476,7 +476,7 @@ export default function Daniel08() {
           and set me upright.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My face toward the ground, is not by accident! Daniel senses
                 his tremendous unworthiness, especially in such Presence.)
               </span>
@@ -491,7 +491,7 @@ export default function Daniel08() {
           appointed the end shall be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What shall be in the last end of the indignation, concerns Gods
                 past, present, and future indignation against Israel. To that
                 indignation, He has set an appointed limit. However, the far
@@ -511,7 +511,7 @@ export default function Daniel08() {
           horns are the kings of Media and Persia.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel served in this Empire for a number of years before his
                 death.)
               </span>
@@ -528,7 +528,7 @@ export default function Daniel08() {
           Grecia: and the great horn that is between his eyes is the first king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great horn is Alexander the Great.)
               </span>
             </span>
@@ -547,7 +547,7 @@ export default function Daniel08() {
           not in his power.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That being broken, refers to the great horn, symbolizing the
                 death of Alexander the Great. Whereas four stood up for it,
                 refers to four generals who took the Empire after the death of
@@ -569,7 +569,7 @@ export default function Daniel08() {
           countenance, and understanding dark sentences, shall stand up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And in the latter time of their kingdom, pertains to the coming
                 of the Antichrist. When the transgressors are come to the full,
                 refers to the nation of Israel reaching the climax of her guilt
@@ -604,7 +604,7 @@ export default function Daniel08() {
           People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he shall destroy wonderfully, refers to{" "}
                 <ScrollLink href="/revelation-06" scrollToId="#filepos14943985">
                   <span className="calibre_19">
@@ -632,7 +632,7 @@ export default function Daniel08() {
           against the Prince of princes; but he shall be broken without hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word craft in the Hebrew is mirmah, meaning deceit. The
                 Antichrist will be the greatest deceiver of all [
                 <ScrollLink
@@ -711,7 +711,7 @@ export default function Daniel08() {
           for it shall be for many days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For it shall be for many days, signifies that the Vision from
                 Daniels day would be a long time in coming to fulfillment.
                 Actually, it has not yet been fulfilled, but it most definitely
@@ -728,7 +728,7 @@ export default function Daniel08() {
           was astonished at the Vision, but none understood it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But none understood it, refers to the fact that the
                 comprehension of events in the distant future was difficult.
                 Presently, in the light of the history of many of these things,

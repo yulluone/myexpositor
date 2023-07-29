@@ -15,7 +15,7 @@ export default function James3() {
           <sup className="calibre7">1</sup>My Brethren, be not many masters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, be not many Teachers)
               </span>
             </span>
@@ -23,7 +23,7 @@ export default function James3() {
           , knowing that we shall receive the greater condemnation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that mishandling the Word of God will
                 ultimately bring one tremendous problems. God holds the Teacher
                 more responsible than the student.)
@@ -37,7 +37,7 @@ export default function James3() {
           <sup className="calibre7">2</sup>For in many things we offend all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the universality of sin and failure, even among
                 Believers.)
               </span>
@@ -58,7 +58,7 @@ export default function James3() {
           able also to bridle the whole body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit Alone can control the Believers tongue.)
               </span>
             </span>
@@ -71,7 +71,7 @@ export default function James3() {
           mouths, that they may obey us; and we turn about their whole body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is saying our mouths should obey us, instead of
                 us obeying our mouths.)
               </span>
@@ -97,7 +97,7 @@ export default function James3() {
           helm, whithersoever the governor lists.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers here to the helm being likened unto the tongue.)
               </span>
             </span>
@@ -109,7 +109,7 @@ export default function James3() {
           <sup className="calibre7">5</sup>Even so the tongue is a little member{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is small, but it exerts a powerful influence)
               </span>
             </span>
@@ -117,7 +117,7 @@ export default function James3() {
           , and boasts great things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (responsible for great things, whether good or bad)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function James3() {
           . Behold, how great a matter a little fire kindles!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The image projected here by James is the picture of a vast
                 forest in flames, all begun by the falling of a single spark.)
               </span>
@@ -144,7 +144,7 @@ export default function James3() {
           a fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of fire in a negative way, that which destroys)
               </span>
             </span>
@@ -152,7 +152,7 @@ export default function James3() {
           , a world of iniquity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tongue in some way is responsible for all the iniquity in
                 the world)
               </span>
@@ -161,13 +161,13 @@ export default function James3() {
           : so is the tongue among our members{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(body members)</span>
+              <span className="explanation">(body members)</span>
             </span>
           </span>
           , that it defiles the whole body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (constantly speaking in a negative way can bring about physical
                 illness in the body)
               </span>
@@ -176,7 +176,7 @@ export default function James3() {
           , and sets on fire the course of nature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tongue sets us on a particular path, and in this case the
                 wrong path)
               </span>
@@ -185,7 +185,7 @@ export default function James3() {
           ; and it is set on fire of hell.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By using the word hell, we are made to understand not only the
                 wickedness of the tongue, but as well its destructive power.)
               </span>
@@ -200,7 +200,7 @@ export default function James3() {
           been tamed of mankind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a proven fact)</span>
+              <span className="explanation">(a proven fact)</span>
             </span>
           </span>
           :
@@ -211,7 +211,7 @@ export default function James3() {
           <sup className="calibre7">8</sup>But the tongue can no man tame{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the Word of the Lord; however, the tongue can most
                 definitely be tamed by the Holy Spirit; the way it is done has
                 to do with the Cross of Christ; the Holy Spirit works within the
@@ -246,7 +246,7 @@ export default function James3() {
           an unruly evil, full of deadly poison.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Believer must realize this. It means that just because he
                 is saved, such doesnt necessarily guarantee a change in this
                 problem. As stated, it definitely can be, and, in fact, must be,
@@ -262,7 +262,7 @@ export default function James3() {
           Father; and therewith curse we men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the inconsistency, to say the least, of blessing God
                 one moment and cursing men the next)
               </span>
@@ -271,7 +271,7 @@ export default function James3() {
           , which are made after the similitude of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a sense, when we curse men, which refers to wishing them
                 hurt, we are cursing God. To curse the Creation is to curse the
                 Creator.)
@@ -286,7 +286,7 @@ export default function James3() {
           blessing and cursing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the tongue devoted to uses so different)
               </span>
             </span>
@@ -294,7 +294,7 @@ export default function James3() {
           . My Brethren, these things ought not so to be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Lord has His Way in our hearts and lives, they wont be.)
               </span>
             </span>
@@ -313,7 +313,7 @@ export default function James3() {
           and bitter?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of necessity, this question must be answered in the negative.)
               </span>
             </span>
@@ -332,7 +332,7 @@ export default function James3() {
           no fountain both yield salt water and fresh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of nature. However, man can do what nature cannot
                 do.)
               </span>
@@ -354,7 +354,7 @@ export default function James3() {
           a wise man and endued with knowledge among you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to a true teacher of the Word of God.)
               </span>
             </span>
@@ -362,13 +362,13 @@ export default function James3() {
           let him show out of a good conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
           </span>{" "}
           his works with meekness of wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the conduct of the Believer)
               </span>
             </span>
@@ -382,7 +382,7 @@ export default function James3() {
           strife in your hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the sin nature springing to life, thereby, ruling in
                 the Believers life [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13353573">
@@ -399,13 +399,13 @@ export default function James3() {
           , Glory not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(boast not)</span>
+              <span className="explanation">(boast not)</span>
             </span>
           </span>
           , and lie not against the truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that if we do boast of anything other
                 than the Cross, we are lying, pure and simple [
                 <ScrollLink href="/galatians-6" scrollToId="#filepos13989509">
@@ -426,7 +426,7 @@ export default function James3() {
           <sup className="calibre7">15</sup>This wisdom descends not from above{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (any wisdom that claims Salvation or Victory in any way or
                 manner other than the Cross is not wisdom from above)
               </span>
@@ -441,7 +441,7 @@ export default function James3() {
           earthly, sensual, devilish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whatever its appeal, if its not the Cross, it is of Satan. This
                 covers humanistic psychology, plus anything else devised by men,
                 i.e., demons.)
@@ -467,7 +467,7 @@ export default function James3() {
           confusion and every evil work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If its not the Cross, it is confusion, and every evil work.)
               </span>
             </span>
@@ -480,7 +480,7 @@ export default function James3() {
           first pure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is found in all its fullness in Christ, and in Christ Alone)
               </span>
             </span>
@@ -495,7 +495,7 @@ export default function James3() {
           partiality, and without hypocrisy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These things present the Work of the Holy Spirit, with the
                 Cross as the means and Christ as the Source.)
               </span>
@@ -509,7 +509,7 @@ export default function James3() {
           sown in Peace of them who make Peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Law of sowing and reaping)
               </span>
             </span>

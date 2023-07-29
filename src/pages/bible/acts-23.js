@@ -16,7 +16,7 @@ export default function Acts23() {
           Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently speaks of all seventy-one members of the Sanhedrin,
                 with the High Priest Ananias serving as its President)
               </span>
@@ -32,7 +32,7 @@ export default function Acts23() {
           day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that whatever he had been doing, he had thought it right
                 at the time, whether true or not)
               </span>
@@ -47,7 +47,7 @@ export default function Acts23() {
           them who stood by him to smite him on the mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this man would have hated Paul; history records he was
                 appointed about nine years before this through political
                 influence; he ruled like a tyrant in Jerusalem, and was a
@@ -71,7 +71,7 @@ export default function Acts23() {
           whited wall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says, you whitewashed wall, meaning that the
                 whitewash covered a black heart)
               </span>
@@ -81,7 +81,7 @@ export default function Acts23() {
           contrary to the Law?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents Paul knowing the Law of Moses to a far greater
                 degree than any of these members of the Sanhedrin.)
               </span>
@@ -95,7 +95,7 @@ export default function Acts23() {
           revile Gods High Priest?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul did not know this man was the High Priest.)
               </span>
             </span>
@@ -108,7 +108,7 @@ export default function Acts23() {
           Brethren, that he was the High Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was very difficult at that time for a visitor to Jerusalem,
                 as Paul was, to know who was High Priest; the Romans made and
                 unmade them at their pleasure, in addition to those made and
@@ -121,7 +121,7 @@ export default function Acts23() {
           people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-22" scrollToId="#filepos997873">
                   <span className="calibre_19">
@@ -143,7 +143,7 @@ export default function Acts23() {
           part were Sadducees, and the other Pharisees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we arent told how he came about this information)
               </span>
             </span>
@@ -157,7 +157,7 @@ export default function Acts23() {
           Brethren, I am a Pharisee, the son of a Pharisee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (expresses the party with which Paul had been associated before
                 his conversion, and his Father having been the same)
               </span>
@@ -166,7 +166,7 @@ export default function Acts23() {
           : of the hope and resurrection of the dead I am called in question{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the whole Christian Faith is built around Christ, His Death on
                 the Cross, and His Bodily Resurrection; without Faith in both,
                 men are lost)
@@ -183,7 +183,7 @@ export default function Acts23() {
           multitude was divided{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Sanhedrin itself, but typifies the majority of
                 the Church world presently)
               </span>
@@ -198,7 +198,7 @@ export default function Acts23() {
           no Resurrection, neither Angel, nor spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were the modernists of that present time)
               </span>
             </span>
@@ -206,7 +206,7 @@ export default function Acts23() {
           : but the Pharisees confess both{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were the fundamentalists of that time, which means to
                 profess belief in all the Bible)
               </span>
@@ -228,7 +228,7 @@ export default function Acts23() {
           this man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the situation being decided on the basis of Doctrine,
                 and not on Paul personally)
               </span>
@@ -252,7 +252,7 @@ export default function Acts23() {
           into the castle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the fact that the situation had gotten completely out
                 of hand)
               </span>
@@ -267,7 +267,7 @@ export default function Acts23() {
           stood by him, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents another appearance by Jesus Christ to Paul [
                 <ScrollLink href="/acts-22" scrollToId="#filepos13174820">
                   <span className="calibre_19">
@@ -329,7 +329,7 @@ export default function Acts23() {
           , Be of good cheer, Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, Paul was greatly discouraged at this time, hence the
                 needed admonition given by Christ)
               </span>
@@ -339,7 +339,7 @@ export default function Acts23() {
           witness also at Rome{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this meant that despite the hatred and great efforts of his
                 enemies, the Jews in Jerusalem would not be able to take his
                 life, which they didnt)
@@ -358,7 +358,7 @@ export default function Acts23() {
           Jews banded together, and bound themselves under a curse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (their curse was a religious curse, which sought to put God in a
                 position where He would have to do their will; their thinking
                 was ridiculous!)
@@ -369,7 +369,7 @@ export default function Acts23() {
           Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(such is religion!)</span>
+              <span className="explanation">(such is religion!)</span>
             </span>
           </span>
           .
@@ -388,7 +388,7 @@ export default function Acts23() {
           that we will eat nothing until we have killed Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they now seek to make their efforts official)
               </span>
             </span>
@@ -404,7 +404,7 @@ export default function Acts23() {
           and we, or ever he come near, are ready to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the depth of infamy to which the religion of the
                 carnal heart can sink cultured and religious people)
               </span>
@@ -422,7 +422,7 @@ export default function Acts23() {
           their lying in wait{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Pauls Nephew and all we know of his family other than
                 references in{" "}
                 <ScrollLink href="/romans-16" scrollToId="#filepos13524395">
@@ -455,7 +455,7 @@ export default function Acts23() {
           , he went and entered into the castle, and told Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we arent told how he came by this knowledge)
               </span>
             </span>
@@ -481,13 +481,13 @@ export default function Acts23() {
           <sup className="calibre7">18</sup>So he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Centurion)</span>
+              <span className="explanation">(the Centurion)</span>
             </span>
           </span>{" "}
           took him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pauls Nephew)</span>
+              <span className="explanation">(Pauls Nephew)</span>
             </span>
           </span>
           , and brought{" "}
@@ -524,7 +524,7 @@ export default function Acts23() {
           What is that you have to tell me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays an honest effort on the Chief Captains part to
                 obtain the Truth in all these matters.)
               </span>
@@ -548,7 +548,7 @@ export default function Acts23() {
           promise from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a plot to which the Tribune would probably have innocently
                 agreed had the young man not warned him; in fact, what the Jews
                 were doing was totally against Roman Law)
@@ -575,7 +575,7 @@ export default function Acts23() {
           tell no man that you have showed these things to me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed, although not stated, that the young man went
                 and related to Paul his ready acceptance by the Tribune, which
                 no doubt encouraged Paul greatly)
@@ -600,13 +600,13 @@ export default function Acts23() {
           Caesarea, and horsemen threescore and ten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seventy)</span>
+              <span className="explanation">(seventy)</span>
             </span>
           </span>
           , and spearmen two hundred, at the third hour of the night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 p.m.)</span>
+              <span className="explanation">(9 p.m.)</span>
             </span>
           </span>
           ;
@@ -623,7 +623,7 @@ export default function Acts23() {
           beasts, that they may set Paul on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably placed the Apostle next to one of the Centurions in
                 the very midst of the force)
               </span>
@@ -638,7 +638,7 @@ export default function Acts23() {
           safe unto Felix the Governor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not exactly a man of kind disposition to whom Paul must answer)
               </span>
             </span>
@@ -657,7 +657,7 @@ export default function Acts23() {
           <sup className="calibre7">26</sup>Claudius Lysias{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Roman Tribune)</span>
+              <span className="explanation">(the Roman Tribune)</span>
             </span>
           </span>{" "}
           un to the most Excellent Governor Felix{" "}
@@ -683,7 +683,7 @@ export default function Acts23() {
           Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanhedrin)</span>
+              <span className="explanation">(Sanhedrin)</span>
             </span>
           </span>
           :
@@ -701,7 +701,7 @@ export default function Acts23() {
           aw{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law of Moses)</span>
+              <span className="explanation">(Law of Moses)</span>
             </span>
           </span>
           , but to have nothing laid to his charge worthy of death or of bonds.
@@ -713,7 +713,7 @@ export default function Acts23() {
           Jews laid wait for the man, I sent straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           to you, and gave commandment to his accusers also to say before you
@@ -738,7 +738,7 @@ export default function Acts23() {
           by night to Antipatris{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about forty miles from Jerusalem, with about twenty miles left
                 to Caesarea; the soldiers must have marched without stopping for
                 about fifteen hours)
@@ -754,7 +754,7 @@ export default function Acts23() {
           to go with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the infantry of about four hundred Soldiers returned to
                 Jerusalem, while the Cavalry, consisting of some seventy
                 horsemen, took Paul the balance of the way to Caesarea)
@@ -770,7 +770,7 @@ export default function Acts23() {
           delivered the epistle to the Governor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the letter written by the Roman Tribune)
               </span>
             </span>
@@ -789,7 +789,7 @@ export default function Acts23() {
           he asked of what province he was{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the home of Paul)</span>
+              <span className="explanation">(the home of Paul)</span>
             </span>
           </span>
           . And when he understood that{" "}
@@ -801,7 +801,7 @@ export default function Acts23() {
           of Cilicia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this automatically gave the Governor jurisdiction; the fact
                 that Paul was a Roman citizen from this important Province,
                 meant that Felix could not ignore him)
@@ -816,13 +816,13 @@ export default function Acts23() {
           <sup className="calibre7">35</sup>I will hear you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he speaks to Paul)</span>
+              <span className="explanation">(he speaks to Paul)</span>
             </span>
           </span>
           , said he, when your accusers are also come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to members or representatives of the Sanhedrin)
               </span>
             </span>
@@ -830,7 +830,7 @@ export default function Acts23() {
           . And he commanded him to be kept in Herods Judgment Hall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a part of the lavish Palace built by Herod the Great; it served
                 as the Capitol Building as well as the official residence of the
                 Roman Governors; it evidently had some prison cells within its

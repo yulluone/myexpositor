@@ -18,7 +18,7 @@ export default function Genesis05() {
           of Adam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (corresponds with the phrase, The Book of the Generation of
                 Jesus Christ, Who was the Last Adam [
                 <ScrollLink href="/matthew-01" scrollToId="#filepos10837082">
@@ -35,7 +35,7 @@ export default function Genesis05() {
           . In the day that God created man, in the Likeness of God made He him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Likeness of God is the Glory of God [
                 <ScrollLink
                   href="/corinthians2-04"
@@ -68,7 +68,7 @@ export default function Genesis05() {
           <sup className="calibre7">2</sup>Male and female created He them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that homosexuality is a grievous sin before
                 God)
               </span>
@@ -77,7 +77,7 @@ export default function Genesis05() {
           ; and blessed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the blessing was lost as a result of the Fall, but has been
                 regained in Christ)
               </span>
@@ -86,7 +86,7 @@ export default function Genesis05() {
           , and called their name Adam, in the day when they were created{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adam, in the Hebrew, is the word for humankind in general
                 beside the specific name for the first man)
               </span>
@@ -101,13 +101,13 @@ export default function Genesis05() {
           years, and begat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fathered)</span>
+              <span className="explanation">(fathered)</span>
             </span>
           </span>{" "}
           a son in his own likeness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God originally intended for mankind to procreate sons and
                 daughters of God into the world; due to the Fall, sons and
                 daughters could be brought into the world only in the likeness
@@ -119,7 +119,7 @@ export default function Genesis05() {
           , and after his image{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Adam no longer had the Image of God; the likeness
                 and image are now after Satan [
                 <ScrollLink href="/john-08" scrollToId="#filepos12481410">
@@ -136,7 +136,7 @@ export default function Genesis05() {
           ; and called his name Seth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Seth was not the Promised One, still, he
                 represented a ray of hope; through him, rather his line, the
                 Promised One would come)
@@ -153,7 +153,7 @@ export default function Genesis05() {
           daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the intimation is, Adam was able to father children, and Eve to
                 conceive, for some 800 years. Exactly how many children they
                 brought into the world we arent told. But it had to be many)
@@ -169,7 +169,7 @@ export default function Genesis05() {
           nine hundred and thirty years: and he died{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the family history of this, the Heavenly Race, is marked by
                 death; no matter how long a member of the family lived, yet
                 three words attend the name: and he died)
@@ -188,7 +188,7 @@ export default function Genesis05() {
           years, and begat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fathered)</span>
+              <span className="explanation">(fathered)</span>
             </span>
           </span>{" "}
           Enos:
@@ -279,7 +279,7 @@ export default function Genesis05() {
           two years, and he begat Enoch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Enoch and Abel are the only two men from creation to the flood,
                 with the exception of Noah, listed who lived for God. There may
                 have been others, but the Bible doesnt say)
@@ -310,7 +310,7 @@ export default function Genesis05() {
           years, and begat Methuselah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (apparently, Enoch was 65 years of age when he was converted and
                 entered into this Divine fellowship; the name Methuselah means:
                 The Deluge (the flood) shall be sent when he is dead; so,
@@ -329,7 +329,7 @@ export default function Genesis05() {
           <sup className="calibre7">22</sup>And Enoch walked with God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (three statements are made in the Bible respecting Enoch: he
                 walked with God [
                 <ScrollLink href="/" scrollToId="#filepos86389">
@@ -363,7 +363,7 @@ export default function Genesis05() {
           daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Enoch did not live a life of isolation, but he did live a life
                 of separation. Such is demanded of all Believers)
               </span>
@@ -378,7 +378,7 @@ export default function Genesis05() {
           hundred sixty and five years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (converted at 65 years old, he faithfully lived for God some 300
                 years)
               </span>
@@ -393,7 +393,7 @@ export default function Genesis05() {
           was not; for God took him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Enoch was one of the two men in history who did not die, Elijah
                 being the other. He was translated, and as Paul said, that he
                 should not see death [
@@ -420,7 +420,7 @@ export default function Genesis05() {
           eighty and seven years, and begat Lamech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Noah will be born to Lamech)</span>
+              <span className="explanation">(Noah will be born to Lamech)</span>
             </span>
           </span>
         </span>
@@ -439,7 +439,7 @@ export default function Genesis05() {
           nine hundred sixty and nine years: and he died{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Methuselah lived longer than anyone has ever lived, 969 years;
                 he apparently died just before Noahs flood; despite his Godly
                 father, there is no record that he lived for God)
@@ -463,7 +463,7 @@ export default function Genesis05() {
           <sup className="calibre7">29</sup>And he called his name Noah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are now introduced to Noah, one of the central figures of
                 the Bible, and of all time. His name means rest)
               </span>
@@ -473,7 +473,7 @@ export default function Genesis05() {
           our hands, because of the ground which the LORD has cursed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Lamech, the father of Noah, had been given a
                 Revelation concerning this child. The comfort he brought, as it
                 regards the curse, had to do with the Ark, and the One Who would
@@ -499,7 +499,7 @@ export default function Genesis05() {
           five hundred ninety and five years, and begat sons and daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but none of the brothers and sisters of Noah believed the Word
                 of the Lord, and thereby perished in the flood)
               </span>
@@ -523,7 +523,7 @@ export default function Genesis05() {
           and Noah begat Shem, Ham, and Japheth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the fact that every human being on the face of the Earth
                 died in the flood, with the exception of Noah and his family,
                 this means that every person who has ever lived since then is a

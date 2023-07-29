@@ -17,7 +17,7 @@ export default function Ecclesiastes05() {
           fools: for they consider not that they do evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Keep your foot means to be reverent. The House of God refers to
                 the Presence of God. To hear means to obey.
               </span>
@@ -76,7 +76,7 @@ export default function Ecclesiastes05() {
           Heaven, and you upon Earth: therefore let your words be few.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse points to loud religious profession with the lips.)
               </span>
             </span>
@@ -90,7 +90,7 @@ export default function Ecclesiastes05() {
           words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first part of this Verse speaks of busy activity that
                 oftentimes causes one to have dreams which cannot be remembered
                 the next morning.
@@ -119,7 +119,7 @@ export default function Ecclesiastes05() {
           have vowed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In no uncertain terms, the Holy Spirit has told us to be very
                 careful about making a vow. However, if one is made, we are to
                 keep it.)
@@ -134,7 +134,7 @@ export default function Ecclesiastes05() {
           than that you should vow and not pay.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If a person makes a vow, he should do all within his power and
                 ability to keep that vow. However, if a person makes a rash vow,
                 and it turns out that it is impossible to keep, one should plead
@@ -153,7 +153,7 @@ export default function Ecclesiastes05() {
           your hands?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mouth too often causes the flesh to sin. This Verse should
                 make us understand how serious that God takes vows.)
               </span>
@@ -167,7 +167,7 @@ export default function Ecclesiastes05() {
           many words there are also divers vanities: but fear you God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The professors of ceremonial religion construct a worship of
                 dreams, vanities, and many words. God calls it empty nothings,
                 which characterize all the religions of the world. Religion is a
@@ -196,7 +196,7 @@ export default function Ecclesiastes05() {
           regards; and there be higher than they.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument of this Verse is: if God, Who is higher than the
                 kings of the Earth, temporarily permits oppression, His Child is
                 not to be stumbled or be confused by this fact, but to accept
@@ -214,7 +214,7 @@ export default function Ecclesiastes05() {
           for all: the king himself is served by the field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Earth has the potential, we are told, to feed 100 billion
                 people. Because of religion and the powers of darkness, it
                 strains at present with the approximate population of 6-1/2
@@ -231,7 +231,7 @@ export default function Ecclesiastes05() {
           is also vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Why? As man is a physical being, he is also a spiritual being.
                 The soul and the spirit of man can only be satisfied by God, and
                 not by silver or gold.)
@@ -247,7 +247,7 @@ export default function Ecclesiastes05() {
           saving the beholding of them with their eyes?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Other than the food we eat, the clothes we wear, and a home to
                 live in, plus whatever physical or material needs we may have,
                 what actual good is there in great accumulation of properties
@@ -264,7 +264,7 @@ export default function Ecclesiastes05() {
           will not suffer him to sleep.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The rich are constantly concerned about their abundance, so
                 sleep oftentimes escapes their eyes.)
               </span>
@@ -279,7 +279,7 @@ export default function Ecclesiastes05() {
           their hurt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the tragic story of so many!)
               </span>
             </span>
@@ -292,7 +292,7 @@ export default function Ecclesiastes05() {
           travail: and he begets a son, and there is nothing in his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If riches are all that a father can give a son, then he has
                 really given him nothing. The greatest thing that one can give
                 is Christ.)
@@ -308,7 +308,7 @@ export default function Ecclesiastes05() {
           of his labour, which he may carry away in his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A very wealthy man died. As the funeral train passed, someone
                 was heard to ask, How much did he leave? Another who stood
                 nearby answered immediately, He left it all!)
@@ -324,7 +324,7 @@ export default function Ecclesiastes05() {
           has laboured for the wind?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man is born naked, and he leaves naked. If he has all of this
                 worlds goods and none of God, he will have labored for the wind.
                 Such characterizes almost all of humanity. That is the reason
@@ -348,7 +348,7 @@ export default function Ecclesiastes05() {
           darkness, and he has much sorrow and wrath with his sickness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord calls the grasping after riches a sickness. He says
                 that those who follow this course, no matter how rich they may
                 be, are in darkness.)
@@ -365,7 +365,7 @@ export default function Ecclesiastes05() {
           which God gives him: for it is his portion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God means for men to enjoy life, to enjoy the good. Such can
                 be, but only if men will seek after the Lord, obey His Word, and
                 seek His Will.
@@ -393,7 +393,7 @@ export default function Ecclesiastes05() {
           his portion, and to rejoice in his labour; this is the gift of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, we are told that God does in fact give some
                 people riches and wealth. Those to whom the Lord has given such
                 must understand that it was done in order that such a person may
@@ -409,7 +409,7 @@ export default function Ecclesiastes05() {
           days of his life; because God answers him in the joy of his heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only things of his life that will be worth remembering are
                 those things that are done for God.)
               </span>

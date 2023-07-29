@@ -16,7 +16,7 @@ export default function Chronicles210() {
           Shechem were all Israel come to make him king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem was where the Lord had placed His Name, and yet, for
                 political purposes, and without consulting the Lord, Rehoboam
                 would go to Shechem. So much of what is today called
@@ -35,7 +35,7 @@ export default function Chronicles210() {
           Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (heard that Solomon had died.; it is instructive to point out
                 the dissatisfaction of the nation with the glorious reign of
                 Solomon, with all of its prosperity; in fact, much of Israel
@@ -85,7 +85,7 @@ export default function Chronicles210() {
           and his heavy yoke that he put upon us, and we will serve you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no Scriptural evidence of a grievous servitude or
                 heavy yoke)
               </span>
@@ -108,7 +108,7 @@ export default function Chronicles210() {
           people?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, there is no place that it says that he took counsel
                 with God. There seemed to be little desire for the Will of God.
                 All was political expediency.)
@@ -124,7 +124,7 @@ export default function Chronicles210() {
           them, they will be your servants for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the counsel he should have taken!)
               </span>
             </span>
@@ -139,7 +139,7 @@ export default function Chronicles210() {
           up with him, who stood before him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would occasion much bloodshed!)
               </span>
             </span>
@@ -171,7 +171,7 @@ export default function Chronicles210() {
           with whips, but I will chastise you with scorpions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No doubt, there was much more said than given here. They
                 probably counseled him to conduct himself in a strong manner,
                 etc. It was the worst advice he could have gotten!)
@@ -212,7 +212,7 @@ export default function Chronicles210() {
           the son of Nebat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/kings1-11" scrollToId="#filepos3860595">
                   <span className="calibre_19">
@@ -244,7 +244,7 @@ export default function Chronicles210() {
           see to your own house. So all Israel went to their tents{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the beginning of over 250 years of division and strife
                 between Israel, the northern kingdom, and Judah, the southern
                 kingdom; this rupture would result in untold numbers of deaths)
@@ -260,7 +260,7 @@ export default function Chronicles210() {
           who dwelt in the cities of Judah, Rehoboam reigned over them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the northern kingdom under Jeroboam would be called by several
                 names Israel, Samaria, and Ephraim; some ten Tribes would be
                 loyal to the northern confederacy; the southern confederacy,
@@ -280,7 +280,7 @@ export default function Chronicles210() {
           was over the tribute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(taxes)</span>
+              <span className="explanation">(taxes)</span>
             </span>
           </span>
           ; and the Children of Israel stoned him with stones, that he died. But
@@ -288,7 +288,7 @@ export default function Chronicles210() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wherever Rehoboam was, he realized he was in acute danger, so
                 he went speedily to Jerusalem)
               </span>

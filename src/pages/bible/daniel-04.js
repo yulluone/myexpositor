@@ -17,7 +17,7 @@ export default function Daniel04() {
           multiplied unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The salutation is actually the benediction. The king begins
                 this account of a terrible seven-year period of insanity by
                 giving Glory to God. He begins after the fact, showing that all
@@ -54,7 +54,7 @@ export default function Daniel04() {
           Dominion is from generation to generation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Signs and Wonders that the High God has wrought toward me,
                 is all because of Daniel and the three Hebrew Children. How
                 fortunate was this king to have had such in his Empire, and,
@@ -80,7 +80,7 @@ export default function Daniel04() {
           and the thoughts upon my bed and the visions of my head troubled me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now the king will begin to give his account of what happened to
                 him, which brought him to the place evidenced in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9788597">
@@ -123,7 +123,7 @@ export default function Daniel04() {
           thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Quite possibly, they gave him some type of interpretation which
                 he knew in his spirit was wrong. Therefore, he sent for Daniel.)
               </span>
@@ -139,7 +139,7 @@ export default function Daniel04() {
           dream, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whose name was Belteshazzar, according to the name of my god,
                 reflects him still leaning toward these fake Babylonian deities.
                 The great miracle he had seen years before, regarding the
@@ -175,7 +175,7 @@ export default function Daniel04() {
           have seen, and the interpretation thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The manner in which Nebuchadnezzar referred to Daniel did not
                 mean that he was a part of the magicians, etc., but rather that
                 he was recognized as having more wisdom than all the so-called
@@ -192,7 +192,7 @@ export default function Daniel04() {
           height thereof was great.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Actually, the Assyrians, whom the Babylonians had defeated, had
                 a sacred tree, the symbol of life, which was perpetually
                 introduced into the sculptures of Nineveh, and seen also in some
@@ -218,7 +218,7 @@ export default function Daniel04() {
           boughs thereof, and all flesh was fed of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As this tree is symbolic of the Babylonian Empire, its
                 description is apt. From the Persian Gulf to the Mediterranean
                 Sea, it stretched, in all probability, from the Cataracts of the
@@ -234,7 +234,7 @@ export default function Daniel04() {
           my bed, and, behold, a Watcher and an Holy One came down from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word Watcher occurs only in this Chapter in the Bible;
                 however, it is used a score of times in the Book of Enoch, which
                 was supposed to have been written about 130 B.C. That Book, as
@@ -253,7 +253,7 @@ export default function Daniel04() {
           fowls from his branches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Watcher gives instructions as to what is to be done with
                 the tree)
               </span>
@@ -270,7 +270,7 @@ export default function Daniel04() {
           his portion be with the beasts in the grass of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tree is not to be destroyed, but only cut down; it will,
                 therefore, sprout again. Actually, the band of iron and brass
                 symbolizes the mental darkness Nebuchadnezzar will be under,
@@ -288,7 +288,7 @@ export default function Daniel04() {
           over him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse leaves absolutely no doubt that the Holy Spirit is
                 speaking here of a man. Seven times represents seven years.)
               </span>
@@ -305,7 +305,7 @@ export default function Daniel04() {
           basest of men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, in one way or the other, God controls all!)
               </span>
             </span>
@@ -321,7 +321,7 @@ export default function Daniel04() {
           spirit of the holy gods is in you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This would be totally unlike the dream of years before, when
                 Daniel exclaimed to him, You are this head of gold [
                 <ScrollLink href="/daniel-02" scrollToId="#filepos9767485">
@@ -350,7 +350,7 @@ export default function Daniel04() {
           thereof to your enemies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Daniel heard the kings dream, the interpretation which the
                 Lord gave to him literally terrified him, even so much that his
                 countenance was changed.)
@@ -381,7 +381,7 @@ export default function Daniel04() {
           and your dominion to the end of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These statements proclaim the fact that the Monarchs dominion
                 was vast, but it had been given to him by the Lord. This he did
                 not recognize, and hence the Judgment that came upon him!)
@@ -400,7 +400,7 @@ export default function Daniel04() {
           be with the beasts of the field, till seven times pass over him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hew the tree down, and destroy it, refers to Nebuchadnezzar
                 being cut down from his place of position and authority by the
                 reason of insanity. Yet leave the stump of the roots thereof in
@@ -423,7 +423,7 @@ export default function Daniel04() {
           the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Most High, is an appellative denoting supremacy of
                 supremacy. This is the One Who has the final say! This is the
                 One Who everyone will answer to ultimately!)
@@ -443,7 +443,7 @@ export default function Daniel04() {
           He will.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite all that Nebuchadnezzar had seen, still, pride and ego
                 were the culprits of his rebellion against God. He considered
                 himself to be the master of his own fate and the ruler of his
@@ -463,7 +463,7 @@ export default function Daniel04() {
           after that you shall have known that the heavens do rule.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit repeats the cause and reason for
                 this Act of God: After that you shall have known that the
                 heavens do rule.)
@@ -485,7 +485,7 @@ export default function Daniel04() {
           lengthening of your tranquility.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (An offer of Repentance is extended, which, if accepted, will
                 negate this Judgment. Regrettably, it was not accepted.)
               </span>
@@ -499,7 +499,7 @@ export default function Daniel04() {
           nezzar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It came upon him, because he rejected the Word of the Lord. He
                 was given twelve months respite in order that he may repent, but
                 to no avail!)
@@ -514,7 +514,7 @@ export default function Daniel04() {
           walked in the palace of the kingdom of Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He walked in the palace of the kingdom of Babylon, denotes a
                 prideful attitude, filled with pomp, majesty, a sense of
                 well-being and, in his case, the master of the world, or so he
@@ -533,7 +533,7 @@ export default function Daniel04() {
           the might of my power, and for the honour of my majesty?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He now gives his answer to the appeal of the Holy Spirit. It
                 will be a pompous answer, as is most of the world. To be sure,
                 as he was called to account, all will ultimately be called to
@@ -553,7 +553,7 @@ export default function Daniel04() {
           to you it is spoken; The kingdom is departed from you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The kingdom is departed from you, is a stupefying statement
                 indeed! All this which he claimed for his own and made by his
                 own hand instead would be proved otherwise. It could be said,
@@ -573,7 +573,7 @@ export default function Daniel04() {
           gives it to whomsoever He will.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The actual stipulation of the Judgment is repeated here almost
                 identically with the original verdict of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9800528">
@@ -599,7 +599,7 @@ export default function Daniel04() {
           hairs were grown like eagles feathers, and his nails like birds claws.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The same hour was the thing fulfilled upon Nebuchadnezzar,
                 means that his mind snapped almost immediately after the Voice
                 was heard from Heaven.)
@@ -620,7 +620,7 @@ export default function Daniel04() {
           Dominion, and His Kingdom is from generation to generation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as the Holy Spirit through Daniel had stated, upon the
                 completion of the seven years, his sanity returned as quickly as
                 it had left. The phrase, I Nebuchadnezzar lifted up my eyes unto
@@ -640,7 +640,7 @@ export default function Daniel04() {
           His Hand, or say unto Him, What doest You?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And all the inhabitants of the Earth are reputed as nothing,
                 has reference to Nebuchadnezzar and all who would think their
                 place or position signifies their importance. The idea is: no
@@ -661,7 +661,7 @@ export default function Daniel04() {
           me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the kingdom was taken away, it is now restored. Actually,
                 one of the Functions of the Holy Spirit is Restoration.)
               </span>
@@ -676,7 +676,7 @@ export default function Daniel04() {
           His Ways Judgment: and those who walk in pride He is able to abase.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Verse begins with the word Now. It is after he has been
                 humbled, chastened, and restored. Before his insanity, he did
                 not praise and extol and honor the King of Heaven at all! Now

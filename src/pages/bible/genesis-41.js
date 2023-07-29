@@ -18,7 +18,7 @@ export default function Genesis41() {
           full years, that Pharaoh dreamed: and, behold, he stood by the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as to exactly how long that Joseph spent in prison, we arent
                 told; however, we do know that he stayed there two more years
                 after the interpretation of the dream for the chief butler)
@@ -55,7 +55,7 @@ export default function Genesis41() {
           time: and, behold, seven ears of corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (either barley or wheat, for there was no corn in that part of
                 the world at that time, as we know of such presently)
               </span>
@@ -89,7 +89,7 @@ export default function Genesis41() {
           Pharaoh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Egyptian Book of the Dead, now in the British Museum in
                 London, with its sacred cows and mystic number seven a book
                 beyond doubt well known to Pharaoh must have helped to convince
@@ -105,7 +105,7 @@ export default function Genesis41() {
           Pharaoh, saying, I do remember my faults this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with none of the magicians able to interpret the dream, or at
                 least to Pharaohs satisfaction, it began to be known in the
                 Palace as to the dilemma, until it reached the chief butler)
@@ -143,13 +143,13 @@ export default function Genesis41() {
           interpreted to us, so it was; me he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you)</span>
+              <span className="explanation">(you)</span>
             </span>
           </span>{" "}
           restored unto mine office, and him he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you)</span>
+              <span className="explanation">(you)</span>
             </span>
           </span>{" "}
           hanged.
@@ -165,7 +165,7 @@ export default function Genesis41() {
           himself, and changed his raiment, and came in unto Pharaoh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Events now transpire which no human hand could manipulate. Only
                 God could do such a thing. This should teach us that we should
                 allow the Lord to plan for us. Men forgot Joseph, but it is
@@ -184,7 +184,7 @@ export default function Genesis41() {
           heard say of you, that you can understand a dream to interpret it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord, once again, uses dreams to reveal His Will.)
               </span>
             </span>
@@ -197,7 +197,7 @@ export default function Genesis41() {
           It is not in me: God shall give Pharaoh an answer of peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph could have claimed great things, but instead he gave all
                 the glory to God for giving him the interpretation of these
                 dreams.)
@@ -212,7 +212,7 @@ export default function Genesis41() {
           dream, behold, I stood upon the bank of the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Nile River)</span>
+              <span className="explanation">(the Nile River)</span>
             </span>
           </span>
           :
@@ -271,7 +271,7 @@ export default function Genesis41() {
           do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The dream was doubled, in order, as Joseph says in{" "}
                 <ScrollLink href="/" scrollToId="#filepos549934">
                   <span className="calibre_19">
@@ -300,7 +300,7 @@ export default function Genesis41() {
           ears blasted with the east wind shall be seven years of famine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Discoveries many years ago at the First Cataract, and at
                 El-Kab, record the fact of this seven years famine. The date is
                 given as 1700 B.C. This date accords with accepted Bible
@@ -343,7 +343,7 @@ export default function Genesis41() {
           God will shortly bring it to pass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The interpretation, as given by Joseph, and which greatly
                 concerned Pharaoh, was to take place in the immediate future.
                 But due to the fact of the dream being doubled, it has an
@@ -474,7 +474,7 @@ export default function Genesis41() {
           those good years that come, and lay up corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           under the hand of Pharaoh, and let them keep food in the cities.
@@ -487,7 +487,7 @@ export default function Genesis41() {
           of Egypt; that the land perish not through the famine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This famine was designed by God, not only to bless and instruct
                 Egypt, but mainly to be the means of bringing Josephs brothers
                 in repentance to his feet. It is all, as well, and as stated, a
@@ -506,7 +506,7 @@ export default function Genesis41() {
           of Pharaoh, and in the eyes of all his servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh recognized the wisdom of what he was hearing from the
                 young man, Joseph)
               </span>
@@ -521,7 +521,7 @@ export default function Genesis41() {
           Can we find such a one as this is, a man in whom the Spirit of God is?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The term Spirit of God, as used by Pharaoh, in the Hebrew is
                 Ruach Elohim, and would have been understood by Pharaoh as
                 referring to the sagacity and intelligence of a Deity. Other
@@ -539,7 +539,7 @@ export default function Genesis41() {
           and wise as you are{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph, while yet in humiliation, becomes the interpreter of
                 the thoughts and counsels of God; and in his elevation executes
                 with power those counsels, and subjects all Egypt to Him Who sat
@@ -572,7 +572,7 @@ export default function Genesis41() {
           throne will I be greater than you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So, in a moments time, Joseph is promoted to the august
                 position of the Prime Minister of Egypt, and is thus one of the
                 most powerful men in the world.)
@@ -594,7 +594,7 @@ export default function Genesis41() {
           fine linen, and put a gold chain about his neck{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (giving Joseph his ring proclaimed the fact that Josephs
                 position was real and not merely honorary; Josephs authority was
                 to be absolute and universal, which it was; there was no part of
@@ -625,7 +625,7 @@ export default function Genesis41() {
           Zaphnath-paaneah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the very name that Pharaoh gave Joseph was prophetic; his
                 Hebrew name, Joseph, means Jehovah shall add; his Egyptian name
                 means life more abundant; so, in essence, both of his names
@@ -653,7 +653,7 @@ export default function Genesis41() {
           presence of Pharaoh, and went throughout all the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Our Lord, as well, began His public ministry at 30 years old.)
               </span>
             </span>
@@ -671,7 +671,7 @@ export default function Genesis41() {
           <sup className="calibre7">48</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joseph)</span>
+              <span className="explanation">(Joseph)</span>
             </span>
           </span>{" "}
           gathered up all the food of the seven years, which were in the land of
@@ -684,7 +684,7 @@ export default function Genesis41() {
           <sup className="calibre7">49</sup>And Joseph gathered corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           as the sand of the sea, very much, until he left numbering; for it was
@@ -712,7 +712,7 @@ export default function Genesis41() {
           affliction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph was given a Gentile wife, which was a type of the
                 Gentile wife given to Christ, for the Church is mostly Gentile.
                 Manasseh means forgetfulness, while Ephraim means fruitfulness.
@@ -739,7 +739,7 @@ export default function Genesis41() {
           to come, according as Joseph had said: and the famine was in all lands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to all lands of the Middle East)
               </span>
             </span>
@@ -747,7 +747,7 @@ export default function Genesis41() {
           ; but in all the land of Egypt there was bread.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was Egypt only which had food, and because of Pharaoh
                 heeding what the Lord had said, and appointing Joseph to head up
                 the program.)
@@ -763,7 +763,7 @@ export default function Genesis41() {
           all the Egyptians, Go unto Joseph; what he says to you, do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No nation has ever had a more honest man to guide its affairs
                 than did Egypt with Joseph.)
               </span>
@@ -777,14 +777,14 @@ export default function Genesis41() {
           of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that part of the world)</span>
+              <span className="explanation">(that part of the world)</span>
             </span>
           </span>
           : And Joseph opened all the storehouses, and sold unto the Egyptians;
           and the famine waxed sore in the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Just as the Lord said it would!)
               </span>
             </span>
@@ -796,19 +796,19 @@ export default function Genesis41() {
           <sup className="calibre7">57</sup>And all countries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in the Middle East)</span>
+              <span className="explanation">(in the Middle East)</span>
             </span>
           </span>{" "}
           came into Egypt to Joseph for to buy corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>
           ; because that the famine was so sore in all lands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While there were, no doubt, many reasons for the famine, at
                 least one of the primary reasons was to bring Jacob and his
                 family into Egypt, just as the coming Great Tribulation will

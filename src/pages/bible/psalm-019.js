@@ -57,7 +57,7 @@ export default function Psalm019() {
           <sup className="calibre7">4</sup>Their line{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(teaching)</span>
+              <span className="explanation">(teaching)</span>
             </span>
           </span>{" "}
           is gone out through all the Earth, and their words to the end of the
@@ -90,7 +90,7 @@ export default function Psalm019() {
           of his chamber, and rejoices as a strong man to run a race{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pictures the sun)</span>
+              <span className="explanation">(pictures the sun)</span>
             </span>
           </span>
           .

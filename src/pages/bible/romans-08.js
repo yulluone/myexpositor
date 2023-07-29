@@ -21,7 +21,7 @@ export default function Romans08() {
           therefore now no condemnation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(guilt)</span>
+              <span className="explanation">(guilt)</span>
             </span>
           </span>{" "}
           to them which are in Christ Jesus{" "}
@@ -120,7 +120,7 @@ export default function Romans08() {
           has made me free{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(given me total Victory)</span>
+              <span className="explanation">(given me total Victory)</span>
             </span>
           </span>{" "}
           from the Law of Sin and Death{" "}
@@ -368,7 +368,7 @@ export default function Romans08() {
           , if so be that the Spirit of God dwell in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(if you are truly Saved)</span>
+              <span className="explanation">(if you are truly Saved)</span>
             </span>
           </span>
           . Now if any man have not the Spirit of Christ, he is none of His{" "}
@@ -447,19 +447,19 @@ export default function Romans08() {
           <sup className="calibre7">11</sup>But if the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from God)</span>
+              <span className="explanation">(from God)</span>
             </span>
           </span>{" "}
           Who raised up Jesus from the dead dwell in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and He definitely does)</span>
+              <span className="explanation">(and He definitely does)</span>
             </span>
           </span>
           , He Who raised up Christ from the dead shall also quicken your mortal
@@ -649,7 +649,7 @@ export default function Romans08() {
           <sup className="calibre7">16</sup>The Spirit itself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Himself)</span>
+              <span className="explanation">(Himself)</span>
             </span>
           </span>{" "}
           bears witness with our spirit{" "}
@@ -679,13 +679,13 @@ export default function Romans08() {
           <sup className="calibre7">17</sup>And if children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Children of God)</span>
+              <span className="explanation">(Children of God)</span>
             </span>
           </span>
           , then heirs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a privilege)</span>
+              <span className="explanation">(a privilege)</span>
             </span>
           </span>
           ; heirs of God{" "}
@@ -798,7 +798,7 @@ export default function Romans08() {
           <sup className="calibre7">20</sup>For the creature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Creation)</span>
+              <span className="explanation">(Creation)</span>
             </span>
           </span>{" "}
           was made subject to vanity{" "}
@@ -842,7 +842,7 @@ export default function Romans08() {
           <sup className="calibre7">21</sup>Because the creature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Creation)</span>
+              <span className="explanation">(Creation)</span>
             </span>
           </span>{" "}
           itself also shall be delivered{" "}
@@ -914,7 +914,7 @@ export default function Romans08() {
           but ourselves also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Believers)</span>
+              <span className="explanation">(refers to Believers)</span>
             </span>
           </span>
           , which have the Firstfruits of the Spirit{" "}
@@ -1029,7 +1029,7 @@ export default function Romans08() {
           <sup className="calibre7">26</sup>Likewise the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           also helps our infirmities{" "}
@@ -1053,7 +1053,7 @@ export default function Romans08() {
           : but the Spirit itself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Himself)</span>
+              <span className="explanation">(Himself)</span>
             </span>
           </span>{" "}
           makes intercession for us{" "}
@@ -1082,7 +1082,7 @@ export default function Romans08() {
           <sup className="calibre7">27</sup>And He Who searches the hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           knows what{" "}
@@ -1102,7 +1102,7 @@ export default function Romans08() {
           , because He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           makes intercession for the Saints according to{" "}
@@ -1141,7 +1141,7 @@ export default function Romans08() {
           to them who love God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first condition)</span>
+              <span className="explanation">(the first condition)</span>
             </span>
           </span>
           , to them who are the called according to{" "}
@@ -1168,13 +1168,13 @@ export default function Romans08() {
           <sup className="calibre7">29</sup>For whom He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           did foreknow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods foreknowledge)</span>
+              <span className="explanation">(Gods foreknowledge)</span>
             </span>
           </span>
           , He also did predestinate{" "}
@@ -1195,7 +1195,7 @@ export default function Romans08() {
           , that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           might be the Firstborn among many Brethren{" "}
@@ -1216,7 +1216,7 @@ export default function Romans08() {
           <sup className="calibre7">30</sup>Moreover whom He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           did predestinate{" "}
@@ -1326,7 +1326,7 @@ export default function Romans08() {
           , but delivered Him up for us all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Cross)</span>
+              <span className="explanation">(the Cross)</span>
             </span>
           </span>
           , how shall He not with Him also freely give us all things?{" "}

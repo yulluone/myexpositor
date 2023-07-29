@@ -18,7 +18,7 @@ export default function Exodus15() {
           Israel this song unto the LORD, and spoke, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was no singing in Egypt; there was groaning; singing only
                 follows Redemption; Moses began and ended his wilderness life
                 with a song; that of Deuteronomy,{" "}
@@ -47,7 +47,7 @@ export default function Exodus15() {
           horse and his rider has He thrown into the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord is given the praise here. This song, accompanied by
                 musical instruments [
                 <ScrollLink href="/" scrollToId="#filepos902097">
@@ -73,7 +73,7 @@ export default function Exodus15() {
           <sup className="calibre7">2</sup>The LORD is my strength and song{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase actually says in the Hebrew, My strength and song is
                 JAH; in fact, the name JAH had not previously been used; it is
                 an abbreviated form of Jehovah)
@@ -84,7 +84,7 @@ export default function Exodus15() {
           an habitation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means, in the Hebrew, I will glorify Him)
               </span>
             </span>
@@ -92,7 +92,7 @@ export default function Exodus15() {
           ; my fathers God, and I will exalt Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronouns, as it refers to the Lord, He, Him, Thy, Thou, and
                 Thee, are found 33 times in this Psalm! How significant and how
                 searching is this!)
@@ -106,7 +106,7 @@ export default function Exodus15() {
           <sup className="calibre7">3</sup>The LORD is a Man of War{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not we ourselves; when we try to place ourselves in that
                 position, we get defeated every time; in fact, the only fight
                 that we are called upon to fight is the good fight of Faith [
@@ -124,7 +124,7 @@ export default function Exodus15() {
           : the LORD is His Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, Jehovah, the Alone-Existing One; before
                 Him, all other existence fades and falls into nothingness)
               </span>
@@ -140,7 +140,7 @@ export default function Exodus15() {
           Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It would be some time before Egypt would recover. One thing is
                 certain, they didnt try to follow Israel into the wilderness.)
               </span>
@@ -154,7 +154,7 @@ export default function Exodus15() {
           sank into the bottom as a stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (covered with armor, it served only as a weight to drown them,
                 which it did)
               </span>
@@ -170,7 +170,7 @@ export default function Exodus15() {
           enemy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The right hand, as it refers to the Lord, is used as a figure
                 of speech. It signifies power.)
               </span>
@@ -185,7 +185,7 @@ export default function Exodus15() {
           forth Your Wrath, which consumed them as stubble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The verbs in this Verse are future. Consequently, it should
                 read, You will overthrow them who rise up against You. And then,
                 You will send forth your wrath. The last phrase, which consumed
@@ -205,7 +205,7 @@ export default function Exodus15() {
           heap, and the depths were congealed in the heart of the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning the word congealed, some have taken it to mean that
                 the waters froze; however, considering the climate of Egypt,
                 that is unlikely; and yet, it definitely could have happened.
@@ -238,7 +238,7 @@ export default function Exodus15() {
           them; I will draw my sword, my hand shall destroy them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Devil could do all the things that he claims that he
                 will do, he would have done them a long time ago. He hasnt done
                 them, because he cant do them. He is a liar, and the father of
@@ -262,7 +262,7 @@ export default function Exodus15() {
           covered them: they sank as lead in the mighty waters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here we have another fact that is not mentioned in the account,
                 but yet which is implied. The immediate cause of the return of
                 the waters was a wind. As a strong east wind had caused the
@@ -281,7 +281,7 @@ export default function Exodus15() {
           the gods?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gods mentioned in this Verse pertain to the gods worshipped by
                 the Egyptians)
               </span>
@@ -291,7 +291,7 @@ export default function Exodus15() {
           wonders?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How few today glory in Gods Holiness! How few praise Him for
                 His Faithfulness! How few are acquainted with His wonders!)
               </span>
@@ -305,7 +305,7 @@ export default function Exodus15() {
           the Earth swallowed them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Hand Alone defeated one of the mightiest armies in the
                 world, and did so by the use of the elements.)
               </span>
@@ -319,7 +319,7 @@ export default function Exodus15() {
           people which You have redeemed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to purchase the slave out of the marketplace)
               </span>
             </span>
@@ -327,7 +327,7 @@ export default function Exodus15() {
           : You have guided them in Your Strength unto Your Holy Habitation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ultimate conclusion of this holy habitation is the Holy
                 Spirit dwelling in the Believer, which has been made possible by
                 the Cross [
@@ -352,7 +352,7 @@ export default function Exodus15() {
           <sup className="calibre7">14</sup>The people shall hear, and be afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what is the world presently hearing as it regards the Church?)
               </span>
             </span>
@@ -360,7 +360,7 @@ export default function Exodus15() {
           : sorrow shall take hold on the inhabitants of Palestina{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and this is exactly what happened!)
               </span>
             </span>
@@ -383,7 +383,7 @@ export default function Exodus15() {
           have purchased.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this portrays in Type what Christ accomplished at the
                 Cross [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
@@ -411,7 +411,7 @@ export default function Exodus15() {
           Your Hands have established.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While this pointed to Canaan, Jerusalem, and the future
                 building of the Temple, more than all, its total meaning has to
                 do with the Believers position in Christ, for Biblical history
@@ -427,7 +427,7 @@ export default function Exodus15() {
           ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This closes this great and beautiful Song. It ends as it began
                 with the Lord. Faith views the eternal future without fear.)
               </span>
@@ -446,7 +446,7 @@ export default function Exodus15() {
           Israel went on dry land in the midst of the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the song of Miriam, which will be explained more fully
                 in{" "}
                 <ScrollLink href="/" scrollToId="#filepos903132">
@@ -469,7 +469,7 @@ export default function Exodus15() {
           out after her with timbrels and with dances.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Miriam was the sister of both Moses and Aaron. She is the first
                 woman whom the Bible honors with the title of Prophetess. Pulpit
                 says of her: Miriam is regarded by the Prophet Micah [
@@ -512,7 +512,7 @@ export default function Exodus15() {
           He thrown into the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea seems to be, that the men would sing a Verse of the
                 song, with Miriam, and tens of thousands of women, answering
                 them with the words of{" "}
@@ -542,7 +542,7 @@ export default function Exodus15() {
           three days in the wilderness, and found no water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God tests Faith in order to strengthen and enrich it.)
               </span>
             </span>
@@ -556,7 +556,7 @@ export default function Exodus15() {
           therefore the name of it was called Marah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Marah means bitter. Pink says: While the wilderness may and
                 will make manifest the weakness of Gods Saints and, as well, our
                 failures, this is only to magnify the Power and Mercy of Him Who
@@ -574,7 +574,7 @@ export default function Exodus15() {
           Moses, saying, What shall we drink?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Three days before, the Children of Israel were rejoicing on the
                 shores of the Red Sea. Now, some 72 hours later, they are
                 murmuring against Moses. Such presents a lack of Faith. Tests
@@ -590,7 +590,7 @@ export default function Exodus15() {
           <sup className="calibre7">25</sup>And he cried unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses set the example; there is no help outside of the Lord,
                 but man, even the Church, seem to find difficulty in believing
                 this)
@@ -600,7 +600,7 @@ export default function Exodus15() {
           ; and the LORD showed him a Tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tree is a Type of the Cross [
                 <ScrollLink href="/acts-05" scrollToId="#filepos12841210">
                   <span className="calibre_19">
@@ -648,7 +648,7 @@ export default function Exodus15() {
           , which when he had cast into the waters, the waters were made sweet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we must put the Cross into every difficulty and problem of
                 life, which alone holds the answer; only by this means can the
                 bitter waters be made sweet)
@@ -658,13 +658,13 @@ export default function Exodus15() {
           : there He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           made for them a Statute and an Ordinance, and there He proved them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tested them! We must understand that God doesnt give victory to
                 men, only to Christ; His Victory becomes ours, as we are
                 properly in Him [
@@ -699,7 +699,7 @@ export default function Exodus15() {
           have brought upon the Egyptians: for I am the LORD Who heals you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is demanded that all these Statutes and Ordinances be
                 perfectly kept; however, no man can boast of such; Christ has
                 perfectly kept all the Commandments and, as our Substitute, kept
@@ -723,7 +723,7 @@ export default function Exodus15() {
           twelve wells of water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number twelve is the number of Gods Government; but we must
                 remember, this is Gods Government, and not particular
                 governments devised by man; it symbolized the Twelve Tribes of
@@ -738,7 +738,7 @@ export default function Exodus15() {
           , and threescore and ten palm trees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the 70 Palm Trees are symbolic of Ministry, which must be built
                 on the foundation of the Apostles and Prophets, Jesus Christ
                 Himself being the Chief Cornerstone [
@@ -764,7 +764,7 @@ export default function Exodus15() {
           : and they encamped there by the waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signals the place in which the Believer is to rest [
                 <ScrollLink href="/matthew-11" scrollToId="#filepos10996649">
                   <span className="calibre_19">

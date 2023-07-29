@@ -17,7 +17,7 @@ export default function Jeremiah19() {
           the ancients of the Priests{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the earthen bottle was a bottle made of clay, and, therefore,
                 easily broken. Jeremiah was to take this earthen bottle to the
                 ancients of the people, and the ancients of the Priests, and,
@@ -37,7 +37,7 @@ export default function Jeremiah19() {
           there the words that I shall tell you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was to this valley, its worm, and its fire to which our Lord
                 pointed when preaching about Hell; but He added that in that
                 dread place [Hell] the worm should not die nor the fire be
@@ -66,7 +66,7 @@ export default function Jeremiah19() {
           place, the which whosoever hears, his ears shall tingle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is that the king[s] would enjoy no more respite
                 than the people. As one, so the other! Therefore, no deal could
                 be struck with the king of Babylon ensuring the safety of the
@@ -98,7 +98,7 @@ export default function Jeremiah19() {
           Judah, and have filled this place with the blood of innocents{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And have estranged this place, means to devote their worship to
                 strange divinities. And have filled this place with the blood of
                 innocents, is chilling indeed! It referred to the slaughter of
@@ -116,7 +116,7 @@ export default function Jeremiah19() {
           which I commanded not, nor spoke it, neither came it into My mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Spirit of God in Jeremiah, as afterwards in Christ, did not
                 hesitate to repeat His Messages, so{" "}
                 <ScrollLink href="/" scrollToId="#filepos8416771">
@@ -148,7 +148,7 @@ export default function Jeremiah19() {
           valley of the son of Hinnom, but The valley of slaughter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The valley of slaughter referred to this same valley of Hinnom,
                 where these awful human sacrifices were carried out. As they had
                 made it a valley of slaughter, God would now make it a valley of
@@ -176,7 +176,7 @@ export default function Jeremiah19() {
           of the heaven, and for the beasts of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The counsel of Judah and Jerusalem was their plan to defeat the
                 Chaldeans by means of the Egyptian alliance. But, in that very
                 valley of Hinnom, the folly of that plan would be demonstrated
@@ -197,7 +197,7 @@ export default function Jeremiah19() {
           hiss because of all the plagues thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The response to Jeremiahs Message was met with hissing;
                 therefore, the Lord would make this city an hissing.)
               </span>
@@ -214,7 +214,7 @@ export default function Jeremiah19() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Ninth Verse is quoted almost verbatim from{" "}
                 <ScrollLink href="/deuteronmy-28" scrollToId="#filepos2397817">
                   <span className="calibre_19">
@@ -238,7 +238,7 @@ export default function Jeremiah19() {
           the sight of the men who go with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, the Lord will use apt symbolism to make His point!;
                 the breaking of the bottle signified the destruction of Judah
                 and Jerusalem that was soon to come)
@@ -256,7 +256,7 @@ export default function Jeremiah19() {
           shall bury them in Tophet, till there be no place to bury.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By using this type of vessel, the Lord portrays to Judah and
                 Jerusalem their utter worthlessness as far as He was concerned!
                 Conversely, they no doubt had a very high opinion of themselves.
@@ -294,7 +294,7 @@ export default function Jeremiah19() {
           other gods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The worship of the host of heaven was especially forbidden in{" "}
                 <ScrollLink href="/deuteronmy-04" scrollToId="#filepos2161450">
                   <span className="calibre_19">
@@ -317,7 +317,7 @@ export default function Jeremiah19() {
           of the LORDs House; and said to all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah, having finished his mission in the valley of Hinnom,
                 now goes, according to the direction of the Lord, to the court
                 of the LORDs House. This is at the Temple. The Holy Spirit, no
@@ -340,7 +340,7 @@ export default function Jeremiah19() {
           hardened their necks, that they might not hear My Words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To harden the neck in order not to hear means to refuse to turn
                 the head to a speaker so as to listen to him. Consequently,
                 Jeremiahs words fell upon deaf ears. They ignored him as if he

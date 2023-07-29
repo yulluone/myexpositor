@@ -18,7 +18,7 @@ export default function Exodus05() {
           in, and told the Pharaoh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to many authorities, the Pharaoh at that time was
                 Menephthap, the son and successor of Rameses II; history records
                 that he was a weak individual, but, because of certain events,
@@ -49,7 +49,7 @@ export default function Exodus05() {
           hold a feast unto Me in the wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is to be noticed, the Holy Spirit, in giving Moses
                 direction regarding the Sacred Text, in no way recognizes the
                 splendor of Egypt. The character of the Message that Moses was
@@ -67,7 +67,7 @@ export default function Exodus05() {
           neither will I let Israel go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan will not easily allow his captives to go free; and God
                 permits the bitter experience of Satans power in order to
                 exercise and strengthen Faith. Mackintosh says: When we
@@ -91,7 +91,7 @@ export default function Exodus05() {
           <sup className="calibre7">3</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses and Aaron)</span>
+              <span className="explanation">(Moses and Aaron)</span>
             </span>
           </span>{" "}
           said, The God of the Hebrews has met with us: let us go, we pray you,
@@ -99,7 +99,7 @@ export default function Exodus05() {
           God; lest He fall upon us with pestilence, or with the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This simple statement tells us, even as given to Moses by the
                 Lord, that it is the Cross only which holds back the Judgment of
                 God. In other words, the only thing standing between man and
@@ -119,7 +119,7 @@ export default function Exodus05() {
           unto your burdens.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They will now find that the burdens are increased. As the
                 Children of Israel, it seems that many do not too very much mind
                 being slaves to Satan, until the burdens become so heavy that
@@ -135,7 +135,7 @@ export default function Exodus05() {
           of the land now are many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Israelites)</span>
+              <span className="explanation">(the Israelites)</span>
             </span>
           </span>
           , and you make them rest from their burdens.
@@ -154,7 +154,7 @@ export default function Exodus05() {
           themselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Oftentimes, the setting to carry out the Will of God will
                 result in Satans anger, with opposition being increased.)
               </span>
@@ -167,7 +167,7 @@ export default function Exodus05() {
           <sup className="calibre7">8</sup>And the tale{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(number)</span>
+              <span className="explanation">(number)</span>
             </span>
           </span>{" "}
           of the bricks, which they did make heretofore, you shall lay upon
@@ -175,7 +175,7 @@ export default function Exodus05() {
           therefore they cry, saying, Let us go and sacrifice to our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At the mention of Sacrifice, Pharaoh increased the pressure and
                 the workload, almost to a killing pace. When the Believer first
                 begins to hear the Message of the Cross, he will find the
@@ -195,7 +195,7 @@ export default function Exodus05() {
           men, that they may labor therein; and let them not regard vain words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh regarded the offering of Sacrifices as vain words.
                 Regrettably, much of the modern Church does the same, as it
                 regards the Cross.)
@@ -217,7 +217,7 @@ export default function Exodus05() {
           find it: yet not ought of your work shall be diminished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though you have to get the straw yourselves, you must turn
                 out just as much work as previously.)
               </span>
@@ -231,7 +231,7 @@ export default function Exodus05() {
           throughout all the land of Egypt to gather stubble instead of straw.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is good for a man to learn painfully the nature of sins
                 dominion, and his absolute helplessness in the grip of that
                 monarch.)
@@ -246,7 +246,7 @@ export default function Exodus05() {
           saying, Fulfill your works, your daily tasks, as when there was straw.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first move of Israel toward deliverance plunged her into
                 deeper misery so that the people would have preferred being left
                 quiet in their slavery. This is oftentimes the spiritual
@@ -265,7 +265,7 @@ export default function Exodus05() {
           both yesterday and today, as heretofore?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan wanted them to be willing to remain as slaves in Egypt.
                 He almost succeeded!)
               </span>
@@ -280,7 +280,7 @@ export default function Exodus05() {
           your servants?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Instead of crying unto the Lord, these leaders of the
                 Israelites turned unto Pharaoh for relief. So often we as modern
                 Believers follow suit. We appeal to man instead of God.)
@@ -296,7 +296,7 @@ export default function Exodus05() {
           are beaten; but the fault is in your own people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The natural man ever prefers to lean upon an arm of flesh than
                 be supported by Him Who is invisible.)
               </span>
@@ -309,14 +309,14 @@ export default function Exodus05() {
           <sup className="calibre7">17</sup>But he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaoh)</span>
+              <span className="explanation">(Pharaoh)</span>
             </span>
           </span>{" "}
           said, You are idle, you are idle: therefore you say, Let us go and do
           Sacrifice to the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is the Sacrifice which rankled Pharaoh, even though he would
                 not have been aware as to what exactly it all meant. The Cross
                 always rankles Satan.)
@@ -331,13 +331,13 @@ export default function Exodus05() {
           there shall no straw be given you, yet shall you deliver the tale{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(number)</span>
+              <span className="explanation">(number)</span>
             </span>
           </span>{" "}
           of bricks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We should learn that its not Scriptural for us to make plans
                 and then ask God to bless those plans. If God makes the plans,
                 they are assured of blessing. So, leave Pharaoh alone, and
@@ -357,7 +357,7 @@ export default function Exodus05() {
           shall not minish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(reduce)</span>
+              <span className="explanation">(reduce)</span>
             </span>
           </span>{" "}
           ought from your bricks of your daily task.
@@ -377,7 +377,7 @@ export default function Exodus05() {
           put a sword in their hand to kill us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was no doubt prepared for the rebuff which he had himself
                 received from Pharaoh, for the Lord had plainly said that He
                 would harden the kings heart. But, so far as the inspired record
@@ -398,7 +398,7 @@ export default function Exodus05() {
           is it that You have sent me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The second sentence of this Verse should read: Lord, wherefore
                 have you suffered Your people to be so evil entreated?)
               </span>
@@ -413,7 +413,7 @@ export default function Exodus05() {
           delivered Your People at all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The opposition of Pharaoh, and the unbelief and anger of
                 Israel, were a double discouragement for Moses.)
               </span>

@@ -19,7 +19,7 @@ export default function Daniel11() {
           the Mede, even I, stood to confirm and to strengthen him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I stood to confirm and to strengthen him, refers to Michael the
                 Archangel helping Gabriel as it regards the conflict in
                 question. We see from all this that force has to be used to
@@ -54,7 +54,7 @@ export default function Daniel11() {
           riches he shall stir up all against the realm of Grecia.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These three Persian kings were Cyrus, Cambyses, and Darius I.
                 The fourth was Xerxes, who fulfilled this Verse according to
                 riches. Actually there were six Persian kings after the four
@@ -72,7 +72,7 @@ export default function Daniel11() {
           shall rule with great dominion, and do according to his will.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to Alexander the Great, who gained the throne
                 when he was only 19 years old.)
               </span>
@@ -89,7 +89,7 @@ export default function Daniel11() {
           those.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And when he shall stand up, means when he was at the height of
                 his power, and refers to Alexander the Great. His kingdom shall
                 be broken, has to do with his sudden death at 32 years old, and
@@ -114,7 +114,7 @@ export default function Daniel11() {
           have dominion; his dominion shall be a great dominion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And one of his princes; and he shall be strong above him, and
                 have dominion, refers to Seleucus I, called Nicator, the
                 Conqueror. He founded the Seleucid Empire, 312-280 B.C. To the
@@ -161,7 +161,7 @@ export default function Daniel11() {
           and he who strengthened her in these times.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the kings daughter of the south shall come to the king of
                 the north to make an agreement, refers to Ptolemy II, the king
                 of the south, and Antiochus, the king of the north. The kings
@@ -183,7 +183,7 @@ export default function Daniel11() {
           against them, and shall prevail{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the brother of Berenice, who had just been murdered, was
                 Ptolemy III, who had just succeeded to the Egyptian throne. The
                 king of the north was Seleucus II. Ptolemy invaded Syria and
@@ -202,7 +202,7 @@ export default function Daniel11() {
           of the north.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And shall also carry captives into Egypt their gods, referred
                 to Ptolemy carrying back to Egypt the gods which Cambyses, king
                 of Persia, had taken from Egypt nearly 300 years before, along
@@ -218,7 +218,7 @@ export default function Daniel11() {
           into his kingdom, and shall return into his own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though he won many victories elsewhere, Ptolemy was having
                 problems back in Egypt, his home base.)
               </span>
@@ -234,7 +234,7 @@ export default function Daniel11() {
           and be stirred up, even to his fortress.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But his sons shall be stirred up, refers to the sons of
                 Seleucus II. They were determined to recover their fathers
                 dominion, which had been taken by Ptolemy III, king of the
@@ -265,7 +265,7 @@ export default function Daniel11() {
           the multitude shall be given into his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king of the south was Ptolemy Philopater, and he defeated
                 Antiochus, the king of the north, thereby fulfilling the
                 Prophecy, but the multitude shall be given into his hand.)
@@ -281,7 +281,7 @@ export default function Daniel11() {
           thousands: but he shall not be strengthened by it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun he refers to the king of the south, Ptolemy
                 Philopater. He was greatly lifted up by his victory and
                 oppressed many in his own land, especially the Jews;
@@ -299,7 +299,7 @@ export default function Daniel11() {
           much riches.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king of the north is Antiochus III, called the great. He
                 ruled from 223-187 B.C. Shall return, and shall set forth a
                 multitude greater than the former, pertains to him returning
@@ -318,7 +318,7 @@ export default function Daniel11() {
           fall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to Antiochus the Great and Philip of
                 Macedonia uniting in order to conquer Egypt. He won; however,
                 Rome stepped in and forced him to surrender his conquest. Also
@@ -353,7 +353,7 @@ export default function Daniel11() {
           shall there be any strength to withstand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt would be defeated by the king of the north, i.e., Syria.)
               </span>
             </span>
@@ -367,7 +367,7 @@ export default function Daniel11() {
           shall stand in the glorious land, which by his hand shall be consumed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he shall stand in the glorious land, refers to Judea, and
                 the Jews attempting to help Antiochus the Great defeat Ptolemy,
                 which he did. Even though Antiochus showed the Jews great favor,
@@ -389,7 +389,7 @@ export default function Daniel11() {
           him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse speaks of Antiochus the Great making a treaty with
                 Ptolemy V, that is, a treaty of peace, fulfilling the phrase,
                 And upright ones with him. The conditions were that Antiochus
@@ -425,7 +425,7 @@ export default function Daniel11() {
           reproach he shall cause it to turn upon him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Antiochus attacked Asia Minor and Greece, but the Roman
                 General, Lucius Scipio, defeated him and restored the prestige
                 of the Roman name, which had suffered reproach because the Roman
@@ -454,7 +454,7 @@ export default function Daniel11() {
           found.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In trying to raise the money demanded by Rome, he plundered a
                 popular temple; the enraged worshippers then killed him,
                 fulfilling the Prophecy, but he shall stumble and fall, and not
@@ -471,7 +471,7 @@ export default function Daniel11() {
           shall be destroyed, neither in anger, nor in battle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Raiser of taxes, referred to Seleucus IV mainly engaged in
                 raising money to satisfy the Roman tribute. Concerning the glory
                 of the kingdom, this speaks of him sending Heliodorus into Judah
@@ -495,7 +495,7 @@ export default function Daniel11() {
           but he shall come in peaceably, and obtain the kingdom by flatteries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In his estate, refers to the kingdom of Syria, including the
                 ancient Assyria, and even the modern Armenia. The vile person
                 refers to Antiochus IV, called Epiphanes, the Illustrious.{" "}
@@ -522,7 +522,7 @@ export default function Daniel11() {
           prince of the covenant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun they refers to his opponents, who were overthrown
                 in their attempt to take the throne. Also the prince of the
                 covenant, concerns the High Priest of Israel, who was deposed,
@@ -540,7 +540,7 @@ export default function Daniel11() {
           strong with a small people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He shall work deceitfully, refers to the fact that the league
                 was broken with Jason, when he put wicked Menelaus in the office
                 of High Priest. Menelaus offered him more money than had Jason.)
@@ -567,7 +567,7 @@ export default function Daniel11() {
           against him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he shall stir up his power and his courage against the king
                 of the south, refers to his making war on Egypt and being
                 victorious. He had himself crowned king of Egypt.)
@@ -583,7 +583,7 @@ export default function Daniel11() {
           shall fall down slain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The amazing detail of these Prophecies actually staggers the
                 imagination! Only God could forecast, and in such detail, the
                 actual events, which would take place concerning great nations,
@@ -601,7 +601,7 @@ export default function Daniel11() {
           shall not prosper: for yet the end shall be at the time appointed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two kings spoken of here are Antiochus Epiphanes of Syria
                 and Ptolemy Philometor of Egypt. For yet the end shall be at the
                 time appointed, means that it was not Gods Will that Antiochus
@@ -619,7 +619,7 @@ export default function Daniel11() {
           and he shall do exploits, and return to his own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And his heart shall be against the Holy Covenant, pertains to
                 him turning against the Jews, because he heard there had been
                 rejoicing in Jerusalem, because they thought he had been killed.
@@ -637,7 +637,7 @@ export default function Daniel11() {
           or as the latter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, At the time appointed he shall return, has to do
                 with the latter portion of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9931658">
@@ -662,7 +662,7 @@ export default function Daniel11() {
           return, and have intelligence with them who forsake the Holy Covenant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the ships of Chittim shall come against him, refers to the
                 coming of the Romans demanding his discontinuance of his war on
                 Egypt. Therefore he shall be grieved, and return, specifies the
@@ -697,7 +697,7 @@ export default function Daniel11() {
           desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And arms shall stand on his part, refers to him having military
                 power to take Jerusalem and to carry out his will. And shall
                 take away the daily sacrifice, and they shall place the
@@ -716,7 +716,7 @@ export default function Daniel11() {
           their God shall be strong, and do exploits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And such as do wickedly against the Covenant shall he corrupt
                 by flatteries, refers to his old method of deceit, and some Jews
                 being led into apostasy, thereby helping him because he
@@ -734,7 +734,7 @@ export default function Daniel11() {
           flame, by captivity and by spoil, many days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the constant struggle by Gods People from
                 Daniels day forward to the birth of Christ. As we have attempted
                 to outline, especially the activity of the Maccabees, their
@@ -767,7 +767,7 @@ export default function Daniel11() {
           flatteries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now when they shall fall, refers to many Jews falling by the
                 sword in the many conflicts that took place. The phrase, But
                 many shall cleave to them with flatteries, refers to an
@@ -791,7 +791,7 @@ export default function Daniel11() {
           the time of the end: because it is yet for a time appointed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With this Verse begins the account of the Endtime, which will
                 continue through the Twelfth Chapter. Therefore, the entirety of
                 the time, now totaling nearly 2,000 years, is omitted in
@@ -820,7 +820,7 @@ export default function Daniel11() {
           determined shall be done.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And the king shall do according to his will, refers to the
                 Antichrist, who will pretty much have his way until the Second
                 Advent of Christ. And magnify himself above every god, actually
@@ -893,7 +893,7 @@ export default function Daniel11() {
           magnify himself above all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Neither shall he regard the God of his fathers, no doubt,
                 refers to him being a Jew. He will not regard the God of
                 Abraham, Isaac, and Jacob.
@@ -935,7 +935,7 @@ export default function Daniel11() {
           with gold, and silver, and with precious stones, and pleasant things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And a god whom his fathers knew not shall he honour, refers to
                 a strange god mentioned in the next Verse, who is actually the
                 Fallen Angel who empowered Alexander the Great. He is called the
@@ -963,7 +963,7 @@ export default function Daniel11() {
           land for gain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus shall he do in the most strong holds, refers to the great
                 financial centers of the world, which will be characterized by
                 rebuilt Babylon. This strange god, as stated, is a Fallen Angel;
@@ -1001,13 +1001,13 @@ export default function Daniel11() {
           king of the south{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Egypt)</span>
+              <span className="explanation">(Egypt)</span>
             </span>
           </span>{" "}
           push at him: and the king of the north{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist, Syria)</span>
+              <span className="explanation">(the Antichrist, Syria)</span>
             </span>
           </span>{" "}
           shall come against him like a whirlwind, with chariots, and with
@@ -1015,7 +1015,7 @@ export default function Daniel11() {
           and shall overflow and pass over.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And at the time of the end, refers to the time of
                 the fulfillment of these Prophecies, which in fact is just
                 ahead. It is known that the king of the south refers to Egypt,
@@ -1035,20 +1035,20 @@ export default function Daniel11() {
           glorious land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(into Israel)</span>
+              <span className="explanation">(into Israel)</span>
             </span>
           </span>
           , and many countries shall be overthrown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those in the Middle East)</span>
+              <span className="explanation">(those in the Middle East)</span>
             </span>
           </span>
           : but these shall escape out of his hand, even Edom, and Moab, and the
           chief of the children of Ammon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Edom, Moab, and Ammon comprise modern Jordan. His entering into
                 the glorious land refers to his invasion of Israel at the
                 midpoint of his seven-year nonaggression pact with them,
@@ -1093,7 +1093,7 @@ export default function Daniel11() {
           upon the countries: and the land of Egypt shall not escape.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt refers to the king of the south of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9942677">
                   <span className="calibre_19">
@@ -1115,7 +1115,7 @@ export default function Daniel11() {
           Egypt: and the Libyans and the Ethiopians shall be at his steps.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The precious things of Egypt no doubt refer to the ancient
                 mysteries of Egypt, regarding the tombs, the pyramids, etc. He
                 will no doubt claim to unlock many of these mysteries; he very
@@ -1136,7 +1136,7 @@ export default function Daniel11() {
           fury to destroy, and utterly to make away many.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After the Antichrist breaks his covenant with Israel, actually
                 entering into the Glorious Land, he will be prevented from
                 further destroying her by the tidings of the east and out of the
@@ -1161,7 +1161,7 @@ export default function Daniel11() {
           shall come to his end, and none shall help him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he shall plant the tabernacles of his palace, refers to
                 him. taking over the newly-built Temple and stopping the
                 Sacrifices, as prophesied in{" "}

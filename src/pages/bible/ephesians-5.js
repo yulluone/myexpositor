@@ -16,7 +16,7 @@ export default function Ephesians5() {
           dear children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we do so by obeying the Word of God, and we do that by keeping
                 our Faith in the Cross)
               </span>
@@ -30,7 +30,7 @@ export default function Ephesians5() {
           <sup className="calibre7">2</sup>And walk in love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (be constantly ordering your behavior within the sphere of love)
               </span>
             </span>
@@ -38,7 +38,7 @@ export default function Ephesians5() {
           , as Christ also has loved us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle passing from the Father to the Son as our
                 example)
               </span>
@@ -48,7 +48,7 @@ export default function Ephesians5() {
           a sweetsmelling Savour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ fulfilled all the symbolic Blood Offerings of the
                 Levitical system [
                 <ScrollLink href="/hebrews-10" scrollToId="#filepos14538195">
@@ -82,13 +82,13 @@ export default function Ephesians5() {
           talking, nor jesting, which are not convenient{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(out of character)</span>
+              <span className="explanation">(out of character)</span>
             </span>
           </span>
           : but rather giving of thanks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Believers protection against all these sins is the Cross of
                 Christ, and the Cross alone. Keeping the Cross as the Object of
                 ones Faith guarantees Victory [
@@ -115,7 +115,7 @@ export default function Ephesians5() {
           has any inheritance in the Kingdom of Christ and of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is speaking to Believers! if the Cross is not the Object
                 of Faith for the Believer, but rather something else, these
                 Passages plainly tell us such a Believer will actually come to
@@ -142,7 +142,7 @@ export default function Ephesians5() {
           words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by trying to pull you away from the Cross)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Ephesians5() {
           of disobedience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Cross alone stops the Wrath of God)
               </span>
             </span>
@@ -165,7 +165,7 @@ export default function Ephesians5() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Never forsake the Cross, no matter how enticing the other
                 things might look.)
               </span>
@@ -181,7 +181,7 @@ export default function Ephesians5() {
           <sup className="calibre7">8</sup>For you were sometimes darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everyone who doesnt know Christ is in spiritual darkness)
               </span>
             </span>
@@ -189,7 +189,7 @@ export default function Ephesians5() {
           , but now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since coming to Christ)</span>
+              <span className="explanation">(since coming to Christ)</span>
             </span>
             <span>
               <span className="calibre_19">are you</span>
@@ -198,7 +198,7 @@ export default function Ephesians5() {
           light in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are a reflection of the Light of Christ)
               </span>
             </span>
@@ -206,7 +206,7 @@ export default function Ephesians5() {
           : walk as children of Light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (order your behavior accordingly)
               </span>
             </span>
@@ -219,7 +219,7 @@ export default function Ephesians5() {
           <sup className="calibre7">9</sup>(For the Fruit of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/galatians-5" scrollToId="#filepos13979040">
                   <span className="calibre_19">
@@ -238,7 +238,7 @@ export default function Ephesians5() {
           in all goodness and Righteousness and Truth;){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the end results of the Fruit of the Spirit.)
               </span>
             </span>
@@ -251,7 +251,7 @@ export default function Ephesians5() {
           Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (put to the test, and the Cross alone will stand the test)
               </span>
             </span>
@@ -265,7 +265,7 @@ export default function Ephesians5() {
           unfruitful works of darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Scripture teaches separation, but not isolation)
               </span>
             </span>
@@ -276,7 +276,7 @@ export default function Ephesians5() {
               <span className="calibre_19">them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speak out boldly and forcibly against them).
               </span>
             </span>
@@ -289,7 +289,7 @@ export default function Ephesians5() {
           those things which are done of them in secret.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pauls writings always emphasized the exceeding sinfulness of
                 sin, but never more evidently than here.)
               </span>
@@ -303,7 +303,7 @@ export default function Ephesians5() {
           made manifest by the Light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is only Christ and the Cross which can adequately portray
                 what sin actually is; thats the reason much of the Church doesnt
                 care for the Cross!)
@@ -313,7 +313,7 @@ export default function Ephesians5() {
           : for whatsoever does make manifest is light.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross alone manifests sin and all its evil effects.)
               </span>
             </span>
@@ -325,7 +325,7 @@ export default function Ephesians5() {
           <sup className="calibre7">14</sup>Wherefore He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-60" scrollToId="#filepos8014281">
                   <span className="calibre_19">
@@ -341,7 +341,7 @@ export default function Ephesians5() {
           , Awake thou who sleeps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle is warning Christians that they should stir
                 themselves from lethargy and apathy)
               </span>
@@ -350,7 +350,7 @@ export default function Ephesians5() {
           , and arise from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dead to the things of the Spirit)
               </span>
             </span>
@@ -358,7 +358,7 @@ export default function Ephesians5() {
           , and Christ shall give you Light.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ will pour upon you the Light of Divine Truth as the Sun
                 gives light to men aroused from sleep.)
               </span>
@@ -371,13 +371,13 @@ export default function Ephesians5() {
           <sup className="calibre7">15</sup>See then that you walk circumspectly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(carefully taking heed)</span>
+              <span className="explanation">(carefully taking heed)</span>
             </span>
           </span>
           , not as fools{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a person who doesnt avail himself of all Christ has to offer is
                 a fool)
               </span>
@@ -386,7 +386,7 @@ export default function Ephesians5() {
           , but as wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(draw close to the Lord)</span>
+              <span className="explanation">(draw close to the Lord)</span>
             </span>
           </span>
           ,
@@ -397,7 +397,7 @@ export default function Ephesians5() {
           <sup className="calibre7">16</sup>Redeeming the time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (take advantage of the opportunities that present themselves)
               </span>
             </span>
@@ -405,7 +405,7 @@ export default function Ephesians5() {
           , be cause the days are evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross must be our Foundation. Only then can we overcome the
                 evil, and carry out that which the Lord has called us to do.)
               </span>
@@ -418,7 +418,7 @@ export default function Ephesians5() {
           <sup className="calibre7">17</sup>Wherefore be ye not unwise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (time is precious because God has given us only a few short days
                 to make choices that will bring Eternal consequences)
               </span>
@@ -430,7 +430,7 @@ export default function Ephesians5() {
               <span className="calibre_19">is.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We can do this if we look exclusively to Christ and the Cross.)
               </span>
             </span>
@@ -442,7 +442,7 @@ export default function Ephesians5() {
           <sup className="calibre7">18</sup>And be not drunk with wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of being controlled by alcoholic beverage, which Paul
                 desires to use as an example)
               </span>
@@ -451,7 +451,7 @@ export default function Ephesians5() {
           , wherein is excess; but be filled with the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (being controlled by the Spirit constantly, moment by moment)
               </span>
             </span>
@@ -465,7 +465,7 @@ export default function Ephesians5() {
           Hymns and Spiritual Songs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to worship as it regards songs and singing)
               </span>
             </span>
@@ -473,7 +473,7 @@ export default function Ephesians5() {
           , singing and making melody in your heart to the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places the approval of the Holy Spirit on the same forms of
                 music and styles of worship as were begun in the Old Testament)
               </span>
@@ -488,7 +488,7 @@ export default function Ephesians5() {
           unto God and the Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all things which come from God)
               </span>
             </span>
@@ -496,7 +496,7 @@ export default function Ephesians5() {
           in the Name of our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims in this Verse the Source of all Blessings, and the
                 means by which these Blessings have come upon the human race as
                 well)
@@ -511,7 +511,7 @@ export default function Ephesians5() {
           <sup className="calibre7">21</sup>Submitting yourselves one to another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tells us that proper spiritual submission is always
                 horizontal and never vertical as it refers to Believers, meaning
                 that we submit one to another)
@@ -521,7 +521,7 @@ export default function Ephesians5() {
           in the fear of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that all vertical submission must be to God Alone,
                 never to man)
               </span>
@@ -539,7 +539,7 @@ export default function Ephesians5() {
           own husbands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit, through the Apostle, is relating to the
                 spiritual leadership of the family)
               </span>
@@ -548,7 +548,7 @@ export default function Ephesians5() {
           , as unto the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (First of all, the submission is to be to Christ as Lord and
                 Master, and not to the husband. If the husbands supremacy had
                 been in view, it would have been expressed in a different
@@ -568,7 +568,7 @@ export default function Ephesians5() {
           wife, even as Christ is the Head of the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (suggests the obedience the wife renders to her husband is to be
                 regarded as obedience rendered to Christ, which she can do if
                 her husband is properly following the Lord)
@@ -578,7 +578,7 @@ export default function Ephesians5() {
           : and He is the Saviour of the Body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Lord being the Saviour of Believers, who
                 make up the Church. While the husband cannot be the Saviour of
                 his wife in redemptive terms, he can be her protector and
@@ -594,7 +594,7 @@ export default function Ephesians5() {
           unto Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as its Head)</span>
+              <span className="explanation">(as its Head)</span>
             </span>
           </span>
           , so{" "}
@@ -612,7 +612,7 @@ export default function Ephesians5() {
           to their own husbands in everything.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presupposes that the husband is conducting himself even as
                 Christ.)
               </span>
@@ -628,13 +628,13 @@ export default function Ephesians5() {
           <sup className="calibre7">25</sup>Husbands, love your wives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with a God kind of love)</span>
+              <span className="explanation">(with a God kind of love)</span>
             </span>
           </span>
           , even as Christ also loved the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the qualifier; if a husband conducts himself
                 accordingly toward his wife, she will have no problem whatsoever
                 submitting to him, even as she should)
@@ -644,7 +644,7 @@ export default function Ephesians5() {
           , and gave Himself for it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the great Sacrifice which characterizes the God kind
                 of love; the answer for marriage problems is not marriage
                 seminars, but rather that both husband and wife place their
@@ -663,7 +663,7 @@ export default function Ephesians5() {
           it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the view to the final presentation of the Church in
                 perfect Holiness at the Coming Great Day)
               </span>
@@ -672,7 +672,7 @@ export default function Ephesians5() {
           with the washing of water by the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means the Word washes and cleanses one exactly as
                 water)
               </span>
@@ -686,7 +686,7 @@ export default function Ephesians5() {
           <sup className="calibre7">27</sup>That He might present it to Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is Christ Himself Who is to present the Church, and He is to
                 present it to Himself)
               </span>
@@ -695,19 +695,21 @@ export default function Ephesians5() {
           a glorious Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           , not having spot, or wrinkle, or any such thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which the Cross alone can do)</span>
+              <span className="explanation">
+                (which the Cross alone can do)
+              </span>
             </span>
           </span>
           ; but that it should be Holy and without blemish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is our position in Christ, made possible by the Cross.)
               </span>
             </span>
@@ -720,7 +722,7 @@ export default function Ephesians5() {
           their own bodies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is proclaimed in this manner because they are one flesh, even
                 as Paul will say in{" "}
                 <ScrollLink href="/" scrollToId="#filepos14065429">
@@ -737,7 +739,7 @@ export default function Ephesians5() {
           . He who loves his wife loves himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the oneness of the Sacred union of marriage)
               </span>
             </span>
@@ -751,7 +753,7 @@ export default function Ephesians5() {
           flesh; but nourishes and cherishes it, even as the Lord the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit here is using the union of husband and wife to
                 symbolize the union of Christ and the Church)
               </span>
@@ -766,7 +768,7 @@ export default function Ephesians5() {
           His Flesh, and of His Bones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are visible parts of that Body of which He is Head, and this
                 is the reason He nourishes and cherishes the Church. His Flesh
                 and His Bones speak of the Incarnation, and the giving of
@@ -791,7 +793,7 @@ export default function Ephesians5() {
           father and mother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while he certainly continues to love his father and mother, his
                 primary love is now for his wife)
               </span>
@@ -800,7 +802,7 @@ export default function Ephesians5() {
           , and shall be joined unto his wife, and they two shall be one flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The union that is meant to symbolize Christ and the Church.)
               </span>
             </span>
@@ -812,7 +814,7 @@ export default function Ephesians5() {
           <sup className="calibre7">32</sup>This is a great Mystery{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had not been heretofore revealed)
               </span>
             </span>
@@ -820,7 +822,7 @@ export default function Ephesians5() {
           : but I speak concerning Christ and the Church.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the spiritual fact that a Believer can become one
                 with Christ as a member of His Body, symbolized by the
                 husband-wife relationship.)
@@ -835,7 +837,7 @@ export default function Ephesians5() {
           particular so love his wife even as himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the husband is to love the wife as being part and parcel of
                 himself, according to the Divine idea of the marriage union)
               </span>
@@ -856,7 +858,7 @@ export default function Ephesians5() {
           husband.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means to recognize and respect his position as spiritual
                 leader of the family. If the husband or wife makes demands on
                 the partner Christ Alone can meet, which is the cause of most

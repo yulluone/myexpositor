@@ -18,7 +18,7 @@ export default function Amos2() {
           into lime{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Amos now denounces Moab, also connected by ties of blood with
                 Israel. The phrase, Because he burned the bones of the king of
                 Edom into lime, shows that Gods Anger burns against unnatural
@@ -37,7 +37,7 @@ export default function Amos2() {
           tumult, with shouting, and with the sound of the trumpet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, And Moab shall die with tumult, refers to her
                 destruction beginning with Nebuchadnezzar. In fulfillment of
                 this Passage, the Moabites ultimately ceased to have independent
@@ -55,7 +55,7 @@ export default function Amos2() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These six nations, Syria, Philistia, Tyre, Edom, Ammon, and
                 Moab, defiled Immanuels land, for they lived within its original
                 boundaries; judgment, therefore, expelled them.)
@@ -78,7 +78,7 @@ export default function Amos2() {
           after the which their fathers have walked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as God pronounced judgments upon heathen nations, which Judah
                 and Israel no doubt thought were amply deserved, likewise, the
                 thrust is now turned toward Judah, even the people who retained
@@ -97,7 +97,7 @@ export default function Amos2() {
           and it shall devour the palaces of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And thats exactly what happened! Not too many years later, the
                 nation and city were completely destroyed by the Babylonians.)
               </span>
@@ -116,7 +116,7 @@ export default function Amos2() {
           the poor for a pair of shoes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Northern Kingdom of Israel sank lower and lower into sin
                 and depravity, all justice flew out the window. They sold the
                 righteous and the poor into slavery, and for a pittance)
@@ -133,7 +133,7 @@ export default function Amos2() {
           and his father will go in unto the same maid, to profane My Holy Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Passages portray the fact that Israel had laid aside the
                 Word of God for their own inventions. In other words, they had
                 made up their own laws and concocted their own salvation. Now,
@@ -154,7 +154,7 @@ export default function Amos2() {
           condemned in the house of their god.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious here, the Lord observed all that was being done.)
               </span>
             </span>
@@ -169,7 +169,7 @@ export default function Amos2() {
           roots from beneath.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name Amorite [
                 <ScrollLink href="/joshua-24" scrollToId="#filepos2714996">
                   <span className="calibre_19">
@@ -216,7 +216,7 @@ export default function Amos2() {
           the land of the Amorite.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord not only defeated the Amorite, but also gave their
                 land to Israel as an inheritance. And led you forty years
                 through the wilderness, is meant to bring to mind that terrible
@@ -234,7 +234,7 @@ export default function Amos2() {
           you children of Israel? says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nazarites were those who took a special vow, whether temporary
                 or lifelong. Of perpetual Nazarites, we have as instances
                 Samson, Samuel, and John the Baptist.
@@ -264,7 +264,7 @@ export default function Amos2() {
           drink; and commanded the Prophets, saying, Prophesy not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the Verse is: this ungrateful nation systematically
                 tried to silence the voices which were a standing rebuke to
                 them.)
@@ -279,7 +279,7 @@ export default function Amos2() {
           cart is pressed that is full of sheaves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that God is burdened and wearied
                 with their sins.)
               </span>
@@ -294,7 +294,7 @@ export default function Amos2() {
           shall the mighty deliver himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (upon hearing the Message of Amos, the people seemingly made
                 light of his Prophecy, as{" "}
                 <ScrollLink href="/" scrollToId="#filepos10164128">
@@ -333,7 +333,7 @@ export default function Amos2() {
           neither shall he who rides the horse deliver himself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By their sins and rebellion, the people of Israel no longer
                 desired Gods Deliverance, but claimed they could deliver
                 themselves; however, the Holy Spirit says otherwise!)
@@ -348,7 +348,7 @@ export default function Amos2() {
           mighty shall flee away naked in that day, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word naked means to be weaponless. When he runs away, a
                 soldier throws aside his armor and weapons in order to more
                 easily escape; this would be the plight of Israel so says the

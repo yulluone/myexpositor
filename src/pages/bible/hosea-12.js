@@ -128,7 +128,7 @@ export default function Hosea12() {
           prevailed: he wept, and made supplication unto Him: He found him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(found Jacob)</span>
+              <span className="explanation">(found Jacob)</span>
             </span>
           </span>{" "}
           in Beth-el, and there He spoke with us{" "}

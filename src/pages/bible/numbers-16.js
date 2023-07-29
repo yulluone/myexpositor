@@ -301,7 +301,9 @@ export default function Numbers16() {
           brought us up out of a land that flows with milk and honey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they were referring to Egypt)</span>
+              <span className="explanation">
+                (they were referring to Egypt)
+              </span>
             </span>
           </span>
           , to kill us in the wilderness, except you make yourself altogether a
@@ -466,20 +468,20 @@ export default function Numbers16() {
           <sup className="calibre7">22</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses and Aaron)</span>
+              <span className="explanation">(Moses and Aaron)</span>
             </span>
           </span>{" "}
           fell upon their faces, and said, O God, the God of the spirits of all
           flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Who made man)</span>
+              <span className="explanation">(Who made man)</span>
             </span>
           </span>
           , shall one man sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Korah)</span>
+              <span className="explanation">(Korah)</span>
             </span>
           </span>
           , and will You be wroth with all the congregation?{" "}
@@ -562,7 +564,7 @@ export default function Numbers16() {
           the LORD has not sent me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the die is now cast!)</span>
+              <span className="explanation">(the die is now cast!)</span>
             </span>
           </span>
         </span>
@@ -628,7 +630,7 @@ export default function Numbers16() {
           them, went down alive into the pit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(into Hell itself)</span>
+              <span className="explanation">(into Hell itself)</span>
             </span>
           </span>
           , and the Earth closed upon them: and they perished from among the
@@ -853,7 +855,7 @@ export default function Numbers16() {
           , and put fire therein from off the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typical of the Cross)</span>
+              <span className="explanation">(typical of the Cross)</span>
             </span>
           </span>
           , and put on incense, and go quickly unto the congregation, and make

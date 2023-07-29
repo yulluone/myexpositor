@@ -133,7 +133,7 @@ export default function Leviticus26() {
           land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(freedom from war)</span>
+              <span className="explanation">(freedom from war)</span>
             </span>
           </span>
         </span>
@@ -145,7 +145,7 @@ export default function Leviticus26() {
           they shall fall before you by the sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(promised victory)</span>
+              <span className="explanation">(promised victory)</span>
             </span>
           </span>
         </span>
@@ -174,7 +174,7 @@ export default function Leviticus26() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(promised fruitfulness)</span>
+              <span className="explanation">(promised fruitfulness)</span>
             </span>
           </span>
         </span>
@@ -292,7 +292,7 @@ export default function Leviticus26() {
           even appoint over you terror, consumption, and the burning ague{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fever)</span>
+              <span className="explanation">(fever)</span>
             </span>
           </span>
           , that shall consume the eyes, and cause sorrow of heart: and you
@@ -399,7 +399,7 @@ export default function Leviticus26() {
           vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wasted effort)</span>
+              <span className="explanation">(wasted effort)</span>
             </span>
           </span>
           : for your land shall not yield her increase, neither shall the trees
@@ -537,7 +537,7 @@ export default function Leviticus26() {
           sons, and the flesh of your daughters shall you eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(famine because of sin)</span>
+              <span className="explanation">(famine because of sin)</span>
             </span>
           </span>
         </span>
@@ -662,7 +662,7 @@ export default function Leviticus26() {
           pursues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(constant fear!)</span>
+              <span className="explanation">(constant fear!)</span>
             </span>
           </span>
         </span>

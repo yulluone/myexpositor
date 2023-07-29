@@ -528,7 +528,7 @@ export default function Numbers01() {
           their fathers were not numbered among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was the Priestly Tribe)</span>
+              <span className="explanation">(this was the Priestly Tribe)</span>
             </span>
           </span>
         </span>
@@ -565,7 +565,7 @@ export default function Numbers01() {
           be pitched, the Levites shall set it up: and the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           who comes near shall be put to death.

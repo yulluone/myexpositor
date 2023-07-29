@@ -15,7 +15,7 @@ export default function Peter15() {
           <sup className="calibre7">1</sup>The Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastors)</span>
+              <span className="explanation">(Pastors)</span>
             </span>
           </span>{" "}
           which are among you I exhort{" "}
@@ -124,7 +124,9 @@ export default function Peter15() {
           ; not for filthy lucre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(money must not be our motive)</span>
+              <span className="explanation">
+                (money must not be our motive)
+              </span>
             </span>
           </span>
           , but of a ready mind{" "}
@@ -182,7 +184,7 @@ export default function Peter15() {
           , you shall receive a crown of glory that fades not away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the victory crown)</span>
+              <span className="explanation">(refers to the victory crown)</span>
             </span>
           </span>
           .
@@ -204,7 +206,7 @@ export default function Peter15() {
           , submit yourselves unto the Elder{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(senior Pastor)</span>
+              <span className="explanation">(senior Pastor)</span>
             </span>
           </span>
           . Yes, all{" "}
@@ -298,13 +300,13 @@ export default function Peter15() {
           <sup className="calibre7">8</sup>Be sober{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mentally self-controlled)</span>
+              <span className="explanation">(mentally self-controlled)</span>
             </span>
           </span>
           , be vigilant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(awake and watchful)</span>
+              <span className="explanation">(awake and watchful)</span>
             </span>
           </span>
           ; because your adversary the Devil, as a roaring lion, walks about,
@@ -324,7 +326,7 @@ export default function Peter15() {
           <sup className="calibre7">9</sup>Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Devil)</span>
+              <span className="explanation">(the Devil)</span>
             </span>
           </span>{" "}
           resist stedfast in the Faith{" "}
@@ -363,7 +365,7 @@ export default function Peter15() {
           , Who has called us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Divine summons)</span>
+              <span className="explanation">(a Divine summons)</span>
             </span>
           </span>{" "}
           unto His Eternal Glory by Christ Jesus{" "}
@@ -411,7 +413,7 @@ export default function Peter15() {
           <sup className="calibre7">11</sup>To Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
             <span>
               <span className="calibre_19">be</span>
@@ -500,7 +502,7 @@ export default function Peter15() {
           charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the custom in those days)</span>
+              <span className="explanation">(the custom in those days)</span>
             </span>
           </span>
           . Peace{" "}

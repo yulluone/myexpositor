@@ -15,13 +15,13 @@ export default function Acts08() {
           <sup className="calibre7">1</sup>And Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           was consenting unto his death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he expressed hearty approval of the stoning of
                 Stephen)
               </span>
@@ -31,7 +31,7 @@ export default function Acts08() {
           which was at Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Church, as far as we know, was then confined to Jerusalem)
               </span>
             </span>
@@ -40,7 +40,7 @@ export default function Acts08() {
           and Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the persecution helped take the Gospel to these particular
                 regions; so Satans plan backfired)
               </span>
@@ -49,7 +49,7 @@ export default function Acts08() {
           , except the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they stayed in Jerusalem, no doubt at the behest of the Holy
                 Spirit; for the Apostles to leave at that time could have
                 destroyed the infant Church)
@@ -67,7 +67,7 @@ export default function Acts08() {
               <span className="calibre_19">to his burial</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the high esteem with which they held this man, and
                 rightly so!),
               </span>
@@ -76,7 +76,7 @@ export default function Acts08() {
           and made great lamentation over him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what a difference between his death and that of Ananias and
                 Sapphira)
               </span>
@@ -91,7 +91,7 @@ export default function Acts08() {
           Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems he was the leader of this persecution)
               </span>
             </span>
@@ -99,7 +99,7 @@ export default function Acts08() {
           , entering into every house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referring to those houses he knew contained followers of
                 Christ)
               </span>
@@ -114,7 +114,7 @@ export default function Acts08() {
           to prison{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he spared no age or gender, but forced them all before
                 magistrates)
               </span>
@@ -129,7 +129,7 @@ export default function Acts08() {
           abroad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a result of the persecution)
               </span>
             </span>
@@ -137,7 +137,7 @@ export default function Acts08() {
           went every where preaching the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the persecution backfired; instead of stopping the
                 Word it rather scattered the Word!; Satan dreads the preaching
                 of the Gospel by the Anointing of the Holy Spirit, but has no
@@ -157,7 +157,7 @@ export default function Acts08() {
           Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, a city of Samaria, which was
                 probably Sychem; this was the Philip of{" "}
                 <ScrollLink href="/acts-06" scrollToId="#filepos12850578">
@@ -174,7 +174,7 @@ export default function Acts08() {
           , and preached Christ unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him proclaiming Jesus as the Messiah, God manifest in
                 the flesh, and being raised from the dead; he would not have
                 understood much about the Cross at this particular time; that
@@ -191,7 +191,7 @@ export default function Acts08() {
           heed unto those things which Philip spoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a great acceptance of the Gospel)
               </span>
             </span>
@@ -199,7 +199,7 @@ export default function Acts08() {
           , hearing and seeing the miracles which he did{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (verified the Message he preached)
               </span>
             </span>
@@ -216,7 +216,7 @@ export default function Acts08() {
               <span className="calibre_19">with them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Name of Jesus was used to cast out demons)
               </span>
             </span>
@@ -229,7 +229,7 @@ export default function Acts08() {
           <sup className="calibre7">8</sup>And there was great joy in that city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when the Message of Christ is accepted, it always brings great
                 joy)
               </span>
@@ -247,7 +247,7 @@ export default function Acts08() {
           Simon, which beforetime in the same city used sorcery{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the practice of the rites of the art of the Magi;
                 it is of Satan)
               </span>
@@ -257,7 +257,7 @@ export default function Acts08() {
           some great one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seemed they believed his claims)
               </span>
             </span>
@@ -271,7 +271,7 @@ export default function Acts08() {
           least to the greatest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that all were duped by his sorceries)
               </span>
             </span>
@@ -279,7 +279,7 @@ export default function Acts08() {
           , saying, This man is the great power of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they attributed his magic and stunts to being done by the Power
                 of God, when in reality it was of Satan; much in the modern
                 Church which claims to be the Power of God falls into the same
@@ -296,7 +296,7 @@ export default function Acts08() {
           that of long time he had bewitched them with sorceries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word bewitched refers to the fact that the person or
                 persons are deprived of the ability to think or order their
                 thoughts correctly)
@@ -312,7 +312,7 @@ export default function Acts08() {
           preaching the things concerning the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they now encountered a Power which was greater than the powers
                 of darkness)
               </span>
@@ -321,7 +321,7 @@ export default function Acts08() {
           , and the Name of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Salvation is in that Name and what it refers to, which speaks
                 of the Cross; the very Name Jesus means Saviour)
               </span>
@@ -330,7 +330,7 @@ export default function Acts08() {
           , they were baptized, both men and women{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were baptized in water after they were saved, not baptized
                 in order to be saved)
               </span>
@@ -344,7 +344,7 @@ export default function Acts08() {
           <sup className="calibre7">13</sup>Then Simon himself believed also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every evidence is that Simon truly gave his heart and life to
                 the Lord Jesus; the word believed is used here exactly as it was
                 in the previous Verse, which signifies Salvation [
@@ -370,7 +370,7 @@ export default function Acts08() {
           : and when he was baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (plainly informs us that Philip saw enough evidence of
                 Repentance and Faith in Christ that he baptized Simon exactly as
                 he did the others)
@@ -381,7 +381,7 @@ export default function Acts08() {
           signs which were done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he watched carefully what Philip was doing, and noted that
                 there was no trickery involved)
               </span>
@@ -399,13 +399,13 @@ export default function Acts08() {
           Jerusalem heard that Samaria had received the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many had been saved)</span>
+              <span className="explanation">(many had been saved)</span>
             </span>
           </span>
           , they sent unto them Peter and John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for a reason which we will see)
               </span>
             </span>
@@ -419,7 +419,7 @@ export default function Acts08() {
           prayed for them, that they might receive the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was their purpose for coming, and this is how important it
                 is for Believers to be Baptized with the Spirit)
               </span>
@@ -433,13 +433,13 @@ export default function Acts08() {
           <sup className="calibre7">16</sup>(For as yet He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           was fallen upon none of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently Philip had strongly preached Salvation, but had not
                 preached the Baptism with the Holy Spirit)
               </span>
@@ -448,7 +448,7 @@ export default function Acts08() {
           : only they were baptized in the Name of the Lord Jesus.){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is meant to infer that they had been baptized in water,
                 but not the Baptism with the Spirit.)
               </span>
@@ -467,7 +467,7 @@ export default function Acts08() {
           hands on them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents one of the ways Believers can be baptized with the
                 Spirit, but this is not necessary in order to be filled [
                 <ScrollLink href="/acts-02" scrollToId="#filepos12769016">
@@ -492,7 +492,7 @@ export default function Acts08() {
           , and they received the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt give any more information, but we know from{" "}
                 <ScrollLink href="/acts-02" scrollToId="#filepos12769016">
                   <span className="calibre_19">
@@ -533,7 +533,7 @@ export default function Acts08() {
           laying on of the Apostles hands the Holy Spirit was given{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what did he see? he saw and heard them speak with tongues)
               </span>
             </span>
@@ -541,7 +541,7 @@ export default function Acts08() {
           , he offered them money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he would not have offered money for the mere laying on of
                 hands)
               </span>
@@ -556,7 +556,7 @@ export default function Acts08() {
           that on whomsoever I lay hands, he may receive the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (money cannot purchase these Gifts, or anything else of God for
                 that matter)
               </span>
@@ -572,7 +572,7 @@ export default function Acts08() {
           purchased with money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every Preacher must be extra careful that money not be made a
                 part of the equation; God has nothing for sale; everything He
                 has is a Gift [
@@ -596,7 +596,7 @@ export default function Acts08() {
           this matter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word matter in the Greek, as it is used here, is Logos, and
                 means a word or speech; Peter is referring to these Believers
                 speaking with other tongues)
@@ -606,7 +606,7 @@ export default function Acts08() {
           : for your heart is not right in the Sight of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (self-will is the cause of the evil heart)
               </span>
             </span>
@@ -620,7 +620,7 @@ export default function Acts08() {
           wickedness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims just how bad the sin was, but yet that hope is
                 offered)
               </span>
@@ -630,7 +630,7 @@ export default function Acts08() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that God Alone could remedy this situation, and He
                 always will upon proper Repentance, which says that He is right
                 and I am wrong)
@@ -645,7 +645,7 @@ export default function Acts08() {
           <sup className="calibre7">23</sup>For I perceive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Holy Spirit informing Peter of the exact cause,
                 and not mere symptoms)
               </span>
@@ -654,7 +654,7 @@ export default function Acts08() {
           that you are in the gall of bitterness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (condition of extreme wickedness)
               </span>
             </span>
@@ -668,7 +668,7 @@ export default function Acts08() {
           the bond of iniquity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a bondage of greed for money, power, and control over other
                 men)
               </span>
@@ -683,7 +683,7 @@ export default function Acts08() {
           ye to the Lord for me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (suggests a right attitude on the part of Simon)
               </span>
             </span>
@@ -691,7 +691,7 @@ export default function Acts08() {
           , that none of these things which you have spoken come upon me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to him potentially perishing, that is if he
                 remained on that particular course)
               </span>
@@ -706,7 +706,7 @@ export default function Acts08() {
           and preached the Word of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they, no doubt, saw a Church established there)
               </span>
             </span>
@@ -715,7 +715,7 @@ export default function Acts08() {
           the Samaritans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on their way to Jerusalem, they preached in many towns and
                 villages, probably taking several weeks to do so)
               </span>
@@ -733,7 +733,7 @@ export default function Acts08() {
           Philip{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims another mission entirely for Philip, rather than
                 going back to Jerusalem with Peter and John)
               </span>
@@ -743,7 +743,7 @@ export default function Acts08() {
           from Jerusalem unto Gaza, which is desert{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably referred to the road that led to the Old Testament
                 Gaza, which was destroyed in 93 B.C.)
               </span>
@@ -757,7 +757,7 @@ export default function Acts08() {
           <sup className="calibre7">27</sup>And he arose and went{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a distance of approximately one hundred miles; He immediately
                 obeyed)
               </span>
@@ -767,7 +767,7 @@ export default function Acts08() {
           Candace Queen of the Ethiopians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently presents a Gentile who was proselyte to the Covenant
                 of Israel)
               </span>
@@ -776,7 +776,7 @@ export default function Acts08() {
           , who had the charge of all her treasure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was the treasurer of that African country)
               </span>
             </span>
@@ -784,7 +784,7 @@ export default function Acts08() {
           , and had come to Jerusalem for to worship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could refer to the Feast of Tabernacles, which was held in
                 October; Eusebius says, He was the very first Gentile to convert
                 to Christ, at least in the Early Church.)
@@ -799,13 +799,13 @@ export default function Acts08() {
           <sup className="calibre7">28</sup>Was returning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(returning to Ethiopia)</span>
+              <span className="explanation">(returning to Ethiopia)</span>
             </span>
           </span>
           , and sitting in his chariot read Isaiah the Prophet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (more than likely spoke of a translation into Greek)
               </span>
             </span>
@@ -818,13 +818,13 @@ export default function Acts08() {
           <sup className="calibre7">29</sup>Then the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           said unto Philip{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit will lead and guide all who desire such a
                 relationship)
               </span>
@@ -841,7 +841,7 @@ export default function Acts08() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the driver had probably stopped to water the horses),
               </span>
             </span>
@@ -849,7 +849,7 @@ export default function Acts08() {
           and heard him read the Prophet Isaiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he was reading aloud)
               </span>
             </span>
@@ -857,7 +857,7 @@ export default function Acts08() {
           , and said, Do you understand what you are reading?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was perhaps asked because the Holy Spirit told him to ask
                 such a question.)
               </span>
@@ -871,7 +871,7 @@ export default function Acts08() {
           man should guide me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the reason the God-called Preacher is so very
                 important!)
               </span>
@@ -880,7 +880,7 @@ export default function Acts08() {
           And he desired Philip that he would come up and sit with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he wanted Philip to explain the Scripture to him)
               </span>
             </span>
@@ -894,7 +894,7 @@ export default function Acts08() {
           read was this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well presents an orchestration carried out by the Holy
                 Spirit)
               </span>
@@ -904,7 +904,7 @@ export default function Acts08() {
           his shearer, so opened He not His mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the Cross and the manner of approach by our Lord
                 to this Sacrifice)
               </span>
@@ -919,7 +919,7 @@ export default function Acts08() {
           taken away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that all justice was suspended concerning the trial and
                 Crucifixion of Christ)
               </span>
@@ -928,7 +928,7 @@ export default function Acts08() {
           : and who shall declare His generation?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that the Jewish Sanhedrin had tried to blot out His
                 Memory, but with no success at all.)
               </span>
@@ -937,7 +937,7 @@ export default function Acts08() {
           for His life is taken from the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite their evil intentions, the Plan of God was carried out
                 to total fulfillment)
               </span>
@@ -952,7 +952,7 @@ export default function Acts08() {
           said, I pray thee, of whom speaks the Prophet this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents, as will become obvious, a heart hungry for God.)
               </span>
             </span>
@@ -960,7 +960,7 @@ export default function Acts08() {
           of himself, or of some other man?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the correct question, which Philip will answer.)
               </span>
             </span>
@@ -973,7 +973,7 @@ export default function Acts08() {
           began at the same Scripture, and preached unto him Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to{" "}
                 <ScrollLink href="/isaiah-53" scrollToId="#filepos7919375">
                   <span className="calibre_19">
@@ -1001,7 +1001,7 @@ export default function Acts08() {
           way, they came unto a certain water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as they journeyed a little ways, with Philip explaining to him
                 all of this time, they come to a place where there was water;
                 evidently, Philip had explained to him that Water Baptism was
@@ -1018,7 +1018,7 @@ export default function Acts08() {
           water; what does hinder me to be baptized?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He had accepted Christ, and was now eager to follow the Lord in
                 Water Baptism.)
               </span>
@@ -1032,7 +1032,7 @@ export default function Acts08() {
           all your heart, you may{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the only Scriptural requirement for Salvation)
               </span>
             </span>
@@ -1041,7 +1041,7 @@ export default function Acts08() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this shows that Philip had explained the Gospel Program to this
                 man very well!)
               </span>
@@ -1055,14 +1055,14 @@ export default function Acts08() {
           <sup className="calibre7">38</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ethiopian)</span>
+              <span className="explanation">(the Ethiopian)</span>
             </span>
           </span>{" "}
           commanded the chariot to stand still: and they went down both into the
           water, both Philip and the Eunuch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tells us that Water Baptism is by immersion, and not by
                 mere sprinkling as taught by some)
               </span>
@@ -1071,7 +1071,7 @@ export default function Acts08() {
           ; and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Philip)</span>
+              <span className="explanation">(Philip)</span>
             </span>
           </span>{" "}
           baptized him.
@@ -1083,13 +1083,13 @@ export default function Acts08() {
           the water, the Spirit of the Lord caught away Philip{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means exactly what it says)</span>
+              <span className="explanation">(means exactly what it says)</span>
             </span>
           </span>
           , that the Eunuch saw him no more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would have been quite an experience)
               </span>
             </span>
@@ -1097,13 +1097,13 @@ export default function Acts08() {
           : and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ethiopian)</span>
+              <span className="explanation">(the Ethiopian)</span>
             </span>
           </span>{" "}
           went on his way rejoicing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his trip had been well worthwhile)
               </span>
             </span>
@@ -1116,7 +1116,7 @@ export default function Acts08() {
           <sup className="calibre7">40</sup>But Philip was found at Azotus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the old Ashdod, situated on the Mediterranean)
               </span>
             </span>
@@ -1125,7 +1125,7 @@ export default function Acts08() {
           Caesarea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about sixty miles north of Azotus)
               </span>
             </span>

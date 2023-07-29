@@ -22,7 +22,7 @@ export default function Hebrews08() {
           the sum{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to what Paul will now give as it regards the meaning of
                 all this)
               </span>
@@ -32,7 +32,7 @@ export default function Hebrews08() {
           Throne of the Majesty in the Heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the very fact that Christ is now seated in the Heavens at the
                 Right Hand of God proves His Work is a Finished Work)
               </span>
@@ -46,7 +46,7 @@ export default function Hebrews08() {
           <sup className="calibre7">2</sup>A Minister of the Sanctuary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Paul uses the word Minister, it speaks both of Priestly
                 service to God and of service to man)
               </span>
@@ -55,7 +55,7 @@ export default function Hebrews08() {
           , and of the True Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the true dwelling place of God, which is in the Heavens)
               </span>
             </span>
@@ -63,7 +63,7 @@ export default function Hebrews08() {
           , which the Lord pitched, and not man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that Moses pitched the earthly
                 Tabernacle, but God formed the True Tabernacle.)
               </span>
@@ -77,7 +77,7 @@ export default function Hebrews08() {
           offer Gifts and Sacrifices{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the High Priests of old serving as mediators between
                 God and men)
               </span>
@@ -92,13 +92,13 @@ export default function Hebrews08() {
           of necessity that this Man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ Jesus)</span>
+              <span className="explanation">(Christ Jesus)</span>
             </span>
           </span>{" "}
           have somewhat also to offer.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A Priest must have a Sacrifice to offer. Christ offered
                 Himself. This was His one great and all embracing Sacrifice,
                 satisfying all the Types of the Old Covenant and abolishing all
@@ -113,13 +113,13 @@ export default function Hebrews08() {
           <sup className="calibre7">4</sup>For if He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus)</span>
+              <span className="explanation">(the Lord Jesus)</span>
             </span>
           </span>{" "}
           were on Earth, He should not be a Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that He was not of the Levitical Order, and
                 due to His Sacrifice of Himself, no more earthly Priests are now
                 needed, which, as should be obvious, completely abrogates the
@@ -130,7 +130,7 @@ export default function Hebrews08() {
           , seeing that there are Priests who offer Gifts according to the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to His Eternal Priesthood, and the Offering of Himself in
                 Sacrifice, the Law is done)
               </span>
@@ -144,13 +144,13 @@ export default function Hebrews08() {
           <sup className="calibre7">5</sup>Who{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Levitical Priesthood)</span>
+              <span className="explanation">(the Levitical Priesthood)</span>
             </span>
           </span>{" "}
           serve unto the example and shadow of Heavenly things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a suggestive replica, which, in fact, had no
                 substance within itself)
               </span>
@@ -160,7 +160,7 @@ export default function Hebrews08() {
           Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that this was but a poor replica of the
                 reality Who is Christ)
               </span>
@@ -169,7 +169,7 @@ export default function Hebrews08() {
           : for, See, said He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-25" scrollToId="#filepos1046276">
                   <span className="calibre_19">
@@ -200,7 +200,7 @@ export default function Hebrews08() {
           Mount{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning the Tabernacle on Earth was merely a replica of
                 something far better in the Heavens)
               </span>
@@ -217,19 +217,19 @@ export default function Hebrews08() {
           <sup className="calibre7">6</sup>But now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since the Cross)</span>
+              <span className="explanation">(since the Cross)</span>
             </span>
           </span>{" "}
           has He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus)</span>
+              <span className="explanation">(the Lord Jesus)</span>
             </span>
           </span>{" "}
           obtained a more excellent Ministry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the New Covenant in Jesus Blood is superior, and takes the
                 place of the Old Covenant in animal blood)
               </span>
@@ -238,7 +238,7 @@ export default function Hebrews08() {
           , by how much also He is the Mediator of a Better Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that Christ officiates between God and man
                 according to the arrangements of the New Covenant)
               </span>
@@ -247,7 +247,7 @@ export default function Hebrews08() {
           , which was established upon better Promises.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the New Covenant, explicitly based on the
                 cleansing and forgiveness of all sin, which the Old Covenant
                 could not do.)
@@ -267,7 +267,7 @@ export default function Hebrews08() {
           had been faultless{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the First Covenant was definitely not
                 faultless; as stated, it was based on animal blood, which was
                 vastly inferior to the Precious Blood of Christ)
@@ -277,7 +277,7 @@ export default function Hebrews08() {
           , then should no place have been sought for the Second{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the necessity of the New Covenant)
               </span>
             </span>
@@ -290,7 +290,7 @@ export default function Hebrews08() {
           <sup className="calibre7">8</sup>For finding fault with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the First Covenant was actually designed to glaringly portray
                 the fault of the people, which it successfully did)
               </span>
@@ -299,7 +299,7 @@ export default function Hebrews08() {
           , He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/jeremiah-31" scrollToId="#filepos8604811">
                   <span className="calibre_19">
@@ -316,7 +316,7 @@ export default function Hebrews08() {
           Covenant with the House of Israel and with the House of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that New Covenant was in Christ and what He did at the Cross;
                 regrettably, Israel rejected Him)
               </span>
@@ -331,7 +331,7 @@ export default function Hebrews08() {
           made with their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Law of Moses, which was given some fifty days
                 after Israel was delivered from Egypt)
               </span>
@@ -341,7 +341,7 @@ export default function Hebrews08() {
           of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks to the immaturity of Israel at that time; consequently,
                 she was treated as a minor)
               </span>
@@ -350,7 +350,7 @@ export default function Hebrews08() {
           ; because they continued not in My Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was not true to the Covenant regarding the Old Law)
               </span>
             </span>
@@ -358,7 +358,7 @@ export default function Hebrews08() {
           , and I regarded them not, says the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel rejected Gods First Covenant, so God rejected them.)
               </span>
             </span>
@@ -376,7 +376,7 @@ export default function Hebrews08() {
           the Covenant that I will make with the House of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers as stated to the New Covenant)
               </span>
             </span>
@@ -384,7 +384,7 @@ export default function Hebrews08() {
           after those days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Old Covenant having run its course, which it did
                 at the time of the Cross)
               </span>
@@ -394,7 +394,7 @@ export default function Hebrews08() {
           in their hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims in abbreviated detail the glorious fact of what the
                 New Covenant would do because the sin debt was paid by Christ on
                 the Cross, which made it possible for the Holy Spirit to abide
@@ -413,7 +413,7 @@ export default function Hebrews08() {
           : and I will be to them a God, and they shall be to Me a people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to relationship under the New Covenant that was not
                 possible under the Old Covenant [
                 <ScrollLink href="/zechariah-08" scrollToId="#filepos10648646">
@@ -436,7 +436,7 @@ export default function Hebrews08() {
           his neighbour, and every man his brother, saying, Know the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the complicated process of the Old Covenant)
               </span>
             </span>
@@ -444,7 +444,7 @@ export default function Hebrews08() {
           : for all shall know Me, from the least to the greatest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the fact that the Holy Spirit will teach every
                 Believer, as He does, and which Jesus also said would be [
                 <ScrollLink href="/john-16" scrollToId="#filepos12641775">
@@ -467,13 +467,15 @@ export default function Hebrews08() {
           unrighteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Cross made this possible)</span>
+              <span className="explanation">
+                (the Cross made this possible)
+              </span>
             </span>
           </span>
           , and their sins and their iniquities will I remember no more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the Cross, sins and iniquities no longer exist, at least
                 for those who trust Christ.)
               </span>
@@ -486,7 +488,7 @@ export default function Hebrews08() {
           <sup className="calibre7">13</sup>In that He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/jeremiah-31" scrollToId="#filepos8604811">
                   <span className="calibre_19">
@@ -505,7 +507,7 @@ export default function Hebrews08() {
               <span className="calibre_19">Covenant</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all in Christ and what He did at the Cross),
               </span>
             </span>
@@ -513,13 +515,13 @@ export default function Hebrews08() {
           He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           has made the first old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was designed to be temporary)
               </span>
             </span>
@@ -533,7 +535,7 @@ export default function Hebrews08() {
           ready to vanish away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Since the Cross, which introduced the New Covenant, there is no
                 more need for the Old, which is vastly inferior.)
               </span>

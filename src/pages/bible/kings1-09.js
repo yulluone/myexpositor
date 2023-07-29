@@ -314,7 +314,7 @@ export default function Kings109() {
           Beth-horon the nether{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(nearby Gezer)</span>
+              <span className="explanation">(nearby Gezer)</span>
             </span>
           </span>
           ,

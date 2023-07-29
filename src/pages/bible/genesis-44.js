@@ -25,7 +25,7 @@ export default function Genesis44() {
           the sacks mouth of the youngest, and his corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           money. And he did according to the word that Joseph had spoken.
@@ -45,7 +45,7 @@ export default function Genesis44() {
           have you rewarded evil for good?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The casual reader may think that Joseph is being somewhat harsh
                 respecting this particular episode; however, due to enormity of
                 the sin of these brothers, with the exception of Benjamin,
@@ -68,7 +68,7 @@ export default function Genesis44() {
           unto them these same words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt, Joseph had told the man exactly what to say to his
                 brothers)
               </span>
@@ -97,7 +97,7 @@ export default function Genesis44() {
           be found, both let him die, and we also will be my lords bondmen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They are right, and they are wrong! They are right in that they
                 didnt steal the cup, but they are wrong in that its not in one
                 of the sacks.)
@@ -113,13 +113,13 @@ export default function Genesis44() {
           servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slave)</span>
+              <span className="explanation">(slave)</span>
             </span>
           </span>
           : and you shall be blameless.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The same steward who has greeted them previously now stands
                 before them, as it regards the cup that is supposedly missing.
                 He is the one who had placed the cup in Benjamins sack, so he
@@ -158,7 +158,7 @@ export default function Genesis44() {
           ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephs detention of Simeon, and afterwards of Benjamin, was
                 skillfully designed so as to find out if they still were
                 indifferent to the cries of a captive brother and the tears of a
@@ -183,7 +183,7 @@ export default function Genesis44() {
           lords servants, both we, and he also with whom the cup is found.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The distress of Judah and the others shows that they were no
                 longer, in heart, the men of some twenty years back. None can
                 teach like God. He Alone can produce in the conscience the true
@@ -202,13 +202,13 @@ export default function Genesis44() {
           <sup className="calibre7">17</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joseph)</span>
+              <span className="explanation">(Joseph)</span>
             </span>
           </span>{" "}
           said, God forbid that I should do so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is saying that he has no desire to keep all the brothers,
                 only the one in whose sack the cup was found, namely Benjamin)
               </span>
@@ -217,7 +217,7 @@ export default function Genesis44() {
           : but the man in whose hand the cup is found, he shall be my servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slave)</span>
+              <span className="explanation">(slave)</span>
             </span>
           </span>
           ; and as for you, get you up in peace unto your father.
@@ -231,7 +231,7 @@ export default function Genesis44() {
           are even as Pharaoh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter contains one of the most impassioned pleas ever
                 made by one man to another. Judah makes this plea unto Joseph.)
               </span>
@@ -339,7 +339,7 @@ export default function Genesis44() {
           servant abide instead of the lad a bondman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a slave)</span>
+              <span className="explanation">(a slave)</span>
             </span>
           </span>{" "}
           to my lord; and let the lad go up with his brethren.

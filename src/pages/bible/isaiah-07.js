@@ -21,7 +21,7 @@ export default function Isaiah07() {
           it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ahaz was one of the most wicked kings who reigned in Judah, yet
                 God would repeatedly speak to him, endeavoring to bring him to
                 Repentance, but without success.
@@ -64,7 +64,7 @@ export default function Isaiah07() {
           saying, Syria is confederate with Ephraim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (another name for the Northern Kingdom of Israel)
               </span>
             </span>
@@ -73,7 +73,7 @@ export default function Isaiah07() {
           of the wood are moved with the wind.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement, it was told the house of David, refers to the
                 Promises that God made to David concerning his lineage
                 continuing on the Throne unto the coming of the Messiah. Even
@@ -95,7 +95,7 @@ export default function Isaiah07() {
           the conduit of the upper pool in the highway of the fullers field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiahs child was to accompany him as a symbol in order that
                 his name might carry a message of judgment and grace to the
                 heart of king Ahaz. The little boys name is Shear-jashub, which
@@ -117,7 +117,7 @@ export default function Isaiah07() {
           the son of Remaliah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To an energetic, warlike, and capable monarch like Ahaz, king
                 of the Southern Kingdom of Judah, the injunction to do nothing
                 but believe was both trying and irritating.
@@ -164,7 +164,7 @@ export default function Isaiah07() {
           midst of it, even the son of Tabeal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Scripture does not say who the son of Tabeal was, but no
                 doubt he was a prince chosen by the kings of Syria and Ephraim
                 to be king of Jerusalem and, thereby, their servant. This was
@@ -215,7 +215,7 @@ export default function Isaiah07() {
           stand, neither shall it come to pass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Actually, the statement says, The Lord Jehovah declares it
                 shall not stand, meaning that the plans of Syria and Israel
                 against Judah would not succeed.)
@@ -238,7 +238,7 @@ export default function Isaiah07() {
           surely you shall not be established.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication here is that Syria and Ephraim [Israel] have
                 merely human heads the one, Rezin; the other, Pekah but Judah,
                 it is implied, has a Divine Head, even Jehovah.
@@ -302,7 +302,7 @@ export default function Isaiah07() {
           ask it either in the depth, or in the height above.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ahaz had no faith in God, so he would not ask for a sign. He
                 really desired to have help from Assyria and, thereby, to
                 continue in idolatry [
@@ -325,7 +325,7 @@ export default function Isaiah07() {
           neither will I tempt the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such is the flesh. It refuses a sign when offered one and
                 demands a sign when refused one [
                 <ScrollLink href="/mark-08" scrollToId="#filepos11478870">
@@ -353,7 +353,7 @@ export default function Isaiah07() {
           my God also?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To weary a man is to doubt his promises. Ahaz is in such a weak
                 spiritual condition that he neither realizes nor understands the
                 threat of Satan. It is not against Ahaz only, but also against
@@ -371,7 +371,7 @@ export default function Isaiah07() {
           shall call His Name Immanuel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Without a doubt, this Prophecy is one of the greatest, if not
                 the greatest, in the Bible.
               </span>
@@ -423,7 +423,7 @@ export default function Isaiah07() {
           He may know to refuse the evil, and choose the good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy actually was twofold: first of all, Isaiahs little
                 son, a mere suckling of a child who was then present, served as
                 the immediate sign. That sign pertained to the destruction of
@@ -454,7 +454,7 @@ export default function Isaiah07() {
           forsaken of both her kings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prediction here is that the two kings of Syria and Israel
                 will be killed. This happened, as stated, about 3 years later [
                 <ScrollLink href="/kings2-15" scrollToId="#filepos4223123">
@@ -481,7 +481,7 @@ export default function Isaiah07() {
           Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God, Who could read Ahazs heart and its plans, addressed to him
                 personally the message of this Verse. He tells him plainly that
                 great as were the miseries suffered by the kingdoms since the
@@ -500,7 +500,7 @@ export default function Isaiah07() {
           Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, in that day, does not pertain here to the
                 Millennium, as it often does, but speaks of Assyria and Egypt
                 invading Judah.)
@@ -516,7 +516,7 @@ export default function Isaiah07() {
           and upon all thorns, and upon all bushes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The colorful description characterizes the totality of the
                 overflowing army respecting its invasion of Judah.)
               </span>
@@ -532,7 +532,7 @@ export default function Isaiah07() {
           consume the beard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this refers to total destruction upon Judah.)
               </span>
             </span>
@@ -552,7 +552,7 @@ export default function Isaiah07() {
           and honey shall every one eat who is left in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At first glance, these Passages seem to indicate abundance;
                 however, they are really denoting poverty.
               </span>
@@ -581,7 +581,7 @@ export default function Isaiah07() {
           thousand silverlings, it shall even be for briers and thorns.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The general meaning seems to be that not even the best
                 vineyards would be cultivated at that time [after the invasion
                 of Assyria], but would lie in waste and grow only briers and
@@ -597,7 +597,7 @@ export default function Isaiah07() {
           come thither; because all the land shall become briers and thorns.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The references are to the land being depopulated because of war
                 and its population being taken as slaves; therefore, desolation
                 will rule.
@@ -627,7 +627,7 @@ export default function Isaiah07() {
           treading of lesser cattle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that the briers and thorns will be
                 so thick in some areas of Judah that it will be difficult for
                 one to even walk. Men will send their cattle into these places,

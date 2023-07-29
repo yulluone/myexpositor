@@ -15,14 +15,14 @@ export default function Deuteronmy23() {
           <sup className="calibre7">1</sup>He who is wounded in the stones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(testicles)</span>
+              <span className="explanation">(testicles)</span>
             </span>
           </span>
           , or has his privy member cut off, shall not enter into the
           congregation of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This did not pertain to accidents, etc. It rather pertained to
                 prohibitions concerning idolatry. Parents in the heathen tribes
                 surrounding Israel often mutilated in various ways their
@@ -45,7 +45,7 @@ export default function Deuteronmy23() {
           enter into the congregation of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As well, this pertains to idolatry. Many children in heathen
                 tribes were born, not in wedlock, but as a result of idolatrous,
                 licentious ceremonies. As well, it pertained to one born out of
@@ -66,7 +66,7 @@ export default function Deuteronmy23() {
           ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number ten, at least used in this fashion, was a number of
                 indefiniteness; in other words, it meant forever; Ammon and Moab
                 had met the Israelites with hostility, and had brought Balaam to
@@ -94,7 +94,7 @@ export default function Deuteronmy23() {
           <sup className="calibre7">4</sup>Because they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ammonites and Moabites)</span>
+              <span className="explanation">(the Ammonites and Moabites)</span>
             </span>
           </span>{" "}
           met you not with bread and with water in the way, when you came forth
@@ -109,7 +109,7 @@ export default function Deuteronmy23() {
           Blessing unto you, because the LORD your God loved you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of the human race, because of the Fall, is plagued
                 with a curse; but Jesus turned the curse into a Blessing, and
                 did so at the Cross [
@@ -133,7 +133,7 @@ export default function Deuteronmy23() {
           their prosperity all your days for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God blesses those who bless His People, and places a curse upon
                 those who do the opposite; in other words, the harm that the
                 world would seek to do to the people of God is ultimately turned
@@ -150,13 +150,13 @@ export default function Deuteronmy23() {
           is your brother: you shall not abhor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hate)</span>
+              <span className="explanation">(hate)</span>
             </span>
           </span>{" "}
           an Egyptian; because you were a stranger in his land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Edomites were descendants of Esau, therefore, the brother
                 of Jacob; even though the Egyptians harmed Israel greatly at the
                 last, Egypt, in fact, gave solace and help to Jacob at the
@@ -175,7 +175,7 @@ export default function Deuteronmy23() {
           generation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (providing they desired to become a proselyte Jew)
               </span>
             </span>
@@ -192,7 +192,7 @@ export default function Deuteronmy23() {
           enemies, then you must keep yourself from every wicked thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when the people went forth to war, all impurity and defilement
                 were to be kept out of their camp, because their victory
                 depended on the Blessings of the Lord; and God cannot bless that
@@ -217,7 +217,7 @@ export default function Deuteronmy23() {
           shall come into the camp again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as is obvious here, purity was demanded at all times)
               </span>
             </span>
@@ -239,7 +239,7 @@ export default function Deuteronmy23() {
           from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sanitary conditions were demanded, because these people were
                 Gods People)
               </span>
@@ -256,7 +256,7 @@ export default function Deuteronmy23() {
           in you, and turn away from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the Lord walked up and down among them at that time, the
                 Holy Spirit now lives within the hearts and lives of Believers [
                 <ScrollLink
@@ -288,7 +288,7 @@ export default function Deuteronmy23() {
           master the servant which is escaped from his master unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reference is to a foreign slave who had fled from the harsh
                 treatment of his heathen master, and desired to seek refuge in
                 Israel; he was to be given that refuge and not returned to his
@@ -306,7 +306,7 @@ export default function Deuteronmy23() {
           it likes him best: you shall not oppress him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was a type of the lost coming to Christ, and
                 entering into the Family of God)
               </span>
@@ -321,7 +321,7 @@ export default function Deuteronmy23() {
           daughters of Israel, nor a sodomite of the sons of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whoredom in every capacity is banned, as well as homosexuality)
               </span>
             </span>
@@ -335,7 +335,7 @@ export default function Deuteronmy23() {
           whore, or the price of a dog{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the latter has nothing to do with the canine variety, but
                 rather likens homosexuals to dogs)
               </span>
@@ -345,7 +345,7 @@ export default function Deuteronmy23() {
           are abomination unto the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but yet, Rahab the harlot was allowed to come into the Family
                 of God, and even to become an ancestress of Christ; she did so
                 by Faith, which always overrides all law [
@@ -371,7 +371,7 @@ export default function Deuteronmy23() {
           that is lent upon usury{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (an Israelite was to not charge interest on a loan given to a
                 fellow Israelite)
               </span>
@@ -385,13 +385,13 @@ export default function Deuteronmy23() {
           <sup className="calibre7">20</sup>Unto a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           you may lend upon usury{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(can charge interest)</span>
+              <span className="explanation">(can charge interest)</span>
             </span>
           </span>
           ; but unto your brother you shall not lend upon usury: that the LORD
@@ -399,7 +399,7 @@ export default function Deuteronmy23() {
           where you go to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessings of the Lord then, and the Blessings of the Lord
                 now, depend upon obedience to Him; then it was obedience to the
                 Law, now it is obedience to Grace)
@@ -416,7 +416,7 @@ export default function Deuteronmy23() {
           will surely require it of you; and it would be sin in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont vow if you dont intend to pay it, because God is going to
                 collect the vow in one way or the other; it is the same thing
                 presently with Tithes; every Christian pays Tithes, whether
@@ -433,7 +433,7 @@ export default function Deuteronmy23() {
           shall be no sin in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no one is under any obligation to vow, this is to be a purely
                 voluntary act)
               </span>
@@ -450,7 +450,7 @@ export default function Deuteronmy23() {
           mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our word is to be the same as the Word of the Lord, at least as
                 it regards integrity and veracity)
               </span>
@@ -466,7 +466,7 @@ export default function Deuteronmy23() {
           you shall not put any in your vessel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (eat all you want, but dont take any with you, because the
                 grapes belong to someone else)
               </span>
@@ -480,14 +480,14 @@ export default function Deuteronmy23() {
           <sup className="calibre7">25</sup>When you come into the standing corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           of your neighbour, then you may pluck the ears with your hand; but you
           shall not move a sickle unto your neighbours standing corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (complete honesty is demanded at all times)
               </span>
             </span>

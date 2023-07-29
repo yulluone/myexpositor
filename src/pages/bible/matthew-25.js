@@ -40,7 +40,7 @@ export default function Matthew25() {
           , and went forth to meet the bridegroom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>
           .
@@ -135,7 +135,7 @@ export default function Matthew25() {
           Behold, the bridegroom cometh; go ye out to meet him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture of the Church)</span>
+              <span className="explanation">(the Rapture of the Church)</span>
             </span>
           </span>
           .
@@ -162,7 +162,7 @@ export default function Matthew25() {
           Give us of your oil; for our lamps are gone out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(its too late now!)</span>
+              <span className="explanation">(its too late now!)</span>
             </span>
           </span>
           .
@@ -288,7 +288,7 @@ export default function Matthew25() {
           several ability; and straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           took his journey{" "}
@@ -348,7 +348,7 @@ export default function Matthew25() {
           digged in the earth, and hid his lords money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he wasnt faithful)</span>
+              <span className="explanation">(he wasnt faithful)</span>
             </span>
           </span>
           .
@@ -415,7 +415,7 @@ export default function Matthew25() {
           gained two other talents beside them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(faithfulness as well!)</span>
+              <span className="explanation">(faithfulness as well!)</span>
             </span>
           </span>
           .
@@ -596,7 +596,7 @@ export default function Matthew25() {
           the Throne of His glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>
           :
@@ -764,7 +764,7 @@ export default function Matthew25() {
           the left hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the goat nations)</span>
+              <span className="explanation">(the goat nations)</span>
             </span>
           </span>
           , Depart from Me, you cursed, into everlasting fire, prepared for the

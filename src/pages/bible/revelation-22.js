@@ -156,7 +156,7 @@ export default function Revelation22() {
           <sup className="calibre7">4</sup>And they shall see His face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shows intimate relationship)</span>
+              <span className="explanation">(shows intimate relationship)</span>
             </span>
           </span>
           ; and His Name{" "}
@@ -542,13 +542,13 @@ export default function Revelation22() {
           dogs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(homosexuals)</span>
+              <span className="explanation">(homosexuals)</span>
             </span>
           </span>
           , and sorcerers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(witchcraft)</span>
+              <span className="explanation">(witchcraft)</span>
             </span>
           </span>
           , and whoremongers{" "}

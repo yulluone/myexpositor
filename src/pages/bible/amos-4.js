@@ -17,7 +17,7 @@ export default function Amos4() {
           crush the needy, which say to their masters, Bring, and let us drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Hear this word, you kine of Bashan, pertains to the
                 rich pastureland east of Jordan, where cattle there fed became
                 strong and fat. The Nobles of Samaria are compared to them here.
@@ -60,7 +60,7 @@ export default function Amos4() {
           you away with hooks, and your posterity with fishhooks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture addresses the Assyrian Monarch, who, upon
                 subjugating an enemy, passed hooks through the lower lips of
                 their captives and thus led them away to slavery. This would
@@ -77,7 +77,7 @@ export default function Amos4() {
           the palace, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They will be led forth, not through the gates of the city of
                 Samaria, but through its broken walls; they will go quietly and
                 in a straight line so as to mitigate the pain of their tortured
@@ -106,7 +106,7 @@ export default function Amos4() {
           liketh you, O you children of Israel, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The invitation of{" "}
                 <ScrollLink href="/" scrollToId="#filepos10177080">
                   <span className="calibre_19">
@@ -142,7 +142,7 @@ export default function Amos4() {
           have you not returned unto Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this and the following Verses, the Holy Spirit through the
                 Prophet sets forth instances of judgment which He had sent at
                 various times to correct Israel. The phrase, Yet have you not
@@ -162,7 +162,7 @@ export default function Amos4() {
           rained not withered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this proclaims the Lord having total control, as should
                 be obvious!)
               </span>
@@ -177,7 +177,7 @@ export default function Amos4() {
           not returned unto Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase used again, Yet have you not returned unto Me, says
                 the LORD, has reference to the fact that while they were
                 staggering from one city to another in order to find water,
@@ -196,7 +196,7 @@ export default function Amos4() {
           not returned unto Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord dealt with Israel with famine, drought, and now
                 blight, but to no avail!)
               </span>
@@ -213,7 +213,7 @@ export default function Amos4() {
           Me, sa ys the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I have sent among you the pestilence after the manner of Egypt,
                 has no reference to the plague of{" "}
                 <ScrollLink href="/exodus-09" scrollToId="#filepos781369">
@@ -239,7 +239,7 @@ export default function Amos4() {
           out of the burning: yet have you not returned unto Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And you were as a firebrand plucked out of the burning, refers
                 to the fact that it was only the Mercy of God which stopped the
                 destruction short of total; but impenitence was the unchanging
@@ -256,7 +256,7 @@ export default function Amos4() {
           O Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a consequence, they are now warned of a Supreme Judgment
                 that is, to meet God Himself. Prepare to meet your God, O
                 Israel, means to make ready to meet God in Judgment, turning to
@@ -275,7 +275,7 @@ export default function Amos4() {
           Earth, The LORD, The God of Hosts, is His Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Majesty of God is set forth in this Scripture. The
                 mountains may be seen; the wind, unseen; mans thought, unread;
                 day and night, unchangeable; and the revolution of the Earth in

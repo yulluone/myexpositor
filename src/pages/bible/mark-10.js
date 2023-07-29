@@ -15,13 +15,13 @@ export default function Mark10() {
           <sup className="calibre7">1</sup>And He arose from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Capernaum)</span>
+              <span className="explanation">(from Capernaum)</span>
             </span>
           </span>
           , and cometh into the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Judaea by the farther side of Jordan{" "}
@@ -45,7 +45,7 @@ export default function Mark10() {
           ; and, as He was wont{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accustomed to doing)</span>
+              <span className="explanation">(accustomed to doing)</span>
             </span>
           </span>
           , He taught them again{" "}
@@ -190,7 +190,7 @@ export default function Mark10() {
           <sup className="calibre7">8</sup>And they twain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(two)</span>
+              <span className="explanation">(two)</span>
             </span>
           </span>{" "}
           shall be one flesh{" "}
@@ -290,7 +290,7 @@ export default function Mark10() {
           , Whosoever shall put away his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to divorce)</span>
+              <span className="explanation">(refers to divorce)</span>
             </span>
           </span>
           , and marry another, commits adultery against her{" "}
@@ -311,7 +311,7 @@ export default function Mark10() {
           husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(divorce)</span>
+              <span className="explanation">(divorce)</span>
             </span>
           </span>
           , and be married to another, she commits adultery{" "}
@@ -440,7 +440,7 @@ export default function Mark10() {
           Hands upon them, and blessed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He blessed them fervently)</span>
+              <span className="explanation">(He blessed them fervently)</span>
             </span>
           </span>
           .
@@ -793,7 +793,7 @@ export default function Mark10() {
           now in this time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to this present life)</span>
+              <span className="explanation">(refers to this present life)</span>
             </span>
           </span>
           , houses, and brethren, and sisters, and mothers, and children, and
@@ -885,7 +885,7 @@ export default function Mark10() {
           . And He took again the twelve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(apart from the others)</span>
+              <span className="explanation">(apart from the others)</span>
             </span>
           </span>
           , and began to tell them what things should happen unto Him{" "}
@@ -921,7 +921,7 @@ export default function Mark10() {
           unto the Scribes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(betrayed by Judas)</span>
+              <span className="explanation">(betrayed by Judas)</span>
             </span>
           </span>
           ; and they shall condemn Him to death{" "}
@@ -935,7 +935,7 @@ export default function Mark10() {
           , and shall deliver Him to the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Romans)</span>
+              <span className="explanation">(to the Romans)</span>
             </span>
           </span>
           :
@@ -955,7 +955,7 @@ export default function Mark10() {
           , and shall kill Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Crucifixion)</span>
+              <span className="explanation">(the Crucifixion)</span>
             </span>
           </span>
           : and the third day He shall rise again{" "}
@@ -1146,7 +1146,7 @@ export default function Mark10() {
           over the Gentiles exercise lordship over them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the way of the world)</span>
+              <span className="explanation">(the way of the world)</span>
             </span>
           </span>
           ; and their great ones exercise authority upon them{" "}
@@ -1174,7 +1174,7 @@ export default function Mark10() {
           : but whosoever will be great among you, shall be your minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(servant)</span>
+              <span className="explanation">(servant)</span>
             </span>
           </span>
           :
@@ -1186,7 +1186,7 @@ export default function Mark10() {
           chiefest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hold the greater position)</span>
+              <span className="explanation">(hold the greater position)</span>
             </span>
           </span>
           , shall be servant of all{" "}
@@ -1215,7 +1215,7 @@ export default function Mark10() {
           , but to minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be a servant)</span>
+              <span className="explanation">(be a servant)</span>
             </span>
           </span>
           , and to give His life a ransom for many{" "}

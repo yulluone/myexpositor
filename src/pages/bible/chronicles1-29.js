@@ -20,7 +20,7 @@ export default function Chronicles129() {
           man, but for the LORD God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Verses continue the account of what David said to the
                 whole congregation respecting his son Solomon.)
               </span>
@@ -38,7 +38,7 @@ export default function Chronicles129() {
           all manner of precious stones, and marble stones in abundance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Davids preparation was never for himself, but for God; however,
                 if the Lord is put first, then blessings will come to such an
                 individual [
@@ -64,7 +64,7 @@ export default function Chronicles129() {
           above all that I have prepared for the Holy House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in todays inflationary dollar, David would have personally
                 given over $10 billion for the construction of the Temple [the
                 cost of the Temple would be over $1 trillion in 2004 currency])
@@ -81,7 +81,7 @@ export default function Chronicles129() {
           overlay the walls of the houses withal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is among that which was given personally by David)
               </span>
             </span>
@@ -97,7 +97,7 @@ export default function Chronicles129() {
           service this day unto the LORD?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Our service to God is to always be on a voluntary basis. As
                 well, the Lord accepts the consecration of all, both small and
                 great. As God has freely given to us, will we freely give to
@@ -122,7 +122,7 @@ export default function Chronicles129() {
           and one hundred thousand talents of iron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they gave freely!)</span>
+              <span className="explanation">(they gave freely!)</span>
             </span>
           </span>
         </span>
@@ -142,7 +142,7 @@ export default function Chronicles129() {
           willingly to the LORD: and David the king also rejoiced with great joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words perfect heart specify that their motivation was not
                 one of greed; such giving always elicits great joy!)
               </span>
@@ -161,7 +161,7 @@ export default function Chronicles129() {
           of Israel our father, for ever and ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the majesty of this prayer includes adoration, acknowledgment
                 of the inherent nature of human dependence, self-humiliation,
                 confession, dedication of all the offerings, and prayer both for
@@ -180,7 +180,7 @@ export default function Chronicles129() {
           O LORD, and You are exalted as Head above all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (similar to the Lords prayer [
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10907028">
                   <span className="calibre_19">
@@ -216,7 +216,7 @@ export default function Chronicles129() {
           things come of You, and of Your Own have we given You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though they gave liberally to the Work of God, it was what
                 God had given to them in the first place, as it is with all of
                 us)
@@ -249,7 +249,7 @@ export default function Chronicles129() {
           willingly unto You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it may very well be possible that the stress with which David
                 says here, I know, has its special cause; the thought of God as
                 One Who tries the heart is one often brought out in Davids
@@ -267,7 +267,7 @@ export default function Chronicles129() {
           thoughts of the heart of Your people, and prepare their heart unto You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (constantly keep the thoughts of the Lord in our imagination and
                 our heart)
               </span>
@@ -292,7 +292,7 @@ export default function Chronicles129() {
           worshipped the LORD, and the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David worshipped, as well!)</span>
+              <span className="explanation">(David worshipped, as well!)</span>
             </span>
           </span>
         </span>
@@ -307,7 +307,7 @@ export default function Chronicles129() {
           abundance for all Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (most probably, these Sacrifices were offered on the
                 threshingfloor of Araunah, the Jebusite, where the Temple would
                 be built. All is ever anchored in Calvary. All the gold and
@@ -347,7 +347,7 @@ export default function Chronicles129() {
           LORD on that day with great gladness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whenever our worship is anchored in Calvary, there will always
                 be great gladness)
               </span>
@@ -358,7 +358,7 @@ export default function Chronicles129() {
           Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the second anointing has reference to the first anointing, as
                 is outlined in I Ki., Chpt.{" "}
                 <ScrollLink href="/kings1-01" scrollToId="#filepos3675677">
@@ -396,7 +396,7 @@ export default function Chronicles129() {
           royal majesty as had not been on any king before him in Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Solomon, but more particularly of the Greater than
                 Solomon, the Lord Jesus Christ, which will come to pass in the
                 coming Kingdom Age)
@@ -428,7 +428,7 @@ export default function Chronicles129() {
           of days, riches, and honour: and Solomon his son reigned in his stead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So concluded the life of one of the greatest men of God who
                 ever lived. David wrote over half the Psalms, and he was given
                 the plans for the Temple, which would be the greatest building
@@ -471,7 +471,7 @@ export default function Chronicles129() {
           kingdoms of the countries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And yet, his greatest time is yet to come. I speak of the
                 coming Kingdom Age, when David will rule and reign over all of
                 Israel, directly under the Lord Jesus Christ [

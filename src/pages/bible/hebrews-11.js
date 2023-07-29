@@ -15,13 +15,13 @@ export default function Hebrews11() {
           <sup className="calibre7">1</sup>Now Faith is the substance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the title deed)</span>
+              <span className="explanation">(the title deed)</span>
             </span>
           </span>{" "}
           of things hoped for{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a declaration of the action of Faith)
               </span>
             </span>
@@ -29,7 +29,7 @@ export default function Hebrews11() {
           , the evidence of things not seen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith is not based upon the senses, which yield uncertainty,
                 but rather on the Word of God.)
               </span>
@@ -42,7 +42,7 @@ export default function Hebrews11() {
           <sup className="calibre7">2</sup>For by it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by Faith, and as we shall see, it is Faith in the Cross)
               </span>
             </span>
@@ -50,7 +50,7 @@ export default function Hebrews11() {
           the Elders obtained a good report{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the approval of the Lord)</span>
+              <span className="explanation">(the approval of the Lord)</span>
             </span>
           </span>
           .
@@ -62,7 +62,7 @@ export default function Hebrews11() {
           worlds were framed by the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Creation, along with everything that goes with
                 Creation)
               </span>
@@ -72,7 +72,7 @@ export default function Hebrews11() {
           appear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God began with nothing, thereby, speaking into existence the
                 things needed to create the universe.)
               </span>
@@ -89,7 +89,7 @@ export default function Hebrews11() {
           excellent sacrifice than Cain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (immediately proclaims the fact that the Object of our Faith
                 must be Jesus Christ and Him Crucified [
                 <ScrollLink
@@ -109,7 +109,7 @@ export default function Hebrews11() {
           , by which he obtained witness that he was Righteous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that Righteousness comes exclusively from
                 Christ, and is obtained by the Cross being the Object of our
                 Faith)
@@ -119,7 +119,7 @@ export default function Hebrews11() {
           , God testifying of his gifts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referring to the fact that the sacrifice of the lamb which
                 represented Christ was accepted by God; at the dawn of time it
                 was the Cross, and it is still the Cross)
@@ -129,7 +129,7 @@ export default function Hebrews11() {
           : and by it he being dead yet speaks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of that alone God will accept)
               </span>
             </span>
@@ -143,7 +143,7 @@ export default function Hebrews11() {
           should not see death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to God transferring Enoch to Heaven in his physical body
                 while he was yet alive)
               </span>
@@ -152,7 +152,7 @@ export default function Hebrews11() {
           ; and was not found, because God had translated him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to his translation being well-known at that time)
               </span>
             </span>
@@ -161,7 +161,7 @@ export default function Hebrews11() {
           God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He pleased God because he placed his Faith exclusively in
                 Christ and the Cross.)
               </span>
@@ -174,7 +174,7 @@ export default function Hebrews11() {
           <sup className="calibre7">6</sup>But without Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in Christ and the Cross; anytime Faith is mentioned, always and
                 without exception, its root meaning is that its Object is Christ
                 and the Cross; otherwise, it is faith God will not accept)
@@ -190,7 +190,7 @@ export default function Hebrews11() {
               <span className="calibre_19">Him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (faith in anything other than Christ and the Cross greatly
                 displeases the Lord)
               </span>
@@ -199,7 +199,7 @@ export default function Hebrews11() {
           : for he who comes to God must believe that He is{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places Faith as the foundation and principle of the manner in
                 which God deals with the human race)
               </span>
@@ -214,13 +214,13 @@ export default function Hebrews11() {
           He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           is a rewarder of them who diligently seek Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seek Him on the premise of Christ and Him Crucified)
               </span>
             </span>
@@ -234,7 +234,7 @@ export default function Hebrews11() {
           things not seen as yet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord told Noah He was going to send a flood upon the Earth)
               </span>
             </span>
@@ -242,13 +242,13 @@ export default function Hebrews11() {
           , moved with fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stand in awe)</span>
+              <span className="explanation">(stand in awe)</span>
             </span>
           </span>
           , prepared an ark to the saving of his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him doing exactly what God told him to do)
               </span>
             </span>
@@ -256,7 +256,7 @@ export default function Hebrews11() {
           ; by the which he condemned the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Righteousness of Christ always clashes with
                 self-righteousness)
               </span>
@@ -265,7 +265,7 @@ export default function Hebrews11() {
           , and became heir of the Righteousness which is by Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith in Christ and the Cross)
               </span>
             </span>
@@ -283,7 +283,7 @@ export default function Hebrews11() {
           inheritance, obeyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his posterity would receive the inheritance)
               </span>
             </span>
@@ -291,7 +291,7 @@ export default function Hebrews11() {
           ; and he went out, not knowing whither he went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While he knew where to go [Canaan], he knew nothing about the
                 place.)
               </span>
@@ -305,7 +305,7 @@ export default function Hebrews11() {
           Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek says the Land of the Promise, speaking of a
                 particular Promise)
               </span>
@@ -320,7 +320,7 @@ export default function Hebrews11() {
           a strange country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he lived in this land not as its owner, but as a resident
                 alien)
               </span>
@@ -330,7 +330,7 @@ export default function Hebrews11() {
           the same Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what God promised to Abraham, He promised as well to those who
                 would follow him, including us presently)
               </span>
@@ -345,7 +345,7 @@ export default function Hebrews11() {
           foundations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham knew all of this would lead to something Heavenly)
               </span>
             </span>
@@ -359,7 +359,7 @@ export default function Hebrews11() {
           God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This actually refers to Christ as the great Architect,
                 Designer, and Fabricator of all material creations [
                 <ScrollLink href="/john-01" scrollToId="#filepos12285524">
@@ -397,13 +397,13 @@ export default function Hebrews11() {
           received strength to conceive seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this speaks of Isaac)</span>
+              <span className="explanation">(this speaks of Isaac)</span>
             </span>
           </span>
           , and was delivered of a child when she was past age{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (her bringing forth this child had to do with the coming
                 Redeemer, the Lord Jesus Christ, Who would die on the Cross in
                 order to Redeem lost humanity)
@@ -413,13 +413,13 @@ export default function Hebrews11() {
           , because she judged Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           Faithful Who had promised.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While we arent always faithful, God is always faithful.)
               </span>
             </span>
@@ -432,7 +432,7 @@ export default function Hebrews11() {
           and him as good as dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the hopelessness of Abrahams situation, which brought
                 forth the multitude; God did exactly what He said He would do!)
               </span>
@@ -448,7 +448,7 @@ export default function Hebrews11() {
           sea shore innumerable.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (True Faith is immeasurable and, thereby, brings forth
                 immeasurable results.)
               </span>
@@ -461,7 +461,7 @@ export default function Hebrews11() {
           <sup className="calibre7">13</sup>These all died in Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (believing Christ would come and would pay the price in order
                 that humanity might be redeemed)
               </span>
@@ -470,7 +470,7 @@ export default function Hebrews11() {
           , not having received the Promises{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ did not come in their lifetimes)
               </span>
             </span>
@@ -478,7 +478,7 @@ export default function Hebrews11() {
           , but having seen them afar off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they continued to believe, despite the fact that the Promises
                 were afar off)
               </span>
@@ -490,7 +490,7 @@ export default function Hebrews11() {
               <span className="calibre_19">them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they traded that which they could see for that which they could
                 not see),
               </span>
@@ -502,7 +502,7 @@ export default function Hebrews11() {
               <span className="calibre_19">them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they claimed these Promises as their own, even though they were
                 afar off),
               </span>
@@ -511,7 +511,7 @@ export default function Hebrews11() {
           and confessed that they were strangers and pilgrims on the earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is the same with modern Believers.)
               </span>
             </span>
@@ -524,7 +524,7 @@ export default function Hebrews11() {
           plainly that they seek a country.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to that which is not here, and has no reference to
                 that which is here.)
               </span>
@@ -544,13 +544,13 @@ export default function Hebrews11() {
           from whence they came out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they never looked back)</span>
+              <span className="explanation">(they never looked back)</span>
             </span>
           </span>
           , they might have had opportunity to have returned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It never occurred to them to go back to the old life. They had
                 received a vision of Jesus, and the things of the world had lost
                 their glow.)
@@ -564,7 +564,7 @@ export default function Hebrews11() {
           <sup className="calibre7">16</sup>But now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since the vision)</span>
+              <span className="explanation">(since the vision)</span>
             </span>
           </span>{" "}
           they desire a better{" "}
@@ -576,7 +576,7 @@ export default function Hebrews11() {
           that is, an Heavenly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this is attainable only through and by what Jesus did at
                 the Cross, and our Faith in that Finished Work)
               </span>
@@ -585,7 +585,7 @@ export default function Hebrews11() {
           : wherefore God is not ashamed to be called their God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because they have commended themselves to God by their Faith)
               </span>
             </span>
@@ -593,7 +593,7 @@ export default function Hebrews11() {
           : for He has prepared for them a city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not that He will, but that He has already done so)
               </span>
             </span>
@@ -607,7 +607,7 @@ export default function Hebrews11() {
           offered up Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though God stopped the event, in the mind of Abraham it
                 was already done)
               </span>
@@ -619,7 +619,7 @@ export default function Hebrews11() {
               <span className="calibre_19">son</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord had already told Abraham He would send the Redeemer
                 into this world in order to redeem mankind, but now He shows the
                 Patriarch how it was to be done, which was by death, i.e.,
@@ -635,7 +635,7 @@ export default function Hebrews11() {
           shall your seed be called{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the posterity of Abraham was to be
                 named after Isaac, not Ishmael [
                 <ScrollLink href="/genesis-21" scrollToId="#filepos275508">
@@ -669,7 +669,7 @@ export default function Hebrews11() {
           up, even from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord had told Abraham to offer up Isaac as a Sacrifice; the
                 Patriarch proceeded to obey, which God stopped at the last
                 minute; but in his mind, he had already offered up Isaac,
@@ -681,7 +681,7 @@ export default function Hebrews11() {
           ; from whence also he received him in a figure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Greek actually says, and figuratively speaking, he did
                 receive Isaac back from death.)
               </span>
@@ -695,7 +695,7 @@ export default function Hebrews11() {
           Esau concerning things to come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac blessed his two sons because his Faith looked beyond
                 death.)
               </span>
@@ -709,7 +709,7 @@ export default function Hebrews11() {
           blessed both the sons of Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to Manasseh and Ephraim, both born to Joseph in Egypt)
               </span>
             </span>
@@ -717,7 +717,7 @@ export default function Hebrews11() {
           ; and worshipped{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and for many reasons, but primarily because of the Redeemer Who
                 was going to come through his posterity)
               </span>
@@ -732,7 +732,7 @@ export default function Hebrews11() {
           upon the top of his staff.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (On this staff was carved all the great happenings of the past
                 years, which, in effect, was the Word of God. So, he was leaning
                 on the Word of God.)
@@ -747,7 +747,7 @@ export default function Hebrews11() {
           mention of the departing of the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he knew what God had in store for Israel)
               </span>
             </span>
@@ -755,7 +755,7 @@ export default function Hebrews11() {
           ; and gave Commandment concerning his bones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was in Egypt when he died, but his heart was in Canaan. When
                 the Children of Israel would be delivered from Egypt in the
                 future, which they were, they would take the bones of Joseph
@@ -777,7 +777,7 @@ export default function Hebrews11() {
           a proper child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek says, he was comely with respect to God)
               </span>
             </span>
@@ -785,7 +785,7 @@ export default function Hebrews11() {
           ; and they were not afraid of the kings commandment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh had mandated that all male children of the Israelites
                 be killed at birth. They felt God would protect their child,
                 which He did!)
@@ -803,7 +803,7 @@ export default function Hebrews11() {
           years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him coming to the age of 40 [
                 <ScrollLink href="/exodus-02" scrollToId="#filepos696954">
                   <span className="calibre_19">
@@ -819,7 +819,7 @@ export default function Hebrews11() {
           , refused to be called the son of Pharaohs daughter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, he refused the position of Pharaoh of Egypt, for
                 which he had been trained because he had been adopted by
                 Pharaohs daughter)
@@ -835,7 +835,7 @@ export default function Hebrews11() {
           with the people of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the choice Moses made; He traded the temporal for the
                 Eternal)
               </span>
@@ -844,7 +844,7 @@ export default function Hebrews11() {
           , than to enjoy the pleasures of sin for a season{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the choice which must be made, affliction or the
                 pleasures of sin)
               </span>
@@ -859,7 +859,7 @@ export default function Hebrews11() {
           greater riches than the treasures in Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he judged the reproach was greater than the throne of Egypt)
               </span>
             </span>
@@ -867,7 +867,7 @@ export default function Hebrews11() {
           : for he had respect unto the recompence of the reward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses habitually looked away from the treasures in Egypt, and
                 purposely fixed his eye on the Heavenly Reward.)
               </span>
@@ -880,7 +880,7 @@ export default function Hebrews11() {
           <sup className="calibre7">27</sup>By Faith he forsook Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which, spiritually speaking, every Believer must do)
               </span>
             </span>
@@ -888,7 +888,7 @@ export default function Hebrews11() {
           , not fearing the wrath of the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh tried to kill him at that time [
                 <ScrollLink href="/exodus-02" scrollToId="#filepos698359">
                   <span className="calibre_19">
@@ -904,7 +904,7 @@ export default function Hebrews11() {
           : for he endured, as seeing Him Who is invisible.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Christ, Whom Moses saw by Faith.)
               </span>
             </span>
@@ -916,7 +916,7 @@ export default function Hebrews11() {
           <sup className="calibre7">28</sup>Through Faith he kept the Passover{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he instituted the Passover according to the Word of
                 the Lord,)
               </span>
@@ -925,7 +925,7 @@ export default function Hebrews11() {
           , and the sprinkling of Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to the Blood of the Paschal Lamb on the lintels and
                 doorposts of the houses [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos843168">
@@ -942,7 +942,7 @@ export default function Hebrews11() {
           , lest He Who destroyed the firstborn should touch them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every Israelites house was safe that night because of the blood
                 being applied to the doorposts, a Type of the Blood of Christ
                 applied to our hearts, which stops the Judgment of God.)
@@ -959,7 +959,7 @@ export default function Hebrews11() {
           <sup className="calibre7">29</sup>By Faith they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Children of Israel)</span>
+              <span className="explanation">(the Children of Israel)</span>
             </span>
           </span>{" "}
           passed through the Red Sea as by dry{" "}
@@ -968,7 +968,7 @@ export default function Hebrews11() {
               <span className="calibre_19">land</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that body of water becoming a temple to Israel, but a
                 tomb to Egypt; the Faith that sprinkled the blood and the
                 unbelief that refused its shelter fixed this great gulf between
@@ -979,7 +979,7 @@ export default function Hebrews11() {
           : which the Egyptians assaying to do were drowned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God, Who opened the Red Sea for the Israelites, closed it on
                 the Egyptians, thereby destroying their army.)
               </span>
@@ -993,7 +993,7 @@ export default function Hebrews11() {
           down, after they were compassed about seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims obedience)</span>
+              <span className="explanation">(proclaims obedience)</span>
             </span>
           </span>
           .
@@ -1005,7 +1005,7 @@ export default function Hebrews11() {
           not with them who believed not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while Jericho was totally destroyed, Rahab was spared because
                 of her Faith in the God of Israel)
               </span>
@@ -1014,7 +1014,7 @@ export default function Hebrews11() {
           , when she had received the spies with peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (She found out who they were, and instead of turning them over
                 to the King of Jericho, she sought to know Israels God.)
               </span>
@@ -1030,7 +1030,7 @@ export default function Hebrews11() {
           <sup className="calibre7">32</sup>And what shall I more say?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that enough has now been said to guide
                 all who are willing to search the Scriptures for themselves.)
               </span>
@@ -1089,7 +1089,7 @@ export default function Hebrews11() {
           they might obtain a better Resurrection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Resurrection afforded by Christ)
               </span>
             </span>
@@ -1115,7 +1115,7 @@ export default function Hebrews11() {
           in sheepskins and goatskins; being destitute, afflicted, tormented{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith in Christ and the Cross guarantees Miracles of
                 Deliverance, or Miracles of Endurance if that is, in fact, what
                 the Lord desires; it can be done no other way!)
@@ -1130,7 +1130,7 @@ export default function Hebrews11() {
           <sup className="calibre7">38</sup>(Of whom the world was not worthy:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that the few true Christians in this
                 world are of far greater worth than all the balance of the world
                 put together, and in every sense.)
@@ -1152,7 +1152,7 @@ export default function Hebrews11() {
           dens and caves of the earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the lot of some Believers; not all of the time,
                 but some of the time.)
               </span>
@@ -1165,13 +1165,13 @@ export default function Hebrews11() {
           <sup className="calibre7">39</sup>And these all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Old Testament Saints)</span>
+              <span className="explanation">(Old Testament Saints)</span>
             </span>
           </span>
           , having obtained a good report through Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to being Judged accordingly by the Holy Spirit)
               </span>
             </span>
@@ -1179,7 +1179,7 @@ export default function Hebrews11() {
           , received not the Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Messiah didnt come during their times, but they had Faith
                 He ultimately would come, and so He did!)
               </span>
@@ -1194,7 +1194,7 @@ export default function Hebrews11() {
           thing for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which God had originally promised to Abraham [
                 <ScrollLink href="/genesis-22" scrollToId="#filepos294051">
                   <span className="calibre_19">
@@ -1210,19 +1210,19 @@ export default function Hebrews11() {
           , that they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Old Testament Saints)</span>
+              <span className="explanation">(Old Testament Saints)</span>
             </span>
           </span>{" "}
           without us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church)</span>
+              <span className="explanation">(the Church)</span>
             </span>
           </span>{" "}
           should not be made perfect.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This lays the stress on Christ Who made it all possible for
                 both the Old Testament and the New Testament Saints.)
               </span>

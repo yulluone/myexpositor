@@ -16,7 +16,7 @@ export default function Deuteronmy32() {
           speak; and hear, O Earth, the Words of My Mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (both Heaven and Earth are called to account, because this song
                 affects both)
               </span>
@@ -32,7 +32,7 @@ export default function Deuteronmy32() {
           herb, and as the showers upon the grass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word of the Lord always brings prosperity)
               </span>
             </span>
@@ -46,7 +46,7 @@ export default function Deuteronmy32() {
           the LORD: ascribe ye greatness unto our God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the Greatness of God as the Almighty that is celebrated
                 here)
               </span>
@@ -62,7 +62,7 @@ export default function Deuteronmy32() {
           Just and Right is He.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Five times in this Song Jehovah is praised as the Rock [
                 <ScrollLink href="/" scrollToId="#filepos2435202">
                   <span className="calibre_19">
@@ -125,7 +125,7 @@ export default function Deuteronmy32() {
           generation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel claimed to be the Children of God, but they were not;
                 they were rather a stain and a reproach [
                 <ScrollLink href="/isaiah-01" scrollToId="#filepos7263547">
@@ -146,7 +146,7 @@ export default function Deuteronmy32() {
           <sup className="calibre7">6</sup>Do ye thus requite the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (repay Him for His Blessings by corrupting yourselves)
               </span>
             </span>
@@ -170,7 +170,7 @@ export default function Deuteronmy32() {
           Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (long before there was an Israel, the Lord was planning for
                 them)
               </span>
@@ -185,7 +185,7 @@ export default function Deuteronmy32() {
           Jacob is the lot of His Inheritance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord measured out the inheritance of Israel, and did it
                 Personally)
               </span>
@@ -201,7 +201,7 @@ export default function Deuteronmy32() {
           He kept him as the Apple of His Eye{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this must be taken as indicating that Israel is ever in the Eye
                 of the Lord, the object of His constant and tenderest care)
               </span>
@@ -223,7 +223,7 @@ export default function Deuteronmy32() {
           there was no strange god with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel must admit that none of the strange gods worshipped by
                 the heathen had anything to do with what the Lord Alone had done
                 for them)
@@ -240,7 +240,7 @@ export default function Deuteronmy32() {
           made him to suck honey out of the rock, and oil out of the flinty rock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(blessings)</span>
+              <span className="explanation">(blessings)</span>
             </span>
           </span>
           ;
@@ -251,7 +251,7 @@ export default function Deuteronmy32() {
           <sup className="calibre7">14</sup>Butter of kine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cattle)</span>
+              <span className="explanation">(cattle)</span>
             </span>
           </span>
           , and milk of sheep, with fat of lambs, and rams of the breed of
@@ -259,7 +259,7 @@ export default function Deuteronmy32() {
           the pure blood of the grape.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This does not speak of fermented wine, as some claim. What they
                 esteemed as a luxury was the pure unadulterated juice of the
                 grape, freshly pressed out and drunk with the foam on it.{" "}
@@ -282,7 +282,7 @@ export default function Deuteronmy32() {
           <sup className="calibre7">15</sup>But Jeshurun waxed fat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeshurun means righteous; He predicts that Israel will fall
                 into a state, the opposite of that to which it was destined)
               </span>
@@ -293,7 +293,7 @@ export default function Deuteronmy32() {
           the Rock of his Salvation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos2439669">
                   <span className="calibre_19">
@@ -315,7 +315,7 @@ export default function Deuteronmy32() {
           strange gods, with abominations provoked they Him to anger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sinners in the hands of an angry God)
               </span>
             </span>
@@ -328,14 +328,14 @@ export default function Deuteronmy32() {
           <sup className="calibre7">17</sup>They sacrificed unto devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , not to God; to gods whom they knew not, to new gods that came newly
           up, whom your fathers feared not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gods recently invented or discovered)
               </span>
             </span>
@@ -349,7 +349,9 @@ export default function Deuteronmy32() {
           unmindful, and have forgotten God Who formed you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rebelled against their Maker)</span>
+              <span className="explanation">
+                (rebelled against their Maker)
+              </span>
             </span>
           </span>
         </span>
@@ -360,7 +362,7 @@ export default function Deuteronmy32() {
           <sup className="calibre7">19</sup>And when the LORD saw it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(saw the idols)</span>
+              <span className="explanation">(saw the idols)</span>
             </span>
           </span>
           , He abhorred them, because of the provoking of His Sons, and of His
@@ -374,7 +376,7 @@ export default function Deuteronmy32() {
           froward generation, children in whom is no faith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse contemplates the period between the Captivity in
                 Babylon and the Advent of the Messiah. They had faith all right,
                 but it was in the wrong thing, their own religion. It is the
@@ -392,7 +394,7 @@ export default function Deuteronmy32() {
           people; I will provoke them to anger with a foolish nation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse relates to the period of the Acts of the Apostles [
                 <ScrollLink href="/romans-10" scrollToId="#filepos13441038">
                   <span className="calibre_19">
@@ -414,7 +416,7 @@ export default function Deuteronmy32() {
           her increase, and set on fire the foundations of the mountains.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos2442450">
                   <span className="calibre_19">
@@ -436,7 +438,7 @@ export default function Deuteronmy32() {
           will spend My arrows upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Righteousness brings Blessings, wickedness brings Judgment)
               </span>
             </span>
@@ -459,7 +461,7 @@ export default function Deuteronmy32() {
           also with the man of gray hairs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has happened to Israel countless times in the last nearly 2,000
                 years, but more particularly during the Holocaust of World War
                 II)
@@ -475,7 +477,7 @@ export default function Deuteronmy32() {
           corners, I would make the remembrance of them to cease from among men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at least what they once had been)
               </span>
             </span>
@@ -489,7 +491,7 @@ export default function Deuteronmy32() {
           of the enemy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, That I should be provoked to wrath by the
                 enemy ascribing the destruction of Israel to their own prowess)
               </span>
@@ -498,14 +500,14 @@ export default function Deuteronmy32() {
           , lest their adversaries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israels adversaries)</span>
+              <span className="explanation">(Israels adversaries)</span>
             </span>
           </span>{" "}
           should behave themselves strangely, and lest they should say, Our hand
           is high, and the LORD has not done all this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the enemies of Israel should realize that they can only do to
                 Israel what God allows them to do; and to be sure, one day He
                 will turn on the enemies of Israel, and will do so with a fury
@@ -536,7 +538,7 @@ export default function Deuteronmy32() {
           understood this, that they would consider their latter end!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The end result of forsaking God.)
               </span>
             </span>
@@ -556,7 +558,7 @@ export default function Deuteronmy32() {
           even our enemies themselves being Judges{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Rock was Christ [
                 <ScrollLink
                   href="/corinthians1-10"
@@ -582,7 +584,7 @@ export default function Deuteronmy32() {
           their clusters are bitter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by using Sodom and Gomorrah as comparisons, the Lord is saying
                 that Israel is good for nothing but destruction)
               </span>
@@ -597,7 +599,7 @@ export default function Deuteronmy32() {
           and the cruel venom of asps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and this is said of Israel by the Lord; so we know now why they
                 crucified the Saviour)
               </span>
@@ -612,7 +614,7 @@ export default function Deuteronmy32() {
           Me, and sealed up among My treasures?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos2446373">
                   <span className="calibre_19">
@@ -636,7 +638,7 @@ export default function Deuteronmy32() {
           haste{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the coming Great Tribulation [
                 <ScrollLink href="/matthew-24" scrollToId="#filepos11227963">
                   <span className="calibre_19">
@@ -659,7 +661,7 @@ export default function Deuteronmy32() {
           gone, and there is none shut up, or left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is at the place of extermination, which they will be
                 under the Antichrist; then the Lord will, in effect, say, Its
                 enough!)
@@ -682,7 +684,7 @@ export default function Deuteronmy32() {
           up and help you, and be your protection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (of course, there will be none to help; this speaks of the
                 coming Battle of Armageddon)
               </span>
@@ -698,7 +700,7 @@ export default function Deuteronmy32() {
           heal: neither is there any who can deliver out of My Hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there is no God but Jehovah)</span>
+              <span className="explanation">(there is no God but Jehovah)</span>
             </span>
           </span>
         </span>
@@ -725,7 +727,7 @@ export default function Deuteronmy32() {
           enemy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the Battle of Armageddon, described in Ezekiel,{" "}
                 <ScrollLink href="/ezekiel-38" scrollToId="#filepos9564638">
                   <span className="calibre_19">
@@ -749,7 +751,7 @@ export default function Deuteronmy32() {
           to His People{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this pertains to the Second Coming, when the Lord will then
                 avenge the blood of His servants [
                 <ScrollLink href="/zechariah-14" scrollToId="#filepos10734616">
@@ -775,7 +777,7 @@ export default function Deuteronmy32() {
           words of this song in the ears of the people, he, and Hoshea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           the son of Nun.
@@ -802,7 +804,7 @@ export default function Deuteronmy32() {
           days in the land, where you go over Jordan to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses tells Israel that the entirety of their lives and living
                 were bound up in obedience to the Law; it is the same presently
                 with the Word of the Lord; but, sadly, the modern Church is
@@ -845,7 +847,7 @@ export default function Deuteronmy32() {
           children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sin of striking the Rock the second time instead of
                 speaking to it, as the Lord commanded, was actually a grievous
                 sin. The Rock typified Christ, Who would be smitten at Calvary
@@ -896,7 +898,7 @@ export default function Deuteronmy32() {
           Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As previously stated, the Law can never inherit the Promise. It
                 is not that the Law is unfavorable, but rather that man is
                 unable to render perfect Law-keeping [

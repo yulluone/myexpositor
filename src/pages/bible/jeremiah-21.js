@@ -17,7 +17,7 @@ export default function Jeremiah21() {
           Melchiah, and Zephaniah the son of Maaseiah the Priest, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8435053">
                   <span className="calibre_19">
@@ -65,7 +65,7 @@ export default function Jeremiah21() {
           that He may go up from us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, used by king Zedekiah, That the LORD will deal with
                 us according to all His wondrous works, portrays man using
                 religious language when he is in trouble and talking of Gods
@@ -109,7 +109,7 @@ export default function Jeremiah21() {
           shall you say to Zedekiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many men, when preaching before a king, are careful only to say
                 what the king would like to hear. But it was not thus with this
                 brave and faithful man of God. The Word of the Lord is the same
@@ -129,7 +129,7 @@ export default function Jeremiah21() {
           them into the midst of this city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The message is straight to the point! The Lord, instead of
                 fighting for His People, will fight rather against His People.)
               </span>
@@ -144,7 +144,7 @@ export default function Jeremiah21() {
           fury, and in great wrath.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every indication is that true Repentance at this late date,
                 even though always accepted by God, and which would have
                 definitely saved their souls, still, would not have effected a
@@ -162,7 +162,7 @@ export default function Jeremiah21() {
           this city, both man and beast: they shall die of a great pestilence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through His Prophet presents the Message in
                 crystal clarity. There is to be no misunderstanding as to what
                 the Lord intends; therefore, their rebellion is inexcusable. To
@@ -184,7 +184,7 @@ export default function Jeremiah21() {
           shall not spare them, neither have pity, nor have mercy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (King Zedekiah of Judah need not think that he can work a deal
                 with Nebuchadnezzar and, thereby, escape punishment! Actually,
                 there will be no pity or mercy shown whatsoever.)
@@ -200,7 +200,7 @@ export default function Jeremiah21() {
           way of death.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God, in His Love and Grace, has always offered life to these
                 stout rebels, even at the eleventh hour; however, the
                 deliverance guaranteed is far less than that originally
@@ -229,7 +229,7 @@ export default function Jeremiah21() {
           and his life shall be unto him for a prey.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, His life shall be unto him for a prey, refer to the
                 fact of losing both property and liberty, but not life. Some
                 accepted this offer. Those who believed and acted on this
@@ -262,7 +262,7 @@ export default function Jeremiah21() {
           into the hand of the king of Babylon, and he shall burn it with fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this time, Judah thinks she will be saved by Egypt.
                 Consequently, the entire energies of the city were spent in this
                 pursuit. They reasoned that inasmuch as the Temple was in their
@@ -283,7 +283,7 @@ export default function Jeremiah21() {
           of Judah, say, Hear you the Word of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zedekiah had repeatedly heard the word of men. It was prolific,
                 abundant, beautiful in its prose, and promising in its
                 application; however, it was a lie! Now, he is to hear the Word
@@ -302,7 +302,7 @@ export default function Jeremiah21() {
           burn that none can quench it, because of the evil of your doings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even at the time that the city was being besieged by the
                 Chaldeans, the rich kept oppressing and robbing the poor. God
                 pities the oppressed, and His fury burns like fire against the
@@ -320,7 +320,7 @@ export default function Jeremiah21() {
           habitations?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They have boastingly claimed that the Babylonian army cannot
                 take the city. The boast had come from king to people; however,
                 the boast was in opposition to the Word of the Lord. As such,
@@ -337,7 +337,7 @@ export default function Jeremiah21() {
           the forest thereof, and it shall devour all things round about it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To their questions, the Lord gives His answer. Instead of peace
                 and prosperity, He says, I will punish you according to the
                 fruit of your doings. This fruit was their opposition to the

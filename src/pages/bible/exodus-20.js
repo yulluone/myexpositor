@@ -17,7 +17,7 @@ export default function Exodus20() {
           <sup className="calibre7">1</sup>And God spoke all these words, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ten Commandments given by God to Moses on Mount Sinai are
                 the foundation of all law, at least law that is righteous, for
                 the entire world; it is the moral Law of God and, as such,
@@ -34,7 +34,7 @@ export default function Exodus20() {
           brought you out of the land of Egypt, out of the house of bondage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord doesnt appeal to the Israelites as Creator, even
                 though He definitely was that; He appealed to them as their
                 Deliverer; as a result, He was to be obeyed by His people from a
@@ -51,7 +51,7 @@ export default function Exodus20() {
           Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the manner in which this First Commandment is given indicates
                 that each individual of the nation is addressed severally, and
                 is required personally to obey the Law, a mere general national
@@ -85,7 +85,7 @@ export default function Exodus20() {
           them who love Me, and keep My Commandments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prohibition intended here does not forbid the arts of
                 sculpture, painting, photography, etc., or even to condemn the
                 use of them, but to disallow the worship of God under material
@@ -123,7 +123,7 @@ export default function Exodus20() {
           takes His Name in vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (taking the Name of the Lord in vain pertains to all blasphemy,
                 all swearing, all perjury and, in fact, all irreverent use of
                 Gods Name in ordinary life)
@@ -160,7 +160,7 @@ export default function Exodus20() {
           day: wherefore the LORD blessed the Sabbath Day, and hallowed it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The seventh day was not so much to be a day of worship, as we
                 think of such now, but rather a day of rest. Even the very
                 beasts, pressed into mans service since the Fall, shall rest.
@@ -197,7 +197,7 @@ export default function Exodus20() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (honoring the father and the mother sets the stage for the
                 honoring of God; the first five Commandments have to do with
                 mans obligation toward God, while the last five have to do with
@@ -213,7 +213,7 @@ export default function Exodus20() {
           <sup className="calibre7">13</sup>You shall not kill{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, Thou shalt do no murder; God, in
                 His Holy Word, commands magistrates to put evil men to death [
                 <ScrollLink href="/romans-13" scrollToId="#filepos13483545">
@@ -236,7 +236,7 @@ export default function Exodus20() {
           <sup className="calibre7">14</sup>You shall not commit adultery{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regarding this sin, both man and woman are placed in the same
                 category; our duty toward our neighbor is to respect the bond on
                 which the family is based, and that conjugal honor which to the
@@ -262,7 +262,7 @@ export default function Exodus20() {
           <sup className="calibre7">15</sup>You shall not steal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as it regards our neighbor, we are to respect his property; we
                 simply dont take that which doesnt belong to us)
               </span>
@@ -277,7 +277,7 @@ export default function Exodus20() {
           against your neighbour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (false witness is of two kinds, public and private; we may
                 either seek to damage our neighbor by giving false evidence
                 against him in a court of justice, or simply culminate him to
@@ -296,7 +296,7 @@ export default function Exodus20() {
           your neighbours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (covetousness addresses what causes the evil deed; this
                 Commandment teaches men that there is One Who sees the heart; to
                 Whose Eyes all things are naked and open; and Who cares far less
@@ -319,7 +319,7 @@ export default function Exodus20() {
           afar off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word saw in this Verse is a particular type of Hebrew verb
                 which means perceive, witness; in other words, no one of the
                 hundreds of thousands of the Children of Israel had any doubt as
@@ -336,7 +336,7 @@ export default function Exodus20() {
           with us, and we will hear: but let not God speak with us, lest we die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as powerful as was this manifestation, one far more powerful
                 was yet to be manifested, and we speak of the coming of Christ,
                 Who manifested the Father as He had not been manifested before)
@@ -353,7 +353,7 @@ export default function Exodus20() {
           your faces, that you sin not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord manifesting Himself in this fashion was not meant to
                 strike fear in the people, even though it definitely did that,
                 but rather that the people would want to obey the Lord, because
@@ -370,7 +370,7 @@ export default function Exodus20() {
           Moses drew near unto the thick darkness where God was{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Cross made it possible for all who stand afar off to now
                 come near [
                 <ScrollLink href="/revelation-22" scrollToId="#filepos15164587">
@@ -397,7 +397,9 @@ export default function Exodus20() {
           talked with you from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the greatest Revelation yet!)</span>
+              <span className="explanation">
+                (the greatest Revelation yet!)
+              </span>
             </span>
           </span>
         </span>
@@ -409,7 +411,7 @@ export default function Exodus20() {
           silver, neither shall you make unto you gods of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no image was to be made of what they thought God looked like;
                 even if made of silver or gold it would be grossly wrong)
               </span>
@@ -426,7 +428,7 @@ export default function Exodus20() {
           record My Name I will come unto you, and I will bless you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar pictures Christ and what He would do for us at the
                 Cross. The earth pictured His humanity; the stone, His Deity;
                 the shed blood of the animal sacrificed, His priceless Life
@@ -453,7 +455,7 @@ export default function Exodus20() {
           tool upon it, you have polluted it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No tool was to embellish the Altar; it was perfect in its
                 beauty to the eye of God. And such was, and is, Jesus. As well,
                 one might seek to paint the lily or adorn the rose, as for man
@@ -472,7 +474,7 @@ export default function Exodus20() {
           unto My Altar, that your nakedness be not discovered thereon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When man exalts himself above God, he only exposes his own
                 moral nakedness. The Cross, of which the Altar was a Type, must
                 not be changed in any way. If so, meaning if men try to picture

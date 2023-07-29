@@ -33,7 +33,7 @@ export default function Deuteronmy22() {
           likewise: you may not hide yourself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This law had been given in{" "}
                 <ScrollLink href="/exodus-23" scrollToId="#filepos1000643">
                   <span className="calibre_19">
@@ -58,7 +58,7 @@ export default function Deuteronmy22() {
           surely help him to lift them up again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (provide help for those who need such)
               </span>
             </span>
@@ -73,7 +73,7 @@ export default function Deuteronmy22() {
           all who do so are abomination unto the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pulpit says, The Divinely instituted distinction between the
                 sexes was to be sacredly observed and, in order to do this, the
                 dress and other things appropriate to the one were not to be
@@ -108,7 +108,7 @@ export default function Deuteronmy22() {
           ones, or eggs, and the dam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mother)</span>
+              <span className="explanation">(mother)</span>
             </span>
           </span>{" "}
           sitting upon the young, or upon the eggs, you shall not take the dam
@@ -122,7 +122,7 @@ export default function Deuteronmy22() {
           you may prolong your days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Expositors say, These precepts are designed to foster
                 humane feelings toward the lower animals, not less to preserve
                 regard to that affectionate relation between parents and their
@@ -140,7 +140,7 @@ export default function Deuteronmy22() {
           your house, if any man fall from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the roof of houses in that part of the world is mostly flat; as
                 well, during the summer, oftentimes, members of the family, or
                 others, will sleep on the roof, in order to catch the night
@@ -171,7 +171,7 @@ export default function Deuteronmy22() {
           divers sorts, as of woollen and linen together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Williams says, Mixed teaching, like mixed
                 seeds, produces sterility. At Creation [Gen., Chpt.{" "}
                 <ScrollLink href="/genesis-01" scrollToId="#filepos10813">
@@ -212,7 +212,7 @@ export default function Deuteronmy22() {
           the four quarters of your vesture, wherewith you cover yourself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tassels with blue thread, signifying that their help came from
                 Heaven)
               </span>
@@ -237,7 +237,7 @@ export default function Deuteronmy22() {
           and when I came to her, I found her not a maid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (claiming that she wasnt a virgin)
               </span>
             </span>
@@ -273,7 +273,7 @@ export default function Deuteronmy22() {
           take that man and chastise him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that he lied about the girl, because he didnt want her
                 for other reasons, whatever they might have been)
               </span>
@@ -291,7 +291,7 @@ export default function Deuteronmy22() {
           days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if he did so, he was adding sin to sin)
               </span>
             </span>
@@ -314,7 +314,7 @@ export default function Deuteronmy22() {
           from among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Nation had to be kept pure, at least as far as possible,
                 because, as stated, it was to serve as the womb of the Messiah.
                 As such, immorality must be put away and, if not, severe
@@ -348,7 +348,7 @@ export default function Deuteronmy22() {
           away evil from among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the case with the young woman who was brought to Jesus
                 by the Pharisees, described in{" "}
                 <ScrollLink href="/john-08" scrollToId="#filepos12457773">
@@ -431,7 +431,7 @@ export default function Deuteronmy22() {
           wife, nor discover his fathers skirt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a prohibition against all types of incestuous
                 connections)
               </span>

@@ -79,7 +79,7 @@ export default function Numbers13() {
           <sup className="calibre7">8</sup>Of the Tribe of Ephraim, Oshea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           the son of Nun.
@@ -264,7 +264,7 @@ export default function Numbers13() {
           and they bore it between two upon a staff{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(quite a large cluster)</span>
+              <span className="explanation">(quite a large cluster)</span>
             </span>
           </span>
           ; and they brought of the pomegranates, and of the figs.
@@ -326,7 +326,7 @@ export default function Numbers13() {
           moreover we saw the children of Anak there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(giants)</span>
+              <span className="explanation">(giants)</span>
             </span>
           </span>
         </span>

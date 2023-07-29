@@ -173,7 +173,7 @@ export default function Chronicles108() {
           their generations, chief men. These dwelt in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proves that the Tribe of Benjamin adhered to the worship
                 of the True God and remained loyal to Judah. As well, it seems
                 that Simeon, whose inheritance was within the inheritance of

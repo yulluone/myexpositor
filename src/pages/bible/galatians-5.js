@@ -16,7 +16,7 @@ export default function Galatians5() {
           wherewith Christ has made us free{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we were made free, and refers to freedom to live a Holy life by
                 evidencing Faith in Christ and the Cross)
               </span>
@@ -25,7 +25,7 @@ export default function Galatians5() {
           , and be not entangled again with the yoke of bondage.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To abandon the Cross and go under Law of any kind guarantees
                 bondage once again to the sin nature.)
               </span>
@@ -41,13 +41,13 @@ export default function Galatians5() {
           <sup className="calibre7">2</sup>Behold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mark my words!)</span>
+              <span className="explanation">(mark my words!)</span>
             </span>
           </span>
           , I Paul say unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostles authority regarding the Message he
                 brings)
               </span>
@@ -56,7 +56,7 @@ export default function Galatians5() {
           , that if you be circumcised, Christ shall profit you nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Believer goes back into Law, and Law of any kind, what
                 Christ did at the Cross on our behalf will profit us nothing.
                 One cannot have it two ways.)
@@ -71,7 +71,7 @@ export default function Galatians5() {
           is circumcised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some of the Galatian Gentiles were being pressured by false
                 teachers to embrace the Law of Moses, which meant they would
                 have to forsake Christ and the Cross, for its not possible to
@@ -82,7 +82,7 @@ export default function Galatians5() {
           , that he is a debtor to do the whole Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which of course is impossible; and besides, the Law contained
                 no Salvation)
               </span>
@@ -97,7 +97,7 @@ export default function Galatians5() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a chilling statement, and refers to anyone who makes
                 anything other than Christ and the Cross the Object of his
                 Faith)
@@ -107,7 +107,7 @@ export default function Galatians5() {
           , who soever of you are justified by the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seek to be justified by the Law)
               </span>
             </span>
@@ -115,7 +115,7 @@ export default function Galatians5() {
           ; you are fallen from Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (fallen from the position of Grace, which means the Believer is
                 trusting in something other than the Cross; it actually means,
                 to apostatize)
@@ -130,7 +130,7 @@ export default function Galatians5() {
           <sup className="calibre7">5</sup>For we through the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit works exclusively within the parameters of the
                 Sacrifice of Christ; consequently, He demands that we place our
                 Faith exclusively in the Cross of Christ)
@@ -140,7 +140,7 @@ export default function Galatians5() {
           wait for the Hope of Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is guaranteed to ultimately come [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13355486">
                   <span className="calibre_19">
@@ -156,7 +156,7 @@ export default function Galatians5() {
           by Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Faith in Christ and what He did for us at the Cross)
               </span>
             </span>
@@ -170,7 +170,7 @@ export default function Galatians5() {
           Circumcision avails anything, nor uncircumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has no spiritual bearing on anything)
               </span>
             </span>
@@ -178,7 +178,7 @@ export default function Galatians5() {
           ; but Faith which works by Love.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The evidence of true Faith is the fact of the Love which
                 emanates from such Faith.)
               </span>
@@ -194,7 +194,7 @@ export default function Galatians5() {
           <sup className="calibre7">7</sup>You did run well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (under the Ministry of Paul, the Galatians had begun well)
               </span>
             </span>
@@ -202,7 +202,7 @@ export default function Galatians5() {
           ; who did hinder you that you should not obey the truth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is referring to false teachers who were attempting to pull
                 the Galatians away from the Cross to other things.)
               </span>
@@ -221,13 +221,13 @@ export default function Galatians5() {
           not of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           Who calls you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What you are doing is not Biblical!)
               </span>
             </span>
@@ -239,19 +239,19 @@ export default function Galatians5() {
           <sup className="calibre7">9</sup>A little leaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(corruption)</span>
+              <span className="explanation">(corruption)</span>
             </span>
           </span>{" "}
           leaveneth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(corrupts)</span>
+              <span className="explanation">(corrupts)</span>
             </span>
           </span>{" "}
           the whole lump.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The introduction of a small amount of false doctrine will
                 ultimately consume the entirety of the belief system.)
               </span>
@@ -265,7 +265,7 @@ export default function Galatians5() {
           Lord, that you will be none otherwise minded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that the Galatians would not abandon the Cross for this false
                 doctrine)
               </span>
@@ -274,7 +274,7 @@ export default function Galatians5() {
           : but he who troubles you shall bear his judgment, whosoever he be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judgment will ultimately come on those who attempt to present a
                 way of Salvation other than Christ and the Cross.)
               </span>
@@ -288,7 +288,7 @@ export default function Galatians5() {
           Circumcision, why do I yet suffer persecution?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Any message other than the Cross draws little opposition.)
               </span>
             </span>
@@ -296,7 +296,7 @@ export default function Galatians5() {
           then is the offence of the Cross ceased.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross offends the world and most of the Church. So, if the
                 preacher ceases to preach the Cross as the only way of Salvation
                 and Victory, then opposition and persecution will cease. But so
@@ -312,7 +312,7 @@ export default function Galatians5() {
           trouble you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They might cease from the land, but unfortunately false
                 teachers seem to ever plague the landscape.)
               </span>
@@ -329,7 +329,7 @@ export default function Galatians5() {
           unto liberty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (liberty from the Law, and to live a Holy life)
               </span>
             </span>
@@ -343,7 +343,7 @@ export default function Galatians5() {
           not liberty for an occasion to the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because you are living under Grace, do not think sin is
                 inconsequential)
               </span>
@@ -352,7 +352,7 @@ export default function Galatians5() {
           , but by love serve one another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is Pauls constant concern. How will you use your freedom?
                 How will you live your new life?)
               </span>
@@ -372,7 +372,7 @@ export default function Galatians5() {
           in this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle telling us how the Law is fulfilled in our
                 lives)
               </span>
@@ -381,7 +381,7 @@ export default function Galatians5() {
           ; You shall love your neighbour as yourself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this, the whole Law stands fully obeyed. This can be done
                 and, in fact, will be done, providing the Believer ever makes
                 the Cross of Christ the Object of his Faith. Accordingly, the
@@ -398,7 +398,7 @@ export default function Galatians5() {
           another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which will be done if the Believer seeks to live under Law)
               </span>
             </span>
@@ -406,7 +406,7 @@ export default function Galatians5() {
           , take heed that you be not consumed one of another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If Love is absent, this tells us that the Cross is absent.
                 Fighting and quarreling always follow the Law.)
               </span>
@@ -428,13 +428,13 @@ export default function Galatians5() {
           I say then, Walk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(order your behavior)</span>
+              <span className="explanation">(order your behavior)</span>
             </span>
           </span>{" "}
           in the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we do so by placing our Faith exclusively in Christ and the
                 Cross, through which the Spirit works exclusively [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13387535">
@@ -451,7 +451,7 @@ export default function Galatians5() {
           , and you shall not fulfil the lust of the flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proves the existence of the sin nature in the Believer. It
                 declares the consciousness of corrupt desires. As stated, the
                 only way to not fulfill the lust of the flesh is for our Faith
@@ -466,13 +466,13 @@ export default function Galatians5() {
           <sup className="calibre7">17</sup>For the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in this case, evil desires)</span>
+              <span className="explanation">(in this case, evil desires)</span>
             </span>
           </span>{" "}
           lusteth against the spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is the opposite of the Holy Spirit)
               </span>
             </span>
@@ -480,7 +480,7 @@ export default function Galatians5() {
           , and the Spirit against the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the Holy Spirit Alone, Who can subdue the flesh; He does
                 so, as we have repeatedly stated, by our Faith being placed
                 exclusively in the Cross)
@@ -490,7 +490,7 @@ export default function Galatians5() {
           : and these are contrary the one to the other{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these two can never harmonize; as Paul has stated, the old
                 nature must be cast out, which the Holy Spirit Alone can do)
               </span>
@@ -499,7 +499,7 @@ export default function Galatians5() {
           : so that you cannot do the things that you would.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Without the Holy Spirit, Who works by the Cross, the Believer
                 cannot live a Holy life.)
               </span>
@@ -513,7 +513,7 @@ export default function Galatians5() {
           are not under the Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One cannot follow the Spirit and the Law at the same time, but
                 regrettably thats what most modern Christians are attempting to
                 do. Unless one properly understands the Cross as it regards
@@ -534,7 +534,7 @@ export default function Galatians5() {
               <span className="calibre_19">these</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if one attempts to function by means of Law of any nature, the
                 works of the flesh will be manifested in ones life);
               </span>
@@ -555,7 +555,7 @@ export default function Galatians5() {
           revellings, and such like{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if one is walking after the flesh [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13387535">
                   <span className="calibre_19">
@@ -584,7 +584,7 @@ export default function Galatians5() {
           in time past{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the Apostle was not afraid to name
                 specific sins)
               </span>
@@ -593,7 +593,7 @@ export default function Galatians5() {
           , that they which do such things shall not inherit the Kingdom of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us in no uncertain terms that if our Faith is not
                 everlastingly in Christ and the Cross, we simply wont make it.
                 God doesnt have two ways of Salvation and Victory, only one, and
@@ -611,7 +611,7 @@ export default function Galatians5() {
           <sup className="calibre7">22</sup>But the Fruit of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (are not fruits but rather Fruit; they are to be looked at as a
                 whole, which means they grow equally)
               </span>
@@ -626,7 +626,7 @@ export default function Galatians5() {
           there is no Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Against such there doesnt need to be a Law. But let the Reader
                 understand that this Fruit is of the Holy Spirit, and not of
                 man. It can only develop as we are led of the Spirit. And we can
@@ -646,7 +646,7 @@ export default function Galatians5() {
           Crucified the flesh with the affections and lusts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This can be done only by the Believer understanding it was
                 carried out by Christ at the Cross, and our being Baptized into
                 His Death [
@@ -671,7 +671,7 @@ export default function Galatians5() {
           also walk in the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (walk refers to our lifestyle; this Passage declares both life
                 and Holiness to be the Work of the Holy Spirit; He operates
                 Salvation and He operates Sanctification; both are realized on
@@ -693,7 +693,7 @@ export default function Galatians5() {
           <sup className="calibre7">26</sup>Let us not be desirous of vain Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is a sign that one is functioning according to Law)
               </span>
             </span>
@@ -701,13 +701,13 @@ export default function Galatians5() {
           , provoking one another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-righteousness)</span>
+              <span className="explanation">(self-righteousness)</span>
             </span>
           </span>
           , envying one another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These are works of the flesh, and will manifest themselves if
                 our Faith is in things other than the Cross.)
               </span>

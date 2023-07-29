@@ -148,7 +148,7 @@ export default function Romans11() {
           <sup className="calibre7">5</sup>Even so then at this present time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pauls day)</span>
+              <span className="explanation">(Pauls day)</span>
             </span>
           </span>{" "}
           also there is a Remnant according to the election of Grace{" "}
@@ -335,7 +335,7 @@ export default function Romans11() {
           , Let their table be made a snare{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to their prosperity)</span>
+              <span className="explanation">(refers to their prosperity)</span>
             </span>
           </span>
           , and a trap{" "}
@@ -358,7 +358,7 @@ export default function Romans11() {
           , and a recompence unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a negative end result)</span>
+              <span className="explanation">(a negative end result)</span>
             </span>
           </span>
           :
@@ -396,7 +396,7 @@ export default function Romans11() {
           they should fall?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Never to rise again?)</span>
+              <span className="explanation">(Never to rise again?)</span>
             </span>
           </span>{" "}
           God forbid: but{" "}
@@ -682,7 +682,7 @@ export default function Romans11() {
           , being a wild olive tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(inferior)</span>
+              <span className="explanation">(inferior)</span>
             </span>
           </span>
           , were grafted in among them{" "}
@@ -751,7 +751,7 @@ export default function Romans11() {
           <sup className="calibre7">20</sup>Well; because of unbelief they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           were broken off{" "}
@@ -789,7 +789,7 @@ export default function Romans11() {
           branches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>
           ,{" "}
@@ -867,7 +867,7 @@ export default function Romans11() {
           <sup className="calibre7">23</sup>And they also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>
           , if they abide not still in unbelief, shall be grafted in{" "}
@@ -881,7 +881,7 @@ export default function Romans11() {
           : for God is able to graft them in again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and that He will do!)</span>
+              <span className="explanation">(and that He will do!)</span>
             </span>
           </span>
           .
@@ -942,7 +942,7 @@ export default function Romans11() {
           should be ignorant of this mystery{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what has happened to Israel)</span>
+              <span className="explanation">(what has happened to Israel)</span>
             </span>
           </span>
           , lest you should be wise in your own conceits{" "}
@@ -1041,7 +1041,7 @@ export default function Romans11() {
           My Covenant unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Promise)</span>
+              <span className="explanation">(a Promise)</span>
             </span>
           </span>
           , when I shall take away their sins{" "}
@@ -1091,7 +1091,7 @@ export default function Romans11() {
           beloved for the fathers sakes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of their Calling)</span>
+              <span className="explanation">(speaks of their Calling)</span>
             </span>
           </span>
           .
@@ -1157,7 +1157,7 @@ export default function Romans11() {
           , that through your Mercy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church)</span>
+              <span className="explanation">(the Church)</span>
             </span>
           </span>{" "}
           they also may obtain Mercy{" "}
@@ -1243,7 +1243,9 @@ export default function Romans11() {
           or who has been His counsellor?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(It would have to be, no one.)</span>
+              <span className="explanation">
+                (It would have to be, no one.)
+              </span>
             </span>
           </span>
         </span>
@@ -1269,7 +1271,7 @@ export default function Romans11() {
           , and it shall be recompensed unto him again?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What we sow, we reap!)</span>
+              <span className="explanation">(What we sow, we reap!)</span>
             </span>
           </span>
         </span>
@@ -1279,7 +1281,7 @@ export default function Romans11() {
           <sup className="calibre7">36</sup>For of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Creation)</span>
+              <span className="explanation">(refers to Creation)</span>
             </span>
           </span>
           , and through Him{" "}
@@ -1293,25 +1295,25 @@ export default function Romans11() {
           , and to Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Presence is everywhere)</span>
+              <span className="explanation">(His Presence is everywhere)</span>
             </span>
           </span>
           , are all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He Alone is the First Cause)</span>
+              <span className="explanation">(He Alone is the First Cause)</span>
             </span>
           </span>
           : to Whom be Glory forever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He Alone deserves the Glory)</span>
+              <span className="explanation">(He Alone deserves the Glory)</span>
             </span>
           </span>
           . Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Truth)</span>
+              <span className="explanation">(Truth)</span>
             </span>
           </span>
           .

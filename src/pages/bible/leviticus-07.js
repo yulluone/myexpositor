@@ -244,7 +244,7 @@ export default function Leviticus07() {
           the whole oblation for an Heave Offering unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the right shoulder)</span>
+              <span className="explanation">(the right shoulder)</span>
             </span>
           </span>
           , and it shall be the Priests who sprinkles the blood of the Peace
@@ -311,7 +311,7 @@ export default function Leviticus07() {
           <sup className="calibre7">19</sup>And the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of the Sacrifice)</span>
+              <span className="explanation">(of the Sacrifice)</span>
             </span>
           </span>{" "}
           that touches any unclean thing shall not be eaten; it shall be burnt
@@ -332,7 +332,7 @@ export default function Leviticus07() {
           any unclean thing, as the uncleanness of man, or any unclean beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dead bodies or lepers)</span>
+              <span className="explanation">(dead bodies or lepers)</span>
             </span>
           </span>
           , or any abominable unclean thing, and eat of the flesh of the

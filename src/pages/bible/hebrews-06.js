@@ -16,7 +16,7 @@ export default function Hebrews06() {
           the Doctrine of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the first principles, which refers to the Old
                 Testament; Christ is the Centerpiece of the entirety of the
                 Bible)
@@ -26,7 +26,7 @@ export default function Hebrews06() {
           , let us go on unto perfection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the New Testament Sacrifice, the Lord Jesus, and the
                 Testament He inaugurated with His Work on the Cross)
               </span>
@@ -35,7 +35,7 @@ export default function Hebrews06() {
           ; not laying again the Foundation of Repentance from dead works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to these Jewish Christians going back to the Old
                 Sacrificial System, etc.)
               </span>
@@ -44,7 +44,7 @@ export default function Hebrews06() {
           , and of Faith toward God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Faith toward God in the realm of the Old Testament
                 Way, which God will not accept now inasmuch as Jesus has
                 fulfilled the Old Testament Law)
@@ -59,7 +59,7 @@ export default function Hebrews06() {
           <sup className="calibre7">2</sup>Of the Doctrine of Baptisms{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, the Doctrine of Washings; this
                 concerned the many washings contained in the Old Testament
                 Sacrificial System)
@@ -69,7 +69,7 @@ export default function Hebrews06() {
           , and of laying on of hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (goes back to the Levitical Offerings of the Old Testament; when
                 the person brought the animal for Sacrifice, he had to lay his
                 hands on the head of the innocent victim, confessing his sins,
@@ -89,7 +89,7 @@ export default function Hebrews06() {
           , and of Resurrection of the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Resurrection as taught in the Old Testament; there,
                 this Doctrine was very incomplete, even as all Doctrine in the
                 Old Testament was incomplete; the true meaning could not be
@@ -112,7 +112,7 @@ export default function Hebrews06() {
           , and of Eternal Judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the Old Testament, the Lord was looked at more so as a Judge
                 than anything else. Since the Cross, He is looked at more as the
                 Saviour.)
@@ -126,7 +126,7 @@ export default function Hebrews06() {
           <sup className="calibre7">3</sup>And this will we do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, if we dont do this [refers to going on to the
                 perfection of Christ], the results will be disastrous)
               </span>
@@ -135,7 +135,7 @@ export default function Hebrews06() {
           , if God permit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that all dependence must be in Christ
                 and the Cross. God will not allow any other type of Faith.)
               </span>
@@ -154,7 +154,7 @@ export default function Hebrews06() {
           impossible for those who were once enlightened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those who have accepted the Light of the Gospel,
                 which means accepting Christ and His great Sacrifice)
               </span>
@@ -163,7 +163,7 @@ export default function Hebrews06() {
           , and have tasted of the Heavenly Gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to Christ and what He did at the Cross)
               </span>
             </span>
@@ -171,7 +171,7 @@ export default function Hebrews06() {
           , and were made partakers of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which takes place when a person comes to Christ)
               </span>
             </span>
@@ -184,7 +184,7 @@ export default function Hebrews06() {
           <sup className="calibre7">5</sup>And have tasted the good Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not language that is used of an impenitent sinner, as some
                 claim; the unsaved have no relish whatsoever for the Truth of
                 God, and see no beauty in it)
@@ -194,7 +194,7 @@ export default function Hebrews06() {
           , and the powers of the world to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Work of the Holy Spirit within hearts and lives,
                 which the unsaved cannot have or know)
               </span>
@@ -208,7 +208,7 @@ export default function Hebrews06() {
           <sup className="calibre7">6</sup>If they shall fall away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, and having fallen away)
               </span>
             </span>
@@ -216,7 +216,7 @@ export default function Hebrews06() {
           , to renew them again unto Repentance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again states they had once repented, but have now turned their
                 backs on Christ)
               </span>
@@ -225,7 +225,7 @@ export default function Hebrews06() {
           ; seeing they crucify to themselves the Son of God afresh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means they no longer believe what Christ did at the Cross,
                 actually concluding Him to be an imposter; the only way any
                 person can truly repent is to place his Faith in Christ and the
@@ -242,7 +242,7 @@ export default function Hebrews06() {
           to an open shame{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means to hold Christ up to public ridicule; Paul wrote this
                 Epistle because some Christian Jews were going back into
                 Judaism, or seriously contemplating doing so)
@@ -258,7 +258,7 @@ export default function Hebrews06() {
           rain that comes oft upon it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle using natural things to represent
                 spiritual realities, which is common throughout Scripture)
               </span>
@@ -267,7 +267,7 @@ export default function Hebrews06() {
           , and brings forth herbs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the natural result of ground that is properly
                 cultivated and receives rain; there will be a harvest)
               </span>
@@ -276,7 +276,7 @@ export default function Hebrews06() {
           meet for them by whom it is dressed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (received by individuals who do the cultivating of the land,
                 etc.)
               </span>
@@ -285,7 +285,7 @@ export default function Hebrews06() {
           , receives Blessing from God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the inevitable result of proper Faith)
               </span>
             </span>
@@ -305,7 +305,7 @@ export default function Hebrews06() {
           rejected{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of Believers who have turned their backs on Christ
                 and the Cross, and now bring forth no proper fruit, but rather
                 thorns and briars)
@@ -321,7 +321,7 @@ export default function Hebrews06() {
           nigh unto cursing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to judgment)</span>
+              <span className="explanation">(refers to judgment)</span>
             </span>
           </span>
           ; whose end{" "}
@@ -333,7 +333,7 @@ export default function Hebrews06() {
           to be burned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the simple fact that if a person who was once a
                 Believer remains in that state, he will lose his soul.)
               </span>
@@ -346,7 +346,7 @@ export default function Hebrews06() {
           <sup className="calibre7">9</sup>But, Beloved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that these Christian Jews were not only the
                 object of Gods love, but also of Pauls care and concern)
               </span>
@@ -355,7 +355,7 @@ export default function Hebrews06() {
           , we are persuaded better things of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is speaking specifically to those who were seriously
                 contemplating turning their backs on Christ)
               </span>
@@ -364,7 +364,7 @@ export default function Hebrews06() {
           , and things that accompany Salvation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessings which will come if the Believer properly anchors
                 his Faith in Christ and the Cross)
               </span>
@@ -373,7 +373,7 @@ export default function Hebrews06() {
           , though we thus speak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is not speaking from guesswork, but from many years
                 of experience.)
               </span>
@@ -392,7 +392,7 @@ export default function Hebrews06() {
           not unrighteous to forget your work and labour of love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a glorious and wonderful Promise)
               </span>
             </span>
@@ -400,7 +400,7 @@ export default function Hebrews06() {
           , which you have showed toward His Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (reflects that everything must be done in His Name)
               </span>
             </span>
@@ -408,7 +408,7 @@ export default function Hebrews06() {
           , in that you have Ministered to the Saints, and do Minister.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is telling these Christian Jews to not turn their
                 backs on what they have previously done.)
               </span>
@@ -422,7 +422,7 @@ export default function Hebrews06() {
           do show the same diligence to the full assurance of hope unto the end{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont stop now!)</span>
+              <span className="explanation">(dont stop now!)</span>
             </span>
           </span>
           :
@@ -433,7 +433,7 @@ export default function Hebrews06() {
           <sup className="calibre7">12</sup>That you be not slothful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means to be sluggish and lazy toward the things of the Lord)
               </span>
             </span>
@@ -442,7 +442,7 @@ export default function Hebrews06() {
           Promises{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Faith worthies of the Old Testament)
               </span>
             </span>
@@ -458,7 +458,7 @@ export default function Hebrews06() {
           <sup className="calibre7">13</sup>For when God made Promise to Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Patriarch as the most illustrious example of those
                 who inherit the Promises [
                 <ScrollLink href="/john-08" scrollToId="#filepos12488717">
@@ -475,13 +475,13 @@ export default function Hebrews06() {
           , because He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           could swear by no greater{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the solemnity and power of this Promise)
               </span>
             </span>
@@ -489,7 +489,7 @@ export default function Hebrews06() {
           , He swore by Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a guarantee with resources of Heaven behind it that the Promise
                 will be kept)
               </span>
@@ -504,7 +504,7 @@ export default function Hebrews06() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Justification by Faith, and is taken from{" "}
                 <ScrollLink href="/genesis-22" scrollToId="#filepos295780">
                   <span className="calibre_19">
@@ -520,7 +520,7 @@ export default function Hebrews06() {
           , and multiplying I will multiply you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to his seed becoming a nation, and more
                 importantly, every Believer being a Child of Promise [
                 <ScrollLink href="/galatians-4" scrollToId="#filepos13964820">
@@ -542,7 +542,7 @@ export default function Hebrews06() {
           endured{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (theres always a distance between the Promise and the
                 Possession, and that distance is never uneventful)
               </span>
@@ -551,7 +551,7 @@ export default function Hebrews06() {
           , he obtained the Promise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The immediate meaning was the birth of Isaac. However, the
                 eternal meaning was Justification by Faith, which would come
                 about from Isaacs seed, Who is Christ [
@@ -573,7 +573,7 @@ export default function Hebrews06() {
           <sup className="calibre7">16</sup>For men verily swear by the greater{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (men never swear by one who is inferior to themselves)
               </span>
             </span>
@@ -587,7 +587,7 @@ export default function Hebrews06() {
           to them an end of all strife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In our modern terminology, this means a contract has been
                 agreed upon and signed by all parties, which ends all strife.)
               </span>
@@ -601,7 +601,7 @@ export default function Hebrews06() {
           to show unto the heirs of Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Lord working in accordance with this universal
                 custom)
               </span>
@@ -610,7 +610,7 @@ export default function Hebrews06() {
           the immutability{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that God will not change His Position as to
                 His Promise)
               </span>
@@ -625,7 +625,7 @@ export default function Hebrews06() {
           by an oath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the guarantee of the Pledge or Promise)
               </span>
             </span>
@@ -638,7 +638,7 @@ export default function Hebrews06() {
           <sup className="calibre7">18</sup>That by two immutable things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they are the Promise to Abraham of the coming Redeemer, and the
                 Oath given as it regards Christ being a Priest forever after the
                 Order of Melchisedec)
@@ -654,7 +654,7 @@ export default function Hebrews06() {
           impossible for God to lie{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the moral impossibility of such)
               </span>
             </span>
@@ -662,13 +662,13 @@ export default function Hebrews06() {
           , we might have a strong consolation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to assurance)</span>
+              <span className="explanation">(refers to assurance)</span>
             </span>
           </span>
           , who have fled for refuge to lay hold upon the hope set before us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carries the idea of the sinner fleeing to one of the Cities of
                 Refuge in Israel; in effect, he was fleeing to the High Priest
                 who has offered Atonement for him and his sin [
@@ -698,7 +698,7 @@ export default function Hebrews06() {
           we have as an anchor of the soul, both sure and stedfast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle changing the illusion from safety in the
                 Cities of Refuge to a ship reaching harbor after a tempestuous
                 voyage, knowing that her anchor is sure and steadfast)
@@ -708,7 +708,7 @@ export default function Hebrews06() {
           , and which enters into that within the Veil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Holy of Holies, which Jesus has entered on our
                 behalf)
               </span>
@@ -729,7 +729,7 @@ export default function Hebrews06() {
           Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the imagery of the Great Day of Atonement, when the
                 High Priest entered the most Holy Place on behalf of the people;
                 all of that was a Type of Christ, Who has entered the Holiest
@@ -740,7 +740,7 @@ export default function Hebrews06() {
           , made an High Priest forever after the order of Melchisedec.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents Christ as not in the line of Aaron, but another
                 Order altogether. The old Levitical Order had an ending. This
                 Order has no ending. Christ is an Eternal High Priest.)

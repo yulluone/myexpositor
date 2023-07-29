@@ -17,7 +17,7 @@ export default function Chronicles208() {
           own house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter in small measure pictures the peace and plenty
                 which will characterize the Millennial Earth)
               </span>
@@ -33,7 +33,7 @@ export default function Chronicles208() {
           Israel to dwell there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (likewise, the coming Millennial Reign, of which all of this is
                 a type, will see the greatest construction boom the world has
                 ever known)
@@ -49,7 +49,7 @@ export default function Chronicles208() {
           prevailed against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the entirety of Solomons reign, this was the only war that
                 was fought; this typifies the scarcity of such in the coming
                 Kingdom Age)
@@ -79,7 +79,7 @@ export default function Chronicles208() {
           Lebanon, and throughout all the land of his dominion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So much of the world as designed by man has specialized in
                 destruction instead of construction. However, during the coming
                 Kingdom Age, when Jesus will reign supreme from Jerusalem, and
@@ -107,7 +107,7 @@ export default function Chronicles208() {
           did Solomon make to pay tribute until this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (likewise, in the coming Kingdom Age, the Gentile world will pay
                 tribute to the Lord of Glory; but yet, it will not be in the
                 form of ruinous taxation; in fact, it will gladly be paid,
@@ -133,7 +133,7 @@ export default function Chronicles208() {
           people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this typifies redeemed Israel and the blood-washed Saints of
                 God in the coming Kingdom Age, who, under Christ, will carry out
                 the Plan of God over the entirety of the Earth)
@@ -152,7 +152,7 @@ export default function Chronicles208() {
           LORD has come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with such a Gentile wife, Solomon was starting out the wrong
                 way, and he did not learn the lesson he should have learned, for
                 he later loved many foreign women, who turned his heart away
@@ -191,19 +191,19 @@ export default function Chronicles208() {
           even in the Feast of Unleavened Bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(conducted in April)</span>
+              <span className="explanation">(conducted in April)</span>
             </span>
           </span>
           , and in the Feast of Weeks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Pentecost, in June)</span>
+              <span className="explanation">(of Pentecost, in June)</span>
             </span>
           </span>
           , and in the Feast of Tabernacles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (October; all the males of Israel were supposed to gather three
                 times a year on these special Feasts [
                 <ScrollLink href="/exodus-23" scrollToId="#filepos1004362">
@@ -238,7 +238,7 @@ export default function Chronicles208() {
           commanded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the appointment of the 24 courses of the Priests in
                 their services [I Chron., Chpt.{" "}
                 <ScrollLink href="/chronicles1-24" scrollToId="#filepos4607770">
@@ -280,7 +280,7 @@ export default function Chronicles208() {
           matter, or concerning the treasures{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well, we must not presently depart from the Commandment of
                 the King, the Lord Jesus Christ, i.e., His Word)
               </span>
@@ -296,7 +296,7 @@ export default function Chronicles208() {
           until it was finished. So the House of the LORD was perfected{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the desire and the work of the Holy Spirit that He may
                 perfect the House of the LORD, that House now being our physical
                 and spiritual persons, which are Temples of the Holy Spirit [
@@ -353,7 +353,7 @@ export default function Chronicles208() {
           hundred and fifty talents of gold, and brought them to king Solomon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the entirety of the world, even as we shall see, beat
                 a path to Solomons door, exactly as the entirety of the world
                 will come to Christ, availing themselves of His Perfect Wisdom,

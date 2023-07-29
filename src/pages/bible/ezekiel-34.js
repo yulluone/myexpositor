@@ -26,7 +26,7 @@ export default function Ezekiel34() {
           themselves! should not the shepherds feed the flocks?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Shepherds in this Chapter refer to rulers, more specifically,
                 the four last kings of Judah; however, the general meaning
                 definitely includes spiritual leaders of any stripe.)
@@ -42,7 +42,7 @@ export default function Ezekiel34() {
           the flock.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only motive of these false shepherds is to get, instead of
                 to give.)
               </span>
@@ -59,7 +59,7 @@ export default function Ezekiel34() {
           was lost; but with force and with cruelty have you ruled them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The diseased refers to weak sheep, while the sick refers to
                 those who are suffering from more definite maladies. The broken
                 are those which have fallen from a rock, or from some such
@@ -90,7 +90,7 @@ export default function Ezekiel34() {
           field, when they were scattered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They had no true shepherd to protect them [
                 <ScrollLink href="/matthew-09" scrollToId="#filepos10966760">
                   <span className="calibre_19">
@@ -112,7 +112,7 @@ export default function Ezekiel34() {
           all the face of the Earth, and none did search or seek after them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of the Northern Kingdom of Israel, not a single shepherd, i.e.,
                 king, was Godly. Thankfully, several in Judah were Godly, but
                 the last four, as stated, were anything but Godly. These four
@@ -131,7 +131,7 @@ export default function Ezekiel34() {
           Word of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel had been told to hear the Word at My Mouth and warn
                 them from Me [
                 <ScrollLink href="/ezekiel-33" scrollToId="#filepos9485388">
@@ -158,7 +158,7 @@ export default function Ezekiel34() {
           fed not My Flock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As I live, says the Lord GOD, is strong indeed! It is actually
                 an oath taken by the Lord that the shepherds would be destroyed,
                 inasmuch as they destroyed the sheep. The modern money gospel
@@ -184,7 +184,7 @@ export default function Ezekiel34() {
           their mouth, that they may not be meat for them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will not come to pass until the coming Kingdom Age, when
                 Israel will finally accept the Great Shepherd, the Lord Jesus
                 Christ [
@@ -210,7 +210,7 @@ export default function Ezekiel34() {
           I, even I, will both search My Sheep, and seek them out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The action, the love, and the unselfishness of the True
                 Shepherd are set out in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9507095">
@@ -234,7 +234,7 @@ export default function Ezekiel34() {
           been scattered in the cloudy and dark day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cloudy and dark day refers to the coming Great Tribulation,
                 when Israel will come close to annihilation. Zechariah said that
                 two-thirds of the people will be destroyed [
@@ -259,7 +259,7 @@ export default function Ezekiel34() {
           rivers, and in all the inhabited places of the country.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To their own land, refers to the country promised to Abraham,
                 Isaac, and Jacob; and this is to be theirs forever the Land of
                 Israel.)
@@ -276,7 +276,7 @@ export default function Ezekiel34() {
           mountains of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The repetition given in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9508120">
                   <span className="calibre_19">
@@ -309,7 +309,7 @@ export default function Ezekiel34() {
           cause them to lie down, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will feed My Flock, refers to the tender care of the Shepherd
                 watching with an individualizing care over each sheep that has
                 been brought back. Every broken limb will be bound up. Every
@@ -340,7 +340,7 @@ export default function Ezekiel34() {
           destroy the fat and the strong; I will feed them with Judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, The fat and the strong are contrasted with the
                 broken and the sick. The idea is this: When He comes, the Great
                 Shepherd, the Lord Jesus Christ, will destroy the fat and the
@@ -365,7 +365,7 @@ export default function Ezekiel34() {
           the rams and the he goats.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage actually has to do with the Judgment of the
                 nations, which will take place immediately after the Second
                 Coming of Christ [
@@ -390,7 +390,7 @@ export default function Ezekiel34() {
           waters, but you must foul the residue with your feet?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the nations of the world which, during the
                 time of the Great Tribulation, tried to harm Israel.)
               </span>
@@ -405,7 +405,7 @@ export default function Ezekiel34() {
           have fouled with your feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, the Jews, at least in the minds of many, were
                 looked at like refuse.)
               </span>
@@ -420,7 +420,7 @@ export default function Ezekiel34() {
           between the lean cattle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At the beginning of the Kingdom Age, the Lord will judge all
                 nations, and the Judgment will be according to how they treated
                 Israel.)
@@ -436,7 +436,7 @@ export default function Ezekiel34() {
           you have scattered them abroad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whether nations which lorded it over the Jews, or even the
                 false shepherds of Israel, all will answer!)
               </span>
@@ -452,7 +452,7 @@ export default function Ezekiel34() {
           cattle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Between cattle and cattle, probably would have been better
                 translated, between sheep and sheep.
               </span>
@@ -483,7 +483,7 @@ export default function Ezekiel34() {
           them, and he shall be their Shepherd.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Hebrew Text reads, A Shepherd, One, that is, One Preeminent
                 and Unique Shepherd the Only One of His Kind, to Whom none other
                 is comparable. The word David here means The Beloved One, i.e.,
@@ -536,7 +536,7 @@ export default function Ezekiel34() {
           and My Servant David a prince among them; I the LORD have spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And My Servant David a prince among them, fulfills
                 the Promise made to David by the Lord, as recorded in{" "}
                 <ScrollLink href="/samuel1-07" scrollToId="#filepos3095781">
@@ -559,7 +559,7 @@ export default function Ezekiel34() {
           they shall dwell safely in the wilderness, and sleep in the woods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will make with them a Covenant of peace, will be carried
                 out, and can be carried out, because of Israels acceptance of
                 Christ.
@@ -587,7 +587,7 @@ export default function Ezekiel34() {
           down in his season; there shall be showers of blessing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, There shall be showers of blessing, refers to
                 Spiritual Blessings which will generate economic, physical, and
                 domestic Blessings as well!)
@@ -605,7 +605,7 @@ export default function Ezekiel34() {
           hand of those who served themselves of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are two particulars that are noted in this Scripture: the
                 first is, fruit, increase, and safety; the second is, broken
                 bands and deliverance. The former is the result of the latter.)
@@ -621,7 +621,7 @@ export default function Ezekiel34() {
           shall dwell safely, and none shall make them afraid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At long last, Israel will be what the Lord intended all along.
                 As stated, it will be during the coming Kingdom Age!)
               </span>
@@ -636,7 +636,7 @@ export default function Ezekiel34() {
           neither bear the shame of the heathen any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Plant of Renown is none other than Jesus Christ, Whom they
                 rejected, but will now accept. That Plant will be so rich with
                 nourishment that they who feed upon it shall be no more pinched
@@ -655,7 +655,7 @@ export default function Ezekiel34() {
           People, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though they are the People of God, still, they forsook the
                 Lord; consequently, He has not been with them, except from afar,
                 for some 2,000 years. Now, upon their acceptance of Him, the
@@ -704,7 +704,7 @@ export default function Ezekiel34() {
           Pasture, are men, and I am your God, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that even though the word sheep was
                 used as a metaphor, still, the Lord is speaking of men, and not
                 merely just sheep. But there is here also a deeper meaning.

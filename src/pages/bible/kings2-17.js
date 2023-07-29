@@ -71,14 +71,14 @@ export default function Kings217() {
           conspiracy in Hoshea: for he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hoshea)</span>
+              <span className="explanation">(Hoshea)</span>
             </span>
           </span>{" "}
           had sent messengers to So king of Egypt, and brought no present to the
           king of Assyria, as he had done year by year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(paid no tribute)</span>
+              <span className="explanation">(paid no tribute)</span>
             </span>
           </span>
           : therefore the king of Assyria shut him up, and bound him in prison{" "}
@@ -180,7 +180,7 @@ export default function Kings217() {
           saying, Turn you from your evil ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(repent)</span>
+              <span className="explanation">(repent)</span>
             </span>
           </span>
           , and keep My Commandments and My Statutes, according to all the Law
@@ -240,7 +240,7 @@ export default function Kings217() {
           Baal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(exactly as the heathen)</span>
+              <span className="explanation">(exactly as the heathen)</span>
             </span>
           </span>
         </span>
@@ -252,7 +252,7 @@ export default function Kings217() {
           daughters to pass through the fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human sacrifice)</span>
+              <span className="explanation">(human sacrifice)</span>
             </span>
           </span>
           , and used divination and enchantments, and sold themselves to do evil

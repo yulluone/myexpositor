@@ -90,7 +90,7 @@ export default function Chronicles209() {
           the wisdom of Solomon, and the House that he had built{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she saw the Glory of God)</span>
+              <span className="explanation">(she saw the Glory of God)</span>
             </span>
           </span>
           ,
@@ -280,7 +280,7 @@ export default function Chronicles209() {
           targets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(large shields)</span>
+              <span className="explanation">(large shields)</span>
             </span>
           </span>{" "}
           of beaten gold: six hundred shekels of beaten gold went to one target{" "}
@@ -301,7 +301,7 @@ export default function Chronicles209() {
           beaten gold: three hundred shekels of gold went to one shield{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about $60,000 per shield)</span>
+              <span className="explanation">(about $60,000 per shield)</span>
             </span>
           </span>
           . And the king put them in the house of the forest of Lebanon.

@@ -31,13 +31,13 @@ export default function Matthew22() {
           certain king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>
           , which made a marriage for his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           ,
@@ -48,13 +48,13 @@ export default function Matthew22() {
           <sup className="calibre7">3</sup>And sent forth his servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Prophets)</span>
+              <span className="explanation">(the Prophets)</span>
             </span>
           </span>{" "}
           to call them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           who were bidden to the wedding: and they would not come{" "}
@@ -181,7 +181,7 @@ export default function Matthew22() {
           took his servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Apostles)</span>
+              <span className="explanation">(the Apostles)</span>
             </span>
           </span>
           , and entreated{" "}
@@ -206,7 +206,7 @@ export default function Matthew22() {
           <sup className="calibre7">7</sup>But when the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Heavenly Father)</span>
+              <span className="explanation">(the Heavenly Father)</span>
             </span>
           </span>{" "}
           heard{" "}
@@ -218,7 +218,7 @@ export default function Matthew22() {
           he was wroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(extremely angry)</span>
+              <span className="explanation">(extremely angry)</span>
             </span>
           </span>
           : and he sent forth his armies, and destroyed those murderers, and
@@ -268,13 +268,13 @@ export default function Matthew22() {
           <sup className="calibre7">9</sup>Go ye therefore into the highways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the balance of the world)</span>
+              <span className="explanation">(the balance of the world)</span>
             </span>
           </span>
           , and as many as you shall find{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love invites the many)</span>
+              <span className="explanation">(love invites the many)</span>
             </span>
           </span>
           , bid to the marriage{" "}
@@ -294,7 +294,7 @@ export default function Matthew22() {
           <sup className="calibre7">10</sup>So those servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Apostles and Prophets)</span>
+              <span className="explanation">(Apostles and Prophets)</span>
             </span>
           </span>{" "}
           went out into the highways{" "}
@@ -339,7 +339,7 @@ export default function Matthew22() {
           <sup className="calibre7">11</sup>And when the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           came in to see the guests{" "}
@@ -368,7 +368,7 @@ export default function Matthew22() {
           <sup className="calibre7">12</sup>And he said unto him, Friend{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(used in a negative way)</span>
+              <span className="explanation">(used in a negative way)</span>
             </span>
           </span>
           , how did you think you could come in hither not having a wedding
@@ -399,13 +399,13 @@ export default function Matthew22() {
           <sup className="calibre7">13</sup>Then said the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           to the servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Angels, in this case)</span>
+              <span className="explanation">(Angels, in this case)</span>
             </span>
           </span>
           , Bind him hand and foot, and take him away{" "}
@@ -505,7 +505,7 @@ export default function Matthew22() {
           Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Disciples of the Pharisees)</span>
+              <span className="explanation">(Disciples of the Pharisees)</span>
             </span>
           </span>{" "}
           with the Herodians{" "}
@@ -519,7 +519,7 @@ export default function Matthew22() {
           , saying, Master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(teacher)</span>
+              <span className="explanation">(teacher)</span>
             </span>
           </span>
           , we know that Y{" "}
@@ -553,13 +553,13 @@ export default function Matthew22() {
           think? Is it lawful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Moses)</span>
+              <span className="explanation">(the Law of Moses)</span>
             </span>
           </span>{" "}
           to give tribute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pay taxes)</span>
+              <span className="explanation">(pay taxes)</span>
             </span>
           </span>{" "}
           unto Caesar, or not?{" "}
@@ -597,7 +597,9 @@ export default function Matthew22() {
           , you hypocrites?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He said this to their faces.)</span>
+              <span className="explanation">
+                (He said this to their faces.)
+              </span>
             </span>
           </span>
         </span>
@@ -615,7 +617,7 @@ export default function Matthew22() {
           . And they brought unto Him a penny{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the coin)</span>
+              <span className="explanation">(the coin)</span>
             </span>
           </span>
           .
@@ -671,7 +673,7 @@ export default function Matthew22() {
           they marveled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(were left speechless)</span>
+              <span className="explanation">(were left speechless)</span>
             </span>
           </span>
           , and left Him, and went their way{" "}
@@ -716,7 +718,7 @@ export default function Matthew22() {
           <sup className="calibre7">24</sup>Saying, Master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(teacher)</span>
+              <span className="explanation">(teacher)</span>
             </span>
           </span>
           , Moses said{" "}
@@ -754,19 +756,19 @@ export default function Matthew22() {
           brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a hypothetical case)</span>
+              <span className="explanation">(a hypothetical case)</span>
             </span>
           </span>
           : and the first, when he had married a wife, deceased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(died)</span>
+              <span className="explanation">(died)</span>
             </span>
           </span>
           , and, having no issue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no children)</span>
+              <span className="explanation">(no children)</span>
             </span>
           </span>
           , left his wife unto his brother:
@@ -789,7 +791,7 @@ export default function Matthew22() {
           wife shall she be of the seven? for they all had her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they now spring their trap)</span>
+              <span className="explanation">(they now spring their trap)</span>
             </span>
           </span>
           .
@@ -840,7 +842,7 @@ export default function Matthew22() {
           they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all who are saved)</span>
+              <span className="explanation">(all who are saved)</span>
             </span>
           </span>{" "}
           neither marry, nor are given in marriage, but are as the Angels of God
@@ -964,7 +966,7 @@ export default function Matthew22() {
           a lawyer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Scribe)</span>
+              <span className="explanation">(Scribe)</span>
             </span>
           </span>
           , asked{" "}
@@ -981,7 +983,7 @@ export default function Matthew22() {
           <sup className="calibre7">36</sup>Master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(teacher)</span>
+              <span className="explanation">(teacher)</span>
             </span>
           </span>
           , which{" "}
@@ -993,7 +995,7 @@ export default function Matthew22() {
           the great Commandment of the law?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The Law of Moses.)</span>
+              <span className="explanation">(The Law of Moses.)</span>
             </span>
           </span>
         </span>

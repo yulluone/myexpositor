@@ -25,7 +25,7 @@ export default function Exodus14() {
           Sea, over against Baal-zephon: before it shall you encamp by the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord continues to direct Israel as to exactly where they
                 should go. From the military point of view, Israel had blundered
                 badly, or so Pharaoh thought! In effect, they were hemmed in.
@@ -45,7 +45,7 @@ export default function Exodus14() {
           them in.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through foreknowledge, the Lord knew what Pharaoh would reckon
                 in his evil heart, when he saw the Children of Israel seemingly
                 hemmed in.)
@@ -60,7 +60,7 @@ export default function Exodus14() {
           that he shall follow after them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is, God would provide the means by which Pharaoh would
                 harden his own heart; God is said to do many things, when, in
                 fact, He does not personally do such, but does set the stage)
@@ -71,7 +71,7 @@ export default function Exodus14() {
           Egyptians may know that I am the LORD. And they did so.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaohs continued rebellion will fall out instead to the Glory
                 of God. If Gods people truly follow the Lord, whatever Satan
                 does will always fall out to the Glory of God, but only if Gods
@@ -89,7 +89,7 @@ export default function Exodus14() {
           we have let Israel go from serving us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan doesnt easily give up his attempts to hold Believers in
                 bondage. But, if the Believer doesnt flag in his faith, and I
                 speak of Faith in Christ and the Cross, total and complete
@@ -112,7 +112,7 @@ export default function Exodus14() {
           <sup className="calibre7">6</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaoh)</span>
+              <span className="explanation">(Pharaoh)</span>
             </span>
           </span>{" "}
           made ready his chariot, and took his people with him:
@@ -125,7 +125,7 @@ export default function Exodus14() {
           of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephus records that Pharaoh had 50,000 horsemen and 200,000
                 footmen, as well as all the chariots.)
               </span>
@@ -140,7 +140,7 @@ export default function Exodus14() {
           and the Children of Israel went out with a high hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The high hand refers to a certain degree of pride and
                 confidence. Regrettably, the high hand would change when they
                 faced the Red Sea.)
@@ -157,7 +157,7 @@ export default function Exodus14() {
           before Baal-zephon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, Pharaoh thought he had them hemmed in. So, in his
                 mind, his victory was assured.)
               </span>
@@ -173,7 +173,7 @@ export default function Exodus14() {
           Israel cried out unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos876061">
                   <span className="calibre_19">
@@ -201,7 +201,7 @@ export default function Exodus14() {
           out of Egypt?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Unbelief cried out: The wilderness will become our grave; but
                 the result was that the Sea became Pharaohs grave.)
               </span>
@@ -216,7 +216,7 @@ export default function Exodus14() {
           Egyptians?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All Israel could see at this time was either slavery to the
                 Egyptians, or to die in the wilderness. So most Christians
                 compromise with the world and stay in slavery. They do not
@@ -243,7 +243,7 @@ export default function Exodus14() {
           <sup className="calibre7">13</sup>And Moses said unto the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from this statement, we learn what the Preacher is supposed to
                 preach)
               </span>
@@ -252,7 +252,7 @@ export default function Exodus14() {
           , Fear ye not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that has always been the Word of the Lord; with God on our
                 side, and us looking wholly to Him, we have nothing to fear [
                 <ScrollLink href="/timothy2-1" scrollToId="#filepos14330843">
@@ -269,7 +269,7 @@ export default function Exodus14() {
           , stand still{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all attempts at self-help must end; all activities of the flesh
                 must cease; the workings of nature must be subdued; our Faith
                 must rest completely in Christ and the Cross, and nothing else)
@@ -279,7 +279,7 @@ export default function Exodus14() {
           , and see the Salvation of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (please notice, it is the Salvation of the Lord, and not at all
                 of us; it is all by virtue of His Sacrificial, Atoning Work at
                 the Cross)
@@ -289,7 +289,7 @@ export default function Exodus14() {
           , which He will show to you today{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (victory is yours today, if you will only believe and, by that,
                 I mean believe correctly, which refers to the fact that the
                 Cross is ever the object of our Faith [
@@ -308,7 +308,7 @@ export default function Exodus14() {
           no more forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This didnt mean that they would never again see Egyptians, but
                 it meant that they would never see them in this posture of what
                 looked like victory for the Egyptians. The Believer may see the
@@ -333,7 +333,7 @@ export default function Exodus14() {
           you shall hold your peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord could fight for Israel only as long as they stood
                 still. Had they turned and tried to fight the Egyptians
                 themselves, and in any capacity, this would have hindered the
@@ -351,7 +351,7 @@ export default function Exodus14() {
           Wherefore do you cry unto Me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Children of Israel were crying unto the Lord, but their cry
                 was not of Faith, but rather of defeat. They complained, and
                 accused Moses, which was the same as accusing God.)
@@ -361,7 +361,7 @@ export default function Exodus14() {
           speak unto the Children of Israel, that they go forward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Faith is ever forward)</span>
+              <span className="explanation">(Faith is ever forward)</span>
             </span>
           </span>
           :
@@ -373,7 +373,7 @@ export default function Exodus14() {
           stretch out your hand over the Sea, and divide it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with the command to go forward came the provision of Grace;
                 this was to be the greatest miracle yet since creation; but the
                 Lord has now performed even a greater miracle in delivering His
@@ -385,7 +385,7 @@ export default function Exodus14() {
           of the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From this it is very clear that the waters of the Red Sea did
                 not begin to divide until the feet of the Israelites came to
                 their very brink, otherwise they would have crossed by sight,
@@ -403,7 +403,7 @@ export default function Exodus14() {
           upon his horsemen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Men do not have the final word, that belongs to God. We must
                 never forget, Gods honor is always at stake. Proper Faith in Him
                 will always vindicate His honor, despite the decision of men.)
@@ -425,7 +425,7 @@ export default function Exodus14() {
           before the camp of Israel, removed and went behind them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Angel of God spoken of in this Verse is actually a
                 preincarnate appearance of the Lord Jesus Christ; the Lord Jesus
                 is Jehovah and, one might say, the Jehovah of the Old Testament;
@@ -439,7 +439,7 @@ export default function Exodus14() {
           behind them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the Holy Spirit)</span>
+              <span className="explanation">(this is the Holy Spirit)</span>
             </span>
           </span>
           :
@@ -452,19 +452,19 @@ export default function Exodus14() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Egyptians)</span>
+              <span className="explanation">(to the Egyptians)</span>
             </span>
           </span>
           , but it gave light by night to these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Israel)</span>
+              <span className="explanation">(to Israel)</span>
             </span>
           </span>
           : so that the one came not near the other all the night.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Mackintosh says: How like the Cross of our
                 Lord Jesus Christ!
               </span>
@@ -531,7 +531,7 @@ export default function Exodus14() {
           divided.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The strong east wind that God used to push back a path through
                 the Sea was a Divine miracle, not something accomplished by the
                 mere uncontrolled forces of nature itself. The indication is,
@@ -549,7 +549,7 @@ export default function Exodus14() {
           the midst of the Sea upon the dry ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this puts to rest the fallacy of the skeptics, that the Sea was
                 only about two inches deep at this juncture; they didnt walk
                 across through shallow water, but rather on dry ground)
@@ -560,7 +560,7 @@ export default function Exodus14() {
           their left.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is believed that the path through the Sea was from ten to
                 twelve miles wide. Its depth was somewhere between 20 and 40
                 feet. The location was probably in the vicinity of the modern
@@ -588,7 +588,7 @@ export default function Exodus14() {
           chariots, and his horsemen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whether Pharaoh actually went in himself, the Scripture doesnt
                 say; however, I choose to believe that the pride of Pharaoh
                 demanded that he lead this charge and this attack.)
@@ -605,7 +605,7 @@ export default function Exodus14() {
           Egyptians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephus says concerning this: Showers of rain came down from
                 the sky, and dreadful thunders and lightning, with flashes of
                 fire; thunderbolts also were darted upon them; nor was there
@@ -625,7 +625,7 @@ export default function Exodus14() {
           that they drove them heavily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they found that their mighty chariot army did them no good)
               </span>
             </span>
@@ -634,7 +634,7 @@ export default function Exodus14() {
           the LORD fights for them against the Egyptians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They saw that the Lord was not only fighting for the Children
                 of Israel, but was, at the same time, fighting against the
                 Egyptians. They had been led into a trap, caused by their own
@@ -652,7 +652,7 @@ export default function Exodus14() {
           upon the Egyptians, upon their chariots, and upon their horsemen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord not only delivered Israel, but, as well, defeated the
                 Egyptians. At Calvary, the Lord not only delivered us, but He
                 also defeated Satan [
@@ -676,14 +676,14 @@ export default function Exodus14() {
           appeared{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at about daybreak)</span>
+              <span className="explanation">(at about daybreak)</span>
             </span>
           </span>
           ; and the Egyptians fled against it; and the LORD overthrew the
           Egyptians in the midst of the Sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Exactly as the Lord had said, Israel would see these Egyptians
                 no more.)
               </span>
@@ -698,7 +698,7 @@ export default function Exodus14() {
           into the Sea after them; there remained not so much as one of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As every Egyptian was totally and completely defeated, Satan
                 was totally and completely defeated, as well, at the Cross. Not
                 one single bondage of darkness was excluded, but rather Jesus
@@ -715,7 +715,7 @@ export default function Exodus14() {
           them on their right hand, and on their left.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It doesnt matter what type of deliverance is needed, God is
                 able!)
               </span>
@@ -730,7 +730,7 @@ export default function Exodus14() {
           upon the seashore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus concluded the stubbornness of Pharaoh! Faith in Christ and
                 the Cross renders death to the forces of evil.)
               </span>
@@ -744,7 +744,7 @@ export default function Exodus14() {
           the LORD did upon the Egyptians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God always performs a great work; He is still performing great
                 works, and He shall ever continue to perform great works)
               </span>
@@ -754,7 +754,7 @@ export default function Exodus14() {
           servant Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But regrettably, we will soon find that their faith was a
                 shallow faith.)
               </span>

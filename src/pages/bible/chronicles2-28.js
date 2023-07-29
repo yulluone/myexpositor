@@ -18,7 +18,7 @@ export default function Chronicles228() {
           father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, Ahaz was one of the most ungodly kings who ever ruled
                 over Judah)
               </span>
@@ -33,7 +33,7 @@ export default function Chronicles228() {
           kings of Israel, and made also molten images for Baalim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a characteristic sin of Israel, but Judah had not
                 previously been guilty of making molten images during the recent
                 past)
@@ -49,14 +49,14 @@ export default function Chronicles228() {
           valley of the son of Hinnom, and burnt his children in the fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human sacrifice)</span>
+              <span className="explanation">(human sacrifice)</span>
             </span>
           </span>
           , after the abominations of the heathen whom the LORD had cast out
           before the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the intimation is, if Judah continued in this particular
                 fashion, they would be cast out exactly as the heathen of old;
                 in fact, thats exactly what ultimately happened!)
@@ -72,7 +72,7 @@ export default function Chronicles228() {
           in the high places, and on the hills, and under every green tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, he engaged in idolatry to the hilt)
               </span>
             </span>
@@ -99,7 +99,7 @@ export default function Chronicles228() {
           valiant men; because they had forsaken the LORD God of their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason for the judgment is obviously clear!)
               </span>
             </span>
@@ -120,7 +120,7 @@ export default function Chronicles228() {
           away captive of their brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Judah)</span>
+              <span className="explanation">(of Judah)</span>
             </span>
           </span>{" "}
           two hundred thousand, women, sons, and daughters, and took also away
@@ -139,7 +139,7 @@ export default function Chronicles228() {
           and you have killed them in a rage that reaches up unto Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the particular language in which this is set forth proclaims
                 the inference of its abomination in Gods sight)
               </span>
@@ -154,7 +154,7 @@ export default function Chronicles228() {
           the Children of Judah and Jerusalem for bondmen and bondwomen unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>
           : but are there not with you, even with you, sins against the LORD
@@ -168,7 +168,7 @@ export default function Chronicles228() {
           the fierce wrath of the LORD is upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, the Lord is going to do to you what you have
                 done to Judah, if you do not quickly make amends)
               </span>
@@ -193,7 +193,7 @@ export default function Chronicles228() {
           for our trespass is great, and there is fierce wrath against Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for once, somebody heeded the Prophet of God!)
               </span>
             </span>
@@ -226,7 +226,7 @@ export default function Chronicles228() {
           the kings of Assyria to help him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after all the problems of being defeated by both Syria and
                 Israel, still, Ahaz will not seek the Face of the Lord, but,
                 instead, will lean on the arm of man, and heathen man, at that)
@@ -257,7 +257,7 @@ export default function Chronicles228() {
           because of Ahaz king of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is used in place of Judah, signifying the fact that the
                 Lord looked at Judah as the legitimate Israel)
               </span>
@@ -266,13 +266,15 @@ export default function Chronicles228() {
           ; for he made Judah naked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(naked to the Judgment of God)</span>
+              <span className="explanation">
+                (naked to the Judgment of God)
+              </span>
             </span>
           </span>
           , and transgressed sore against the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the judgment that the Lord brings is always redemptive in its
                 application; it is intended to bring the person or the nation to
                 repentance; in this case, it would not)
@@ -288,7 +290,7 @@ export default function Chronicles228() {
           came unto him, and distressed him, but strengthened him not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so, his effort to get the king of Assyria to help him only
                 resulted in them walking on him, so to speak)
               </span>
@@ -304,7 +306,7 @@ export default function Chronicles228() {
           princes, and gave it unto the king of Assyria: but he helped him not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they took advantage of him, knowing that he could not do
                 anything about it)
               </span>
@@ -319,7 +321,7 @@ export default function Chronicles228() {
           he trespass yet more against the LORD: this is that king Ahaz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit uses this latter phrase in order to point him
                 out; there are three other especially branded transgressors in
                 the Word of God; they are: Cain [
@@ -353,7 +355,7 @@ export default function Chronicles228() {
           help me. But they were the ruin of him, and of all Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when we read the account of Ahaz, his plight because of his
                 rebellion seems to be so clear, and yet most of the world, and
                 even the Church, seek help from that other than God; I speak of
@@ -372,7 +374,7 @@ export default function Chronicles228() {
           made him altars in the every corner of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tragically, the Church is presently shutting the covers of the
                 Bible, the only revealed Body of Truth in the world. Most
                 preaching and teaching of that which professes to be the Word of
@@ -392,7 +394,7 @@ export default function Chronicles228() {
           anger the LORD God of his fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anything that departs from the Bible, be it the obvious evil of
                 Ahaz or the subtle proposed solution of psychology, angers the
                 Lord of Glory)
@@ -420,7 +422,7 @@ export default function Chronicles228() {
           reigned in his stead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is with great relief that the Holy Spirit closes out the
                 sordid history of Ahaz; today he is in Hell, and will be there
                 forever and forever!)

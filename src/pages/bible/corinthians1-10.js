@@ -62,7 +62,7 @@ export default function Corinthians110() {
           and in the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a type of Water Baptism)</span>
+              <span className="explanation">(a type of Water Baptism)</span>
             </span>
           </span>
           ;
@@ -146,7 +146,7 @@ export default function Corinthians110() {
           : and that Rock was Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rock typified Christ)</span>
+              <span className="explanation">(the Rock typified Christ)</span>
             </span>
           </span>
           .
@@ -521,7 +521,7 @@ export default function Corinthians110() {
           <sup className="calibre7">18</sup>Behold Israel after the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Moses)</span>
+              <span className="explanation">(the Law of Moses)</span>
             </span>
           </span>
           : are not they which eat of the Sacrifices partakers of the Altar?{" "}
@@ -540,7 +540,7 @@ export default function Corinthians110() {
           <sup className="calibre7">19</sup>What say I then?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What am I saying?)</span>
+              <span className="explanation">(What am I saying?)</span>
             </span>
           </span>{" "}
           that the idol is anything, or that which is offered in Sacrifice to
@@ -600,13 +600,13 @@ export default function Corinthians110() {
           : you cannot be partakers of the Lords table{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lords Supper)</span>
+              <span className="explanation">(the Lords Supper)</span>
             </span>
           </span>
           , and of the table of devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that which the world offers)</span>
+              <span className="explanation">(that which the world offers)</span>
             </span>
           </span>
           .
@@ -748,7 +748,7 @@ export default function Corinthians110() {
           <sup className="calibre7">27</sup>If any of them who believe not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unsaved)</span>
+              <span className="explanation">(unsaved)</span>
             </span>
           </span>{" "}
           bid you{" "}

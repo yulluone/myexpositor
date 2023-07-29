@@ -21,7 +21,7 @@ export default function Chronicles128() {
           men, unto Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was Davids last assembly for Israel)
               </span>
             </span>
@@ -38,7 +38,7 @@ export default function Chronicles128() {
           building{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this address will show that David, in his dying hour, was more
                 concerned with the House of God than with anything else in his
                 kingdom)
@@ -61,7 +61,7 @@ export default function Chronicles128() {
           me before all the house of my father to be king over Israel for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his lineage, culminating in Christ)
               </span>
             </span>
@@ -69,7 +69,7 @@ export default function Chronicles128() {
           : for He has chosen Judah to be the ruler{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-49" scrollToId="#filepos654851">
                   <span className="calibre_19">
@@ -85,7 +85,7 @@ export default function Chronicles128() {
           ; and of the house of Judah, the house of my father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Jesse)</span>
+              <span className="explanation">(of Jesse)</span>
             </span>
           </span>
           ; and among the sons of my father He liked me to make me king over all
@@ -99,7 +99,7 @@ export default function Chronicles128() {
           throne of the kingdom of the LORD over Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this expression, not found in its entirety elsewhere, is an
                 emphatic statement of the true theocracy, which should have ever
                 prevailed among the people of Israel, but was set aside because
@@ -125,7 +125,7 @@ export default function Chronicles128() {
           at this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this provision is emphatically presented again to the attention
                 of Solomon, when the time comes for the direct appeal of God to
                 him [
@@ -168,7 +168,7 @@ export default function Chronicles128() {
           children after you for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For a time, Solomon was a Child of God. He loved the Lord and
                 walked in all His Statutes [
                 <ScrollLink href="/kings1-03" scrollToId="#filepos3720275">
@@ -230,7 +230,7 @@ export default function Chronicles128() {
           willing mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, this is the only thing that any individual can give
                 to God)
               </span>
@@ -240,7 +240,7 @@ export default function Chronicles128() {
           imaginations of the thoughts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord sees all things and knows all things, past, present,
                 and future)
               </span>
@@ -250,7 +250,7 @@ export default function Chronicles128() {
           will cast you off for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is one of the greatest Promises found in the entirety of
                 the Word of God. Irrespective of the disposition of the
                 individual involved, if the person seeks the Lord with all his
@@ -283,7 +283,7 @@ export default function Chronicles128() {
           by the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>
           , of the Courts of the House of the LORD, and of all the chambers
@@ -298,7 +298,7 @@ export default function Chronicles128() {
           the LORD, and for all the vessels of service in the House of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Verses declare that the Temple of Solomon was wholly
                 planned by God, and an absolutely full pattern of it and its
                 vessels given to David nothing was left to his or to Solomons
@@ -361,7 +361,7 @@ export default function Chronicles128() {
           this pattern{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David says that this Divine Pattern was communicated to him by
                 him being compelled by the Hand, or the Spirit, of Jehovah, to
                 record it all in writing, which he did!)
@@ -390,7 +390,7 @@ export default function Chronicles128() {
           commandment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nothing was left, as stated, to Solomons or Davids genius or
                 taste. All was by the Spirit; all was Divine!)
               </span>

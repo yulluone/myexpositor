@@ -18,7 +18,7 @@ export default function Genesis32() {
           Angels of God met him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (obeying the Lord, the Patriarch has the assurance of the
                 protection of Angels)
               </span>
@@ -32,7 +32,7 @@ export default function Genesis32() {
           <sup className="calibre7">2</sup>And when Jacob saw them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord pulls back the cover of the spirit world, and allows
                 Jacob to see the Angelic Host which will accompany him)
               </span>
@@ -42,7 +42,7 @@ export default function Genesis32() {
           Mahanaim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at Beth-el, some twenty years before, his possessions consisted
                 of a staff; but now he has become a host; Mahanaim means two
                 camps his feeble camp and the encircling camp of Gods mighty
@@ -59,7 +59,7 @@ export default function Genesis32() {
           to Esau his brother unto the land of Seir, the country of Edom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some believe that Esau was the founder of the ancient city of
                 Petra, and may have been there when Jacob sent for him)
               </span>
@@ -89,7 +89,7 @@ export default function Genesis32() {
           and four hundred men with him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One doesnt bring that many men, as it regards a mere greeting.
                 It is almost positive that Esau had other things in mind, and
                 they were not exactly meant to be pleasant.)
@@ -104,7 +104,7 @@ export default function Genesis32() {
           distressed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (did he not remember the host of Angels around him? But before
                 we criticize Jacob, we must, as well, look at ourselves)
               </span>
@@ -129,7 +129,7 @@ export default function Genesis32() {
           with you:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Like many today, Jacob first makes his plans and then prays! He
                 should have reversed the action. But the sense of having acted
                 wrongly those years ago regarding his brother, Esau, fills the
@@ -146,7 +146,7 @@ export default function Genesis32() {
           the mercies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacobs prayer is the first recorded in the Bible)
               </span>
             </span>
@@ -156,7 +156,7 @@ export default function Genesis32() {
           bands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His prayer was correct, but his faith, as of yet, wasnt!)
               </span>
             </span>
@@ -170,7 +170,7 @@ export default function Genesis32() {
           will come and smite me, and the mother with the children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob asked the Lord to deliver him, but then turns around and
                 tries to appease Esau with a present. Was he placing more
                 confidence in a few lambs than he did Jehovah, to Whom he had
@@ -195,7 +195,7 @@ export default function Genesis32() {
           and took of that which came to his hand a present for Esau his brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning this, Mackintosh says: Now, praying and planning
                 will never go together. If I plan, I am leaning more or less on
                 my plan; but when I pray, I should lean exclusively upon God.
@@ -238,7 +238,7 @@ export default function Genesis32() {
           <sup className="calibre7">17</sup>And he commanded the foremost{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the men in the lead)</span>
+              <span className="explanation">(the men in the lead)</span>
             </span>
           </span>
           , saying, When Esau my brother meets you, and asks you, saying, For
@@ -253,7 +253,7 @@ export default function Genesis32() {
           also he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           is behind us.
@@ -274,7 +274,7 @@ export default function Genesis32() {
           peradventure he will accept of me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In 2003 currency, these gifts would have amounted to well over
                 $100,000. Jacobs idea was that the gifts to Esau would be given
                 drove by drove. If he accepted them, this would mean that he
@@ -292,7 +292,7 @@ export default function Genesis32() {
           and himself lodged that night in the company{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with his family)</span>
+              <span className="explanation">(with his family)</span>
             </span>
           </span>
         </span>
@@ -310,13 +310,13 @@ export default function Genesis32() {
           <sup className="calibre7">23</sup>And he took them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his family)</span>
+              <span className="explanation">(his family)</span>
             </span>
           </span>
           , and sent them over the brook, and sent over that he had.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The brook Jabbok crosses the Jordan about 30 miles north of the
                 Dead Sea.)
               </span>
@@ -333,7 +333,7 @@ export default function Genesis32() {
           wrestled a Man with him until the breaking of the day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Chapter, and in Hosea [Chpt.{" "}
                 <ScrollLink href="/genesis-12" scrollToId="#filepos156710">
                   <span className="calibre_19">
@@ -356,26 +356,26 @@ export default function Genesis32() {
           <sup className="calibre7">25</sup>And when He saw{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord saw)</span>
+              <span className="explanation">(the Lord saw)</span>
             </span>
           </span>{" "}
           that He prevailed not against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Jacob)</span>
+              <span className="explanation">(against Jacob)</span>
             </span>
           </span>
           , He touched the hollow of his thigh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacobs thigh)</span>
+              <span className="explanation">(Jacobs thigh)</span>
             </span>
           </span>
           ; and the hollow of Jacobs thigh was out of joint, as He wrestled with
           him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great principle that God cannot give victory to the flesh
                 appears in this night scene. It is the broken heart that begins
                 to experience what Divine Power means. Better for the sun to
@@ -394,19 +394,19 @@ export default function Genesis32() {
           <sup className="calibre7">26</sup>And He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord said)</span>
+              <span className="explanation">(the Lord said)</span>
             </span>
           </span>
           , Let Me go, for the day breaks. And he said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob said)</span>
+              <span className="explanation">(Jacob said)</span>
             </span>
           </span>
           , I will not let You go, except You bless me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, When sore broken by that mighty Hand, he ceased
                 to wrestle and clung with weeping and supplication to the very
                 God Who wounded him, then it was that he got the victory and the
@@ -421,13 +421,13 @@ export default function Genesis32() {
           <sup className="calibre7">27</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto him, What is your name? And he said, Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of course, the Lord already knew Jacobs name. So, why did He
                 insist on Jacob pronouncing his name? He wanted Jacob to admit
                 who and what he actually was, which the name Jacob adequately
@@ -443,13 +443,13 @@ export default function Genesis32() {
           <sup className="calibre7">28</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, Your name shall be called no more Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning deceiver or supplanter)
               </span>
             </span>
@@ -457,14 +457,14 @@ export default function Genesis32() {
           , but Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Prince of God)</span>
+              <span className="explanation">(a Prince of God)</span>
             </span>
           </span>
           : for as a Prince have you power with God and with men, and have
           prevailed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as we shall see, Jacobs change was instant, but yet gradual)
               </span>
             </span>
@@ -479,7 +479,7 @@ export default function Genesis32() {
           ask after My name?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lords answer is revealing. He responds with another
                 question: the idea is, Jacob, by now, ought to know Who the One
                 is with Whom he has been struggling. And the next statements
@@ -490,19 +490,19 @@ export default function Genesis32() {
           and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           blessed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He gave him power with God and with men)
               </span>
             </span>
@@ -516,13 +516,13 @@ export default function Genesis32() {
           place Peniel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means the Face of God)</span>
+              <span className="explanation">(means the Face of God)</span>
             </span>
           </span>
           : for I have seen God face to face, and my life is preserved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob will never be the same again)
               </span>
             </span>
@@ -536,7 +536,7 @@ export default function Genesis32() {
           rose upon him, and he halted upon his thigh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sun is now rising, but upon a crippled Jacob. If the Lord
                 is to reveal Himself to an individual, the flesh must be
                 crippled. That is an absolute necessity!)
@@ -552,13 +552,13 @@ export default function Genesis32() {
           unto this day: because He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           touched the hollow of Jacobs thigh in the sinew that shrank.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This particular sinew is the proper name for the large tendon
                 which takes its origin from the spinal cord and extends down the
                 thigh unto the ankle. It was called by the Greeks the tendo

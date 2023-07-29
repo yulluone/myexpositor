@@ -488,7 +488,7 @@ export default function Samuel115() {
           away, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saul)</span>
+              <span className="explanation">(Saul)</span>
             </span>
           </span>{" "}
           laid hold upon the skirt of his mantle, and it rent.

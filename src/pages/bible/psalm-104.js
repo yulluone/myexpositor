@@ -92,7 +92,7 @@ export default function Psalm104() {
           Earth, that it should not be removed forever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(creation demands a Creator)</span>
+              <span className="explanation">(creation demands a Creator)</span>
             </span>
           </span>
           .

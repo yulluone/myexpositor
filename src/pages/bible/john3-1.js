@@ -171,7 +171,7 @@ export default function John31() {
           charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           before the Church: whom if you bring forward on their journey after a

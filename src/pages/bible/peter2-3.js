@@ -359,7 +359,7 @@ export default function Peter23() {
           all these things shall be dissolved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the present is temporal)</span>
+              <span className="explanation">(the present is temporal)</span>
             </span>
           </span>
           , what manner{" "}
@@ -377,7 +377,7 @@ export default function Peter23() {
           Holy conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
           </span>{" "}
           and Godliness{" "}
@@ -420,7 +420,7 @@ export default function Peter23() {
           <sup className="calibre7">13</sup>Nevertheless we{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>
           , according to His Promise{" "}
@@ -442,7 +442,7 @@ export default function Peter23() {
           , look for new Heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the Promise!)</span>
+              <span className="explanation">(this is the Promise!)</span>
             </span>
           </span>{" "}
           and a new earth, wherein dwells Righteousness.{" "}

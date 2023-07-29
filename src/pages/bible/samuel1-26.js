@@ -132,7 +132,7 @@ export default function Samuel126() {
           his spear stuck in the ground at his bolster{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pillow)</span>
+              <span className="explanation">(pillow)</span>
             </span>
           </span>
           : but Abner and the people lay round about him.

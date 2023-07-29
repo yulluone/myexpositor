@@ -18,7 +18,7 @@ export default function Isaiah44() {
           Israel, whom I have chosen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord is saying, Be not dismayed at what has been said;
                 listen a little longer)
               </span>
@@ -34,7 +34,7 @@ export default function Isaiah44() {
           servant; and you, Jesurun, whom I have chosen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After proclaiming to Israel exactly what they were sinners, the
                 Lord now assures them of His Love and Grace. He introduces this
                 message with: Yet now hear.
@@ -65,7 +65,7 @@ export default function Isaiah44() {
           your seed, and My blessing upon your offspring{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Promise had a fulfillment at Pentecost; but the future
                 only will bring the total fulfillment.
               </span>
@@ -113,7 +113,7 @@ export default function Isaiah44() {
           grass, as willows by the water courses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel rejected their Pentecost some 2,000 years ago. But now
                 at the Second Advent of Christ they will accept, and gladly! At
                 this time, He will pour water upon him who is thirsty, and
@@ -143,7 +143,7 @@ export default function Isaiah44() {
           of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that untold thousands of Gentiles,
                 seeing the blessings of the Lord upon Israel, will no doubt take
                 as a surname the name of Israel.
@@ -176,7 +176,7 @@ export default function Isaiah44() {
           the Last; and beside Me there is no God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let all know and understand: there is no Redeemer but the Lord!
                 There is One God, manifest in Three Persons: God the Father, God
                 the Son, and God the Holy Spirit, Who are all One in essence [
@@ -252,7 +252,7 @@ export default function Isaiah44() {
           unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun them in the last sentence refers to idolaters. They
                 are challenged to declare the things that are coming, and that
                 shall come, as only the Lord can do!)
@@ -269,7 +269,7 @@ export default function Isaiah44() {
           any.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels Saviour keeps assuring His People here that they are
                 His; that they always have been His; that they always shall be
                 His; that He will never forget them; that though all other
@@ -312,7 +312,7 @@ export default function Isaiah44() {
           ashamed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idolaters, as witnesses to the supposed existence and power
                 of their idols, are themselves like the idols. They neither see
                 nor know; they have neither vision nor intelligence. Hence, the
@@ -329,7 +329,7 @@ export default function Isaiah44() {
           graven image that is profitable for nothing?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning of the Passage is: Who has been so foolish as to do
                 so to take so much trouble about a thing which cannot possibly
                 profit anyone?
@@ -358,7 +358,7 @@ export default function Isaiah44() {
           ashamed together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The essence of this Verse is: Even if all the worshippers and
                 makers of idols should all be gathered together and stand up to
                 help one another, yet would they be unable to effect anything.
@@ -377,7 +377,7 @@ export default function Isaiah44() {
           drinks no water, and is faint.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit uses sarcasm in these Passages, speaking of the
                 smith who makes an ax for the carpenter with which he can cut
                 down a strong tree and fashion it into the figure of a handsome
@@ -397,7 +397,7 @@ export default function Isaiah44() {
           according to the beauty of a man; that it may remain in the house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Idolatry blinds the senses that a man will cook his food with
                 one-half of a tree and bow down and worship the other half as a
                 god able to deliver him. He worships a god whom he himself
@@ -414,7 +414,7 @@ export default function Isaiah44() {
           trees of the forest: he plants an ash, and the rain does nourish it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that God made the trees of any and
                 all varieties; then senseless man, deceived by Satan, takes one
                 and proposes to make a god of it. How stupid!)
@@ -431,7 +431,7 @@ export default function Isaiah44() {
           graven image, and falls down thereto.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He worships what he makes. Again, I say, How stupid! He doesnt
                 seem to realize that he has to be more intelligent than what he
                 has made. So why worship something that is less intelligent than
@@ -448,7 +448,7 @@ export default function Isaiah44() {
           yes, he warms himself, and says, Aha, I am warm, I have seen the fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he takes part of the tree and uses the wood to build a fire,
                 thereby preparing his meal; with the other half, he fashions a
                 god. Hence, men take on the nature of that which they worship.
@@ -467,7 +467,7 @@ export default function Isaiah44() {
           and prays unto it, and says, Deliver me; for you are my god.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Harvard graduate would smile at such ignorance; and yet, if
                 the graduate knows not the Lord Jesus Christ, he is himself an
                 idolater, functioning in the same capacity as the one he
@@ -484,7 +484,7 @@ export default function Isaiah44() {
           that they cannot understand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word shut means to be daubed with clay. When anyone turns
                 from the Revelation God has given of Himself in Scriptures and
                 bows down to idols, or places something else ahead of God, a
@@ -504,7 +504,7 @@ export default function Isaiah44() {
           tree?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, none considers in his heart, refers to the fact
                 that the idolaters had once had it in their power to think and
                 reason justly upon the absurdity of such conduct as that which
@@ -535,7 +535,7 @@ export default function Isaiah44() {
           there not a lie in my right hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Anything and everything apart from God and His Word is a lie!)
               </span>
             </span>
@@ -552,7 +552,7 @@ export default function Isaiah44() {
           Israel, you shall not be forgotten of Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The things that He desires Israel to remember is the futility
                 of idol worship. He says the same to us today!
               </span>
@@ -580,7 +580,7 @@ export default function Isaiah44() {
           Me; for I have redeemed you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Return unto Me, is the underlying condition of both
                 Restoration and forgiveness. It signals Repentance! Then, and
                 then only, can the sins be blotted out.)
@@ -597,7 +597,7 @@ export default function Isaiah44() {
           has redeemed Jacob, and glorified Himself in Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication of this Passage is that if Israel is right with
                 God, the heavens will sing, the lower parts of the Earth will
                 shout, etc.
@@ -627,7 +627,7 @@ export default function Isaiah44() {
           Earth by Myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not only is the Deliverance absolutely determined in Gods
                 Counsels, but the Deliverer Himself is always chosen and
                 designated; that Deliverer is Christ, which He has done through
@@ -645,7 +645,7 @@ export default function Isaiah44() {
           their knowledge foolish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the world today is full of psychics, mediums, prognosticators,
                 channelers, new-agers, and pretenders to knowledge of the
                 future, etc. God calls them liars!)
@@ -663,7 +663,7 @@ export default function Isaiah44() {
           shall be built, and I will raise up the decayed places thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was fulfilled approximately 200 years later, when Cyrus,
                 king of Persia, made a decree that Jews could return to their
                 own land and rebuild their City and Temple [
@@ -687,7 +687,7 @@ export default function Isaiah44() {
           will dry up your rivers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proclaims, approximately 200 years before it happened, how
                 the riverbed of the Euphrates would be dried up so that Cyrus
                 could take the city of Babylon)
@@ -704,7 +704,7 @@ export default function Isaiah44() {
           You shall be built; and to the Temple, Your foundation shall be laid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Amazingly enough, the Lord calls Cyrus by name approximately
                 150 years before he was born, and about 200 years before these
                 things came to pass.)

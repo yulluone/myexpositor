@@ -21,7 +21,7 @@ export default function Chronicles231() {
           own cities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, they returned with prosperity now made possible)
               </span>
             </span>
@@ -43,7 +43,7 @@ export default function Chronicles231() {
           the gates of the tents of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was thought of as so much foolishness by Ahaz; likewise,
                 the carnal mind sees no profit in such, but the spiritual mind
                 understands its value; if we ignore the Bible, we lose our love
@@ -62,14 +62,14 @@ export default function Chronicles231() {
           evening Burnt Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 a.m. and 3 p.m.)</span>
+              <span className="explanation">(9 a.m. and 3 p.m.)</span>
             </span>
           </span>
           , and the Burnt Offerings for the Sabbaths, and for the new moons, and
           for the set Feasts, as it is written in the Law of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah did not evade his own responsibilities in the matter
                 of contribution; his portion was the tithe)
               </span>
@@ -85,7 +85,7 @@ export default function Chronicles231() {
           that they might be encouraged in the Law of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the king meant to set an example, which he did!)
               </span>
             </span>
@@ -101,7 +101,7 @@ export default function Chronicles231() {
           and the tithe of all things brought they in abundantly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whenever the Church is on fire for God, money is given
                 liberally to the Work of God; otherwise, there is little giving)
               </span>
@@ -118,7 +118,7 @@ export default function Chronicles231() {
           consecrated unto the LORD their God, and laid them by heaps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when we give in heaps, the Lord gives it back to us even in
                 greater heaps [
                 <ScrollLink href="/luke-06" scrollToId="#filepos11830007">
@@ -141,7 +141,7 @@ export default function Chronicles231() {
           the foundation of the heaps, and finished them in the seventh month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the third month the Feast of Pentecost was conducted, while
                 in the seventh month was conducted the Feast of Tabernacles)
               </span>
@@ -162,7 +162,7 @@ export default function Chronicles231() {
           Priests and the Levites concerning the heaps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the questioning probably had to do with how the superabundant
                 contributions should be utilized or preserved Pulpit)
               </span>
@@ -183,7 +183,7 @@ export default function Chronicles231() {
           which is left is this great store{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (under the New Covenant, we have even greater Promises [
                 <ScrollLink href="/hebrews-08" scrollToId="#filepos14505595">
                   <span className="calibre_19">
@@ -246,7 +246,7 @@ export default function Chronicles231() {
           by courses, as well to the great as to the small{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the latter phrase portrays the fact that the duty had not
                 always in the past been honestly discharged)
               </span>
@@ -263,7 +263,7 @@ export default function Chronicles231() {
           charges according to their courses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a picture of the little children being fed for the sake of
                 their fathers Sanctuary service is a pleasant glimpse)
               </span>
@@ -287,7 +287,7 @@ export default function Chronicles231() {
           themselves in Holiness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to the Word of the Lord)
               </span>
             </span>
@@ -304,7 +304,7 @@ export default function Chronicles231() {
           reckoned by genealogies among the Levites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this proclaims the fact that all the Priests and the
                 Levites were remembered and carefully provided for, which is the
                 way it was supposed to be)
@@ -329,7 +329,7 @@ export default function Chronicles231() {
           prospered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (true prosperity can only be found in faithfully following the
                 Word of the Lord; this Hezekiah did!)
               </span>

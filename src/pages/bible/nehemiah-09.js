@@ -78,13 +78,13 @@ export default function Nehemiah09() {
           <sup className="calibre7">4</sup>Then stood up upon the stairs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(platform)</span>
+              <span className="explanation">(platform)</span>
             </span>
           </span>
           , of the Levites, Jeshua{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>
           , and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani,
@@ -493,7 +493,7 @@ export default function Nehemiah09() {
           <sup className="calibre7">20</sup>You gave also Your good Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           to instruct them{" "}
@@ -729,7 +729,7 @@ export default function Nehemiah09() {
           and testified against them by Your Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           in Your Prophets: yet would they not give ear: therefore You gave them
@@ -841,7 +841,7 @@ export default function Nehemiah09() {
           kings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(heathen kings)</span>
+              <span className="explanation">(heathen kings)</span>
             </span>
           </span>{" "}
           whom You have set over us because of our sins{" "}

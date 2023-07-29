@@ -17,7 +17,7 @@ export default function Jeremiah15() {
           people: cast them out of My sight, and let them go forth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Though Moses and Samuel stood before Me, suggests that these
                 two through intercession had persuaded the Lord to change His
                 direction regarding appointed destruction of the people of
@@ -52,7 +52,7 @@ export default function Jeremiah15() {
           famine; and such as are for the captivity, to the captivity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, we find that three-fourths of the people were
                 doomed to death, and one-fourth to slavery, and all because of
                 sin!)
@@ -69,7 +69,7 @@ export default function Jeremiah15() {
           destroy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The judgment of this Verse was a just one, for the people of
                 Judah worshipped the gods of war, the vultures of the heavens,
                 and the wild beasts of the Earth. And I will appoint over them,
@@ -87,7 +87,7 @@ export default function Jeremiah15() {
           Hezekiah king of Judah, for that which he did in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Manasseh repented of his evil conduct, and was wondrously
                 cleansed and forgiven by the Lord, and is today in Heaven;
                 however, the bitter fruits of his evil conduct prior to his
@@ -127,7 +127,7 @@ export default function Jeremiah15() {
           you do?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication of this Verse is that Jerusalem would fall,
                 suffering horribly, and no one would care. The surrounding
                 nations not only would not care, but would themselves come to
@@ -152,7 +152,7 @@ export default function Jeremiah15() {
           you, and destroy you; I am weary with repenting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I am weary with repenting, refers to the Lord, and not to
                 Judah. He had, over and over again, delayed the Judgment
                 [repented of what He was about to do], and now says He will no
@@ -170,7 +170,7 @@ export default function Jeremiah15() {
           People, since they return not from their ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the gates of the land, refers to the fortresses commanding
                 the entrance into Judah, hence, the people being taken captive
                 into Babylon close by these very fortresses designed to protect
@@ -201,7 +201,7 @@ export default function Jeremiah15() {
           fall upon it suddenly, and terrors upon the city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The spoiler is Nebuchadnezzar. He will come at noonday,
                 referring to his powerful strength, which makes known what he
                 will do, and has the power to carry it out.)
@@ -218,7 +218,7 @@ export default function Jeremiah15() {
           deliver to the sword before their enemies, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So wholesale would be the destruction of life that a mother of
                 seven sons would not have one left to comfort her. Upon hearing
                 these Prophecies, the people thought them to be lunatic and,
@@ -237,7 +237,7 @@ export default function Jeremiah15() {
           every one of them does curse me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Spirit of Christ expresses Itself in Jeremiah. In Christ,
                 the expression is perfect; in Jeremiah, imperfect, because the
                 Prophet was only a man, and sinful. He loved the people, bore
@@ -271,7 +271,7 @@ export default function Jeremiah15() {
           well in the time of evil and in the time of affliction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your Remnant, shows that there were a few who heeded Jeremiahs
                 words and, therefore, followed him, as he followed the Lord.
                 [The Remnant could also refer to the small number left in the
@@ -310,7 +310,7 @@ export default function Jeremiah15() {
           and the steel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The iron is Judah, while the northern iron is the Chaldeans.
                 The figure expresses the impossibility of Judah, at least within
                 their own power, defeating the Chaldeans.)
@@ -326,7 +326,7 @@ export default function Jeremiah15() {
           even in all your borders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims the substance and treasures of Judah being
                 given as spoil to the Babylonians.)
               </span>
@@ -341,7 +341,7 @@ export default function Jeremiah15() {
           My anger, which shall burn upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah, in this Verse, at least in part, is quoting from{" "}
                 <ScrollLink href="/deuteronmy-32" scrollToId="#filepos2442450">
                   <span className="calibre_19">
@@ -368,7 +368,7 @@ export default function Jeremiah15() {
           longsuffering: know that for Your sake I have suffered rebuke.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet in this Passage prays for the Remnant. In the
                 Spirit of Christ, he calls their persecutors his persecutors,
                 and pleads that God, in His longsuffering to the persecutors,
@@ -395,7 +395,7 @@ export default function Jeremiah15() {
           I am called by Your Name, O LORD God of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Bible was found in the Eighteenth year of King Josiah, and
                 its Divine Words were the joy and rejoicing of the Prophets
                 heart. In this Verse, the Prophet is a marked Type of Christ.
@@ -423,7 +423,7 @@ export default function Jeremiah15() {
           filled me with indignation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As his Message was rejected, so was he rejected and, therefore,
                 he sat not in the assembly of the mockers. Mockers mocked his
                 Message and laughed at him; consequently, he was alone, save the
@@ -449,7 +449,7 @@ export default function Jeremiah15() {
           unto me as a liar, and as waters that fail?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His indignation against sin, his perpetual pain for the sinner,
                 his consciousness of a moral hopelessness of the nation, all
                 marked the energy and intelligence of the Divine life and love
@@ -495,7 +495,7 @@ export default function Jeremiah15() {
           mouth: let them return unto you; but return not you unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the last three Verses, the Prophet is addressed as the
                 representative of the Remnant. The Remnant was first to return
                 to Jehovah, thereby separating the precious from the vile; and
@@ -527,7 +527,7 @@ export default function Jeremiah15() {
           you, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Lord is saying that as He delivered Jeremiah
                 from these staggering odds, He, as well, could have, and in fact
                 would have, delivered Judah from the Babylonians, if they had
@@ -544,7 +544,7 @@ export default function Jeremiah15() {
           terrible.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These individuals would have killed Jeremiah in a moment but
                 for the Hand of the Lord. Their hearts are so wicked, and their
                 intentions so evil, that the Holy Spirit describes them as

@@ -232,7 +232,7 @@ export default function Psalm041() {
           <sup className="calibre7">11</sup>By this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>{" "}
           I know that You favor me, because my enemy does not triumph over me{" "}

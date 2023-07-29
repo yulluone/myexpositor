@@ -19,7 +19,7 @@ export default function Daniel07() {
           then he wrote the Dream, and told the sum of the matters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos9836887">
                   <span className="calibre_19">
@@ -43,7 +43,7 @@ export default function Daniel07() {
           the great sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The four winds of the heaven, refers to wars, strife, and
                 Judgments from God [
                 <ScrollLink href="/jeremiah-25" scrollToId="#filepos8506911">
@@ -98,7 +98,7 @@ export default function Daniel07() {
           the sea, diverse one from another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beasts in symbolic Passages represent kingdoms [
                 <ScrollLink href="/revelation-17" scrollToId="#filepos15078080">
                   <span className="calibre_19">
@@ -150,7 +150,7 @@ export default function Daniel07() {
           mans heart was given to it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first was like a lion, refers to the Babylonian Empire. The
                 eagles wings symbolize the rapid pace with which the Babylonian
                 Empire conquered its enemies and gained its ascendancy. The
@@ -181,7 +181,7 @@ export default function Daniel07() {
           unto it, Arise, devour much flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (On the statue of{" "}
                 <ScrollLink href="/daniel-02" scrollToId="#filepos9751475">
                   <span className="calibre_19">
@@ -224,7 +224,7 @@ export default function Daniel07() {
           the beast had also four heads; and dominion was given to it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This short description defines the Grecian Empire under
                 Alexander the Great as a leopard. This Empire would come to the
                 fore about 200 years from Daniels day. The four wings of a fowl
@@ -262,7 +262,7 @@ export default function Daniel07() {
           diverse from all the beasts that were before it; and it had ten horns.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This beast represents the Roman Empire, which was the strongest
                 and most powerful of all. It lasted for nearly a thousand years.
               </span>
@@ -300,7 +300,7 @@ export default function Daniel07() {
           things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At first, Daniel did not understand the horns. Even though the
                 Roman Empire has come and gone, still, the ten horns have not
                 yet risen to power; however, the breakup of the former Soviet
@@ -351,7 +351,7 @@ export default function Daniel07() {
           the fiery flame, and His Wheels as burning fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, I beheld till the thrones were cast down, speaks of
                 all the Empires, even from Babylon straight through to the
                 Antichrist. All of them have already been cast down with the
@@ -383,7 +383,7 @@ export default function Daniel07() {
           and the Books were opened.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the Hebrew, the number is chiliads of chiliads. It is a
                 Hebraism meaning countless numbers. The Judgment was set, and
                 the Books were opened, has to do with the Judgment of the
@@ -404,7 +404,7 @@ export default function Daniel07() {
           was slain, and his body destroyed, and given to the burning flame.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great words which the horn spoke speak of great opposition
                 against God. At the Second Coming of Christ, the Antichrist will
                 be killed and cast into Hell.)
@@ -425,7 +425,7 @@ export default function Daniel07() {
           prolonged for a season and time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As concerning the rest of the beasts, refers to the kingdoms
                 preceding the little horn, beginning back with the Babylonian
                 Empire. Even though these Empires have long since passed away,
@@ -454,7 +454,7 @@ export default function Daniel07() {
           came to the Ancient of Days, and they brought Him near before Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This One like the Son of Man is The Lord Jesus Christ. We have
                 here the Trinity represented: God the Father, i.e., the Ancient
                 of Days, The Son of Man, Who, as stated, is Jesus Christ, and
@@ -472,7 +472,7 @@ export default function Daniel07() {
           not pass away, and His Kingdom that which shall not be destroyed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse corresponds with{" "}
                 <ScrollLink href="/daniel-02" scrollToId="#filepos9765906">
                   <span className="calibre_19">
@@ -504,7 +504,7 @@ export default function Daniel07() {
           me know the interpretation of the things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, One of them who stood by, refers to the countless
                 numbers who are standing before the Throne of God. Quite
                 possibly, this was Gabriel; however, we have no proof.)
@@ -519,7 +519,7 @@ export default function Daniel07() {
           are four kings, which shall arise out of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The four kings are, as stated, Babylon, Medo-Persia, Greece,
                 and Rome. Which shall arise out of the Earth, simply means that
                 they are of the people, of man, and, therefore, not of God. The
@@ -544,7 +544,7 @@ export default function Daniel07() {
           ever and ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Saints in this Passage refer to Israel, which will be
                 restored and become the leading Nation in the world under
                 Christ.)
@@ -561,7 +561,7 @@ export default function Daniel07() {
           devoured, broke in pieces, and stamped the residue with his feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fourth beast, as stated, is a symbol of the old Roman
                 Empire, the fourth of four kingdoms in succession. It is
                 mentioned by name only in the New Testament [
@@ -659,7 +659,7 @@ export default function Daniel07() {
           things, whose look was more stout than his fellows.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The other which came up is the same as the little horn of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9843711">
                   <span className="calibre_19">
@@ -692,7 +692,7 @@ export default function Daniel07() {
           with the Saints, and prevailed against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Saints mentioned here are not the Church, but rather
                 Israel. The war spoken of here concerns the Antichrist signing a
                 seven-year nonaggression pact with Israel, and then breaking it
@@ -710,7 +710,7 @@ export default function Daniel07() {
           that the Saints possessed the kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Until the Ancient of days came, refers back to Verses 9, 13 and
                 14. It does not actually mean that God the Father will come to
                 Planet Earth at this time, but instead that He will direct the
@@ -742,7 +742,7 @@ export default function Daniel07() {
           and break it in pieces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Angel Gabriel speaks in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9849921">
                   <span className="calibre_19">
@@ -804,7 +804,7 @@ export default function Daniel07() {
           three kings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some teach that the ten toes and ten horns of Daniel,{" "}
                 <ScrollLink href="/daniel-02" scrollToId="#filepos9751475">
                   <span className="calibre_19">
@@ -876,7 +876,7 @@ export default function Daniel07() {
           hand until a time and times and the dividing of time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he shall speak great words against the Most High, is used
                 several times by the Holy Spirit in various ways, drawing our
                 attention to the blasphemy of the Antichrist.
@@ -906,7 +906,7 @@ export default function Daniel07() {
           end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Angel refers back to{" "}
                 <ScrollLink href="/" scrollToId="#filepos9846043">
                   <span className="calibre_19">
@@ -930,7 +930,7 @@ export default function Daniel07() {
           Everlasting Kingdom, and all dominions shall serve and obey Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The greatness of the kingdom under the whole heaven, refers to
                 the entirety of the Earth, with Christ Jesus reigning supreme.)
               </span>
@@ -945,7 +945,7 @@ export default function Daniel07() {
           changed in me: but I kept the matter in my heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse indicates that Daniel, despite the interpretation of
                 the Angel, still did not fully comprehend the extent of his
                 vision.)

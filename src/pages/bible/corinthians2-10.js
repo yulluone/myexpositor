@@ -16,7 +16,7 @@ export default function Corinthians210() {
           meekness and gentleness of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I appeal to you on the basis of love)
               </span>
             </span>
@@ -30,7 +30,7 @@ export default function Corinthians210() {
           base among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably presents the Apostle using the actual taunts of his
                 adversaries)
               </span>
@@ -51,7 +51,7 @@ export default function Corinthians210() {
           wherewith I think to be bold against some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Paul would only use boldness if it was
                 absolutely necessary)
               </span>
@@ -60,7 +60,7 @@ export default function Corinthians210() {
           , which think of us as if we walked according to the flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pauls enemies thought this way because they functioned in the
                 flesh themselves, which means that they didnt have the Power of
                 God.)
@@ -74,7 +74,7 @@ export default function Corinthians210() {
           <sup className="calibre7">3</sup>For though we walk in the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that we do not yet have Glorified Bodies)
               </span>
             </span>
@@ -82,7 +82,7 @@ export default function Corinthians210() {
           , we do not war after the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after our own ability, but rather by the Power of the Spirit)
               </span>
             </span>
@@ -101,7 +101,7 @@ export default function Corinthians210() {
           not carnal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carnal weapons consist of those which are man-devised)
               </span>
             </span>
@@ -109,7 +109,7 @@ export default function Corinthians210() {
           , but mighty through God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Cross of Christ [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -133,7 +133,7 @@ export default function Corinthians210() {
           <sup className="calibre7">5</sup>Casting down imaginations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (philosophic strongholds; every effort man makes outside of the
                 Cross of Christ)
               </span>
@@ -143,7 +143,7 @@ export default function Corinthians210() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the pride of the human heart)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Corinthians210() {
           , and bringing into captivity every thought to the obedience of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (can be done only by the Believer looking exclusively to the
                 Cross, where all Victory is found; the Holy Spirit will then
                 perform the task)
@@ -167,7 +167,7 @@ export default function Corinthians210() {
           all disobedience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to that which is opposed to the Cross, where alone all
                 Victory is found)
               </span>
@@ -176,7 +176,7 @@ export default function Corinthians210() {
           , when your obedience is fulfilled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is fulfilled when looking exclusively, as stated, to Christ and
                 the Cross)
               </span>
@@ -191,7 +191,7 @@ export default function Corinthians210() {
           outward appearance?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is Faith alone that counts.)
               </span>
             </span>
@@ -200,7 +200,7 @@ export default function Corinthians210() {
           think this again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the false teachers who laid claims to being followers
                 of Christ by way of eminence)
               </span>
@@ -221,7 +221,7 @@ export default function Corinthians210() {
           we Christs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is simply saying that he is of Christ as well!)
               </span>
             </span>
@@ -234,7 +234,7 @@ export default function Corinthians210() {
           more of our authority{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what the Lord had called him to do)
               </span>
             </span>
@@ -243,7 +243,7 @@ export default function Corinthians210() {
           destruction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the true purpose of Spiritual Authority)
               </span>
             </span>
@@ -251,7 +251,7 @@ export default function Corinthians210() {
           , I should not be ashamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no shame shall ever accrue to me from my boast being proved
                 false)
               </span>
@@ -266,7 +266,7 @@ export default function Corinthians210() {
           terrify you by letters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably I and II Corinthians)
               </span>
             </span>
@@ -291,7 +291,7 @@ export default function Corinthians210() {
           weighty and powerful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the description given by his critics)
               </span>
             </span>
@@ -317,7 +317,7 @@ export default function Corinthians210() {
           speech contemptible.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents slander concerning his person. His detractors
                 didnt believe what he wrote or preached, especially as it
                 concerned the Cross.)
@@ -331,7 +331,7 @@ export default function Corinthians210() {
           <sup className="calibre7">11</sup>Let such an one think this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (directed at the individual of{" "}
                 <ScrollLink href="/" scrollToId="#filepos13872179">
                   <span className="calibre_19">
@@ -353,7 +353,7 @@ export default function Corinthians210() {
           also in deed when we are present.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This referred to the fact that the Spirit of God would be with
                 him.)
               </span>
@@ -370,7 +370,7 @@ export default function Corinthians210() {
           the number{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the dividing line of the Church)
               </span>
             </span>
@@ -378,7 +378,7 @@ export default function Corinthians210() {
           , or compare ourselves with some who commend themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but the Lord didnt commend them)
               </span>
             </span>
@@ -387,7 +387,7 @@ export default function Corinthians210() {
           themselves among themselves, are not wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-righteousness)</span>
+              <span className="explanation">(self-righteousness)</span>
             </span>
           </span>
           .
@@ -405,7 +405,7 @@ export default function Corinthians210() {
           measure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Call of God on his life)
               </span>
             </span>
@@ -414,7 +414,7 @@ export default function Corinthians210() {
           to us, a measure to reach even unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Gods measurement as it concerned Ministry. In
                 other words, where he would take the Gospel.)
               </span>
@@ -440,7 +440,7 @@ export default function Corinthians210() {
           the Gospel of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (apparently Asia Minor and Europe were apportioned to the
                 Apostle Paul as his Missionary field of Gospel Service)
               </span>
@@ -466,7 +466,7 @@ export default function Corinthians210() {
           of other mens labours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Paul stating that his Ministry had not overlapped
                 into others field of endeavors)
               </span>
@@ -476,7 +476,7 @@ export default function Corinthians210() {
           enlarged by you according to our rule abundantly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was believing the Faith of the Corinthians would be
                 increased in order that they might help him take the Gospel
                 elsewhere, even as it had been brought to them)
@@ -503,7 +503,7 @@ export default function Corinthians210() {
           not to boast in another mans line of things made ready to our hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He would Preach the Gospel where others had not ventured, and
                 there build Churches. The truth is false apostles with false
                 doctrines cannot get people saved, so these detractors would
@@ -519,7 +519,7 @@ export default function Corinthians210() {
           the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is saying that man has nothing to glory about,
                 unless he Glory in the Lord.)
               </span>
@@ -533,7 +533,7 @@ export default function Corinthians210() {
           approved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Gods standard of approval)
               </span>
             </span>
@@ -541,7 +541,7 @@ export default function Corinthians210() {
           , but whom the Lord commendeth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us that the Lord does not accept mans
                 recommendations or accommodations. They mean nothing to Him.)
               </span>

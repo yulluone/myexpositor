@@ -189,7 +189,7 @@ export default function Ruth01() {
           of them; and the woman was left of her two sons and her husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(more suffering!)</span>
+              <span className="explanation">(more suffering!)</span>
             </span>
           </span>
         </span>
@@ -348,7 +348,7 @@ export default function Ruth01() {
           <sup className="calibre7">15</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naomi)</span>
+              <span className="explanation">(Naomi)</span>
             </span>
           </span>{" "}
           said, Behold, your sister in law is gone back unto her people, and
@@ -419,13 +419,13 @@ export default function Ruth01() {
           <sup className="calibre7">18</sup>When she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naomi)</span>
+              <span className="explanation">(Naomi)</span>
             </span>
           </span>{" "}
           saw that she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ruth)</span>
+              <span className="explanation">(Ruth)</span>
             </span>
           </span>{" "}
           was stedfastly minded to go with her, then she left speaking unto her{" "}
@@ -465,7 +465,7 @@ export default function Ruth01() {
           Naomi, call me Mara{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bitter)</span>
+              <span className="explanation">(bitter)</span>
             </span>
           </span>
           : for the Almighty has dealt very bitterly with me.{" "}

@@ -25,7 +25,7 @@ export default function Exodus25() {
           with his heart you shall take My Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pink says: We have now arrived at the longest, and most
                 blessed, but least read and understood section of this precious
                 Book of Exodus. From the beginning of{" "}
@@ -101,7 +101,7 @@ export default function Exodus25() {
           the Ephod, and in the Breastplate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord could have brought about these Offerings in any number
                 of ways; however, His method is that we give to His Work, and
                 then He blesses us. You cant out-give God!)
@@ -116,7 +116,7 @@ export default function Exodus25() {
           that I may dwell among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As far as is known, the Ark of Noah, the Tabernacle of Moses,
                 and the Temple of Solomon, with the plans for the last one
                 actually given to David, are the only buildings ever erected
@@ -160,7 +160,7 @@ export default function Exodus25() {
           instruments thereof, even so shall you make it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Pattern was all of God, and not at all of man. Salvation is
                 the same! We must not deviate from the blueprint, of which both
                 are identical Jesus.)
@@ -177,7 +177,7 @@ export default function Exodus25() {
           <sup className="calibre7">10</sup>And they shall make an Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ark of the Covenant, a Type of the Throne of God)
               </span>
             </span>
@@ -185,7 +185,7 @@ export default function Exodus25() {
           of Shittim Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to as indestructible wood, and a Type of the Perfect,
                 unsullied, physical Body of our Lord)
               </span>
@@ -194,19 +194,19 @@ export default function Exodus25() {
           : two cubits and a half shall be the length thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 and 3/4 feet)</span>
+              <span className="explanation">(3 and 3/4 feet)</span>
             </span>
           </span>
           , and a cubit and a half the breadth thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>
           , and a cubit and a half the height thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>
         </span>
@@ -218,7 +218,7 @@ export default function Exodus25() {
           Gold, within and without shall you overlay it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a type of the Deity of Christ)
               </span>
             </span>
@@ -226,7 +226,7 @@ export default function Exodus25() {
           , and shall make upon it a Crown of Gold round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents the status of our Lord as King)
               </span>
             </span>
@@ -240,7 +240,7 @@ export default function Exodus25() {
           gold for it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (staves were to be inserted in the rings for the Ark to be
                 moved, which it was occasionally, at least until the Temple was
                 built about 500 years later; it signifies Christ Who desires to
@@ -251,7 +251,7 @@ export default function Exodus25() {
           , and put them in the four corners thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wherever we are led to go, north, south, east, or west, He will
                 be with us)
               </span>
@@ -261,7 +261,7 @@ export default function Exodus25() {
           other side of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we are in His Will, He will be with us, just as much one
                 place as the other.)
               </span>
@@ -275,7 +275,7 @@ export default function Exodus25() {
           Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, portraying the Perfect Humanity of Christ)
               </span>
             </span>
@@ -283,7 +283,7 @@ export default function Exodus25() {
           , and overlay them with Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portraying His Deity; while Jesus is Very Man, He is also Very
                 God; He is with us as God, by virtue of the fact that He came to
                 be with us as Man, and for the purpose of going to the Cross,
@@ -300,7 +300,7 @@ export default function Exodus25() {
           the rings by the sides of the Ark, that the Ark may be borne with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the assurance of the perpetual Presence of Christ)
               </span>
             </span>
@@ -314,7 +314,7 @@ export default function Exodus25() {
           the Ark: they shall not be taken from it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This would be the case until Solomons Temple, when the Priests
                 would bring the Ark of the Covenant into the House of the Lord,
                 place it under the giant Cherubim, and then would draw out the
@@ -338,7 +338,7 @@ export default function Exodus25() {
           Testimony which I shall give you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two tables of stone, containing the Ten Commandments)
               </span>
             </span>
@@ -352,7 +352,7 @@ export default function Exodus25() {
           Pure Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Mercy Seat formed the covering for the Ark; on it was
                 sprinkled the Atoning Blood, which the High Priest did once a
                 year, on the Great Day of Atonement; it was of this
@@ -368,13 +368,13 @@ export default function Exodus25() {
           : two cubits and a half shall be the length thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 and 3/4 feet)</span>
+              <span className="explanation">(3 and 3/4 feet)</span>
             </span>
           </span>
           , and a cubit and a half the breadth thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>
         </span>
@@ -386,7 +386,7 @@ export default function Exodus25() {
           gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they pertained to Gods Judicial authority; they seemed to be
                 the highest among the Angelic order, or at least in the capacity
                 in which they function)
@@ -397,7 +397,7 @@ export default function Exodus25() {
           Seat.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were not attached to the ends of the Mercy Seat, but were
                 actually a part of the Mercy Seat. In other words, the Mercy
                 Seat and the two Cherubim were all one piece of gold. The two
@@ -420,7 +420,7 @@ export default function Exodus25() {
           forth their wings on high, covering the Mercy Seat with their wings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (stretched above their heads, and pointing forward, with the
                 four wings meeting each other in the middle)
               </span>
@@ -430,7 +430,7 @@ export default function Exodus25() {
           shall the faces of the Cherubims be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They looked down upon the blood which was applied to the Mercy
                 Seat once a year, on the Great Day of Atonement.)
               </span>
@@ -444,7 +444,7 @@ export default function Exodus25() {
           above upon the Ark; and in the Ark you shall put the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ten Commandments)</span>
+              <span className="explanation">(Ten Commandments)</span>
             </span>
           </span>{" "}
           that I shall give you.
@@ -458,7 +458,7 @@ export default function Exodus25() {
           which I will give you in Commandment unto the Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is only above the Blood-stained Mercy Seat that God will
                 meet with sinful human beings, because thats the only place that
                 He can meet with sinful human beings, and not malign His
@@ -488,7 +488,7 @@ export default function Exodus25() {
           Shittim Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, this indestructible wood, a perfect Type of the
                 Perfection of the Humanity of Christ)
               </span>
@@ -497,19 +497,19 @@ export default function Exodus25() {
           : two cubits shall be the length thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 feet)</span>
+              <span className="explanation">(3 feet)</span>
             </span>
           </span>
           , and a cubit the breadth thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(1 and 1/2 feet)</span>
+              <span className="explanation">(1 and 1/2 feet)</span>
             </span>
           </span>
           , and a cubit and a half the height thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>
         </span>
@@ -521,7 +521,7 @@ export default function Exodus25() {
           Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of the Deity of Christ)
               </span>
             </span>
@@ -529,7 +529,7 @@ export default function Exodus25() {
           , and make thereto a Crown of Gold round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is King)</span>
+              <span className="explanation">(Christ is King)</span>
             </span>
           </span>
         </span>
@@ -541,7 +541,7 @@ export default function Exodus25() {
           of an hand breadth round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is interesting that the width of the crown is described as a
                 hand breadth, which is approximately three to four inches high;
                 this corresponds with the Words of Christ: Neither shall any
@@ -560,7 +560,7 @@ export default function Exodus25() {
           , and you shall make a Golden Crown to the border thereof round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Table was to hold bread, which, again, was a Type of
                 Christ. The crown would tend to keep the bread in place, so that
                 it would not slip off the Table, especially during times when
@@ -591,7 +591,7 @@ export default function Exodus25() {
           with them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wherever the Lord led Israel, even though it was in the
                 wilderness, His Table accompanied them! So, wherever the
                 Christians lot may be cast, even though it may be in a prison,
@@ -609,7 +609,7 @@ export default function Exodus25() {
           cover withal: of pure gold shall you make them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The dishes were no doubt used by the Priests when they ate the
                 Bread on the seventh day. The spoons and the cover were more
                 than likely used in connection with the Frankincense, which was
@@ -636,7 +636,7 @@ export default function Exodus25() {
           Shewbread before Me always.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was a Type of Christ, as the Bread of Life [
                 <ScrollLink href="/john-06" scrollToId="#filepos12424800">
                   <span className="calibre_19">
@@ -669,7 +669,7 @@ export default function Exodus25() {
           Pure Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated Lampstand)
               </span>
             </span>
@@ -678,7 +678,7 @@ export default function Exodus25() {
           branches, his bowls, his knops, and his flowers, shall be of the same.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is, the entirety of the Lampstand was made out of one
                 piece of gold. The Lampstand was the only source of light in the
                 entirety of the Holy Place. It is a Type of Christ as the Light
@@ -718,7 +718,7 @@ export default function Exodus25() {
           and three branches of the Lampstand out of the other side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (six is the number of man, and which is the Body of Christ,
                 whether Israel or the Church;{" "}
                 <ScrollLink href="/" scrollToId="#filepos1044218">
@@ -746,7 +746,7 @@ export default function Exodus25() {
           branches that come out of the Lampstand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We might ask the question as to why there were three bowls
                 [almond-blossoms] on each stem, and only one pomegranate and
                 only one lily? This tells us that the almond-blossom, which
@@ -775,7 +775,7 @@ export default function Exodus25() {
           bowls made like unto almonds, with their knops and their flowers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The main middle stem had four bowls, along with four knops, and
                 four flowers. This made twelve ornaments, which speaks of the
                 Government of Christ.)
@@ -798,7 +798,7 @@ export default function Exodus25() {
           be of the same: all of it shall be one beaten work of pure gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the branches came out even at the top, even with
                 the main shaft, as would be obvious, the outward branch would be
                 the longest of all, with the middle branch next to the longest,
@@ -839,7 +839,7 @@ export default function Exodus25() {
           there of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seven is Gods number of perfection, and here speaks of perfect
                 illumination, which only the Holy Spirit can do)
               </span>
@@ -848,7 +848,7 @@ export default function Exodus25() {
           : and they shall light the lamps thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lamps were cleaned and lit twice a day, at the time of the
                 morning and evening Sacrifices [9 a.m. and 3 p.m.])
               </span>
@@ -857,7 +857,7 @@ export default function Exodus25() {
           , that they may give light over against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (over against the Table of Shewbread and the Altar of Incense)
               </span>
             </span>
@@ -871,7 +871,7 @@ export default function Exodus25() {
           snuffdishes thereof, shall be of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had to do with the cleaning of the wick, or replacing the wick,
                 in order that the light might burn clean and bright)
               </span>
@@ -886,7 +886,7 @@ export default function Exodus25() {
           make it, with all these vessels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (weighed about 120 pounds; at January 2004 prices, it would have
                 been worth about $576,000)
               </span>
@@ -901,7 +901,7 @@ export default function Exodus25() {
           their pattern, which was shewed you in the Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was instructed to follow the Pattern exactly, which means
                 it was not to be deviated from in any capacity. This tells us
                 that the Work of the Spirit in our hearts and lives must be

@@ -15,13 +15,13 @@ export default function Matthew06() {
           <sup className="calibre7">1</sup>Take heed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a serious matter)</span>
+              <span className="explanation">(a serious matter)</span>
             </span>
           </span>{" "}
           that you do not your alms{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Righteousness)</span>
+              <span className="explanation">(Righteousness)</span>
             </span>
           </span>{" "}
           before men, to be seen of them{" "}
@@ -54,14 +54,14 @@ export default function Matthew06() {
           , do not sound a trumpet before you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(do not make a show),</span>
+              <span className="explanation">(do not make a show),</span>
             </span>
           </span>{" "}
           as the hypocrites do in the Synagogues and in the streets, that they
           may have glory of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be seen of men)</span>
+              <span className="explanation">(be seen of men)</span>
             </span>
           </span>
           . Verily I say unto you, They have their reward{" "}
@@ -112,7 +112,7 @@ export default function Matthew06() {
           : and your Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Heavenly Father)</span>
+              <span className="explanation">(Heavenly Father)</span>
             </span>
           </span>{" "}
           which sees in secret Himself shall reward you openly{" "}
@@ -134,7 +134,7 @@ export default function Matthew06() {
           <sup className="calibre7">5</sup>And when you pray{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the necessity of prayer)</span>
+              <span className="explanation">(the necessity of prayer)</span>
             </span>
           </span>
           , you shall not be as the hypocrites{" "}
@@ -147,7 +147,7 @@ export default function Matthew06() {
           of the streets, that they may be seen of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they do it for show)</span>
+              <span className="explanation">(they do it for show)</span>
             </span>
           </span>
           . Verily I say unto you, They have their reward{" "}
@@ -166,7 +166,7 @@ export default function Matthew06() {
           <sup className="calibre7">6</sup>But you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sincere Believer)</span>
+              <span className="explanation">(sincere Believer)</span>
             </span>
           </span>
           , when you pray, enter into your closet, and when you have shut your
@@ -216,7 +216,7 @@ export default function Matthew06() {
           for your Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Heavenly Father)</span>
+              <span className="explanation">(Heavenly Father)</span>
             </span>
           </span>{" "}
           knows what things you have need of, before you ask Him{" "}
@@ -257,7 +257,7 @@ export default function Matthew06() {
           Who is in Heaven, Hallowed be Your Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we reverence His Name)</span>
+              <span className="explanation">(we reverence His Name)</span>
             </span>
           </span>
           .
@@ -325,7 +325,7 @@ export default function Matthew06() {
           <sup className="calibre7">13</sup>And lead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of self-confidence)</span>
+              <span className="explanation">(because of self-confidence)</span>
             </span>
           </span>{" "}
           us not into temptation{" "}
@@ -368,7 +368,7 @@ export default function Matthew06() {
           from evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Evil One, Satan himself)</span>
+              <span className="explanation">(the Evil One, Satan himself)</span>
             </span>
           </span>
           : For Yours is the kingdom{" "}
@@ -430,7 +430,7 @@ export default function Matthew06() {
           their trespasses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(large sins)</span>
+              <span className="explanation">(large sins)</span>
             </span>
           </span>
           , your Heavenly Father will also forgive you{" "}
@@ -469,7 +469,7 @@ export default function Matthew06() {
           <sup className="calibre7">16</sup>Moreover when you fast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no set time)</span>
+              <span className="explanation">(no set time)</span>
             </span>
           </span>
           , be not, as the hypocrites, of a sad countenance: for they disfigure
@@ -522,14 +522,14 @@ export default function Matthew06() {
           , but unto your Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Heavenly Father)</span>
+              <span className="explanation">(Heavenly Father)</span>
             </span>
           </span>{" "}
           which is in secret: and your Father, which sees in secret, shall
           reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bless)</span>
+              <span className="explanation">(bless)</span>
             </span>
           </span>{" "}
           you openly{" "}
@@ -732,7 +732,7 @@ export default function Matthew06() {
           <sup className="calibre7">27</sup>Which of you by taking thought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worrying and fretting)</span>
+              <span className="explanation">(worrying and fretting)</span>
             </span>
           </span>{" "}
           can add one cubit unto his stature?{" "}
@@ -752,19 +752,19 @@ export default function Matthew06() {
           <sup className="calibre7">28</sup>And why do you take thought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worry)</span>
+              <span className="explanation">(worry)</span>
             </span>
           </span>{" "}
           for{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about)</span>
+              <span className="explanation">(about)</span>
             </span>
           </span>{" "}
           raiment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(clothes)</span>
+              <span className="explanation">(clothes)</span>
             </span>
           </span>
           ? Consider the lilies of the field, how they grow; they toil not,
@@ -803,7 +803,7 @@ export default function Matthew06() {
           <sup className="calibre7">30</sup>Wherefore, if{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since)</span>
+              <span className="explanation">(since)</span>
             </span>
           </span>{" "}
           God so clothed the grass of the field{" "}
@@ -907,7 +907,7 @@ export default function Matthew06() {
           <sup className="calibre7">31</sup>Therefore take no thought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont worry)</span>
+              <span className="explanation">(dont worry)</span>
             </span>
           </span>
           , saying, What shall we eat? or, What shall we drink? or, Wherewithal
@@ -977,7 +977,7 @@ export default function Matthew06() {
           morrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont worry about the future)</span>
+              <span className="explanation">(dont worry about the future)</span>
             </span>
           </span>
           : for the morrow shall take thought for the things of itself{" "}

@@ -18,14 +18,14 @@ export default function Esther06() {
           sleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and so ordered by the Lord)</span>
+              <span className="explanation">(and so ordered by the Lord)</span>
             </span>
           </span>
           , and he commanded to bring the book of records of the chronicles; and
           they were read before the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit no doubt placed this in the kings mind, as
                 well, to have the record read)
               </span>
@@ -49,7 +49,7 @@ export default function Esther06() {
           servants that ministered unto him, There is nothing done for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had Mordecai complained at the time that he saved the kings
                 life [
                 <ScrollLink href="/esther-02" scrollToId="#filepos5287100">
@@ -80,7 +80,7 @@ export default function Esther06() {
           court? Now Haman was come into the outward court of the kings house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which was no doubt the next morning)
               </span>
             </span>
@@ -102,7 +102,9 @@ export default function Esther06() {
           honour? Now Haman thought in his heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(literally, said in his heart)</span>
+              <span className="explanation">
+                (literally, said in his heart)
+              </span>
             </span>
           </span>
           , To whom would the king delight to do honour more than to myself?
@@ -121,7 +123,7 @@ export default function Esther06() {
           and the crown royal which is set upon his head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the insignia of the crown on the horses head, not the head of
                 the man)
               </span>
@@ -140,7 +142,7 @@ export default function Esther06() {
           honour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(if Haman only knew!)</span>
+              <span className="explanation">(if Haman only knew!)</span>
             </span>
           </span>
           .
@@ -154,7 +156,7 @@ export default function Esther06() {
           fail of all that you have spoken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What must have been Hamans thoughts, when the king said this
                 should be done to Mordecai, when all the time he thought it was
                 for himself? Considering some of the things the Lord does, and
@@ -174,7 +176,7 @@ export default function Esther06() {
           unto the man whom the king delights to honour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Haman had backed himself into a corner; there was no ground on
                 which he could decline this task thrust upon him; so, he does
                 exactly what the king has commanded to be done, as galling as it
@@ -196,7 +198,7 @@ export default function Esther06() {
           covered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a sign of acute dejection)</span>
+              <span className="explanation">(a sign of acute dejection)</span>
             </span>
           </span>
           .
@@ -211,7 +213,7 @@ export default function Esther06() {
           against him, but shall surely fall before him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for one time, these wise men were right!)
               </span>
             </span>
@@ -226,7 +228,7 @@ export default function Esther06() {
           banquet that Esther had prepared{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was normal for servants to be sent to escort guests of
                 importance from their own homes to the place of entertainment)
               </span>

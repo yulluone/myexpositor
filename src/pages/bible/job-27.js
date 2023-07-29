@@ -148,7 +148,7 @@ export default function Job27() {
           comes upon him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Only if he truly repents!)</span>
+              <span className="explanation">(Only if he truly repents!)</span>
             </span>
           </span>
         </span>
@@ -253,7 +253,7 @@ export default function Job27() {
           buried in death: and his widows shall not weep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(forgotten in death)</span>
+              <span className="explanation">(forgotten in death)</span>
             </span>
           </span>
         </span>

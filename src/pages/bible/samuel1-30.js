@@ -247,13 +247,13 @@ export default function Samuel130() {
           <sup className="calibre7">16</sup>And when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Egyptian)</span>
+              <span className="explanation">(the Egyptian)</span>
             </span>
           </span>{" "}
           had brought him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           down, behold, they were spread abroad upon all the earth, eating and
@@ -323,7 +323,7 @@ export default function Samuel130() {
           near to the people, he saluted them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in victory!)</span>
+              <span className="explanation">(in victory!)</span>
             </span>
           </span>
         </span>
@@ -335,7 +335,7 @@ export default function Samuel130() {
           men of Belial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthless individuals)</span>
+              <span className="explanation">(worthless individuals)</span>
             </span>
           </span>
           , of those who went with David, and said, Because they went not with

@@ -25,7 +25,7 @@ export default function Acts03() {
               <span className="calibre_19">hour</span>
             </span>
             <span>
-              <span className="calibre_19">(3 oclock in the afternoon).</span>
+              <span className="explanation">(3 oclock in the afternoon).</span>
             </span>
           </span>
         </span>
@@ -36,7 +36,7 @@ export default function Acts03() {
           mothers womb was carried, whom they laid daily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seemed to be a daily occurrence which had taken place in one
                 way or the other since the man was a child; little did he
                 realize that this would be the greatest day of his life)
@@ -46,7 +46,7 @@ export default function Acts03() {
           at the gate of the Temple which is called Beautiful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to Josephus, it was made of costly Corinthian brass;
                 it was said to be about 62 feet wide and 31 feet high)
               </span>
@@ -55,7 +55,7 @@ export default function Acts03() {
           , to ask alms of them who entered into the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was a beggar)</span>
+              <span className="explanation">(he was a beggar)</span>
             </span>
           </span>
           ;
@@ -73,7 +73,7 @@ export default function Acts03() {
           him with John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates they were moved upon by the Holy Spirit to do this
                 thing)
               </span>
@@ -82,7 +82,7 @@ export default function Acts03() {
           , said, Look on us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter wanted him to hear what he was about to say)
               </span>
             </span>
@@ -96,7 +96,7 @@ export default function Acts03() {
           to receive something of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(expecting to receive money)</span>
+              <span className="explanation">(expecting to receive money)</span>
             </span>
           </span>
           .
@@ -108,7 +108,7 @@ export default function Acts03() {
           I none{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I wonder how this statement as given by Peter concerning silver
                 and gold relates to the modern greed message?)
               </span>
@@ -117,7 +117,7 @@ export default function Acts03() {
           ; but such as I have give I thee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presently, the modern Church has silver and gold, but doesnt
                 have the Power of God)
               </span>
@@ -126,7 +126,7 @@ export default function Acts03() {
           : In the Name of Jesus Christ of Nazareth rise up and walk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is not in the name of Mohammed, or Confucius, etc.)
               </span>
             </span>
@@ -146,7 +146,7 @@ export default function Acts03() {
           up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was not presumption, but rather Faith in action)
               </span>
             </span>
@@ -154,7 +154,7 @@ export default function Acts03() {
           : and immediately his feet and ankle bones received strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was a Miracle)</span>
+              <span className="explanation">(this was a Miracle)</span>
             </span>
           </span>
           .
@@ -173,7 +173,7 @@ export default function Acts03() {
           and praising God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(constantly praising God)</span>
+              <span className="explanation">(constantly praising God)</span>
             </span>
           </span>
           :
@@ -185,7 +185,7 @@ export default function Acts03() {
           sat for alms at the Beautiful Gate of the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he had been coming there, no doubt, for years)
               </span>
             </span>
@@ -194,7 +194,9 @@ export default function Acts03() {
           happened unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his healing was indisputable)</span>
+              <span className="explanation">
+                (his healing was indisputable)
+              </span>
             </span>
           </span>
           .
@@ -206,7 +208,7 @@ export default function Acts03() {
           held Peter and John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he didnt want to let Peter and John out of his sight; it was as
                 if his malady would return when they left, or so he thought)
               </span>
@@ -216,7 +218,7 @@ export default function Acts03() {
           Solomons, greatly wondering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it drew a crowd, which the Holy Spirit intended)
               </span>
             </span>
@@ -235,14 +237,14 @@ export default function Acts03() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(the crowd gathering),</span>
+              <span className="explanation">(the crowd gathering),</span>
             </span>
           </span>{" "}
           he answered unto the people, You men of Israel, why do you marvel at
           this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, he is saying that Jesus is alive, and His Work is
                 continuing.)
               </span>
@@ -252,7 +254,7 @@ export default function Acts03() {
           holiness we have made this man to walk?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He turns the attention from himself and John to the Lord Jesus
                 Christ.)
               </span>
@@ -266,7 +268,7 @@ export default function Acts03() {
           and of Jacob, the God of our fathers, has glorified His Son Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Chrysostom said, He thrust himself upon the Fathers of old,
                 lest he should appear to be introducing a new doctrine.)
               </span>
@@ -275,7 +277,7 @@ export default function Acts03() {
           ; Whom you delivered up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Chief Priest delivering Jesus to Pilate to be
                 Crucified)
               </span>
@@ -291,7 +293,7 @@ export default function Acts03() {
           go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit puts most of the blame on the religious leaders
                 of Israel)
               </span>
@@ -306,7 +308,7 @@ export default function Acts03() {
           Just{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the terrible sin of Israel, and the terrible sin of
                 most of humanity as well, and for all time)
               </span>
@@ -315,7 +317,7 @@ export default function Acts03() {
           , and desired a murderer to be granted unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Barabbas [
                 <ScrollLink href="/matthew-27" scrollToId="#filepos11302265">
                   <span className="calibre_19">
@@ -336,7 +338,7 @@ export default function Acts03() {
           <sup className="calibre7">15</sup>And killed the Prince of Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter minced no words, not at all softening his Message)
               </span>
             </span>
@@ -344,7 +346,7 @@ export default function Acts03() {
           , Whom God has raised from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Resurrection, as would be obvious, ratified what was done
                 at the Cross)
               </span>
@@ -353,7 +355,7 @@ export default function Acts03() {
           ; whereof we are witnesses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that they had personally seen the Resurrected Christ;
                 there is no greater witness than an eyewitness)
               </span>
@@ -368,7 +370,7 @@ export default function Acts03() {
           Name has made this man strong{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the key to all things!)
               </span>
             </span>
@@ -376,7 +378,7 @@ export default function Acts03() {
           , whom you see and know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was no denying the Miracle)
               </span>
             </span>
@@ -384,19 +386,19 @@ export default function Acts03() {
           : yes, the Faith which is by Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           has given him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the crippled man)</span>
+              <span className="explanation">(the crippled man)</span>
             </span>
           </span>{" "}
           this perfect soundness in the presence of you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no partial healing, but a total healing, which is the way the
                 Lord does things)
               </span>
@@ -423,7 +425,7 @@ export default function Acts03() {
           also your Rulers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while they were ignorant, regrettably it was a willful
                 ignorance; in other words, they had no desire to know the Truth
                 about Jesus)
@@ -439,7 +441,7 @@ export default function Acts03() {
           had showed by the mouth of all His Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, had they known the Bible, which they certainly
                 should have known, they would have known about Jesus)
               </span>
@@ -448,7 +450,7 @@ export default function Acts03() {
           , that Christ should suffer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of the story of the Bible is Jesus Christ and Him
                 Crucified)
               </span>
@@ -457,7 +459,7 @@ export default function Acts03() {
           , He has so fulfilled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that His Death was predestined, but not who would
                 commit the deed)
               </span>
@@ -472,7 +474,7 @@ export default function Acts03() {
           converted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Repentance is an admittance that God is right, and we are
                 wrong; he was speaking to the Rulers as well as to the people)
               </span>
@@ -481,7 +483,7 @@ export default function Acts03() {
           , that your sins may be blotted out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Justification by Faith)
               </span>
             </span>
@@ -490,7 +492,7 @@ export default function Acts03() {
           Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, In order that the times of
                 refreshing shall come from the Presence of the Lord)
               </span>
@@ -504,7 +506,7 @@ export default function Acts03() {
           <sup className="calibre7">20</sup>And He shall send Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Second Coming [Rev., Chpt.{" "}
                 <ScrollLink href="/revelation-19" scrollToId="#filepos15104711">
                   <span className="calibre_19">
@@ -520,7 +522,7 @@ export default function Acts03() {
           which before was preached unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (through the Prophets, and as well the public Ministry of Christ
                 to Israel for some three and a half years)
               </span>
@@ -535,7 +537,7 @@ export default function Acts03() {
           the times of restitution of all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Jesus remaining in Heaven until this Dispensation of
                 Grace has run its course, after which He will return to this
                 Earth)
@@ -546,7 +548,7 @@ export default function Acts03() {
           world began{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, had they known the Word of God, which then
                 consisted of Genesis through Malachi, they would have known all
                 these things)
@@ -562,7 +564,7 @@ export default function Acts03() {
           Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/deuteronmy-18" scrollToId="#filepos2295540">
                   <span className="calibre_19">
@@ -579,13 +581,13 @@ export default function Acts03() {
           brethren, like unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Promise of the Messiah)</span>
+              <span className="explanation">(the Promise of the Messiah)</span>
             </span>
           </span>
           ; Him shall you hear in all things whatsoever He shall say unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(could not be clearer)</span>
+              <span className="explanation">(could not be clearer)</span>
             </span>
           </span>
           .
@@ -602,7 +604,7 @@ export default function Acts03() {
           every soul, which will not hear that Prophet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the entirety of the world)
               </span>
             </span>
@@ -610,7 +612,7 @@ export default function Acts03() {
           , shall be destroyed from among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will be eternally lost!)</span>
+              <span className="explanation">(will be eternally lost!)</span>
             </span>
           </span>
           .
@@ -622,7 +624,7 @@ export default function Acts03() {
           Samuel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though there were Prophets before Samuel, he was the first
                 one to stand in the Office of the Prophet),
               </span>
@@ -632,7 +634,7 @@ export default function Acts03() {
           foretold of these days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of all the Prophets, at least in one way or another,
                 pointing to the coming Redeemer, Who would be the Lord Jesus
                 Christ)
@@ -647,7 +649,7 @@ export default function Acts03() {
           <sup className="calibre7">25</sup>You are the children of the Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that they should have known what the Prophets had said)
               </span>
             </span>
@@ -655,7 +657,7 @@ export default function Acts03() {
           , and of the Covenant which God made with our Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Abrahamic Covenant [
                 <ScrollLink href="/genesis-12" scrollToId="#filepos156936">
                   <span className="calibre_19">
@@ -672,7 +674,7 @@ export default function Acts03() {
           earth be blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Jesus Christ as that Seed)
               </span>
             </span>
@@ -685,7 +687,7 @@ export default function Acts03() {
           <sup className="calibre7">26</sup>Unto you first{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the offer of Salvation being made first to the Jews [
                 <ScrollLink href="/luke-24" scrollToId="#filepos12278450">
                   <span className="calibre_19">
@@ -717,19 +719,19 @@ export default function Acts03() {
           God, having raised up His Son Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Resurrection)</span>
+              <span className="explanation">(refers to the Resurrection)</span>
             </span>
           </span>
           , sent Him to bless you, in turning away every one of you from his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(your)</span>
+              <span className="explanation">(your)</span>
             </span>
           </span>{" "}
           iniquities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only Jesus could do this, which He did by His atoning Work at
                 the Cross [
                 <ScrollLink href="/ephesians-2" scrollToId="#filepos14013172">

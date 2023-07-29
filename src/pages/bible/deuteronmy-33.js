@@ -24,7 +24,7 @@ export default function Deuteronmy33() {
           went a fiery Law for them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from His celestial Seat, where myriads of Angels surround His
                 Throne)
               </span>
@@ -40,7 +40,7 @@ export default function Deuteronmy33() {
           shall receive of Your Words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everyone shall be blessed who receives Your Words)
               </span>
             </span>
@@ -54,7 +54,7 @@ export default function Deuteronmy33() {
           inheritance of the congregation of Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel inherited the Law, which placed them in a category all
                 to themselves, far ahead of all the other nations of the world,
                 at least as long as they obeyed that Law)
@@ -69,7 +69,7 @@ export default function Deuteronmy33() {
           <sup className="calibre7">5</sup>And He was king in Jeshurun{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning the Upright Ones, which was Gods tender name for His
                 People)
               </span>
@@ -88,7 +88,7 @@ export default function Deuteronmy33() {
           not his men be few{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Reuben was prophesied by Jacob to be unstable as water [
                 <ScrollLink href="/genesis-49" scrollToId="#filepos650834">
                   <span className="calibre_19">
@@ -125,7 +125,7 @@ export default function Deuteronmy33() {
           from his enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessing of Judah is in the form of a prayer to the Lord;
                 the prayer was answered in that Judahs hands were sufficient in
                 that this Tribe brought forth the Messiah)
@@ -167,7 +167,7 @@ export default function Deuteronmy33() {
           against him, and of them who hate him, that they rise not again.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Levi was cursed by God, as recorded in{" "}
                 <ScrollLink href="/genesis-49" scrollToId="#filepos651182">
                   <span className="calibre_19">
@@ -219,7 +219,7 @@ export default function Deuteronmy33() {
           all the day long, and he shall dwell between His Shoulders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be between the Shoulders is to be carried on the back [
                 <ScrollLink href="/samuel1-17" scrollToId="#filepos3225935">
                   <span className="calibre_19">
@@ -275,7 +275,7 @@ export default function Deuteronmy33() {
           Manasseh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ephraim and Manasseh were the sons of Joseph, and it is
                 actually two Tribes which Moses here blesses; all the blessings
                 of all the Tribes will come to fulfillment in the Kingdom Age,
@@ -351,7 +351,7 @@ export default function Deuteronmy33() {
           him dip his foot in oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some have endeavored to claim that this pointed to crude oil,
                 which was in the vicinity of the boundaries of the Tribe of
                 Asher; however, it doesnt refer to that at all; it refers to the
@@ -368,7 +368,7 @@ export default function Deuteronmy33() {
           <sup className="calibre7">25</sup>Your shoes shall be iron and brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the dwelling of Asher shall be strong
                 and impregnable)
               </span>
@@ -383,14 +383,14 @@ export default function Deuteronmy33() {
           Jeshurun{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means the Upright One)</span>
+              <span className="explanation">(means the Upright One)</span>
             </span>
           </span>
           , Who rides upon the Heaven in your help, and in His excellency on the
           sky{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord is far above the ridiculous idol gods of the heathen
                 nations)
               </span>
@@ -406,7 +406,7 @@ export default function Deuteronmy33() {
           from before you; and shall say, Destroy them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is the Refuge or Dwelling-place of His People; over us is
                 His sheltering protection, and underneath us is the support of
                 His Everlasting Arms)
@@ -431,7 +431,7 @@ export default function Deuteronmy33() {
           unto you; and you shall tread upon their high places.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, all of these great predictions given by the Holy
                 Spirit through Moses looked beyond the present time, and even
                 the distant future, to the coming glad day when Israel will, at

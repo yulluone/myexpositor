@@ -153,7 +153,9 @@ export default function John12() {
           the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was not his real reason)</span>
+              <span className="explanation">
+                (this was not his real reason)
+              </span>
             </span>
           </span>
           ; but because he was a thief, and had the bag, and bear what was put
@@ -222,7 +224,7 @@ export default function John12() {
           knew that He was there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at the home of Lazarus)</span>
+              <span className="explanation">(at the home of Lazarus)</span>
             </span>
           </span>
           : and they came not for Jesus sake only, but that they might see
@@ -282,7 +284,7 @@ export default function John12() {
           come to the Feast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Passover)</span>
+              <span className="explanation">(the Passover)</span>
             </span>
           </span>
           , when they heard that Jesus was coming to Jerusalem{" "}
@@ -520,7 +522,7 @@ export default function John12() {
           which was of Bethsaida of Galilee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one of the Twelve Apostles)</span>
+              <span className="explanation">(one of the Twelve Apostles)</span>
             </span>
           </span>
           , and desired Him, saying, Sir, we would see Jesus{" "}
@@ -651,7 +653,7 @@ export default function John12() {
           Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(follow Christ exclusively)</span>
+              <span className="explanation">(follow Christ exclusively)</span>
             </span>
           </span>
           ; and where I am, there shall also My Servant be{" "}
@@ -956,7 +958,7 @@ export default function John12() {
           . Walk while you have the Light, lest darkness come upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents a choice!)</span>
+              <span className="explanation">(presents a choice!)</span>
             </span>
           </span>
           : for he who walks in darkness knows not where he goes{" "}
@@ -976,7 +978,7 @@ export default function John12() {
           <sup className="calibre7">36</sup>While you have the Light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus is the Light)</span>
+              <span className="explanation">(Jesus is the Light)</span>
             </span>
           </span>
           , believe in the Light{" "}
@@ -1228,7 +1230,7 @@ export default function John12() {
           , believes not on Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(believes not on Me Alone)</span>
+              <span className="explanation">(believes not on Me Alone)</span>
             </span>
           </span>
           , but on Him Who sent Me{" "}

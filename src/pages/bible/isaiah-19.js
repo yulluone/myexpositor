@@ -18,7 +18,7 @@ export default function Isaiah19() {
           melt in the midst of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse mentions the idols of Egypt. Egypt has always been
                 symbolic of the world. The Deliverance of the Children of Israel
                 out of Egypt symbolizes the Born-Again experience, as well as
@@ -48,7 +48,7 @@ export default function Isaiah19() {
           against kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When this civil war in Egypt will take place in connection with
                 these last-day events is not stated, but it is clear that at
                 Armageddon men will be so confused that they will turn on each
@@ -74,7 +74,7 @@ export default function Isaiah19() {
           familiar spirits, and to the wizards.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt, except for the short time under Joseph [Gen., Chpt.{" "}
                 <ScrollLink href="/genesis-41" scrollToId="#filepos541659">
                   <span className="calibre_19">
@@ -98,7 +98,7 @@ export default function Isaiah19() {
           says the Lord, the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage tells us that the Lord will allow Egypt to be
                 defeated by the Antichrist. This will happen at approximately
                 the outset of the Great Tribulation.)
@@ -116,7 +116,7 @@ export default function Isaiah19() {
           sea, and the river shall be wasted and dried up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sea referred to here is probably the Nile. The rivers
                 wasted and dried up refer, no doubt, to a phenomenon of nature
                 brought about by the Lord, which will take place during the time
@@ -141,7 +141,7 @@ export default function Isaiah19() {
           be driven away, and be no more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (During the time of the Great Tribulation, which will last for
                 some seven years, the Lord Himself will disturb the planetary
                 bodies, causing tremendous disturbance on Earth. Egypt will
@@ -178,7 +178,7 @@ export default function Isaiah19() {
           purposes thereof, all who make sluices and ponds for fish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Verses merely reflect the fact of industries being
                 brought to a standstill during the time of the Great
                 Tribulation.)
@@ -198,7 +198,7 @@ export default function Isaiah19() {
           of ancient kings?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The princes of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7466513">
                   <span className="calibre_19">
@@ -222,7 +222,7 @@ export default function Isaiah19() {
           Hosts has purposed upon Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a tremendous challenge! The Prophets of Jehovah
                 addressed it more than once to the prophets of idolatry, for
                 only God can foretell what will surely happen!)
@@ -238,7 +238,7 @@ export default function Isaiah19() {
           even they who are the stay of the tribes thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zoan was the seat of the Egyptian Court. It was there that
                 Moses announced the ten plagues. Once again, God calls the
                 leaders of Egypt deceived fools. They are deceived because they
@@ -256,7 +256,7 @@ export default function Isaiah19() {
           every work thereof, as a drunken man staggers in his vomit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the leaders of Egypt will not understand it, still, the
                 cause of their problems is demon spirits. It is the same
                 presently in many nations of the world.)
@@ -271,7 +271,7 @@ export default function Isaiah19() {
           Egypt, which the head or tail, branch or rush, may do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In ancient times, Egypt was supposed to be the center of
                 wisdom. There will be no wisdom in the coming day of the Great
                 Tribulation. There will be nothing but confusion.)
@@ -292,7 +292,7 @@ export default function Isaiah19() {
           Hand of the LORD of Hosts, which He shakes over it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is the portrayal of wrath and judgment that shall
                 come in that day. It pertains basically to the Battle of
                 Armageddon, which will cause Egypt much more trouble than
@@ -312,7 +312,7 @@ export default function Isaiah19() {
           determined against it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the coming Battle of Armageddon, Judah will have the counsel
                 of the LORD of Hosts, while Egypt will be trusting in demon
                 spirits. The outcome is inevitable!)
@@ -328,7 +328,7 @@ export default function Isaiah19() {
           Hosts; one shall be called, The city of destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The five great cities of ancient Egypt were originally cities
                 of unrighteousness. Here, they will be turned to cities of
                 Righteousness. This will be in the Kingdom Age, after the Second
@@ -345,7 +345,7 @@ export default function Isaiah19() {
           border thereof to the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (An Altar and a Pillar, not altars and pillars, for there is
                 only one way of Redemption and one Testimony. Obviously, this
                 Altar will be for men to offer Sacrifices to God in the
@@ -377,7 +377,7 @@ export default function Isaiah19() {
           Saviour, and a Great One, and He shall deliver them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Saviour and Great One will be none other than the Lord
                 Jesus Christ. Only He can deliver.)
               </span>
@@ -393,7 +393,7 @@ export default function Isaiah19() {
           perform it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now, the Glory of the Lord will cover Egypt, and they will
                 gladly serve Him.
               </span>
@@ -428,7 +428,7 @@ export default function Isaiah19() {
           He shall be intreated of them, and shall heal them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Before the healing can come, the smiting must come first, which
                 it shall!)
               </span>
@@ -444,7 +444,7 @@ export default function Isaiah19() {
           Assyrians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that day refers to the Millennium. Consequently, the
                 animosity, hatred, and anger which have characterized this area
                 of the world since the dawn of time have now finally been
@@ -462,7 +462,7 @@ export default function Isaiah19() {
           land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these three nations speak of Noahs three sons, which refer to
                 the entire world, and will become servants to Jehovah; the human
                 race consists of these three great families: Assyria, Israel,
@@ -489,7 +489,7 @@ export default function Isaiah19() {
           and Israel My inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us that the Arabs will ultimately come to Christ,
                 thereby disavowing the religion of Islam. Actually, it will be
                 no more, as well as all the other religions of the world. In

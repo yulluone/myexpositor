@@ -216,7 +216,7 @@ export default function Kings117() {
           , I have not a cake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a piece of bread)</span>
+              <span className="explanation">(a piece of bread)</span>
             </span>
           </span>
           , but an handful of meal in a barrel, and a little oil in a cruse:
@@ -341,7 +341,7 @@ export default function Kings117() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was dead!)</span>
+              <span className="explanation">(he was dead!)</span>
             </span>
           </span>
         </span>

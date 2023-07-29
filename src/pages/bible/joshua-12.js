@@ -58,13 +58,13 @@ export default function Joshua12() {
           Chinneroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>{" "}
           on the east, and unto the Sea of the plain, even the Salt Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Dead Sea)</span>
+              <span className="explanation">(Dead Sea)</span>
             </span>
           </span>{" "}
           on the east, the way to Beth-jeshimoth; and from the south, under

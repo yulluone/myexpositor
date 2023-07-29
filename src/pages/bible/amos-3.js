@@ -17,7 +17,7 @@ export default function Amos3() {
           which I brought up from the land of Egypt, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (having addressed several nations dwelling near the Promised
                 Land, God now addresses the whole family of Israel redeemed from
                 the land of Egypt. This family alone He recognized known as His;
@@ -35,7 +35,7 @@ export default function Amos3() {
           iniquities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of all the nations in the world, Israel alone belonged to the
                 Lord. You only have I known, means loved, acknowledged, and
                 chosen. Therefore I will punish you for all your iniquities,
@@ -61,7 +61,7 @@ export default function Amos3() {
           agreed?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Companionship with God can only be enjoyed upon the basis of
                 separation from evil.)
               </span>
@@ -76,7 +76,7 @@ export default function Amos3() {
           nothing?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the lion roars when it has found its prey, God, therefore,
                 makes the Prophet utter his voice because He is ready to execute
                 vengeance.)
@@ -92,7 +92,7 @@ export default function Amos3() {
           Earth, and have taken nothing at all?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the bird is caught because it is too close to the
                 trap. The trap which the sinner sets for himself is sin.)
               </span>
@@ -107,7 +107,7 @@ export default function Amos3() {
           LORD has not done it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Two great principles one of Law, the other of Grace appear in{" "}
                 <ScrollLink href="/" scrollToId="#filepos10168831">
                   <span className="calibre_19">
@@ -130,7 +130,7 @@ export default function Amos3() {
           but He reveals His Secret unto His Servants the Prophets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Consequently, this is the Grace spoken of here. The Lord
                 forewarned those whom He is about to judge. Such is done to
                 provoke Repentance, that is, if possible, that the judgment be
@@ -146,7 +146,7 @@ export default function Amos3() {
           fear? the Lord GOD has spoken, who can but prophesy?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: as the lions roar causes fear, likewise, when the
                 Lord speaks, the Prophet must be fearful not to prophesy.)
               </span>
@@ -165,7 +165,7 @@ export default function Amos3() {
           thereof, and the oppressed in the midst thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Philistines and the Egyptians are invited to behold the
                 great evils and oppressions in the midst of Samaria [Israel] and
                 to recognize the justice of God in sending them. This principle
@@ -184,7 +184,7 @@ export default function Amos3() {
           the LORD, who store up violence and robbery in their palaces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Persistence in the evil of covetousness and the love of money
                 deadens moral consciousness.)
               </span>
@@ -202,7 +202,7 @@ export default function Amos3() {
           down your strength from you, and your palaces shall be spoiled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (An adversary there shall be, at least in this case, refers to
                 Sennacherib, the Assyrian king; he emptied the palaces in Israel
                 filled with the spoils robbed from the poor, etc.)
@@ -219,7 +219,7 @@ export default function Amos3() {
           corner of a bed, and in Damascus in a couch.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So thorough would be the action of Sennacherib that the few
                 people left alive would only be comparable to a piece of an ear
                 of a sheep taken out of the mouth of a lion to prove to the
@@ -237,7 +237,7 @@ export default function Amos3() {
           of Jacob, says the Lord GOD, the God of Hosts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to the insults and denials of these individuals in Samaria,
                 Amos claims, and rightly so, that his words are really the Words
                 of the Lord GOD, the Almighty God)
@@ -255,7 +255,7 @@ export default function Amos3() {
           ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word altars is plural of magnitude, for the great altar
                 erected at Beth-el by Jeroboam I for the worship of the golden
                 calf. And the horns of the altar shall be cut off, and fall to
@@ -289,7 +289,7 @@ export default function Amos3() {
           great houses shall have an end, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage speaks of the obvious prosperity of Samaria, where
                 luxury, ease, and comfort, among other things, had sapped all
                 Spiritual Strength from Gods People. The phrase, And the great

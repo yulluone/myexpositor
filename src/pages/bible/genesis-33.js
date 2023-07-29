@@ -19,19 +19,21 @@ export default function Genesis33() {
           divided the children unto Leah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those who belonged to Leah)</span>
+              <span className="explanation">(those who belonged to Leah)</span>
             </span>
           </span>
           , and unto Rachel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those who belonged to Rachel)</span>
+              <span className="explanation">
+                (those who belonged to Rachel)
+              </span>
             </span>
           </span>
           , and unto the two handmaids{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(etc.)</span>
+              <span className="explanation">(etc.)</span>
             </span>
           </span>
         </span>
@@ -44,7 +46,7 @@ export default function Genesis33() {
           Joseph hindermost{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those he considered his greatest love were at the rear)
               </span>
             </span>
@@ -65,7 +67,7 @@ export default function Genesis33() {
           embraced him, and fell on his neck, and kissed him: and they wept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the action of Esau shows how groundless were Jacobs fears, and
                 how needless his plans)
               </span>
@@ -81,7 +83,7 @@ export default function Genesis33() {
           said, The children which God has graciously given your servant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is obvious that Esau is a powerful Chieftain. How so sad
                 that this man did not see the great spiritual truths. In that
                 case, it would have been the God of Abraham, Isaac, and Esau.
@@ -110,7 +112,7 @@ export default function Genesis33() {
           all these droves which I met? And he said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob said)</span>
+              <span className="explanation">(Jacob said)</span>
             </span>
           </span>
           , These are to find grace in the sight of my lord.
@@ -137,7 +139,7 @@ export default function Genesis33() {
           because I have enough. And he urged him, and he took it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esau accepting the gift, as well, stated that he had accepted
                 Jacob, and there were no hard feelings.)
               </span>
@@ -150,7 +152,7 @@ export default function Genesis33() {
           <sup className="calibre7">12</sup>And he said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Esau said)</span>
+              <span className="explanation">(Esau said)</span>
             </span>
           </span>
           , Let us take our journey, and let us go, and I will go before you.
@@ -161,7 +163,7 @@ export default function Genesis33() {
           <sup className="calibre7">13</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           said unto him, My lord knows that the children are tender, and the
@@ -177,7 +179,7 @@ export default function Genesis33() {
           unto my lord unto Seir{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob never did get to Seir)</span>
+              <span className="explanation">(Jacob never did get to Seir)</span>
             </span>
           </span>
         </span>
@@ -205,7 +207,7 @@ export default function Genesis33() {
           built him an house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first mention of a house as it regards the
                 Patriarchs)
               </span>
@@ -215,7 +217,7 @@ export default function Genesis33() {
           called Succoth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob went to Succoth. But the Lord had not said, I am the God
                 of Succoth, but rather, I am the God of Beth-el. Events will
                 prove that Jacob was not in the Will of God.)
@@ -231,7 +233,7 @@ export default function Genesis33() {
           and pitched his tent before the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to the fact that he was claiming this area as his
                 domicile)
               </span>
@@ -253,7 +255,7 @@ export default function Genesis33() {
           called it El-elohe-Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob erects an Altar at Shechem, for the conscience is uneasy
                 without religious forms, but the Divinely chosen place for the
                 Altar was Beth-el.)

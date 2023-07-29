@@ -130,7 +130,7 @@ export default function Numbers15() {
           bullock, or for one ram, or for a lamb, or a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a baby lamb)</span>
+              <span className="explanation">(a baby lamb)</span>
             </span>
           </span>
         </span>
@@ -164,7 +164,7 @@ export default function Numbers15() {
           <sup className="calibre7">14</sup>And if a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           sojourn with you, or whosoever be among you in your generations, and
@@ -180,7 +180,7 @@ export default function Numbers15() {
           stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           be before the LORD{" "}
@@ -360,7 +360,7 @@ export default function Numbers15() {
           congregation of the Children of Israel, and the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           who sojourns among them; seeing all the people were in ignorance.
@@ -388,7 +388,7 @@ export default function Numbers15() {
           Israel, and for the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           who sojourns among them.
@@ -400,7 +400,7 @@ export default function Numbers15() {
           presumptuously{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(defiantly)</span>
+              <span className="explanation">(defiantly)</span>
             </span>
           </span>
           , whether he be born in the land, or a stranger, the same reproaches
@@ -446,13 +446,13 @@ export default function Numbers15() {
           <sup className="calibre7">34</sup>And they put him in ward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in a holding cell)</span>
+              <span className="explanation">(in a holding cell)</span>
             </span>
           </span>
           , because it was not declared what should be done to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses would seek the Lord)</span>
+              <span className="explanation">(Moses would seek the Lord)</span>
             </span>
           </span>
         </span>

@@ -15,7 +15,7 @@ export default function Ezra09() {
           <sup className="calibre7">1</sup>Now when these things were done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking of the things in the previous Verses)
               </span>
             </span>
@@ -27,7 +27,7 @@ export default function Ezra09() {
           Ammonites, and Moabites, the Egyptians, and the Amorites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the matter of the involvement of the people of Israel, as few
                 as they were in the Land at that time, with the heathen around
                 them, regarding abominations, was serious)
@@ -43,7 +43,7 @@ export default function Ezra09() {
           daughters for themselves, and for their sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of the heathen)</span>
+              <span className="explanation">(of the heathen)</span>
             </span>
           </span>
           : so that the holy seed have mingled themselves with the people of
@@ -51,7 +51,7 @@ export default function Ezra09() {
           this trespass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the term holy seed does not, in effect, say that the people
                 committing these sins were holy, but rather that this is the
                 designation that the Lord had given them as a people, and what
@@ -69,7 +69,7 @@ export default function Ezra09() {
           my beard, and sat down astonied{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (astonished; rending the clothes was one of the most common
                 Oriental modes of showing grief)
               </span>
@@ -86,7 +86,7 @@ export default function Ezra09() {
           until the evening sacrifice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra chose the time of the evening Sacrifice [3 p.m.] to
                 confess his sin and the sin of the nation, for the poured-out
                 blood of the Sacrifices proclaimed forgiveness and atonement;
@@ -107,7 +107,7 @@ export default function Ezra09() {
           upon my knees, and spread out my hands unto the LORD my God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the time of the Sacrifice, which represented the Cross, was the
                 appropriate time for prayer, especially regarding prayer in
                 which acknowledgment of sin was to form a large part)
@@ -124,7 +124,7 @@ export default function Ezra09() {
           increased over our head, and our trespass is grown up unto the heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra, by the use of the pronoun our, includes himself in this
                 prayer of Repentance, as he also pleads for the entirety of
                 Israel)
@@ -143,7 +143,7 @@ export default function Ezra09() {
           confusion of face, as it is this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra goes straight to the point, labeling sin as the problem,
                 as it regarded Israel, and all others for that matter, and for
                 all time)
@@ -161,7 +161,7 @@ export default function Ezra09() {
           eyes, and give us a little reviving in our bondage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of the statement given in this Verse proclaims the
                 fact that Ezra is not claiming a full restoration; in other
                 words, by his statement, he is saying that any Grace will be
@@ -181,7 +181,7 @@ export default function Ezra09() {
           us a wall in Judah and in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, For we were bondmen, should have been translated,
                 For we are bondmen; the Jews had not recovered their
                 independence and, in fact, would not do so; even now, the modern
@@ -199,7 +199,7 @@ export default function Ezra09() {
           say after this? for we have forsaken Your Commandments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse speaks to the fact that, when sin is committed, it
                 is always, and without exception, against God)
               </span>
@@ -217,7 +217,7 @@ export default function Ezra09() {
           with their uncleanness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in his prayer, Ezra is speaking of the corrupt character of the
                 Canaanitish nations which formerly occupied the Land that later
                 came to be called Israel)
@@ -236,7 +236,7 @@ export default function Ezra09() {
           to your children for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra is quoting, at least in part,{" "}
                 <ScrollLink href="/deuteronmy-07" scrollToId="#filepos2195078">
                   <span className="calibre_19">
@@ -260,7 +260,7 @@ export default function Ezra09() {
           us such deliverance as this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord always punishes less than we deserve; we should always
                 remember this)
               </span>
@@ -277,7 +277,7 @@ export default function Ezra09() {
           so that there should be no remnant nor escaping?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sadly, Israel did again fail the Lord, and did so miserably!
                 They joined Rome and the abomination of the Crucifixion of
                 Christ, which was the most horrifying abomination of all. As a
@@ -297,7 +297,7 @@ export default function Ezra09() {
           because of this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Righteousness, in its widest sense, includes Mercy; and so the
                 meaning here may be, You are good and gracious, of which Your
                 having spared us is a proof)

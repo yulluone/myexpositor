@@ -18,7 +18,7 @@ export default function Isaiah53() {
           whom is the Arm of the LORD revealed?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Our report, refers to this very Prophecy, as well as the other
                 Messianic Prophecies delivered by Isaiah. To Israel was the Arm
                 of the LORD revealed. And to Israel is ascribed the unbelief,
@@ -50,7 +50,7 @@ export default function Isaiah53() {
           should desire Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To Gods Eye, Israel, and the entirety of the Earth for that
                 matter, were a dry ground, but that Eye rested with delight upon
                 one tender plant which had a living root. It was Jesus!
@@ -181,7 +181,7 @@ export default function Isaiah53() {
           faces from Him; He was despised, and we esteemed Him not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Him being rejected of men means One from Whom men held
                 themselves aloof. Why? He was pure Holiness and they were pure
                 corruption.
@@ -248,7 +248,7 @@ export default function Isaiah53() {
           and afflicted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Twelve times within the space of nine Verses the Prophet
                 asserts, with the most emphatic reiteration, that all the
                 Servants sufferings were vicarious; i.e., borne for man to save
@@ -317,7 +317,7 @@ export default function Isaiah53() {
           our peace was upon Him; and with His stripes we are healed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was wounded for our transgressions, pertains to the manner
                 in which He died, which was the price He paid for the Redemption
                 of humanity.
@@ -379,7 +379,7 @@ export default function Isaiah53() {
           the iniquity of us all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sheep without a shepherd get lost easily. Man as sheep has
                 wandered from the right path; he has become so hopelessly lost
                 that it is impossible for him, within his own means, to come
@@ -434,7 +434,7 @@ export default function Isaiah53() {
           His Mouth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to all that was done to Him in His
                 humiliation, suffering, and agony. He could so easily have
                 vindicated Himself from every charge; therefore, He self-abased
@@ -486,7 +486,7 @@ export default function Isaiah53() {
           stricken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was taken from prison and from judgment, refers to a
                 violence which cloaked itself under the formalities of a legal
                 process.
@@ -537,7 +537,7 @@ export default function Isaiah53() {
           violence, neither was any deceit in His mouth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And He made His grave with the wicked, means that he was
                 appointed such by the religious hierarchy of Israel, but Joseph
                 of Arimathea, a rich man, asked that Jesus be buried in his
@@ -588,7 +588,7 @@ export default function Isaiah53() {
           pleasure of the LORD shall prosper in His Hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Yet it pleased the LORD to bruise Him, refers to the sufferings
                 of Christ, which proceeded from the determinate counsel and
                 foreknowledge of God [
@@ -738,7 +738,7 @@ export default function Isaiah53() {
           Servant justify many; for He shall bear their iniquities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The travail of His soul pertains to His Sacrifice for sin,
                 which has resulted in the Restoration of man, at least for those
                 who will believe.
@@ -783,7 +783,7 @@ export default function Isaiah53() {
           intercession for the transgressors.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To be appointed with the great and to divide the spoil with the
                 strong is figurative language expressive of full victory. It
                 means here that Christ, by His Death, delivers from Satan

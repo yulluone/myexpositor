@@ -18,7 +18,7 @@ export default function Genesis09() {
           and said unto them, Be fruitful, and multiply, and replenish the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessing that God gave to Noah was in effect a Covenant;
                 the Covenant concerned the subject matter of the Verse)
               </span>
@@ -35,7 +35,7 @@ export default function Genesis09() {
           sea; into your hand are they delivered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be delivered into the hand of man refers to the fact that
                 man would be able to tame and reduce certain animals to be of
                 help to him)
@@ -51,7 +51,7 @@ export default function Genesis09() {
           be meat for you; even as the green herb have I given you all things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All the animals, if so desired, could serve as food, as well as
                 could vegetables;{" "}
                 <ScrollLink href="/genesis-01" scrollToId="#filepos27178">
@@ -73,7 +73,7 @@ export default function Genesis09() {
           which is the blood thereof, shall you not eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (man is prohibited from eating blood; there were several
                 reasons; however, the main reason was because the shedding of
                 blood in Sacrifices typified the Great Atonement which would be
@@ -92,7 +92,7 @@ export default function Genesis09() {
           life of man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse condemns suicide, as well as homicide; this is a
                 solemn proclamation of the sanctity of human life)
               </span>
@@ -107,7 +107,7 @@ export default function Genesis09() {
           his blood be shed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Covenant, we actually have the institution of
                 Government; the Passage speaks of cold-blooded murder; that
                 being the case, the State has the right to take the life of such
@@ -118,7 +118,7 @@ export default function Genesis09() {
           : for in the Image of God made He man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (capital punishment is not meant by God to serve as a deterrent,
                 but rather to portray the inherent worth of man)
               </span>
@@ -133,7 +133,7 @@ export default function Genesis09() {
           multiply; bring forth abundantly in the Earth, and multiply therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were it not for demonic religion and mans rebellion against
                 God, the Earth could easily care for 100 billion people)
               </span>
@@ -148,7 +148,7 @@ export default function Genesis09() {
           sons with him, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the problem with the world is that it ignores what God has
                 said)
               </span>
@@ -163,7 +163,7 @@ export default function Genesis09() {
           Covenant with you, and with your seed after you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Covenant that God established with Noah was to be extended
                 to all thereafter; in fact, it still stands)
               </span>
@@ -180,7 +180,7 @@ export default function Genesis09() {
           Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Covenant includes all of Gods creation on Earth.)
               </span>
             </span>
@@ -194,7 +194,7 @@ export default function Genesis09() {
           a flood; neither shall there any more be a flood to destroy the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Covenant guarantees that the world will never again be
                 destroyed by water.)
               </span>
@@ -209,7 +209,7 @@ export default function Genesis09() {
           that is with you, for perpetual generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that generations of people will continue forever)
               </span>
             </span>
@@ -223,7 +223,7 @@ export default function Genesis09() {
           shall be for a token of a Covenant between Me and the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the whole creation rests, as to its exemption from a second
                 deluge, on the eternal stability of Gods Covenant, of which the
                 bow is the token)
@@ -239,7 +239,7 @@ export default function Genesis09() {
           bring a cloud over the Earth, that the bow shall be seen in the cloud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the rainbow)</span>
+              <span className="explanation">(the rainbow)</span>
             </span>
           </span>
           :
@@ -252,7 +252,7 @@ export default function Genesis09() {
           and the waters shall no more become a flood to destroy all flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it doesnt mean that there will not be local floods, but rather
                 a flood to destroy the entirety of the Earth)
               </span>
@@ -269,7 +269,7 @@ export default function Genesis09() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Passage, we are told that this Covenant is everlasting;
                 in the Hebrew, it means the Covenant of Eternity)
               </span>
@@ -285,7 +285,7 @@ export default function Genesis09() {
           flesh that is upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Covenant being universal, the sign of the rainbow is also
                 universal)
               </span>
@@ -301,7 +301,7 @@ export default function Genesis09() {
           Canaan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the population of the Earth, and for all time
                 since the flood, are descendants of Shem, Ham, and Japheth;
                 Canaan is mentioned because his lineage will prove to be bitter
@@ -317,7 +317,7 @@ export default function Genesis09() {
           and of them was the whole Earth overspread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this means that every single person on the Earth died in the
                 flood, with the exception of this family)
               </span>
@@ -341,7 +341,7 @@ export default function Genesis09() {
           drunken; and he was uncovered within his tent.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first mention of wine in the Bible, or any type of
                 intoxicating beverage. Inasmuch as the first mention of
                 intoxicating beverage in the Bible reveals such a shameful
@@ -359,7 +359,7 @@ export default function Genesis09() {
           the nakedness of his father, and told his two brethren without{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sin is like leaven; it always spreads; Noah not only gets
                 drunk, but now pulls off his clothes, and does so intentionally;
                 there is a form of insanity about sin)
@@ -377,7 +377,7 @@ export default function Genesis09() {
           saw not their fathers nakedness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a lack of love exposes sin, while the Love of God covers sin,
                 but without condoning it)
               </span>
@@ -392,7 +392,7 @@ export default function Genesis09() {
           knew what his younger son had done unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there are some Scholars who believe that either Ham or Canaan,
                 and more likely Canaan, committed an act of homosexuality on the
                 Patriarch; while there is no concrete proof of such, there is
@@ -412,7 +412,7 @@ export default function Genesis09() {
           servant of servants shall he be unto his brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What was this curse? It had absolutely nothing to do with the
                 skin of some people being black. In fact, all the descendants of
                 Ham and Canaan were not black; some were white, and we speak of
@@ -460,7 +460,7 @@ export default function Genesis09() {
           of Shem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (through Shem would come the Jewish people, who would give the
                 world the Word of God and, as well, would bring forth the
                 Messiah, the Saviour of the world)
@@ -470,7 +470,7 @@ export default function Genesis09() {
           ; and Canaan shall be his servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Canaanites in Israel were defeated by David, and became the
                 servants of Israel)
               </span>
@@ -485,7 +485,7 @@ export default function Genesis09() {
           shall dwell in the tents of Shem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel, the descendants of Shem, would reject Christ, while the
                 descendants of Japheth would accept Him, which means that the
                 Blessing intended for Shem, i.e., Israel, would instead go to
@@ -496,7 +496,7 @@ export default function Genesis09() {
           ; and Canaan shall be his servant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The descendants of Canaan continue unto this hour [2003], in a
                 sense, to be the servants of Japheth. For instance, the
                 descendants of Canaan, wherever they might be, in a sense,
@@ -519,7 +519,7 @@ export default function Genesis09() {
           hundred and fifty years: and he died.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that Noah lived almost to the birth of Abraham, and
                 was thus, in all probability, a witness of the building of the
                 Tower of Babel, and of the consequent dispersion of mankind.)

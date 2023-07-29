@@ -18,7 +18,7 @@ export default function Ezekiel27() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason the Holy Spirit gives such detail concerning Tyrus
                 is because this city is a symbol of Satans efforts to build an
                 earthly kingdom and, thereby, meet the needs of man without God.
@@ -38,7 +38,7 @@ export default function Ezekiel27() {
           lamentation for Tyrus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the lamentation for Tyrus is given by the Holy Spirit because
                 this city and its commerce was helped greatly by Satan, and was,
                 thereby, used as a spiritual projection of his gospel of
@@ -57,7 +57,7 @@ export default function Ezekiel27() {
           of perfect beauty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (O Tyrus, you have said, I am of perfect beauty, refers to the
                 pride of that city, which{" "}
                 <ScrollLink href="/ezekiel-28" scrollToId="#filepos9406813">
@@ -88,7 +88,7 @@ export default function Ezekiel27() {
           seas, your builders have perfected your beauty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Your builders have perfected your beauty, refers to
                 the merchants of this great commercial activity, in effect,
                 being helped by Satan regarding the prosperity of the city.)
@@ -104,7 +104,7 @@ export default function Ezekiel27() {
           masts for you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many years before, these cedars had been used to build the
                 Temple, the dwellingplace of Jehovah under the old economy of
                 God.)
@@ -120,7 +120,7 @@ export default function Ezekiel27() {
           ivory, brought out of the Isles of Chittim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The use of ivory in ship- or house-building seems to have been
                 one of the arts for which Tyre was famous.)
               </span>
@@ -135,7 +135,7 @@ export default function Ezekiel27() {
           from the Isles of Elishah was that which covered you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to some of the fine, broidered sails that graced
                 some of the ships of Tyre, relative to the common sails of most
                 ships.)
@@ -151,7 +151,7 @@ export default function Ezekiel27() {
           pilots.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The intent of this Verse is to proclaim the fact that the
                 common sailors came from Zidon and Arvad, while Tyre furnished
                 the officers. Thus, Tyre is held as a cut above the others, even
@@ -169,7 +169,7 @@ export default function Ezekiel27() {
           their mariners were in you to occupy your merchandise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the constant business activity of the merchant
                 ships in continuing, and without fail, to increase the riches of
                 Tyre.)
@@ -188,7 +188,7 @@ export default function Ezekiel27() {
           helmet in you; they set forth your comeliness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, They set forth your comeliness, means they guarded
                 the riches.)
               </span>
@@ -204,7 +204,7 @@ export default function Ezekiel27() {
           your beauty perfect.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture proclaims the military might of Tyre;
                 consequently, she was so strong that had not the Lord helped
                 Nebuchadnezzar, he would never have been able to take the city.)
@@ -223,7 +223,7 @@ export default function Ezekiel27() {
           lead, they traded in your fairs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Tarshish was your merchant, refers to Spain, where
                 Jonah had attempted to go [
                 <ScrollLink href="/jonah-01" scrollToId="#filepos10261613">
@@ -246,7 +246,7 @@ export default function Ezekiel27() {
           your market.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They traded the persons of men and vessels of brass in your
                 market, referred to the buying and selling of slaves, as well as
                 merchandise.)
@@ -261,7 +261,7 @@ export default function Ezekiel27() {
           in your fairs with horses and horsemen and mules.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Togarmah was Armenia. The area was famous for its horses and
                 horsemen and mules.)
               </span>
@@ -276,7 +276,7 @@ export default function Ezekiel27() {
           you for a present horns of ivory and ebony.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ebony is a rock-hard heavy wood, yielded by various old world
                 tropical dicotyledonous trees. It was very valuable and used to
                 make fine furniture, etc.)
@@ -293,7 +293,7 @@ export default function Ezekiel27() {
           and agate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious in these Passages, Tyre was the trading point of
                 the world. Therefore, her wealth must have been extensive, to
                 say the least!)
@@ -309,7 +309,7 @@ export default function Ezekiel27() {
           Pannag, and honey, and oil, and balm.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Judah and the Land of Israel are mentioned, even though
                 the Holy Spirit does not highlight their mention, still, there
                 is a quickening of the Spirit.)
@@ -332,7 +332,7 @@ export default function Ezekiel27() {
           market.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Dan spoken of here is not the Tribe of Dan, but instead a
                 place in Arabia known for its steel used for sword-blades, for
                 which Yemen was famous, hence, bright iron.)
@@ -347,7 +347,7 @@ export default function Ezekiel27() {
           clothes for chariots.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This probably referred to a type of colorful carpet used as
                 saddlecloths. As well, the material was used to ritually
                 decorate expensive chariots.)
@@ -363,7 +363,7 @@ export default function Ezekiel27() {
           were they your merchants.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Dedan and Kedar both were in Arabia.)
               </span>
             </span>
@@ -377,7 +377,7 @@ export default function Ezekiel27() {
           all spices, and with all precious stones, and gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is readily observable that every single thing in the world
                 of that day was traded, with Tyre being the center of all such
                 activity.)
@@ -392,7 +392,7 @@ export default function Ezekiel27() {
           merchants of Sheba, Asshur, and Chilmad, were your merchants.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Haran was the same city where Abraham lived for a while before
                 going on into the Land of Canaan. It was about 300 miles north
                 of Damascus.)
@@ -416,7 +416,7 @@ export default function Ezekiel27() {
           in the midst of the seas.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tarshish was in Spain, showing the distance to which the trade
                 extended. And made very glorious in the midst of the seas,
                 refers to vessels from all over the world of that day,
@@ -435,7 +435,7 @@ export default function Ezekiel27() {
           great waters; the east wind has broken you in the midst of the seas.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beginning with this Verse and through the remainder of the
                 Chapter, all the glory and glamour of Tyre is predicted to be
                 brought to ruin, and meant to serve as a symbol of Satan and his
@@ -454,7 +454,7 @@ export default function Ezekiel27() {
           into the midst of the seas in the day of your ruin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, as the Lord destroyed the Tyrus of the Old World, He
                 will also destroy the Tyrus of the New World [Babylon], both
                 symbols of the efforts of Satan to rebuild the Garden of Eden
@@ -495,7 +495,7 @@ export default function Ezekiel27() {
           of the cry of your pilots.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fall of Tyre, which came about 15 years later, and which
                 the city thought impossible, would result in a shaking of all
                 the sister cities and countries which depended on her.)
@@ -511,7 +511,7 @@ export default function Ezekiel27() {
           ships, they shall stand upon the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, this has a similarity to the coming destruction of
                 Babylon, which is yet future [
                 <ScrollLink href="/revelation-18" scrollToId="#filepos15100852">
@@ -542,7 +542,7 @@ export default function Ezekiel27() {
           shall weep for you with bitterness of heart and bitter wailing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Riches were their god, and now that the riches are lost, they
                 have nothing! Such are all who place their confidence in
                 anything other than the Lord. Not only do they lose their souls,
@@ -567,7 +567,7 @@ export default function Ezekiel27() {
           Earth with the multitude of your riches and of your merchandise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Considering the riches of Tyre, why did Nebuchadnezzar desire
                 to destroy her? Whatever his personal reasons were, the
                 overriding factor was that the Lord had chosen him as an
@@ -588,7 +588,7 @@ export default function Ezekiel27() {
           company in the midst of you shall fall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, because the Lord deemed it so!)
               </span>
             </span>
@@ -602,7 +602,7 @@ export default function Ezekiel27() {
           shall be troubled in their countenance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entire Verse indicates that world leaders were shaken as a
                 result of Tyres destruction.)
               </span>
@@ -616,7 +616,7 @@ export default function Ezekiel27() {
           hiss at you; you shall be a terror, and never shall be any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With her destruction by Nebuchadnezzar, and again about 150
                 years later by Alexander the Great, the greatness and glory of
                 Tyre died, never to rise again. This is the Old Testament

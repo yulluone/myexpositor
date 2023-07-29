@@ -41,19 +41,19 @@ export default function Kings107() {
           of Lebanon; the length thereof was an hundred cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(150 feet)</span>
+              <span className="explanation">(150 feet)</span>
             </span>
           </span>
           , and the breadth thereof fifty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           , and the height thereof thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet)</span>
+              <span className="explanation">(45 feet)</span>
             </span>
           </span>
           , upon four rows of cedar pillars, with cedar beams upon the pillars.
@@ -83,13 +83,13 @@ export default function Kings107() {
           length thereof was fifty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           , and the breadth thereof thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet)</span>
+              <span className="explanation">(45 feet)</span>
             </span>
           </span>
           : and the porch was before them: and the other pillars and the thick
@@ -144,7 +144,7 @@ export default function Kings107() {
           stones, even great stones, stones of ten cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>
           , and stones of eight cubits{" "}
@@ -212,7 +212,7 @@ export default function Kings107() {
           work all works in brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typical of the Holy Spirit)</span>
+              <span className="explanation">(typical of the Holy Spirit)</span>
             </span>
           </span>
           . And he came to king Solomon and wrought all his work{" "}
@@ -233,13 +233,13 @@ export default function Kings107() {
           eighteen cubits high apiece{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(27 feet)</span>
+              <span className="explanation">(27 feet)</span>
             </span>
           </span>
           : and a line of twelve cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(18 feet)</span>
+              <span className="explanation">(18 feet)</span>
             </span>
           </span>{" "}
           did compass either of them about{" "}
@@ -272,7 +272,7 @@ export default function Kings107() {
           chapiter was five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           , and the height of the other chapiter was five cubits:
@@ -316,13 +316,13 @@ export default function Kings107() {
           top of the pillars were of lily work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typifies purity)</span>
+              <span className="explanation">(typifies purity)</span>
             </span>
           </span>{" "}
           in the porch, four cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>
         </span>
@@ -351,7 +351,7 @@ export default function Kings107() {
           : and he set up the left pillar, and called the name thereof Boaz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means in it is strength)</span>
+              <span className="explanation">(means in it is strength)</span>
             </span>
           </span>
         </span>
@@ -412,26 +412,26 @@ export default function Kings107() {
           <sup className="calibre7">23</sup>And he made a Molten Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brazen Laver)</span>
+              <span className="explanation">(the Brazen Laver)</span>
             </span>
           </span>
           , ten cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>{" "}
           from the one brim to the other: it was found all about, and his height
           was five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           : and a line of thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet)</span>
+              <span className="explanation">(45 feet)</span>
             </span>
           </span>{" "}
           did compass it round about.
@@ -486,14 +486,14 @@ export default function Kings107() {
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>{" "}
           was the length of one base, and four cubits the breadth thereof, and
           three cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(4 feet)</span>
+              <span className="explanation">(4 feet)</span>
             </span>
           </span>{" "}
           the height of it.
@@ -683,7 +683,7 @@ export default function Kings107() {
           for the House of the LORD, were of bright brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
         </span>
@@ -751,7 +751,7 @@ export default function Kings107() {
           that pertained unto the House of the LORD: the Altar of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Altar of Incense)</span>
+              <span className="explanation">(the Altar of Incense)</span>
             </span>
           </span>
           , and the Table of gold, whereupon the shewbread was,
@@ -762,14 +762,14 @@ export default function Kings107() {
           <sup className="calibre7">49</sup>And the Candlesticks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstands)</span>
+              <span className="explanation">(Lampstands)</span>
             </span>
           </span>{" "}
           of pure gold, five on the right side, and five on the left, before the
           Oracle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy of Holies)</span>
+              <span className="explanation">(Holy of Holies)</span>
             </span>
           </span>
           , with the flowers, and the lamps, and the tongs of gold{" "}

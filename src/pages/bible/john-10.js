@@ -38,7 +38,7 @@ export default function John10() {
           <sup className="calibre7">2</sup>But he who enters in by the Door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Way)</span>
+              <span className="explanation">(Way)</span>
             </span>
           </span>{" "}
           is the Shepherd of the Sheep{" "}
@@ -115,7 +115,7 @@ export default function John10() {
           , He goes before them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He has planned everything)</span>
+              <span className="explanation">(He has planned everything)</span>
             </span>
           </span>
           , and the Sheep follow Him: for they know His Voice{" "}
@@ -425,7 +425,9 @@ export default function John10() {
           not of this fold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Gentile Church)</span>
+              <span className="explanation">
+                (speaks of the Gentile Church)
+              </span>
             </span>
           </span>
           : them also I must bring, and they shall hear My Voice{" "}
@@ -454,7 +456,7 @@ export default function John10() {
           one Shepherd{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           .
@@ -483,7 +485,7 @@ export default function John10() {
           , that I might take it again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>
           .
@@ -556,7 +558,7 @@ export default function John10() {
           , and is mad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(claiming He was insane)</span>
+              <span className="explanation">(claiming He was insane)</span>
             </span>
           </span>
           ; why hear you Him?{" "}
@@ -576,13 +578,15 @@ export default function John10() {
           of Him Who has a devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>
           . Can a devil open the eyes of the blind?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The answer is an obvious no.)</span>
+              <span className="explanation">
+                (The answer is an obvious no.)
+              </span>
             </span>
           </span>
         </span>

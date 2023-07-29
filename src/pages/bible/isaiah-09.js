@@ -19,7 +19,7 @@ export default function Isaiah09() {
           Galilee of the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The translation from the Hebrew to the English is thought by
                 some Scholars not to have been as sufficient as it could have
                 been.
@@ -73,7 +73,7 @@ export default function Isaiah09() {
           death, upon them has the light shined.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To the end of this Verse the Prophecy concerns itself with the
                 First Advent. As well,{" "}
                 <ScrollLink href="/" scrollToId="#filepos7362344">
@@ -148,7 +148,7 @@ export default function Isaiah09() {
           harvest, and as men rejoice when they divide the spoil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The basic intent of this Verse pertains to Israels coming
                 rejection of the Lord Jesus Christ. They saw the great light,
                 but would not accept the great light, and in fact crucified
@@ -180,7 +180,7 @@ export default function Isaiah09() {
           the day of Midian.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Christ came, He would break the yoke of Satan off their
                 shoulders, at least for those who would believe. The yoke
                 addressed here is sin. The oppressor is the prince of darkness,
@@ -198,7 +198,7 @@ export default function Isaiah09() {
           with burning and fuel of fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is telling Judah here to take their eyes off of
                 military power, and look to the Lord. He Alone holds the
                 answer!)
@@ -215,7 +215,7 @@ export default function Isaiah09() {
           Everlasting Father, The Prince of Peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This glorious Promise pertains not only to the First Advent,
                 but to the Second Advent, as well.
               </span>
@@ -293,7 +293,7 @@ export default function Isaiah09() {
           will perform this.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last phrase guarantees that what the Lord has promised, He
                 will perform.
               </span>
@@ -324,7 +324,7 @@ export default function Isaiah09() {
           it has lighted upon Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit here resumes the history of the nation from
                 Chpt.{" "}
                 <ScrollLink href="/isaiah-05" scrollToId="#filepos7307507">
@@ -396,7 +396,7 @@ export default function Isaiah09() {
           stoutness of heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Passage, we find the cause of Israels sin and rebellion
                 against the Lord; the sin was pride; such is the foundation of
                 all sin)
@@ -413,7 +413,7 @@ export default function Isaiah09() {
           change them into cedars.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, we have the defiance of the people against the
                 judgments of God.
               </span>
@@ -440,7 +440,7 @@ export default function Isaiah09() {
           adversaries of Rezin against him, and join his enemies together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the adversaries of Rezin, king of Damascus, were the Assyrians.
               </span>
             </span>
@@ -479,7 +479,7 @@ export default function Isaiah09() {
           still.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Syrians coming from the east and the
                 Philistines coming from the west.
               </span>
@@ -507,7 +507,7 @@ export default function Isaiah09() {
           Who smote them, neither do they seek the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Conversion, i.e., turning around, ensures blessing, and speaks
                 of Repentance; to refuse to turn around makes wrath certain.
               </span>
@@ -565,7 +565,7 @@ export default function Isaiah09() {
           Israel head and tail, branch and rush, in one day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This colorful expression refers to the whole nation, from the
                 highest to the lowest.)
               </span>
@@ -585,7 +585,7 @@ export default function Isaiah09() {
           them to err; and they who are led of them are destroyed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Leaders in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7373960">
                   <span className="calibre_19">
@@ -622,7 +622,7 @@ export default function Isaiah09() {
           is stretched out still.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, His hand is stretched out still, is found some five
                 times in the Book of Isaiah. It indicates that Gods Anger is
                 still strong and that His People had not responded to mercy or
@@ -680,7 +680,7 @@ export default function Isaiah09() {
           of the forest, and they shall mount up like the lifting up of smoke.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the wickedness is total, likewise, the judgment will be
                 total!)
               </span>
@@ -695,7 +695,7 @@ export default function Isaiah09() {
           fire: no man shall spare his brother.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The land darkened is not used in this fashion elsewhere in
                 Scripture. The light they rejected will now turn to darkness.)
               </span>
@@ -710,7 +710,7 @@ export default function Isaiah09() {
           not be satisfied: they shall eat every man the flesh of his own arm{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage refers to the spirit and lust for blood that is
                 permeating the entirety of the land; it is a time of looting,
                 stealing, robbing, and murder, even of ones neighbors, as Israel
@@ -728,7 +728,7 @@ export default function Isaiah09() {
           anger is not turned away, but His hand is stretched out still.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These two are mentioned as the two principal Tribes of the
                 Northern Kingdom [
                 <ScrollLink

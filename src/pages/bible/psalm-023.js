@@ -177,7 +177,7 @@ export default function Psalm023() {
           : You anoint My head with oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of the Holy Spirit)</span>
+              <span className="explanation">(a Type of the Holy Spirit)</span>
             </span>
           </span>
           ; My cup runs over{" "}

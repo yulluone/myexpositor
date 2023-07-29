@@ -17,7 +17,7 @@ export default function Deuteronmy05() {
           your ears this day, that you may learn them, and keep, and do them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the necessity of all of Israel learning the Law; likewise,
                 modern Believers must learn the Bible, and do so for themselves)
               </span>
@@ -39,7 +39,7 @@ export default function Deuteronmy05() {
           day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Covenant made at Sinai, with Israel as a people)
               </span>
             </span>
@@ -75,7 +75,7 @@ export default function Deuteronmy05() {
           Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Expositors say, In this, the First Commandment, the great
                 principle and basis of all true spirituality is asserted
                 monotheism [one God], as opposed to polytheism [many gods].
@@ -101,7 +101,7 @@ export default function Deuteronmy05() {
           and fourth generation of them who hate Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage is often used to buttress the false doctrine of
                 the family curse, so-called; it is true that there is a curse
                 upon succeeding generations, but only those who hate the Lord;
@@ -131,7 +131,7 @@ export default function Deuteronmy05() {
           them who love Me and keep My Commandments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Commandment no doubt accounts for the fact that Israel
                 alone of the civilized nations of antiquity has left no
                 monuments of art for the instruction or admiration of posterity)
@@ -148,7 +148,7 @@ export default function Deuteronmy05() {
           takes His Name in vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Commandment addresses all profanity, and false swearing by
                 the Name of God and, as well, all irreverent use of the Name [
                 <ScrollLink href="/leviticus-19" scrollToId="#filepos1543790">
@@ -195,7 +195,7 @@ export default function Deuteronmy05() {
           LORD your God commanded you to keep the Sabbath day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, The observance of the Sabbath, which in Exodus
                 20 is urged because of Gods creation rest, is commanded here in
                 the interest of slaves as well. This shows Gods tender pity for
@@ -225,7 +225,7 @@ export default function Deuteronmy05() {
           LORD your God gives you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pulpit says, Where parents are not honored, a flaw lies at the
                 basis, and the stability of the entire social fabric is
                 endangered; as well, those who will not honor their parents will
@@ -240,7 +240,7 @@ export default function Deuteronmy05() {
           <sup className="calibre7">17</sup>You shall not kill{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shall not murder)</span>
+              <span className="explanation">(shall not murder)</span>
             </span>
           </span>
         </span>
@@ -251,7 +251,7 @@ export default function Deuteronmy05() {
           <sup className="calibre7">18</sup>Neither shall you commit adultery{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (extends to all forms of immorality)
               </span>
             </span>
@@ -264,7 +264,7 @@ export default function Deuteronmy05() {
           <sup className="calibre7">19</sup>Neither shall you steal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the property of another must not be taken by fraud or outright
                 theft)
               </span>
@@ -279,7 +279,7 @@ export default function Deuteronmy05() {
           against your neighbour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of gossip, outright lying, and slander of every nature)
               </span>
             </span>
@@ -295,7 +295,7 @@ export default function Deuteronmy05() {
           any thing that is your neighbours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (covetousness means that a person must not even desire, at least
                 in a fraudulent manner, that which belongs to another)
               </span>
@@ -315,7 +315,7 @@ export default function Deuteronmy05() {
           And He wrote them in two tables of stone, and delivered them unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord spoke the Ten Commandments audibly to Israel, and then
                 wrote them on two tables of stone, and gave them to Moses)
               </span>
@@ -340,7 +340,7 @@ export default function Deuteronmy05() {
           does talk with man, and he lives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did not die upon hearing the Voice of God)
               </span>
             </span>
@@ -355,7 +355,7 @@ export default function Deuteronmy05() {
           God any more, then we shall die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were afraid if God continued to talk with them with an
                 audible voice, that ultimately they would die as a result)
               </span>
@@ -378,7 +378,7 @@ export default function Deuteronmy05() {
           God shall speak unto you; and we will hear it, and do it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they asked that the Lord speak solely with Moses, and He could
                 convey the message to them)
               </span>
@@ -395,7 +395,7 @@ export default function Deuteronmy05() {
           you: they have well said all that they have spoken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord approved of what Israel had requested, because they
                 expressed a proper reverence and a due sense on their part of
                 the unworthiness of sinful men to come into the Presence of the
@@ -413,7 +413,7 @@ export default function Deuteronmy05() {
           that it might be well with them, and with their children for ever!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God looks upon the heart, and will accept no service or worship
                 that is not rendered from the heart.)
               </span>
@@ -427,7 +427,7 @@ export default function Deuteronmy05() {
           tents again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was at the time of the giving of the Law at Mount Sinai)
               </span>
             </span>
@@ -440,7 +440,7 @@ export default function Deuteronmy05() {
           <sup className="calibre7">31</sup>But as for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>
           , you stand here by Me, and I will speak unto you all the
@@ -464,7 +464,7 @@ export default function Deuteronmy05() {
           which you shall possess.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this is of extreme significance, in that these people
                 were raised up for the purpose of serving, one might say, as the
                 womb of the Messiah, and to whom the Word of God would be given;

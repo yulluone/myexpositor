@@ -83,7 +83,7 @@ export default function Mark11() {
           ; and straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           he will send him hither{" "}
@@ -105,7 +105,7 @@ export default function Mark11() {
           they loose him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(their way was His Way)</span>
+              <span className="explanation">(their way was His Way)</span>
             </span>
           </span>
           .
@@ -130,7 +130,7 @@ export default function Mark11() {
           had commanded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord has need of him)</span>
+              <span className="explanation">(the Lord has need of him)</span>
             </span>
           </span>
           : and they let them go{" "}
@@ -189,7 +189,7 @@ export default function Mark11() {
           in the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably palm fronds)</span>
+              <span className="explanation">(probably palm fronds)</span>
             </span>
           </span>
           .
@@ -336,7 +336,7 @@ export default function Mark11() {
           : and when He came to it, He found nothing but leaves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no fruit)</span>
+              <span className="explanation">(no fruit)</span>
             </span>
           </span>
           ; for the time of figs was not{" "}
@@ -548,7 +548,7 @@ export default function Mark11() {
           <sup className="calibre7">20</sup>And in the morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably refers to Tuesday)</span>
+              <span className="explanation">(probably refers to Tuesday)</span>
             </span>
           </span>
           , as they passed by, they saw the fig tree dried up from the roots{" "}
@@ -648,7 +648,7 @@ export default function Mark11() {
           , believe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(have faith)</span>
+              <span className="explanation">(have faith)</span>
             </span>
           </span>{" "}
           that you receive{" "}

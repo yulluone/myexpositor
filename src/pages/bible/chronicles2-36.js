@@ -23,7 +23,7 @@ export default function Chronicles236() {
           old when he began to reign, and he reigned three months in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the shortest of any reign in Judah; in{" "}
                 <ScrollLink href="/kings2-23" scrollToId="#filepos4345279">
                   <span className="calibre_19">
@@ -51,7 +51,7 @@ export default function Chronicles236() {
           a talent of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now Judah will become a vassal state of Egypt)
               </span>
             </span>
@@ -77,7 +77,7 @@ export default function Chronicles236() {
           and he did that which was evil in the sight of the LORD his God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words, his God, mean that God fervently dealt with him to
                 bring him to the true way; nevertheless, despite the heavy
                 dealings by the Holy Spirit, Jehoiakim continued to do evil)
@@ -97,14 +97,14 @@ export default function Chronicles236() {
           <sup className="calibre7">6</sup>Against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehoiakim)</span>
+              <span className="explanation">(Jehoiakim)</span>
             </span>
           </span>{" "}
           came up Nebuchadnezzar king of Babylon, and bound him in fetters, to
           carry him to Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this stage, Egypt begins to wane in power, which now sees
                 the advent and rise of mighty Babylon)
               </span>
@@ -120,7 +120,7 @@ export default function Chronicles236() {
           temple at Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These articles were put in the temple of the god Bel [a
                 derivative of Baal]. Inasmuch as there was no god in the Temple,
                 Nebuchadnezzar no doubt took some of the Holy Vessels, such as
@@ -172,7 +172,7 @@ export default function Chronicles236() {
           he began to reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should be eighteen, as in{" "}
                 <ScrollLink href="/kings2-24" scrollToId="#filepos4351618">
                   <span className="calibre_19">
@@ -196,7 +196,7 @@ export default function Chronicles236() {
           vessels of the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (more of these Vessels, which had evidently been left)
               </span>
             </span>
@@ -204,7 +204,7 @@ export default function Chronicles236() {
           , and made Zedekiah his brother king over Judah and Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the second deportation, which included Mordecai and
                 Esther, as well as Ezekiel; they were taken to Babylon [
                 <ScrollLink href="/kings2-24" scrollToId="#filepos4352428">
@@ -237,7 +237,7 @@ export default function Chronicles236() {
           the Prophet speaking from the Mouth of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, the words, his God, refer to the fact that the Holy
                 Spirit through Jeremiah the Prophet dealt strongly with this
                 man, but all to no avail! Millions presently fall into the same
@@ -256,7 +256,7 @@ export default function Chronicles236() {
           <sup className="calibre7">13</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Zedekiah)</span>
+              <span className="explanation">(Zedekiah)</span>
             </span>
           </span>{" "}
           also rebelled against king Nebuchadnezzar, who had made him swear by
@@ -264,7 +264,7 @@ export default function Chronicles236() {
           unto the LORD God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the criticism by the Prophet Ezekiel concerning this oath
                 violation on the part of Zedekiah is to be found in{" "}
                 <ScrollLink href="/ezekiel-17" scrollToId="#filepos9237430">
@@ -297,7 +297,7 @@ export default function Chronicles236() {
           He had hallowed in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This, with the following three Verses, may be regarded as the
                 formal and final indictment of the people of Judah. This Passage
                 tells us that even the Priests practiced abominations!)
@@ -313,7 +313,7 @@ export default function Chronicles236() {
           because He had compassion on His people, and on His dwelling place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, as we shall see, Gods compassion can be exhausted; the
                 messengers addressed here could very well have been Isaiah,
                 Jeremiah, and Ezekiel, with the emphasis on Jeremiah)
@@ -330,7 +330,7 @@ export default function Chronicles236() {
           of the LORD arose against His people, till there was no remedy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is one thing for man to say that there is no remedy, but
                 quite something else altogether for the Lord to say, Till there
                 was no remedy. In these very words, one can feel the sob of the
@@ -346,7 +346,7 @@ export default function Chronicles236() {
           king of the Chaldees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nebuchadnezzar)</span>
+              <span className="explanation">(Nebuchadnezzar)</span>
             </span>
           </span>
           , who killed their young men with the sword in the House of their
@@ -354,7 +354,7 @@ export default function Chronicles236() {
           him who stooped for age: He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           gave them all into his hand.
@@ -368,7 +368,7 @@ export default function Chronicles236() {
           Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the last deportation, with Jerusalem, as well as the
                 Temple, being completely destroyed)
               </span>
@@ -384,7 +384,7 @@ export default function Chronicles236() {
           with fire, and destroyed all the goodly vessels thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the Lord allowing this, in effect, He was saying that Judah
                 was no longer His people; now they belonged to the Babylonian
                 king)
@@ -401,7 +401,7 @@ export default function Chronicles236() {
           his sons until the reign of the kingdom of Persia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a total of seventy years)</span>
+              <span className="explanation">(a total of seventy years)</span>
             </span>
           </span>
           :
@@ -415,7 +415,7 @@ export default function Chronicles236() {
           ten years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law of Moses had demanded that every seventh year the
                 entirety of the land [Israel] should rest. It was called a
                 Sabbath of rest unto the land. On the seventh year, the Lord
@@ -458,7 +458,7 @@ export default function Chronicles236() {
           of Persia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a period of about half a century had elapsed between the last
                 date of the foregoing Verses and the date signalized here; as
                 well, Cyrus was Esthers son)
@@ -469,7 +469,7 @@ export default function Chronicles236() {
           accomplished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/jeremiah-29" scrollToId="#filepos8553154">
                   <span className="calibre_19">
@@ -493,7 +493,7 @@ export default function Chronicles236() {
           the kingdoms of the Earth has the LORD God of Heaven given me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Medo-Persian Empire had defeated the Babylonian Empire; no
                 doubt, Cyrus had been greatly influenced by his Godly mother,
                 Esther, in that he now recognizes that it is the Lord Who has
@@ -504,7 +504,7 @@ export default function Chronicles236() {
           ; and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has charged me to build Him an House in Jerusalem, which is in Judah.
@@ -512,7 +512,7 @@ export default function Chronicles236() {
           him, and let him go up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerned the re-building of the Temple under Ezra. All
                 the Israelites were now free to go back to the land of Israel.{" "}
                 <ScrollLink href="/ezra-02" scrollToId="#filepos5043719">

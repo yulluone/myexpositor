@@ -130,7 +130,7 @@ export default function Numbers07() {
           Princes offered their Offering before the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Altar)</span>
+              <span className="explanation">(Brazen Altar)</span>
             </span>
           </span>
         </span>
@@ -182,7 +182,7 @@ export default function Numbers07() {
           , one silver bowl of seventy shekels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worth about $420)</span>
+              <span className="explanation">(worth about $420)</span>
             </span>
           </span>
           , after the shekel of the Sanctuary; both of them were full of fine
@@ -749,7 +749,7 @@ export default function Numbers07() {
           the Ark of Testimony, from between the two Cherubims: and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           spoke unto him.{" "}

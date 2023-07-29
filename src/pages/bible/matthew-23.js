@@ -113,7 +113,7 @@ export default function Matthew23() {
           seen of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-righteousness)</span>
+              <span className="explanation">(self-righteousness)</span>
             </span>
           </span>
           : they make broad their phylacteries{" "}
@@ -152,7 +152,7 @@ export default function Matthew23() {
           , and the chief seats in the synagogues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seats of honor)</span>
+              <span className="explanation">(seats of honor)</span>
             </span>
           </span>
           ,
@@ -163,7 +163,7 @@ export default function Matthew23() {
           <sup className="calibre7">7</sup>And greetings in the markets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(flowery salutations)</span>
+              <span className="explanation">(flowery salutations)</span>
             </span>
           </span>
           , and to be called of men, Rabbi, Rabbi{" "}
@@ -191,7 +191,7 @@ export default function Matthew23() {
           : for One is your Master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Teacher, Leader, Guide)</span>
+              <span className="explanation">(Teacher, Leader, Guide)</span>
             </span>
           </span>
           ,{" "}
@@ -203,7 +203,7 @@ export default function Matthew23() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           ; and all you are brethren{" "}
@@ -304,7 +304,7 @@ export default function Matthew23() {
           shall be abased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pride and vanity)</span>
+              <span className="explanation">(pride and vanity)</span>
             </span>
           </span>
           ; and he who shall humble himself shall be exalted{" "}
@@ -479,7 +479,7 @@ export default function Matthew23() {
           ; but whosoever sweareth by the gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sacrifice)</span>
+              <span className="explanation">(Sacrifice)</span>
             </span>
           </span>
           that is upon it, he is guilty{" "}
@@ -505,7 +505,7 @@ export default function Matthew23() {
           greater, the gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sacrifice)</span>
+              <span className="explanation">(Sacrifice)</span>
             </span>
           </span>
           , or the Altar that sanctifieth the gift?{" "}
@@ -525,7 +525,7 @@ export default function Matthew23() {
           Altar, sweareth by it, and by all things thereon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all were equally important)</span>
+              <span className="explanation">(all were equally important)</span>
             </span>
           </span>
           .
@@ -628,13 +628,13 @@ export default function Matthew23() {
           platter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(outward show)</span>
+              <span className="explanation">(outward show)</span>
             </span>
           </span>
           , but within they are full of extortion and excess{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the heart)</span>
+              <span className="explanation">(the heart)</span>
             </span>
           </span>
           .
@@ -652,7 +652,7 @@ export default function Matthew23() {
           within the cup and platter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the heart)</span>
+              <span className="explanation">(the heart)</span>
             </span>
           </span>
           , that the outside of them may be clean also{" "}
@@ -757,7 +757,7 @@ export default function Matthew23() {
           yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be honest with yourself)</span>
+              <span className="explanation">(be honest with yourself)</span>
             </span>
           </span>
           , that you are the children of them which killed the Prophets{" "}
@@ -1015,7 +1015,7 @@ export default function Matthew23() {
           He Who comes in the Name of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>
           .

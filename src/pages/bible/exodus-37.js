@@ -18,25 +18,25 @@ export default function Exodus37() {
           Wood: two cubits and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 and 3/4 feet)</span>
+              <span className="explanation">(3 and 3/4 feet)</span>
             </span>
           </span>{" "}
           was the length of it, and a cubit and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>{" "}
           the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           of it, and a cubit and a half the height of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, this was Gods Dwelling Place on Earth, as it
                 regards His association with man)
               </span>
@@ -51,7 +51,7 @@ export default function Exodus37() {
           within and without{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying the Deity of Christ)
               </span>
             </span>
@@ -59,7 +59,7 @@ export default function Exodus37() {
           , and made a Crown of Gold to it round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that Jesus was a King)
               </span>
             </span>
@@ -79,7 +79,7 @@ export default function Exodus37() {
           <sup className="calibre7">4</sup>And he made staves of Shittim Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wood signified the Humanity of Christ)
               </span>
             </span>
@@ -93,7 +93,7 @@ export default function Exodus37() {
           by the sides of the Ark, to bear the Ark.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the people were told by the Lord to move, the Ark, plus
                 all the other Sacred Vessels of the Tabernacle, were to move as
                 well. Due to the Cross, the Holy Spirit now lives within our
@@ -123,7 +123,7 @@ export default function Exodus37() {
           Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which sat on top of the Ark of the Covenant)
               </span>
             </span>
@@ -131,19 +131,19 @@ export default function Exodus37() {
           : two cubits and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 and 3/4 feet)</span>
+              <span className="explanation">(3 and 3/4 feet)</span>
             </span>
           </span>{" "}
           was the length thereof, and one cubit and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>{" "}
           the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           thereof.
@@ -156,7 +156,7 @@ export default function Exodus37() {
           Seat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that the two Cherubims and the Mercy Seat were all of
                 one piece of gold)
               </span>
@@ -172,7 +172,7 @@ export default function Exodus37() {
           Seat made he the Cherubims on the two ends thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Mercy of God, based on the Holiness of God, tells us that
                 only Christ can come near. He Alone is Holy!)
               </span>
@@ -186,7 +186,7 @@ export default function Exodus37() {
           wings on high, and covered with their wings over the Mercy Seat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the four wings touched each other in the middle)
               </span>
             </span>
@@ -195,7 +195,7 @@ export default function Exodus37() {
           faces of the Cherubims{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the faces looked down toward the Mercy Seat; inside the Ark
                 were the Ten Commandments on two tablets of stone; man had
                 broken them repeatedly; so they saw the broken Law; however,
@@ -224,31 +224,31 @@ export default function Exodus37() {
           <sup className="calibre7">10</sup>And he made the Table{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(holding twelve loaves)</span>
+              <span className="explanation">(holding twelve loaves)</span>
             </span>
           </span>{" "}
           of Shittim Wood: two cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 feet)</span>
+              <span className="explanation">(3 feet)</span>
             </span>
           </span>{" "}
           was the length thereof, and a cubit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(1 and 1/2 feet)</span>
+              <span className="explanation">(1 and 1/2 feet)</span>
             </span>
           </span>{" "}
           the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           thereof, and a cubit and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>{" "}
           the height thereof:
@@ -259,7 +259,7 @@ export default function Exodus37() {
           <sup className="calibre7">11</sup>And he overlaid it with Pure Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the wood signified the Humanity of Christ, which was
                 necessary in order that He might go to the Cross, the gold
                 typified His Deity; while He laid aside the expression of His
@@ -270,7 +270,7 @@ export default function Exodus37() {
           , and made thereunto a Crown of Gold round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying the Kingship of Christ)
               </span>
             </span>
@@ -285,7 +285,7 @@ export default function Exodus37() {
           thereof round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, there were two crowns around the Table of
                 Shewbread. They spoke of His two comings. He came the first time
                 as a King, but was not recognized as such. When He comes back
@@ -309,7 +309,7 @@ export default function Exodus37() {
           rings, the places for the staves to bear the Table{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when it was moved)</span>
+              <span className="explanation">(when it was moved)</span>
             </span>
           </span>
         </span>
@@ -328,7 +328,7 @@ export default function Exodus37() {
           covers to cover withal, of pure gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The above Verses portray the Table of Shewbread, a Type of
                 Christ as the Bread of Life.)
               </span>
@@ -345,7 +345,7 @@ export default function Exodus37() {
           Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lampstand is a Type of Christ as the Light of the world;
                 incidentally, the Hebrew word should have been translated
                 Lampstand, because its not a candlestick; in fact, no candles
@@ -356,7 +356,7 @@ export default function Exodus37() {
           : of beaten work made he the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (beaten and shaped by the craftsmans hand, this portrays Christ
                 in His Sufferings)
               </span>
@@ -365,7 +365,7 @@ export default function Exodus37() {
           ; his shaft{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the middle stem, which portrayed Christ as the Source of all
                 Blessings)
               </span>
@@ -383,7 +383,7 @@ export default function Exodus37() {
           thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the three on each side, totaling six, which is the number of
                 man, represent the Church, the Body of Christ; the middle prong,
                 representing Christ, added with the six totaled seven, which is
@@ -401,7 +401,7 @@ export default function Exodus37() {
           of almonds in one branch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents the Resurrection of Christ)
               </span>
             </span>
@@ -409,7 +409,7 @@ export default function Exodus37() {
           , a knop{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents pomegranates, i.e., fruit)
               </span>
             </span>
@@ -417,7 +417,7 @@ export default function Exodus37() {
           and a flower{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was no doubt the lily, denoting purity)
               </span>
             </span>
@@ -432,7 +432,7 @@ export default function Exodus37() {
           bowls made like almonds, his knops, and his flowers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the four bowls represent the fourfold Gospel, Salvation, Holy
                 Spirit Baptism, Divine Healing, and the Second Coming)
               </span>
@@ -448,7 +448,7 @@ export default function Exodus37() {
           branches of the same, according to the six branches going out of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the repetition of the branches proclaims the fact that all in
                 the Church are treated the same by the Holy Spirit and, abiding
                 by the Word, will receive the same Blessings from the Lord)
@@ -464,7 +464,7 @@ export default function Exodus37() {
           of the same: all of it was one beaten work of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all being one piece signifies that the Mercy of God is based
                 entirely upon the Holiness of God)
               </span>
@@ -478,7 +478,7 @@ export default function Exodus37() {
           <sup className="calibre7">23</sup>And he made his seven lamps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seven, being Gods Perfect Number, proclaims perfect
                 illumination)
               </span>
@@ -487,7 +487,7 @@ export default function Exodus37() {
           , and his snuffers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for the trimming of the wicks)
               </span>
             </span>
@@ -495,7 +495,7 @@ export default function Exodus37() {
           , and his snuffdishes, of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that God Alone can make the Believer what the
                 Believer ought to be)
               </span>
@@ -510,7 +510,7 @@ export default function Exodus37() {
           and all the vessels thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (worth about $576,000 in 2004 money)
               </span>
             </span>
@@ -527,19 +527,19 @@ export default function Exodus37() {
           Shittim Wood: the length of it was a cubit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(1 and 1/2 feet)</span>
+              <span className="explanation">(1 and 1/2 feet)</span>
             </span>
           </span>
           , and the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           of it a cubit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Incense Altar, which sat immediately in front of the Veil
                 which separated the Holy Place from the Holy of Holies, was a
                 Type of the Intercessory Work of our Lord, as our Great High
@@ -558,7 +558,7 @@ export default function Exodus37() {
           ; it was foursquare{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (stipulating the fact that the Intercession is the same for all
                 men everywhere, at least for those who believe)
               </span>
@@ -567,13 +567,13 @@ export default function Exodus37() {
           ; and two cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 feet)</span>
+              <span className="explanation">(3 feet)</span>
             </span>
           </span>{" "}
           was the height of it; the horns thereof were of the same{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (four horns protruded out from the Altar, one at each corner)
               </span>
             </span>
@@ -588,7 +588,7 @@ export default function Exodus37() {
           of it: also he made unto it a Crown of Gold round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, stipulating Christ as King)
               </span>
             </span>
@@ -609,7 +609,7 @@ export default function Exodus37() {
           Wood, and overlaid them with gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the staves inserted in the rings, by which the Altar of Incense
                 could be handled when it was moved, speaks to us of the constant
                 need of Intercession, irrespective as to where we might be)
@@ -629,7 +629,7 @@ export default function Exodus37() {
           apothecary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the composition of the oil, see{" "}
                 <ScrollLink href="/exodus-30" scrollToId="#filepos1134457">
                   <span className="calibre_19">

@@ -18,7 +18,7 @@ export default function Isaiah38() {
           die, and not live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in those days, refer to the fourteenth year of
                 Hezekiahs reign; consequently, his sickness took place during
                 the time of the Assyrian invasion and prior to the final
@@ -68,7 +68,7 @@ export default function Isaiah38() {
           the wall, and prayed unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the turning of his face to the wall denotes a turning away from
                 all his accomplishments, supposed merit, and things he held so
                 dear; it also spoke of his helplessness; it is that which is
@@ -88,7 +88,7 @@ export default function Isaiah38() {
           wept sore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah was only 39 years old. As yet, he had no son to
                 succeed him. When he died at the age of 54, his son Manasseh,
                 who succeeded him, was but 12 [
@@ -173,7 +173,7 @@ export default function Isaiah38() {
           Isaiah, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiahs Repentance was quick and with a sincere heart)
               </span>
             </span>
@@ -188,7 +188,7 @@ export default function Isaiah38() {
           have seen your tears: behold, I will add unto your days fifteen years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As far as we know, this is the only time that the Lord ever
                 informed one as to exactly how much longer they would live. He
                 was 39 years old when this Promise of 15 more years was given.
@@ -204,7 +204,7 @@ export default function Isaiah38() {
           out of the hand of the king of Assyria: and I will defend this city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This points to the two-year period when the Assyrians were
                 threatening Jerusalem. The Promise must have been very sweet to
                 his ears. His life would be extended, and Jerusalem would be
@@ -220,7 +220,7 @@ export default function Isaiah38() {
           from the LORD, that the LORD will do this thing that He has spoken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems from{" "}
                 <ScrollLink href="/" scrollToId="#filepos7712650">
                   <span className="calibre_19">
@@ -259,7 +259,7 @@ export default function Isaiah38() {
           was gone down.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sign would be powerful indeed! It concerned the rotation of
                 the Earth on its axis. Such an outstanding sign seemed to speak
                 to the lack of faith in Hezekiahs heart.
@@ -301,7 +301,7 @@ export default function Isaiah38() {
           Judah, when he had been sick, and was recovered of his sickness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the writing spoken of here is a Psalm written by Hezekiah
                 concerning the great Miracle the Lord had performed for him)
               </span>
@@ -317,7 +317,7 @@ export default function Isaiah38() {
           residue of my years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, I am deprived of the residue of my years, speak of
                 his work being cut short, even in the middle of it. He feels
                 that his work is not finished, and yet he is dying!)
@@ -333,7 +333,7 @@ export default function Isaiah38() {
           with the inhabitants of the world.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, he is saying that if he died, he would not be able
                 to see and worship the Lord, as I do now in the land of the
                 living.)
@@ -350,7 +350,7 @@ export default function Isaiah38() {
           make an end of me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the Text seems to be not so much the fear of
                 dying, but of being cutoff in the midst of his days, not being
                 able to finish the work that God had called him to do.)
@@ -366,7 +366,7 @@ export default function Isaiah38() {
           make an end of me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His terminology implies that he has disobeyed God and, in doing
                 so, has angered Jehovah.)
               </span>
@@ -381,7 +381,7 @@ export default function Isaiah38() {
           LORD, I am oppressed; undertake for me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is proclaiming the fact that he cannot approach the Lord
                 from the basis of personal merit, for he has none. He can only
                 appeal to Gods Mercy and Grace and, therefore, weakly request,
@@ -398,7 +398,7 @@ export default function Isaiah38() {
           the bitterness of my soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord heard his petition and answered him. His prayer has
                 been answered. As well, he is at a loss to express his wonder
                 and gratitude. He gives the Lord all the praise and glory by
@@ -428,7 +428,7 @@ export default function Isaiah38() {
           me, and make me to live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, Hezekiah is revealing somewhat of his failure, and
                 his revival. He is saying that man lives by these things,
                 meaning The Word of God; in such, is the life of my spirit.)
@@ -444,7 +444,7 @@ export default function Isaiah38() {
           of corruption: for You have cast all my sins behind Your back.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that Hezekiah in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7702169">
                   <span className="calibre_19">
@@ -469,7 +469,7 @@ export default function Isaiah38() {
           for Your truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah is speaking of the work that we are able to do for the
                 Lord in this life. When death comes, our work is ended.)
               </span>
@@ -484,7 +484,7 @@ export default function Isaiah38() {
           known Your truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His statement is this: As You, Lord, have given me the
                 privilege to continue to live, I will spend this life by
                 praising You.)
@@ -500,7 +500,7 @@ export default function Isaiah38() {
           days of our life in the House of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, The LORD was ready to save me, mean He came to my
                 rescue, came and saved me.)
               </span>
@@ -515,7 +515,7 @@ export default function Isaiah38() {
           recover.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The boil symbolized the sinful corruption that been in his
                 life. The lump of figs made into a plaister and laid upon the
                 boil symbolized the Healing Power of God, Who Alone can remove
@@ -532,7 +532,7 @@ export default function Isaiah38() {
           sign that I shall go up to the House of the LORD?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through the symbolism of this plaister, portraying the Power of
                 God, laid upon the boil, which symbolized his sinful corruption,
                 and it being taken away, he knew now that his sins were forgiven

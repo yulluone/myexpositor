@@ -17,7 +17,7 @@ export default function Ezra03() {
           themselves together as one man to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the seventh month corresponded nearly to our October; it
                 commenced with a blowing of trumpets and a holy convocation on
                 the first day [
@@ -44,7 +44,7 @@ export default function Ezra03() {
           <sup className="calibre7">2</sup>Then stood up Jeshua{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           the son of Jozadak, and his brethren the Priests, and Zerubbabel the
@@ -53,7 +53,7 @@ export default function Ezra03() {
           of Moses the man of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar was the first thing built upon the exiles returning,
                 even before the Temple or the Wall. This proclaimed the fact
                 that the Cross, of which the Altar was a Type, was the very
@@ -83,7 +83,7 @@ export default function Ezra03() {
           <sup className="calibre7">3</sup>And they set the Altar upon his bases{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that they placed the new Altar upon the foundation of the
                 old one, making it exactly conform to it)
               </span>
@@ -94,7 +94,7 @@ export default function Ezra03() {
           Offerings morning and evening{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that they were placing their Faith and
                 confidence in the shed Blood of Christ, making that their
                 defense against the heathen; in fact, this is what the Lord told
@@ -112,7 +112,7 @@ export default function Ezra03() {
           Tabernacles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Feast which points toward, and promises, the
                 Millennium, when all Israel shall be saved)
               </span>
@@ -121,7 +121,7 @@ export default function Ezra03() {
           , as it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-23" scrollToId="#filepos1005484">
                   <span className="calibre_19">
@@ -138,7 +138,7 @@ export default function Ezra03() {
           custom, as the duty of every day required{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Offerings for each day of the Festival, as
                 carefully laid down in{" "}
                 <ScrollLink href="/numbers-29" scrollToId="#filepos2040010">
@@ -163,7 +163,7 @@ export default function Ezra03() {
           a freewill offering unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to those commanded in{" "}
                 <ScrollLink href="/numbers-28" scrollToId="#filepos2026468">
                   <span className="calibre_19">
@@ -186,7 +186,7 @@ export default function Ezra03() {
           month began they to offer Burnt Offerings unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents their Faith in the shed Blood of Christ)
               </span>
             </span>
@@ -194,7 +194,7 @@ export default function Ezra03() {
           . But the foundation of the Temple of the LORD was not yet laid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that while everything about the Temple was of
                 immense significance, still, the most significant of all was the
                 Altar, which typified the Cross)
@@ -223,7 +223,7 @@ export default function Ezra03() {
           Zerubbabel the son of Shealtiel, and Jeshua{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           the son of Jozadak, and the remnant of their brethren the Priests and
@@ -232,7 +232,7 @@ export default function Ezra03() {
           upward, to set forward the work of the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was the second year after being in the land of Israel that
                 work was begun on the Temple)
               </span>
@@ -246,7 +246,7 @@ export default function Ezra03() {
           <sup className="calibre7">9</sup>Then stood Jeshua{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           with his sons and his brethren, Kadmiel and his sons, the sons of
@@ -254,7 +254,7 @@ export default function Ezra03() {
           sons of Henadad, with their sons and their brethren the Levites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joshua [Jeshua] was then the High Priest; he was in charge of
                 the work)
               </span>
@@ -280,7 +280,7 @@ export default function Ezra03() {
           the House of the LORD was laid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was certainly a time that rejoicing was most appropriate
                 and, as well, it was centered up in music and singing, which the
                 Holy Spirit had orchestrated through David many years before,
@@ -300,7 +300,7 @@ export default function Ezra03() {
           wept with a loud voice; and many shouted aloud for joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Temple was not destroyed at the beginning of the seventy
                 years captivity; in fact, it had probably been destroyed a
                 little less than 50 years; consequently, there would be many who
@@ -319,7 +319,7 @@ export default function Ezra03() {
           heard afar off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the Jewish people, in their displays of emotion,
                 whether it was joy or sadness, were very demonstrative)
               </span>

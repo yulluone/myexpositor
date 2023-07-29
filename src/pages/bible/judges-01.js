@@ -222,13 +222,13 @@ export default function Judges01() {
           Moses father in law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(or rather brother-in-law)</span>
+              <span className="explanation">(or rather brother-in-law)</span>
             </span>
           </span>
           , went up out of the city of the palm trees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jericho)</span>
+              <span className="explanation">(Jericho)</span>
             </span>
           </span>{" "}
           with the children of Judah into the wilderness of Judah, which lies in

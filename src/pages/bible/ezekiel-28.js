@@ -16,7 +16,7 @@ export default function Ezekiel28() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regarding the spirit world, this Chapter is one of the most
                 remarkable in the Bible. As the Holy Spirit through Ezekiel had
                 concerned Himself with the city, He now concerns Himself with
@@ -45,7 +45,7 @@ export default function Ezekiel28() {
           the heart of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is noticeable that Pauls description of the man of sin [
                 <ScrollLink
                   href="/thessalonians2-2"
@@ -74,7 +74,7 @@ export default function Ezekiel28() {
           there is no secret that they can hide from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was not really wiser than Daniel, only wiser in his own
                 eyes)
               </span>
@@ -90,7 +90,7 @@ export default function Ezekiel28() {
           and silver into your treasures{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniels wisdom was used to carry out the Will of God, while
                 this mans wisdom was used to gain riches, as most of the wisdom
                 of this world is used)
@@ -107,7 +107,7 @@ export default function Ezekiel28() {
           because of your riches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if successful, and even in the things of the Lord, men quickly
                 become lifted up in themselves)
               </span>
@@ -122,7 +122,7 @@ export default function Ezekiel28() {
           Because you have set your heart as the Heart of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the great sin of mankind, fueled by pride. Satan wants
                 to be God, and all who follow Satan have the same spirit)
               </span>
@@ -139,7 +139,7 @@ export default function Ezekiel28() {
           your brightness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the army of Babylon, which will soon come
                 against this rich city and its king. Men rule, but God
                 overrules!)
@@ -155,7 +155,7 @@ export default function Ezekiel28() {
           seas.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They shall bring you down to the pit, refers to Hell itself.
                 And you shall die the deaths of them who are slain in the midst
                 of the seas, means that he would not be given a royal funeral,
@@ -208,7 +208,7 @@ export default function Ezekiel28() {
           who kills you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Up beside Nebuchadnezzar, the Tyrian Monarch will prove to be
                 no match, because Nebuchadnezzar was Gods Instrument.)
               </span>
@@ -223,7 +223,7 @@ export default function Ezekiel28() {
           Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture refers to the Tyrian Monarch dying lost.)
               </span>
             </span>
@@ -241,7 +241,7 @@ export default function Ezekiel28() {
           unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tenor of this Chapter will now change from the earthly
                 Monarch, the Prince of Tyre, to his sponsor, Satan, of which the
                 earthly king was a symbol)
@@ -258,7 +258,7 @@ export default function Ezekiel28() {
           seal up the sum, full of wisdom, and perfect in beauty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious, even though the king of Tyrus is used as a
                 symbol, the statements made could not refer to any mere mortal.
                 In fact, they refer to Satan.
@@ -305,7 +305,7 @@ export default function Ezekiel28() {
           created.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You have been in Eden the Garden of God, does not actually
                 refer to the Eden of Gen., Chpt.{" "}
                 <ScrollLink href="/genesis-03" scrollToId="#filepos44637">
@@ -400,7 +400,7 @@ export default function Ezekiel28() {
           you have walked up and down in the midst of the stones of fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You are the anointed Cherub who covers, means that Lucifer was
                 chosen and anointed by God for a particular task and service.
                 This probably was the worship to which we have just alluded.
@@ -445,7 +445,7 @@ export default function Ezekiel28() {
           the day that you were created, till iniquity was found in you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pride was the form of this iniquity [
                 <ScrollLink href="/luke-10" scrollToId="#filepos11937404">
                   <span className="calibre_19">
@@ -479,7 +479,7 @@ export default function Ezekiel28() {
           fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Violence has been the earmark of Satans rule and reign in the
                 world of darkness [
                 <ScrollLink href="/john-10" scrollToId="#filepos12512761">
@@ -506,7 +506,7 @@ export default function Ezekiel28() {
           kings, that they may behold you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your heart was lifted up because of your beauty, tells us the
                 reason for his fall. As stated, it was pride. He took his eyes
                 off of Christ, noticing his own beauty as it grew more and more
@@ -587,7 +587,7 @@ export default function Ezekiel28() {
           of all them who behold you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Satan at long last will be thrown into the Lake of Fire [
                 <ScrollLink href="/revelation-20" scrollToId="#filepos15128140">
                   <span className="calibre_19">
@@ -611,7 +611,7 @@ export default function Ezekiel28() {
           shall you be any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then the prayer of Christ, Your Will be done in Earth, as it is
                 in Heaven, will finally be answered and brought to pass [
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10905495">
@@ -642,7 +642,7 @@ export default function Ezekiel28() {
           Zidon, and prophesy against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zidon [Sidon] was about 30 miles north of Tyre. Tyre and Zidon
                 were sister cities, but yet Tyre served as the chief city)
               </span>
@@ -659,7 +659,7 @@ export default function Ezekiel28() {
           have executed judgments in her, and shall be sanctified in her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Suffering, but not extinction, was the judgment of Zidon. She
                 exists today, but her history has been one of pestilence and
                 blood. The phrase, Shall be sanctified in her, refers to the
@@ -679,7 +679,7 @@ export default function Ezekiel28() {
           that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pestilence and blood into her streets have to do with the
                 terrible invasions she suffered from this time forward.)
               </span>
@@ -695,7 +695,7 @@ export default function Ezekiel28() {
           am the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They the Zidonians shall get to know [to their sorrow] that I
                 am Adonai-Jehovah. They will prick Israel no more!)
               </span>
@@ -715,7 +715,7 @@ export default function Ezekiel28() {
           Servant Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gathering of Israel, as stated here, will take place in the
                 coming Kingdom Age. Then shall they dwell in their land that I
                 have given to My Servant Jacob, refers to the longest conflict
@@ -748,7 +748,7 @@ export default function Ezekiel28() {
           their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The return of the Hebrews to the Land of Israel is foretold in
                 many Prophecies [
                 <ScrollLink href="/deuteronmy-30" scrollToId="#filepos2415151">

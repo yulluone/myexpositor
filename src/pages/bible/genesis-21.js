@@ -18,7 +18,7 @@ export default function Genesis21() {
           said, and the LORD did unto Sarah as He had spoken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite all of Satans hindrances, Isaac, the progenitor and
                 Type of the Messiah, is born)
               </span>
@@ -33,7 +33,7 @@ export default function Genesis21() {
           a son in his old age, at the set time of which God had spoken to him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Referring back to the past Chapter, if it be objected that this
                 whole occurrence is incredible, because no heathen prince would
                 desire to marry a woman upwards of ninety years of age, or to
@@ -55,7 +55,7 @@ export default function Genesis21() {
           son that was born unto him, whom Sarah bore to him, Isaac.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name means laughter. It speaks of blessing, increase,
                 healing, life, and well-being [
                 <ScrollLink href="/john-10" scrollToId="#filepos12512761">
@@ -78,7 +78,7 @@ export default function Genesis21() {
           being eight days old, as God had commanded him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a sign of the Covenant that God would ultimately send
                 a Redeemer into this world)
               </span>
@@ -93,7 +93,7 @@ export default function Genesis21() {
           when his son Isaac was born unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this verse is placed in the Text so that all may know that
                 Isaacs birth was indeed miraculous)
               </span>
@@ -108,7 +108,7 @@ export default function Genesis21() {
           laugh, so that all who hear will laugh with me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mention of Sarahs name some five times thus far in this
                 Chapter is done for purpose and reason; the Holy Spirit is
                 impressing the fact that Sarah was in truth the very mother of
@@ -128,7 +128,7 @@ export default function Genesis21() {
           born him a son in his old age{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a poem, and could very well have been a song, and
                 probably was)
               </span>
@@ -142,7 +142,7 @@ export default function Genesis21() {
           <sup className="calibre7">8</sup>And the child grew, and was weaned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the custom in those days was to nurse children for two to three
                 years before they were weaned; however, there is some indication
                 that Isaac was approximately five years old when he was weaned)
@@ -152,7 +152,7 @@ export default function Genesis21() {
           : and Abraham made a great feast the same day that Isaac was weaned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this time, the boy was turned over to his father for
                 training, at which time his education began)
               </span>
@@ -170,7 +170,7 @@ export default function Genesis21() {
           Egyptian, which she had born unto Abraham, mocking.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The effect of the birth of Isaac, a work of the Spirit, was to
                 make manifest the character of Ishmael, a work of the flesh. The
                 end result of the mocking was that Ishmael actually desired to
@@ -195,7 +195,7 @@ export default function Genesis21() {
           Cast out this bondwoman and her son:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac and Ishmael symbolize the new and the old natures in the
                 Believer. Hagar and Sarah typify the two Covenants of works and
                 Grace, of bondage and liberty [Gal., Chpt.{" "}
@@ -216,7 +216,7 @@ export default function Genesis21() {
           Isaac.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Allowed to remain, Ishmael would murder Isaac; allowed to
                 remain, the flesh will murder the Spirit. The Divine way of
                 holiness is to put off the old man, just as Abraham put off
@@ -234,7 +234,7 @@ export default function Genesis21() {
           Abrahams sight because of his son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is always a struggle to cast out this element of bondage,
                 that is, salvation by works, of which this is a type. For
                 legalism is dear to the heart. Ishmael was the fruit, and, to
@@ -253,7 +253,7 @@ export default function Genesis21() {
           voice; for in Isaac shall your seed be called.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is labor lost to seek to make a crooked thing straight.
                 Hence, all efforts after the improvement of nature are utterly
                 futile, so far as God is concerned. The flesh must go, which
@@ -282,7 +282,7 @@ export default function Genesis21() {
           will I make a nation, because he is your seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (out of this work of the flesh ultimately came the religion of
                 Islam, which claims that Ishmael is the promised seed, and not
                 Isaac)
@@ -300,7 +300,7 @@ export default function Genesis21() {
           and she departed, and wandered in the wilderness of Beer-sheba.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This moment marks a distinct advance in the spiritual
                 experience of Abraham. From this moment onwards all is strength
                 and victory. He casts out the bondwoman and her son; he no
@@ -319,7 +319,7 @@ export default function Genesis21() {
           bottle, and she cast the child under one of the shrubs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she told Ishmael to sit down, with a shrub providing a little
                 shade; child, in the Hebrew, can refer to a young man, which
                 applies to Ishmael)
@@ -337,7 +337,7 @@ export default function Genesis21() {
           lift up her voice, and wept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (without water, both of them would die very soon)
               </span>
             </span>
@@ -356,7 +356,7 @@ export default function Genesis21() {
           where he is.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not said that either Ishmael or his mother prayed to God
                 in their distress. Hence the Divine interposition on their
                 behalf was due solely to Mercy and to Gods love for Abraham.)
@@ -371,7 +371,7 @@ export default function Genesis21() {
           in your hand; for I will make him a great nation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ishmael, being between 18 and 20 years old at this time, the
                 phrase actually means, place your hand on his shoulder and
                 steady him. True to Gods Promise, the Arabs sprang from
@@ -388,7 +388,7 @@ export default function Genesis21() {
           gave the lad drink{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, the Lord had purposely blinded her to the well,
                 until certain things could be made known to her, and that she
                 would acknowledge them, which required a modicum of Faith)
@@ -403,7 +403,7 @@ export default function Genesis21() {
           <sup className="calibre7">20</sup>And God was with the lad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which means that the Lord, despite Ishmaels murderous attitude
                 toward Isaac, did all for the sake of Abraham)
               </span>
@@ -418,7 +418,7 @@ export default function Genesis21() {
           Paran: and his mother took him a wife out of the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we have here the beginning of the Arab people)
               </span>
             </span>
@@ -436,7 +436,7 @@ export default function Genesis21() {
           Abraham, saying, God is with you in all that you do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is evident that Abimelech was a smart man; he had sense
                 enough to know that if God was with Abraham, He would be with
                 all who befriended Abraham; modern Christians could take a
@@ -455,7 +455,7 @@ export default function Genesis21() {
           you shall do unto me, and to the land wherein you have sojourned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech wants the covenant to extend even to his grandson)
               </span>
             </span>
@@ -468,7 +468,7 @@ export default function Genesis21() {
           <sup className="calibre7">24</sup>And Abraham said, I will swear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech recognized that Abraham had power with God; he wanted
                 to be on the positive side of that power, and not the negative)
               </span>
@@ -484,7 +484,7 @@ export default function Genesis21() {
           taken away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the ownership of wells in that part of the world was a
                 jealously guarded possession)
               </span>
@@ -500,7 +500,7 @@ export default function Genesis21() {
           of it, but today{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this shows that Abimelech was not dealing falsely with Abraham;
                 he did not know of the situation)
               </span>
@@ -515,7 +515,7 @@ export default function Genesis21() {
           gave them unto Abimelech; and both of them made a covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these animals evidently were for sacrifice)
               </span>
             </span>
@@ -529,7 +529,7 @@ export default function Genesis21() {
           the flock by themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a symbol of a covenant, with which Abimelech was not
                 familiar)
               </span>
@@ -544,7 +544,7 @@ export default function Genesis21() {
           What do these seven ewe lambs mean which you have set by themselves?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Seven ewe lambs are picked out and placed by themselves, and by
                 accepting these, Abimelech bound himself to acknowledge and
                 respect Abrahams title to the well. Apparently this manner of
@@ -559,14 +559,14 @@ export default function Genesis21() {
           <sup className="calibre7">30</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           said, For these seven ewe lambs shall you take of my hand, that they
           may be a witness unto me, that I have dug this well.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If Abimelech takes the seven lambs, which he obviously did,
                 this shows that he agrees with Abrahams contention concerning
                 the fact that the well had originally belonged to him, and had
@@ -582,7 +582,7 @@ export default function Genesis21() {
           Beer-sheba; because there they did swear both of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word in Hebrew for swearing is a passive verb, literally
                 signifying to be sevened, that is, done or confirmed by seven.)
               </span>
@@ -597,7 +597,7 @@ export default function Genesis21() {
           his host, and they returned into the land of the Philistines.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This area ruled by Abimelech is called here the land of the
                 Philistines for the first time; however, the main body of the
                 Philistines who established their cities in the south coastal
@@ -612,13 +612,13 @@ export default function Genesis21() {
           <sup className="calibre7">33</sup>And Abraham planted a grove{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tree)</span>
+              <span className="explanation">(tree)</span>
             </span>
           </span>{" "}
           in Beer-sheba{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (accordingly he takes possession of the land, thereby planting a
                 tree; in the Hebrew the word is tree and not grove)
               </span>
@@ -627,7 +627,7 @@ export default function Genesis21() {
           , and called there on the Name of the LORD, the Everlasting God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Patriarch now refers to Jehovah as Elolam.{" "}
                 <ScrollLink href="/genesis-14" scrollToId="#filepos187755">
                   <span className="calibre_19">
@@ -660,7 +660,7 @@ export default function Genesis21() {
           Philistines land many days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Patriarch would actually live here until he died)
               </span>
             </span>

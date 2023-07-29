@@ -18,7 +18,7 @@ export default function Hosea03() {
           gods, and love flagons of wine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Then said the LORD unto me, signals another step
                 that is to be taken by the Prophet, this one perhaps even more
                 severe than the first. The short phrase, Go yet, means that the
@@ -71,7 +71,7 @@ export default function Hosea03() {
           barley{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the redemption price of a slave was thirty pieces of silver [
                 <ScrollLink href="/exodus-21" scrollToId="#filepos987081">
                   <span className="calibre_19">
@@ -135,7 +135,7 @@ export default function Hosea03() {
           for another man: so will I also be for you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: Gomer had left Hosea for many days and had now
                 come back to him, even though in a deplorable condition; now she
                 would be his wife again. This symbolizes Israel, who will come
@@ -154,7 +154,7 @@ export default function Hosea03() {
           Teraphim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gomer leaving Hosea and going back into whoredoms typify Israel
                 leaving the Lord, which has now lasted for nearly 2,000 years,
                 i.e., many days)
@@ -174,7 +174,7 @@ export default function Hosea03() {
           shall fear the LORD and His Goodness in the latter days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While{" "}
                 <ScrollLink href="/" scrollToId="#filepos9987844">
                   <span className="calibre_19">

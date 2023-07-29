@@ -23,7 +23,7 @@ export default function Ezekiel07() {
           four corners of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The end of the pleadings through Jeremiah and Ezekiel for Judah
                 and Jerusalem to repent have come! They have refused to repent
                 and therefore, the judgment will fall!)
@@ -39,7 +39,7 @@ export default function Ezekiel07() {
           ways, and will recompense upon you all your abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims a side of the Lord mostly denied, the side
                 of Judgment. However, if Mercy is rejected, whether then or now,
                 ultimately Judgment must come.)
@@ -56,7 +56,7 @@ export default function Ezekiel07() {
           that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If men will not repent, the Lord cannot spare or have pity.)
               </span>
             </span>
@@ -69,7 +69,7 @@ export default function Ezekiel07() {
           only evil, behold, is come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This evil refers to the soon to come Babylonian invasion. Only
                 evil, pertains to it being all judgment, with no mercy or pity.
                 In other words, there will be no respite!
@@ -99,7 +99,7 @@ export default function Ezekiel07() {
           watches for you; behold, it is come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The repetition guarantees the certitude of fulfillment.)
               </span>
             </span>
@@ -113,7 +113,7 @@ export default function Ezekiel07() {
           and not the sounding again of the mountains.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Verse means: as the day begins, Judgment is beginning. The
                 Prophet says, the time is come.)
               </span>
@@ -129,7 +129,7 @@ export default function Ezekiel07() {
           abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is very similar to{" "}
                 <ScrollLink href="/" scrollToId="#filepos9086434">
                   <span className="calibre_19">
@@ -153,7 +153,7 @@ export default function Ezekiel07() {
           that I am the LORD Who smites.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord either touches to heal, as was evidenced in Christ,
                 Who came not to condemn, but to save, but if rejected, will
                 smite, exactly as Jerusalem was smitten in A.D. 70.)
@@ -168,7 +168,7 @@ export default function Ezekiel07() {
           the morning is gone forth; the rod has blossomed, pride has budded.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, The rod has blossomed, refers to Nebuchadnezzar,
                 who was ready to strike. Pride has budded, pertains to Israels
                 determined sin which demanded the rod, and is unique here. It
@@ -186,7 +186,7 @@ export default function Ezekiel07() {
           any of theirs: neither shall there be wailing for them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The violence goes with the pride of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9089582">
                   <span className="calibre_19">
@@ -213,7 +213,7 @@ export default function Ezekiel07() {
           upon all the multitude thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the conduct of business, which had become
                 all-important to Judah, was soon to come to an end. This, within
                 itself, was only the tip of the iceberg concerning the judgment
@@ -231,7 +231,7 @@ export default function Ezekiel07() {
           shall any strengthen himself in the iniquity of his life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, For the seller shall not return to that which is
                 sold, refers to the false prophecies claiming the immediate
                 restoration of the Exiles. The sellers would not see their
@@ -253,7 +253,7 @@ export default function Ezekiel07() {
           the multitude thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They have blown the trumpet, refers to the Year of Jubilee,
                 when lands that had been sold reverted to their original owners
                 [Lev., Chpt.{" "}
@@ -281,7 +281,7 @@ export default function Ezekiel07() {
           devour him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that one cannot escape from the coming Judgment.)
               </span>
             </span>
@@ -295,7 +295,7 @@ export default function Ezekiel07() {
           of them mourning, every one for his iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is a Law of God that if one does not mourn for their sin,
                 they will mourn because of their sin [
                 <ScrollLink href="/galatians-6" scrollToId="#filepos13985257">
@@ -317,7 +317,7 @@ export default function Ezekiel07() {
           knees shall be weak as water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this for fear of the Babylonians.)
               </span>
             </span>
@@ -331,7 +331,7 @@ export default function Ezekiel07() {
           faces, and baldness upon all their heads.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gird themselves with sackcloth, speaks of a last minute effort
                 to repent. But it will be too late!)
               </span>
@@ -348,7 +348,7 @@ export default function Ezekiel07() {
           it is the stumblingblock of their iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The stumblingblock of their iniquity was their sin of making
                 idols out of silver and gold, and the subsequent idolatry. They
                 had traded Jehovah for a stupid looking idol made of metal or
@@ -368,7 +368,7 @@ export default function Ezekiel07() {
           from them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As for the beauty of His ornament, He set it in majesty, refers
                 to the Temple in Jerusalem. And of their detestable things
                 therein, refers to the Hebrew idolaters who set up the idols in
@@ -385,7 +385,7 @@ export default function Ezekiel07() {
           and they shall pollute it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Temple and all of its ornaments being given
                 to the Chaldeans, who were strangers to God.)
               </span>
@@ -400,7 +400,7 @@ export default function Ezekiel07() {
           into it, and defile it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My secret place pertained to the Holy of Holies, where resided
                 the Ark of the Covenant, the Mercy Seat, and the Cherubim, and
                 where God also resided. When Jerusalem fell, heathen Babylonians
@@ -421,7 +421,7 @@ export default function Ezekiel07() {
           of bloody crimes, and the city is full of violence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Make a chain, are a symbolic prediction of the
                 captivity, just as the rod of wickedness foretold the invasion
                 of{" "}
@@ -445,7 +445,7 @@ export default function Ezekiel07() {
           pomp of the strong to cease; and their holy places shall be defiled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The worst of the heathen referred to the coming Babylonians. It
                 is as if the Holy Spirit is saying of the religious leaders of
                 Jerusalem, You desire to practice evil; therefore, I will bring
@@ -461,7 +461,7 @@ export default function Ezekiel07() {
           seek peace, and there shall be none.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they shall seek peace, and there shall be none, refers to
                 overtures made to the Babylonian Generals, which were rejected!)
               </span>
@@ -477,7 +477,7 @@ export default function Ezekiel07() {
           the ancients.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (On the very eve of destruction, the people of Jerusalem would
                 turn to the Prophet, Priest, and Elders. But, alas, these were
                 corrupt. Consequently, no help would come from this source.)
@@ -495,7 +495,7 @@ export default function Ezekiel07() {
           I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king shall mourn, probably refers to Zedekiah. He rightly
                 had something to mourn about, but he also was a weak individual,
                 which would have exacerbated his mental state. And the hands of

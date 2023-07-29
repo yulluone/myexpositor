@@ -16,7 +16,7 @@ export default function Nehemiah10() {
           the Tirshatha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the governor)</span>
+              <span className="explanation">(the governor)</span>
             </span>
           </span>
           , the son of Hachaliah, and Zidkijah,
@@ -303,7 +303,7 @@ export default function Nehemiah10() {
           continual Meat Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Thank Offering)</span>
+              <span className="explanation">(Thank Offering)</span>
             </span>
           </span>
           , and for the continual Burnt Offering{" "}
@@ -317,7 +317,7 @@ export default function Nehemiah10() {
           , of the Sabbaths, of the new moons, for the set Feasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(three times a year)</span>
+              <span className="explanation">(three times a year)</span>
             </span>
           </span>
           , and for the holy things, and for the Sin Offerings to make an
@@ -361,7 +361,9 @@ export default function Nehemiah10() {
           fathers, at times appointed year by year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(certain times to bring it in)</span>
+              <span className="explanation">
+                (certain times to bring it in)
+              </span>
             </span>
           </span>
           , to burn upon the Altar of the LORD our God, as it is written in the

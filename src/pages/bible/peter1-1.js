@@ -218,7 +218,7 @@ export default function Peter11() {
           unto Salvat ion ready to be revealed in the last time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ready for the Rapture)</span>
+              <span className="explanation">(ready for the Rapture)</span>
             </span>
           </span>
           .
@@ -320,7 +320,7 @@ export default function Peter11() {
           <sup className="calibre7">8</sup>Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Christ)</span>
+              <span className="explanation">(Jesus Christ)</span>
             </span>
           </span>{" "}
           having not seen, you love{" "}
@@ -490,7 +490,7 @@ export default function Peter11() {
           <sup className="calibre7">12</sup>Unto whom it was revealed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Church)</span>
+              <span className="explanation">(refers to the Church)</span>
             </span>
           </span>
           , that not unto themselves, but unto us they did Minister the things{" "}
@@ -603,7 +603,7 @@ export default function Peter11() {
           , so be ye Holy in all manner of conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to lifestyle)</span>
+              <span className="explanation">(refers to lifestyle)</span>
             </span>
           </span>
           ;
@@ -678,7 +678,7 @@ export default function Peter11() {
           in fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a fear of self-trust)</span>
+              <span className="explanation">(a fear of self-trust)</span>
             </span>
           </span>
           :
@@ -708,7 +708,7 @@ export default function Peter11() {
           , from your vain conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(vain lifestyle)</span>
+              <span className="explanation">(vain lifestyle)</span>
             </span>
             <span>
               <span className="calibre_19">received</span>
@@ -808,7 +808,7 @@ export default function Peter11() {
           , Who raised Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           up from the dead{" "}

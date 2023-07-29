@@ -155,7 +155,7 @@ export default function Leviticus02() {
           <sup className="calibre7">4</sup>And if you bring an oblation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a sacrificial present)</span>
+              <span className="explanation">(a sacrificial present)</span>
             </span>
           </span>{" "}
           of a Meat Offering baked in the oven{" "}
@@ -177,7 +177,7 @@ export default function Leviticus02() {
           of fine flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Perfect Life of Christ)</span>
+              <span className="explanation">(Perfect Life of Christ)</span>
             </span>
           </span>{" "}
           mingled with oil, or unleavened wafers anointed with oil{" "}
@@ -364,13 +364,13 @@ export default function Leviticus02() {
           of your firstfruits green ears of corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           dried by the fire, even corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           beaten out of full ears.{" "}
@@ -400,7 +400,7 @@ export default function Leviticus02() {
           memorial of it, part of the beaten corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           thereof, and part of the oil thereof, with all the frankincense

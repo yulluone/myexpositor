@@ -18,7 +18,7 @@ export default function Genesis08() {
           living thing, and all the cattle that was with him in the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea of God remembering, as given here, does not mean that
                 God had forgotten, or that He could forget; it simply means that
                 He will now give His attention to whatever it is that is being
@@ -29,7 +29,7 @@ export default function Genesis08() {
           ; and God made a wind to pass over the Earth, and the waters assuaged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning this, Mackintosh says, Now, it is thought that Enoch
                 is a figure of the Church, which shall be taken away before
                 human evil reaches its climax, and before the Divine Judgment
@@ -51,7 +51,7 @@ export default function Genesis08() {
           restrained{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two words in this Verse, fountains and windows, proclaim to
                 us the terrible ferocity of the flood; in fact, it was probably
                 of such ferocity that it literally reshaped much of this world)
@@ -68,7 +68,7 @@ export default function Genesis08() {
           waters were abated{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while it took the Lord only one day to handle the water which
                 covered the Earth during the time of creation [
                 <ScrollLink href="/genesis-01" scrollToId="#filepos14150">
@@ -98,7 +98,7 @@ export default function Genesis08() {
           Ararat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (notice the following remarkable facts: On the seventeenth day
                 of Abib (April) the Ark rested on Mount Ararat; on the
                 seventeenth day of Abib the Israelites passed over the Red Sea;
@@ -117,7 +117,7 @@ export default function Genesis08() {
           month, were the tops of the mountains seen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from the time that the Ark found a resting place on Ararat
                 until many mountains could be seen were three months)
               </span>
@@ -132,7 +132,7 @@ export default function Genesis08() {
           forty days, that Noah opened the window of the Ark which he had made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Noah and God had dwelt together in the Ark for a full solar
                 year, that is, from the seventeenth day of the second month
                 until the twenty-seventh of the corresponding month in the
@@ -149,7 +149,7 @@ export default function Genesis08() {
           forth to and fro, until the waters were dried up from off the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the raven flew away, and did not return)
               </span>
             </span>
@@ -171,7 +171,7 @@ export default function Genesis08() {
           hand, and took her, and pulled her in unto him into the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the tops of some mountains were visible, still, these
                 were a place of death instead of life; the dove could find no
                 resting place in such an area, seeking that which was clean, so
@@ -201,7 +201,7 @@ export default function Genesis08() {
           and sent forth the dove; which returned not again unto him any more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the dove didnt return, because this time it no doubt found a
                 suitable resting place, meaning that the waters were abating)
               </span>
@@ -216,7 +216,7 @@ export default function Genesis08() {
           hundredth and first year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Noahs age)</span>
+              <span className="explanation">(Noahs age)</span>
             </span>
           </span>
           , in the first month, the first day of the month, the waters were
@@ -224,7 +224,7 @@ export default function Genesis08() {
           and looked, and, behold, the face of the ground was dry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to its surface only. There would be about 57 or 58
                 more days, according to the next Verse, making a complete solar
                 year of 365 days, from the time the flood began until it was
@@ -249,7 +249,7 @@ export default function Genesis08() {
           <sup className="calibre7">15</sup>And God spoke unto Noah, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we find from this short Scripture that Noah waited on the Lord;
                 he did nothing presumptuously)
               </span>
@@ -264,7 +264,7 @@ export default function Genesis08() {
           wife, and your sons, and your sons wives with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord, being in the Ark with Noah, would tell him Go forth
                 of the Ark)
               </span>
@@ -282,7 +282,7 @@ export default function Genesis08() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proclaims the fact that the flood was universal)
               </span>
             </span>
@@ -303,7 +303,7 @@ export default function Genesis08() {
           kinds, went forth out of the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is, the animals did not leave the Ark in confusion, or
                 at random, but in orderly fashion, each one sorting to its own
                 kind)
@@ -323,7 +323,7 @@ export default function Genesis08() {
           offered Burnt Offerings on the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Civilization, as it sprang from the sons of Noah, has its
                 foundation in the Cross of Christ, i.e., the Altar)
               </span>
@@ -337,7 +337,7 @@ export default function Genesis08() {
           <sup className="calibre7">21</sup>And the LORD smelled a sweet savor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the burning of the Sacrifice was sweet unto the Lord, because
                 it spoke of the Coming Redeemer, Who would lift man out of this
                 morass of evil)
@@ -348,7 +348,7 @@ export default function Genesis08() {
           any more for mans sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the curse of which God speaks here refers to the fact that He
                 will not again visit the Earth with a flood)
               </span>
@@ -358,7 +358,7 @@ export default function Genesis08() {
           will I again smite any more everything living, as I have done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it means that God will take into consideration the results of
                 the Fall, over which man at the time has no control; however,
                 there is a remedy, which is the Altar, i.e., the Cross)
@@ -375,7 +375,7 @@ export default function Genesis08() {
           night shall not cease{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Promise is given here that the seasons of the year will
                 continue forever, because the Earth will remain forever)
               </span>

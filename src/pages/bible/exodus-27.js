@@ -17,25 +17,25 @@ export default function Exodus27() {
           <sup className="calibre7">1</sup>And you shall make an Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typified the Cross)</span>
+              <span className="explanation">(typified the Cross)</span>
             </span>
           </span>{" "}
           of Shittim Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Humanity of Christ)</span>
+              <span className="explanation">(the Humanity of Christ)</span>
             </span>
           </span>
           , five cubits long{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 and 1/2 feet long)</span>
+              <span className="explanation">(7 and 1/2 feet long)</span>
             </span>
           </span>
           , and five cubits broad; the Altar shall be foursquare{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the same Gospel for all of mankind, whether north, south,
                 east, or west)
               </span>
@@ -44,7 +44,7 @@ export default function Exodus27() {
           : and the height thereof shall be three cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(4 and 1/2 feet)</span>
+              <span className="explanation">(4 and 1/2 feet)</span>
             </span>
           </span>
         </span>
@@ -55,7 +55,7 @@ export default function Exodus27() {
           <sup className="calibre7">2</sup>And you shall make the horns{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of total dominion over sin, which would be purchased at
                 the Cross)
               </span>
@@ -64,7 +64,7 @@ export default function Exodus27() {
           of it upon the four corners thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that Salvation is the same for all)
               </span>
             </span>
@@ -72,7 +72,7 @@ export default function Exodus27() {
           : his horns shall be of the same: and you shall overlay it with brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Altar of indestructible wood was to be overlaid with
                 copper. Until the metallurgy of the not-too-distant past, copper
                 had a greater resistance to fire, even than gold or silver. It
@@ -93,7 +93,7 @@ export default function Exodus27() {
           receive his ashes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (ashes from the sacrifices which were burned)
               </span>
             </span>
@@ -102,7 +102,7 @@ export default function Exodus27() {
           firepans: all the vessels thereof you shall make of brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ashes testified to the thoroughness of the fires work in having
                 wholly consumed the Offering. They also witnessed to the
                 acceptance of the Sacrifice on behalf of the offerer, and so
@@ -123,7 +123,7 @@ export default function Exodus27() {
           the four corners thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the rings were for the moving of the Altar from place to place)
               </span>
             </span>
@@ -138,7 +138,7 @@ export default function Exodus27() {
           the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (somewhere alongside the middle of the Altar, there seemed to be
                 a protrusion all the way around, on which the Priests could
                 stand, in order to properly attend the Sacrifices)
@@ -154,7 +154,7 @@ export default function Exodus27() {
           Altar, staves of shittim wood, and overlay them with brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These staves were for moving the Altar. When Israel moved,
                 everything had to be moved. This teaches us that there never
                 comes a period in the Christian life where the Atoning Blood of
@@ -177,7 +177,7 @@ export default function Exodus27() {
           as it was shewed you in the Mount, so shall they make it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Pattern must be followed minutely.)
               </span>
             </span>
@@ -193,7 +193,7 @@ export default function Exodus27() {
           Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was at the front of the Tabernacle, facing the east)
               </span>
             </span>
@@ -202,7 +202,7 @@ export default function Exodus27() {
           of Fine Twined Linen of an hundred cubits long for one side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (using 18 inches to the cubit, it was 150 feet long and 75 feet
                 wide; the linen typified the Perfect Righteousness of Christ)
               </span>
@@ -217,13 +217,13 @@ export default function Exodus27() {
           their twenty sockets shall be of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
           ; the hooks of the pillars and their fillets shall be of silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the copper spoke of Judgment, which Jesus took on our behalf,
                 while the silver spoke of Redemption, which came forth from the
                 Judgment)
@@ -246,19 +246,19 @@ export default function Exodus27() {
           <sup className="calibre7">12</sup>And for the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           of the Court on the west side shall be hangings of fifty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           : their pillars ten, and their sockets ten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There were 60 pillars placed at intervals of five cubits all
                 around the Court. This, as well, speaks of the Grace of God.{" "}
                 <ScrollLink href="/" scrollToId="#filepos1066814">
@@ -307,7 +307,7 @@ export default function Exodus27() {
           be an hanging of twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Gate which led into the Outer Court was 30 feet wide)
               </span>
             </span>
@@ -317,7 +317,7 @@ export default function Exodus27() {
           four.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the gate at the front of the Outer Court, facing the
                 east, through which all Israelites came, in order to offer
                 Sacrifices.)
@@ -333,7 +333,7 @@ export default function Exodus27() {
           and their sockets of brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Court was as far as the Israelites, other than the Priests,
                 could come, at least as it regards the Tabernacle, and then only
                 so far as the Brazen Altar. But everything about the Outer
@@ -352,25 +352,25 @@ export default function Exodus27() {
           hundred cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(150 feet)</span>
+              <span className="explanation">(150 feet)</span>
             </span>
           </span>
           , and the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           fifty everywhere{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           , and the height five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 and 1/2 feet high)</span>
+              <span className="explanation">(7 and 1/2 feet high)</span>
             </span>
           </span>{" "}
           of fine twined linen, and their sockets of brass.
@@ -383,7 +383,7 @@ export default function Exodus27() {
           the Court, shall be of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
         </span>
@@ -398,7 +398,7 @@ export default function Exodus27() {
           of Israel, that they bring you pure oil olive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was no source of light in the Tabernacle, with the
                 exception of the Golden Lampstand; this portrays Christ as the
                 Light of the world, but, as well, portrays the Work of the Holy
@@ -410,7 +410,7 @@ export default function Exodus27() {
           beaten for the light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word beaten emphasizes the fact that this particular oil
                 did not come easily; the crushing of the olives was typical of
                 the price paid by Christ for our Redemption)
@@ -420,7 +420,7 @@ export default function Exodus27() {
           , to cause the lamp to burn always.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This light was to never go out, inasmuch as the Light of Christ
                 is never extinguished.)
               </span>
@@ -434,14 +434,14 @@ export default function Exodus27() {
           congregation without the Veil, which is before the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ark of the Covenant)</span>
+              <span className="explanation">(Ark of the Covenant)</span>
             </span>
           </span>
           , Aaron and his sons shall order it from evening to morning before the
           LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (twice a day Aaron and his sons, and those who would follow him
                 in that order, would replenish the oil in the Golden Lampstand,
                 and trim the wicks; it was commanded by God that this be done
@@ -453,7 +453,7 @@ export default function Exodus27() {
           of the Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sadness is, the Lamp is going out presently in many
                 Churches.)
               </span>

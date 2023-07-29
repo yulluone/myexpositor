@@ -20,7 +20,7 @@ export default function Isaiah14() {
           house of Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of this Chapter concerns itself with the
                 Restoration of Israel, which actually began in 1948, and will be
                 completed shortly after the Second Coming.)
@@ -38,7 +38,7 @@ export default function Isaiah14() {
           their oppressors.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The nations of the world that have caused Israel great sorrow
                 and trouble will see the roles reversed, and we speak of the
                 coming Kingdom Age. Whereas the oppressors once ruled over them,
@@ -55,7 +55,7 @@ export default function Isaiah14() {
           fear, and from the hard bondage wherein you were made to serve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel could have had this rest all along, but for their
                 rebellion against the Lord)
               </span>
@@ -74,7 +74,7 @@ export default function Isaiah14() {
           the golden city ceased!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will come to pass at the Second Coming, with this song
                 then, no doubt, being sung, because Israel will have then
                 accepted Christ.)
@@ -89,7 +89,7 @@ export default function Isaiah14() {
           wicked, and the sceptre of the rulers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Antichrist is called here the wicked. Paul addressed him as
                 such, as well [
                 <ScrollLink
@@ -124,7 +124,7 @@ export default function Isaiah14() {
           and none hinders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, none hinders, refers to the nations of the world,
                 which will have no power against the Lord of Glory when He comes
                 back. The people in this Passage basically refer to Israel, and
@@ -147,7 +147,7 @@ export default function Isaiah14() {
           is come up against us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The tranquility of this Verse results from the doom of the
                 Antichrist.)
               </span>
@@ -163,7 +163,7 @@ export default function Isaiah14() {
           kings of the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That this place called Hell is literal cannot be denied by any
                 honest investigation of Scripture. The most powerful one to
                 enter that place will be the Antichrist; however, his just doom
@@ -179,7 +179,7 @@ export default function Isaiah14() {
           you, Are you also become weak as we? are you become like unto us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This one Passage should be a warning to all who think their
                 power, pomp, and prestige will reserve some special place for
                 them in Gods eternity. It will not!)
@@ -195,7 +195,7 @@ export default function Isaiah14() {
           the worms cover you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The dead spoken of in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7424565">
                   <span className="calibre_19">
@@ -259,7 +259,7 @@ export default function Isaiah14() {
           did weaken the nations!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiahs Prophecy now switches from the Antichrist to his unholy
                 sponsor, Satan himself.
               </span>
@@ -318,7 +318,7 @@ export default function Isaiah14() {
           the clouds; I will be like the Most High.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In these two Verses, we see the foment of Satans rebellion and
                 revolution against God. It seems that Lucifer, while true to the
                 Lord, was given dominion of the Earth, which was before Adam.
@@ -335,7 +335,7 @@ export default function Isaiah14() {
           Hell, to the sides of the pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This would be the lot of Satan and all who seek to be like God,
                 but in a wrong way, in effect, by making themselves god.)
               </span>
@@ -350,7 +350,7 @@ export default function Isaiah14() {
           to tremble, who did shake kingdoms{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now the Prophecy reverts back to the Antichrist; we know this
                 because it addresses him by saying, Is this the man...?)
               </span>
@@ -366,7 +366,7 @@ export default function Isaiah14() {
           prisoners?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The debut of the Antichrist, which will take place shortly
                 after the Rapture of the Church, will not bring the promised
                 peace and prosperity, but instead will make the world a prison.)
@@ -389,7 +389,7 @@ export default function Isaiah14() {
           a carcase trodden under feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite the fact that the Antichrist will come closer than any
                 man to conquering the entirety of the world, still, his final
                 end will be ignominious, degrading, and despicable. He will be
@@ -406,7 +406,7 @@ export default function Isaiah14() {
           the seed of evildoers shall never be renowned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, we have some proof that the Antichrist will be
                 an apostate Jew, because it uses the words, your land and your
                 people. Some even think, because of the Prophecies of Jacob,
@@ -434,7 +434,7 @@ export default function Isaiah14() {
           the land, nor fill the face of the world with cities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7430917">
                   <span className="calibre_19">
@@ -465,7 +465,7 @@ export default function Isaiah14() {
           remnant, and son, and nephew, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Babylon is mans city and, hence, of Satan. It was built by
                 Nimrod as a sign of rebellion against God [
                 <ScrollLink href="/genesis-10" scrollToId="#filepos139172">
@@ -488,7 +488,7 @@ export default function Isaiah14() {
           destruction, says the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The destruction by the Lord of this city will be like something
                 that is swept clean.)
               </span>
@@ -503,7 +503,7 @@ export default function Isaiah14() {
           purposed, so shall it stand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word thought would have been better translated intended;{" "}
                 <ScrollLink href="/" scrollToId="#filepos7432343">
                   <span className="calibre_19">
@@ -526,7 +526,7 @@ export default function Isaiah14() {
           depart from off them, and his burden depart from off their shoulders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The inference is that the yoke of the Antichrist is so strong
                 that neither Israel nor the nations can throw it off in their
                 own power. But the Lord will definitely throw it off.)
@@ -542,7 +542,7 @@ export default function Isaiah14() {
           all the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan has contested God for dominion of this Earth and its
                 inhabitants from the beginning. At the Second Coming, the
                 contest will end. Instead of iniquity, Righteousness will then
@@ -559,7 +559,7 @@ export default function Isaiah14() {
           shall turn it back?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, we have the emphatic Promise that all of this
                 will be done by the LORD of Hosts. The prediction will not
                 fail!)
@@ -574,7 +574,7 @@ export default function Isaiah14() {
           this burden.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As was to be expected, Babylon, an immense religious system and
                 the political and world opponent of the Throne of David, was
                 first judged. The other nations hostile to Israel now enter the
@@ -595,7 +595,7 @@ export default function Isaiah14() {
           fiery flying serpent.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The immediate fulfillment concerned the defeat of Philistia by
                 Uzziah [
                 <ScrollLink href="/kings2-15" scrollToId="#filepos4212651">
@@ -628,7 +628,7 @@ export default function Isaiah14() {
           root with famine, and he shall kill your remnant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (II Ki., Chpt.{" "}
                 <ScrollLink href="/kings2-18" scrollToId="#filepos4258377">
                   <span className="calibre_19">
@@ -653,7 +653,7 @@ export default function Isaiah14() {
           smoke, and none shall be alone in his appointed times.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Palestina refers to the Philistines. The land
                 addressed here extends along the Mediterranean from Gaza on the
                 south to Lydda on the north. As stated, the problem rages even
@@ -671,7 +671,7 @@ export default function Isaiah14() {
           of His people shall trust in it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of the entirety of this Prophecy [
                 <ScrollLink href="/" scrollToId="#filepos7434159">
                   <span className="calibre_19">

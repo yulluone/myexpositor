@@ -199,7 +199,7 @@ export default function Zechariah13() {
           any shall yet prophesy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prophesy falsely)</span>
+              <span className="explanation">(prophesy falsely)</span>
             </span>
           </span>
           , then his father and his mother who begat him shall say unto him, You

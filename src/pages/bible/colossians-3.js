@@ -15,7 +15,7 @@ export default function Colossians3() {
           <sup className="calibre7">1</sup>If you then be risen with Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the New Life [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13347645">
                   <span className="calibre_19">
@@ -31,7 +31,7 @@ export default function Colossians3() {
           , seek those things which are above{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which come directly from the Lord, not man)
               </span>
             </span>
@@ -39,7 +39,7 @@ export default function Colossians3() {
           , where Christ sits on the Right Hand of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is referring to the fact that the great Work is a Finished
                 Work, meaning man doesnt have to go elsewhere.)
               </span>
@@ -52,7 +52,7 @@ export default function Colossians3() {
           <sup className="calibre7">2</sup>Set your affection on things above{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to directing ones mind to a thing)
               </span>
             </span>
@@ -60,7 +60,7 @@ export default function Colossians3() {
           , not on things on the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything on this Earth is temporal; as well, our help comes
                 from above)
               </span>
@@ -74,7 +74,7 @@ export default function Colossians3() {
           <sup className="calibre7">3</sup>For you are dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dead to the old life by virtue of the fact of Christ dying on
                 the Cross as our Substitute and, in effect, us dying with Him [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13347645">
@@ -91,7 +91,7 @@ export default function Colossians3() {
           , and your life is hid with Christ in God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all made possible by the Cross [Jn. 14: 20])
               </span>
             </span>
@@ -110,7 +110,7 @@ export default function Colossians3() {
           our life, shall appear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Rapture of the Church)
               </span>
             </span>
@@ -118,7 +118,7 @@ export default function Colossians3() {
           , then shall you also appear with Him in Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to every Saint at that time being given a Glorified
                 Body [
                 <ScrollLink
@@ -156,13 +156,13 @@ export default function Colossians3() {
           <sup className="calibre7">5</sup>Mortify therefore your members{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of your physical body)</span>
+              <span className="explanation">(of your physical body)</span>
             </span>
           </span>{" "}
           which are upon the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (can be done only by the Believer understanding that everything
                 he receives from the Lord comes strictly through the Cross,
                 which must ever be the Object of our Faith, thus giving the Holy
@@ -174,7 +174,7 @@ export default function Colossians3() {
           and covetousness, which is idolatry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (works of the flesh, which will in one way or the other show
                 themselves, unless the Believer follows the pattern laid down by
                 the Holy Spirit regarding Victory over the flesh, which is the
@@ -191,7 +191,7 @@ export default function Colossians3() {
           God comes on the children of disobedience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God cannot abide sin in any form, even in His Children, and
                 especially in His Children; the Cross is the only solution for
                 sin)
@@ -207,13 +207,13 @@ export default function Colossians3() {
           time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in times past)</span>
+              <span className="explanation">(in times past)</span>
             </span>
           </span>
           , when you lived in them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before coming to Christ)</span>
+              <span className="explanation">(before coming to Christ)</span>
             </span>
           </span>
           .
@@ -224,7 +224,7 @@ export default function Colossians3() {
           <sup className="calibre7">8</sup>But now you also put off all these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (can do so by evidencing Faith in Christ and His Cross)
               </span>
             </span>
@@ -238,7 +238,7 @@ export default function Colossians3() {
           <sup className="calibre7">9</sup>Lie not one to another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek actually says, lie not to yourself, and speaks of
                 accepting a way other than the Cross)
               </span>
@@ -247,7 +247,7 @@ export default function Colossians3() {
           , seeing that you have put off the old man with his deeds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the old man died with Christ on the Cross [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13350311">
                   <span className="calibre_19">
@@ -274,7 +274,7 @@ export default function Colossians3() {
               <span className="calibre_19">man</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in Christ, we are a New Creation [
                 <ScrollLink
                   href="/corinthians2-05"
@@ -293,7 +293,7 @@ export default function Colossians3() {
           which is renewed in knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the learning of Christ [
                 <ScrollLink href="/matthew-11" scrollToId="#filepos10996649">
                   <span className="calibre_19">
@@ -309,7 +309,7 @@ export default function Colossians3() {
           after the image of Him Who created him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (mans re-created self is thus after the image of Christ)
               </span>
             </span>
@@ -329,7 +329,7 @@ export default function Colossians3() {
           free{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in Christ, there is no distinction)
               </span>
             </span>
@@ -343,7 +343,7 @@ export default function Colossians3() {
           all, and in all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ occupies the whole sphere of human life and permeates
                 all its developments.)
               </span>
@@ -357,7 +357,7 @@ export default function Colossians3() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those who have been elected by God, because they
                 elected to know God [
                 <ScrollLink href="/revelation-22" scrollToId="#filepos15164587">
@@ -375,7 +375,7 @@ export default function Colossians3() {
           meekness, longsuffering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Fruit of the Spirit)</span>
+              <span className="explanation">(Fruit of the Spirit)</span>
             </span>
           </span>
           ;
@@ -386,7 +386,7 @@ export default function Colossians3() {
           <sup className="calibre7">13</sup>Forbearing one another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(exhibiting patience)</span>
+              <span className="explanation">(exhibiting patience)</span>
             </span>
           </span>
           , and forgiving one another, if any man have a quarrel against any:
@@ -410,13 +410,13 @@ export default function Colossians3() {
           charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Love)</span>
+              <span className="explanation">(Love)</span>
             </span>
           </span>
           , which is the bond of perfectness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(complete growth)</span>
+              <span className="explanation">(complete growth)</span>
             </span>
           </span>
           .
@@ -428,19 +428,19 @@ export default function Colossians3() {
           your hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanctifying Peace)</span>
+              <span className="explanation">(Sanctifying Peace)</span>
             </span>
           </span>
           , to the which also you are called in one body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church)</span>
+              <span className="explanation">(the Church)</span>
             </span>
           </span>
           ; and be ye thankful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(show ones self thankful)</span>
+              <span className="explanation">(show ones self thankful)</span>
             </span>
           </span>
           .
@@ -452,7 +452,7 @@ export default function Colossians3() {
           richly in all wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the meaning of the New Covenant as given to Paul, which is the
                 meaning of the Cross)
               </span>
@@ -462,7 +462,7 @@ export default function Colossians3() {
           Spiritual Songs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our songs of worship must proclaim the Word of God, thereby
                 teaching us)
               </span>
@@ -471,7 +471,7 @@ export default function Colossians3() {
           , singing with grace in your hearts to the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the real purpose of Spirit-Anointed Music, which
                 tells how important music and singing are as it refers to
                 worship.)
@@ -492,7 +492,7 @@ export default function Colossians3() {
           all in the Name of the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything is to be done in the Name of our Lord, irrespective
                 of what it is)
               </span>
@@ -501,7 +501,7 @@ export default function Colossians3() {
           , giving thanks to God and the Father by Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If properly obeyed, everything will take on a brand-new
                 complexion.)
               </span>
@@ -518,7 +518,7 @@ export default function Colossians3() {
           own husbands, as it is fit in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only as the husband functions in the sphere of the Lord)
               </span>
             </span>
@@ -540,7 +540,7 @@ export default function Colossians3() {
           wives, and be not bitter against them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that the husband loves the wife with the same type
                 of love with which he loves God. Consequently, there will be no
                 bitterness.)
@@ -563,7 +563,7 @@ export default function Colossians3() {
           parents in all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to that which is Scriptural)
               </span>
             </span>
@@ -571,7 +571,7 @@ export default function Colossians3() {
           : for this is well pleasing unto the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (children properly obeying parents are taught thusly to obey the
                 Lord)
               </span>
@@ -594,7 +594,7 @@ export default function Colossians3() {
           lest they be discouraged.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Childrens obedience must be fed on love and praise. Fear
                 paralyzes activity and kills service.)
               </span>
@@ -610,7 +610,7 @@ export default function Colossians3() {
           <sup className="calibre7">22</sup>Servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>
           , obey in all things{" "}
@@ -622,7 +622,7 @@ export default function Colossians3() {
           masters according to the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Christian slaves of that day working, for the most
                 part, in the service of pagan masters)
               </span>
@@ -631,7 +631,7 @@ export default function Colossians3() {
           ; not with eyeservice, as men-pleasers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents good work when the employer is watching, and the
                 opposite otherwise)
               </span>
@@ -640,7 +640,7 @@ export default function Colossians3() {
           ; but in singleness of heart, fearing God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means a person has one heart, and that is to please God, which
                 will render proper service whether the Master is watching or
                 not)
@@ -661,7 +661,7 @@ export default function Colossians3() {
           heartily, as to the Lord, and not unto men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord now becomes the Master, with everything taking on a
                 brand-new complexion)
               </span>
@@ -676,7 +676,7 @@ export default function Colossians3() {
           receive the reward of the inheritance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the Lord Who is being faithfully served
                 will, at the same time, render just dues)
               </span>
@@ -685,7 +685,7 @@ export default function Colossians3() {
           : for you serve the Lord Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything we do, irrespective what it is, is to be done with
                 the idea that it is for the Lord and the Lord Alone!)
               </span>
@@ -699,7 +699,7 @@ export default function Colossians3() {
           for the wrong which he has done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates the Law of Divine Retribution [
                 <ScrollLink href="/matthew-07" scrollToId="#filepos10920341">
                   <span className="calibre_19">
@@ -715,7 +715,7 @@ export default function Colossians3() {
           : and there is no respect of persons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God looks at all alike, playing favorites with no one.)
               </span>
             </span>

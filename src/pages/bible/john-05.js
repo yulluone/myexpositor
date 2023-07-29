@@ -155,7 +155,9 @@ export default function John05() {
               <span className="calibre_19">in that case</span>
             </span>
             <span>
-              <span className="calibre_19">(once again speaks of Israel),</span>
+              <span className="explanation">
+                (once again speaks of Israel),
+              </span>
             </span>
           </span>{" "}
           He said unto him, Will you be made whole?{" "}
@@ -331,7 +333,7 @@ export default function John05() {
           <sup className="calibre7">14</sup>Afterward Jesus finds him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the man He had healed)</span>
+              <span className="explanation">(the man He had healed)</span>
             </span>
           </span>{" "}
           in the Temple, and said unto him{" "}
@@ -570,7 +572,7 @@ export default function John05() {
           even so the Son quickens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(makes spiritually alive)</span>
+              <span className="explanation">(makes spiritually alive)</span>
             </span>
           </span>{" "}
           whom He will{" "}
@@ -691,7 +693,7 @@ export default function John05() {
           ; but is passed from death unto life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Born-Again)</span>
+              <span className="explanation">(Born-Again)</span>
             </span>
           </span>
           .
@@ -914,7 +916,7 @@ export default function John05() {
           <sup className="calibre7">31</sup>If I bear witness of Myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as to Who and What I am)</span>
+              <span className="explanation">(as to Who and What I am)</span>
             </span>
           </span>
           , My witness is not true{" "}
@@ -935,7 +937,7 @@ export default function John05() {
           of Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of John the Baptist)</span>
+              <span className="explanation">(speaks of John the Baptist)</span>
             </span>
           </span>
           ; and I know that the witness which he witnesses of Me is true{" "}
@@ -1047,7 +1049,7 @@ export default function John05() {
           : for the works which the Father has given Me to finish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Miracles and Calvary)</span>
+              <span className="explanation">(the Miracles and Calvary)</span>
             </span>
           </span>
           , the same works that I do, bear witness of Me, that the Father has
@@ -1309,7 +1311,7 @@ export default function John05() {
           : for he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           wrote of Me{" "}

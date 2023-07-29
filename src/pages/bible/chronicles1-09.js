@@ -21,7 +21,7 @@ export default function Chronicles109() {
           transgression.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a book which we do not now have, but which, no doubt,
                 contained a complete record of the genealogies of every family
                 in Israel. From this, the Author of Chronicles took only a part
@@ -98,7 +98,7 @@ export default function Chronicles109() {
           Priests, Levites, and the Nethinims.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is believed that the Nethinims were the descendants of the
                 Gibeonites who deceived Joshua at the beginning of the
                 occupation of Canaan, and who were made hewers of wood and
@@ -124,7 +124,7 @@ export default function Chronicles109() {
           Children of Ephraim, and Manasseh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the children of the two Tribes of Ephraim and Manasseh were
                 representative of the ten Tribes, for the northern ten-Tribe
                 kingdom was often called Ephraim)
@@ -269,7 +269,7 @@ export default function Chronicles109() {
           did ordain in their set office.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here we have proof that Samuel and David counseled together and
                 received revelations of the coming Temple worship.)
               </span>
@@ -353,7 +353,7 @@ export default function Chronicles109() {
           for they were employed in that work day and night.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the re-building of the Temple and Jerusalem
                 after the captivity in Babylon. It seems that, at this time,
                 great efforts were being made to carry on the worship of God as

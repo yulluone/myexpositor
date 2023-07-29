@@ -40,7 +40,9 @@ export default function Luke22() {
           ; for they feared the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they should have feared God!)</span>
+              <span className="explanation">
+                (they should have feared God!)
+              </span>
             </span>
           </span>
           .
@@ -78,13 +80,13 @@ export default function Luke22() {
           <sup className="calibre7">4</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judas)</span>
+              <span className="explanation">(Judas)</span>
             </span>
           </span>{" "}
           went his way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was not Gods Way)</span>
+              <span className="explanation">(it was not Gods Way)</span>
             </span>
           </span>
           , and communed with the Chief Priests and Captains, how he might
@@ -243,7 +245,7 @@ export default function Luke22() {
           room furnished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prepared)</span>
+              <span className="explanation">(prepared)</span>
             </span>
           </span>
           : there make ready{" "}
@@ -371,7 +373,7 @@ export default function Luke22() {
           <sup className="calibre7">17</sup>And He took the cup, and gave thanks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evidently a large cup)</span>
+              <span className="explanation">(evidently a large cup)</span>
             </span>
           </span>
           , and said, Take this, and divide{" "}
@@ -464,7 +466,7 @@ export default function Luke22() {
           the New Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(New Covenant)</span>
+              <span className="explanation">(New Covenant)</span>
             </span>
           </span>{" "}
           in My blood{" "}
@@ -853,7 +855,7 @@ export default function Luke22() {
           <sup className="calibre7">33</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>{" "}
           said unto Him, Lord, I am ready to go with You, both into prison, and
@@ -1032,7 +1034,7 @@ export default function Luke22() {
           wont{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accustomed)</span>
+              <span className="explanation">(accustomed)</span>
             </span>
           </span>
           , to the Mount of Olives{" "}
@@ -1240,7 +1242,7 @@ export default function Luke22() {
           , and drew near unto Jesus to kiss Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the prearranged design)</span>
+              <span className="explanation">(the prearranged design)</span>
             </span>
           </span>
           .
@@ -1471,7 +1473,7 @@ export default function Luke22() {
           know Him not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first of three denials)</span>
+              <span className="explanation">(the first of three denials)</span>
             </span>
           </span>
           .
@@ -1483,7 +1485,7 @@ export default function Luke22() {
           him, and said, You are also of them. And Peter said, Man, I am not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the second denial)</span>
+              <span className="explanation">(the second denial)</span>
             </span>
           </span>
           .
@@ -1755,7 +1757,7 @@ export default function Luke22() {
           Son of God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(This was said with sarcasm!)</span>
+              <span className="explanation">(This was said with sarcasm!)</span>
             </span>
           </span>{" "}
           And He said unto them, You say that I am{" "}

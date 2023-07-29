@@ -16,7 +16,7 @@ export default function Ezekiel43() {
           even the Gate that looks toward the east{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter is glorious indeed, inasmuch as it heralds the
                 return of the Holy Spirit to the Millennial Temple and,
                 therefore, to Israel. Ezekiel saw Him leave [
@@ -44,7 +44,7 @@ export default function Ezekiel43() {
           of many waters: and the Earth shined with His Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel rejected Him and so He left! Now Israel has been washed
                 and cleansed by the Blood of the Lamb and, therefore, He
                 returns.)
@@ -61,7 +61,7 @@ export default function Ezekiel43() {
           the Vision that I saw by the River Chebar; and I fell upon my face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Taking the latter phrase first, And I fell upon my face, one is
                 left with the proper position in the Presence of the Lord of
                 Glory. The phrase, That I saw when I came to destroy the city,
@@ -95,7 +95,7 @@ export default function Ezekiel43() {
           the House by the way of the Gate whose prospect is toward the east{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (comes into the newly built Millennial Temple)
               </span>
             </span>
@@ -110,7 +110,7 @@ export default function Ezekiel43() {
           House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord is now entering into and taking possession of the
                 House, as formerly He had entered into and taken possession of
                 the Tabernacle and the Temple of old [
@@ -141,7 +141,7 @@ export default function Ezekiel43() {
           of the House; and the Man stood by me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is the Holy Spirit Who is speaking to Ezekiel. As well, the
                 Man standing by Ezekiel is none other than the Lord Jesus
                 Christ, Who has conducted Ezekiel through the entirety of this
@@ -169,7 +169,7 @@ export default function Ezekiel43() {
           their high places.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, This is, are to be supplied before the Place of My
                 Throne. The phrase, Where I will dwell in the midst of the
                 Children of Israel forever, goes beyond anything that had been
@@ -191,7 +191,7 @@ export default function Ezekiel43() {
           that they have committed: wherefore I have consumed them in My Anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wording of their threshold, My Thresholds, their post, and
                 My Posts refers to their idol Temple erected by the side of Gods
                 Holy House, which, of course, occasioned their destruction.)
@@ -207,7 +207,7 @@ export default function Ezekiel43() {
           midst of them for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The theology here presented harmonizes with that of the Old and
                 New Testament writers, who invariably proclaimed purity of heart
                 and life as a necessary condition of Gods abiding in the heart,
@@ -280,7 +280,7 @@ export default function Ezekiel43() {
           let them measure the pattern.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to iniquities of the past, and not of the present.
                 But yet they are to be ashamed of their past, as we should be
                 ashamed of all sin, especially personal sin.
@@ -328,7 +328,7 @@ export default function Ezekiel43() {
           thereof, and do them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that God will not dwell in anything
                 except that which He Himself has made. Only that which is of
                 God, all of God and only of God, can be accepted. And this has
@@ -360,7 +360,7 @@ export default function Ezekiel43() {
           most holy. Behold, this is the Law of the House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Holy of Holies, the Tabernacle, and the Temple of old
                 were most holy, likewise, the entirety of that which pertains to
                 this Sanctuary is to be considered as a Holy of Holies. In fact,
@@ -383,7 +383,7 @@ export default function Ezekiel43() {
           shall be the higher place of the Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated at the beginning of this Chapter, Atonement is the
                 eternal foundation of Gods Relationship with man, of which the
                 Altar is symbolic. Such symbolizes Calvary, and will forever
@@ -402,7 +402,7 @@ export default function Ezekiel43() {
           four cubits, and the breadth one cubit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cubit is approximately 18 inches long.)
               </span>
             </span>
@@ -429,7 +429,7 @@ export default function Ezekiel43() {
           a cubit about; and his stairs shall look toward the east.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Altar was 18 feet long and 18 feet wide. It is
                 approximately 10 feet high.)
               </span>
@@ -448,7 +448,7 @@ export default function Ezekiel43() {
           sprinkle blood thereon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Ordinances of the Altar, as given here, do not pertain to
                 the regulations for the Sacrificial worship to be afterwards
                 performed upon this Altar, for the rites to be observed at this
@@ -501,7 +501,7 @@ export default function Ezekiel43() {
           Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Priests who would participate in this dedication and
                 cleaning were to be of the seed of Zadok, Davids faithful High
                 Priest. Hence, by the choosing of these sons of Zadok, the Holy
@@ -520,7 +520,7 @@ export default function Ezekiel43() {
           and purge it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blood formed an integral part of every expiatory offering.
                 It was to be placed on the four horns of the Altar, which
                 pointed in every direction, signifying that Redemption was the
@@ -555,7 +555,7 @@ export default function Ezekiel43() {
           House, without the Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the skin and dung of the bullock should be burned
                 without the camp [
                 <ScrollLink href="/exodus-29" scrollToId="#filepos1099962">
@@ -610,7 +610,7 @@ export default function Ezekiel43() {
           shall cleanse the Altar, as they did cleanse it with the bullock.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Reader must wonder as to the need for different animals, or
                 another animal at all? Actually, there were five Levitical
                 Offerings given in the Law of Moses, with all typifying what
@@ -638,7 +638,7 @@ export default function Ezekiel43() {
           them up for a Burnt Offering unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A comparison here with Leviticus is instructive. There, the
                 Burnt Offering preceded the Sin Offering; here, it follows. Then
                 Faith praised in looking forward to the Sin Offering of Calvary;
@@ -682,7 +682,7 @@ export default function Ezekiel43() {
           bullock, and a ram out of the flock, without blemish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The perfection of the Atonement appears in the seven days of
                 its action. Seven, as Gods Number, denotes perfection,
                 completion, fulfillment, totality, and universality.)
@@ -697,7 +697,7 @@ export default function Ezekiel43() {
           Altar and purify it; and they shall consecrate themselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Likewise, as this consecrated the Priests, it consecrates all
                 who believe in the vicarious, atoning Offering of Christ at
                 Calvary.)
@@ -714,7 +714,7 @@ export default function Ezekiel43() {
           and I will accept you, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a result of Calvary, this House shall stand, whereas every
                 other house has fallen. God can accept mankind only on the basis
                 of the Sacrifice of Calvary, and our Faith in that Finished

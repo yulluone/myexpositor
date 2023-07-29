@@ -249,7 +249,7 @@ export default function Psalm007() {
           <sup className="calibre7">14</sup>Behold, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the persecutors)</span>
+              <span className="explanation">(the persecutors)</span>
             </span>
           </span>{" "}
           travails with iniquity, and has conceived mischief, and brought forth

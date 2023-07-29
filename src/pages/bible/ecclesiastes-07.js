@@ -16,7 +16,7 @@ export default function Ecclesiastes07() {
           ointment; and the day of death than the day of ones birth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only truly good name is the Name of Christ, and the only
                 ones who can truly say they have a good name are those who take
                 the Name of Christ upon themselves.
@@ -53,7 +53,7 @@ export default function Ecclesiastes07() {
           all men; and the living will lay it to his heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To the flesh, this Passage seems wrong; however, the house of
                 mourning has a tendency to show to us our true selves, to help
                 us think more highly of others and, thereby, to humble us, which
@@ -69,7 +69,7 @@ export default function Ecclesiastes07() {
           by the sadness of the countenance the heart is made better.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sorrow has a tendency to drive people to their knees. Laughter
                 has a tendency to exalt self.)
               </span>
@@ -83,7 +83,7 @@ export default function Ecclesiastes07() {
           of mourning; but the heart of fools is in the house of mirth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wise are those who know their Bibles and, therefore,
                 understand the gravity of the situation; consequently, to the
                 wise, the house of mourning speaks of intercessory and
@@ -99,7 +99,7 @@ export default function Ecclesiastes07() {
           the wise, than for a man to hear the song of fools.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man, and religious man above all, does not like to be rebuked,
                 so he seeks out the song of fools, which speaks of false
                 doctrine.)
@@ -114,7 +114,7 @@ export default function Ecclesiastes07() {
           a pot, so is the laughter of the fool: this also is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A fire of thorns makes a great noise, but lasts only a short
                 time; likewise, the laughter of the fool makes a great noise,
                 but dies just as quickly.)
@@ -129,7 +129,7 @@ export default function Ecclesiastes07() {
           mad; and a gift destroys the heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wise man is one who knows and understands the Bible. If
                 such a one begins to oppress others and, at the same time,
                 overlooks injustice done to another because he has taken bribes,
@@ -147,7 +147,7 @@ export default function Ecclesiastes07() {
           in spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7128775">
                   <span className="calibre_19">
@@ -184,7 +184,7 @@ export default function Ecclesiastes07() {
           angry: for anger rests in the bosom of fools.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All things done to us, irrespective as to how bad they might
                 be, must be quickly turned over to the Lord. Let Him take care
                 of the situation [
@@ -208,7 +208,7 @@ export default function Ecclesiastes07() {
           concerning this.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, the Holy Spirit warns us not to complain of
                 having fallen upon difficult days, for such irritation shows a
                 want of Heavenly Wisdom and a questioning of the love that plans
@@ -224,7 +224,7 @@ export default function Ecclesiastes07() {
           and by it there is profit to them who see the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wisdom that is spoken of is that which is derived from the
                 Word of God. An inheritance without such wisdom will bring no
                 profit.)
@@ -240,7 +240,7 @@ export default function Ecclesiastes07() {
           life to them who have it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage tells us that wisdom is greater than money. Wisdom
                 shields from the ills of life, and so does money; however, money
                 can be lost, but wisdom, never.)
@@ -255,7 +255,7 @@ export default function Ecclesiastes07() {
           can make that straight, which He has made crooked?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument of these Verses is: if God sends adversity [makes
                 a thing crooked], who can reverse His Decree and defeat His
                 Will? Heavenly Wisdom teaches a joyful acceptance of His Will,
@@ -273,7 +273,7 @@ export default function Ecclesiastes07() {
           against the other, to the end that man should find nothing after him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage may be rendered in this way: In the day of
                 prosperity be joyful, and in the day of adversity be thankful.
                 Consider that God has even made or set the one side by side with
@@ -294,7 +294,7 @@ export default function Ecclesiastes07() {
           and there is a wicked man who prolongs his life in his wickedness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (First of all, this Passage does not mean that a man perishes
                 because he is righteous; neither does it mean that a wicked man
                 prolongs his life by being wicked. It does mean that some just
@@ -322,7 +322,7 @@ export default function Ecclesiastes07() {
           make yourself over wise: why should you destroy yourself?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There must not be any self-righteousness in the heart of the
                 Believer, for such will destroy.)
               </span>
@@ -336,7 +336,7 @@ export default function Ecclesiastes07() {
           you foolish: why should you die before your time?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is not meant that it is satisfactory in the Eyes of God to
                 be wicked in a small degree. It does mean that our situation is
                 already perilous, and to aggravate our sinfulness could bring
@@ -353,7 +353,7 @@ export default function Ecclesiastes07() {
           God shall come forth of them all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A proper fear of God will destroy all self-righteousness.)
               </span>
             </span>
@@ -369,7 +369,7 @@ export default function Ecclesiastes07() {
           than ten mighty men which are in the city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A city is far better off having ten wise men than ten mighty
                 men; regrettably, the world has many mighty men and precious few
                 wise men.)
@@ -384,7 +384,7 @@ export default function Ecclesiastes07() {
           Earth, who does good, and sins not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The moral of this Passage is that men, within themselves, are
                 fatally flawed.
               </span>
@@ -441,7 +441,7 @@ export default function Ecclesiastes07() {
           that are spoken; lest you hear your servant curse you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are importuned here to have a forbearing and forgiving
                 spirit)
               </span>
@@ -456,7 +456,7 @@ export default function Ecclesiastes07() {
           knows that you yourself likewise have cursed others.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such instruction humbles us with a consciousness that all
                 hearts are diseased by sin and are, in this sense, alike.)
               </span>
@@ -473,7 +473,7 @@ export default function Ecclesiastes07() {
           said, I will be wise; but it was far from me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even with his great wisdom, wisdom given by God, Solomon still
                 could not find a way to slake the thirst of the human heart
                 outside of God.)
@@ -488,7 +488,7 @@ export default function Ecclesiastes07() {
           deep, who can find it out?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which is far off and exceeding deep is Heavenly Wisdom. It
                 is impossible to be found out by Earthly wisdom.)
               </span>
@@ -503,7 +503,7 @@ export default function Ecclesiastes07() {
           the wickedness of folly, even of foolishness and madness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse can be thus rendered: I resumed by investigations,
                 and I determined to ascertain and learn the cause of actions
                 [the actions of self-righteousness on the one hand and of
@@ -528,7 +528,7 @@ export default function Ecclesiastes07() {
           by her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the cause of self-righteousness and of
                 profligacy is found to be idolatry. This is symbolized by a
                 woman. Salvation by personal merit and immorality characterize
@@ -544,7 +544,7 @@ export default function Ecclesiastes07() {
           preacher, counting one by one, to find out the account{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this is so given by the Holy Spirit that we may be
                 instructed by Solomons failures)
               </span>
@@ -560,7 +560,7 @@ export default function Ecclesiastes07() {
           those have I not found.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This all resulted from his exercise of self-will. He chose
                 idolatrous women, and they corrupted him. Had he sought Divine
                 guidance in the matter, God would have given him one wife, and
@@ -599,7 +599,7 @@ export default function Ecclesiastes07() {
           has made man upright; but they have sought out many inventions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The declaration of this Verse is that God made Adam and Eve
                 upright, but they and their children introduced many inventions,
                 the most popular of which are idolatry and polygamy. Solomon

@@ -157,13 +157,13 @@ export default function Joshua02() {
           <sup className="calibre7">8</sup>And before they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the two spies)</span>
+              <span className="explanation">(the two spies)</span>
             </span>
           </span>{" "}
           were laid down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to go to sleep)</span>
+              <span className="explanation">(to go to sleep)</span>
             </span>
           </span>
           , she came up unto them upon the roof;

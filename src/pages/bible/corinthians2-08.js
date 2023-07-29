@@ -16,7 +16,7 @@ export default function Corinthians208() {
           witness of the Grace of God bestowed on the Churches of Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(northern Greece)</span>
+              <span className="explanation">(northern Greece)</span>
             </span>
           </span>
           ;
@@ -28,7 +28,7 @@ export default function Corinthians208() {
           affliction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Macedonia was greatly impoverished due to political and
                 military problems)
               </span>
@@ -38,7 +38,7 @@ export default function Corinthians208() {
           riches of their liberality.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite their deep poverty, they gave liberally to the Work of
                 God.)
               </span>
@@ -57,7 +57,7 @@ export default function Corinthians208() {
           power, I bear record{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul knew their financial circumstances)
               </span>
             </span>
@@ -77,7 +77,7 @@ export default function Corinthians208() {
           willing of themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they gave beyond what it seemed they could give)
               </span>
             </span>
@@ -91,7 +91,7 @@ export default function Corinthians208() {
           would receive the gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (knowing their impoverished circumstances, Paul didnt want to
                 take the gift, but they insisted)
               </span>
@@ -106,7 +106,7 @@ export default function Corinthians208() {
           the fellowship of the Ministering to the Saints.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was receiving an Offering from all the Churches for the
                 poor Saints at Jerusalem.)
               </span>
@@ -122,7 +122,7 @@ export default function Corinthians208() {
               <span className="calibre_19">this they did</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gave far beyond what seemed to be their ability),
               </span>
             </span>
@@ -130,7 +130,7 @@ export default function Corinthians208() {
           not as we hoped{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning much greater than he had hoped)
               </span>
             </span>
@@ -138,7 +138,7 @@ export default function Corinthians208() {
           , but first gave their own selves to the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this means it was the Will of the Lord for them to do what they
                 did)
               </span>
@@ -147,7 +147,7 @@ export default function Corinthians208() {
           , and unto us by the Will of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They had great confidence in Paul and his Ministry. As we see
                 here, the Holy Spirit used Macedonia as an example.)
               </span>
@@ -161,7 +161,7 @@ export default function Corinthians208() {
           as he had begun, so he would also finish in you the same Grace also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord had Blessed Macedonia, the Church at Corinth is to
                 be Blessed also, that is if they will follow the example of
                 Macedonia.)
@@ -199,7 +199,7 @@ export default function Corinthians208() {
           that you abound in this Grace also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (abound in the Grace of Giving)
               </span>
             </span>
@@ -215,7 +215,7 @@ export default function Corinthians208() {
           <sup className="calibre7">8</sup>I speak not by Commandment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Grace of Giving cannot be by Commandment, or it is no
                 longer Giving)
               </span>
@@ -224,7 +224,7 @@ export default function Corinthians208() {
           , but by occasion of the forwardness of others{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims grandly that Giving inspires Giving)
               </span>
             </span>
@@ -232,7 +232,7 @@ export default function Corinthians208() {
           , and to prove the sincerity of your love.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we truly love God, we will give liberally to His Work.)
               </span>
             </span>
@@ -245,14 +245,14 @@ export default function Corinthians208() {
           Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Giving of Himself)</span>
+              <span className="explanation">(the Giving of Himself)</span>
             </span>
           </span>
           , that, though He was rich, yet for your sakes He became poor, that
           you through His poverty might be rich.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We can only imagine what He left to come to this world. But
                 because of what He did, we now have the riches of Eternal Life.)
               </span>
@@ -271,7 +271,7 @@ export default function Corinthians208() {
           advice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was not commanding, but rather giving advice)
               </span>
             </span>
@@ -279,14 +279,14 @@ export default function Corinthians208() {
           : for this is expedient for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it will be profitable)</span>
+              <span className="explanation">(it will be profitable)</span>
             </span>
           </span>
           , who have begun before, not only to do, but also to be forward a year
           ago.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They had started this a year before, but had gotten sidetracked
                 by problems, which the Devil desired to do.)
               </span>
@@ -317,7 +317,7 @@ export default function Corinthians208() {
           a performance also out of that which you have.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Dont just talk about it, do it!)
               </span>
             </span>
@@ -329,7 +329,7 @@ export default function Corinthians208() {
           <sup className="calibre7">12</sup>For if there be first a willing mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first consideration)</span>
+              <span className="explanation">(the first consideration)</span>
             </span>
           </span>
           ,{" "}
@@ -347,7 +347,7 @@ export default function Corinthians208() {
           not according to that he has not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Our obligations to the Lord in all cases are limited to our
                 ability.)
               </span>
@@ -366,7 +366,7 @@ export default function Corinthians208() {
           not that other men be eased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all should do their part, whatever it might be)
               </span>
             </span>
@@ -374,7 +374,7 @@ export default function Corinthians208() {
           , and you burdened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was only asking that they give their fair share)
               </span>
             </span>
@@ -399,7 +399,7 @@ export default function Corinthians208() {
           for their want{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Corinth had much more material wealth than those in Jerusalem,
                 so they are asked to share)
               </span>
@@ -414,7 +414,7 @@ export default function Corinthians208() {
           for your want{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was speaking of the fact that the Church in Jerusalem was
                 at least partly responsible for the great Spiritual Blessing now
                 held by the Corinthians)
@@ -424,7 +424,7 @@ export default function Corinthians208() {
           : that there may be equality{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem gave Spiritual Blessings, while Corinth gave material
                 blessings, which made everything equal)
               </span>
@@ -438,7 +438,7 @@ export default function Corinthians208() {
           <sup className="calibre7">15</sup>As it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-16" scrollToId="#filepos920884">
                   <span className="calibre_19">
@@ -460,7 +460,7 @@ export default function Corinthians208() {
           much had nothing over{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (hoarding money doesnt set well with the Lord)
               </span>
             </span>
@@ -474,7 +474,7 @@ export default function Corinthians208() {
           little had no lack.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Giving to the Work of God, and doing so generously, guarantees
                 Blessing.)
               </span>
@@ -497,7 +497,7 @@ export default function Corinthians208() {
           you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Titus had a heart very similar to Paul, as it regards the
                 Gospel.)
               </span>
@@ -511,7 +511,7 @@ export default function Corinthians208() {
           exhortation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to go back to Corinth to receive the Offering)
               </span>
             </span>
@@ -519,7 +519,7 @@ export default function Corinthians208() {
           ; but being more forward, of his own accord he went unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Since the Church at Corinth had experienced Revival, everything
                 is now changed for the better. Titus was now eager to go back to
                 them.)
@@ -540,7 +540,7 @@ export default function Corinthians208() {
           in the Gospel throughout all the Churches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are not told exactly who the Brother was)
               </span>
             </span>
@@ -560,7 +560,7 @@ export default function Corinthians208() {
           this Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with the Offering)</span>
+              <span className="explanation">(with the Offering)</span>
             </span>
           </span>
           , which is administered by us to the Glory of the same Lord, and{" "}
@@ -572,7 +572,7 @@ export default function Corinthians208() {
           your ready mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the design was to promote the Glory of the Lord by showing the
                 Love of God respecting this particular need)
               </span>
@@ -587,7 +587,7 @@ export default function Corinthians208() {
           blame us in this abundance which is administered by us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that everything be done honestly)
               </span>
             </span>
@@ -601,7 +601,7 @@ export default function Corinthians208() {
           only in the sight of the Lord, but also in the sight of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so as not to give the devil room for accusation)
               </span>
             </span>
@@ -615,7 +615,7 @@ export default function Corinthians208() {
           Brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents another man in conjunction with the Brother mentioned
                 in{" "}
                 <ScrollLink href="/" scrollToId="#filepos13855943">
@@ -632,7 +632,7 @@ export default function Corinthians208() {
           , whom we have oftentimes proved diligent in many things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (lends credence to thought that this man, whomever he may have
                 been, was the companion and fellow-laborer of Paul)
               </span>
@@ -647,7 +647,7 @@ export default function Corinthians208() {
           in you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was happy to go to Corinth, as well.)
               </span>
             </span>
@@ -671,7 +671,7 @@ export default function Corinthians208() {
           my partner and fellowhelper concerning you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul placed Titus in charge respecting those who were to go to
                 Corinth)
               </span>
@@ -692,7 +692,7 @@ export default function Corinthians208() {
           the Glory of Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems these other Brethren were Apostles as well, for the
                 word Messengers in the Greek is Apostoloi and means Apostle.)
               </span>
@@ -706,7 +706,7 @@ export default function Corinthians208() {
           before the Churches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (set a good example before the other Churches)
               </span>
             </span>
@@ -714,7 +714,7 @@ export default function Corinthians208() {
           , the proof of your love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a good Offering for Jerusalem)
               </span>
             </span>
@@ -722,7 +722,7 @@ export default function Corinthians208() {
           , and of our boasting on your behalf.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle believes the Corinthians would surely do their
                 part.)
               </span>

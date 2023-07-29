@@ -18,7 +18,7 @@ export default function Exodus39() {
           scarlet, they made cloths of service, to do service in the Holy Place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first compartment of the Tabernacle)
               </span>
             </span>
@@ -26,7 +26,7 @@ export default function Exodus39() {
           , and made the Holy Garments for Aaron; as the LORD commanded Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason the study of the Tabernacle is of such spiritual
                 profit is simply because every part and parcel of this
                 structure, plus all of its Sacred Vessels, symbolized Christ in
@@ -42,7 +42,7 @@ export default function Exodus39() {
           <sup className="calibre7">2</sup>And he made the Ephod{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the outer Robe worn by the High Priest)
               </span>
             </span>
@@ -50,7 +50,7 @@ export default function Exodus39() {
           of gold, blue, and purple, and scarlet, and fine twined linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this contained all the colors used by the other material, but
                 with one addition, gold; actually, this was more than a mere
                 color, but rather gold wires, as portrayed in the next Verse,
@@ -68,7 +68,7 @@ export default function Exodus39() {
           purple, and in the scarlet, and in the fine linen, with cunning work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Garment must have been strikingly beautiful! In fact, as
                 far as we know, these are the only Garments in the history of
                 man that were designed by the Lord of Glory.)
@@ -83,7 +83,7 @@ export default function Exodus39() {
           couple it together: by the two edges was it coupled together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the back and the front were coupled together at the shoulders)
               </span>
             </span>
@@ -96,7 +96,7 @@ export default function Exodus39() {
           <sup className="calibre7">5</sup>And the Curious Girdle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a sash, tied around the waist)
               </span>
             </span>
@@ -106,7 +106,7 @@ export default function Exodus39() {
           linen; as the Lord commanded Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Girdle presents Christ as it regards His preparation for
                 Service)
               </span>
@@ -122,7 +122,7 @@ export default function Exodus39() {
           the Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were shoulderboards, one might say, one to each shoulder,
                 with the names of the Children of Israel inscribed on these
                 stones, six to the side.)
@@ -138,7 +138,7 @@ export default function Exodus39() {
           of Israel; as the LORD commanded Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (inasmuch as these were worn on the shoulders of the High
                 Priest, it tells us that these Twelve Tribes were, in effect,
                 worn on the Shoulders of Christ, with the shoulders denoting
@@ -155,7 +155,7 @@ export default function Exodus39() {
           cunning work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Breastplate also carried the names of the Twelve Tribes of
                 Israel inscribed on precious stones; thus, Israel was carried
                 not only on the Shoulders of Christ, but, as well, over His
@@ -173,13 +173,13 @@ export default function Exodus39() {
           Breastplate double: a span was the length thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 9 inches)</span>
+              <span className="explanation">(about 9 inches)</span>
             </span>
           </span>
           , and a span the breadth thereof, being doubled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Breastplate being doubled probably pertained to the pouch
                 which contained the Urim and the Thummin, which was somewhat of
                 a pocket on the inside of the front of the Breastplate)
@@ -215,7 +215,7 @@ export default function Exodus39() {
           inclosings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(settings)</span>
+              <span className="explanation">(settings)</span>
             </span>
           </span>
         </span>
@@ -227,7 +227,7 @@ export default function Exodus39() {
           names of the Children of Israel, twelve, according to their names{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (twelve is Gods number for His Government)
               </span>
             </span>
@@ -236,7 +236,7 @@ export default function Exodus39() {
           to the Twelve Tribes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these were precious stones, signifying the worth and
                 value which God placed upon His People.)
               </span>
@@ -250,7 +250,7 @@ export default function Exodus39() {
           chains at the ends, of wreathen work of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the chains fastened the Breastplate to the shoulderpieces of
                 the Ephod)
               </span>
@@ -279,7 +279,7 @@ export default function Exodus39() {
           shoulderpieces of the Ephod, before it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the chains signified the binding of Christ to the Believer, and
                 the Believer to Christ)
               </span>
@@ -295,7 +295,7 @@ export default function Exodus39() {
           which was on the side of the Ephod inward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these tedious explanations, as it regards this garment
                 worn by the High Priest, might seem somewhat excessive to the
                 unspiritual eye. However, the Holy Spirit has a reason for
@@ -338,7 +338,7 @@ export default function Exodus39() {
           Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of all the garments, the Breastplate was the chief and most
                 costly of the vestments, the other garments being, as it were, a
                 foundation and background for it this central article pointing
@@ -354,7 +354,7 @@ export default function Exodus39() {
           woven work, all of blue.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Robe embodied the color of the heavens; it was all of
                 blue, stipulating the Heavenly Character of our Great High
                 Priest.)
@@ -376,13 +376,13 @@ export default function Exodus39() {
           Robe pomegranates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fruit)</span>
+              <span className="explanation">(fruit)</span>
             </span>
           </span>{" "}
           of blue, and purple, and scarlet, and twined linen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays the fact that the Ministry of Christ brings forth
                 much fruit and, as well, we are to do the same [Jn., Chpt.{" "}
                 <ScrollLink href="/john-15" scrollToId="#filepos12618765">
@@ -403,7 +403,7 @@ export default function Exodus39() {
           <sup className="calibre7">25</sup>And they made bells of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whereas the pomegranate was merely a form, actually a tassel,
                 the golden bell was actually a real article, which rang every
                 time the High Priest walked or moved)
@@ -421,7 +421,7 @@ export default function Exodus39() {
           LORD commanded Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was at His Ascension that our Great High Priest passed into
                 the Heavenly Sanctuary, and consequent upon this, on the Day of
                 Pentecost, His sound was heard in the outpouring of the Spirit,
@@ -473,7 +473,7 @@ export default function Exodus39() {
           woven work for Aaron, and for his sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word coats in this Verse is an unfortunate translation;
                 actually these were underclothes, which consisted of a long
                 white linen tunic or shirt, having tight-fitting sleeves, and
@@ -489,7 +489,7 @@ export default function Exodus39() {
           <sup className="calibre7">28</sup>And a Mitre of fine linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a turban worn by the High Priest)
               </span>
             </span>
@@ -497,7 +497,7 @@ export default function Exodus39() {
           , and goodly Bonnets of fine linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (worn by all the other Priests)
               </span>
             </span>
@@ -505,7 +505,7 @@ export default function Exodus39() {
           , and linen Breeches of fine twined linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as always, the snow-white linen portrayed the Righteousness of
                 Christ)
               </span>
@@ -521,7 +521,7 @@ export default function Exodus39() {
           commanded Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Curious Girdle)</span>
+              <span className="explanation">(the Curious Girdle)</span>
             </span>
           </span>
         </span>
@@ -533,7 +533,7 @@ export default function Exodus39() {
           Crown of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the symbol of the essential Holiness of our Lord)
               </span>
             </span>
@@ -542,7 +542,7 @@ export default function Exodus39() {
           HOLINESS TO THE LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the assignment of a Crown to the High Priest gave him a great
                 dignity, which marked him as a Type of our Lord in His Threefold
                 Office of Prophet, Priest, and King)
@@ -559,7 +559,7 @@ export default function Exodus39() {
           Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pink says, Because of our legal and vital union with Christ,
                 His Holiness is ours. Pink goes on to say, O Christian Reader,
                 look away from yourself, with your ten thousand failures, and
@@ -583,7 +583,7 @@ export default function Exodus39() {
           they.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The frequent repetition of the words, as the Lord commanded
                 Moses, should be noted. Nothing was left to mans ingenuity or
                 taste.)
@@ -622,7 +622,7 @@ export default function Exodus39() {
           <sup className="calibre7">37</sup>The pure Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>
           , with the lamps thereof, even with the lamps to be set in order, and
@@ -670,7 +670,7 @@ export default function Exodus39() {
           had they done it: and Moses blessed them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In all of this, and as we have repeatedly stated, nothing is
                 left to chance, no place allowed for scheming. All is God.
               </span>

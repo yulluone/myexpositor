@@ -407,7 +407,7 @@ export default function Leviticus23() {
           harvest: you shall leave them unto the poor, and to the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>
           : I am the LORD your God{" "}
@@ -645,7 +645,7 @@ export default function Leviticus23() {
           Sacrifice, and Drink Offerings, everything upon his day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(daily Sacrifices)</span>
+              <span className="explanation">(daily Sacrifices)</span>
             </span>
           </span>
           :
@@ -683,7 +683,7 @@ export default function Leviticus23() {
           the LORD your God seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(somewhat like a Campmeeting)</span>
+              <span className="explanation">(somewhat like a Campmeeting)</span>
             </span>
           </span>
         </span>
@@ -696,7 +696,7 @@ export default function Leviticus23() {
           generations: you shall celebrate it in the seventh month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as stated, our October)</span>
+              <span className="explanation">(as stated, our October)</span>
             </span>
           </span>
         </span>

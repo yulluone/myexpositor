@@ -395,7 +395,7 @@ export default function Timothy23() {
           you have learned and have been assured of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Message of the Cross)</span>
+              <span className="explanation">(the Message of the Cross)</span>
             </span>
           </span>
           , knowing of whom you have learned{" "}
@@ -505,7 +505,7 @@ export default function Timothy23() {
           <sup className="calibre7">17</sup>That the man of God may be perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to maturity)</span>
+              <span className="explanation">(refers to maturity)</span>
             </span>
           </span>
           , throughly furnished unto all good works{" "}

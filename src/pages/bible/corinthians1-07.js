@@ -16,7 +16,7 @@ export default function Corinthians107() {
           wrote unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle will now address things he was asked in a letter;
                 the previous Chapters addressed things he had been told)
               </span>
@@ -31,7 +31,7 @@ export default function Corinthians107() {
           good for a man not to touch a woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is not wrong for a man not to marry, providing the Lord
                 desires this for the mans personal life)
               </span>
@@ -52,7 +52,7 @@ export default function Corinthians107() {
           her own husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a rule, not merely permission)
               </span>
             </span>
@@ -69,7 +69,7 @@ export default function Corinthians107() {
           due benevolence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it refers to the husband respecting the sexual needs of his
                 wife, and to meet them accordingly; of course, we speak of
                 legitimate needs)
@@ -79,7 +79,7 @@ export default function Corinthians107() {
           : and likewise also the wife unto the husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the same duty imposed upon the wife regarding the
                 husband)
               </span>
@@ -95,7 +95,7 @@ export default function Corinthians107() {
           his own body, but the wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the husband and wife belong to each
                 other, meaning neither has the right to refuse normal demands)
               </span>
@@ -109,7 +109,7 @@ export default function Corinthians107() {
           <sup className="calibre7">5</sup>Defraud you not one the other{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that some married couples in that day were refraining
                 from sexual activity, which they erroneously thought enabled
                 them to live more spiritual lives; man seems to go from one
@@ -127,7 +127,7 @@ export default function Corinthians107() {
           prayer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not mandatory, but given as a suggestion)
               </span>
             </span>
@@ -136,7 +136,7 @@ export default function Corinthians107() {
           incontinency{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is that the Believer not unnecessarily place himself
                 or herself into a self-tormenting repression beyond what God
                 demands)
@@ -157,7 +157,7 @@ export default function Corinthians107() {
           not of Commandment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit, through Paul, leaves the details of lives,
                 whether celibate or married, to the individual consciences,
                 though with large-hearted wisdom and charity. He would
@@ -176,7 +176,7 @@ export default function Corinthians107() {
           I myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not said by Paul to denigrate marriage as some have claimed;
                 in effect, he is saying that he wished for the Coming
                 Resurrection, when all would be as he was then)
@@ -187,7 +187,7 @@ export default function Corinthians107() {
           another after that{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of different types of Ministry)
               </span>
             </span>
@@ -201,7 +201,7 @@ export default function Corinthians107() {
           widows{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (advice evidently given in response to a question)
               </span>
             </span>
@@ -209,7 +209,7 @@ export default function Corinthians107() {
           , It is good for them if they abide even as I{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is explained in{" "}
                 <ScrollLink href="/" scrollToId="#filepos13619384">
                   <span className="calibre_19">
@@ -232,13 +232,13 @@ export default function Corinthians107() {
           marry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the sex drive)</span>
+              <span className="explanation">(refers to the sex drive)</span>
             </span>
           </span>
           : for it is better to marry than to burn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to burning with passion)
               </span>
             </span>
@@ -260,7 +260,7 @@ export default function Corinthians107() {
           not I, but the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that this is not mere permission as in{" "}
                 <ScrollLink href="/" scrollToId="#filepos13608426">
                   <span className="calibre_19">
@@ -282,7 +282,7 @@ export default function Corinthians107() {
           husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to departing on grounds which were not Scriptural; in
                 other words, the husband being unsaved did not give the wife the
                 right to divorce him on those grounds)
@@ -304,7 +304,7 @@ export default function Corinthians107() {
           husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to her getting a divorce or else Paul would not have
                 restricted her to remain single, not remarrying unless it was to
                 her former husband)
@@ -320,7 +320,7 @@ export default function Corinthians107() {
           wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places the same restriction on the husband as it does the wife;
                 the Holy Spirit, through the Apostle, gives women the same
                 rights as men)
@@ -336,7 +336,7 @@ export default function Corinthians107() {
           Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean this is not inspired! the Apostle is merely saying
                 that Jesus did not teach anything about what to do with mixed
                 marriages, i.e., Believers and unbelievers)
@@ -346,13 +346,13 @@ export default function Corinthians107() {
           : If any brother has a wife who believes not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not a Christian)</span>
+              <span className="explanation">(not a Christian)</span>
             </span>
           </span>
           , and she be pleased to dwell with him, let him not put her away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (such a situation does not provide grounds for divorce)
               </span>
             </span>
@@ -367,7 +367,7 @@ export default function Corinthians107() {
           leave him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(same as the previous Verse)</span>
+              <span className="explanation">(same as the previous Verse)</span>
             </span>
           </span>
           .
@@ -380,7 +380,7 @@ export default function Corinthians107() {
           husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the Believer, by virtue of being one flesh with his
                 or her unbelieving spouse, is not considered living in an
                 unlawful relationship; Sanctified means that God looks at the
@@ -392,7 +392,7 @@ export default function Corinthians107() {
           : else were your children unclean; but now are they holy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (looked at by the Lord as being born in a Christian home,
                 despite the fact that either the Mother or Dad is unsaved)
               </span>
@@ -407,7 +407,7 @@ export default function Corinthians107() {
           him depart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of desertion, and desertion for the sole purpose of the
                 Cause of Christ)
               </span>
@@ -419,7 +419,7 @@ export default function Corinthians107() {
               <span className="calibre_19">cases</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means there is nothing the Believer could have done to stop the
                 unbelieving spouse from departing, and in that case, the
                 Believer is free to remarry)
@@ -429,7 +429,7 @@ export default function Corinthians107() {
           : but God has called us to peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (An unbelieving husband or wife who doesnt want to keep the
                 marriage together destroys all peace, which creates an untenable
                 situation.)
@@ -456,7 +456,7 @@ export default function Corinthians107() {
           wife?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything should be done to keep the marriage together,
                 believing that eventually the unsaved spouse will come to the
                 Lord, which may be their only opportunity.)
@@ -471,7 +471,7 @@ export default function Corinthians107() {
           man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the rule that the circumstances of our lives are
                 regulated by the Providence of God, and must not be arbitrarily
                 altered on our own caprice)
@@ -481,7 +481,7 @@ export default function Corinthians107() {
           , as the Lord has called every one, so let him walk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord allocates our way, so dont try to change the position
                 unless it is obviously wrong, or theres nothing you can do about
                 the change)
@@ -491,7 +491,7 @@ export default function Corinthians107() {
           . And so ordain I in all Churches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the instructions given are applicable to all Believers
                 everywhere and for all time)
               </span>
@@ -505,13 +505,13 @@ export default function Corinthians107() {
           <sup className="calibre7">18</sup>Is any man called being Circumcised?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews)</span>
+              <span className="explanation">(Jews)</span>
             </span>
           </span>{" "}
           let him not become uncircumcised. Is any called in uncircumcision?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           let him not be Circumcised.
@@ -523,7 +523,7 @@ export default function Corinthians107() {
           uncircumcision is nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is saying that Christ has fulfilled all the old Levitical
                 Law, so it is no longer binding)
               </span>
@@ -532,7 +532,7 @@ export default function Corinthians107() {
           , but the keeping of the Commandments of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those Commandments are found in{" "}
                 <ScrollLink href="/matthew-22" scrollToId="#filepos11196149">
                   <span className="calibre_19">
@@ -557,7 +557,7 @@ export default function Corinthians107() {
           calling wherein he was called.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea pertains to the state or position one is in when one
                 comes to Christ, respecting positions or particular jobs that
                 are honorable.)
@@ -577,7 +577,7 @@ export default function Corinthians107() {
           a servant? care not for it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to a slave; the Holy Spirit can make His Home
                 in the heart of a slave just as well as He can anyone else)
               </span>
@@ -592,7 +592,7 @@ export default function Corinthians107() {
           rather{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to freedom as a preference, if such can be obtained;
                 otherwise, serve God as a slave; slaves were the majority of the
                 population in those days)
@@ -613,13 +613,13 @@ export default function Corinthians107() {
           a servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slave)</span>
+              <span className="explanation">(slave)</span>
             </span>
           </span>
           , is the Lords freeman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Lord such a one is free, despite their station in life;
                 thats all that really matters)
               </span>
@@ -634,7 +634,7 @@ export default function Corinthians107() {
           free, is Christs servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that a person who is not a slave becomes a Bond Slave of
                 Christ)
               </span>
@@ -648,7 +648,7 @@ export default function Corinthians107() {
           <sup className="calibre7">23</sup>You are bought with a price{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the ransom price which was the Precious Shed Blood of
                 Jesus at Calvarys Cross)
               </span>
@@ -657,7 +657,7 @@ export default function Corinthians107() {
           ; be not ye the servants of men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Liberation by Jesus Christ not only frees us from sin, but also
                 from the fear of man and what man can do to us.)
               </span>
@@ -671,7 +671,7 @@ export default function Corinthians107() {
           is called, therein abide with God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The third time Paul says this [
                 <ScrollLink href="/" scrollToId="#filepos13614494">
                   <span className="calibre_19">
@@ -704,7 +704,7 @@ export default function Corinthians107() {
           Commandment of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that the Old Testament or the Lord in His earthly
                 Ministry did not say anything about this question; yet what He
                 will now say is definitely inspired of God)
@@ -715,7 +715,7 @@ export default function Corinthians107() {
           be faithful.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul seems to imply here that he had been celibate all his
                 life, and the Lord had given him Grace as it regards the sex
                 drive.)
@@ -730,7 +730,7 @@ export default function Corinthians107() {
           good for the present distress{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(persecution by Rome)</span>
+              <span className="explanation">(persecution by Rome)</span>
             </span>
           </span>
           ,{" "}
@@ -748,7 +748,7 @@ export default function Corinthians107() {
           good for a man so to be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is speaking primarily of Preachers and the hardships they
                 would encounter regarding a family concerning the present
                 distress.)
@@ -763,7 +763,7 @@ export default function Corinthians107() {
           to be loosed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, he is primarily speaking to Preachers)
               </span>
             </span>
@@ -771,7 +771,7 @@ export default function Corinthians107() {
           . Are you loosed from a wife? seek not a wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, if you arent married, it might be best that you
                 stay that way. But understand that Paul was speaking only of
                 that particular time, which as well would have bearing on
@@ -787,7 +787,7 @@ export default function Corinthians107() {
           sinned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the men whose wives had deserted them because of
                 accepting Christ and Preaching the Gospel; it is not a sin for
                 that man [or woman] to remarry)
@@ -797,7 +797,7 @@ export default function Corinthians107() {
           ; and if a virgin marry, she has not sinned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to young ladies who had thought to remain so for the
                 balance of their lives, but found they were in love with a young
                 man, etc.)
@@ -807,7 +807,7 @@ export default function Corinthians107() {
           . Nevertheless such shall have trouble in the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the present distress, i.e., persecution)
               </span>
             </span>
@@ -815,7 +815,7 @@ export default function Corinthians107() {
           : but I spare you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wants to spare them some problems if he can!)
               </span>
             </span>
@@ -837,7 +837,7 @@ export default function Corinthians107() {
           short{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we must make the most of the time we have and not unnecessarily
                 burden ourselves, thereby, hindering our life for the Lord)
               </span>
@@ -846,7 +846,7 @@ export default function Corinthians107() {
           : it remains, that both they who have wives be as though they had none{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christians should sit loose to earthly interest; the Lord is to
                 come first in all things)
               </span>
@@ -861,7 +861,7 @@ export default function Corinthians107() {
           wept not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all earthly things are transient; we must remember that!)
               </span>
             </span>
@@ -879,13 +879,13 @@ export default function Corinthians107() {
               <span className="calibre_19">It</span>
             </span>
             <span>
-              <span className="calibre_19">(we are just passing through)</span>
+              <span className="explanation">(we are just passing through)</span>
             </span>
           </span>
           : for the fashion of this world passes away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is like a melting vapor, therefore, Christians shouldnt
                 anchor in it)
               </span>
@@ -903,7 +903,7 @@ export default function Corinthians107() {
           carefulness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are not to be burdened down with care)
               </span>
             </span>
@@ -912,7 +912,7 @@ export default function Corinthians107() {
           how he may please the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers once again to Preachers of the Gospel, and especially
                 considering the present distress)
               </span>
@@ -933,7 +933,7 @@ export default function Corinthians107() {
           wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the present distress concerned what Nero was about
                 to do, which would result in many Christians losing their
                 lives.)
@@ -953,7 +953,7 @@ export default function Corinthians107() {
           between a wife and a virgin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns only the manner of availability for the Lord)
               </span>
             </span>
@@ -962,7 +962,7 @@ export default function Corinthians107() {
           be Holy both in body and in spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is not speaking to all Christian women, only those who are
                 called to Ministry, and more specifically only those for which
                 this would be the Will of God)
@@ -979,7 +979,7 @@ export default function Corinthians107() {
           husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means that her interest is divided between the Lord
                 and her husband, whereas that of an unmarried woman is only of
                 the Lord, or at least it is supposed to be!)
@@ -995,7 +995,7 @@ export default function Corinthians107() {
           profit; not that I may cast a snare upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that his words are not binding, but are meant to serve as
                 advice and counsel; each individual is to seek the Lord
                 respecting his own life and Ministry)
@@ -1006,7 +1006,7 @@ export default function Corinthians107() {
           without distraction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whatever the Will of the Lord might be in each individual case)
               </span>
             </span>
@@ -1020,7 +1020,7 @@ export default function Corinthians107() {
           himself uncomely toward his virgin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not speak of a sweetheart as it seems here, but rather the
                 Father of this young lady)
               </span>
@@ -1035,7 +1035,7 @@ export default function Corinthians107() {
           age{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was considered to be twenty years old at that time; as such,
                 she must now be allowed to make her own decision concerning
                 marriage, etc.)
@@ -1045,7 +1045,7 @@ export default function Corinthians107() {
           , and need so require, let him do what he will, he sins not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the daughter now being an adult, she is free to make her
                 own decisions, with the Father no longer responsible)
               </span>
@@ -1060,7 +1060,7 @@ export default function Corinthians107() {
           in his heart, having no necessity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the daughter doesnt desire to marry; therefore, the Father
                 could continue with his dedication respecting her)
               </span>
@@ -1070,7 +1070,7 @@ export default function Corinthians107() {
           that he will keep his virgin, does well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns his dedication of her to the Lord, which is her desire
                 as well, with the understanding that he will bear the expense of
                 caring for her all of his life)
@@ -1091,7 +1091,7 @@ export default function Corinthians107() {
           in marriage does well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(if that is what she wants)</span>
+              <span className="explanation">(if that is what she wants)</span>
             </span>
           </span>
           ; but he who gives{" "}
@@ -1103,7 +1103,7 @@ export default function Corinthians107() {
           not in marriage does better{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not meant to state that it is better morally, but rather
                 better relative to the Work of God)
               </span>
@@ -1122,7 +1122,7 @@ export default function Corinthians107() {
           be married to whom she will; only in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to marry another Christian)</span>
+              <span className="explanation">(to marry another Christian)</span>
             </span>
           </span>
           .
@@ -1134,13 +1134,13 @@ export default function Corinthians107() {
           after my judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(remain single)</span>
+              <span className="explanation">(remain single)</span>
             </span>
           </span>
           : and I think also that I have the Spirit of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places Pauls advice out of the realm of mere human judgment and
                 into the realm of the Divine)
               </span>

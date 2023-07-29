@@ -16,7 +16,7 @@ export default function Jeremiah16() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the giving of this Prophecy, Jeremiah is no doubt referring
                 back some 20 years earlier when the Prophecy was first given to
                 him by the Lord; he is just now relating to Judah what was said)
@@ -32,7 +32,7 @@ export default function Jeremiah16() {
           neither shall you have sons or daughters in this place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So certain and so imminent was the coming Wrath of God that
                 Jeremiah was commanded not to marry [
                 <ScrollLink href="/" scrollToId="#filepos8370473">
@@ -72,7 +72,7 @@ export default function Jeremiah16() {
           who begat them in this land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (normally, the dearest thing to parents is their children;
                 therefore, to be told that their children were going to die in
                 the coming catastrophe, and for them to pay no heed, only shows
@@ -92,7 +92,7 @@ export default function Jeremiah16() {
           for the fowls of heaven, and for the beasts of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, grievous deaths, mean deadly diseases, starvation,
                 and sword. They shall not be lamented, refers to parents or
                 loved ones who are actually glad that the child or children are
@@ -113,7 +113,7 @@ export default function Jeremiah16() {
           lovingkindness and mercies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The house of mourning actually means the house of screaming.
                 Such denotes the extensive horror that is going to take place!
                 For I have taken away My peace from this people, refers to the
@@ -133,7 +133,7 @@ export default function Jeremiah16() {
           for them, nor cut themselves, nor make themselves bald for them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great and the small signify that none shall escape! As
                 well, none of the usual mourning for the dead would be
                 practiced, because so many will have died)
@@ -157,7 +157,7 @@ export default function Jeremiah16() {
           of feasting, to sit with them to eat and to drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a time of crisis, a true Servant of God must become a
                 personal witness for God, and thus will he best help his
                 perishing fellowmen. Jeremiahs action in withdrawing from
@@ -179,7 +179,7 @@ export default function Jeremiah16() {
           the voice of the bridegroom, and the voice of the bride.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Jeremiah gave these Prophecies, Judah and Jerusalem were
                 in a time of great prosperity! His voice of judgment sounded
                 foreign to their voice of mirth, and his voice of sadness
@@ -198,7 +198,7 @@ export default function Jeremiah16() {
           against the LORD our God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, we learn that sin deadens the conscience.)
               </span>
             </span>
@@ -213,7 +213,7 @@ export default function Jeremiah16() {
           have forsaken Me, and have not kept My Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the answer to the sarcastic questions which will be asked by
                 the people of Judah and Jerusalem is now given by the Lord. This
                 Scripture proclaims the fact that the cup of judgment has been
@@ -232,7 +232,7 @@ export default function Jeremiah16() {
           evil heart, that they may not hearken unto Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the pronoun you is emphatic, meaning to emphasize strongly. In
                 effect, the Lord is saying, And as for you... . As bad as the
                 fathers were, these have done worse! Even after being repeatedly
@@ -252,7 +252,7 @@ export default function Jeremiah16() {
           show you favour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore will I cast you out of this land, refers to the
                 twofold investment by the Lord, referring to both the people and
                 the land. The Land was very special to Him, and had been chosen
@@ -322,7 +322,7 @@ export default function Jeremiah16() {
           brought up the Children of Israel out of the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the darkness of a tunnel may be realized by contrast with
                 the bright burst of sunshine on issuing from its mouth, so the
                 sunshine of{" "}
@@ -376,7 +376,7 @@ export default function Jeremiah16() {
           their land that I gave unto their fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Plainly and beautifully, the Lord says that Israel will not be
                 destroyed, but only severely chastised. It is evident that the
                 restoration from Babylon did not fulfill the language of this
@@ -396,7 +396,7 @@ export default function Jeremiah16() {
           and from every hill, and out of the holes of the rocks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fishers and the hunters refer to the individuals [possibly
                 even Angels] who will search the entirety of the world in order
                 to bring every single Jew to the Holy Land. This will be after
@@ -413,7 +413,7 @@ export default function Jeremiah16() {
           eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that God notes all the ways of
                 Israel, both good and bad, as He also does with every Believer!)
               </span>
@@ -429,7 +429,7 @@ export default function Jeremiah16() {
           abominable things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, And first I will recompense, mean But first of all.
                 I will recompense their iniquity and their sin double, does not
                 have the same meaning as{" "}
@@ -457,7 +457,7 @@ export default function Jeremiah16() {
           profit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Restoration of Israel during the coming Kingdom Age will
                 ensure the Salvation of the Gentiles. They and the sons of
                 Israel will cast away their idols and learn once for all and
@@ -486,7 +486,7 @@ export default function Jeremiah16() {
           and they are no gods?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The absurdity of the creature forming the Creator is finally
                 expressed in this Verse. All of these false religions are called
                 gods, and are said to be man-made and therefore useless!)
@@ -502,7 +502,7 @@ export default function Jeremiah16() {
           and they shall know that My Name is The LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore, behold, I will this once cause them to know, means
                 that once for all, which refers to the coming Great Tribulation
                 and Jehovahs Deliverance of Israel, which will settle for all

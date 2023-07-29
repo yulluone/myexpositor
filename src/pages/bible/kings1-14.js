@@ -211,7 +211,7 @@ export default function Kings114() {
           urinates against the wall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all the men of the family)</span>
+              <span className="explanation">(all the men of the family)</span>
             </span>
           </span>
           , and him who is shut up and left in Israel, and will take away the
@@ -558,7 +558,7 @@ export default function Kings114() {
           stead brasen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>{" "}
           shields, and committed them unto the hands of the chief of the guard,
@@ -610,7 +610,7 @@ export default function Kings114() {
           and was buried with his fathers in the city of David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>
           . And his mothers name was Naamah an Ammonitess. And Abijam his son

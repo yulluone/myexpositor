@@ -14,13 +14,13 @@ export default function Psalm110() {
           <sup className="calibre7">1</sup>The LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehovah)</span>
+              <span className="explanation">(Jehovah)</span>
             </span>
           </span>{" "}
           said unto my{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Davids)</span>
+              <span className="explanation">(Davids)</span>
             </span>
           </span>{" "}
           Lord{" "}

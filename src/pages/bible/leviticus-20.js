@@ -34,19 +34,19 @@ export default function Leviticus20() {
           strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           who sojourn in Israel, who gives any of his seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his children)</span>
+              <span className="explanation">(his children)</span>
             </span>
           </span>{" "}
           unto Molech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as stated, the Ammonite god)</span>
+              <span className="explanation">(as stated, the Ammonite god)</span>
             </span>
           </span>
           ; he shall surely be put to death: the people of the land shall stone
@@ -347,7 +347,7 @@ export default function Leviticus20() {
           <sup className="calibre7">15</sup>And if a man lie{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(engage in intercourse)</span>
+              <span className="explanation">(engage in intercourse)</span>
             </span>
           </span>{" "}
           with a beast, he shall surely be put to death: and you shall kill the
@@ -379,7 +379,7 @@ export default function Leviticus20() {
           having her sickness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(monthly period)</span>
+              <span className="explanation">(monthly period)</span>
             </span>
           </span>
           , and shall uncover her nakedness; he has discovered her fountain, and
@@ -424,7 +424,7 @@ export default function Leviticus20() {
           their sin; they shall die childless{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which was a great reproach)</span>
+              <span className="explanation">(which was a great reproach)</span>
             </span>
           </span>
         </span>

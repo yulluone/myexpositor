@@ -53,7 +53,7 @@ export default function Joshua24() {
           the other side of the flood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Euphrates River)</span>
+              <span className="explanation">(the Euphrates River)</span>
             </span>
           </span>
           , and led him throughout all the land of Canaan, and multiplied his

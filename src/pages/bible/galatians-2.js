@@ -16,7 +16,7 @@ export default function Galatians2() {
           again to Jerusalem with Barnabas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was probably the Jerusalem Council [
                 <ScrollLink href="/acts-15" scrollToId="#filepos13029810">
                   <span className="calibre_19">
@@ -43,20 +43,20 @@ export default function Galatians2() {
           <sup className="calibre7">2</sup>And I went up by Revelation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord told him to go)</span>
+              <span className="explanation">(the Lord told him to go)</span>
             </span>
           </span>
           , and communicated unto them that Gospel which I Preach among the
           Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Message of the Cross)</span>
+              <span className="explanation">(the Message of the Cross)</span>
             </span>
           </span>
           , but privately to them which were of reputation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to at least some of the original Twelve)
               </span>
             </span>
@@ -64,7 +64,7 @@ export default function Galatians2() {
           , lest by any means I should run, or had run, in vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Twelve, or even James the Lords Brother, repudiated His
                 Gospel of Grace, at least as far as the Gentiles were concerned,
                 this would create an insurmountable barrier.)
@@ -79,13 +79,13 @@ export default function Galatians2() {
           being a Greek{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Gentile)</span>
+              <span className="explanation">(a Gentile)</span>
             </span>
           </span>
           , was compelled to be circumcised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul probably took him as a test case)
               </span>
             </span>
@@ -99,7 +99,7 @@ export default function Galatians2() {
           unawares brought in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (suggests they were fellow Believers, but their insistence upon
                 the necessity of the Law constituted a denial of Christ in Pauls
                 eyes)
@@ -109,13 +109,13 @@ export default function Galatians2() {
           , who came in privily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(subtly)</span>
+              <span className="explanation">(subtly)</span>
             </span>
           </span>{" "}
           to spy out our liberty which we have in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Truth of the Gospel was at stake)
               </span>
             </span>
@@ -123,7 +123,7 @@ export default function Galatians2() {
           , that they might bring us into bondage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (forsaking the Cross always results in bondage)
               </span>
             </span>
@@ -137,7 +137,7 @@ export default function Galatians2() {
           no, not for an hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul would not yield one iota, nor compromise in the slightest)
               </span>
             </span>
@@ -145,7 +145,7 @@ export default function Galatians2() {
           ; that the Truth of the Gospel might continue with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Justification by Faith was on trial.)
               </span>
             </span>
@@ -157,7 +157,7 @@ export default function Galatians2() {
           <sup className="calibre7">6</sup>But of these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false brethren)</span>
+              <span className="explanation">(false brethren)</span>
             </span>
           </span>{" "}
           who seemed to be somewhat, (whatsoever they were, it makes no matter
@@ -170,7 +170,7 @@ export default function Galatians2() {
           in conference added nothing to me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was nothing anyone there could add to the Revelation
                 given to him by the Lord, as it regards the Cross)
               </span>
@@ -185,13 +185,13 @@ export default function Galatians2() {
           the Gospel of the uncircumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Gentiles)</span>
+              <span className="explanation">(the Gentiles)</span>
             </span>
           </span>{" "}
           was committed unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Jerusalem Apostles championing the cause of Paul
                 after they heard the issue discussed in private conference)
               </span>
@@ -212,7 +212,7 @@ export default function Galatians2() {
           unto Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Jews)</span>
+              <span className="explanation">(the Jews)</span>
             </span>
           </span>
           ;
@@ -224,7 +224,7 @@ export default function Galatians2() {
           Peter to the Apostleship of the Circumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Jews)</span>
+              <span className="explanation">(the Jews)</span>
             </span>
           </span>
           , the same was mighty in me toward the Gentiles:)
@@ -235,31 +235,31 @@ export default function Galatians2() {
           <sup className="calibre7">9</sup>And when James{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lords Brother)</span>
+              <span className="explanation">(the Lords Brother)</span>
             </span>
           </span>
           , Cephas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>
           , and John, who seemed to be pillars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a metaphor)</span>
+              <span className="explanation">(a metaphor)</span>
             </span>
           </span>
           , perceived the Grace that was given unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Message of Grace)</span>
+              <span className="explanation">(the Message of Grace)</span>
             </span>
           </span>
           , they gave to me and Barnabas the right hands of fellowship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a pledge of friendship and agreement)
               </span>
             </span>
@@ -273,13 +273,13 @@ export default function Galatians2() {
           unto the heathen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>
           , and they unto the Circumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews)</span>
+              <span className="explanation">(Jews)</span>
             </span>
           </span>
           .
@@ -296,7 +296,7 @@ export default function Galatians2() {
           that we should remember the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the poor Saints in Jerusalem, who had suffered terrible
                 hardships because of persecution)
               </span>
@@ -305,7 +305,7 @@ export default function Galatians2() {
           ; the same which I also was forward to do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul saw the need, and felt he must respond favorably, which he
                 did.)
               </span>
@@ -321,7 +321,7 @@ export default function Galatians2() {
           <sup className="calibre7">11</sup>But when Peter was come to Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Antioch Syria, the city used by God to spearhead world
                 Evangelism)
               </span>
@@ -330,7 +330,7 @@ export default function Galatians2() {
           , I withstood him to the face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means Paul openly opposed and reproved him, even though Peter
                 was the eldest)
               </span>
@@ -339,7 +339,7 @@ export default function Galatians2() {
           , because he was to be blamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for abandoning the Cross and resorting to Law)
               </span>
             </span>
@@ -353,7 +353,7 @@ export default function Galatians2() {
           James{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gives us all too well another example as to why Apostles, or
                 anyone else for that matter, are not to be the final word, but
                 rather the Word of God itself)
@@ -363,13 +363,13 @@ export default function Galatians2() {
           , he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>{" "}
           did eat with the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter knew the Gospel of Grace)
               </span>
             </span>
@@ -377,7 +377,7 @@ export default function Galatians2() {
           : but when they were come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those from James in Jerusalem)
               </span>
             </span>
@@ -386,7 +386,7 @@ export default function Galatians2() {
           Circumcision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The problem was man fear. Some of the Jewish Christians were
                 still trying to hold to the Law of Moses, which means they
                 accepted Jesus as the Messiah, but gave no credence to the Cross
@@ -402,20 +402,20 @@ export default function Galatians2() {
           <sup className="calibre7">13</sup>And the other Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in the Church at Antioch)</span>
+              <span className="explanation">(in the Church at Antioch)</span>
             </span>
           </span>{" "}
           dissembled likewise with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with Peter)</span>
+              <span className="explanation">(with Peter)</span>
             </span>
           </span>
           ; insomuch that Barnabas also was carried away with their
           dissimulation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hypocrisy)</span>
+              <span className="explanation">(hypocrisy)</span>
             </span>
           </span>
           .
@@ -427,7 +427,7 @@ export default function Galatians2() {
           uprightly according to the Truth of the Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were forsaking the Cross)
               </span>
             </span>
@@ -441,7 +441,7 @@ export default function Galatians2() {
           all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pauls rebuke was in the presence of everybody, the whole
                 Antioch Church)
               </span>
@@ -451,7 +451,7 @@ export default function Galatians2() {
           do the Jews, why do you compel the Gentiles to live as do the Jews?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hypocrisy!)</span>
+              <span className="explanation">(Hypocrisy!)</span>
             </span>
           </span>
         </span>
@@ -470,13 +470,13 @@ export default function Galatians2() {
           Jews by nature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we ought to know better)</span>
+              <span className="explanation">(we ought to know better)</span>
             </span>
           </span>
           , and not sinners of the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who only know what we tell them because they were not
                 privileged to have the Law as we did)
               </span>
@@ -491,13 +491,13 @@ export default function Galatians2() {
           by the works of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(such is impossible)</span>
+              <span className="explanation">(such is impossible)</span>
             </span>
           </span>
           , but by the Faith of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith in what He did at the Cross)
               </span>
             </span>
@@ -505,7 +505,7 @@ export default function Galatians2() {
           , even we have believed in Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Object of Faith must always be the Cross)
               </span>
             </span>
@@ -515,7 +515,7 @@ export default function Galatians2() {
           justified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (emphatically so! it cannot be done)
               </span>
             </span>
@@ -529,7 +529,7 @@ export default function Galatians2() {
           Justified by Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by trusting in what Christ did at the Cross)
               </span>
             </span>
@@ -537,7 +537,7 @@ export default function Galatians2() {
           , we ourselves also are found sinners{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we fail, thereby sinning in some way)
               </span>
             </span>
@@ -551,7 +551,7 @@ export default function Galatians2() {
           therefore Christ the minister of sin?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Is Christ to blame for our failure?)
               </span>
             </span>
@@ -559,7 +559,7 @@ export default function Galatians2() {
           God forbid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross hasnt failed. Its we who have failed.)
               </span>
             </span>
@@ -572,13 +572,13 @@ export default function Galatians2() {
           which I destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(revert back to the Law)</span>
+              <span className="explanation">(revert back to the Law)</span>
             </span>
           </span>
           , I make myself a transgressor.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To revert to any type of Law is a departure from Gods
                 Prescribed Order of Victory [the Cross], and is sin)
               </span>
@@ -592,7 +592,7 @@ export default function Galatians2() {
           <sup className="calibre7">19</sup>For I through the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ has perfectly kept the Law and suffered its just
                 penalty, all on my behalf)
               </span>
@@ -601,7 +601,7 @@ export default function Galatians2() {
           am dead to the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Law is not dead, but I am dead to the Law by virtue of
                 having died with Christ [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13347645">
@@ -618,7 +618,7 @@ export default function Galatians2() {
           , that I might live unto God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents that which can only be done through Christ, and
                 never by the Law.)
               </span>
@@ -631,7 +631,7 @@ export default function Galatians2() {
           <sup className="calibre7">20</sup>I am Crucified with Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Foundation of all Victory; Paul, here, takes us back to{" "}
                 <ScrollLink href="/romans-06" scrollToId="#filepos13347645">
                   <span className="calibre_19">
@@ -647,13 +647,13 @@ export default function Galatians2() {
           : nevertheless I live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(have new life)</span>
+              <span className="explanation">(have new life)</span>
             </span>
           </span>
           ; yet not I{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not by my own strength and ability)
               </span>
             </span>
@@ -661,7 +661,7 @@ export default function Galatians2() {
           , but Christ lives in me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by virtue of me dying with Him on the Cross, and being raised
                 with Him in Newness of Life)
               </span>
@@ -670,13 +670,13 @@ export default function Galatians2() {
           : and the life which I now live in the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(my daily walk before God)</span>
+              <span className="explanation">(my daily walk before God)</span>
             </span>
           </span>{" "}
           I live by the Faith of the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Cross is ever the Object of my Faith)
               </span>
             </span>
@@ -684,7 +684,7 @@ export default function Galatians2() {
           , Who loved me, and gave Himself for me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is the only way that I could be Saved)
               </span>
             </span>
@@ -697,7 +697,7 @@ export default function Galatians2() {
           <sup className="calibre7">21</sup>I do not frustrate the Grace of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we make anything other than the Cross of Christ the Object
                 of our Faith, we frustrate the Grace of God, which means we stop
                 its action, and the Holy Spirit will no longer help us)
@@ -713,13 +713,13 @@ export default function Galatians2() {
           by the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(any type of Law)</span>
+              <span className="explanation">(any type of Law)</span>
             </span>
           </span>
           , then Christ is dead in vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If I can successfully live for the Lord by any means other than
                 Faith in Christ and the Cross, then the Death of Christ was a
                 waste.)

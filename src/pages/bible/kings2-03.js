@@ -53,7 +53,7 @@ export default function Kings203() {
           lambs, and an hundred thousand rams, with the wool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tribute rendered each year)</span>
+              <span className="explanation">(tribute rendered each year)</span>
             </span>
           </span>
           .
@@ -71,7 +71,7 @@ export default function Kings203() {
           the same time, and numbered all Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prepared for war)</span>
+              <span className="explanation">(prepared for war)</span>
             </span>
           </span>
           .
@@ -139,7 +139,7 @@ export default function Kings203() {
           cattle that followed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the baggage animals)</span>
+              <span className="explanation">(the baggage animals)</span>
             </span>
           </span>
           .
@@ -185,7 +185,7 @@ export default function Kings203() {
           king of Edom went down to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(went to the Prophet Elisha)</span>
+              <span className="explanation">(went to the Prophet Elisha)</span>
             </span>
           </span>
           .
@@ -266,7 +266,7 @@ export default function Kings203() {
           <sup className="calibre7">16</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said, Thus says the LORD, Make this valley full of ditches.
@@ -306,7 +306,7 @@ export default function Kings203() {
           : He will deliver the Moabites also into your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(victory!)</span>
+              <span className="explanation">(victory!)</span>
             </span>
           </span>
           .
@@ -354,7 +354,7 @@ export default function Kings203() {
           were able to put on armour, and upward, and stood in the border{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a large army)</span>
+              <span className="explanation">(a large army)</span>
             </span>
           </span>
           .
@@ -449,7 +449,7 @@ export default function Kings203() {
           <sup className="calibre7">27</sup>Then he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the king of Moab)</span>
+              <span className="explanation">(the king of Moab)</span>
             </span>
           </span>{" "}
           took his oldest son who should have reigned in his stead, and offered
@@ -466,19 +466,19 @@ export default function Kings203() {
           . And there was great indignation against Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by the Moabites)</span>
+              <span className="explanation">(by the Moabites)</span>
             </span>
           </span>
           : and they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judah, Samaria, and Edom)</span>
+              <span className="explanation">(Judah, Samaria, and Edom)</span>
             </span>
           </span>{" "}
           departed from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from the Moabite king)</span>
+              <span className="explanation">(from the Moabite king)</span>
             </span>
           </span>
           , and returned to their own land.

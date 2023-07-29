@@ -17,7 +17,7 @@ export default function Esther03() {
           set his seat above all the princes who were with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that Haman was an Amalekite)
               </span>
             </span>
@@ -31,7 +31,7 @@ export default function Esther03() {
           in the kings gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (government employees, so to speak)
               </span>
             </span>
@@ -40,7 +40,7 @@ export default function Esther03() {
           concerning him. But Mordecai bowed not, nor did him reverence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prostration was, in the mind of Mordecai, an act of worship,
                 and it was not proper to worship anyone except God [
                 <ScrollLink href="/revelation-22" scrollToId="#filepos15157778">
@@ -64,7 +64,7 @@ export default function Esther03() {
           commandment?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mordecai seems, at last, to have explained to them what his
                 objection was, and to have said that, as a Jew, he was precluded
                 from prostrating himself before a man.)
@@ -81,7 +81,7 @@ export default function Esther03() {
           that he was a Jew.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mordecai explained to the palace officials that his not
                 reverencing Haman was not due to discourtesy to Haman, or
                 disobedience to the king, but because he was a Hebrew; that is,
@@ -135,7 +135,7 @@ export default function Esther03() {
           bowed not, nor did him reverence, then was Haman full of wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (apparently, Mordecais disrespect had not been observed by Haman
                 until the kings servants called his attention to it)
               </span>
@@ -153,14 +153,14 @@ export default function Esther03() {
           Mordecai alone; for they had showed him the people of Mordecai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that they were Jews)</span>
+              <span className="explanation">(that they were Jews)</span>
             </span>
           </span>
           : wherefore Haman sought to destroy all the Jews who were throughout
           the whole kingdom of Ahasuerus, even the people of Mordecai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the mind of this evil man, Mordecai, as a Jew, had insulted
                 him, and the Jews, and that meant all the Jews, would pay the
                 penalty)
@@ -178,7 +178,7 @@ export default function Esther03() {
           month, to the twelfth month, that is, the month Adar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse does not mean that twelve months were employed in
                 seeking, by means of the lot, a propitious day for the slaughter
                 of the Jews; it means that the diviners [astrologers] sought for
@@ -207,7 +207,7 @@ export default function Esther03() {
           it is not for the kings profit to suffer them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the basic thrust of all of this was a lie; there might be an
                 occasional royal edict which a Jew could not obey, but that was
                 rare; anyway, as long as it didnt hurt the kingdom, the Persians
@@ -227,7 +227,7 @@ export default function Esther03() {
           business, to bring it into the kings treasuries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to pay the expenses of those who would carry out the terrible
                 deed)
               </span>
@@ -243,7 +243,7 @@ export default function Esther03() {
           Jews enemy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the royal seal, and gave Haman liberty to do about
                 whatever he desired)
               </span>
@@ -258,7 +258,7 @@ export default function Esther03() {
           silver is given to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whatever wealth the Jews had, after they were slaughtered,
                 Haman could take that for himself)
               </span>
@@ -267,7 +267,7 @@ export default function Esther03() {
           , the people also, to do with them as it seems good to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (you can do whatever you like to these people, i.e., the Jews)
               </span>
             </span>
@@ -289,7 +289,7 @@ export default function Esther03() {
           Ahasuerus was it written, and sealed with the kings ring{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all edicts were in the kings name, even when a subject had been
                 allowed to issue them, as Haman)
               </span>
@@ -303,7 +303,7 @@ export default function Esther03() {
           <sup className="calibre7">13</sup>And the letters were sent by posts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(messengers)</span>
+              <span className="explanation">(messengers)</span>
             </span>
           </span>{" "}
           into all the kings provinces, to destroy, to kill, and to cause to
@@ -312,7 +312,7 @@ export default function Esther03() {
           the month Adar, and to take the spoil of them for a prey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the command was explicit, all were to be killed; as stated,
                 this was Satans plan to destroy the possibility of the Messiah
                 being born into the world, Who had to come through the Jewish
@@ -338,7 +338,7 @@ export default function Esther03() {
           people, that they should be ready against that day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the 13th day of the 12th month, which was March)
               </span>
             </span>
@@ -351,7 +351,7 @@ export default function Esther03() {
           <sup className="calibre7">15</sup>The posts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(messengers)</span>
+              <span className="explanation">(messengers)</span>
             </span>
           </span>{" "}
           went out, being hastened by the kings commandment, and the decree was
@@ -359,7 +359,7 @@ export default function Esther03() {
           but the city Shushan was perplexed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These two, having assigned an entire nation to destruction,
                 proceeded to enjoy themselves at a banquet of wine.
               </span>

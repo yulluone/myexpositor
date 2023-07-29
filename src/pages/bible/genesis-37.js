@@ -18,7 +18,7 @@ export default function Genesis37() {
           his father was a stranger, in the land of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (having dispensed with Esau in the previous Chapter, and having
                 mentioned him at all simply because he was a son of Isaac, we
                 now pick up the narrative of Jacob, which includes the story of
@@ -36,7 +36,7 @@ export default function Genesis37() {
           brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph is one of the most, if not the most, remarkable Types of
                 Christ found in the entirety of the Old Testament)
               </span>
@@ -45,20 +45,20 @@ export default function Genesis37() {
           ; and the lad was with the sons of Bilhah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Dan and Naphtali)</span>
+              <span className="explanation">(Dan and Naphtali)</span>
             </span>
           </span>
           , and with the sons of Zilpah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gad and Asher)</span>
+              <span className="explanation">(Gad and Asher)</span>
             </span>
           </span>
           , his fathers wives: and Joseph brought unto his father their evil
           report{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these men were in the Covenant, but not of the Covenant)
               </span>
             </span>
@@ -71,13 +71,13 @@ export default function Genesis37() {
           <sup className="calibre7">3</sup>Now Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           loved Joseph more than all his children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Israel is used here of Jacob by the Holy Spirit,
                 signifying that what Jacob had done, as it regards loving
                 Joseph, was not wrong, but rather right; some claim that Jacob
@@ -88,7 +88,7 @@ export default function Genesis37() {
           , because he was the son of his old age{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means that Joseph possessed the wisdom of an old man
                 though so young)
               </span>
@@ -97,7 +97,7 @@ export default function Genesis37() {
           : and he made him a coat of many colors.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such a coat was given to the son for whom the birthright was
                 designed. The Holy Spirit proclaimed that it should go to
                 Joseph, and not Reuben, who was actually the firstborn. Whoever
@@ -116,7 +116,7 @@ export default function Genesis37() {
           not speak peaceably unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This perfectly epitomizes Christ; of Whom Joseph was one of the
                 most remarkable Types found in the Word of God. God loved His
                 Son, and showed it greatly by lavishing upon Him all the Power
@@ -135,7 +135,7 @@ export default function Genesis37() {
           told it his brethren: and they hated him yet the more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord revealed the future to Joseph in a dream. While the
                 dream definitely referred to him, it more so referred to Christ
                 and Israel, with these men who hated Joseph being a type of
@@ -161,13 +161,13 @@ export default function Genesis37() {
           behold, your sheaves stood round about, and made obeisance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bowed)</span>
+              <span className="explanation">(bowed)</span>
             </span>
           </span>{" "}
           to my sheaf.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was the Will of the Lord to relate this dream, which these
                 brothers would remember, and would see come to pass exactly as
                 the dream proclaimed. Pulpit Commentary says, regarding this, He
@@ -190,7 +190,7 @@ export default function Genesis37() {
           And they hated him yet the more for his dreams, and for his words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hatred that Josephs brethren exhibited toward him
                 represents the Jews in Christs day. He came to His Own, and His
                 Own received Him not. He had no form nor comeliness in their
@@ -209,7 +209,7 @@ export default function Genesis37() {
           to me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This prophetically portrays the Second Coming, when all the
                 Tribes of Israel will, at the time, bow at the feet of Christ [
                 <ScrollLink href="/zechariah-12" scrollToId="#filepos10713278">
@@ -257,7 +257,7 @@ export default function Genesis37() {
           brethren indeed come to bow down ourselves to you to the earth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is exactly what they did after Joseph became Viceroy of
                 Egypt. It is exactly what Israel, as well, will do, in a coming
                 glad day.)
@@ -272,7 +272,7 @@ export default function Genesis37() {
           father observed the saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Jacob had rebuked Joseph, still, the Patriarch
                 realized that there was more to this than a mere dream)
               </span>
@@ -287,7 +287,7 @@ export default function Genesis37() {
           fathers flock in Shechem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 50 miles distance)</span>
+              <span className="explanation">(about 50 miles distance)</span>
             </span>
           </span>
         </span>
@@ -298,14 +298,14 @@ export default function Genesis37() {
           <sup className="calibre7">13</sup>And Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           said unto Joseph, Do not your brethren feed the flock in Shechem?
           come, and I will send you unto them. And he said to him, Here am I.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The short phrase, Here am I, foreshadows the statement of
                 Christ, Then said I, Lo, I come: in the volume of the Book it is
                 written of Me, I delight to do Your Will, O My God: yes, Your
@@ -328,13 +328,13 @@ export default function Genesis37() {
           <sup className="calibre7">14</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           said to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Joseph)</span>
+              <span className="explanation">(to Joseph)</span>
             </span>
           </span>
           , Go, I pray you, see whether it is well with your brethren, and well
@@ -342,7 +342,7 @@ export default function Genesis37() {
           vale of Hebron, and he came to Shechem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this portrays the fact that Jacob little understood the
                 degree of hatred the brothers had against Joseph.)
               </span>
@@ -369,7 +369,7 @@ export default function Genesis37() {
           hence; for I heard them say, Let us go to Dothan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about 12 miles north of Shechem, making the total distance that
                 Joseph had come approximately 62 miles)
               </span>
@@ -387,7 +387,7 @@ export default function Genesis37() {
           before he came near unto them, they conspired against him to kill him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was thus with Christ as well. When He was born, Herod sought
                 to kill Him [Mat., Chpt.{" "}
                 <ScrollLink href="/matthew-02" scrollToId="#filepos10843832">
@@ -409,7 +409,7 @@ export default function Genesis37() {
           Behold, this dreamer comes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (little did they realize that these dreams would come to pass
                 exactly according to their portrayal)
               </span>
@@ -425,7 +425,7 @@ export default function Genesis37() {
           devoured him: and we shall see what will become of his dreams{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we see here the ruling of the sin nature)
               </span>
             </span>
@@ -439,7 +439,7 @@ export default function Genesis37() {
           delivered him out of their hands; and said, Let us not kill him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Reuben was the firstborn. This meant that when Jacob died, he
                 would receive a double portion of the inheritance; however, the
                 birthright had been given to Joseph. So Reuben would have had
@@ -458,7 +458,7 @@ export default function Genesis37() {
           him to his father again.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He thought later to come back and rescue Joseph, as evidently
                 he had to go somewhere, but he would come back too late. They
                 would have sold Joseph as a slave.)
@@ -474,7 +474,7 @@ export default function Genesis37() {
           coat of many colors that was on him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the flesh hates the Spirit, the latter of which the coat was a
                 Type; however, when they took the coat, they did not take the
                 anointing, for the coat was only a symbol of such)
@@ -490,7 +490,7 @@ export default function Genesis37() {
           a pit: and the pit was empty, there was no water in it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When we look at Joseph in the pit and in the prison, and look
                 at him afterwards as ruler over all the land of Egypt, we see
                 the difference between the thoughts of God and the thoughts of
@@ -506,7 +506,7 @@ export default function Genesis37() {
           <sup className="calibre7">25</sup>And they sat down to eat bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, their idea was, when they put him in the pit, to let
                 him starve to death; but now a change of events comes about)
               </span>
@@ -530,7 +530,7 @@ export default function Genesis37() {
           and our flesh. And his brethren were content.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Along with Reuben, Judah is the one who saved the life of
                 Joseph, suggesting that they sell him as a slave; however, this
                 was little an act of mercy on the part of Judah, inasmuch as
@@ -550,7 +550,7 @@ export default function Genesis37() {
           merchantmen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were along with the Ishmeelites)
               </span>
             </span>
@@ -560,7 +560,7 @@ export default function Genesis37() {
           Joseph into Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph being a Type of Christ, the Saviour was sold for thirty
                 pieces of silver. As Joseph was taken into Egypt, likewise, the
                 Gentiles accepted Christ.)
@@ -578,7 +578,7 @@ export default function Genesis37() {
           and, behold, Joseph was not in the pit; and he rent his clothes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Reuben returned, it seems that he was genuinely sorry
                 about the turn of events; however, his brothers explained to him
                 what they had done, and the record proclaims the fact that he
@@ -594,7 +594,7 @@ export default function Genesis37() {
           and said, The child is not; and I, whither shall I go?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What shall I do?)</span>
+              <span className="explanation">(What shall I do?)</span>
             </span>
           </span>
         </span>
@@ -605,7 +605,7 @@ export default function Genesis37() {
           killed a kid of the goats, and dipped the coat in the blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Rebekah and Jacob had used a kid of the goats to deceive
                 Isaac [
                 <ScrollLink href="/genesis-27" scrollToId="#filepos365285">
@@ -629,7 +629,7 @@ export default function Genesis37() {
           found: know now whether it be your sons coat or no{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they evidently got a servant or a slave to take the bloody coat
                 to Jacob, and to give him the story they had concocted)
               </span>
@@ -645,7 +645,7 @@ export default function Genesis37() {
           rent in pieces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that they who brought the news to Jacob had suggested
                 this, and Jacob believed it)
               </span>
@@ -660,7 +660,7 @@ export default function Genesis37() {
           sackcloth upon his loins, and mourned for his son many days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this terrible heartache, this terrible sorrow, would last for
                 twenty years, meaning that it was one of the greatest tests that
                 God ever called upon a man to undergo)
@@ -678,7 +678,7 @@ export default function Genesis37() {
           his father wept for him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob knew that the Lord had told him to give Joseph the
                 birthright. That being the case, why would the Lord then allow
                 his life to be taken by a wild animal, or so Jacob thought?)
@@ -693,7 +693,7 @@ export default function Genesis37() {
           Egypt unto Potiphar, an officer of Pharaohs, and captain of the guard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Hand of the Lord, although having no part whatsoever in the
                 evil being carried out, still, guided events, even as we shall
                 see.)

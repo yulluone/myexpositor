@@ -65,13 +65,13 @@ export default function Samuel129() {
           were wroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(angry)</span>
+              <span className="explanation">(angry)</span>
             </span>
           </span>{" "}
           with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with Achish)</span>
+              <span className="explanation">(with Achish)</span>
             </span>
           </span>
           ; and the princes of the Philistines said unto him, Make this fellow

@@ -79,7 +79,9 @@ export default function Numbers31() {
           all the Tribes of Israel, shall you send to the war{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord selected the number)</span>
+              <span className="explanation">
+                (the Lord selected the number)
+              </span>
             </span>
           </span>
         </span>
@@ -292,7 +294,7 @@ export default function Numbers31() {
           brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
           , the iron, the tin, and the lead.
@@ -429,7 +431,7 @@ export default function Numbers31() {
           seventy thousand and five thousand sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(675,000)</span>
+              <span className="explanation">(675,000)</span>
             </span>
           </span>
         </span>
@@ -441,7 +443,7 @@ export default function Numbers31() {
           beeves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(72,000 cattle)</span>
+              <span className="explanation">(72,000 cattle)</span>
             </span>
           </span>
           ,
@@ -453,7 +455,7 @@ export default function Numbers31() {
           asses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(61,000)</span>
+              <span className="explanation">(61,000)</span>
             </span>
           </span>
           ,
@@ -472,7 +474,7 @@ export default function Numbers31() {
           seven and thirty thousand and five hundred sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(337,500)</span>
+              <span className="explanation">(337,500)</span>
             </span>
           </span>
           :
@@ -484,7 +486,7 @@ export default function Numbers31() {
           was six hundred and threescore and fifteen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(675)</span>
+              <span className="explanation">(675)</span>
             </span>
           </span>
         </span>
@@ -496,7 +498,7 @@ export default function Numbers31() {
           thousand; of which the LORDs tribute was threescore and twelve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(72)</span>
+              <span className="explanation">(72)</span>
             </span>
           </span>
         </span>
@@ -508,7 +510,7 @@ export default function Numbers31() {
           and five hundred; of which the LORDs tribute was threescore and one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(61)</span>
+              <span className="explanation">(61)</span>
             </span>
           </span>
         </span>

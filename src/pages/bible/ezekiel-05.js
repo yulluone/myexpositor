@@ -20,7 +20,7 @@ export default function Ezekiel05() {
           hair.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again, the Lord uses symbolism to portray the desired Message.
                 It is the symbol of the barbers razor. In Old Testament times,
                 the head and beard being shaved represented shame, and was
@@ -41,7 +41,7 @@ export default function Ezekiel05() {
           sword after them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The symbolic action predicted that the fire, i.e., the Wrath of
                 God [in pestilence and famine], should destroy approximately
                 one-third of the nation, with war destroying a second part, and
@@ -60,7 +60,7 @@ export default function Ezekiel05() {
           number, and bind them in your skirts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This number represented the few who would not fall into the
                 categories of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9067574">
@@ -84,7 +84,7 @@ export default function Ezekiel05() {
           thereof shall a fire come forth into all the House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The judgment is to be so complete that even those who thought
                 they had escaped, by whatever means, would find the fire of
                 judgment chasing them, of which they could not escape.)
@@ -103,7 +103,7 @@ export default function Ezekiel05() {
           that are round about her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, This is Jerusalem, is strong indeed! She, as
                 representing the all of Israel, was placed in the center of the
                 nations in order to shed upon them the light of the Gospel. But
@@ -121,14 +121,14 @@ export default function Ezekiel05() {
           countries that are round about her: for they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Jews)</span>
+              <span className="explanation">(the Jews)</span>
             </span>
           </span>{" "}
           have refused My Judgments and My Statutes, they have not walked in
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (She has changed My Judgments into wickedness, refers to the Law
                 of Moses, which was not only ignored, but was twisted and
                 changed to mean something else entirely!)
@@ -146,7 +146,7 @@ export default function Ezekiel05() {
           round about you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea of this Verse is that the heathen nations were at
                 least true to the gods whom they worshipped, while Jerusalem had
                 rebelled against Jehovah)
@@ -163,7 +163,7 @@ export default function Ezekiel05() {
           midst of you in the sight of the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I, even I, emphasizes the certitude of the Wrath of God, just
                 as{" "}
                 <ScrollLink href="/isaiah-43" scrollToId="#filepos7785624">
@@ -188,7 +188,7 @@ export default function Ezekiel05() {
           of all your abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will do in you that which I have not done, refers to the
                 soon destruction of Jerusalem. I will not do any more the like,
                 has reference to the present and to the future. It held both
@@ -206,7 +206,7 @@ export default function Ezekiel05() {
           scatter into all the winds.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was literally fulfilled during the siege of the city by
                 the Chaldeans, as it had occurred years before in the siege of
                 Samaria [
@@ -233,7 +233,7 @@ export default function Ezekiel05() {
           pity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The righteous Judgments, consequent upon the abominations of
                 this Verse, which are detailed in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9071018">
@@ -276,7 +276,7 @@ export default function Ezekiel05() {
           sword after them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel draws this Passage, no doubt, from{" "}
                 <ScrollLink href="/leviticus-26" scrollToId="#filepos1653748">
                   <span className="calibre_19">
@@ -307,7 +307,7 @@ export default function Ezekiel05() {
           have accomplished My fury in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Righteousness must, from its nature, be restless till evil is
                 judged. Then it is comforted. Such was the effect of the
                 judgment of sin at Calvary; and those who recognize this Gospel
@@ -326,7 +326,7 @@ export default function Ezekiel05() {
           all who pass by.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of all the suffering experienced by Judah, perhaps the worst of
                 all was the reproach among the nations, and in the sight of all
                 who pass by.)
@@ -343,7 +343,7 @@ export default function Ezekiel05() {
           fury and in furious rebukes. I the LORD have spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is drawn perhaps from{" "}
                 <ScrollLink href="/deuteronmy-28" scrollToId="#filepos2393176">
                   <span className="calibre_19">
@@ -371,7 +371,7 @@ export default function Ezekiel05() {
           will break your staff of bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as an arrow shot by an expert marksman goes true to its target,
                 so will these arrows unleashed by the Lord; they will be arrows
                 of famine and destruction; they are of necessity called evil
@@ -405,7 +405,7 @@ export default function Ezekiel05() {
           LORD have spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The evil beasts speak of the Babylonian horde! The Chapter ends
                 with the words, I the LORD have spoken it, which is the final
                 stroke of all, guaranteeing that even though the words came from

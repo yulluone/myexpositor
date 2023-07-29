@@ -87,7 +87,7 @@ export default function Luke14() {
           . And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           took{" "}
@@ -120,7 +120,7 @@ export default function Luke14() {
           straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           pull him out on the Sabbath Day?{" "}
@@ -476,7 +476,7 @@ export default function Luke14() {
           wife, and therefore I cannot come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this spoke of self-love)</span>
+              <span className="explanation">(this spoke of self-love)</span>
             </span>
           </span>
           .
@@ -583,7 +583,7 @@ export default function Luke14() {
           those men which were bidden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and wouldnt come)</span>
+              <span className="explanation">(and wouldnt come)</span>
             </span>
           </span>{" "}
           shall taste of My supper{" "}
@@ -643,13 +643,13 @@ export default function Luke14() {
           come to Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no exceptions)</span>
+              <span className="explanation">(no exceptions)</span>
             </span>
           </span>
           , and hate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prefer)</span>
+              <span className="explanation">(prefer)</span>
             </span>
           </span>{" "}
           not his father, and mother, and wife, and children, and brethren, and
@@ -665,7 +665,7 @@ export default function Luke14() {
           , he cannot be My Disciple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(once again, no exceptions!)</span>
+              <span className="explanation">(once again, no exceptions!)</span>
             </span>
           </span>
           .

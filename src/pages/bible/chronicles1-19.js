@@ -16,7 +16,7 @@ export default function Chronicles119() {
           Nahash{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means shining serpent)</span>
+              <span className="explanation">(means shining serpent)</span>
             </span>
           </span>{" "}
           the king of the children of Ammon died, and his son reigned in his
@@ -32,7 +32,7 @@ export default function Chronicles119() {
           Hanun, to comfort him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a perfect Type of our Heavenly David sending Godly Preachers
                 and Teachers to the world to comfort them with the Gospel; this
                 comfort alone is valid!)
@@ -50,7 +50,7 @@ export default function Chronicles119() {
           you for to search, and to overthrow, and to spy out the land?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evil cannot discern righteousness, but rather sees evil in
                 everything.)
               </span>
@@ -65,7 +65,7 @@ export default function Chronicles119() {
           buttocks, and sent them away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greatly humiliated them!)</span>
+              <span className="explanation">(greatly humiliated them!)</span>
             </span>
           </span>
         </span>
@@ -99,7 +99,7 @@ export default function Chronicles119() {
           from their cities, and came to battle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks in prophetic tones of the Antichrist, who will
                 attempt, once and for all, to overthrow Christ and to destroy
                 Israel; however, let the axis hosts be ever so strong, for they
@@ -117,7 +117,7 @@ export default function Chronicles119() {
           Joab, and all the host of the mighty men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit is quick to emphasize the fact that some of
                 these men were mighty)
               </span>
@@ -133,7 +133,7 @@ export default function Chronicles119() {
           who were come were by themselves in the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the heathen kings were together in a prominent place observing
                 the battle)
               </span>
@@ -149,7 +149,7 @@ export default function Chronicles119() {
           of Israel, and put them in array against the Syrians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (set the mighty men against the Syrians)
               </span>
             </span>
@@ -162,14 +162,14 @@ export default function Chronicles119() {
           <sup className="calibre7">11</sup>And the rest of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the army)</span>
+              <span className="explanation">(the army)</span>
             </span>
           </span>{" "}
           he delivered unto the hand of Abishai his brother, and they set
           themselves in array against the children of Ammon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, the Syrians were stronger than the Ammonites)
               </span>
             </span>
@@ -198,7 +198,7 @@ export default function Chronicles119() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (resist Satan, and he will flee from you [
                 <ScrollLink href="/james-4" scrollToId="#filepos14651546">
                   <span className="calibre_19">
@@ -220,7 +220,7 @@ export default function Chronicles119() {
           that the Syrians were fled, they likewise fled before Abishai his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joabs)</span>
+              <span className="explanation">(Joabs)</span>
             </span>
           </span>{" "}
           brother, and entered into the city. Then Joab came to Jerusalem.
@@ -237,7 +237,7 @@ export default function Chronicles119() {
           of the host of Hadarezer went before them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made another excursion)</span>
+              <span className="explanation">(made another excursion)</span>
             </span>
           </span>
         </span>
@@ -267,7 +267,7 @@ export default function Chronicles119() {
           the children of Ammon any more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (likewise, at the conclusion of the great Battle of Armageddon,
                 with Jesus Christ reigning as the Lord of Heaven and Earth, the
                 world will make peace with our Heavenly David and, in effect,

@@ -15,13 +15,13 @@ export default function Timothy14() {
           <sup className="calibre7">1</sup>Now the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           speaks ex pressly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pointedly)</span>
+              <span className="explanation">(pointedly)</span>
             </span>
           </span>
           , that in the latter times{" "}
@@ -168,7 +168,7 @@ export default function Timothy14() {
           <sup className="calibre7">5</sup>For it is Sanctified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made clean)</span>
+              <span className="explanation">(made clean)</span>
             </span>
           </span>{" "}
           by the Word of God{" "}
@@ -184,7 +184,7 @@ export default function Timothy14() {
           and prayer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a prayer of thanksgiving)</span>
+              <span className="explanation">(a prayer of thanksgiving)</span>
             </span>
           </span>
           .
@@ -199,7 +199,7 @@ export default function Timothy14() {
           remembrance of these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(call attention to it)</span>
+              <span className="explanation">(call attention to it)</span>
             </span>
           </span>
           , you shall be a good Minister of Jesus Christ{" "}
@@ -415,7 +415,7 @@ export default function Timothy14() {
           ; but be thou an example of the Believers, in word, in conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in lifestyle)</span>
+              <span className="explanation">(in lifestyle)</span>
             </span>
           </span>
           , in charity, in spirit, in Faith, in purity{" "}
@@ -507,13 +507,13 @@ export default function Timothy14() {
           <sup className="calibre7">15</sup>Meditate upon these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(attend carefully)</span>
+              <span className="explanation">(attend carefully)</span>
             </span>
           </span>
           ; give yourself wholly to them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(total devotion)</span>
+              <span className="explanation">(total devotion)</span>
             </span>
           </span>
           ; that your profiting may appear to all{" "}

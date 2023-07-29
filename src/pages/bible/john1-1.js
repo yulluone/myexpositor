@@ -92,7 +92,7 @@ export default function John11() {
           and bear witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we can testify to the fact)</span>
+              <span className="explanation">(we can testify to the fact)</span>
             </span>
           </span>
           , and show unto you that Eternal Life{" "}
@@ -130,7 +130,7 @@ export default function John11() {
           declare we unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hence, this Epistle)</span>
+              <span className="explanation">(hence, this Epistle)</span>
             </span>
           </span>
           , that you also may have fellowship with us{" "}
@@ -255,13 +255,13 @@ export default function John11() {
           <sup className="calibre7">8</sup>If we say that we have no sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the sin nature)</span>
+              <span className="explanation">(refers to the sin nature)</span>
             </span>
           </span>
           , we deceive ourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to self-deception)</span>
+              <span className="explanation">(refers to self-deception)</span>
             </span>
           </span>
           , and the Truth is not in us.{" "}
@@ -298,7 +298,7 @@ export default function John11() {
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           is faithful and just to forgive us{" "}

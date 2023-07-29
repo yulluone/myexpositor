@@ -355,7 +355,7 @@ export default function Romans14() {
           , As I live, says the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God cannot die)</span>
+              <span className="explanation">(God cannot die)</span>
             </span>
           </span>
           , every knee shall bow to Me, and every tongue shall confess to God{" "}

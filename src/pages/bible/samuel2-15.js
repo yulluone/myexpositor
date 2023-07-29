@@ -326,7 +326,9 @@ export default function Samuel215() {
           on before the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(these were powerful warriors)</span>
+              <span className="explanation">
+                (these were powerful warriors)
+              </span>
             </span>
           </span>
         </span>
@@ -471,7 +473,7 @@ export default function Samuel215() {
           the Ark of God again to Jerusalem: and they tarried there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they obeyed David)</span>
+              <span className="explanation">(they obeyed David)</span>
             </span>
           </span>
         </span>
@@ -586,7 +588,7 @@ export default function Samuel215() {
           the city, and Absalom came into Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(came to take the Throne)</span>
+              <span className="explanation">(came to take the Throne)</span>
             </span>
           </span>
         </span>

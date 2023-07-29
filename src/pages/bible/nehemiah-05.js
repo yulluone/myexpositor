@@ -42,7 +42,7 @@ export default function Nehemiah05() {
           sons, and our daughters, are many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many poor)</span>
+              <span className="explanation">(many poor)</span>
             </span>
           </span>
           : therefore we take up corn for them, that we may eat, and live{" "}
@@ -148,7 +148,7 @@ export default function Nehemiah05() {
           exact usury{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ruinous interest)</span>
+              <span className="explanation">(ruinous interest)</span>
             </span>
           </span>
           , every one of his brother. And I set a great assembly against them{" "}
@@ -280,7 +280,7 @@ export default function Nehemiah05() {
           <sup className="calibre7">13</sup>Also I shook my lap{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Jewish custom)</span>
+              <span className="explanation">(a Jewish custom)</span>
             </span>
           </span>
           , and said, So God shake out every man from his house, and from his
@@ -298,7 +298,7 @@ export default function Nehemiah05() {
           people did according to this promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the nobles obeyed!)</span>
+              <span className="explanation">(the nobles obeyed!)</span>
             </span>
           </span>
           .

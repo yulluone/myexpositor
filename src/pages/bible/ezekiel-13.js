@@ -23,7 +23,7 @@ export default function Ezekiel13() {
           out of their own hearts, Hear you the Word of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as there were false prophets and prophetesses in Jerusalem,
                 there were such among the Exiles, as well! The Holy Spirit will
                 now direct His attention to them in no uncertain terms!)
@@ -39,7 +39,7 @@ export default function Ezekiel13() {
           foolish prophets, who follow their own spirit, and have seen nothing!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Who follow their own spirit, means that they did
                 not follow the Holy Spirit. They preached what the people wished
                 to hear, in this case a speedy restoration to the Land of
@@ -55,7 +55,7 @@ export default function Ezekiel13() {
           foxes in the deserts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Foxes made their homes in the desert among ruins. The false
                 prophets likewise made financial profit out of the ruin of
                 Israel, and, in effect, made that ruin worse.)
@@ -71,7 +71,7 @@ export default function Ezekiel13() {
           battle in the day of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These foolish prophets made merchandise of the time by telling
                 the people a lie instead of the truth. They made them feel
                 comfortable in their sins, and further told them that peace and
@@ -90,7 +90,7 @@ export default function Ezekiel13() {
           they have made others to hope that they would confirm the word.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, They have seen vanity and lying divination, means
                 that they have believed their own lies and have tried to confirm
                 their own predictions. They did so by claiming, The LORD says,
@@ -108,7 +108,7 @@ export default function Ezekiel13() {
           it; albeit I have not spoken?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord called the utterances of these false prophets a vain
                 vision and lying divinations. Regrettably, it is the same
                 presently in the modern Church. False prophets abound!)
@@ -124,7 +124,7 @@ export default function Ezekiel13() {
           against you, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word vanity means empty nothings, which constituted the
                 messages of these individuals. As well, they saw lies, because
                 they did not see the Word of God.)
@@ -142,7 +142,7 @@ export default function Ezekiel13() {
           and you shall know that I am the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Judgment denounced against these prophets was that on the
                 restoration of Israel, which would ultimately come to pass, they
                 shall be excluded from the Church and people and the Land of
@@ -160,7 +160,7 @@ export default function Ezekiel13() {
           built up a wall, and, lo, others daubed it with untempered morter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is a seduction about false doctrine, because it tells the
                 people what they want to hear instead of what they need to hear)
               </span>
@@ -177,7 +177,7 @@ export default function Ezekiel13() {
           shall rend it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ said that the storms are coming, and only the house that
                 is built on the Rock will stand. Quite possibly, Christ had this
                 very Passage in mind when He uttered His Words in Mat., Chpt.{" "}
@@ -201,7 +201,7 @@ export default function Ezekiel13() {
           daubed it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The false message of peace given by the false prophets was
                 likened to a wall that was built with untempered mortar, which
                 has to do with mortar that will not hold the stones together; it
@@ -223,7 +223,7 @@ export default function Ezekiel13() {
           consume it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The thoughts of the Lord regarding these false prophets can be
                 summed up in the word used twice in this Verse: fury!)
               </span>
@@ -240,7 +240,7 @@ export default function Ezekiel13() {
           shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mud-house then and the mud-house now are both built by
                 those who do not desire to obey God or His Word; they are being
                 whitened, falsely so, by modern Preachers.)
@@ -256,7 +256,7 @@ export default function Ezekiel13() {
           will say unto you, The wall is no more, neither they who daubed it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Thus will I accomplish My wrath upon the wall,
                 refers to Gods Anger against all that is false)
               </span>
@@ -272,7 +272,7 @@ export default function Ezekiel13() {
           and there is no peace, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As far as is known, at least at this time, Jeremiah and Ezekiel
                 were the only two Prophets being used of God concerning the fate
                 of Judah and Jerusalem. Daniel was being used mightily at this
@@ -294,7 +294,7 @@ export default function Ezekiel13() {
           own heart; and prophesy you against them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In addition to the false prophets, there were false
                 prophetesses. Ezekiel was told, Prophesy against them. In the
                 modern Church that is a no-no. But according to the Word of God,
@@ -312,7 +312,7 @@ export default function Ezekiel13() {
           People, and will you save the souls alive who come unto you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wall of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9165848">
                   <span className="calibre_19">
@@ -342,7 +342,7 @@ export default function Ezekiel13() {
           live, by your lying to My People who hear your lies?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that false prophetesses were selling
                 out cheap, i.e., handfuls of barley and pieces of bread.
                 However, irrespective of the amount of money, fame, or
@@ -365,7 +365,7 @@ export default function Ezekiel13() {
           the souls go, even the souls that you hunt to make them fly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To make them fly, refers to making their hearers fly into their
                 nets of bondage so that they might plunder them. And I will tear
                 them from your arms, and will let the souls go, refers to the
@@ -399,7 +399,7 @@ export default function Ezekiel13() {
           hand to be hunted; and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that even though the people have been
                 deceived by these false prophets and prophetesses, yet the Lord
                 has promised to so move and deliver My People out of your hand.
@@ -418,7 +418,7 @@ export default function Ezekiel13() {
           way, by promising him life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the heart of Ezekiel was saddened greatly by the false message
                 of these individuals who strengthened the hands of the wicked by
                 promising them eternal life without them having to forsake their
@@ -437,7 +437,7 @@ export default function Ezekiel13() {
           your hand: and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was certainly accomplished by the few who were delivered
                 when Judah and Jerusalem were destroyed. Still, its total
                 fulfillment awaits a future date.)

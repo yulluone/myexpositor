@@ -18,7 +18,7 @@ export default function Chronicles106() {
           and Merari{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these three sons of Levi represented the three branches of the
                 Levites, who were responsible for various services to the
                 Tabernacle, and then to the Temple)
@@ -215,13 +215,13 @@ export default function Chronicles106() {
           over the service of song in the House of the LORD, after that the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ark of the Covenant)</span>
+              <span className="explanation">(Ark of the Covenant)</span>
             </span>
           </span>{" "}
           had rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great part that music plays in worship, by and large, had
                 its beginning with David and the choirs)
               </span>
@@ -238,7 +238,7 @@ export default function Chronicles106() {
           they waited on their office according to their order.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is said that often, with some saying that it occurred every
                 day, the various choirs, under three lead singers [Heman, Asaph,
                 and Ethan], gathered at the site where the Temple would be
@@ -371,7 +371,7 @@ export default function Chronicles106() {
           had commanded.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Only the Priests were allowed to do this work, not the kings or
                 Prophets, unless they were of the Tribe of Levi. Kings were
                 never of this Tribe, being of the Tribe of Judah, but sometimes

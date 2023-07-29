@@ -19,7 +19,7 @@ export default function Exodus10() {
           servants, that I might show these My Signs before him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God used the stubbornness of the Monarch to reveal His Power;
                 as shown here in Pharaoh, if a person wills resistance to God,
                 the Lord Wills the ability to resist even more; if they will
@@ -46,7 +46,7 @@ export default function Exodus10() {
           I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God would do such great things in this situation that even the
                 Holy Spirit would constantly speak of this particular time in
                 the centuries that followed. The Psalms proclaimed this fact
@@ -136,7 +136,7 @@ export default function Exodus10() {
           go, that they may serve Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the seventh and final time that God would make this
                 demand. This Verse also presents the great question that God
                 ever asks the human family, How long will you refuse to humble
@@ -152,7 +152,7 @@ export default function Exodus10() {
           go, behold, tomorrow will I bring the locusts into your coast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the god Serapis was believed by the Egyptians to protect them
                 from the locusts; this eighth plague struck at that belief)
               </span>
@@ -169,7 +169,7 @@ export default function Exodus10() {
           hail, and shall eat every tree which grows for you out of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, Egypt, for all practical purposes, would be
                 completely destroyed)
               </span>
@@ -186,13 +186,13 @@ export default function Exodus10() {
           the day that they were upon the Earth unto this day. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           turned himself, and went out from Pharaoh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, Moses didnt even wait for a response from
                 Pharaoh)
               </span>
@@ -209,7 +209,7 @@ export default function Exodus10() {
           destroyed?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims, for the first time, that Pharaohs
                 officers intervened and requested Pharaoh to yield.)
               </span>
@@ -224,7 +224,7 @@ export default function Exodus10() {
           God: but who are they who shall go?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There was no reason for this question, considering that the
                 demand had been very clear in the past; everyone who pertained
                 to Israel would go.)
@@ -241,7 +241,7 @@ export default function Exodus10() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every Believer should ask for, and claim, the Salvation of the
                 entirety of his family, excluding none.)
               </span>
@@ -254,14 +254,14 @@ export default function Exodus10() {
           <sup className="calibre7">10</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaoh)</span>
+              <span className="explanation">(Pharaoh)</span>
             </span>
           </span>{" "}
           said unto the them, Let the LORD be so with you, as I will let you go,
           and your little ones: look to it; for evil is before you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, Pharaoh, who concludes himself to be a god, pits
                 himself against Jehovah. What a foolish move it would prove to
                 be! The evil was not before Moses and Aaron, but before
@@ -277,7 +277,7 @@ export default function Exodus10() {
           serve the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the third compromise is proposed by Pharaoh; he will let the
                 men go to offer Sacrifice unto the Lord, but not the wives and
                 children)
@@ -288,7 +288,7 @@ export default function Exodus10() {
           presence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dismissed with hostility)</span>
+              <span className="explanation">(dismissed with hostility)</span>
             </span>
           </span>
         </span>
@@ -302,7 +302,7 @@ export default function Exodus10() {
           land, even all that the hail has left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mercy rejected, always and without exception, brings Judgment)
               </span>
             </span>
@@ -318,7 +318,7 @@ export default function Exodus10() {
           east wind brought the locusts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wind blowing from the east all that day and all that night
                 should have been a warning to Pharaoh; however, and as stated,
                 he who wills resistance to God has resistance willed to him by
@@ -337,7 +337,7 @@ export default function Exodus10() {
           after them shall be such.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the locusts had finished, there would not be a green thing
                 left in Egypt. Such portrays the terrible devastation of sin.)
               </span>
@@ -354,7 +354,7 @@ export default function Exodus10() {
           herbs of the field, through all the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the officers of Pharaoh thought that Egypt was destroyed [
                 <ScrollLink href="/" scrollToId="#filepos802316">
                   <span className="calibre_19">
@@ -376,7 +376,7 @@ export default function Exodus10() {
           and against you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How many hours or days the locusts plagued Egypt before Pharaoh
                 sent for Moses and Aaron, we arent told; however, it was
                 probably only a few hours when Moses and Aaron were hastily
@@ -396,7 +396,7 @@ export default function Exodus10() {
           away from me this death only.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Monarch said the right words; however, once again, his
                 confession was a shallow-mouthed confession. The only answer for
                 sin is the Cross of Christ.)
@@ -410,13 +410,13 @@ export default function Exodus10() {
           <sup className="calibre7">18</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           went out from Pharaoh, and intreated{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(requested of)</span>
+              <span className="explanation">(requested of)</span>
             </span>
           </span>{" "}
           the LORD.
@@ -429,7 +429,7 @@ export default function Exodus10() {
           Sea; there remained not one locust in all the coasts of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord removed all the locusts, which were destroying
                 Egypt, likewise, He can remove all sin and its effects. The
                 requirement is that we fully trust Christ and what He has done
@@ -453,7 +453,7 @@ export default function Exodus10() {
           heart, so that he would not let the Children of Israel go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again we state, he who wills resistance against the Lord is
                 willed more resistance by the Lord.)
               </span>
@@ -471,7 +471,7 @@ export default function Exodus10() {
           the land of Egypt, even darkness which may be felt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the ninth plague, and it robs the Egyptians of their
                 supreme god, the Sun, and proved Jehovah Alone to be God. The
                 Sun was worshipped by the Egyptians under the title of Ra. In
@@ -490,7 +490,7 @@ export default function Exodus10() {
           three days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses stretching his hands toward Heaven signified that God was
                 in complete and full charge, and not man; whatever man may say
                 or do, Heaven will always have the final word)
@@ -507,7 +507,7 @@ export default function Exodus10() {
           had light in their dwellings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In Goshen, there was light. This was literal; however, it was,
                 as well, meant by the Holy Spirit to symbolize the spiritual
                 light which the Children of Israel did have, and which the
@@ -524,7 +524,7 @@ export default function Exodus10() {
           stayed: let your little ones also go with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the fourth proposal by Pharaoh of compromise: A. Go
                 ye, sacrifice to your God in the land{" "}
                 <ScrollLink href="/exodus-08" scrollToId="#filepos777502">
@@ -573,7 +573,7 @@ export default function Exodus10() {
           LORD our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses turns down flat this offer by Pharaoh, and further
                 demands that Pharaoh provide them with sheep for the Burnt
                 Offerings.)
@@ -588,7 +588,7 @@ export default function Exodus10() {
           there shall not a hoof be left behind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Believer should not allow Satan to have any part of ones
                 possessions)
               </span>
@@ -598,7 +598,7 @@ export default function Exodus10() {
           with what we must serve the LORD, until we come thither.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement of this Verse points to a lesson true at all
                 times. The second step in the spiritual life is not revealed
                 until the first is taken [
@@ -629,7 +629,7 @@ export default function Exodus10() {
           you see my face you shall die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reply of Pharaoh indicates violent anger.)
               </span>
             </span>
@@ -642,7 +642,7 @@ export default function Exodus10() {
           well, I will see your face again no more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is generally believed that Moses did not leave out of the
                 presence of Pharaoh with these particular words, but continued
                 to address the Monarch for some little time, actually his

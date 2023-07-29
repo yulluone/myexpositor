@@ -97,7 +97,7 @@ export default function Matthew02() {
           <sup className="calibre7">7</sup>Then Herod, when he had privily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(privately)</span>
+              <span className="explanation">(privately)</span>
             </span>
           </span>{" "}
           called the Wise men, inquired of them diligently what time the star
@@ -137,7 +137,7 @@ export default function Matthew02() {
           <sup className="calibre7">10</sup>When they saw the star{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where the star stopped)</span>
+              <span className="explanation">(where the star stopped)</span>
             </span>
           </span>
           , they rejoiced with exceeding great joy.
@@ -328,7 +328,7 @@ export default function Matthew02() {
           Prophets, He shall be called a Nazarene{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the word Nazarene</span>
+              <span className="explanation">(the word Nazarene</span>
             </span>
             <span>
               <span className="calibre_19">

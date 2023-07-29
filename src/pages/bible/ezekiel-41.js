@@ -18,7 +18,7 @@ export default function Ezekiel41() {
           Tabernacle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The massiveness and loftiness of the posts or pillars proclaim
                 the strength and magnificence of the Temple. Six is used for a
                 reason, because it denotes the number of man, and corresponds
@@ -44,7 +44,7 @@ export default function Ezekiel41() {
           forty cubits: and the breadth, twenty cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And the breadth of the Door was ten cubits, refers to the Door
                 that led into the Holy Place, which was fifteen feet wide. This
                 corresponds again to Jesus as the Door [
@@ -69,7 +69,7 @@ export default function Ezekiel41() {
           breadth of the Door, seven cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Then went He inward, speaks of the Most Holy Place,
                 which was situated immediately behind the Holy Place. No one but
                 the High Priest could go into the Most Holy Place, and that was
@@ -102,7 +102,7 @@ export default function Ezekiel41() {
           He said unto me, This is the Most Holy Place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Most Holy Place was the place where the Ark of the Covenant
                 was kept in the Tabernacle and in Solomons Temple. Actually, the
                 dimensions were the same as Solomons Temple: thirty feet long
@@ -162,7 +162,7 @@ export default function Ezekiel41() {
           round about the House on every side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wall of this House will be six cubits, or nine feet, thick.
                 The massive thickness of the wall will no doubt serve as a
                 symbol of strength and indestructibility concerning Christ as
@@ -190,7 +190,7 @@ export default function Ezekiel41() {
           lowest Chamber to the highest by the midst.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The width of the wall for the first story was 7 feet, whereas
                 this was diminished to 6 feet for the second story, and to 4
                 feet for the third story.)
@@ -206,7 +206,7 @@ export default function Ezekiel41() {
           six great cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The foundations of these Chambers were 9 feet thick,
                 constituting a firm foundation.)
               </span>
@@ -221,7 +221,7 @@ export default function Ezekiel41() {
           was the place of the side Chambers that were within.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The symbolism is here intended to convey the Spiritual Message
                 desired: in this case, the firm foundation of our Spiritual
                 Experience in Christ, along with the firm walls denoting the
@@ -254,7 +254,7 @@ export default function Ezekiel41() {
           the length thereof ninety cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This building was a separate place, or structure, which was
                 built behind the Temple on the west, which was marked off from
                 the rest of the ground on which the Temple, with its Courts and
@@ -294,7 +294,7 @@ export default function Ezekiel41() {
           House, and of the separate place toward the east, an hundred cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which is instituted, even though it would contain some of
                 the trappings of the Mosaic Law, still, is carried forth mostly
                 as a symbol or memorial that men never forget what Christ did at
@@ -330,7 +330,7 @@ export default function Ezekiel41() {
           and without, by measure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These three-storied Houses, as the Palace itself, will be
                 finished off with wooden wainscotting ornamented with Cherubims
                 and Palm Trees. The wood, no doubt, typified the Incarnation of
@@ -348,7 +348,7 @@ export default function Ezekiel41() {
           every Cherub had two faces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as in Solomons Temple [
                 <ScrollLink href="/kings1-06" scrollToId="#filepos3765036">
                   <span className="calibre_19">
@@ -377,7 +377,7 @@ export default function Ezekiel41() {
           about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So that the face of a man was toward the Palm Tree on the one
                 side, refers to God becoming Man, The Man Christ Jesus, in order
                 to redeem man and lift the curse.
@@ -413,7 +413,7 @@ export default function Ezekiel41() {
           were Cherubims and Palm Trees made, and on the wall of the Temple.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Throughout the Temple, even unto the Inner House [
                 <ScrollLink href="/" scrollToId="#filepos9631018">
                   <span className="calibre_19">
@@ -435,7 +435,7 @@ export default function Ezekiel41() {
           the appearance of the other.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were squared, which signified the fourfold Gospel of Jesus
                 Christ: Salvation by the Blood, the Baptism with the Holy
                 Spirit, Divine Healing, and the Second Coming of Christ. All
@@ -454,7 +454,7 @@ export default function Ezekiel41() {
           unto me, This is the Table that is before the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is not the Altar of Sacrifice, which sat in the center of
                 the 100-cubit square and in front of the Temple, but instead the
                 Altar of Incense. It is in the Holy Place, immediately in front
@@ -471,7 +471,7 @@ export default function Ezekiel41() {
           two doors.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These doors led to the Holy Place and the Most Holy Place.)
               </span>
             </span>
@@ -493,7 +493,7 @@ export default function Ezekiel41() {
           without.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Solomons Temple also represented the coming Kingdom Age,
                 likewise, this Temple, which is the Kingdom Age, has the same
                 symbols. They stand for Holiness and Harmony.)
@@ -509,7 +509,7 @@ export default function Ezekiel41() {
           Porch, and upon the side Chambers of the House, and thick planks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomons Temple was heavily ornamented with gold, whereas such
                 is not present in the Kingdom Temple, because Christ, which the
                 gold represented, is now present; therefore, the gold is no

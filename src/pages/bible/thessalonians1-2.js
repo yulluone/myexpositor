@@ -50,7 +50,7 @@ export default function Thessalonians12() {
           , and to comfort you con cerning your Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(suggests encouragement)</span>
+              <span className="explanation">(suggests encouragement)</span>
             </span>
           </span>
           :
@@ -218,7 +218,7 @@ export default function Thessalonians12() {
           <sup className="calibre7">8</sup>For now we live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(are comforted)</span>
+              <span className="explanation">(are comforted)</span>
             </span>
           </span>
           , if you stand fast in the Lord.{" "}

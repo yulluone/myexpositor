@@ -18,7 +18,7 @@ export default function Genesis07() {
           thou and all your house into the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Epistle to the Hebrews states that Noah prepared this Ark
                 because he believed the Divine warning; as well, the word Come,
                 as used by the Lord, presents the fact that God is the first One
@@ -30,7 +30,7 @@ export default function Genesis07() {
           ; for you have I seen righteous before Me in this generation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Noahs Faith in the coming Redeemer, for that is the
                 only Faith that God will recognize; Paul wrote of him: And
                 became heir of the Righteousness which is by Faith [
@@ -65,7 +65,7 @@ export default function Genesis07() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is not a reference to the Levitical Law, for that would
                 not be given for another 900 years; probably the clean animals
                 mentioned were such as from the days of Adam and Abel, as had
@@ -84,7 +84,7 @@ export default function Genesis07() {
           it to rain upon the Earth forty days and forty nights{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the command to enter the Ark was given a week before the rains
                 would begin and rain such as the world had never known)
               </span>
@@ -100,7 +100,7 @@ export default function Genesis07() {
           the LORD commanded him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the second time that the Holy Spirit through Moses
                 speaks of Noahs obedience)
               </span>
@@ -118,7 +118,7 @@ export default function Genesis07() {
           when the flood of waters was upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse proves that the 120 years of{" "}
                 <ScrollLink href="/genesis-06" scrollToId="#filepos93417">
                   <span className="calibre_19">
@@ -146,7 +146,7 @@ export default function Genesis07() {
           waters of the flood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning this time, Paul said in{" "}
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14557759">
                   <span className="calibre_19">
@@ -176,7 +176,7 @@ export default function Genesis07() {
           into the Ark, the male and the female, as God had commanded Noah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing short of Divine power could have effected such a timely
                 and orderly entrance of the creatures into this huge vessel)
               </span>
@@ -191,7 +191,7 @@ export default function Genesis07() {
           days, that the waters of the flood were upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that which Noah had preached for a number of years was now a
                 reality)
               </span>
@@ -208,7 +208,7 @@ export default function Genesis07() {
           windows of heaven were opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the water came from above and from below; as well, it is
                 believed by some Scientists, and rightly so, that the waters
                 came with such force from the Earth, that it would have taken
@@ -226,7 +226,7 @@ export default function Genesis07() {
           forty days and forty nights{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the literal Hebrew translation is, And there was violent
                 rain...)
               </span>
@@ -242,7 +242,7 @@ export default function Genesis07() {
           the three wives of his sons with them, into the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on the day the rains began, Noah and his family entered the
                 Ark)
               </span>
@@ -265,7 +265,7 @@ export default function Genesis07() {
           Ark, two and two of all flesh, wherein is the breath of life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord gave these animals the instinct to do what they did)
               </span>
             </span>
@@ -280,7 +280,7 @@ export default function Genesis07() {
           him in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the contrast between the two names of the Deity is most vividly
                 presented here; in this one Verse, both God and LORD are used.
                 It is Elohim Who commands Noah about the beasts; it is Jehovah,
@@ -300,7 +300,7 @@ export default function Genesis07() {
           lift up above the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wherever it was that Noah built the Ark, the flood waters
                 reached it, and it began to float)
               </span>
@@ -316,7 +316,7 @@ export default function Genesis07() {
           the waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably pertains to the fact that the scoffers flattered
                 themselves that it would abate, and never come to extremity; but
                 still it increased, and prevailed)
@@ -333,7 +333,7 @@ export default function Genesis07() {
           heaven, were covered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who dwelt upon the tops of the loftiest mountains
                 perished equally with those who lived in the deepest valleys;
                 there was no difference; many who live upon the mountains of
@@ -351,13 +351,13 @@ export default function Genesis07() {
           <sup className="calibre7">20</sup>Fifteen cubits upward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(above the highest mountains)</span>
+              <span className="explanation">(above the highest mountains)</span>
             </span>
           </span>{" "}
           did the waters prevail; and the mountains were covered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many Scholars believe that before the flood the tallest
                 mountain in the world was approximately 10,000 feet or less; the
                 great deep being broken up changed much of the topography of the
@@ -376,7 +376,7 @@ export default function Genesis07() {
           creeping thing that creeps upon the Earth, and every man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fish were not destroyed)</span>
+              <span className="explanation">(the fish were not destroyed)</span>
             </span>
           </span>
           :
@@ -388,7 +388,7 @@ export default function Genesis07() {
           of life, of all that was in the dry land, died{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not one wave of that judgment reached Noah; he was absolutely
                 safe; Noah could not perish because the Ark could not perish;
                 the Ark could not perish because Jehovah was in the Ark; in
@@ -409,7 +409,7 @@ export default function Genesis07() {
           were with him in the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only those who are in Christ are saved. There are no exceptions
                 [
                 <ScrollLink href="/john-03" scrollToId="#filepos12332060">

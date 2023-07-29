@@ -101,7 +101,7 @@ export default function Luke12() {
           shall fear: Fear Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>
           , which after He has killed{" "}
@@ -140,7 +140,9 @@ export default function Luke12() {
           farthings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an insignificant transaction)</span>
+              <span className="explanation">
+                (an insignificant transaction)
+              </span>
             </span>
           </span>
           , and not one of them is forgotten before God?{" "}
@@ -263,7 +265,7 @@ export default function Luke12() {
           magistrates, and powers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(officials)</span>
+              <span className="explanation">(officials)</span>
             </span>
           </span>
           , take you no thought how or what thing you shall answer, or what you
@@ -545,14 +547,16 @@ export default function Luke12() {
           <sup className="calibre7">24</sup>Consider the ravens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an unclean fowl)</span>
+              <span className="explanation">(an unclean fowl)</span>
             </span>
           </span>
           : for they neither sow nor reap; which neither have storehouse nor
           barn; and God feeds them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no matter how lowly they are)</span>
+              <span className="explanation">
+                (no matter how lowly they are)
+              </span>
             </span>
           </span>
           : how much more are you better than the fowls?{" "}
@@ -571,7 +575,7 @@ export default function Luke12() {
           <sup className="calibre7">25</sup>And which of you with taking thought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by worry)</span>
+              <span className="explanation">(by worry)</span>
             </span>
           </span>{" "}
           can add to his stature one cubit?{" "}
@@ -772,7 +776,7 @@ export default function Luke12() {
           that fails not, where no thief approaches, neither moth corrupts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lay up treasures in Heaven)</span>
+              <span className="explanation">(lay up treasures in Heaven)</span>
             </span>
           </span>
           .
@@ -868,7 +872,7 @@ export default function Luke12() {
           : verily I say unto you, that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           shall gird Himself, and make them to sit down to meat, and will come
@@ -890,13 +894,13 @@ export default function Luke12() {
           watch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 p.m. to 12 midnight)</span>
+              <span className="explanation">(9 p.m. to 12 midnight)</span>
             </span>
           </span>
           , or come in the third watch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(12 midnight till 3 a.m.)</span>
+              <span className="explanation">(12 midnight till 3 a.m.)</span>
             </span>
           </span>
           , and find{" "}
@@ -1142,7 +1146,7 @@ export default function Luke12() {
           neither did according to His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods)</span>
+              <span className="explanation">(Gods)</span>
             </span>
           </span>{" "}
           will, shall be beaten with many{" "}
@@ -1233,7 +1237,7 @@ export default function Luke12() {
           ; and how am I straitened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pressed)</span>
+              <span className="explanation">(pressed)</span>
             </span>
           </span>{" "}
           till it be accomplished!
@@ -1396,25 +1400,25 @@ export default function Luke12() {
           ; lest He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           hale you to the Judge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>
           , and the Judge deliver you to the officer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angels)</span>
+              <span className="explanation">(the Angels)</span>
             </span>
           </span>
           , and the officer cast you into prison{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(into Hell)</span>
+              <span className="explanation">(into Hell)</span>
             </span>
           </span>
           .

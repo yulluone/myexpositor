@@ -17,7 +17,7 @@ export default function Esther02() {
           done, and what was decreed against her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea seems to be that the king somewhat regretted what he
                 had done concerning Vashti; however, the die was now cast, and
                 he must follow through)
@@ -60,7 +60,7 @@ export default function Esther02() {
           Shimei, the son of Kish, a Benjamite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mordecai was with Nehemiah, an exile in Shushan; he held a high
                 position in the palace; at the same time, Daniel was exiled in
                 Babylon, about 200 miles due west of Shushan, with Ezekiel
@@ -80,7 +80,7 @@ export default function Esther02() {
           away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the second deportation, which took place in 597 B.C.
                 The first deportation took place in 605 B.C., when Daniel was
                 deported. The third deportation took place in 586 B.C., and
@@ -96,25 +96,25 @@ export default function Esther02() {
           <sup className="calibre7">7</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Mordecai)</span>
+              <span className="explanation">(Mordecai)</span>
             </span>
           </span>{" "}
           brought up Hadassah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(her Hebrew name)</span>
+              <span className="explanation">(her Hebrew name)</span>
             </span>
           </span>
           , that is, Esther{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(her Persian name)</span>
+              <span className="explanation">(her Persian name)</span>
             </span>
           </span>
           , his uncles daughter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his own first cousin, but probably much younger than he)
               </span>
             </span>
@@ -124,7 +124,7 @@ export default function Esther02() {
           for his own daughter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not perhaps by a formal adoption, but by taking her to live
                 with him, and treating her as if she had been his own child;
                 from this, we know that the man was kindly and benevolent)
@@ -141,7 +141,7 @@ export default function Esther02() {
           gathered together unto Shushan the palace, to the custody of Hegai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who was in charge of all of this)
               </span>
             </span>
@@ -150,7 +150,7 @@ export default function Esther02() {
           the Hegai, keeper of the women{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, because of her beauty, she was chosen among many
                 others as a possible choice to be the new queen)
               </span>
@@ -164,7 +164,7 @@ export default function Esther02() {
           <sup className="calibre7">9</sup>And the maiden pleased him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hegai)</span>
+              <span className="explanation">(Hegai)</span>
             </span>
           </span>
           , and she obtained kindness of him; and he speedily gave her her
@@ -172,14 +172,14 @@ export default function Esther02() {
           seven maidens, which were meet to be given her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as attendants)</span>
+              <span className="explanation">(as attendants)</span>
             </span>
           </span>
           , out of the kings house: and he preferred her and her maids unto the
           best place of the house of the women{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she obtained the favor of this man, which no doubt was all
                 guided by the Lord)
               </span>
@@ -194,7 +194,7 @@ export default function Esther02() {
           her kindred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had not divulged that she was Jewish)
               </span>
             </span>
@@ -202,7 +202,7 @@ export default function Esther02() {
           : for Mordecai had charged her that she should not show it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of possible prejudice)
               </span>
             </span>
@@ -246,7 +246,7 @@ export default function Esther02() {
           house of the women unto the kings house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (any maiden was entitled to demand anything that she liked, in
                 the way of dress or ornaments, and it had to be given her, so
                 she might look her best, or what she thought was her best)
@@ -265,7 +265,7 @@ export default function Esther02() {
           that she were called by name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a ritual which was incumbent upon each woman)
               </span>
             </span>
@@ -281,7 +281,7 @@ export default function Esther02() {
           what Hegai the kings chamberlain, the keeper of the women, appointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esther would not trust to ostentatious dress or ornaments, but
                 would leave it up to Hegai as to what she should wear, which
                 evidently portrayed her natural beauty)
@@ -292,7 +292,7 @@ export default function Esther02() {
           her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she stood out above all the rest)
               </span>
             </span>
@@ -307,7 +307,7 @@ export default function Esther02() {
           Tebeth, in the seventh year of his reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/esther-01" scrollToId="#filepos5269753">
                   <span className="calibre_19">
@@ -333,7 +333,7 @@ export default function Esther02() {
           made her queen instead of Vashti.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus, in the providence of God, and by His overruling of human
                 folly, Esther was seated upon the throne at the very time that
                 Satan made a supreme effort to destroy every member of the Tribe
@@ -373,13 +373,13 @@ export default function Esther02() {
           unto all his princes and his servants, even Esthers feast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in her honor)</span>
+              <span className="explanation">(in her honor)</span>
             </span>
           </span>
           ; and he made a release to the provinces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (relaxation from taxes for a short period of time)
               </span>
             </span>
@@ -387,7 +387,7 @@ export default function Esther02() {
           , and gave gifts, according to the state of the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in celebration of his new queen)
               </span>
             </span>
@@ -404,7 +404,7 @@ export default function Esther02() {
           together the second time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, some type of Persian ritual)
               </span>
             </span>
@@ -412,7 +412,7 @@ export default function Esther02() {
           , then Mordecai sat in the kings gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying place, position, and authority, all in the realm of
                 government)
               </span>
@@ -427,7 +427,7 @@ export default function Esther02() {
           nor her people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (none knew that she was Jewish)
               </span>
             </span>
@@ -436,7 +436,7 @@ export default function Esther02() {
           Mordecai, like as when she was brought up with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite the fact that she was now queen, she still heeded the
                 counsel of Mordecai, as always, and rightly so!)
               </span>
@@ -452,7 +452,7 @@ export default function Esther02() {
           those which kept the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a position of the highest possible trust)
               </span>
             </span>
@@ -465,7 +465,7 @@ export default function Esther02() {
           <sup className="calibre7">22</sup>And the thing was known to Mordecai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephus says that a certain man by the name of Pharnabazus, a
                 slave of one of the conspirators, betrayed them to Mordecai)
               </span>
@@ -475,7 +475,7 @@ export default function Esther02() {
           thereof in Mordecais name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esther revealed to the king that Mordecai had relayed to her
                 this information, which would save the kings life)
               </span>
@@ -490,13 +490,13 @@ export default function Esther02() {
           matter, it was found out; therefore they were both hanged on a tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Bigthan and Teresh)</span>
+              <span className="explanation">(Bigthan and Teresh)</span>
             </span>
           </span>
           : and it was written in the book of the chronicles before the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and so the kings life was saved because of Mordecai and Esther)
               </span>
             </span>

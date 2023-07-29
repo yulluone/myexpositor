@@ -67,7 +67,7 @@ export default function Matthew17() {
           , and His Raiment was white as the light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the light made it white)</span>
+              <span className="explanation">(the light made it white)</span>
             </span>
           </span>
           .
@@ -269,7 +269,7 @@ export default function Matthew17() {
           mountain, Jesus charged them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Commanded them)</span>
+              <span className="explanation">(Commanded them)</span>
             </span>
           </span>
           , saying, Tell the Vision to no man, until the Son of Man be risen
@@ -454,7 +454,7 @@ export default function Matthew17() {
           multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the foot of the mountain)</span>
+              <span className="explanation">(to the foot of the mountain)</span>
             </span>
           </span>
           , there came to Him a{" "}
@@ -473,7 +473,7 @@ export default function Matthew17() {
           often into the water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(caused by a demon spirit)</span>
+              <span className="explanation">(caused by a demon spirit)</span>
             </span>
           </span>
           .
@@ -499,7 +499,7 @@ export default function Matthew17() {
           faithless and perverse generation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wrong direction)</span>
+              <span className="explanation">(wrong direction)</span>
             </span>
           </span>
           , how long shall I be with you? how long shall I suffer you?{" "}
@@ -518,7 +518,7 @@ export default function Matthew17() {
           <sup className="calibre7">18</sup>And Jesus rebuked the devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>
           ; and he departed out of him: and the child was cured from that very
@@ -542,7 +542,7 @@ export default function Matthew17() {
           apart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(privately)</span>
+              <span className="explanation">(privately)</span>
             </span>
           </span>
           , and said, Why could not we cast him out?
@@ -570,7 +570,9 @@ export default function Matthew17() {
           it shall remove{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the impossible made possible)</span>
+              <span className="explanation">
+                (the impossible made possible)
+              </span>
             </span>
           </span>
           ; and nothing shall be impossible unto you{" "}
@@ -655,7 +657,7 @@ export default function Matthew17() {
           , and the third day He shall be raised again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Resurrection)</span>
+              <span className="explanation">(Resurrection)</span>
             </span>
           </span>
           . And they were exceeding sorry{" "}
@@ -705,13 +707,13 @@ export default function Matthew17() {
           <sup className="calibre7">25</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>{" "}
           said, Yes. And when he was come into the house, Jesus prevented{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(confronted)</span>
+              <span className="explanation">(confronted)</span>
             </span>
           </span>{" "}
           him, saying, What do you think, Simon?{" "}
@@ -727,7 +729,7 @@ export default function Matthew17() {
           children, or of strangers?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Assumes the answer.)</span>
+              <span className="explanation">(Assumes the answer.)</span>
             </span>
           </span>
         </span>
@@ -737,7 +739,7 @@ export default function Matthew17() {
           <sup className="calibre7">26</sup>Peter said unto him, Of strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the correct answer)</span>
+              <span className="explanation">(the correct answer)</span>
             </span>
           </span>
           . Jesus said unto him, Then are the children free{" "}
@@ -767,7 +769,7 @@ export default function Matthew17() {
           , go thou to the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Galilee)</span>
+              <span className="explanation">(Galilee)</span>
             </span>
           </span>
           , and cast an hook, and take up the fish that first comes up; and when

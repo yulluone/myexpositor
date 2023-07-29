@@ -220,7 +220,7 @@ export default function Revelation07() {
           sealed twelve thousand. Of the Tribe of Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ephraim)</span>
+              <span className="explanation">(Ephraim)</span>
             </span>
             <span>
               <span className="calibre_19">were</span>
@@ -302,7 +302,7 @@ export default function Revelation07() {
           <sup className="calibre7">10</sup>And cried with a loud voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims great joy)</span>
+              <span className="explanation">(proclaims great joy)</span>
             </span>
           </span>
           , saying, Salvation to our God which sits upon the Throne, and unto
@@ -402,7 +402,7 @@ export default function Revelation07() {
           and whence came they?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Where do they come from?)</span>
+              <span className="explanation">(Where do they come from?)</span>
             </span>
           </span>
         </span>
@@ -421,7 +421,7 @@ export default function Revelation07() {
           tribulation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to a specific group)</span>
+              <span className="explanation">(refers to a specific group)</span>
             </span>
           </span>
           , and have washed their robes, and made them white in the Blood of the

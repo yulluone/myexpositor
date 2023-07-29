@@ -54,7 +54,7 @@ export default function John11() {
           , the town of Mary and her sister Martha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sisters of Lazarus)</span>
+              <span className="explanation">(the sisters of Lazarus)</span>
             </span>
           </span>
           .
@@ -147,7 +147,7 @@ export default function John11() {
           <sup className="calibre7">6</sup>When He had heard therefore that he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lazarus)</span>
+              <span className="explanation">(Lazarus)</span>
             </span>
           </span>{" "}
           was sick{" "}
@@ -393,7 +393,7 @@ export default function John11() {
           he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lazarus)</span>
+              <span className="explanation">(Lazarus)</span>
             </span>
           </span>{" "}
           had{" "}

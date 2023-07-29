@@ -40,7 +40,7 @@ export default function John18() {
           , where was a garden, into the which He en tered, and His Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(spoke of Gethsemane)</span>
+              <span className="explanation">(spoke of Gethsemane)</span>
             </span>
           </span>
           .
@@ -518,7 +518,7 @@ export default function John18() {
           ; and in secret have I said nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there was no sedition)</span>
+              <span className="explanation">(there was no sedition)</span>
             </span>
           </span>
           .
@@ -662,7 +662,7 @@ export default function John18() {
           and said, I am not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the second denial)</span>
+              <span className="explanation">(presents the second denial)</span>
             </span>
           </span>
           .

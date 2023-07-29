@@ -23,7 +23,7 @@ export default function Chronicles225() {
           the sight of the LORD, but not with a perfect heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one might say that he had a divided heart; it would lead to his
                 total ruin!)
               </span>
@@ -48,7 +48,7 @@ export default function Chronicles225() {
           his own sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the beginning of his reign, it seems that he tried to follow
                 the Bible [
                 <ScrollLink href="/deuteronmy-24" scrollToId="#filepos2352651">
@@ -91,7 +91,7 @@ export default function Chronicles225() {
           is not with Israel, to wit, with all the children of Ephraim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the command is clear)</span>
+              <span className="explanation">(the command is clear)</span>
             </span>
           </span>
         </span>
@@ -102,20 +102,22 @@ export default function Chronicles225() {
           <sup className="calibre7">8</sup>But if you will go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(go with Israel)</span>
+              <span className="explanation">(go with Israel)</span>
             </span>
           </span>
           , do it, be strong for the battle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no matter how strong you are)</span>
+              <span className="explanation">
+                (no matter how strong you are)
+              </span>
             </span>
           </span>
           : God shall make you fall before the enemy: for God has power to help,
           and to cast down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sum of{" "}
                 <ScrollLink href="/" scrollToId="#filepos4899763">
                   <span className="calibre_19">
@@ -149,7 +151,7 @@ export default function Chronicles225() {
           you much more than this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Amaziah was much more concerned about the money
                 lost than obeying God; sadly, this is the concern of most
                 people, even Christians; that which man deems so very important,
@@ -168,7 +170,7 @@ export default function Chronicles225() {
           returned home in great anger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was in anticipation of plunder, which was now denied)
               </span>
             </span>
@@ -191,7 +193,7 @@ export default function Chronicles225() {
           they all were broken in pieces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is little doubt that this is Petra; it seems that he
                 ruthlessly slaughtered 10,000 people)
               </span>
@@ -206,20 +208,20 @@ export default function Chronicles225() {
           Amaziah sent back, that they should not go with him to battle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those from Israel)</span>
+              <span className="explanation">(those from Israel)</span>
             </span>
           </span>
           , fell upon the cities of Judah, from Samaria even unto Beth-horon,
           and smote three thousand of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3,000 people)</span>
+              <span className="explanation">(3,000 people)</span>
             </span>
           </span>
           , and took much spoil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they satisfied their lust for plunder by ravaging Judah)
               </span>
             </span>
@@ -240,7 +242,7 @@ export default function Chronicles225() {
           bowed down himself before them, and burned incense unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(how stupid!)</span>
+              <span className="explanation">(how stupid!)</span>
             </span>
           </span>
         </span>
@@ -252,7 +254,7 @@ export default function Chronicles225() {
           kindled against Amaziah, and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           sent unto him a Prophet, which said unto him, Why have you sought
@@ -260,7 +262,7 @@ export default function Chronicles225() {
           out of your hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How utterly ridiculous! Amaziah will now worship the gods of
                 the people he has just defeated. If they were so great, why
                 didnt these gods help the Edomites? A modern parallel concerns
@@ -276,26 +278,28 @@ export default function Chronicles225() {
           <sup className="calibre7">16</sup>And it came to pass, as he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Prophet)</span>
+              <span className="explanation">(the Prophet)</span>
             </span>
           </span>{" "}
           talked with him, that the king said unto him, Are you made of the
           kings counsel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Are you one of my advisors?)</span>
+              <span className="explanation">(Are you one of my advisors?)</span>
             </span>
           </span>{" "}
           forbear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(desist, away with your words)</span>
+              <span className="explanation">
+                (desist, away with your words)
+              </span>
             </span>
           </span>
           ; why should you be smitten?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, if you keep this up, I will kill you.)
               </span>
             </span>
@@ -303,7 +307,7 @@ export default function Chronicles225() {
           Then the Prophet forbore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (except for one more statement)
               </span>
             </span>
@@ -321,7 +325,7 @@ export default function Chronicles225() {
           advice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (took counsel from some of his advisors)
               </span>
             </span>
@@ -330,7 +334,7 @@ export default function Chronicles225() {
           Israel, saying, Come, let us see one another in the face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a threat!)</span>
+              <span className="explanation">(a threat!)</span>
             </span>
           </span>
         </span>
@@ -345,7 +349,7 @@ export default function Chronicles225() {
           down the thistle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this parable, Joash likens Israel to a cedar, and Judah to a
                 thistle; as well, he likens Israel to a wild beast that will
                 ride roughshod over the thistle, i.e., Judah)
@@ -373,7 +377,7 @@ export default function Chronicles225() {
           enemies, because they sought after the gods of Edom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of idolatry, the Lord is now opposed to Judah)
               </span>
             </span>
@@ -388,7 +392,7 @@ export default function Chronicles225() {
           Judah, at Beth-shemesh, which belongs to Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they went to battle, despite the warning of Joash, the king of
                 Israel)
               </span>
@@ -403,7 +407,7 @@ export default function Chronicles225() {
           before Israel, and they fled every man to his tent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with God against them, Judah couldnt win!)
               </span>
             </span>
@@ -420,7 +424,7 @@ export default function Chronicles225() {
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 600 feet)</span>
+              <span className="explanation">(about 600 feet)</span>
             </span>
           </span>
         </span>
@@ -434,7 +438,7 @@ export default function Chronicles225() {
           and returned to Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Obed-edom was a descendant of the Obed-edom of Davids time [
                 <ScrollLink href="/samuel2-06" scrollToId="#filepos3444787">
                   <span className="calibre_19">
@@ -483,7 +487,7 @@ export default function Chronicles225() {
           him, and killed him there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit will pinpoint the exact time that this
                 happened; now he is at the mercy of Satan)
               </span>
@@ -498,7 +502,7 @@ export default function Chronicles225() {
           and buried him with his fathers in the city of Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the king turned away from the Lord, the Holy Spirit
                 declined to call his burial place by the lofty titles of the
                 city of David or Jerusalem, but instead, called it the city of

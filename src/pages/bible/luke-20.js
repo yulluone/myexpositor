@@ -196,13 +196,13 @@ export default function Luke20() {
           ; A certain man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           planted a Vineyard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>
           , and let it forth to husbandmen{" "}
@@ -259,7 +259,7 @@ export default function Luke20() {
           <sup className="calibre7">11</sup>And again He sent another servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another Prophet)</span>
+              <span className="explanation">(another Prophet)</span>
             </span>
           </span>
           : and they beat him also, and entreated{" "}
@@ -305,7 +305,7 @@ export default function Luke20() {
           I will send My Beloved Son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           : it may be they will reverence{" "}
@@ -453,7 +453,7 @@ export default function Luke20() {
           , The Stone which the builders rejected{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that Stone is Christ)</span>
+              <span className="explanation">(that Stone is Christ)</span>
             </span>
           </span>
           , the same is become the Head of the Corner?{" "}
@@ -549,14 +549,14 @@ export default function Luke20() {
           they might take hold of His words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(how foolish they were)</span>
+              <span className="explanation">(how foolish they were)</span>
             </span>
           </span>
           , that so they might deliver Him unto the power and authority of the
           Governor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pilate)</span>
+              <span className="explanation">(Pilate)</span>
             </span>
           </span>
           .
@@ -785,7 +785,7 @@ export default function Luke20() {
           The children of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this life before death)</span>
+              <span className="explanation">(this life before death)</span>
             </span>
           </span>{" "}
           marry, and are given in marriage{" "}
@@ -846,7 +846,9 @@ export default function Luke20() {
           : for they are equal unto the Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking only of immortality)</span>
+              <span className="explanation">
+                (speaking only of immortality)
+              </span>
             </span>
           </span>
           ; and are the Children of God, being the Children of the Resurrection{" "}

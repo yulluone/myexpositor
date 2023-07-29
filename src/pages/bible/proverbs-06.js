@@ -196,7 +196,7 @@ export default function Proverbs06() {
           <sup className="calibre7">17</sup>A proud look{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pride leads the list)</span>
+              <span className="explanation">(pride leads the list)</span>
             </span>
           </span>
           , a lying tongue{" "}

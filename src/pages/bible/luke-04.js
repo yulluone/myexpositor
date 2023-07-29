@@ -40,7 +40,7 @@ export default function Luke04() {
           returned from Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Water Baptism)</span>
+              <span className="explanation">(His Water Baptism)</span>
             </span>
           </span>
           , and was led by the Spirit into the wilderness{" "}
@@ -333,13 +333,13 @@ export default function Luke04() {
           <sup className="calibre7">9</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           brought Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           to Jerusalem, and set Him on a pinnacle of the Temple{" "}
@@ -354,7 +354,9 @@ export default function Luke04() {
           , and said unto Him, If You be the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since You are the Son of God)</span>
+              <span className="explanation">
+                (since You are the Son of God)
+              </span>
             </span>
           </span>
           , cast Yourself down from hence:
@@ -535,7 +537,7 @@ export default function Luke04() {
           Book{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Scroll)</span>
+              <span className="explanation">(Scroll)</span>
             </span>
           </span>{" "}
           of the Prophet Isaiah. And when He had opened the Book, He found the
@@ -596,7 +598,7 @@ export default function Luke04() {
           to preach the Gospel to the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the poor in spirit)</span>
+              <span className="explanation">(the poor in spirit)</span>
             </span>
           </span>
           ; He has sent Me to heal the brokenhearted{" "}
@@ -765,7 +767,7 @@ export default function Luke04() {
           No Prophet is accepted in his own country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He predicts their unbelief)</span>
+              <span className="explanation">(He predicts their unbelief)</span>
             </span>
           </span>
           .
@@ -814,7 +816,7 @@ export default function Luke04() {
           a widow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she was a Gentile as well)</span>
+              <span className="explanation">(she was a Gentile as well)</span>
             </span>
           </span>
           .
@@ -827,7 +829,7 @@ export default function Luke04() {
           Naaman the Syrian{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another Gentile)</span>
+              <span className="explanation">(another Gentile)</span>
             </span>
           </span>
           .
@@ -909,7 +911,7 @@ export default function Luke04() {
           , and taught them on the Sabbath days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in their Synagogues)</span>
+              <span className="explanation">(in their Synagogues)</span>
             </span>
           </span>
           .
@@ -944,7 +946,7 @@ export default function Luke04() {
           man, which had a spirit of an unclean devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>
           , and cried out with a loud voice{" "}
@@ -1017,7 +1019,7 @@ export default function Luke04() {
           , saying, Hold your peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shut up)</span>
+              <span className="explanation">(shut up)</span>
             </span>
           </span>
           , and come out of him{" "}
@@ -1031,7 +1033,7 @@ export default function Luke04() {
           . And when the devil had thrown him in the midst{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(threw him down)</span>
+              <span className="explanation">(threw him down)</span>
             </span>
           </span>
           , he came out of him, and hurt him not{" "}
@@ -1099,13 +1101,13 @@ export default function Luke04() {
           . And Simons wifes mother was taken with a great fever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was life threatening)</span>
+              <span className="explanation">(was life threatening)</span>
             </span>
           </span>
           ; and they besought Him for her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(asked Him to heal her)</span>
+              <span className="explanation">(asked Him to heal her)</span>
             </span>
           </span>
           .
@@ -1166,7 +1168,7 @@ export default function Luke04() {
           <sup className="calibre7">41</sup>And devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           also came out of many, crying out{" "}

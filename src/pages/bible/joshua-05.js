@@ -146,14 +146,14 @@ export default function Joshua05() {
           <sup className="calibre7">7</sup>And their children, whom He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           raised up in their stead, them Joshua circumcised: for they were
           uncircumcised, because they had not circumcised them by the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(while in the wilderness)</span>
+              <span className="explanation">(while in the wilderness)</span>
             </span>
           </span>
         </span>
@@ -283,7 +283,7 @@ export default function Joshua05() {
           <sup className="calibre7">14</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, No; but as Captain of the Host of the LORD am I now come. And

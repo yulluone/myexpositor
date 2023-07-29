@@ -40,7 +40,7 @@ export default function Luke19() {
           a man named Zacchaeus, which was the chief among the Publicans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tax-collectors)</span>
+              <span className="explanation">(tax-collectors)</span>
             </span>
           </span>
           , and he was rich{" "}
@@ -167,7 +167,7 @@ export default function Luke19() {
           they all murmured{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(murmuring is always a sin)</span>
+              <span className="explanation">(murmuring is always a sin)</span>
             </span>
           </span>
           , saying, That He was gone to be guest with a man who is a sinner{" "}
@@ -298,7 +298,7 @@ export default function Luke19() {
           to return{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was Jesus Himself!)</span>
+              <span className="explanation">(this was Jesus Himself!)</span>
             </span>
           </span>
           .
@@ -360,7 +360,7 @@ export default function Luke19() {
           was returned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Second Coming)</span>
+              <span className="explanation">(speaks of the Second Coming)</span>
             </span>
           </span>
           , having received the kingdom{" "}
@@ -474,14 +474,14 @@ export default function Luke19() {
           austere man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(untrue)</span>
+              <span className="explanation">(untrue)</span>
             </span>
           </span>
           : You take up that You laid not down, and reap that which You did not
           sow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all of this is untrue)</span>
+              <span className="explanation">(all of this is untrue)</span>
             </span>
           </span>
           .
@@ -492,7 +492,7 @@ export default function Luke19() {
           <sup className="calibre7">22</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said unto him, Out of your own mouth will I judge you,{" "}
@@ -529,7 +529,7 @@ export default function Luke19() {
           usury?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(With interest.)</span>
+              <span className="explanation">(With interest.)</span>
             </span>
           </span>
         </span>
@@ -651,7 +651,7 @@ export default function Luke19() {
           of Olives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the suburbs of Jerusalem)</span>
+              <span className="explanation">(the suburbs of Jerusalem)</span>
             </span>
           </span>
           , He sent two of His Disciples{" "}
@@ -755,13 +755,13 @@ export default function Luke19() {
           <sup className="calibre7">35</sup>And they brought him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the animal)</span>
+              <span className="explanation">(the animal)</span>
             </span>
           </span>{" "}
           to Jesus: and they cast their garments upon the colt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(making a saddle of sorts)</span>
+              <span className="explanation">(making a saddle of sorts)</span>
             </span>
           </span>
           , and they set Jesus thereon.

@@ -27,7 +27,7 @@ export default function Matthew11() {
           , He departed thence to teach and to preach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to explain and to proclaim)</span>
+              <span className="explanation">(to explain and to proclaim)</span>
             </span>
           </span>{" "}
           in their cities.
@@ -47,7 +47,7 @@ export default function Matthew11() {
           , he sent two of his disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sent them to Jesus)</span>
+              <span className="explanation">(sent them to Jesus)</span>
             </span>
           </span>
           ,
@@ -244,7 +244,7 @@ export default function Matthew11() {
           , Behold, I send My messenger before Your face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John was that messenger)</span>
+              <span className="explanation">(John was that messenger)</span>
             </span>
           </span>
           , which shall prepare Your way before You (
@@ -404,7 +404,7 @@ export default function Matthew11() {
           hear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel would not hear)</span>
+              <span className="explanation">(Israel would not hear)</span>
             </span>
           </span>
           .
@@ -525,7 +525,9 @@ export default function Matthew11() {
           for Tyre and Sidon at the day of judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Great White Throne Judgment),</span>
+              <span className="explanation">
+                (Great White Throne Judgment),
+              </span>
             </span>
           </span>{" "}
           than for you{" "}
@@ -563,7 +565,7 @@ export default function Matthew11() {
           , shall be brought down to hell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(most</span>
+              <span className="explanation">(most</span>
             </span>
           </span>{" "}
           of{" "}
@@ -632,7 +634,7 @@ export default function Matthew11() {
           <sup className="calibre7">26</sup>Even so, Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Own Personal Father)</span>
+              <span className="explanation">(His Own Personal Father)</span>
             </span>
           </span>
           : for so it seemed good in Your sight{" "}

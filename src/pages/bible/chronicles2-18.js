@@ -92,7 +92,7 @@ export default function Chronicles218() {
           together of prophets four hundred men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false prophets)</span>
+              <span className="explanation">(false prophets)</span>
             </span>
           </span>
           , and said unto them, Shall we go to Ramoth-gilead to battle, or shall
@@ -159,7 +159,7 @@ export default function Chronicles218() {
           gate of Samaria; and all the prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false prophets)</span>
+              <span className="explanation">(false prophets)</span>
             </span>
           </span>{" "}
           prophesied before them{" "}
@@ -351,7 +351,7 @@ export default function Chronicles218() {
           <sup className="calibre7">20</sup>Then there came out a spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evil spirit)</span>
+              <span className="explanation">(evil spirit)</span>
             </span>
           </span>
           , and stood before the LORD, and said, I will entice him. And the LORD
@@ -529,7 +529,7 @@ export default function Chronicles218() {
           you put on your robes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(kingly robes)</span>
+              <span className="explanation">(kingly robes)</span>
             </span>
           </span>
           . So the king of Israel disguised himself; and they went to the battle{" "}
@@ -567,7 +567,7 @@ export default function Chronicles218() {
           king of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of his kingly robes)</span>
+              <span className="explanation">(because of his kingly robes)</span>
             </span>
           </span>
           . Therefore they compassed about him to fight: but Jehoshaphat cried

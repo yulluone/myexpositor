@@ -18,7 +18,7 @@ export default function Deuteronmy34() {
           Dan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was no doubt done by Revelation)
               </span>
             </span>
@@ -46,7 +46,7 @@ export default function Deuteronmy34() {
           with your eyes, but you shall not go over thither.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses, as the servant of Jehovah, and the Mediator of the First
                 Covenant, could not bring Israel into the Resurrection Life
                 beyond Jordan. Was Moses disappointed? I dont think so! I cannot
@@ -74,7 +74,7 @@ export default function Deuteronmy34() {
           there in the land of Moab, according to the Word of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase is actually, at the Mouth of the Lord. It is
                 interpreted by some Jewish scholars as, by a kiss of the Lord.
                 Perhaps Maimonides explained it best. He said, Moses died in a
@@ -89,14 +89,14 @@ export default function Deuteronmy34() {
           <sup className="calibre7">6</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           buried him in a valley in the land of Moab, over against Beth-peor:
           but no man knows of his sepulchre unto this day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man is so insensate and idolatrous that Israel would, without
                 doubt, have given Divine honors to the Great Leader when dead,
                 who, while living, they treated with ingratitude, and more than
@@ -113,7 +113,7 @@ export default function Deuteronmy34() {
           abated{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his natural strength was not weakened by old age)
               </span>
             </span>
@@ -137,14 +137,14 @@ export default function Deuteronmy34() {
           the Spirit of Wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>
           ; for Moses had laid his hands upon him: and the Children of Israel
           hearkened unto him, and did as the LORD commanded Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joshua had been selected by the Lord, and there was, no doubt,
                 about his place and position)
               </span>
@@ -159,7 +159,7 @@ export default function Deuteronmy34() {
           in Israel like unto Moses, whom the LORD knew face to face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as long as this First Covenant was to last, no Prophet could
                 arise in Israel like unto Moses; there is but One Who is worthy
                 of greater honor than Moses, namely, the Apostle and High Priest
@@ -202,7 +202,7 @@ export default function Deuteronmy34() {
           all the great terror which Moses showed in the sight of all Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses died, but God did not die!)
               </span>
             </span>

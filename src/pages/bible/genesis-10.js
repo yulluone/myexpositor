@@ -19,7 +19,7 @@ export default function Genesis10() {
           after the flood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The order was Shem, Ham, and Japheth; however, the order is now
                 reversed, with Japheth, as we shall see, being first, because of
                 his ascendancy.)
@@ -54,14 +54,14 @@ export default function Genesis10() {
           <sup className="calibre7">5</sup>By these were the Isles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of the Gentiles divided in their lands; every one after his tongue,
           after their families, in their nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first mention of the word Gentiles in the Bible.
                 Originally it was a general term for nations, but gradually
                 acquired a restricted sense by usage. It ultimately came to
@@ -95,7 +95,7 @@ export default function Genesis10() {
           a mighty one in the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word begat speaks of the lineage. The great figure of this
                 Chapter is Nimrod, and the great city of the Chapter is Babylon.
                 He and his city foreshadow the coming Antichrist and his city.
@@ -113,7 +113,7 @@ export default function Genesis10() {
           LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has nothing to do with hunting animals, but rather refers to
                 opposition to the Lord)
               </span>
@@ -123,7 +123,7 @@ export default function Genesis10() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, Nimrod instituted the first organized rebellion
                 against the Lord, and thereby the ways of the Lord, and thereby
                 those who followed the Lord. He hunted them down, possibly even
@@ -158,7 +158,7 @@ export default function Genesis10() {
           Babel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Babylon: Nimrod founded that city)
               </span>
             </span>
@@ -172,7 +172,7 @@ export default function Genesis10() {
           and built Nineveh, and the city Rehoboth, and Calah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should be translated out of that land went forth Nimrod in
                 Assyria and built Nineveh, which means he founded both Babylon
                 and Nineveh; Asshur was the son of Shem, and not Ham)
@@ -225,7 +225,7 @@ export default function Genesis10() {
           spread abroad.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The tribes listed in{" "}
                 <ScrollLink href="/" scrollToId="#filepos141814">
                   <span className="calibre_19">
@@ -258,7 +258,7 @@ export default function Genesis10() {
           nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan will do his best to place the enemies of your soul within
                 your promised possession, just as he ultimately placed these
                 enemies in the Land of Israel, who greatly opposed the people of
@@ -303,7 +303,7 @@ export default function Genesis10() {
           his brothers name was Joktan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Shem was in the lineage of the Promised Seed, so out of Shem
                 ultimately sprang Jesus, the Plant of Renown [
                 <ScrollLink href="/ezekiel-34" scrollToId="#filepos9517345">
@@ -372,7 +372,7 @@ export default function Genesis10() {
           the nations divided in the Earth after the flood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All the nations of the world sprang from the three sons of
                 Noah, Japheth, Ham, and Shem. As stated, the sons of Shem make
                 up the Semitic people of the world, constituting mostly the Jews

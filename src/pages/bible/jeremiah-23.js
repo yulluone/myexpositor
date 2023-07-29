@@ -16,7 +16,7 @@ export default function Jeremiah23() {
           and scatter the sheep of My pasture! says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is actually divided into two parts, with the first
                 eight Verses dealing with the faithless civil leaders, i.e.,
                 kings [Pastors], and the remainder of the Chapter dealing with
@@ -34,7 +34,7 @@ export default function Jeremiah23() {
           visit upon you the evil of your doings, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The LORD God of Israel against the Pastors, refers to the Lord
                 as the Great Shepherd of Israel, with the kings serving as
                 under-shepherds. Because of their sins, He sets Himself against
@@ -54,7 +54,7 @@ export default function Jeremiah23() {
           them again to their folds; and they shall be fruitful and increase.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8462022">
                   <span className="calibre_19">
@@ -78,7 +78,7 @@ export default function Jeremiah23() {
           neither shall they be lacking, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Shepherds are the same as the Pastors of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8460920">
                   <span className="calibre_19">
@@ -101,7 +101,7 @@ export default function Jeremiah23() {
           Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Righteous Branch is the Messiah. The justice and
                 benevolence of His Rule here stand in contrast to the injustice
                 and selfishness of that of the four kings who succeeded Godly
@@ -133,7 +133,7 @@ export default function Jeremiah23() {
           called, THE LORD OUR RIGHTEOUSNESS.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In His days, refers to the days of the Messiah, which will be
                 the Millennial Reign. Judah shall be saved, is in contrast to
                 Judah now being lost!)
@@ -149,7 +149,7 @@ export default function Jeremiah23() {
           brought up the Children of Israel out of the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (during the coming Kingdom Age, the Children of Israel will then
                 exclaim the great Deliverance by Christ from the Antichrist)
               </span>
@@ -166,7 +166,7 @@ export default function Jeremiah23() {
           in their own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The north country contains most of the countries where Israel
                 wandered as outcasts for nearly 2,000 years. At the beginning of
                 the Kingdom Age, all Jews will come from these countries to the
@@ -187,7 +187,7 @@ export default function Jeremiah23() {
           words of His Holiness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As{" "}
                 <ScrollLink href="/" scrollToId="#filepos8460920">
                   <span className="calibre_19">
@@ -226,7 +226,7 @@ export default function Jeremiah23() {
           not right.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the land is full of adulterers, refers to idolaters. While
                 no doubt immorality was rampant, still, the idolatry was even
                 worse, which the Lord describes as adultery, i.e., spiritual
@@ -273,7 +273,7 @@ export default function Jeremiah23() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The material misery and moral corruption which resulted from
                 the teaching of these false prophets appear in the statement
                 that it did not produce that which was right and that it
@@ -292,7 +292,7 @@ export default function Jeremiah23() {
           visitation, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their way refers to their fashionable religion. The year of
                 their visitation, pertains to the punishment that is to be
                 brought by Nebuchadnezzar.)
@@ -308,7 +308,7 @@ export default function Jeremiah23() {
           Israel to err.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Jeremiah now reverts back well over 100
                 years to the fall of Samaria. They had their prophets as well!
               </span>
@@ -341,7 +341,7 @@ export default function Jeremiah23() {
           inhabitants thereof as Gomorrah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The guilt of the Prophets of Jerusalem is declared to be
                 greater than that of the Prophets of Samaria. Their adultery, as
                 stated, was idol worship; consequently, the Lord placed all of
@@ -360,7 +360,7 @@ export default function Jeremiah23() {
           Jerusalem is profaneness gone forth into all the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The moral condition of a nation results from the character of
                 the spiritual teaching given to it. In this Scripture, Judgment
                 is guaranteed to all who claim to be preaching the Word of God
@@ -378,7 +378,7 @@ export default function Jeremiah23() {
           mouth of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mouth of the LORD refers to Inspiration. As false prophets
                 wrecked the Northern Kingdom of Israel and the Southern Kingdom
                 of Judah, likewise, false prophets are destroying the Church in
@@ -396,7 +396,7 @@ export default function Jeremiah23() {
           shall come upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These individuals, even on the eve of destruction, preached a
                 false feel-good gospel which promoted self-esteem.)
               </span>
@@ -411,7 +411,7 @@ export default function Jeremiah23() {
           Word, and heard it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For who has stood in the counsel of the LORD, actually refers
                 back to{" "}
                 <ScrollLink href="/" scrollToId="#filepos8470197">
@@ -437,7 +437,7 @@ export default function Jeremiah23() {
           grievously upon the head of the wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The false prophets were announcing peace and prosperity, while
                 the Lord through Jeremiah spoke of the soon-to-come whirlwind.
                 Furthermore, it was a whirlwind of the LORD and it had already
@@ -467,7 +467,7 @@ export default function Jeremiah23() {
           perfectly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The latter days mentioned here refer to some years later, with
                 the exiles in Babylon, who would then understand perfectly that
                 Jeremiah had preached the Truth from the Mouth of the Lord, and
@@ -523,7 +523,7 @@ export default function Jeremiah23() {
           they ran: I have not spoken to them, yet they prophesied.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which angered Him was that they prophesied in His Name
                 when, in reality, He had not sent them or spoken to them.)
               </span>
@@ -538,7 +538,7 @@ export default function Jeremiah23() {
           turned them from their evil way, and from the evil of their doings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that at least some of these Prophets
                 had once known God and had been truly called by Him; however,
                 for whatever reason, they had lost their way!)
@@ -553,7 +553,7 @@ export default function Jeremiah23() {
           and not a God afar off?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The impossibility of false teachers hiding themselves and their
                 doctrines from God is declared in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8474625">
@@ -578,7 +578,7 @@ export default function Jeremiah23() {
           and Earth? says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims the Omnipresence of God. In other words,
                 He is everywhere and, thereby, sees everything.)
               </span>
@@ -592,7 +592,7 @@ export default function Jeremiah23() {
           who prophesy lies in My Name, saying, I have dreamed, I have dreamed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8471126">
                   <span className="calibre_19">
@@ -638,7 +638,7 @@ export default function Jeremiah23() {
           deceit of their own heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is certain that these Prophecies by Jeremiah concerning
                 these false prophets were not met with approbation, but rather
                 with anger! Especially that the Holy Spirit through the Prophet
@@ -656,7 +656,7 @@ export default function Jeremiah23() {
           neighbour, as their fathers have forgotten My Name for Baal.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the people of Israel called the Lord Master or Husband and
                 called Baal by the same name, they no longer could distinguish
                 between the two. Consequently, in modern religion, the Catholic
@@ -675,7 +675,7 @@ export default function Jeremiah23() {
           faithfully. What is the chaff to the wheat? says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse contrasts the two prophets: false and true. The
                 former one has a false dream, which is likened to chaff, while
                 the latter has Gods Word, which is likened to wheat.)
@@ -690,7 +690,7 @@ export default function Jeremiah23() {
           the LORD; and like a hammer that breaks the rock in pieces?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, the Word of God is likened to a fire and a
                 hammer; a fire to burn, a hammer to break. Thus, the doctrine
                 preached reveals the truth or falseness of the Preacher.
@@ -708,7 +708,7 @@ export default function Jeremiah23() {
           neighbour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Behold, I am against, respecting these false
                 prophets, are repeated three times in as many Verses. The
                 thrice-repeated admonition proclaims the just anger of God,
@@ -738,7 +738,7 @@ export default function Jeremiah23() {
           says the LORD, who use their tongues, and say, He says.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, they preface their prophecies with Thus says
                 the LORD, adopting the same forms as the true Prophet, but to
                 them only forms.)
@@ -756,7 +756,7 @@ export default function Jeremiah23() {
           at all, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage proclaims to us the fact of a plethora of false
                 prophets attempting to countermand the true Prophecies of
                 Jeremiah.
@@ -791,7 +791,7 @@ export default function Jeremiah23() {
           even punish that man and his house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were not content to merely reject the Message, they must
                 mock it! However, they would rue the day that they did this!)
               </span>
@@ -806,7 +806,7 @@ export default function Jeremiah23() {
           and, What has the LORD spoken?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims the Holy Spirit through Jeremiah patiently
                 explaining to the people that their mocking the Word of the Lord
                 by saying, The burden of the LORD, was placing them in very
@@ -825,7 +825,7 @@ export default function Jeremiah23() {
           perverted the Words of the Living God, of the LORD of Hosts our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By the people using the phrase, The burden of the LORD, and
                 doing so in a mocking tone, they were making light of Jeremiahs
                 Prophecies. He was speaking of coming war and judgment, while
@@ -842,7 +842,7 @@ export default function Jeremiah23() {
           What has the LORD answered you? and, What has the LORD spoken?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit comes back to the same admonishment of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8480790">
                   <span className="calibre_19">
@@ -867,7 +867,7 @@ export default function Jeremiah23() {
           say, The burden of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But since you say, implies that they ignored the admonishment
                 of the Lord and continued to mock!)
               </span>
@@ -883,7 +883,7 @@ export default function Jeremiah23() {
           you and your fathers, and cast you out of My Presence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun I is emphatic, emphasizing the solemnity of the
                 moment! I will utterly forget you, means He will utterly remove
                 them. The casting out was so complete that not only were they
@@ -909,7 +909,7 @@ export default function Jeremiah23() {
           forgotten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This everlasting reproach rested upon Israel until the coming
                 of the Messiah and, due to their rejection of Him, deepened even
                 more! They have suffered this everlasting reproach now for some

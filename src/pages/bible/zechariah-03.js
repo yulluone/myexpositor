@@ -128,7 +128,7 @@ export default function Zechariah03() {
           <sup className="calibre7">4</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           answered and spoke unto those who stood before him, saying, Take away

@@ -16,7 +16,7 @@ export default function Nehemiah02() {
           Nisan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(April)</span>
+              <span className="explanation">(April)</span>
             </span>
           </span>
           , in the twentieth year of Artaxerxes the king, that wine was before
@@ -141,14 +141,14 @@ export default function Nehemiah02() {
           gates of the palace which appertain to the House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Temple)</span>
+              <span className="explanation">(Temple)</span>
             </span>
           </span>
           , and for the wall of the city, and for the house that I shall enter
           into{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the governors residence)</span>
+              <span className="explanation">(the governors residence)</span>
             </span>
           </span>
           . And the king granted me, according to the Good Hand of my God upon
@@ -240,7 +240,7 @@ export default function Nehemiah02() {
           of the valley, even before the dragon well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the pool of Siloam)</span>
+              <span className="explanation">(the pool of Siloam)</span>
             </span>
           </span>
           , and to the dung port, and viewed the walls of Jerusalem, which were

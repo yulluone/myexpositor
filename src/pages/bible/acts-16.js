@@ -15,13 +15,13 @@ export default function Acts16() {
           <sup className="calibre7">1</sup>Then came he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           to Derbe and Lystra{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Second Missionary Journey will have a greater effect on
                 civilization than anything that has ever happened, other than
                 the First Advent of Christ)
@@ -32,7 +32,7 @@ export default function Acts16() {
           a certain woman, which was a Jewess, and believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Timothy and his Mother as being followers of Christ)
               </span>
             </span>
@@ -46,7 +46,7 @@ export default function Acts16() {
           a Greek{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems he was not a Believer)
               </span>
             </span>
@@ -60,7 +60,7 @@ export default function Acts16() {
           Brethren Who were at Lystra and Iconium{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Timothys consecration is obvious here)
               </span>
             </span>
@@ -74,7 +74,7 @@ export default function Acts16() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which was undoubtedly a leading of the Spirit)
               </span>
             </span>
@@ -83,7 +83,7 @@ export default function Acts16() {
           quarters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was wisdom on Pauls part, which he felt led by the Holy
                 Spirit to do)
               </span>
@@ -92,7 +92,7 @@ export default function Acts16() {
           : for they knew all that his Father was a Greek{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul would do all he could to appease people, but not at the
                 expense of compromising the Gospel)
               </span>
@@ -108,7 +108,7 @@ export default function Acts16() {
           Apostles and Elders which were at Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to copies of the decision concerning the Law/Grace
                 issue, which came out of the Council at Jerusalem)
               </span>
@@ -123,7 +123,7 @@ export default function Acts16() {
           in the Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus Christ and Him Crucified)
               </span>
             </span>
@@ -131,7 +131,7 @@ export default function Acts16() {
           , and increased in number daily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many were being saved)</span>
+              <span className="explanation">(many were being saved)</span>
             </span>
           </span>
           .
@@ -143,7 +143,7 @@ export default function Acts16() {
           Phrygia and the region of Galatia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies a time frame of probably several months)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Acts16() {
           , and were forbidden of the Holy Spirit to preach the Word in Asia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the area now known as northwestern Turkey; while the
                 Holy Spirit definitely wanted the Gospel to go to this area,
                 there was another place He desired first)
@@ -167,7 +167,7 @@ export default function Acts16() {
           assayed to go into Bithynia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represented an area east of the Ephesus area)
               </span>
             </span>
@@ -175,7 +175,7 @@ export default function Acts16() {
           : but the Spirit suffered them not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the door being closed to this area as well!)
               </span>
             </span>
@@ -189,7 +189,7 @@ export default function Acts16() {
           to Troas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this area would be closed for the time being also)
               </span>
             </span>
@@ -206,7 +206,7 @@ export default function Acts16() {
           night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Holy Spirit now telling the Apostle exactly where
                 He wanted him to go)
               </span>
@@ -215,7 +215,7 @@ export default function Acts16() {
           ; there stood a man of Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the northern part of modern Greece, from the Adriatic to the
                 Hebrus River)
               </span>
@@ -224,7 +224,7 @@ export default function Acts16() {
           , and prayed him, saying, Come over into Macedonia, and help us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thus was ushered in the most momentous event in the history of
                 the world, the going forth of Paul to take the Gospel to the
                 nations of the West)
@@ -240,7 +240,7 @@ export default function Acts16() {
           immediately we endeavored to go into Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the use of the pronoun we, we know that Luke, the writer of
                 this Book of Acts, now joins Paul here at Troas)
               </span>
@@ -250,7 +250,7 @@ export default function Acts16() {
           Gospel unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they knew they now had the Mind of the Lord)
               </span>
             </span>
@@ -273,7 +273,7 @@ export default function Acts16() {
           to Neapolis{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would be the very first presentation of the Gospel on
                 European soil, which would have such a bearing on what is
                 presently referred to as Western Civilization)
@@ -289,7 +289,7 @@ export default function Acts16() {
           is the chief city of that part of Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pauls destination)</span>
+              <span className="explanation">(Pauls destination)</span>
             </span>
           </span>
           ,{" "}
@@ -301,13 +301,13 @@ export default function Acts16() {
           a colony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was a colony of Rome)</span>
+              <span className="explanation">(was a colony of Rome)</span>
             </span>
           </span>
           : and we were in that city abiding certain days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents tremendous hardships, but a Church was established
                 here)
               </span>
@@ -325,7 +325,7 @@ export default function Acts16() {
           the city by a river side, where prayer was wont to be made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently meant there was no Synagogue in the city; what few
                 Jews were there met by the Riverside)
               </span>
@@ -349,13 +349,13 @@ export default function Acts16() {
           seller of purple, of the city of Thyatira{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she was a businesswoman)</span>
+              <span className="explanation">(she was a businesswoman)</span>
             </span>
           </span>
           , which worshipped God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims her as a Gentile who had probably begun visiting a
                 Jewish Synagogue in Thyatira)
               </span>
@@ -374,13 +374,13 @@ export default function Acts16() {
           : whose heart the Lord opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents her hungry for God)</span>
+              <span className="explanation">(presents her hungry for God)</span>
             </span>
           </span>
           , that she attended unto the things which were spoken of Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she gave her heart to Christ, and was, thereby, the first
                 convert on European soil)
               </span>
@@ -394,7 +394,7 @@ export default function Acts16() {
           <sup className="calibre7">15</sup>And when she was baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently took place some days later)
               </span>
             </span>
@@ -402,7 +402,7 @@ export default function Acts16() {
           , and her household{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that all of those with her accepted the Lord
                 as well, and were baptized)
               </span>
@@ -427,7 +427,7 @@ export default function Acts16() {
           And she constrained us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means they did not acquiesce at first, feeling perhaps that it
                 may be an imposition on her; but she would not take no for an
                 answer)
@@ -446,7 +446,7 @@ export default function Acts16() {
           prayer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not tell us exactly where this was, but does specify that
                 it was a certain place, more than likely the home of Lydia)
               </span>
@@ -455,7 +455,7 @@ export default function Acts16() {
           , a certain damsel pos sessed with a spirit of divination met us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the girl being demon possessed)
               </span>
             </span>
@@ -463,7 +463,7 @@ export default function Acts16() {
           , which brought her masters much gain by soothsaying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (claiming to give advice and counsel from the spirit world,
                 which brought quite a sum of money to her owners)
               </span>
@@ -478,7 +478,7 @@ export default function Acts16() {
           cried, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that this went on for some time, possibly several days)
               </span>
             </span>
@@ -487,7 +487,7 @@ export default function Acts16() {
           the way of Salvation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, a way of Salvation, because thats
                 the way it is in the original Text)
               </span>
@@ -501,7 +501,7 @@ export default function Acts16() {
           <sup className="calibre7">18</sup>And this did she many days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for some reason, the Holy Spirit didnt give Paul latitude to
                 pray for the girl until now)
               </span>
@@ -510,7 +510,7 @@ export default function Acts16() {
           . But Paul, being grieved, turned and said to the spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (addressed himself to the evil spirit, and not directly to the
                 girl)
               </span>
@@ -519,13 +519,13 @@ export default function Acts16() {
           , I Command you in the Name of Jesus Christ to come out of her. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the evil spirit)</span>
+              <span className="explanation">(the evil spirit)</span>
             </span>
           </span>{" "}
           came out the same hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the spirit came out instantly)
               </span>
             </span>
@@ -539,7 +539,7 @@ export default function Acts16() {
           hope of their gains was gone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that the girl could no longer function as she had
                 previously done)
               </span>
@@ -554,7 +554,7 @@ export default function Acts16() {
           into the marketplace unto the Rulers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these men evidently had some sway with these Rulers)
               </span>
             </span>
@@ -567,7 +567,7 @@ export default function Acts16() {
           <sup className="calibre7">20</sup>And brought them to the Magistrates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to Romans appointed by Rome)
               </span>
             </span>
@@ -575,7 +575,7 @@ export default function Acts16() {
           , saying, These men, being Jews, do exceedingly trouble our city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the manner in which the word Jews is used implies contempt)
               </span>
             </span>
@@ -589,7 +589,7 @@ export default function Acts16() {
           lawful for us to receive, neither to observe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a gross untruth! actually, Judaism was a legal religion in the
                 Roman Empire; even though Paul and Silas were not actually
                 teaching Judaism, but rather proclaiming Jesus, still the Romans
@@ -600,7 +600,7 @@ export default function Acts16() {
           , being Romans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(implying superiority)</span>
+              <span className="explanation">(implying superiority)</span>
             </span>
           </span>
           .
@@ -612,7 +612,7 @@ export default function Acts16() {
           against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a stacked audience against Paul and Silas)
               </span>
             </span>
@@ -620,7 +620,7 @@ export default function Acts16() {
           : and the Magistrates rent off their clothes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (took off Paul and Silas clothes, at least to the waist)
               </span>
             </span>
@@ -654,7 +654,7 @@ export default function Acts16() {
           upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the lictors were egged on by the mob, with the Apostles being
                 beaten almost to death)
               </span>
@@ -669,7 +669,7 @@ export default function Acts16() {
           into prison{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prisons then were far worse than anything we can now imagine)
               </span>
             </span>
@@ -677,7 +677,7 @@ export default function Acts16() {
           , charging the jailor to keep them safely{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (contains the implication that Paul and Silas were desperados)
               </span>
             </span>
@@ -690,7 +690,7 @@ export default function Acts16() {
           <sup className="calibre7">24</sup>Who, having received such a charge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he could punish them even more if he so desired,
                 which he did)
               </span>
@@ -699,7 +699,7 @@ export default function Acts16() {
           , thrust them into the inner prison{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (reserved for the most violent of criminals)
               </span>
             </span>
@@ -707,7 +707,7 @@ export default function Acts16() {
           , and made their feet fast in the stocks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the legs were pulled wide apart, with the individual laying on
                 their back on the floor; after a short time, the muscles in the
                 legs would begin to constrict, causing severe pain)
@@ -726,7 +726,7 @@ export default function Acts16() {
           prayed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean they began to pray at midnight, but rather that
                 they were still praying at midnight having begun some time
                 earlier)
@@ -736,7 +736,7 @@ export default function Acts16() {
           , and sang praises unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek Text suggests that bursts of song broke out from time
                 to time as they prayed; their song was probably one of the
                 Psalms)
@@ -746,7 +746,7 @@ export default function Acts16() {
           : and the prisoners heard them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means they prayed and sang so loud that other prisoners heard
                 them)
               </span>
@@ -761,7 +761,7 @@ export default function Acts16() {
           earthquake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was no ordinary earthquake)
               </span>
             </span>
@@ -769,7 +769,7 @@ export default function Acts16() {
           , so that the foundations of the prison were shaken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Lord as the Instigator of this upheaval, not a
                 normal force of nature)
               </span>
@@ -779,7 +779,7 @@ export default function Acts16() {
           loosed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this implies no normal earthquake, but rather something
                 supernatural)
               </span>
@@ -794,7 +794,7 @@ export default function Acts16() {
           out of his sleep, and seeing the prison doors open{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (automatically causes him to assume that all the prisoners had
                 fled)
               </span>
@@ -804,7 +804,7 @@ export default function Acts16() {
           the prisoners had been fled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that under the penalty of death, he was responsible for
                 the prisoners)
               </span>
@@ -818,7 +818,7 @@ export default function Acts16() {
           <sup className="calibre7">28</sup>But Paul cried with a loud voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul sees what the jailer is about to do to himself)
               </span>
             </span>
@@ -826,7 +826,7 @@ export default function Acts16() {
           , saying, Do yourself no harm: for we are all here{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that none of the prisoners, ever how many there were,
                 took the opportunity to escape; this also tells us that quite
                 possibly some, if not all, had given their hearts to the Lord)
@@ -842,7 +842,7 @@ export default function Acts16() {
           sprang in, and came trembling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that something powerful was happening to this man,
                 over and above the shock of the earthquake and his thoughts of
                 suicide)
@@ -852,7 +852,7 @@ export default function Acts16() {
           , and fell down before Paul and Silas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the jailer treated Paul with great brutality, but Paul treated
                 him with great humanity)
               </span>
@@ -866,7 +866,7 @@ export default function Acts16() {
           <sup className="calibre7">30</sup>And brought them out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (brought Paul and Silas out of the prison)
               </span>
             </span>
@@ -874,7 +874,7 @@ export default function Acts16() {
           , and said, Sirs, what must I do to be saved?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents terminology that shows some familiarity with the
                 Gospel; quite possibly before the arrest of the Apostle, the
                 jailer had heard him preach)
@@ -889,7 +889,7 @@ export default function Acts16() {
           Jesus Christ, and you shall be saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the most beautiful explanation of Salvation that could
                 ever be given)
               </span>
@@ -898,7 +898,7 @@ export default function Acts16() {
           , and your house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Salvation is not limited merely to the jailer, but
                 is available to the entirety of his family as well, that is if
                 they will meet the conditions of Faith in Christ required of
@@ -915,7 +915,7 @@ export default function Acts16() {
           the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to a fleshing out of the answer given in the previous
                 Verse, explaining what believing in Christ really meant)
               </span>
@@ -924,7 +924,7 @@ export default function Acts16() {
           , and to all that were in his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents this service being conducted sometime after midnight,
                 which resulted in all of his family giving their hearts to
                 Christ; what a beautiful night it turned out to be!)
@@ -939,13 +939,13 @@ export default function Acts16() {
           <sup className="calibre7">33</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the jailer)</span>
+              <span className="explanation">(the jailer)</span>
             </span>
           </span>{" "}
           took them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul and Silas)</span>
+              <span className="explanation">(Paul and Silas)</span>
             </span>
           </span>{" "}
           the same hour of the night, and washed{" "}
@@ -957,7 +957,7 @@ export default function Acts16() {
           stripes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the terrible beating they had suffered a short time
                 before)
               </span>
@@ -966,7 +966,7 @@ export default function Acts16() {
           ; and was baptized, he and all his, straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>
           .
@@ -978,7 +978,7 @@ export default function Acts16() {
           his house, he set meat before them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims, as obvious, a meal prepared for them)
               </span>
             </span>
@@ -986,7 +986,7 @@ export default function Acts16() {
           , and rejoiced, believing in God with all his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a night of misery turned into a night of great joy, and joy
                 which would last forever for this jailer and his family)
               </span>
@@ -1004,7 +1004,7 @@ export default function Acts16() {
           sent the serjeants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to the same men who had administered the
                 beating to Paul and Silas)
               </span>
@@ -1013,7 +1013,7 @@ export default function Acts16() {
           , saying, Let those men go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Codex Bezae says that the Magistrates came into Court that
                 morning feeling that their treatment of Paul and Silas had
                 brought on the earthquake; they were right!)
@@ -1036,7 +1036,7 @@ export default function Acts16() {
           beaten us openly uncondemned, being Romans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a scenario which puts an entirely different complexion
                 on the matter; it was against Roman Law for Romans to be beaten;
                 so, in beating them, the Magistrates had broken the law,
@@ -1053,7 +1053,7 @@ export default function Acts16() {
           into prison; and now do they thrust us out privily?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were treated as common criminals.)
               </span>
             </span>
@@ -1061,7 +1061,7 @@ export default function Acts16() {
           No verily; but let them come themselves and fetch us out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this way, the city of Philippi would know that the charges
                 were false)
               </span>
@@ -1077,7 +1077,7 @@ export default function Acts16() {
           Romans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if Paul and Silas so desired, they could have brought charges
                 against these individuals, which could have resulted in severe
                 consequences)
@@ -1099,7 +1099,7 @@ export default function Acts16() {
           out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the Magistrates now came to Paul and
                 Silas)
               </span>
@@ -1114,7 +1114,7 @@ export default function Acts16() {
           to depart out of the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to the fact that they were pleading with the
                 Apostles not to bring charges against them, but rather depart in
                 peace)
@@ -1136,7 +1136,7 @@ export default function Acts16() {
           Lydia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were somewhat the worse for wear in the physical sense,
                 but greatly encouraged in the spiritual sense)
               </span>
@@ -1146,7 +1146,7 @@ export default function Acts16() {
           departed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were new converts in the Philippian Church)
               </span>
             </span>

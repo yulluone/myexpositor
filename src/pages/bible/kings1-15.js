@@ -101,7 +101,7 @@ export default function Kings115() {
           , and turned not aside from anything that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           com manded him all the days of his life, save only in the matter of
@@ -251,7 +251,7 @@ export default function Kings115() {
           <sup className="calibre7">13</sup>And also Maachah his mother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grandmother)</span>
+              <span className="explanation">(grandmother)</span>
             </span>
           </span>
           , even her he removed from being queen, because she had made an idol
@@ -320,7 +320,9 @@ export default function Kings115() {
           Baasha king of Israel all their days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably refers to hostility)</span>
+              <span className="explanation">
+                (probably refers to hostility)
+              </span>
             </span>
           </span>
         </span>
@@ -444,13 +446,13 @@ export default function Kings115() {
           LORD, and walked in the way of his father, and in his sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idolatry)</span>
+              <span className="explanation">(idolatry)</span>
             </span>
           </span>{" "}
           wherewith he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jeroboam)</span>
+              <span className="explanation">(Jeroboam)</span>
             </span>
           </span>{" "}
           made Israel to sin.
@@ -539,13 +541,13 @@ export default function Kings115() {
           LORD, and walked in the way of Jeroboam, and in his sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idolatry)</span>
+              <span className="explanation">(idolatry)</span>
             </span>
           </span>{" "}
           wherewith he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jeroboam)</span>
+              <span className="explanation">(Jeroboam)</span>
             </span>
           </span>{" "}
           made Israel to sin.{" "}

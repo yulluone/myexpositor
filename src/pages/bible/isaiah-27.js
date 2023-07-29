@@ -18,7 +18,7 @@ export default function Isaiah27() {
           dragon that is in the sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, refer to the Great Tribulation and the
                 Millennium. As well, Leviathan refers to Satan. Victory over
                 this Evil One will take place at the Battle of Armageddon [Rev.,
@@ -45,7 +45,7 @@ export default function Isaiah27() {
           vineyard of red wine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Millennium, when this Vineyard called Israel
                 will, at long last, bring forth the proper fruit, and in copious
                 amounts!)
@@ -60,7 +60,7 @@ export default function Isaiah27() {
           it every moment: lest any hurt it, I will keep it night and day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This guarantees that Israel will never again wander, but rather
                 will walk close to the Lord, and forever.)
               </span>
@@ -75,7 +75,7 @@ export default function Isaiah27() {
           would burn them together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The anger of the Lord toward Judah has been eternally abated,
                 because they have accepted Him as Saviour and Lord. As well, He
                 will allow no briers and thorns to grow in this Vineyard. In
@@ -91,7 +91,7 @@ export default function Isaiah27() {
           that he may make peace with Me, and he shall make peace with Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now the Lord addresses the nations of the world that have
                 previously thrown in their lot with the Antichrist. The Lord
                 will invite these nations to make peace with Me. Every
@@ -108,7 +108,7 @@ export default function Isaiah27() {
           world with fruit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel being now in her rightful place will insure the blessing
                 of the entirety of the world [Ps. 67].)
               </span>
@@ -123,7 +123,7 @@ export default function Isaiah27() {
           are killed by Him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question of this Verse is: Did God chasten Israel in the
                 same measure that He smote her oppressors? The following Verse
                 supplies the answer. It is No!
@@ -139,7 +139,7 @@ export default function Isaiah27() {
           wind.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in measure, refer to the purging of Israel, but not
                 to its destruction. The words, when it shoots forth, refer to
                 the stroke of judgment which was for correction and not for
@@ -172,7 +172,7 @@ export default function Isaiah27() {
           beaten in sunder, the groves and images shall not stand up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cleansing effect of this purging of the Vine is declared.
                 In this Verse, the word fruit means results. The result of
                 chastening is that iniquity is purged and sin taken away.
@@ -218,7 +218,7 @@ export default function Isaiah27() {
           the branches thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The defensed city is Jerusalem. Isaiah now comes back to his
                 present day, and speaks of the coming destruction of Jerusalem
                 by Nebuchadnezzar. This would happen a little over a hundred
@@ -240,7 +240,7 @@ export default function Isaiah27() {
           them no favour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A little over a hundred years after this Prophecy, Israel was
                 broken off, exactly as was prophesied by Isaiah.)
               </span>
@@ -259,7 +259,7 @@ export default function Isaiah27() {
           Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, as usual, speak of the Millennium.
                 After Israel accepts Jesus as their Saviour and Lord, which they
                 will immediately after the Second Coming, there will be a great
@@ -279,7 +279,7 @@ export default function Isaiah27() {
           Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great trumpet will be the Jubilee Trump, summoning all
                 Israel to the Feast of Tabernacles, which will be celebrated to
                 and with the Messiah at Jerusalem. When the trumpet blows, the

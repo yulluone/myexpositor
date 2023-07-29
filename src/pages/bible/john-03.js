@@ -56,7 +56,7 @@ export default function John03() {
           : for no man can do these miracles that You do, except God be with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in this, he is correct!)</span>
+              <span className="explanation">(in this, he is correct!)</span>
             </span>
           </span>
           .
@@ -709,7 +709,7 @@ export default function John03() {
           witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>
           , behold, the same baptizeth, and all{" "}

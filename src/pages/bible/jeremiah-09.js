@@ -19,7 +19,7 @@ export default function Jeremiah09() {
           of the daughter of my people!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah was called the weeping Prophet, and for good reason!
                 After seeing what is coming upon his people, he cannot help but
                 weep, even day and night. The dead will be many!)
@@ -35,7 +35,7 @@ export default function Jeremiah09() {
           from them! for they be all adulterers, an assembly of treacherous men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because of the vileness of Jerusalem, the Prophet wanted to go
                 from them, but yet he could not go, because he was the only one
                 standing between them and total destruction. However, they did
@@ -67,7 +67,7 @@ export default function Jeremiah09() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse could be translated, They bend their tongues as it
                 were their bow for falsehoods; and they are grown rich in the
                 land, but not by speaking truth; for they proceed from evil to
@@ -84,7 +84,7 @@ export default function Jeremiah09() {
           utterly supplant, and every neighbour will walk with slanders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For every brother will utterly supplant, has reference to
                 Jacob, who was a supplanter, or a deceiver. This was before
                 Jacob, by the Power of God, was changed to Israel, the Prince
@@ -112,7 +112,7 @@ export default function Jeremiah09() {
           to speak lies, and weary themselves to commit iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they will deceive everyone his neighbor, speaks of the
                 utter disposition of the entirety of the people. They were
                 deceived, so it was easy for them to be deceivers. Such are
@@ -141,7 +141,7 @@ export default function Jeremiah09() {
           deceit; through deceit they refuse to know Me, sa ys the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that some of these individuals may
                 feign an appreciation for Jeremiah and his Message;
                 nevertheless, the Holy Spirit tells him here that these
@@ -171,7 +171,7 @@ export default function Jeremiah09() {
           the daughter of My People?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The furnace for the melting, at least in this instance, would
                 be the 70-year captivity in Babylon. The question, For how shall
                 I do for the daughter of My People?, rather asks the question,
@@ -189,7 +189,7 @@ export default function Jeremiah09() {
           mouth, but in heart he lays his wait.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their tongue is as an arrow shot out, refers to their tongue
                 being a sharpened arrow designed to destroy. It speaks deceit,
                 refers to the fact that it can speak nothing else!)
@@ -205,7 +205,7 @@ export default function Jeremiah09() {
           as this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word visit means to punish.)
               </span>
             </span>
@@ -221,7 +221,7 @@ export default function Jeremiah09() {
           the heavens and the beast are fled; they are gone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word habitations refers to pastures. The exclamation of
                 this Verse is of a desolation so total that even the birds
                 cannot find subsistence. They are gone, speaks of a denuding of
@@ -238,7 +238,7 @@ export default function Jeremiah09() {
           without an inhabitant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit uses the words, I will, referring
                 to his total control over what was to be done to Judah and
                 Jerusalem.)
@@ -255,7 +255,7 @@ export default function Jeremiah09() {
           burned up like a wilderness, that none passes through?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Who is the wise man, who may understand this?,
                 refers to the fact that there were many men in Jerusalem who
                 were worldly-wise, but none who were spiritually wise.)
@@ -271,7 +271,7 @@ export default function Jeremiah09() {
           neither walked therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the doctrine of this Verse, and several of the following, is
                 that unrenewed men, however intelligent, are incapable of
                 recognizing the Hand of God in the private or public calamities
@@ -293,7 +293,7 @@ export default function Jeremiah09() {
           taught them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Scripture tells us that the Word of God, and not the
                 teaching of the fathers, is the only authoritative and
                 infallible rule of faith and obedience; for the fathers can
@@ -312,7 +312,7 @@ export default function Jeremiah09() {
           with wormwood, and give them water of gall to drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Water of gall to drink is a fluid secreted by the liver,
                 which is extremely bitter!)
               </span>
@@ -327,7 +327,7 @@ export default function Jeremiah09() {
           send a sword after them, till I have consumed them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun them refers to those who follow the imagination of
                 their own heart, and not the Law of God. The error taught by
                 their fathers will now have its bitter result in captivity.)
@@ -343,7 +343,7 @@ export default function Jeremiah09() {
           send for cunning women, that they may come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sense of this Passage is that so many are going to die that
                 the usual practice of hiring individuals to weep and wail at
                 funerals would have to be increased manyfold)
@@ -360,7 +360,7 @@ export default function Jeremiah09() {
           eyelids gush out with waters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that the mourning women will weep,
                 not because they are paid for such, but because of the agony and
                 destruction that is everywhere.)
@@ -376,7 +376,7 @@ export default function Jeremiah09() {
           have forsaken the land, because our dwellings have cast us out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the time of destruction would come, which would be about 5
                 to 7 years in the future, instead of then ridiculing Jeremiah, a
                 voice of wailing is heard out of Zion, because of the terrible
@@ -393,7 +393,7 @@ export default function Jeremiah09() {
           daughters wailing, and everyone her neighbour lamentation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first word of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8277863">
                   <span className="calibre_19">
@@ -417,7 +417,7 @@ export default function Jeremiah09() {
           without, and the young men from the streets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement is hyperbole. No one would really be hired to
                 weep, because every family in Judah would be weeping
                 uncontrollably. But such is given by the Holy Spirit accordingly
@@ -435,7 +435,7 @@ export default function Jeremiah09() {
           handful after the harvestman, and none shall gather them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the proud Hebrews are compared to dung, and to
                 grains of corn trampled into the ground by the feet of the
                 harvestman and, therefore, worthless to be gleaned.)
@@ -462,7 +462,7 @@ export default function Jeremiah09() {
           for in these things I delight, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8279459">
                   <span className="calibre_19">
@@ -494,7 +494,7 @@ export default function Jeremiah09() {
           uncircumcised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is that these were circumcised in the flesh, but not
                 in the heart)
               </span>
@@ -511,7 +511,7 @@ export default function Jeremiah09() {
           and all the House of Israel are uncircumcised in the heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prediction here was that the Cup of Wrath for the people of
                 Judah would have this added bitterness of having to be drunk in
                 fellowship with the neighboring nations whom they so despised.

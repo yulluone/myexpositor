@@ -18,7 +18,7 @@ export default function Hebrews09() {
               <span className="calibre_19">Covenant</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to describe the Tabernacle in which the Service of God
                 was celebrated under the former dispensation, and to show it had
                 a reference to what was future)
@@ -28,7 +28,7 @@ export default function Hebrews09() {
           had also Ordinances of Divine Service{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ordinances adapted for Divine Service)
               </span>
             </span>
@@ -36,7 +36,7 @@ export default function Hebrews09() {
           , and a worldly Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word worldly is used here as a contrast to the Heavenly
                 world.)
               </span>
@@ -49,7 +49,7 @@ export default function Hebrews09() {
           <sup className="calibre7">2</sup>For there was a Tabernacle made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to what Moses had made in the wilderness, which pattern
                 was given to him by God)
               </span>
@@ -64,13 +64,13 @@ export default function Hebrews09() {
           the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Golden Lampstand)</span>
+              <span className="explanation">(Golden Lampstand)</span>
             </span>
           </span>
           , and the table, and the shewbread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the first room, which was the Holy Place where the
                 Sacred Vessels were situated)
               </span>
@@ -79,7 +79,7 @@ export default function Hebrews09() {
           ; which is called the Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This should have been translated, which is called the Holy
                 Place. The name Sanctuary was commonly given to the whole
                 edifice.)
@@ -93,7 +93,7 @@ export default function Hebrews09() {
           <sup className="calibre7">3</sup>And after the Second Veil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Veil which separated the Holy Place and the
                 Holy of Holies)
               </span>
@@ -102,7 +102,7 @@ export default function Hebrews09() {
           , the Tabernacle which is called the Holiest of all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Holy of Holies, which contained the Ark of the
                 Covenant and the Mercy Seat)
               </span>
@@ -116,7 +116,7 @@ export default function Hebrews09() {
           <sup className="calibre7">4</sup>Which had the Golden Censer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, the Golden Incense Altar, which
                 sat immediately in front of the Veil in the Holy Place)
               </span>
@@ -125,7 +125,7 @@ export default function Hebrews09() {
           , and the Ark of the Covenant overlaid round about with gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the most Glorious and Mysterious Vessel of the
                 Tabernacle)
               </span>
@@ -140,7 +140,7 @@ export default function Hebrews09() {
           the Golden Pot that had Manna{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which was a Type of Christ as the Bread of Life [
                 <ScrollLink href="/john-06" scrollToId="#filepos12410903">
                   <span className="calibre_19">
@@ -164,7 +164,7 @@ export default function Hebrews09() {
           , and Aarons rod that budded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents Christ Alone as Saviour, and proof that God would
                 raise Him from the dead)
               </span>
@@ -173,7 +173,7 @@ export default function Hebrews09() {
           , and the Tables of the Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two stone Tables containing the Ten Commandments, five to
                 each Table)
               </span>
@@ -187,19 +187,19 @@ export default function Hebrews09() {
           <sup className="calibre7">5</sup>And over it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ark of the Covenant)</span>
+              <span className="explanation">(the Ark of the Covenant)</span>
             </span>
           </span>{" "}
           the Cherubims of Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Living Creatures)</span>
+              <span className="explanation">(Living Creatures)</span>
             </span>
           </span>{" "}
           shadowing the Mercyseat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they looked down upon the Mercyseat)
               </span>
             </span>
@@ -207,7 +207,7 @@ export default function Hebrews09() {
           ; of which we cannot now speak particularly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cannot go into great detail)</span>
+              <span className="explanation">(cannot go into great detail)</span>
             </span>
           </span>
           .
@@ -219,7 +219,7 @@ export default function Hebrews09() {
           ordained{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that all of this was of God, and every part
                 and parcel of the Tabernacle in some way pointed to Christ)
               </span>
@@ -228,7 +228,7 @@ export default function Hebrews09() {
           , the Priests went always into the First Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (into the first of the two rooms of the Tabernacle called the
                 Holy Place)
               </span>
@@ -240,7 +240,7 @@ export default function Hebrews09() {
               <span className="calibre_19">of God.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the daily, even constant, rituals that had to be
                 carried out.)
               </span>
@@ -253,7 +253,7 @@ export default function Hebrews09() {
           <sup className="calibre7">7</sup>But into the second{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the second room of the Tabernacle called the Holy of Holies,
                 where the Ark of the Covenant was)
               </span>
@@ -265,7 +265,7 @@ export default function Hebrews09() {
           the High Priest alone once every year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the Great Day of Atonement [
                 <ScrollLink href="/leviticus-16" scrollToId="#filepos1499057">
                   <span className="calibre_19">
@@ -295,7 +295,7 @@ export default function Hebrews09() {
           the errors of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents him going in twice on this particular day, each time
                 taking the blood of the Sacrificial animal which had been killed
                 once for himself, and once for the people with the blood
@@ -311,7 +311,7 @@ export default function Hebrews09() {
           <sup className="calibre7">8</sup>The Holy Spirit this signifying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit was both the Divine Author of the Levitical
                 system of worship, and its Interpreter)
               </span>
@@ -320,7 +320,7 @@ export default function Hebrews09() {
           , that the way into the Holiest of all was not yet made manifest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact [and by the Holy Spirit, at that] that
                 access to God was blocked while the Law was enforced, except in
                 the most limited way)
@@ -330,7 +330,7 @@ export default function Hebrews09() {
           , while as the First Tabernacle was yet standing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (show the limitations of the Levitical system)
               </span>
             </span>
@@ -349,7 +349,7 @@ export default function Hebrews09() {
           a figure for the time then present{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Tabernacle being a representation of Heavenly
                 realities)
               </span>
@@ -359,7 +359,7 @@ export default function Hebrews09() {
           him who did the service perfect, as pertaining to the conscience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the weakness of the First Covenant, in that it was
                 based on animal blood, which was insufficient; in other words,
                 the conscience of the Jew was still heavy with realization that
@@ -390,7 +390,7 @@ export default function Hebrews09() {
           only in meats and drinks, and divers washings, and carnal Ordinances{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the entirety of the Levitical system, which could
                 only present types and shadows)
               </span>
@@ -405,7 +405,7 @@ export default function Hebrews09() {
           until the time of Reformation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross, to which all of this pointed, would address all of
                 this once and for all.)
               </span>
@@ -418,7 +418,7 @@ export default function Hebrews09() {
           <sup className="calibre7">11</sup>But Christ being come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the little word but is the pivot upon which all the arguments
                 swing)
               </span>
@@ -427,7 +427,7 @@ export default function Hebrews09() {
           an High Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presented by the Apostle to show how marvelously the one
                 Offering of our Lord Jesus Christ transcends all the types and
                 shadows of the old)
@@ -437,7 +437,7 @@ export default function Hebrews09() {
           of good things to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, of the good things realized)
               </span>
             </span>
@@ -445,7 +445,7 @@ export default function Hebrews09() {
           , by a greater and more perfect Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Christ Himself as the more perfect Tabernacle)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Hebrews09() {
           , not made with hands, that is to say, not of this building{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is not a flimsy structure like the Tabernacle of old)
               </span>
             </span>
@@ -467,7 +467,7 @@ export default function Hebrews09() {
           calves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims by the fact of the continued need of more Sacrifices
                 that it was not properly effected)
               </span>
@@ -476,13 +476,13 @@ export default function Hebrews09() {
           , but by His Own Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the price paid)</span>
+              <span className="explanation">(presents the price paid)</span>
             </span>
           </span>{" "}
           He entered in once into the Holy Place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Christ doing what no other Priest had ever done; He
                 offered a Sacrifice that was complete, which means it would
                 never have to be repeated; thereby, the Heavenly Tabernacle was
@@ -497,7 +497,7 @@ export default function Hebrews09() {
               <span className="calibre_19">for us.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims what was accomplished by the giving of Himself
                 on the Cross.)
               </span>
@@ -511,7 +511,7 @@ export default function Hebrews09() {
           goats{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul turning again to the Levitical Sacrifices as an
                 example)
               </span>
@@ -521,7 +521,7 @@ export default function Hebrews09() {
           purifying of the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in these animal Sacrifices, Paul proclaims the effect of an
                 external purification, a cleansing from ritual defilement, but
                 that was as far as it went; as should be obvious, animal
@@ -538,7 +538,7 @@ export default function Hebrews09() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the Sacrifice of animals could cleanse from ceremonial
                 defilement, only the Blood of Christ could cleanse from actual
                 sin; so that throws out every proposed solution other than the
@@ -549,7 +549,7 @@ export default function Hebrews09() {
           , Who through the Eternal Spirit offered Himself without spot to God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this phrase, we learn Christ did not die until the Holy
                 Spirit told Him to die; in fact, no man took His Life from Him;
                 He laid it down freely [
@@ -584,7 +584,7 @@ export default function Hebrews09() {
           , purge your conscience from dead works to serve the Living God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Dead works are anything other than simple Faith in the Cross of
                 Christ, i.e., the Blood of Christ.)
               </span>
@@ -597,7 +597,7 @@ export default function Hebrews09() {
           <sup className="calibre7">15</sup>And for this cause{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to purge our conscience)</span>
+              <span className="explanation">(to purge our conscience)</span>
             </span>
             <span>
               <span className="calibre_19">H</span>
@@ -606,19 +606,21 @@ export default function Hebrews09() {
           e is the Mediator{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He Alone can be the Mediator)</span>
+              <span className="explanation">
+                (He Alone can be the Mediator)
+              </span>
             </span>
           </span>{" "}
           of the New Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the New Covenant)</span>
+              <span className="explanation">(the New Covenant)</span>
             </span>
           </span>
           , that by means of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the death of Christ on the Cross, which atoned for all sin, and
                 was necessary if man was to be saved)
               </span>
@@ -633,7 +635,7 @@ export default function Hebrews09() {
           under the First Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the death of Christ pertained just as
                 much to those before the Cross as those after the Cross; His
                 Sacrifice of Himself guaranteed their Redemption, and we speak
@@ -645,7 +647,7 @@ export default function Hebrews09() {
           Inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This continues to address those who had died in the Faith
                 before the Cross. They are referred to as the called. The reason
                 their Salvation depended on the Cross was that the blood of
@@ -675,13 +677,13 @@ export default function Hebrews09() {
               <span className="calibre_19">is</span>
             </span>
             <span>
-              <span className="calibre_19">(Covenant),</span>
+              <span className="explanation">(Covenant),</span>
             </span>
           </span>{" "}
           there must also of necessity be the death of the testator.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the death of Christ, Who was charged to make a
                 New Covenant on the part of man.)
               </span>
@@ -700,7 +702,7 @@ export default function Hebrews09() {
           of force after men are dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tells us in no uncertain terms that the death of Christ on
                 the Cross was a legal matter)
               </span>
@@ -709,7 +711,7 @@ export default function Hebrews09() {
           : otherwise it is of no strength at all while the testator lives.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This simply means it is not valid until the individual to whom
                 the Will belongs dies, as is the case of any Testament or Will.)
               </span>
@@ -725,13 +727,13 @@ export default function Hebrews09() {
               <span className="calibre_19">Testament</span>
             </span>
             <span>
-              <span className="calibre_19">(Old Covenant)</span>
+              <span className="explanation">(Old Covenant)</span>
             </span>
           </span>{" "}
           was dedicated without blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but it was only the blood of animals)
               </span>
             </span>
@@ -745,7 +747,7 @@ export default function Hebrews09() {
           Precept to all the people according to the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was referred to as the Law of Moses)
               </span>
             </span>
@@ -753,7 +755,7 @@ export default function Hebrews09() {
           , he took the blood of calves and of goats{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the seal of the Old Covenant, which was shed blood;
                 of course, it was a Type of the Shed Blood of Christ)
               </span>
@@ -762,7 +764,7 @@ export default function Hebrews09() {
           , with water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the blood witnessed to the nature of His Atoning Death [
                 <ScrollLink href="/john-19" scrollToId="#filepos12708088">
                   <span className="calibre_19">
@@ -786,7 +788,7 @@ export default function Hebrews09() {
           , and scarlet wool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wool is normally white, which symbolizes the Righteousness of
                 Christ; however, it was dyed red, which portrayed the fact that
                 it took the Blood of Christ to make this Righteousness available
@@ -797,7 +799,7 @@ export default function Hebrews09() {
           , and hyssop{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a bushy plant, which typified His Death on the Cross as a man;
                 in Egypt the blood was applied to the doorpost with hyssop [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos843168">
@@ -814,7 +816,7 @@ export default function Hebrews09() {
           , and sprinkled both the Book, and all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to the Book of Leviticus, with the Tribe of Levi
                 Ordained for Tabernacle Service, pertaining to the people; the
                 sprinkling of the blood was the ratification of the Covenant,
@@ -838,7 +840,7 @@ export default function Hebrews09() {
           the Blood of the Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which made the Old Covenant valid)
               </span>
             </span>
@@ -846,7 +848,7 @@ export default function Hebrews09() {
           which God has enjoined upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the fact that everything in the First Covenant,
                 exactly as in the New Covenant, is all of God and not at all of
                 man.)
@@ -861,7 +863,7 @@ export default function Hebrews09() {
           both the Tabernacle, and all the Vessels of the Ministry.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This particular Verse portrays the awfulness of sin, and that
                 it has contaminated everything on this Earth.)
               </span>
@@ -875,7 +877,7 @@ export default function Hebrews09() {
           purged with blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some few things were purged with water, but almost all with
                 blood)
               </span>
@@ -884,7 +886,7 @@ export default function Hebrews09() {
           ; and without shedding of blood is no remission.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The shed Blood of Christ on the Cross is the only solution for
                 the sins, the ills, and the problems of this world. The problem
                 of the world, and of the Church as well, is that it has ever
@@ -907,7 +909,7 @@ export default function Hebrews09() {
           be purified with these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything that pertained to the Tabernacle and all of its
                 Sacred Vessels was a copy of that which was in Heaven; inasmuch
                 as the Vessels and the Tabernacle were touched by men, they had
@@ -919,7 +921,7 @@ export default function Hebrews09() {
           these.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If man were to enter Heaven, the abode of God, there would have
                 to be a better Sacrifice than that of animal blood.)
               </span>
@@ -933,7 +935,7 @@ export default function Hebrews09() {
           Holy Places made with hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ did not enter the earthly Tabernacle or Temple,
                 regarding the offering up of His Precious Blood on the Mercy
                 Seat)
@@ -949,7 +951,7 @@ export default function Hebrews09() {
           the figures of the true{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that these figures were only temporary)
               </span>
             </span>
@@ -957,7 +959,7 @@ export default function Hebrews09() {
           ; but into Heaven itself, now to appear in the Presence of God for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the purpose and reason for the Cross; all of it was
                 done for us)
               </span>
@@ -972,7 +974,7 @@ export default function Hebrews09() {
           often{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the one Sacrifice of Christ, which was
                 the Offering of Himself on the Cross, was eternally sufficient
                 for the cleansing from all sin past, present, and future; It
@@ -984,7 +986,7 @@ export default function Hebrews09() {
           of others{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the High Priest of Israel of Old, who went into the
                 Holy of Holies once a year on the Great Day of Atonement,
                 carrying animal blood)
@@ -999,13 +1001,13 @@ export default function Hebrews09() {
           <sup className="calibre7">26</sup>For then must He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus)</span>
+              <span className="explanation">(the Lord Jesus)</span>
             </span>
           </span>{" "}
           often have suffered since the foundation of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that He wasnt functioning as the High Priests
                 of Israel who, as stated, had to offer Sacrifice yearly)
               </span>
@@ -1015,7 +1017,7 @@ export default function Hebrews09() {
           by the Sacrifice of Himself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the One Sacrifice of Christ as sufficient for all
                 time. The phrase, In the end of the world, should have been
                 translated, in the consummation of the ages. As well, by the
@@ -1040,7 +1042,7 @@ export default function Hebrews09() {
           to die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the Fall, all men are under the sentence of death, and,
                 in fact, all have died Spiritually, which means to be separated
                 from God)
@@ -1050,7 +1052,7 @@ export default function Hebrews09() {
           , but after this the Judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the answer to the Spiritual death of man is Christ and what He
                 did at the Cross; if Christ the Saviour is rejected, all will
                 face Christ the Judge; for as death was inevitable, the Judgment
@@ -1067,7 +1069,7 @@ export default function Hebrews09() {
           the sins of many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Cross was Gods answer to sin, and, in fact, the only
                 answer)
               </span>
@@ -1077,7 +1079,7 @@ export default function Hebrews09() {
           without sin unto Salvation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Second Coming. Without sin refers to the
                 fact that the Second Coming will not be to atone for sin, for
                 that was already carried out at the Cross at His First Advent.

@@ -19,7 +19,7 @@ export default function Isaiah51() {
           are hewn, and to the hole of the pit whence you are digged.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham and Sarah are referred to as the Rock from which Israel
                 was hewn. The hole of the pit refers to idolatry from whence
                 Abraham and Sarah were brought, for they were idolaters when
@@ -49,7 +49,7 @@ export default function Isaiah51() {
           increased him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: If God could multiply the progeny of one man, how
                 much more could He make a flourishing nation out of the exiles,
                 who, though but a Remnant of the pre-captivity Israel, were yet
@@ -74,7 +74,7 @@ export default function Isaiah51() {
           melody.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Promise of this Verse has several applications. It
                 certainly referred to Judah after the captivity, if they would
                 only believe the Lord; it, as well, refers to Israel upon the
@@ -96,7 +96,7 @@ export default function Isaiah51() {
           make My judgment to rest for a light of the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The spiritual life is sustained, as well as initiated, by the
                 principle of hearing. The Divine provision for this is the
                 Bible. That is the Law, which has proceeded from God; and that
@@ -113,7 +113,7 @@ export default function Isaiah51() {
           shall wait upon Me, and on My arm shall they trust.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is both Righteousness and Salvation. As Salvation, He
                 has gone forth, and, as Righteousness, He has come near. He is,
                 therefore, within the reach of all sinners; and all who come to
@@ -133,7 +133,7 @@ export default function Isaiah51() {
           and My Righteousness shall not be abolished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord uses the most stable illustration to be found, His Own
                 Creation. As glorious and stable as this Creation is, still, it
                 will one day have to be refurbished; however, His Salvation and
@@ -151,7 +151,7 @@ export default function Isaiah51() {
           reproach of men, neither be you afraid of their revilings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Progress in the Christian life entails increasing hostility
                 from the world, and even from the Church.)
               </span>
@@ -166,7 +166,7 @@ export default function Isaiah51() {
           shall be forever, and My Salvation from generation to generation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If men themselves never wholly pass away, yet it is otherwise
                 with their judgments. These perish absolutely, disappear, and
                 are utterly forgotten. In other words, the taunts will come to a
@@ -184,7 +184,7 @@ export default function Isaiah51() {
           Are you not it that has cut Rahab, and wounded the dragon?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Awake, awake, is a cry of faith and desire
                 addressed to the Messiah by those who hearken unto Him, and in
                 whose heart is His Law. Rahab is a symbolic expression for
@@ -203,7 +203,7 @@ export default function Isaiah51() {
           a way for the ransomed to pass over?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage pertains to the Deliverance of the Children of
                 Israel from Egypt and the opening of the Red Sea.)
               </span>
@@ -219,7 +219,7 @@ export default function Isaiah51() {
           sorrow and mourning shall flee away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Israels acceptance of Christ as the Messiah and,
                 as such, will be redeemed. At that time, and we speak of the
                 beginning of the Kingdom Age, and from all over the world, they
@@ -240,7 +240,7 @@ export default function Isaiah51() {
           the son of man which shall be made as grass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I, even I refers to Christ as the only One Who can comfort you.
                 The man referred to in this Verse is the oppressor, the
                 Antichrist. Under his oppression, Israel will reach the lowest
@@ -261,7 +261,7 @@ export default function Isaiah51() {
           the oppressor?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord chastises Israel for forgetting Him Who has created
                 all things, and then living in fear of the oppressor, whoever
                 the oppressor might be.
@@ -289,7 +289,7 @@ export default function Isaiah51() {
           bread should fail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a strict sense, the captive exile refers to Israel in the
                 latter half of the Great Tribulation, and more particularly in
                 the Battle of Armageddon, when bottled up by the Antichrist,
@@ -320,7 +320,7 @@ export default function Isaiah51() {
           divided the sea, Whose waves roared: the LORD of Hosts is His Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reference is once more to the great miracle wrought at the
                 Exodus, when the Red Sea was divided before the host of
                 Israelites [
@@ -345,7 +345,7 @@ export default function Isaiah51() {
           Zion, You are My People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Regarding its total fulfillment, this pertains to the
                 Millennium, when Israel will be converted under the Messiah, and
                 will trust, love, and serve Him. For the last two thousand
@@ -367,7 +367,7 @@ export default function Isaiah51() {
           drunk the dregs of the cup of trembling, and wrung them out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Battle of Armageddon, when the Antichrist
                 will attempt to annihilate the Jews. As well, it refers to
                 Jerusalem when it fell to Babylonian captivity, but its greater
@@ -392,7 +392,7 @@ export default function Isaiah51() {
           her by the hand of all the sons that she has brought up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There was no one to help Israel during the time of the
                 Babylonian siege. Neither will there be anyone to help during
                 the time of the Battle of Armageddon, when it seems that every
@@ -410,7 +410,7 @@ export default function Isaiah51() {
           famine, and the sword: by whom shall I comfort you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is only One Who can comfort Israel, and that is the Lord
                 Jesus Christ, and that He will do at the Second Coming.)
               </span>
@@ -425,7 +425,7 @@ export default function Isaiah51() {
           the fury of the LORD, the rebuke of your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of both the invasion by Nebuchadnezzar and by the
                 Antichrist. The difference is this: Israel was not rescued
                 during the siege by the Babylonians, but will be rescued at the
@@ -468,7 +468,7 @@ export default function Isaiah51() {
           afflicted, and drunken, but not with wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (rebellion against God has such an effect upon individuals that
                 it is as if they are drunk, when in fact they have not taken any
                 intoxicating beverage at all)
@@ -486,7 +486,7 @@ export default function Isaiah51() {
           fury; you shall no more drink it again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (their punishment will now be complete! They had asked for
                 Caesar as their king and had received Caesar, along with
                 desolation, destruction, famine, and the sword.
@@ -532,7 +532,7 @@ export default function Isaiah51() {
           street, to them who went over.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Antichrist will make his boasts that he is going to so
                 completely destroy Israel that nothing will be left. However,
                 his certain victory will be turned into certain defeat, by the

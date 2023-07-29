@@ -44,7 +44,7 @@ export default function Thessalonians22() {
           or be troubled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false doctrine does this)</span>
+              <span className="explanation">(false doctrine does this)</span>
             </span>
           </span>
           , neither by spirit{" "}
@@ -190,7 +190,7 @@ export default function Thessalonians22() {
           <sup className="calibre7">6</sup>And now you know what withholds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Church)</span>
+              <span className="explanation">(speaks of the Church)</span>
             </span>
           </span>{" "}
           that he might be revealed in his time.{" "}
@@ -218,25 +218,25 @@ export default function Thessalonians22() {
           : only he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church)</span>
+              <span className="explanation">(the Church)</span>
             </span>
           </span>{" "}
           who now lets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who now hinders evil)</span>
+              <span className="explanation">(who now hinders evil)</span>
             </span>
             <span>
               <span className="calibre_19">will let</span>
             </span>
             <span>
-              <span className="calibre_19">(will continue to hinder),</span>
+              <span className="explanation">(will continue to hinder),</span>
             </span>
           </span>{" "}
           until he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church)</span>
+              <span className="explanation">(the Church)</span>
             </span>
           </span>{" "}
           be taken out of the way.{" "}
@@ -286,7 +286,7 @@ export default function Thessalonians22() {
           shall that Wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           be revealed{" "}
@@ -341,7 +341,7 @@ export default function Thessalonians22() {
               <span className="calibre_19">Even him</span>
             </span>
             <span>
-              <span className="calibre_19">(the Antichrist),</span>
+              <span className="explanation">(the Antichrist),</span>
             </span>
           </span>{" "}
           whose coming is after the working of Satan{" "}
@@ -464,7 +464,7 @@ export default function Thessalonians22() {
           chosen you to Salvation through Sanctification of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           and belief of the Truth{" "}
@@ -488,7 +488,7 @@ export default function Thessalonians22() {
           <sup className="calibre7">14</sup>Whereunto He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           called you by our Gospel{" "}
@@ -587,7 +587,7 @@ export default function Thessalonians22() {
           , and God, even our Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to relationship)</span>
+              <span className="explanation">(refers to relationship)</span>
             </span>
           </span>
           , which has loved us, and has given{" "}
@@ -612,7 +612,7 @@ export default function Thessalonians22() {
           <sup className="calibre7">17</sup>Comfort your hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit comforts us)</span>
+              <span className="explanation">(the Holy Spirit comforts us)</span>
             </span>
           </span>
           , and stablish you in every good word and work.{" "}

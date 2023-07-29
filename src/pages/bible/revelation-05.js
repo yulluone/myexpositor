@@ -15,7 +15,7 @@ export default function Revelation05() {
           <sup className="calibre7">1</sup>And I saw in the Right Hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signifies power)</span>
+              <span className="explanation">(signifies power)</span>
             </span>
           </span>{" "}
           of Him Who sat on the Throne a Book written within and on the
@@ -110,7 +110,7 @@ export default function Revelation05() {
           prevailed to open the Book, and to loose the Seven Seals thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents Jesus Christ)</span>
+              <span className="explanation">(presents Jesus Christ)</span>
             </span>
           </span>
           .
@@ -189,13 +189,13 @@ export default function Revelation05() {
           <sup className="calibre7">7</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>{" "}
           came and took the Book out of the Right Hand of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           Who sat upon the Throne.{" "}
@@ -217,13 +217,13 @@ export default function Revelation05() {
           <sup className="calibre7">8</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus)</span>
+              <span className="explanation">(the Lord Jesus)</span>
             </span>
           </span>{" "}
           had taken the Book, the four Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creatures)</span>
+              <span className="explanation">(living creatures)</span>
             </span>
           </span>{" "}
           and four{" "}
@@ -407,7 +407,7 @@ export default function Revelation05() {
           unto Him Who sits upon the Throne{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>
           , and unto the Lamb forever and ever.{" "}
@@ -427,7 +427,7 @@ export default function Revelation05() {
           <sup className="calibre7">14</sup>And the four Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creatures)</span>
+              <span className="explanation">(living creatures)</span>
             </span>
           </span>{" "}
           said, Amen.{" "}

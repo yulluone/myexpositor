@@ -24,7 +24,7 @@ export default function Ezekiel35() {
           Mount Seir, and prophesy against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy concerns Edom; therefore, it leaves the glorious
                 future and returns to the destitute present. One of the great
                 reasons for Gods Anger against Edom is this countrys hatred of
@@ -44,7 +44,7 @@ export default function Ezekiel35() {
           Hand against you, and I will make you most desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To have one nation pitted against another nation is one thing,
                 but to have God pitted against a nation is something else
                 altogether!)
@@ -59,7 +59,7 @@ export default function Ezekiel35() {
           shall be desolate, and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel formerly prophesied against Edom [
                 <ScrollLink href="/ezekiel-25" scrollToId="#filepos9376585">
                   <span className="calibre_19">
@@ -85,7 +85,7 @@ export default function Ezekiel35() {
           iniquity had an end{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Edom had been Israels hereditary foe from the days of Esau and
                 Jacob [
                 <ScrollLink href="/genesis-25" scrollToId="#filepos339549">
@@ -120,7 +120,7 @@ export default function Ezekiel35() {
           you have not hated blood, even blood shall pursue you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that Edom did not hate or detest the shedding of the blood
                 of the people of Judah and Jerusalem, the Holy Spirit emphasizes
                 the fact that blood would be their destiny their blood.)
@@ -135,7 +135,7 @@ export default function Ezekiel35() {
           desolate, and cut off from it him who passes out and him who returns.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord decides here the controversy between Edom and Israel.
                 To the one He adjudges perpetual desolation; to the other,
                 ever-enduring prosperity. This is the last message to Esau, so
@@ -152,7 +152,7 @@ export default function Ezekiel35() {
           rivers, shall they fall who are slain with the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some may take exception to the terminology given here. However,
                 no one would fault a surgeon for removing a malignancy.
                 Likewise, no one should fault the Lord for doing the same!)
@@ -168,7 +168,7 @@ export default function Ezekiel35() {
           I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The use of the phrase, You shall know that I am the LORD, means
                 that Edom would note, to her sorrow, Jehovahs Power to punish.)
               </span>
@@ -183,7 +183,7 @@ export default function Ezekiel35() {
           whereas the LORD was there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words, two nations, refer to Ephraim, the Northern Kingdom,
                 and Judah, the Southern Kingdom. Edom coveted this Land. She
                 would have done much better to have coveted any land in the
@@ -203,7 +203,7 @@ export default function Ezekiel35() {
           make Myself known among them, when I have judged you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When I have judged you, sums up the Verse. The suffering which
                 people desire for others sometimes falls upon themselves. Far
                 from Edom securing Israel, she would ultimately be deprived of
@@ -221,7 +221,7 @@ export default function Ezekiel35() {
           are given us to consume.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To persecute those who are Gods is to persecute God. Likewise,
                 to slander one of Gods is to slander God.)
               </span>
@@ -236,7 +236,7 @@ export default function Ezekiel35() {
           heard them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages should be a solemn lesson to all! Bitter words
                 against Gods People are accounted by God as spoken against
                 Himself. The phrase is emphatic, I have heard them.)
@@ -251,7 +251,7 @@ export default function Ezekiel35() {
           whole Earth rejoices, I will make you desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: when the sons of the Kingdom enter into joy, their
                 haters shall descend into the gloom.)
               </span>
@@ -267,7 +267,7 @@ export default function Ezekiel35() {
           all of it: and they shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall be desolate, O Mount Seir, sums up the Verse. Thats
                 exactly what happened!)
               </span>

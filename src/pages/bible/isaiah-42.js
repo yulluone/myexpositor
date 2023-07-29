@@ -17,7 +17,7 @@ export default function Isaiah42() {
           shall bring forth judgment to the Gentiles.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Almost the entirety of this Chapter concerns itself with
                 Prophecy extolling the coming of the Messiah in both His First
                 and Second Advents. As well, Israel is addressed in her
@@ -65,7 +65,7 @@ export default function Isaiah42() {
           cause His voice to be heard in the street.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cry here means to claim His rights.)
               </span>
             </span>
@@ -79,7 +79,7 @@ export default function Isaiah42() {
           judgment unto truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the image of the weak and depressed in spirit,
                 the lowly and dejected. Christ would deal tenderly with such,
                 not violently.
@@ -109,7 +109,7 @@ export default function Isaiah42() {
           His Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a sense, this Verse is the exact opposite of the previous.
                 Compared to those whom He helps, He will Himself show no signs
                 of the weakness with which He is compassionate with others. As a
@@ -128,7 +128,7 @@ export default function Isaiah42() {
           people upon it, and Spirit to them who walk therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Thus says God the LORD, literally means Thus says
                 the One God Jehovah. Actually, the entirety of the utterance
                 beginning with the first word of the First Verse is the
@@ -150,7 +150,7 @@ export default function Isaiah42() {
           You for a Covenant of the people, for a light of the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all statements in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7759048">
                   <span className="calibre_19">
@@ -205,7 +205,7 @@ export default function Isaiah42() {
           prison house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To open the blind eyes refers to spiritual blindness [
                 <ScrollLink href="/luke-04" scrollToId="#filepos11778560">
                   <span className="calibre_19">
@@ -261,7 +261,7 @@ export default function Isaiah42() {
           images.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase actually says, I the Lord. I Who am all that the
                 Name Jehovah signifies self-existent, eternal, self-sufficing,
                 independent, omnipotent, omniscient, and, therefore, unique, One
@@ -279,7 +279,7 @@ export default function Isaiah42() {
           of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos7758218">
                   <span className="calibre_19">
@@ -326,7 +326,7 @@ export default function Isaiah42() {
           all who are therein; the isles, and the inhabitants thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, new song, have reference to the coming Kingdom Age,
                 when Christ will rule and reign supremely over the entirety of
                 the Earth, totally changing its government, bringing everything
@@ -369,7 +369,7 @@ export default function Isaiah42() {
           mountains.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage continues the results of the new song. Hitherto,
                 the wilderness has had little to shout about. Now the
                 wilderness, because of Christ, will be turned into a garden.)
@@ -384,7 +384,7 @@ export default function Isaiah42() {
           and declare His praise in the islands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Glory is to be given to the Lord over the entirety of the
                 Earth, and in the Kingdom Age most definitely will be done!)
               </span>
@@ -404,7 +404,7 @@ export default function Isaiah42() {
           roar; He shall prevail against His enemies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to His Second Coming, and the carrying out of
                 that which has been predicted.)
               </span>
@@ -419,7 +419,7 @@ export default function Isaiah42() {
           travailing woman; I will destroy and devour at once.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Righteous men have long wondered, Why did not God step in and
                 take a hand in the Hell that this world has become? The answer
                 is that now, and for His Own reasons which are valid and right,
@@ -439,7 +439,7 @@ export default function Isaiah42() {
           and I will dry up the pools.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The result of Gods stirring up His Jealousy and giving a free
                 vent to His Feelings will be the destruction of the great and
                 mighty ones of the Earth. The mountains and hills of
@@ -458,7 +458,7 @@ export default function Isaiah42() {
           straight. These things will I do unto them, and not forsake them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blind here can only mean captive Israel, about to be
                 destroyed by the Antichrist. Because of her long rejection of
                 her Messiah, the Lord Jesus Christ, she is still dim-sighted
@@ -492,7 +492,7 @@ export default function Isaiah42() {
           molten images, You are our gods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the past, Israel trusted in graven images, their own
                 self-righteousness; they will, in fact, accept the false messiah
                 and say to him, You are our god, i.e., messiah. At the coming of
@@ -508,7 +508,7 @@ export default function Isaiah42() {
           that you may see.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Previously, because of their rejection of Christ, Israel has
                 been deaf and blind. Now, and we speak of the Second Coming,
                 Israel will then hear and see.)
@@ -524,7 +524,7 @@ export default function Isaiah42() {
           and blind as the LORDs servant?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse speaks of Israel, but as well of the Church. Israel
                 then was His servant and His messenger. The Church is now such.
                 Apostate Israel refused their True Messiah, the Lord Jesus
@@ -543,7 +543,7 @@ export default function Isaiah42() {
           not; opening the ears, but he hears not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel had seen so many things that were sent from God; the
                 miracles, the Law, the Prophets, and then even the Messiah, but
                 you observe not. Jesus ministered unto their ears, but they
@@ -560,7 +560,7 @@ export default function Isaiah42() {
           Righteousness sake; He will magnify the Law, and make it honourable.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite the fact that Israel would not honor the Law, the Lord
                 most definitely did. In fact, His Righteousness demanded such!)
               </span>
@@ -576,7 +576,7 @@ export default function Isaiah42() {
           and none says, Restore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods True Messenger, the Messiah, did not fail. He lived and
                 preached the Law, and made the teaching great and glorious,
                 totally unlike what the Pharisees had done. But yet they would
@@ -605,7 +605,7 @@ export default function Isaiah42() {
           Who will hearken and hear for the time to come?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Isaiah says, Surely there are some
                 among you, less hardened than the rest, who will take advantage
                 of My warning and repent at this, the eleventh hour.)
@@ -622,7 +622,7 @@ export default function Isaiah42() {
           obedient unto His Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Israel was Gods Chosen, still, the Lord could not
                 tolerate their self-way in them, any more than He could in the
                 heathen. Therefore, He gave Jacob to the robbers.)
@@ -639,7 +639,7 @@ export default function Isaiah42() {
           not to heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods chastisement is meant to draw us back to Himself. He does
                 it for our profit, that we might be partakers of His Holiness [
                 <ScrollLink href="/hebrews-12" scrollToId="#filepos14581914">

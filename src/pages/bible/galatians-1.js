@@ -19,7 +19,7 @@ export default function Galatians1() {
           Him from the dead;){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means Paul did not submit the authority of his Apostleship
                 to men, neither was it conferred on him by man.)
               </span>
@@ -33,7 +33,9 @@ export default function Galatians1() {
           me, unto the Churches of Galatia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to all in that region)</span>
+              <span className="explanation">
+                (refers to all in that region)
+              </span>
             </span>
           </span>
           :
@@ -50,7 +52,7 @@ export default function Galatians1() {
           to you and Peace from God the Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           , and{" "}
@@ -62,7 +64,7 @@ export default function Galatians1() {
           our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Who made it possible)</span>
+              <span className="explanation">(Who made it possible)</span>
             </span>
           </span>
           ,
@@ -73,13 +75,13 @@ export default function Galatians1() {
           <sup className="calibre7">4</sup>Who gave Himself for our sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Cross)</span>
+              <span className="explanation">(the Cross)</span>
             </span>
           </span>
           , that He might deliver us from this pre sent evil world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Cross alone can set the captive free)
               </span>
             </span>
@@ -87,7 +89,7 @@ export default function Galatians1() {
           , according to the Will of God and our Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the standard of the entire process of Redemption)
               </span>
             </span>
@@ -106,7 +108,7 @@ export default function Galatians1() {
           Glory forever and ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Divine Glory)</span>
+              <span className="explanation">(Divine Glory)</span>
             </span>
           </span>
           . Amen.
@@ -121,7 +123,7 @@ export default function Galatians1() {
           from Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
             <span>
               <span className="calibre_19">Who</span>
@@ -130,13 +132,13 @@ export default function Galatians1() {
           called you into the Grace of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>{" "}
           unto another gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anything which doesnt have the Cross as its Object of Faith)
               </span>
             </span>
@@ -149,7 +151,7 @@ export default function Galatians1() {
           <sup className="calibre7">7</sup>Which is not another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that Satans aim is not so much to deny the
                 Gospel, which he can little do, as to corrupt it)
               </span>
@@ -159,7 +161,7 @@ export default function Galatians1() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, to make the object of Faith something other than
                 the Cross)
               </span>
@@ -173,14 +175,14 @@ export default function Galatians1() {
           <sup className="calibre7">8</sup>But though we{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul and his associates)</span>
+              <span className="explanation">(Paul and his associates)</span>
             </span>
           </span>
           , or an Angel from Heaven, preach any other gospel unto you than that
           which we have preached unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus Christ and Him Crucified)
               </span>
             </span>
@@ -188,7 +190,7 @@ export default function Galatians1() {
           , let him be accursed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (eternally condemned; the Holy Spirit speaks this through Paul,
                 making this very serious)
               </span>
@@ -202,7 +204,7 @@ export default function Galatians1() {
           <sup className="calibre7">9</sup>As we said before, so say I now again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at some time past, he had said the same thing to them, making
                 their defection even more serious)
               </span>
@@ -217,7 +219,7 @@ export default function Galatians1() {
           preach any other gospel unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anything other than the Cross)
               </span>
             </span>
@@ -225,13 +227,13 @@ export default function Galatians1() {
           than that you have received{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which Saved your souls)</span>
+              <span className="explanation">(which Saved your souls)</span>
             </span>
           </span>
           , let him be accursed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (eternally condemned, which means the loss of the soul)
               </span>
             </span>
@@ -244,7 +246,7 @@ export default function Galatians1() {
           <sup className="calibre7">10</sup>For do I now persuade men, or God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, Paul is saying, Do I preach mans doctrine, or
                 Gods?)
               </span>
@@ -253,7 +255,7 @@ export default function Galatians1() {
           or do I seek to please men?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is what false apostles do.)
               </span>
             </span>
@@ -261,7 +263,7 @@ export default function Galatians1() {
           for if I yet pleased men, I should not be the Servant of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one cannot please both men and God at the same time)
               </span>
             </span>
@@ -277,19 +279,19 @@ export default function Galatians1() {
           <sup className="calibre7">11</sup>But I certify you, Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(make known)</span>
+              <span className="explanation">(make known)</span>
             </span>
           </span>
           , that the Gospel which was Preached of me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Message of the Cross)</span>
+              <span className="explanation">(the Message of the Cross)</span>
             </span>
           </span>{" "}
           is not after man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Any Message other than the Cross is definitely devised by man.)
               </span>
             </span>
@@ -301,7 +303,7 @@ export default function Galatians1() {
           <sup className="calibre7">12</sup>For I neither received it of man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul had not learned this great Truth from human teachers)
               </span>
             </span>
@@ -312,7 +314,7 @@ export default function Galatians1() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he denies instruction from other men),
               </span>
             </span>
@@ -320,7 +322,7 @@ export default function Galatians1() {
           but by the Revelation of Jesus Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Revelation is the mighty Act of God whereby the Holy Spirit
                 discloses to the human mind that which could not be understood
                 without Divine Intervention.)
@@ -335,20 +337,20 @@ export default function Galatians1() {
           conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(way of life)</span>
+              <span className="explanation">(way of life)</span>
             </span>
           </span>{" "}
           in time past in the Jews religion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the practice of Judaism)</span>
+              <span className="explanation">(the practice of Judaism)</span>
             </span>
           </span>
           , how that beyond measure I persecuted the Church of God, and wasted
           it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/acts-09" scrollToId="#filepos12914745">
                   <span className="calibre_19">
@@ -370,7 +372,7 @@ export default function Galatians1() {
           above many my equals in my own nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he outstripped his Jewish contemporaries in Jewish culture,
                 etc.)
               </span>
@@ -379,7 +381,9 @@ export default function Galatians1() {
           , being more exceedingly zealous of the traditions of my fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a zeal from his very boyhood)</span>
+              <span className="explanation">
+                (a zeal from his very boyhood)
+              </span>
             </span>
           </span>
           .
@@ -394,7 +398,7 @@ export default function Galatians1() {
           separated me from my mothers womb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the idea that God had set Paul apart, devoting him to
                 a special purpose from before his birth)
               </span>
@@ -409,7 +413,7 @@ export default function Galatians1() {
           by His Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (called, not because of any merit on his part, but rather
                 because of the Grace of God)
               </span>
@@ -423,7 +427,7 @@ export default function Galatians1() {
           <sup className="calibre7">16</sup>To reveal His Son in me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the meaning of the New Covenant, which is the meaning of the
                 Cross)
               </span>
@@ -432,13 +436,13 @@ export default function Galatians1() {
           , that I might Preach Him among the heathen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>
           ; immediately I conferred not with flesh and blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his Commission and Message came to him from God, and neither
                 was affected in any way by human intervention)
               </span>
@@ -453,7 +457,7 @@ export default function Galatians1() {
           them which were Apostles before me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (did not get this Revelation from the original Twelve)
               </span>
             </span>
@@ -461,13 +465,15 @@ export default function Galatians1() {
           ; but I went into Arabia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(according to the Holy Spirit)</span>
+              <span className="explanation">
+                (according to the Holy Spirit)
+              </span>
             </span>
           </span>
           , and returned again unto Damascus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There would not have been any Apostles in Damascus. There he
                 Preached the Message of the Cross.)
               </span>
@@ -481,7 +487,7 @@ export default function Galatians1() {
           Jerusalem to see Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (showing his independence from the Jerusalem Apostles)
               </span>
             </span>
@@ -489,7 +495,7 @@ export default function Galatians1() {
           , and abode with him fifteen days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when he, no doubt, revealed to Peter the Revelation of the
                 Cross, which the Lord had given to him)
               </span>
@@ -504,7 +510,7 @@ export default function Galatians1() {
           none, save James the Lords Brother.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (James didnt refer to himself as an Apostle, but Paul did.)
               </span>
             </span>
@@ -529,7 +535,7 @@ export default function Galatians1() {
           Churches of Judaea which were in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had he been a Disciple of the Twelve, the Churches in Judaea
                 would have known him)
               </span>
@@ -543,19 +549,19 @@ export default function Galatians1() {
           <sup className="calibre7">23</sup>But they had heard only{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(were constantly hearing)</span>
+              <span className="explanation">(were constantly hearing)</span>
             </span>
           </span>
           , That he which persecuted us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>{" "}
           in times past now Preaches the Faith which once he destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Faith in Christ)</span>
+              <span className="explanation">(Faith in Christ)</span>
             </span>
           </span>
           .
@@ -566,7 +572,7 @@ export default function Galatians1() {
           <sup className="calibre7">24</sup>And they Glorified God in me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As he had constantly persecuted, and now was constantly
                 preaching, they were constantly glorifying.)
               </span>

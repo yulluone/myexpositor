@@ -22,7 +22,7 @@ export default function Corinthians211() {
           folly: and indeed bear with me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Apostle is saying, indulge me.)
               </span>
             </span>
@@ -35,7 +35,7 @@ export default function Corinthians211() {
           jealousy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the jealousy of God [
                 <ScrollLink href="/exodus-20" scrollToId="#filepos962924">
                   <span className="calibre_19">
@@ -67,7 +67,7 @@ export default function Corinthians211() {
           : for I have espoused you to one husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not jealous of the Corinthians affection for himself, but of
                 their affection for Christ)
               </span>
@@ -82,7 +82,7 @@ export default function Corinthians211() {
           a chaste virgin to Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They must not commit spiritual adultery, which refers to
                 trusting in things other than Christ and the Cross.)
               </span>
@@ -96,14 +96,14 @@ export default function Corinthians211() {
           serpent beguiled Eve through his subtilty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the strategy of Satan)</span>
+              <span className="explanation">(the strategy of Satan)</span>
             </span>
           </span>
           , so your minds should be corrupted from the simplicity that is in
           Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Gospel of Christ is simple, but men complicate it by adding
                 to the Message.)
               </span>
@@ -117,7 +117,7 @@ export default function Corinthians211() {
           Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a Jesus who is not of the Cross)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function Corinthians211() {
           , whom we have not preached{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pauls Message was Jesus Christ and Him Crucified; anything else
                 is another Jesus)
               </span>
@@ -140,7 +140,7 @@ export default function Corinthians211() {
           you receive another spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is produced by preaching another Jesus)
               </span>
             </span>
@@ -148,7 +148,7 @@ export default function Corinthians211() {
           , which you have not received{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thats not what you received when we preached the True Gospel to
                 you)
               </span>
@@ -157,7 +157,7 @@ export default function Corinthians211() {
           , or another gospel, which you have not accepted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anything other than Jesus Christ and Him Crucified is another
                 gospel)
               </span>
@@ -169,7 +169,7 @@ export default function Corinthians211() {
               <span className="calibre_19">him.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is telling the Corinthians they have, in fact,
                 sinned because they tolerated these false apostles who had come
                 in, bringing another gospel which was something other than
@@ -188,7 +188,7 @@ export default function Corinthians211() {
           the very Chiefest Apostles.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Apparently, this critic was claiming that Paul was not one of
                 the original Twelve, so his Ministry was of little
                 significance.)
@@ -208,7 +208,7 @@ export default function Corinthians211() {
           rude in speech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the truth is he was not a poor speaker)
               </span>
             </span>
@@ -216,7 +216,7 @@ export default function Corinthians211() {
           , yet not in knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what his critics were really opposing was his Message)
               </span>
             </span>
@@ -224,7 +224,7 @@ export default function Corinthians211() {
           ; but we have been thoroughly made manifest among you in all things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, the Corinthians knew Paul, so they should not
                 believe the ridiculous accusations.)
               </span>
@@ -239,7 +239,7 @@ export default function Corinthians211() {
           you the Gospel of God freely?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He is using irony.)</span>
+              <span className="explanation">(He is using irony.)</span>
             </span>
           </span>
         </span>
@@ -249,7 +249,7 @@ export default function Corinthians211() {
           <sup className="calibre7">8</sup>I robbed other Churches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (received Offerings from other Churches)
               </span>
             </span>
@@ -263,7 +263,7 @@ export default function Corinthians211() {
           to do you service{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning he asked no monetary help from the Corinthians while he
                 was establishing their Church)
               </span>
@@ -278,13 +278,13 @@ export default function Corinthians211() {
           wanted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in need)</span>
+              <span className="explanation">(in need)</span>
             </span>
           </span>
           , I was chargeable to no man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning he did not make his need the Corinthians
                 responsibility)
               </span>
@@ -294,7 +294,9 @@ export default function Corinthians211() {
           Macedonia supplied{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(other Churches supplied help)</span>
+              <span className="explanation">
+                (other Churches supplied help)
+              </span>
             </span>
           </span>
           : and in all{" "}
@@ -315,7 +317,7 @@ export default function Corinthians211() {
               <span className="calibre_19">myself.</span>
             </span>
             <span>
-              <span className="calibre_19">(He wasnt after their money.)</span>
+              <span className="explanation">(He wasnt after their money.)</span>
             </span>
           </span>
         </span>
@@ -325,7 +327,7 @@ export default function Corinthians211() {
           <sup className="calibre7">10</sup>As the Truth of Christ is in me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is declaring this in the Presence of Christ)
               </span>
             </span>
@@ -333,7 +335,7 @@ export default function Corinthians211() {
           no man shall stop me of this boasting in the regions of Achaia.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This actually means no man can disprove what the Apostle is
                 saying.)
               </span>
@@ -346,7 +348,7 @@ export default function Corinthians211() {
           <sup className="calibre7">11</sup>Wherefore? because I love you not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is actually meant to have the opposite meaning I do what I
                 do, because I love you.)
               </span>
@@ -355,7 +357,7 @@ export default function Corinthians211() {
           God knows.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that what he is saying is true.)
               </span>
             </span>
@@ -370,7 +372,7 @@ export default function Corinthians211() {
           <sup className="calibre7">12</sup>But what I do, that I will do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will continue to pursue the course of life I have been
                 pursuing)
               </span>
@@ -379,7 +381,7 @@ export default function Corinthians211() {
           , that I may cut off occasion from them which desire occasion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he will not do anything that will give his enemies occasion to
                 find fault, at least, truthfully)
               </span>
@@ -388,7 +390,7 @@ export default function Corinthians211() {
           ; that wherein they glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they claim to not be interested in your money, but thats not
                 true)
               </span>
@@ -397,7 +399,7 @@ export default function Corinthians211() {
           , they may be found even as we.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If they arent interested in your money, let them conduct
                 themselves as we do and not take your money.)
               </span>
@@ -416,7 +418,7 @@ export default function Corinthians211() {
           false apostles, deceitful workers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they have no rightful claim to the Apostolic Office; they are
                 deceivers)
               </span>
@@ -425,7 +427,7 @@ export default function Corinthians211() {
           , transforming themselves into the Apostles of Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They have called themselves to this Office.)
               </span>
             </span>
@@ -437,7 +439,7 @@ export default function Corinthians211() {
           <sup className="calibre7">14</sup>And no marvel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (true Believers should not be surprised)
               </span>
             </span>
@@ -445,7 +447,7 @@ export default function Corinthians211() {
           ; for Satan himself is transformed into an Angel of light.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means he pretends to be that which he is not.)
               </span>
             </span>
@@ -463,13 +465,13 @@ export default function Corinthians211() {
           no great thing if his ministers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satans ministers)</span>
+              <span className="explanation">(Satans ministers)</span>
             </span>
           </span>{" "}
           also be transformed as the ministers of righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite their claims, they were Satans ministers because they
                 preached something other than the Cross [
                 <ScrollLink
@@ -530,7 +532,7 @@ export default function Corinthians211() {
           ; whose end shall be according to their works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that end is spiritual destruction [
                 <ScrollLink href="/philippians-3" scrollToId="#filepos14119948">
                   <span className="calibre_19">
@@ -555,7 +557,7 @@ export default function Corinthians211() {
           fool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostles embarrassment at having to deal with
                 this issue)
               </span>
@@ -565,7 +567,7 @@ export default function Corinthians211() {
           little.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whatever you think of me, hear what I have to say simply
                 because it is very important.)
               </span>
@@ -584,13 +586,15 @@ export default function Corinthians211() {
           not after the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not commanded, but permitted)</span>
+              <span className="explanation">
+                (not commanded, but permitted)
+              </span>
             </span>
           </span>
           , but as it were foolishly, in this confidence of boasting{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because it is necessary)</span>
+              <span className="explanation">(because it is necessary)</span>
             </span>
           </span>
           .
@@ -602,7 +606,7 @@ export default function Corinthians211() {
           flesh, I will glory also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The flesh is that which pertains to human ability.)
               </span>
             </span>
@@ -614,7 +618,7 @@ export default function Corinthians211() {
           <sup className="calibre7">19</sup>For you suffer fools gladly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking of the false apostles)
               </span>
             </span>
@@ -628,7 +632,7 @@ export default function Corinthians211() {
           are wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the highest of irony)
               </span>
             </span>
@@ -651,7 +655,7 @@ export default function Corinthians211() {
               <span className="calibre_19">of you</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of bringing one into slavery, which is exactly what
                 these false apostles were doing to the Believers at Corinth, and
                 anywhere else they were allowed to intrude),
@@ -661,7 +665,7 @@ export default function Corinthians211() {
           if a man exalt himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these false teachers exalted self, not Christ)
               </span>
             </span>
@@ -669,7 +673,7 @@ export default function Corinthians211() {
           , if a man smite you on the face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning these false teachers treated them with such little
                 respect as if they smote them on the face)
               </span>
@@ -683,7 +687,7 @@ export default function Corinthians211() {
           <sup className="calibre7">21</sup>I speak as concerning reproach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle had suffered terrible reproach at the hands of
                 these detractors)
               </span>
@@ -692,7 +696,7 @@ export default function Corinthians211() {
           , as though we had been weak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These false apostles referred to Paul as a weak sister.)
               </span>
             </span>
@@ -701,7 +705,7 @@ export default function Corinthians211() {
           also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will now speak of the qualifications he has.)
               </span>
             </span>
@@ -736,7 +740,7 @@ export default function Corinthians211() {
           <sup className="calibre7">23</sup>Are they Ministers of Christ?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They claim to be, but they really were not.)
               </span>
             </span>
@@ -750,7 +754,7 @@ export default function Corinthians211() {
           more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostle stooping to a level in which he is not
                 comfortable)
               </span>
@@ -760,7 +764,7 @@ export default function Corinthians211() {
           frequent, in deaths oft{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he was exposed to death often)
               </span>
             </span>
@@ -785,7 +789,7 @@ export default function Corinthians211() {
           <sup className="calibre7">25</sup>Thrice was I beaten with rods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (different from the beatings listed in the previous Verse)
               </span>
             </span>
@@ -794,7 +798,7 @@ export default function Corinthians211() {
           have been in the deep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to a particular time when the Apostle was
                 adrift on the open sea for a night and a day, and was in
                 constant danger of drowning)
@@ -869,7 +873,7 @@ export default function Corinthians211() {
           perils among false brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this probably represents the crowning danger)
               </span>
             </span>
@@ -890,7 +894,7 @@ export default function Corinthians211() {
           without, that which comes upon me daily, the care of all the Churches.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All the Churches he had planted needed his constant
                 supervision, as would be obvious.)
               </span>
@@ -903,7 +907,7 @@ export default function Corinthians211() {
           <sup className="calibre7">29</sup>Who is weak, and I am not weak?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the Apostle carrying the burden of each and every
                 member of these Churches.)
               </span>
@@ -912,7 +916,7 @@ export default function Corinthians211() {
           who is offended, and I burn not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerns those who fail in times of temptations and
                 trial.)
               </span>
@@ -926,7 +930,7 @@ export default function Corinthians211() {
           of the things which concern my infirmities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If I have to glory, I will glory in my weaknesses, which force
                 me toward total dependence on the Lord.)
               </span>
@@ -940,7 +944,7 @@ export default function Corinthians211() {
           Christ, which is blessed for evermore, knows that I lie not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If his detractors call him a liar, they are at the same time
                 calling God a liar.)
               </span>
@@ -955,7 +959,7 @@ export default function Corinthians211() {
           desirous to apprehend me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is speaking of the time he was first saved, recorded in
                 Acts, Chpt.{" "}
                 <ScrollLink href="/acts-09" scrollToId="#filepos12914577">

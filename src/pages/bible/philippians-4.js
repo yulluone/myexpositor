@@ -89,7 +89,7 @@ export default function Philippians4() {
           yokefellow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(does not identify this man)</span>
+              <span className="explanation">(does not identify this man)</span>
             </span>
           </span>
           , help those women which laboured with me in the Gospel, with Clement
@@ -102,7 +102,7 @@ export default function Philippians4() {
           other my fellow-labourers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(help settle the problem)</span>
+              <span className="explanation">(help settle the problem)</span>
             </span>
           </span>
           , whose names{" "}
@@ -165,7 +165,7 @@ export default function Philippians4() {
           be known unto all men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(even our enemies)</span>
+              <span className="explanation">(even our enemies)</span>
             </span>
           </span>
           . The Lord{" "}
@@ -190,7 +190,7 @@ export default function Philippians4() {
           <sup className="calibre7">6</sup>Be careful for nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont worry about anything)</span>
+              <span className="explanation">(dont worry about anything)</span>
             </span>
           </span>
           ; but in everything by prayer and supplication{" "}
@@ -225,7 +225,7 @@ export default function Philippians4() {
           <sup className="calibre7">7</sup>And the Peace of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanctifying Peace)</span>
+              <span className="explanation">(Sanctifying Peace)</span>
             </span>
           </span>
           , which passes all understanding{" "}
@@ -434,13 +434,13 @@ export default function Philippians4() {
           <sup className="calibre7">13</sup>I can do all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be abased or abound)</span>
+              <span className="explanation">(be abased or abound)</span>
             </span>
           </span>{" "}
           through Christ Who strengthens me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Whom I draw strength)</span>
+              <span className="explanation">(from Whom I draw strength)</span>
             </span>
           </span>
           .
@@ -506,7 +506,9 @@ export default function Philippians4() {
           you sent once and again unto my necessity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims their faithfulness)</span>
+              <span className="explanation">
+                (proclaims their faithfulness)
+              </span>
             </span>
           </span>
           .
@@ -607,7 +609,7 @@ export default function Philippians4() {
           by Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           .
@@ -639,7 +641,7 @@ export default function Philippians4() {
           <sup className="calibre7">21</sup>Salute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greet)</span>
+              <span className="explanation">(greet)</span>
             </span>
           </span>{" "}
           every Saint in Christ Jesus. The Brethren which are with me greet you.{" "}
@@ -685,7 +687,7 @@ export default function Philippians4() {
           with you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           . Amen.

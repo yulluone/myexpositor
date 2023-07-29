@@ -154,7 +154,7 @@ export default function Job28() {
           <sup className="calibre7">9</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(man)</span>
+              <span className="explanation">(man)</span>
             </span>
           </span>{" "}
           puts forth his hand upon the rock; he overturns the mountains by the
@@ -230,7 +230,7 @@ export default function Job28() {
           <sup className="calibre7">16</sup>It{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wisdom)</span>
+              <span className="explanation">(wisdom)</span>
             </span>
           </span>{" "}
           cannot be valued with the gold of Ophir, with the precious onyx, or

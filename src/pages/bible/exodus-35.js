@@ -20,7 +20,7 @@ export default function Exodus35() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods rest [the Sabbath] opens this section, and His resting
                 place [the Tabernacle] closes it)
               </span>
@@ -42,7 +42,7 @@ export default function Exodus35() {
           your habitations upon the Sabbath day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Williams says: What distinguishes Gods People
                 is participation in Gods Rest. Christ is Gods Rest [Heb., Chpt.{" "}
                 <ScrollLink href="/hebrews-04" scrollToId="#filepos14447661">
@@ -71,7 +71,7 @@ export default function Exodus35() {
           which the LORD commanded, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these commands were for the entirety of the People of Israel;
                 none were to be excluded)
               </span>
@@ -111,7 +111,7 @@ export default function Exodus35() {
           for the Ephod, and for the Breastplate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As{" "}
                 <ScrollLink href="/" scrollToId="#filepos1196229">
                   <span className="calibre_19">
@@ -135,7 +135,7 @@ export default function Exodus35() {
           shall come, and make all that the LORD has commanded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all were to participate, giving of their valuables, and for
                 those who had talent in certain areas, as well, of their time
                 and labor)
@@ -152,7 +152,7 @@ export default function Exodus35() {
           sockets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all, in one way or the other, were Types of Christ, in either
                 His Mediatorial, Intercessory, or Atoning Work)
               </span>
@@ -172,7 +172,7 @@ export default function Exodus35() {
           <sup className="calibre7">13</sup>The Table{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Table of Shewbread)</span>
+              <span className="explanation">(Table of Shewbread)</span>
             </span>
           </span>
           , and his staves, and all his vessels, and the Shewbread,
@@ -183,7 +183,7 @@ export default function Exodus35() {
           <sup className="calibre7">14</sup>The Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>{" "}
           also for the light, and his furniture, and his lamps, with the Oil for
@@ -223,7 +223,7 @@ export default function Exodus35() {
           garments of his sons, to minister in the Priests office.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Although the world at that time would have understood this not
                 at all, the truth is, the Tabernacle was the single most
                 important thing happening on the face of the Earth. As well, at
@@ -248,7 +248,7 @@ export default function Exodus35() {
           congregation, and for all his service and for the holy garments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the willing hearted and the wise hearted and the stirred
                 hearted offered themselves and their gifts to the Lord; thus
                 willingness and obedience characterized the people)
@@ -293,7 +293,7 @@ export default function Exodus35() {
           stirred them up in wisdom spun goats hair.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, all of this work was done exactly according to the
                 pattern which the Lord had given to Moses. They must not deviate
                 from that pattern one iota; likewise, as all of this was a
@@ -324,7 +324,7 @@ export default function Exodus35() {
           commanded to be made by the hand of Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At Calvary, Christ was a Willing Offering.)
               </span>
             </span>
@@ -341,7 +341,7 @@ export default function Exodus35() {
           son of Hur, of the Tribe of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ was from the Tribe of Judah; so, in a sense, Bezaleel
                 was a Type of Christ)
               </span>
@@ -355,14 +355,14 @@ export default function Exodus35() {
           <sup className="calibre7">31</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has filled him with the Spirit of God, in wisdom, in understanding,
           and in knowledge, and in all manner of workmanship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ was filled and anointed by the Holy Spirit for all
                 manner of service [
                 <ScrollLink href="/luke-04" scrollToId="#filepos11778560">
@@ -384,7 +384,7 @@ export default function Exodus35() {
           <sup className="calibre7">32</sup>And to devise curious works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(beautifully crafted)</span>
+              <span className="explanation">(beautifully crafted)</span>
             </span>
           </span>
           , to work in gold, and in silver, and in brass,
@@ -396,7 +396,7 @@ export default function Exodus35() {
           them, and in the carving of wood, to make any manner of cunning work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The work then was in items; the Work of the Holy Spirit now is
                 in hearts and lives, which the Spirit does by the Authority of
                 Christ [
@@ -418,13 +418,13 @@ export default function Exodus35() {
           <sup className="calibre7">34</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has put in his heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Bezaleels)</span>
+              <span className="explanation">(Bezaleels)</span>
             </span>
           </span>{" "}
           that he may teach, both he, and Aholiab, the son of Ahisamach, of the
@@ -440,7 +440,7 @@ export default function Exodus35() {
           and of those who devise cunning work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A part of the Work of the Holy Spirit was to give to Bezaleel
                 the gift of being able to teach others, and so enabled him to
                 form a body of skilled workmen to carry out his conceptions.)

@@ -38,7 +38,7 @@ export default function Matthew14() {
           is John the Baptist{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a guilty conscience)</span>
+              <span className="explanation">(a guilty conscience)</span>
             </span>
           </span>
           ; he is risen from the dead; and therefore mighty works do shew forth
@@ -127,7 +127,7 @@ export default function Matthew14() {
           for the oaths sake, and them which sat with him at meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a meal)</span>
+              <span className="explanation">(a meal)</span>
             </span>
           </span>
           , he commanded{" "}
@@ -142,7 +142,7 @@ export default function Matthew14() {
               <span className="calibre_19">her</span>
             </span>
             <span>
-              <span className="calibre_19">(to save face)</span>
+              <span className="explanation">(to save face)</span>
             </span>
           </span>
           .
@@ -317,7 +317,7 @@ export default function Matthew14() {
           full{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an astounding miracle!)</span>
+              <span className="explanation">(an astounding miracle!)</span>
             </span>
           </span>
           .
@@ -345,14 +345,14 @@ export default function Matthew14() {
           <sup className="calibre7">22</sup>And straightway Jesus constrained{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(firmly demanded)</span>
+              <span className="explanation">(firmly demanded)</span>
             </span>
           </span>{" "}
           His Disciples to get into a ship, and to go before Him unto the other
           side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(back to Capernaum)</span>
+              <span className="explanation">(back to Capernaum)</span>
             </span>
           </span>
           , while He sent the multitudes away{" "}
@@ -451,7 +451,7 @@ export default function Matthew14() {
           , tossed with waves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(turbulence)</span>
+              <span className="explanation">(turbulence)</span>
             </span>
           </span>
           : for the wind was contrary{" "}
@@ -470,7 +470,7 @@ export default function Matthew14() {
           <sup className="calibre7">25</sup>And in the fourth watch of the night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(between 3 a.m. and 6 a.m.)</span>
+              <span className="explanation">(between 3 a.m. and 6 a.m.)</span>
             </span>
           </span>{" "}
           Jesus went unto them{" "}
@@ -528,13 +528,13 @@ export default function Matthew14() {
           <sup className="calibre7">27</sup>But straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           Jesus spoke unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(once they saw Him)</span>
+              <span className="explanation">(once they saw Him)</span>
             </span>
           </span>
           , saying, Be of good cheer; it is I; be not afraid{" "}
@@ -568,7 +568,7 @@ export default function Matthew14() {
           <sup className="calibre7">29</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said, Come{" "}
@@ -661,7 +661,7 @@ export default function Matthew14() {
           and worshipped Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as God)</span>
+              <span className="explanation">(as God)</span>
             </span>
           </span>
           , saying, Of a truth You are the Son of God{" "}
@@ -683,7 +683,7 @@ export default function Matthew14() {
           <sup className="calibre7">34</sup>And when they were gone over{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(came back to Capernaum)</span>
+              <span className="explanation">(came back to Capernaum)</span>
             </span>
           </span>
           , they came into the land of Gennesaret{" "}

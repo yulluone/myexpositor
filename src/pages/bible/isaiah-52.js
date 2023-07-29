@@ -18,7 +18,7 @@ export default function Isaiah52() {
           unclean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter speaks of Israels Restoration, as well as the
                 First and Second Advents of the Messiah. The admonition to Zion
                 is to awake. This concerns the coming in of the Messiah, and of
@@ -48,7 +48,7 @@ export default function Isaiah52() {
           O captive daughter of Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The essence of this Verse concerns itself with the long history
                 of Israels rebellion against God, and their resultant
                 captivities.
@@ -78,7 +78,7 @@ export default function Isaiah52() {
           yourselves for nought; and you shall be redeemed without money.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The essence of this Scripture is: God received nothing when He
                 allowed His People to become slaves of the Babylonians and
                 others. He took no price for them and, therefore, is free to
@@ -96,7 +96,7 @@ export default function Isaiah52() {
           oppressed them without cause.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For many years, the title Assyrian was generally assumed to be
                 an error in the Hebrew Text, but excavations about the turn of
                 the Twentieth Century proved that the Pharaoh of the oppression
@@ -115,7 +115,7 @@ export default function Isaiah52() {
           day is blasphemed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cruel taskmasters vexed the captive Israelites by insulting
                 their God. When Gods People are brutally treated and insulted,
                 in effect, God is brutally treated and insulted!)
@@ -131,7 +131,7 @@ export default function Isaiah52() {
           speak: behold, it is I.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Deliverance of the Children of Israel from
                 Egypt, with a Strong and Mighty Hand, as well as their
                 Deliverance from Babylon, by the overthrow of Belshazzar by
@@ -154,7 +154,7 @@ export default function Isaiah52() {
           Zion, Your God reigns!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The beautiful feet are those of the Messiah. This Verse is
                 often misapplied to the proclamation of the Gospel by Preachers.
                 As a secondary meaning, it certainly could refer to such;
@@ -193,7 +193,7 @@ export default function Isaiah52() {
           to eye, when the LORD shall bring again Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The evidence is: during the Battle of Armageddon, watchmen will
                 be stationed at particular points in Jerusalem, looking up to
                 the heavens in anticipation of His Coming. He will not
@@ -234,7 +234,7 @@ export default function Isaiah52() {
           He has redeemed Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The struggle has always been between Satans city, Babylon, and
                 Gods city, Jerusalem. However, Babylon is now destroyed, and
                 Jerusalem is redeemed from the hands of the enemy, never again
@@ -252,7 +252,7 @@ export default function Isaiah52() {
           see the Salvation of our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Coming of the Lord, with the Antichrist
                 being defeated, and defeated before the entirety of the world.)
               </span>
@@ -267,7 +267,7 @@ export default function Isaiah52() {
           be you clean, who bear the vessels of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the Bible does not teach isolation for the Believer, it
                 definitely does teach separation, and we speak of separation
                 from the world, symbolized by Babylon.)
@@ -283,7 +283,7 @@ export default function Isaiah52() {
           Israel will be your rereward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Israel forsook Babylon at the end of their 70 years of
                 captivity, they did not need to flee, go out with haste, for the
                 way was prepared for them. Not only was the way prepared, but
@@ -312,7 +312,7 @@ export default function Isaiah52() {
           prudently, He shall be exalted and extolled, and be very high.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My Servant is the Lord Jesus Christ. The phrase, Shall deal
                 prudently, means to be circumspect and intelligent. Extolled
                 means to be lifted up, honored, magnified, and respected, with
@@ -370,7 +370,7 @@ export default function Isaiah52() {
           sons of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy predicts the sufferings of Christ in His First
                 Advent, and the glories that shall follow in His Second [
                 <ScrollLink href="/peter1-1" scrollToId="#filepos14677311">
@@ -410,7 +410,7 @@ export default function Isaiah52() {
           consider.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The as of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7907183">
                   <span className="calibre_19">

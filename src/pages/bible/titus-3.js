@@ -16,7 +16,7 @@ export default function Titus3() {
           principalities and powers, to obey Magistrates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Civil Government)</span>
+              <span className="explanation">(refers to Civil Government)</span>
             </span>
           </span>
           , to be ready to every good work{" "}
@@ -45,7 +45,7 @@ export default function Titus3() {
           , to be no brawlers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont be contentious)</span>
+              <span className="explanation">(dont be contentious)</span>
             </span>
           </span>
           ,{" "}
@@ -91,7 +91,7 @@ export default function Titus3() {
           <sup className="calibre7">3</sup>For we ourselves also were sometimes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in time past)</span>
+              <span className="explanation">(in time past)</span>
             </span>
           </span>{" "}
           foolish{" "}
@@ -226,13 +226,13 @@ export default function Titus3() {
           <sup className="calibre7">6</sup>Which He shed on us abundantly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(kindness and Love)</span>
+              <span className="explanation">(kindness and Love)</span>
             </span>
           </span>{" "}
           through Jesus Christ our Saviour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(takes us back to the Cross)</span>
+              <span className="explanation">(takes us back to the Cross)</span>
             </span>
           </span>
           ;

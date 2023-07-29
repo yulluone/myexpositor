@@ -17,7 +17,7 @@ export default function Samuel109() {
           Bechorath, the son of Aphiah, a Benjamite, and mighty man of power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of wealth)</span>
+              <span className="explanation">(of wealth)</span>
             </span>
           </span>
         </span>

@@ -122,13 +122,13 @@ export default function Matthew28() {
           <sup className="calibre7">4</sup>And for fear of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angel)</span>
+              <span className="explanation">(the Angel)</span>
             </span>
           </span>{" "}
           the keepers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(guards)</span>
+              <span className="explanation">(guards)</span>
             </span>
           </span>{" "}
           did shake, and became as dead{" "}
@@ -330,7 +330,7 @@ export default function Matthew28() {
           , saying, All hail{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(actually meant, all joy!)</span>
+              <span className="explanation">(actually meant, all joy!)</span>
             </span>
           </span>
           . And they came and held Him by the feet, and worshipped Him{" "}
@@ -406,7 +406,7 @@ export default function Matthew28() {
           , behold, some of the watch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(soldiers)</span>
+              <span className="explanation">(soldiers)</span>
             </span>
           </span>{" "}
           came into the city, and showed unto the Chief Priests all the things
@@ -427,13 +427,13 @@ export default function Matthew28() {
           <sup className="calibre7">12</sup>And when they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Chief Priests)</span>
+              <span className="explanation">(Chief Priests)</span>
             </span>
           </span>{" "}
           were assembled with the Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sanhedrin)</span>
+              <span className="explanation">(the Sanhedrin)</span>
             </span>
           </span>
           , and had taken counsel{" "}
@@ -583,7 +583,7 @@ export default function Matthew28() {
           , they worshipped Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and rightly so!)</span>
+              <span className="explanation">(and rightly so!)</span>
             </span>
           </span>
           : but some doubted{" "}
@@ -677,7 +677,7 @@ export default function Matthew28() {
           <sup className="calibre7">20</sup>Teaching them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means to give instruction)</span>
+              <span className="explanation">(means to give instruction)</span>
             </span>
           </span>{" "}
           to observe all things{" "}
@@ -691,7 +691,7 @@ export default function Matthew28() {
           whatsoever I have commanded you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not a suggestion)</span>
+              <span className="explanation">(not a suggestion)</span>
             </span>
           </span>
           : and, lo, I am with you always{" "}

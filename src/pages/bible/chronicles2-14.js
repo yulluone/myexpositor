@@ -17,7 +17,7 @@ export default function Chronicles214() {
           stead. In his days the land was quiet ten years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was ten years without war, ten years of peace and
                 prosperity)
               </span>
@@ -32,7 +32,7 @@ export default function Chronicles214() {
           right in the eyes of the LORD his God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the reason for the peace, quiet, and prosperity)
               </span>
             </span>
@@ -47,7 +47,7 @@ export default function Chronicles214() {
           down the groves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, Judah, under Abijah, had been involved at least to
                 some degree in idol worship, hence, the statement made about
                 Abijah in I Ki., Chpt.{" "}
@@ -71,7 +71,7 @@ export default function Chronicles214() {
           God of their fathers, and to do the Law and the Commandment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Asa points Judah to the Bible; how so badly we need Preachers
                 presently who will, as well, point people to the Bible; but all
                 too often the people are pointed in every direction except the
@@ -89,7 +89,7 @@ export default function Chronicles214() {
           quiet before him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This lesson should be plain to every Christian that sin opens
                 the door for strife, opposition, destruction, and all manner of
                 turbulence, while seeking the Ways of God and following the Word
@@ -111,7 +111,7 @@ export default function Chronicles214() {
           LORD had given him rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when one properly follows the Lord, rest is guaranteed [
                 <ScrollLink href="/matthew-11" scrollToId="#filepos10996649">
                   <span className="calibre_19">
@@ -136,7 +136,7 @@ export default function Chronicles214() {
           So they built and prospered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (five times in these first seven Verses of this Chapter, the
                 Holy Spirit alludes to this great blessing of rest)
               </span>
@@ -154,7 +154,7 @@ export default function Chronicles214() {
           targets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(large shields)</span>
+              <span className="explanation">(large shields)</span>
             </span>
           </span>{" "}
           and spears, out of Judah three hundred thousand; and out of Benjamin,
@@ -162,7 +162,7 @@ export default function Chronicles214() {
           all these were mighty men of valour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit here alludes to the power of Judah; when people
                 are right with God, they have power over the enemy [
                 <ScrollLink href="/acts-01" scrollToId="#filepos12756523">
@@ -188,7 +188,7 @@ export default function Chronicles214() {
           the Ethiopian with an host of a thousand thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one million men)</span>
+              <span className="explanation">(one million men)</span>
             </span>
           </span>
           , and three hundred chariots; and came unto Mareshah.
@@ -209,7 +209,7 @@ export default function Chronicles214() {
           our God; let not man prevail against You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Asa, in fact, did have a mighty army, still, he did
                 not rely on such. He cried unto the LORD. All too often blessing
                 and prosperity, even though from God, can turn the hearts and
@@ -228,7 +228,7 @@ export default function Chronicles214() {
           before Asa, and before Judah; and the Ethiopians fled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit is quick here to proclaim the fact that it was
                 the Lord Who brought about this great victory)
               </span>
@@ -245,7 +245,7 @@ export default function Chronicles214() {
           LORD, and before His host; and they carried away very much spoil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the Way of the Lord! Instead of Satan taking all that
                 we have in the Lord, we are to take all that he has. It can be
                 done only if the Believer will place his Faith exclusively in
@@ -279,7 +279,7 @@ export default function Chronicles214() {
           all the cities; for there was exceeding much spoil in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The area around Gerar constituted the extreme southern portion
                 of Judah, in fact, that which bordered Egypt. If the Believer
                 has forfeited any of his spiritual inheritance to Satan, it must
@@ -296,7 +296,7 @@ export default function Chronicles214() {
           Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This great victory dated the commencement of a period of
                 comparative internal peace and reform for the kingdom of Judah,
                 which lasted some twenty-one years, and all because of trust in

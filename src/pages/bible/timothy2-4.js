@@ -37,7 +37,7 @@ export default function Timothy24() {
           , Who shall judge the quick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living)</span>
+              <span className="explanation">(living)</span>
             </span>
           </span>{" "}
           and the dead{" "}
@@ -303,7 +303,7 @@ export default function Timothy24() {
           Crown of Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Victors Crown)</span>
+              <span className="explanation">(the Victors Crown)</span>
             </span>
           </span>
           , which the Lord, the Righteous Judge, shall give me at that day{" "}
@@ -369,7 +369,7 @@ export default function Timothy24() {
           , Titus unto Dalmatia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(modern Yugoslavia)</span>
+              <span className="explanation">(modern Yugoslavia)</span>
             </span>
           </span>
           .
@@ -646,7 +646,7 @@ export default function Timothy24() {
           <sup className="calibre7">19</sup>Salute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greet)</span>
+              <span className="explanation">(greet)</span>
             </span>
           </span>{" "}
           Priscilla and Aquila{" "}
@@ -695,7 +695,7 @@ export default function Timothy24() {
           winter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hence, bringing the cloak)</span>
+              <span className="explanation">(hence, bringing the cloak)</span>
             </span>
           </span>
           . Eubulus greets you, and Pudens, and Linus, and Claudia, and all the

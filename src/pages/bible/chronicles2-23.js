@@ -17,7 +17,7 @@ export default function Chronicles223() {
           <sup className="calibre7">1</sup>And in the seventh year Jehoiada{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the High Priest)</span>
+              <span className="explanation">(the High Priest)</span>
             </span>
           </span>{" "}
           strengthened himself, and took the captains of hundreds, Azariah the
@@ -26,7 +26,7 @@ export default function Chronicles223() {
           Zichri, into covenant with him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The seventh year refers to the length of time between Ahaziahs
                 assassination through the reign of the wicked queen Athaliah.
                 Joash was now seven years old. The covenant had to do with
@@ -42,7 +42,7 @@ export default function Chronicles223() {
           <sup className="calibre7">2</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of{" "}
                 <ScrollLink href="/" scrollToId="#filepos4874024">
                   <span className="calibre_19">
@@ -68,7 +68,7 @@ export default function Chronicles223() {
           David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-07" scrollToId="#filepos3457254">
                   <span className="calibre_19">
@@ -91,7 +91,7 @@ export default function Chronicles223() {
           Levites, shall be porters of the doors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (keepers of the doors of the Temple [
                 <ScrollLink href="/chronicles1-09" scrollToId="#filepos4455733">
                   <span className="calibre_19">
@@ -114,7 +114,7 @@ export default function Chronicles223() {
           the people shall be in the courts of the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to keep watch)</span>
+              <span className="explanation">(to keep watch)</span>
             </span>
           </span>
         </span>
@@ -128,7 +128,7 @@ export default function Chronicles223() {
           watch of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the distinction between the courts of the House of the Lord,
                 which were outside the Temple, and the House of the Lord, is
                 quite apparent; none but the Priests could enter the Temple)
@@ -146,7 +146,7 @@ export default function Chronicles223() {
           you with the king when he comes in, and when he goes out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the exception to the rule of no one entering the Temple but the
                 Priests, at least at this time, was the boy king, Joash; he was
                 to be surrounded by Priests and Levites when he was brought out
@@ -166,7 +166,7 @@ export default function Chronicles223() {
           not the courses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was going to set in motion once again the 24 courses ordained
                 by David)
               </span>
@@ -182,7 +182,7 @@ export default function Chronicles223() {
           shields, that had been king Davids, which were in the House of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some think these may have been the shields of gold that king
                 David took from the servants of Hadadezer [
                 <ScrollLink href="/samuel2-08" scrollToId="#filepos3468646">
@@ -215,7 +215,7 @@ export default function Chronicles223() {
           king round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joash was placed by the Altar of Burnt Offerings, which
                 typified Calvary, with rows of guards bristling with weapons
                 before, behind, and round about him)
@@ -230,13 +230,13 @@ export default function Chronicles223() {
           <sup className="calibre7">11</sup>Then they brought out the kings son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joash)</span>
+              <span className="explanation">(Joash)</span>
             </span>
           </span>
           , and put upon him the crown, and gave him the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Scrolls containing the Law probably Exodus and Leviticus)
               </span>
             </span>
@@ -253,14 +253,14 @@ export default function Chronicles223() {
           <sup className="calibre7">12</sup>Now when Athaliah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wicked queen)</span>
+              <span className="explanation">(the wicked queen)</span>
             </span>
           </span>{" "}
           heard the noise of the people running and praising the king, she came
           to the people into the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (unto the House of the Lord; she did not go into the Temple, but
                 most definitely would have, had she not been restrained)
               </span>
@@ -278,7 +278,7 @@ export default function Chronicles223() {
           such as taught to sing praise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of our music should be to render praise to the Lord)
               </span>
             </span>
@@ -286,7 +286,7 @@ export default function Chronicles223() {
           . Then Athaliah rent her clothes, and said, Treason, Treason{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was treason directed at her, and of that she was right)
               </span>
             </span>
@@ -301,7 +301,7 @@ export default function Chronicles223() {
           them, Have her forth of the ranges{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the ranges or rows of soldiers)
               </span>
             </span>
@@ -309,7 +309,7 @@ export default function Chronicles223() {
           : and whoso follows her, let him be killed with the sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if anyone tries to go into the Temple)
               </span>
             </span>
@@ -317,7 +317,7 @@ export default function Chronicles223() {
           . For the Priest said, Kill her not in the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, they killed her before she could go into the
                 Temple)
               </span>
@@ -350,7 +350,7 @@ export default function Chronicles223() {
           in pieces, and killed Mattan the priest of Baal before the altars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that a building, dedicated to Baal, had been built
                 alongside the Temple)
               </span>
@@ -368,7 +368,7 @@ export default function Chronicles223() {
           rejoicing and with singing, as it was ordained by David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of the 24 courses ordained by David were reinstated, as
                 well as all of the ceremonies of the Law of Moses)
               </span>
@@ -400,7 +400,7 @@ export default function Chronicles223() {
           with the sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the sword did rid Judah of this altogether evil influence,
                 likewise, the sword of the Spirit, which is the Word of God,
                 must, as well, rid every enemy of our souls from our lives [

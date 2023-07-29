@@ -197,13 +197,13 @@ export default function Kings105() {
           thousand measures of wheat for food to his household{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 4,000 bushels)</span>
+              <span className="explanation">(about 4,000 bushels)</span>
             </span>
           </span>
           , and twenty measures of pure oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 60 gallons)</span>
+              <span className="explanation">(about 60 gallons)</span>
             </span>
           </span>
           : thus gave Solomon to Hiram year by year{" "}
@@ -248,7 +248,9 @@ export default function Kings105() {
           months at home: and Adoniram was over the levy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not a great hardship at all!)</span>
+              <span className="explanation">
+                (not a great hardship at all!)
+              </span>
             </span>
           </span>
         </span>
@@ -260,13 +262,13 @@ export default function Kings105() {
           thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70,000)</span>
+              <span className="explanation">(70,000)</span>
             </span>
           </span>{" "}
           who bore burdens, and fourscore thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(80,000)</span>
+              <span className="explanation">(80,000)</span>
             </span>
           </span>{" "}
           hewers in the mountains{" "}

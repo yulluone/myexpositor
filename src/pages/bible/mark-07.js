@@ -63,7 +63,7 @@ export default function Mark07() {
           hands often, eat not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ceremonial religion)</span>
+              <span className="explanation">(ceremonial religion)</span>
             </span>
           </span>
           , holding the tradition of the Elders{" "}
@@ -276,7 +276,7 @@ export default function Mark07() {
           mother, let him die the death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is deserving of death)</span>
+              <span className="explanation">(is deserving of death)</span>
             </span>
           </span>
           :
@@ -445,13 +445,13 @@ export default function Mark07() {
           house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably Peters house)</span>
+              <span className="explanation">(probably Peters house)</span>
             </span>
           </span>{" "}
           from the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from teaching the people)</span>
+              <span className="explanation">(from teaching the people)</span>
             </span>
           </span>
           , His Disciples asked Him concerning the Parable{" "}
@@ -502,7 +502,7 @@ export default function Mark07() {
           <sup className="calibre7">19</sup>Because it enters not into his heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(food is not spiritual)</span>
+              <span className="explanation">(food is not spiritual)</span>
             </span>
           </span>
           , but into the belly, and goes out into the draught, purging all
@@ -613,7 +613,7 @@ export default function Mark07() {
           woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the reason He came)</span>
+              <span className="explanation">(this is the reason He came)</span>
             </span>
           </span>
           , whose young daughter had an unclean spirit, heard of Him, and came
@@ -626,13 +626,13 @@ export default function Mark07() {
           Syrophenician by nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Gentile)</span>
+              <span className="explanation">(a Gentile)</span>
             </span>
           </span>
           ; and she besought Him that He would cast forth the devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>{" "}
           out of her daughter.
@@ -652,13 +652,13 @@ export default function Mark07() {
           , Let the children first be filled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(has reference to Israel)</span>
+              <span className="explanation">(has reference to Israel)</span>
             </span>
           </span>
           : for it is not meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proper)</span>
+              <span className="explanation">(proper)</span>
             </span>
           </span>{" "}
           to take the childrens bread, and to cast{" "}
@@ -727,7 +727,7 @@ export default function Mark07() {
           go your way; the devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>{" "}
           is gone out of your daughter{" "}
@@ -765,14 +765,14 @@ export default function Mark07() {
           <sup className="calibre7">31</sup>And again, departing from the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Tyre and Sidon, He came unto the Sea of Galilee, through the midst
           of the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Decapolis{" "}
@@ -800,7 +800,7 @@ export default function Mark07() {
           ; and they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(friends of the deaf man)</span>
+              <span className="explanation">(friends of the deaf man)</span>
             </span>
           </span>{" "}
           beseech Him to put His Hand upon him.
@@ -812,7 +812,9 @@ export default function Mark07() {
           multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there was a purpose for this)</span>
+              <span className="explanation">
+                (there was a purpose for this)
+              </span>
             </span>
           </span>
           , and put His Fingers into his ears, and He spit, and touched his
@@ -834,7 +836,7 @@ export default function Mark07() {
           <sup className="calibre7">34</sup>And looking up to Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all help comes from above)</span>
+              <span className="explanation">(all help comes from above)</span>
             </span>
           </span>
           , He sighed{" "}
@@ -849,7 +851,7 @@ export default function Mark07() {
           , and said unto him, Ephphatha, that is, Be opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(expresses the command)</span>
+              <span className="explanation">(expresses the command)</span>
             </span>
           </span>
           .
@@ -860,7 +862,7 @@ export default function Mark07() {
           <sup className="calibre7">35</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           his ears were opened, and the string of his tongue was loosed, and he
@@ -881,7 +883,7 @@ export default function Mark07() {
           <sup className="calibre7">36</sup>And He charged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(commanded)</span>
+              <span className="explanation">(commanded)</span>
             </span>
           </span>{" "}
           them that they should tell no man: but the more He charged them, so

@@ -16,7 +16,7 @@ export default function Isaiah40() {
           says your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this First Verse, Judahs faithful God hastens, beforehand,
                 to assure the exiles [when they are later banished to Babylon],
                 prophetically, that He will not forget nor lose sight of them.
@@ -49,7 +49,7 @@ export default function Isaiah40() {
           sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage leaps ahead until after the captivity, which will
                 be many years in the future.
               </span>
@@ -108,7 +108,7 @@ export default function Isaiah40() {
           desert a highway for our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The voice of this Verse was partially fulfilled in John the
                 Baptist, but will be totally fulfilled in the coming ministry of
                 Elijah [
@@ -149,7 +149,7 @@ export default function Isaiah40() {
           made straight, and the rough places plain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when Christ comes the Second Time, every valley in the world,
                 filled with its hurting and weeping, will at that time be
                 exalted. The mountain and hill represent the oppressors of the
@@ -169,7 +169,7 @@ export default function Isaiah40() {
           LORD has spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Glory of the Lord is Jesus Christ. At the Second Coming,
                 all flesh shall see it together.)
               </span>
@@ -184,7 +184,7 @@ export default function Isaiah40() {
           is as the flower of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the voice in this Passage is that of the Holy Spirit. He
                 instructs the Prophet what to proclaim. The message is, and will
                 ever be, a humbling one; but its acceptance by man is a
@@ -202,7 +202,7 @@ export default function Isaiah40() {
           grass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man, as symbolized here by the word grass, has no moral worth.
                 To prove that, the Spirit of the LORD blows upon it, exposing
                 all deadly flaws.)
@@ -217,7 +217,7 @@ export default function Isaiah40() {
           but the Word of our God shall stand forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Love and Truth which tell man of his moral ruin reveal to
                 him, at the same time, an ever-living Saviour Whose Word is
                 infallible and eternal.)
@@ -234,7 +234,7 @@ export default function Isaiah40() {
           the cities of Judah, Behold your God!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah is saying that the Preacher is to point Israel to Jesus
                 of Nazareth and cry, Behold your God!)
               </span>
@@ -249,7 +249,7 @@ export default function Isaiah40() {
           with Him, and His work before Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His title as Adonai-Jehovah expresses His claim as King of all
                 the Earth. The phrase, His arm shall rule for Him, means that
                 Christ will not need to lean on anothers arm for governmental
@@ -267,7 +267,7 @@ export default function Isaiah40() {
           His bosom, and shall gently lead those who are with young.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Perfection of His Love as a Shepherd is set out in this
                 Verse with exquisite beauty.)
               </span>
@@ -286,7 +286,7 @@ export default function Isaiah40() {
           mountains in scales, and the hills in a balance?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7726892">
                   <span className="calibre_19">
@@ -308,7 +308,7 @@ export default function Isaiah40() {
           LORD, or being His counselor has taught Him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was quoted by Paul in{" "}
                 <ScrollLink href="/romans-11" scrollToId="#filepos13467905">
                   <span className="calibre_19">
@@ -345,7 +345,7 @@ export default function Isaiah40() {
           Knowledge, and showed to Him the Way of Understanding?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God instructs, because He knows all; therefore, none can
                 instruct Him. Likewise, He teaches, and does not need to be
                 taught, because He knows all.)
@@ -361,7 +361,7 @@ export default function Isaiah40() {
           takes up the isles as a very little thing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As God weighs mountains and hills in His balance, so He can
                 take up in His Own Hands lands or countries, with all their
                 inhabitants, and do with them as seems to Him good. They are of
@@ -377,7 +377,7 @@ export default function Isaiah40() {
           burn, nor the beasts thereof sufficient for a Burnt Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, God is in effect saying that if all the beasts
                 in Lebanon were offered as Sacrifice and all the great forests
                 of this country, which were noted for their great Firs and
@@ -394,7 +394,7 @@ export default function Isaiah40() {
           nothing; and they are counted to Him less than nothing, and vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos7728698">
                   <span className="calibre_19">
@@ -416,7 +416,7 @@ export default function Isaiah40() {
           what likeness will you compare unto Him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This great God and Saviour, Jesus Christ, is contrasted here
                 with idols in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7730172">
@@ -438,7 +438,7 @@ export default function Isaiah40() {
           and the goldsmith spreads it over with gold, and casts silver chains.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Isaiah now employs ridicule, and the
                 first ground of His ridicule is the formation of an image. It is
                 made by man himself out of known material substance. Can it be
@@ -456,7 +456,7 @@ export default function Isaiah40() {
           cunning workman to prepare a graven image, that shall not be moved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As someone has said, The thing carries its own satire in the
                 mere plain description of it. Is such a thing comparable to
                 God?)
@@ -472,7 +472,7 @@ export default function Isaiah40() {
           understood from the foundations of the Earth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That God made a Revelation of Himself to man at, and from, the
                 beginning is clear from this Verse and{" "}
                 <ScrollLink href="/romans-01" scrollToId="#filepos13283910">
@@ -509,7 +509,7 @@ export default function Isaiah40() {
           to dwell in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word upon would better read above. The words, the circle of
                 the Earth, reveal that the Earth is round. The curtain speaks of
                 the atmosphere surrounding the Earth, which protects it from
@@ -528,7 +528,7 @@ export default function Isaiah40() {
           He makes the judges of the Earth as vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Men who think of themselves as mighty count as nothing to God.
                 Men rule, but God overrules!)
               </span>
@@ -544,7 +544,7 @@ export default function Isaiah40() {
           and the whirlwind shall take them away as stubble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is: all of mans efforts, no matter how
                 powerful he may think he is, in his opposition to God, sow the
                 seed of his own destruction.)
@@ -559,7 +559,7 @@ export default function Isaiah40() {
           shall I be equal? says the Holy One.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit asks the question. This is a
                 summary to conclude the section, as{" "}
                 <ScrollLink href="/" scrollToId="#filepos7730172">
@@ -585,7 +585,7 @@ export default function Isaiah40() {
           that He is strong in power; not one fails.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some 50 years ago, it was claimed by Astronomers that there
                 were over 40 sextillion [40,000,000,000,000,000,000,000] stars
                 in the Universe. There are as well approximately 500,000 entries
@@ -607,7 +607,7 @@ export default function Isaiah40() {
           passed over from my God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Understanding, at least somewhat, of the Greatness of God, and
                 then to think that we can hide things from Him, presents
                 foolishness of the highest order.)
@@ -624,7 +624,7 @@ export default function Isaiah40() {
           understanding.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the Lord tells Israel and us that He never fails
                 or wearies in upholding the feeblest of His people, nor does He
                 ever tire of our circumstances, nor grow uninterested in our
@@ -643,7 +643,7 @@ export default function Isaiah40() {
           them who have no might He increases strength.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So far is He from being faint Himself that He has superabundant
                 energy to impart to any who are faint among His servants. What a
                 Promise!)
@@ -658,7 +658,7 @@ export default function Isaiah40() {
           weary, and the young men shall utterly fall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this has reference to the fact that even the most vigorous and
                 powerful men will faint under enough strain and eventually fall;
                 mans strength is grossly limited, even the strength of the
@@ -677,7 +677,7 @@ export default function Isaiah40() {
           they shall run, and not be weary; and they shall walk, and not faint.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word wait, in the Hebrew, is qavah, and means to bind
                 together by twisting. The sense is that if we really wait upon
                 the LORD, we will be constantly seeking His Face and, being

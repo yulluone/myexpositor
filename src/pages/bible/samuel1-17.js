@@ -128,7 +128,7 @@ export default function Samuel117() {
           coat was five thousand shekels of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 125 pounds)</span>
+              <span className="explanation">(about 125 pounds)</span>
             </span>
           </span>
         </span>
@@ -146,7 +146,7 @@ export default function Samuel117() {
           weavers beam; and his spears head weighed six hundred shekels of iron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 15 pounds)</span>
+              <span className="explanation">(about 15 pounds)</span>
             </span>
           </span>
           : and one bearing a shield went before him.{" "}
@@ -383,7 +383,7 @@ export default function Samuel117() {
           <sup className="calibre7">22</sup>And David left his carriage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stuff)</span>
+              <span className="explanation">(stuff)</span>
             </span>
           </span>{" "}
           in the hand of the keeper of the carriage, and ran into the army, and
@@ -398,13 +398,13 @@ export default function Samuel117() {
           <sup className="calibre7">23</sup>And as he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           talked with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his brothers)</span>
+              <span className="explanation">(his brothers)</span>
             </span>
           </span>
           , behold, there came up the champion, the Philistine of Gath, Goliath
@@ -475,14 +475,14 @@ export default function Samuel117() {
           those few sheep in the wilderness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Meant sarcastically.)</span>
+              <span className="explanation">(Meant sarcastically.)</span>
             </span>
           </span>
           I know your pride, and the naughtiness of your heart; for you are come
           down that you might see the battle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said with contempt!)</span>
+              <span className="explanation">(said with contempt!)</span>
             </span>
           </span>
         </span>
@@ -507,13 +507,13 @@ export default function Samuel117() {
           <sup className="calibre7">30</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           turned from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eliab)</span>
+              <span className="explanation">(Eliab)</span>
             </span>
           </span>{" "}
           toward another, and spoke after the same manner: and the people
@@ -705,7 +705,7 @@ export default function Samuel117() {
           out of the brook{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of the Holy Spirit)</span>
+              <span className="explanation">(a Type of the Holy Spirit)</span>
             </span>
           </span>
           , and put them in a shepherds bag which he had{" "}
@@ -726,7 +726,7 @@ export default function Samuel117() {
           near unto David; and the man that bore the shield went before him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before Goliath)</span>
+              <span className="explanation">(before Goliath)</span>
             </span>
           </span>
         </span>
@@ -773,7 +773,7 @@ export default function Samuel117() {
           to the beasts of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(or so he thought!)</span>
+              <span className="explanation">(or so he thought!)</span>
             </span>
           </span>
         </span>
@@ -934,7 +934,7 @@ export default function Samuel117() {
           , and took his sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sword of the Spirit)</span>
+              <span className="explanation">(the Sword of the Spirit)</span>
             </span>
           </span>
           , and drew it out of the sheath thereof, and killed him, and cut off

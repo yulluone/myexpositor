@@ -24,7 +24,7 @@ export default function Judges09() {
           sons of Jerub-baal, which are threescore and ten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70)</span>
+              <span className="explanation">(70)</span>
             </span>
           </span>{" "}
           persons, reign over you, or that one reign over you? remember also
@@ -43,7 +43,7 @@ export default function Judges09() {
           <sup className="calibre7">4</sup>And they gave him threescore and ten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70)</span>
+              <span className="explanation">(70)</span>
             </span>
           </span>{" "}
           pieces of silver out of the house of Baal-berith, wherewith Abimelech

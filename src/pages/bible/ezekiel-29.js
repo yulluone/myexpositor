@@ -17,7 +17,7 @@ export default function Ezekiel29() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy was given about six months before Jerusalem fell;
                 they cover the period from 587-572 B.C.; they appear in moral,
                 and not in chronological order; in fact, each of these
@@ -36,7 +36,7 @@ export default function Ezekiel29() {
           Pharaoh king of Egypt, and prophesy against him, and against all Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt is the last world-kingdom addressed by Ezekiel. It is
                 first addressed by Jeremiah [Jer., Chpt.{" "}
                 <ScrollLink href="/jeremiah-46" scrollToId="#filepos8783675">
@@ -69,7 +69,7 @@ export default function Ezekiel29() {
           and I have made it for myself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse begins a pronounced Judgment against Egypt, which
                 would ensure its denigration, at least until the Second Coming
                 of the Lord. Pharaoh considered himself to be god, and thus, the
@@ -88,7 +88,7 @@ export default function Ezekiel29() {
           fish of your rivers shall stick unto your scales.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fish of your rivers refer to Pharaohs adherents. The idea
                 is, Pharaoh and the entire land of Egypt will be destroyed.
                 Tragically, this man, Pharaoh-Hophra, was the one Zedekiah
@@ -107,7 +107,7 @@ export default function Ezekiel29() {
           the heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is said that Pharaoh attacked Tyre and Zidon and then failed
                 in an enterprise against Cyrene. He was then deposed by Amasis
                 in 596 B.C. It was probably this expedition against Cyrene which
@@ -129,7 +129,7 @@ export default function Ezekiel29() {
           to the House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At least one of the causes of Gods great Anger outlined against
                 Egypt is because of her betrayal of Judah. Even though it was
                 Gods Will that Babylon serve as the chastiser of Judah, still,
@@ -148,7 +148,7 @@ export default function Ezekiel29() {
           upon you, you broke, and made all their loins to be at a stand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a result of Egypts promises that they would deliver Judah,
                 Zedekiah held out against Nebuchadnezzar. This greatly incensed
                 the Babylonian Monarch and caused him to wreak terrible
@@ -167,7 +167,7 @@ export default function Ezekiel29() {
           of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to what the Babylonians would do to them; and it
                 was designed by the Lord.)
               </span>
@@ -181,13 +181,13 @@ export default function Ezekiel29() {
           desolate and waste; and they shall know that I am the LORD: because he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaoh)</span>
+              <span className="explanation">(Pharaoh)</span>
             </span>
           </span>{" "}
           has said, The river is mine, and I have made it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through the Prophet refers back to the boastful
                 pride of Pharaoh by the phrase which the Egyptian Monarch used:
                 The river is mine, and I have made it. The idea is: if Pharaoh
@@ -213,7 +213,7 @@ export default function Ezekiel29() {
           Ethiopia.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It should read, from Migdol to Syene, even unto the border of
                 Ethiopia. Migdol represented the northern extremity of Egypt, as
                 Syene represented the southern; therefore, the entirety of Egypt
@@ -230,7 +230,7 @@ export default function Ezekiel29() {
           inhabited forty years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that no man or beast shall pass through Egypt
                 regarding the prosperity of the nation. There would certainly be
                 men and beasts there, but they would be subject to foreign
@@ -249,7 +249,7 @@ export default function Ezekiel29() {
           disperse them through the countries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though there is no historical records of the fulfillment
                 of these particular Passages, still, knowing that Nebuchadnezzar
                 invaded Egypt after the destruction of Jerusalem, we may assume,
@@ -269,7 +269,7 @@ export default function Ezekiel29() {
           they were scattered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at approximately the time that Israel was allowed by Cyrus to
                 go back to the Promised Land, likewise, Egypt was then allowed a
                 measure of statehood)
@@ -286,7 +286,7 @@ export default function Ezekiel29() {
           the land of their habitation; and they shall be there a base kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A base kingdom, means one that is a subordinate kingdom, which
                 Egypt has been from then until now. In other words, her
                 greatness of the past was never again duplicated.)
@@ -303,7 +303,7 @@ export default function Ezekiel29() {
           nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It came to pass exactly as the Lord said. Today, Egypt is
                 basically little more than a shabby sextant of ancient tombs;
                 however, in the coming Kingdom Age, Egypt will be restored and
@@ -329,7 +329,7 @@ export default function Ezekiel29() {
           I am the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel looked after the Egyptians instead of after Jehovah; by
                 so doing, they kept bringing their iniquity [unbelief] to Gods
                 Remembrance. The phrase, And it shall be no more the confidence
@@ -355,7 +355,7 @@ export default function Ezekiel29() {
           Word of the LORD came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (adding{" "}
                 <ScrollLink href="/" scrollToId="#filepos9426847">
                   <span className="calibre_19">
@@ -404,7 +404,7 @@ export default function Ezekiel29() {
           against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the siege of Tyre lasted 13 years. The Babylonian
                 king undertook it at Gods Command [
                 <ScrollLink href="/jeremiah-25" scrollToId="#filepos8494619">
@@ -431,7 +431,7 @@ export default function Ezekiel29() {
           her prey; and it shall be the wages for his army.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of course, Nebuchadnezzar had no knowledge of what the Lord was
                 doing; nevertheless, the Babylonian Monarch carried out the Will
                 of God, whether he realized it or not!)
@@ -458,7 +458,7 @@ export default function Ezekiel29() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, In that day, refer to the coming restoration of
                 Israel at the beginning of the Kingdom Age. Israel will be the
                 central nation in the midst of all the nations of the world,

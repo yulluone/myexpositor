@@ -16,7 +16,7 @@ export default function Corinthians113() {
           men and of Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually says in the Greek, If it were possible to speak with
                 the tongues of men and of Angels; as well, Paul is not
                 denigrating speaking with Tongues, as some have claimed [
@@ -37,7 +37,7 @@ export default function Corinthians113() {
           , and have not charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>
           , I am become{" "}
@@ -49,7 +49,7 @@ export default function Corinthians113() {
           sounding brass, or a tinkling cymbal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to our modern musical instrument which we call
                 by that name, but that which made no more than a clattering
                 sound)
@@ -71,7 +71,7 @@ export default function Corinthians113() {
           I have all Faith, so that I could remove mountains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that the Gifts of the Spirit can be had by less than
                 perfect people, as should be obvious)
               </span>
@@ -80,13 +80,13 @@ export default function Corinthians113() {
           , and have not charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>
           , I am nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We now see the basis on which everything must be built it is
                 love. If not, we are nothing!)
               </span>
@@ -106,19 +106,19 @@ export default function Corinthians113() {
           and though I give my body to be burned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shifts from Gifts to Works)</span>
+              <span className="explanation">(shifts from Gifts to Works)</span>
             </span>
           </span>
           , and have not charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>
           , it profits me nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As commendable as the acts may be, they bring a grade of zero
                 unless Gods Love motivates them.)
               </span>
@@ -134,13 +134,13 @@ export default function Corinthians113() {
           <sup className="calibre7">4</sup>Charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           suffers long{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to patience)</span>
+              <span className="explanation">(refers to patience)</span>
             </span>
           </span>
           ,{" "}
@@ -152,7 +152,7 @@ export default function Corinthians113() {
           is kind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents the second side of the Divine attitude toward human
                 kind)
               </span>
@@ -161,13 +161,13 @@ export default function Corinthians113() {
           ; charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the God kind of Love)</span>
+              <span className="explanation">(the God kind of Love)</span>
             </span>
           </span>{" "}
           envies not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not want that which belongs to others)
               </span>
             </span>
@@ -175,13 +175,13 @@ export default function Corinthians113() {
           ; Love vaunts not itself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is never a braggart)</span>
+              <span className="explanation">(is never a braggart)</span>
             </span>
           </span>
           , is not puffed up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is not prideful)</span>
+              <span className="explanation">(is not prideful)</span>
             </span>
           </span>
           ,
@@ -192,7 +192,7 @@ export default function Corinthians113() {
           <sup className="calibre7">5</sup>Does not behave itself unseemly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is forgetful of self and thoughtful of others)
               </span>
             </span>
@@ -200,13 +200,13 @@ export default function Corinthians113() {
           , seeks not her own{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is unselfish)</span>
+              <span className="explanation">(is unselfish)</span>
             </span>
           </span>
           , is not easily provoked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not embittered by abuse, insult, or injury)
               </span>
             </span>
@@ -214,7 +214,7 @@ export default function Corinthians113() {
           , thinks no evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(takes no account of evil)</span>
+              <span className="explanation">(takes no account of evil)</span>
             </span>
           </span>
           ;
@@ -225,7 +225,7 @@ export default function Corinthians113() {
           <sup className="calibre7">6</sup>Rejoices not in iniquity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (never gossips about the misdeeds of others)
               </span>
             </span>
@@ -233,7 +233,7 @@ export default function Corinthians113() {
           , but rejoices in the Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which the Word of God identifies as Truth)
               </span>
             </span>
@@ -246,13 +246,13 @@ export default function Corinthians113() {
           <sup className="calibre7">7</sup>Bears all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(never complains)</span>
+              <span className="explanation">(never complains)</span>
             </span>
           </span>
           , believes all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (takes the kindest views of all men)
               </span>
             </span>
@@ -260,13 +260,15 @@ export default function Corinthians113() {
           , hopes all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(keeps believing for the best)</span>
+              <span className="explanation">
+                (keeps believing for the best)
+              </span>
             </span>
           </span>
           , endures all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(puts up with everything)</span>
+              <span className="explanation">(puts up with everything)</span>
             </span>
           </span>
           .
@@ -280,7 +282,7 @@ export default function Corinthians113() {
           <sup className="calibre7">8</sup>Love never fails{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because love cannot fail)</span>
+              <span className="explanation">(because love cannot fail)</span>
             </span>
           </span>
           : but whether{" "}
@@ -304,7 +306,7 @@ export default function Corinthians113() {
           Knowledge, it shall vanish away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that the Gifts of the Spirit will not
                 be needed in the coming Resurrection, as well as many other
                 things we could name.)
@@ -318,7 +320,7 @@ export default function Corinthians113() {
           <sup className="calibre7">9</sup>For we know in part{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Word of Knowledge, which is just part
                 Knowledge)
               </span>
@@ -327,7 +329,9 @@ export default function Corinthians113() {
           , and we Prophesy in part{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(falls into the same category)</span>
+              <span className="explanation">
+                (falls into the same category)
+              </span>
             </span>
           </span>
           .
@@ -339,7 +343,7 @@ export default function Corinthians113() {
           come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Rapture of the Church, i.e., the Resurrection)
               </span>
             </span>
@@ -347,7 +351,7 @@ export default function Corinthians113() {
           , then that which is in part shall be done away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as should be obvious)</span>
+              <span className="explanation">(as should be obvious)</span>
             </span>
           </span>
           .
@@ -360,7 +364,7 @@ export default function Corinthians113() {
           became a man, I put away childish things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is comparing our present state, as a child, to that
                 which is coming, symbolized by a mature adult. That is the
                 difference between the present state and the coming
@@ -375,25 +379,27 @@ export default function Corinthians113() {
           <sup className="calibre7">12</sup>For now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before the Resurrection)</span>
+              <span className="explanation">(before the Resurrection)</span>
             </span>
           </span>{" "}
           we see through a glass, darkly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(can only see the dim outline)</span>
+              <span className="explanation">
+                (can only see the dim outline)
+              </span>
             </span>
           </span>
           ; but then{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after the Resurrection)</span>
+              <span className="explanation">(after the Resurrection)</span>
             </span>
           </span>{" "}
           face to face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we can look and see openly and clearly)
               </span>
             </span>
@@ -401,13 +407,13 @@ export default function Corinthians113() {
           : now I know in part{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(have some knowledge)</span>
+              <span className="explanation">(have some knowledge)</span>
             </span>
           </span>
           ; but then shall I know even as also I am known{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (then everything will be perfect and complete)
               </span>
             </span>
@@ -420,13 +426,15 @@ export default function Corinthians113() {
           <sup className="calibre7">13</sup>And now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before the Resurrection)</span>
+              <span className="explanation">(before the Resurrection)</span>
             </span>
           </span>{" "}
           abides Faith, Hope, Love, these three{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all three will abide forever)</span>
+              <span className="explanation">
+                (all three will abide forever)
+              </span>
             </span>
           </span>
           ; but the greatest of these{" "}
@@ -438,7 +446,7 @@ export default function Corinthians113() {
           Love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the greatest because Love alone makes us like God [
                 <ScrollLink href="/john1-4" scrollToId="#filepos14827280">
                   <span className="calibre_19">

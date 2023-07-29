@@ -17,7 +17,7 @@ export default function Chronicles235() {
           day of the first month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passover was the foundation of all Israels worship and Gods
                 dealing with His People; it represents Israels deliverance out
                 of Egypt by the slain lamb and the shedding of innocent blood;
@@ -52,7 +52,7 @@ export default function Chronicles235() {
           God, and His people Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, the Ark of the Covenant had been taken out of the
                 Holy of Holies, quite possibly by Josiahs wicked father, Amon;
                 it was to be placed in the Holy of Holies and intended to be
@@ -70,7 +70,7 @@ export default function Chronicles235() {
           king of Israel, and according to the writing of Solomon his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, handle everything according to the Word of God)
               </span>
             </span>
@@ -83,7 +83,7 @@ export default function Chronicles235() {
           <sup className="calibre7">5</sup>And stand in the Holy Place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to carry on the work of offering the Incense, keeping the Lamps
                 lit, etc.)
               </span>
@@ -94,7 +94,7 @@ export default function Chronicles235() {
           Levites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(according to the 24 courses)</span>
+              <span className="explanation">(according to the 24 courses)</span>
             </span>
           </span>
         </span>
@@ -107,7 +107,7 @@ export default function Chronicles235() {
           the Word of the LORD by the hand of Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this records the fact that Josiah believed that Moses wrote the
                 Pentateuch, and{" "}
                 <ScrollLink href="/" scrollToId="#filepos5017972">
@@ -140,7 +140,7 @@ export default function Chronicles235() {
           bullocks: these were of the kings substance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were to be offered up as Sacrifices according to the Word
                 of the Lord, and it seems the animals were given to the people
                 free of charge)
@@ -155,7 +155,7 @@ export default function Chronicles235() {
           <sup className="calibre7">8</sup>And his princes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wealthy people)</span>
+              <span className="explanation">(wealthy people)</span>
             </span>
           </span>{" "}
           gave willingly unto the people, to the Priests, and to the Levites:
@@ -164,7 +164,7 @@ export default function Chronicles235() {
           hundred small cattle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably sheep)</span>
+              <span className="explanation">(probably sheep)</span>
             </span>
           </span>
           , and three hundred oxen.
@@ -195,7 +195,7 @@ export default function Chronicles235() {
           flayed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pulled the skin from their bodies)
               </span>
             </span>
@@ -217,7 +217,7 @@ export default function Chronicles235() {
           fire according to the Ordinance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-12" scrollToId="#filepos828569">
                   <span className="calibre_19">
@@ -234,7 +234,7 @@ export default function Chronicles235() {
           in pans, and divided them speedily among all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the people were carefully attended)
               </span>
             </span>
@@ -260,7 +260,7 @@ export default function Chronicles235() {
           brethren the Levites prepared for them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims the fact that as the Sacrifices were
                 offered, they were accompanied by music, singing, and worship.
                 When Calvary is held up as the Foundation of the Faith, it
@@ -290,7 +290,7 @@ export default function Chronicles235() {
           Bread seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passover was kept on the first day of the seven)
               </span>
             </span>
@@ -307,7 +307,7 @@ export default function Chronicles235() {
           and the inhabitants of Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was also said of Hezekiahs observance of the Passover; the
                 statement is true in both cases, for Hezekiah kept the Passover
                 such as had never been kept up unto his day [
@@ -331,7 +331,7 @@ export default function Chronicles235() {
           of Josiah was this Passover kept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Josiah was now 26 years old)</span>
+              <span className="explanation">(Josiah was now 26 years old)</span>
             </span>
           </span>
         </span>
@@ -345,7 +345,7 @@ export default function Chronicles235() {
           <sup className="calibre7">20</sup>After all this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Josiah was 39 at this time)</span>
+              <span className="explanation">(Josiah was 39 at this time)</span>
             </span>
           </span>
           , when Josiah had prepared the Temple, Necho king of Egypt came up to
@@ -358,13 +358,13 @@ export default function Chronicles235() {
           <sup className="calibre7">21</sup>But he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Necho)</span>
+              <span className="explanation">(Necho)</span>
             </span>
           </span>{" "}
           sent ambassadors to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Josiah)</span>
+              <span className="explanation">(to Josiah)</span>
             </span>
           </span>
           , saying, What have I to do with you, you king of Judah? I come not
@@ -373,7 +373,7 @@ export default function Chronicles235() {
           Who is with me, that He destroy you not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is quite a statement coming from a heathen, but yet the
                 Holy Spirit would ultimately say that he was right)
               </span>
@@ -390,7 +390,7 @@ export default function Chronicles235() {
           and came to fight in the valley of Megiddo{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every evidence is that Josiah was wrong in doing this)
               </span>
             </span>
@@ -414,7 +414,7 @@ export default function Chronicles235() {
           Josiah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It has been argued from then until now as to why Josiah did
                 this. Other than the information given here, the Scriptures are
                 silent.
@@ -473,7 +473,7 @@ export default function Chronicles235() {
           behold, they are written in the lamentations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not the Book of Lamentations later written by Jeremiah)
               </span>
             </span>
@@ -488,7 +488,7 @@ export default function Chronicles235() {
           the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this sentence pictures Josiah as a careful, loving student of
                 the Word, to the end that he might become a doer of it)
               </span>

@@ -24,7 +24,7 @@ export default function Numbers34() {
           Canaan with the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           thereof:){" "}
@@ -49,7 +49,7 @@ export default function Numbers34() {
           border shall be the outmost coast of the salt sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Dead Sea)</span>
+              <span className="explanation">(Dead Sea)</span>
             </span>
           </span>{" "}
           eastward:
@@ -78,7 +78,7 @@ export default function Numbers34() {
           , and the goings out of it shall be at the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Mediterranean)</span>
+              <span className="explanation">(Mediterranean)</span>
             </span>
           </span>
         </span>
@@ -90,7 +90,7 @@ export default function Numbers34() {
           shall even have the great sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Mediterranean)</span>
+              <span className="explanation">(Mediterranean)</span>
             </span>
           </span>{" "}
           for a border: this shall be your west border.
@@ -147,7 +147,7 @@ export default function Numbers34() {
           Jordan, and the goings out of it shall be at the salt sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Dead Sea)</span>
+              <span className="explanation">(Dead Sea)</span>
             </span>
           </span>
           : this shall be your land with the coasts thereof round about{" "}

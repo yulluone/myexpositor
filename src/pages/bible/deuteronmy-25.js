@@ -17,7 +17,7 @@ export default function Deuteronmy25() {
           they shall justify the righteous, and condemn the wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wickedness must not be condoned)
               </span>
             </span>
@@ -40,7 +40,7 @@ export default function Deuteronmy25() {
           many stripes, then your brother should seem vile unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (forty is Gods probationary number; however, such punishment was
                 to be rendered by the Judge, and not at all by individuals
                 taking the law into their own hands)
@@ -59,7 +59,7 @@ export default function Deuteronmy25() {
           treads out the corn.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Expositors say, The leaving of the ox unmuzzled when
                 treading out the grain was in order that the animal might be
                 free to eat of the grain which its labor severed from the husk.
@@ -97,7 +97,7 @@ export default function Deuteronmy25() {
           brother unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that is, if he was not already married, or if the woman had no
                 children)
               </span>
@@ -113,7 +113,7 @@ export default function Deuteronmy25() {
           dead, that his name be not put out of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shall be enrolled in the family register as heir of the
                 deceased, and shall perpetuate his name; this had to do with the
                 fact that the Messiah would come from a certain family in
@@ -155,7 +155,7 @@ export default function Deuteronmy25() {
           Israel, The house of him who has his shoe loosed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (an example of this is found in Gen., Chpt.{" "}
                 <ScrollLink href="/genesis-38" scrollToId="#filepos512033">
                   <span className="calibre_19">
@@ -182,7 +182,7 @@ export default function Deuteronmy25() {
           takes him by the secrets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shall not induce such pain by bruising the testicles, which
                 could make the man impotent)
               </span>
@@ -225,7 +225,7 @@ export default function Deuteronmy25() {
           who do unrighteously, are an abomination unto the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(honesty in all things)</span>
+              <span className="explanation">(honesty in all things)</span>
             </span>
           </span>
         </span>
@@ -256,7 +256,7 @@ export default function Deuteronmy25() {
           heaven; you shall not forget it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Amalek was to be utterly destroyed; not so the Egyptian. The
                 Egyptian pictures man, as such; the Amalekite, man as the
                 willing agent of evil. This means that the attitude of the

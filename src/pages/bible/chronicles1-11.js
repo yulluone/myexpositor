@@ -24,7 +24,7 @@ export default function Chronicles111() {
           shall be ruler over My people Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was the Will of God that David be the first king of Israel,
                 and not Saul. It is just as wrong to get ahead of God as it is
                 to lag behind. Regrettably, Israel, despite the problems with
@@ -49,7 +49,7 @@ export default function Chronicles111() {
           according to the Word of the LORD by Samuel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One can literally sense the Presence of God, even reading these
                 words. It had taken some time, and much suffering and sorrow,
                 but Israel has finally come around to Gods Way.
@@ -84,7 +84,7 @@ export default function Chronicles111() {
           of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a type, the Jebusites symbolize a stronghold that Satan
                 erects within our hearts and lives. Saul never did defeat the
                 Jebusites, who were within; consequently, the Philistines, who
@@ -137,7 +137,7 @@ export default function Chronicles111() {
           of Zion, which is the city of David.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan will ever taunt us, declaring that since he has
                 established this stronghold for so long, he cannot be dislodged.
                 Through Christ and the Cross, every stronghold of Satan can be
@@ -165,7 +165,7 @@ export default function Chronicles111() {
           went first up, and was chief{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thereby, became the Commander of the army of Israel)
               </span>
             </span>
@@ -179,7 +179,7 @@ export default function Chronicles111() {
           therefore they called it the city of David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason that Satan attempts to erect strongholds in our
                 lives is because he knows that God intends for this to be our
                 strong point; so David, by the help of the Lord, took this,
@@ -197,7 +197,7 @@ export default function Chronicles111() {
           even from Millo round about: and Joab repaired the rest of the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (rid it of all enemies, that it might be a fit place for the
                 Capital)
               </span>
@@ -212,7 +212,7 @@ export default function Chronicles111() {
           for the LORD of Hosts was with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the victories were all tied to the Lord, as all victories are
                 always tied to the Lord, and only to the Lord)
               </span>
@@ -232,7 +232,7 @@ export default function Chronicles111() {
           of the LORD concerning Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These men were mighty only because they came under the
                 anointing of David, whom God had called for a particular task to
                 be the king of Israel. In fact, there would have been no might,
@@ -281,7 +281,7 @@ export default function Chronicles111() {
           at one time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I think it should be obvious that this man had to have the
                 anointing of the Holy Spirit to perform such a mighty deed
                 against Gods enemies; however, had he and all the others not
@@ -299,7 +299,7 @@ export default function Chronicles111() {
           Dodo, the Ahohite, who was one of the three mighties{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (also, it must ever be understood that God places His anointing
                 only upon a man or a woman; he does not anoint denominations,
                 church officials [just because they are church officials],
@@ -321,7 +321,7 @@ export default function Chronicles111() {
           Philistines.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Barley, being the least of all the grains, many, perhaps, would
                 have thought it not worthy to defend; however, God desires that
                 Satan be rooted out of every part of our inheritance, no matter
@@ -339,7 +339,7 @@ export default function Chronicles111() {
           LORD saved them by a great deliverance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people of God labored intensely to plant and cultivate
                 these crops. And when they were ready to be harvested, the
                 Philistines would swoop down and take what rightly belonged to
@@ -452,7 +452,7 @@ export default function Chronicles111() {
           of the Philistines encamped in the valley of Rephaim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the valley of the Giants)</span>
+              <span className="explanation">(the valley of the Giants)</span>
             </span>
           </span>
           .
@@ -476,7 +476,7 @@ export default function Chronicles111() {
           <sup className="calibre7">18</sup>And the three{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4477489">
                   <span className="calibre_19">
@@ -495,7 +495,7 @@ export default function Chronicles111() {
           LORD,{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beth-lehem was where Jesus was born. The water being poured out
                 by David was symbolic of Christ pouring out His Life on the
                 Cross of Calvary, which guaranteed Salvation for all of mankind,
@@ -523,7 +523,7 @@ export default function Chronicles111() {
           three mightiest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that the Sacrifice of Christ at Calvarys Cross is to
                 never be used for personal aggrandizement, but always for what
                 it was intended, which is the Salvation of souls, gained only by
@@ -565,7 +565,7 @@ export default function Chronicles111() {
           first three{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nowhere in the world were there men like these, and all because
                 of the anointing of the Holy Spirit which was upon them)
               </span>
@@ -588,7 +588,7 @@ export default function Chronicles111() {
           great stature, five cubits high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seven and a half feet)</span>
+              <span className="explanation">(seven and a half feet)</span>
             </span>
           </span>
           ; and in the Egyptians hand was a spear like a weavers beam; and he
@@ -596,7 +596,7 @@ export default function Chronicles111() {
           Egyptians hand, and killed him with his own spear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, the anointing of the Spirit)
               </span>
             </span>
@@ -610,7 +610,7 @@ export default function Chronicles111() {
           Jehoiada, and had the name among the three mighties.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For time and eternity, their names are forever inscribed in the
                 Word of God. What an honor! What a privilege! There is not one
                 single Believer in the world today who cannot, in Gods Way,
@@ -628,7 +628,7 @@ export default function Chronicles111() {
           his guard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is a great spiritual meaning here. Demon spirits, of
                 which the defeated represent, will attempt to destroy the Child
                 of God. We must guard ourselves from their encroachment, as
@@ -737,7 +737,7 @@ export default function Chronicles111() {
           <sup className="calibre7">41</sup>Uriah the Hittite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (likewise, Uriah was listed in II Sam., Chpt.{" "}
                 <ScrollLink href="/samuel2-23" scrollToId="#filepos3646219">
                   <span className="calibre_19">

@@ -16,7 +16,7 @@ export default function Hebrews02() {
           earnest heed to the things which we have heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to the New Testament Message of the Cross)
               </span>
             </span>
@@ -30,7 +30,7 @@ export default function Hebrews02() {
           slip.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the Greek Text, it carries the idea of a ring slipping from
                 a finger. Regrettably, the Church presently has let the Message
                 of the Cross slip and, as a result, the Church hardly knows
@@ -46,7 +46,7 @@ export default function Hebrews02() {
           stedfast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to the Law of Moses, which had many Angels in
                 attendance)
               </span>
@@ -56,7 +56,7 @@ export default function Hebrews02() {
           of reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sin is either addressed at the Cross, or else it is addressed
                 in Judgment; so, each person has a choice)
               </span>
@@ -71,7 +71,7 @@ export default function Hebrews02() {
           great Salvation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we neglect the Cross, we have destroyed ourselves)
               </span>
             </span>
@@ -79,7 +79,7 @@ export default function Hebrews02() {
           ; which at the first began to be spoken by the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (announced by Christ when He said, repent: for the Kingdom of
                 Heaven is at hand [
                 <ScrollLink href="/matthew-04" scrollToId="#filepos10867551">
@@ -99,7 +99,7 @@ export default function Hebrews02() {
               <span className="calibre_19">Him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (confirmed by healings and miracles which were witnessed by the
                 original Twelve, plus untold numbers of others);
               </span>
@@ -118,7 +118,7 @@ export default function Hebrews02() {
           witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the highest evidence of all, actually that which is
                 absolutely indisputable)
               </span>
@@ -127,7 +127,7 @@ export default function Hebrews02() {
           , both with signs and wonders, and with divers miracles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which began with Christ, and continued on through His Apostles)
               </span>
             </span>
@@ -135,7 +135,7 @@ export default function Hebrews02() {
           , and Gifts of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with those listed in{" "}
                 <ScrollLink
                   href="/corinthians1-12"
@@ -154,7 +154,7 @@ export default function Hebrews02() {
           , according to His Own Will?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These things were the Will of God then, and are the Will of God
                 now!)
               </span>
@@ -171,7 +171,7 @@ export default function Hebrews02() {
           subjection the world to come, whereof we speak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord hasnt given the Angels dominion and rulership as He
                 has Christ.)
               </span>
@@ -185,7 +185,7 @@ export default function Hebrews02() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/psalm-008" scrollToId="#filepos5702977">
                   <span className="calibre_19">
@@ -201,7 +201,7 @@ export default function Hebrews02() {
           , What is man, that You are mindful of him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This delves into the reason God has given man so much notice.)
               </span>
             </span>
@@ -209,7 +209,7 @@ export default function Hebrews02() {
           or the son of man, that You visit him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to looking upon in order to help or benefit. This
                 clearly indicates the son of man spoken of here is the human
                 race and not Christ.)
@@ -224,7 +224,7 @@ export default function Hebrews02() {
           Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, You made him a little lower than
                 the Godhead; the Hebrew word translated Angels is Elohim which
                 means God, and should have been translated accordingly)
@@ -234,7 +234,7 @@ export default function Hebrews02() {
           ; You crowned him with glory and honour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which was never said of Angels)
               </span>
             </span>
@@ -242,7 +242,7 @@ export default function Hebrews02() {
           , and did set him over the works of Your hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some of that dominion is retained despite the Fall; however, as
                 would be obvious, much has been lost; but to be sure, it has all
                 been regained in Christ, and will ultimately be realized in
@@ -259,7 +259,7 @@ export default function Hebrews02() {
           under his feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Adam before the Fall, but more particularly it
                 speaks of Christ and what He did at the Cross on our behalf.)
               </span>
@@ -268,19 +268,19 @@ export default function Hebrews02() {
           For in that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           put all in subjection under him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(man)</span>
+              <span className="explanation">(man)</span>
             </span>
           </span>
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           left nothing{" "}
@@ -292,7 +292,7 @@ export default function Hebrews02() {
           not put under him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again speaks of the original Adam, but more than all
                 speaks of the Last Adam, the Lord Jesus Christ.)
               </span>
@@ -301,7 +301,7 @@ export default function Hebrews02() {
           But now we see not yet all things put under him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the Fall, we do not now see what was originally intended
                 for man, but through Christ it will ultimately be seen.)
               </span>
@@ -315,13 +315,13 @@ export default function Hebrews02() {
           little lower than the Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Incarnation)</span>
+              <span className="explanation">(the Incarnation)</span>
             </span>
           </span>{" "}
           for the suffering of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (unequivocally proclaims the fact that Jesus came to this world
                 for one specific purpose to die upon a Cross, which was planned
                 even before the foundation of the world [
@@ -339,7 +339,7 @@ export default function Hebrews02() {
           , crowned with glory and honour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the mission was accomplished, and now Christ is exalted)
               </span>
             </span>
@@ -347,7 +347,7 @@ export default function Hebrews02() {
           ; that He by the Grace of God should taste death for every man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that He needed the Grace of God to
                 accomplish this task, because He was a man, the Man, Christ
                 Jesus.)
@@ -361,7 +361,7 @@ export default function Hebrews02() {
           <sup className="calibre7">10</sup>For it became Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Gods Way, as it concerns the Redemption of mankind)
               </span>
             </span>
@@ -375,7 +375,7 @@ export default function Hebrews02() {
           all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is the final reason for all things)
               </span>
             </span>
@@ -389,19 +389,21 @@ export default function Hebrews02() {
           all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through Whose agency)</span>
+              <span className="explanation">(through Whose agency)</span>
             </span>
           </span>
           , in bringing many sons unto Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Divine Purpose)</span>
+              <span className="explanation">
+                (speaks of the Divine Purpose)
+              </span>
             </span>
           </span>
           , to make the Captain of their Salvation perfect through sufferings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This carries the idea that Christ had to suffer the Cross in
                 order to bring about Redemption for humanity.)
               </span>
@@ -421,13 +423,13 @@ export default function Hebrews02() {
           all of One{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Christ)</span>
+              <span className="explanation">(of Christ)</span>
             </span>
           </span>
           : for which cause He is not ashamed to call them Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Jesus became one of us, but only in the
                 sense of humanity, not in the sense of sin)
               </span>
@@ -442,7 +444,7 @@ export default function Hebrews02() {
           unto My Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/psalm-022" scrollToId="#filepos5784709">
                   <span className="calibre_19">
@@ -459,7 +461,7 @@ export default function Hebrews02() {
           , in the midst of the Church will I sing praise unto You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ will praise God because of this great Victory, which has
                 brought many sons into the Kingdom, all made possible by the
                 Cross.)
@@ -473,7 +475,7 @@ export default function Hebrews02() {
           <sup className="calibre7">13</sup>And again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-22" scrollToId="#filepos3627030">
                   <span className="calibre_19">
@@ -489,7 +491,7 @@ export default function Hebrews02() {
           , I will put My trust in Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ puts His Trust totally in God.)
               </span>
             </span>
@@ -497,7 +499,7 @@ export default function Hebrews02() {
           And again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-08" scrollToId="#filepos7359919">
                   <span className="calibre_19">
@@ -513,7 +515,7 @@ export default function Hebrews02() {
           , Behold I and the Children which God has given Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross makes it possible for us to become a Child of God.)
               </span>
             </span>
@@ -526,7 +528,7 @@ export default function Hebrews02() {
           partakers of flesh and blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that this Creation has a human, not Angelic,
                 nature)
               </span>
@@ -535,13 +537,13 @@ export default function Hebrews02() {
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           also Himself likewise took part of the same{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Incarnation, God becoming man)
               </span>
             </span>
@@ -549,25 +551,25 @@ export default function Hebrews02() {
           ; that through death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Cross)</span>
+              <span className="explanation">(the Cross)</span>
             </span>
           </span>{" "}
           He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           might destroy him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           who had the power of death, that is, the Devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wages of sin is death, which speaks of separation from God;
                 Jesus atoned for all sin at the Cross, thereby removing the
                 cause of spiritual death, at least for all who will believe [
@@ -590,7 +592,7 @@ export default function Hebrews02() {
           <sup className="calibre7">15</sup>And deliver them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of mankind held in captivity by Satan)
               </span>
             </span>
@@ -598,7 +600,7 @@ export default function Hebrews02() {
           who through fear of death were all their lifetime subject to bondage.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It has been well said that the two terrors from which none but
                 Christ can deliver men are guilt of sin and fear of death. The
                 latter is the offspring of the former.)
@@ -618,7 +620,7 @@ export default function Hebrews02() {
           Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ did not come to be the Saviour of fallen Angels; they
                 are of another creation)
               </span>
@@ -633,7 +635,7 @@ export default function Hebrews02() {
           the seed of Abraham.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to His Humanity, which He became and was the manner
                 in which Redemption would be brought about.)
               </span>
@@ -653,7 +655,7 @@ export default function Hebrews02() {
           Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to our Lord laying hold of the human race for the
                 purpose of saving those who would accept Salvation by Faith)
               </span>
@@ -668,7 +670,7 @@ export default function Hebrews02() {
           to God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as our High Priest, He is our Representative to God, which He
                 could be by becoming a Man and going to the Cross as well, which
                 He did)
@@ -678,7 +680,7 @@ export default function Hebrews02() {
           , to make reconciliation for the sins of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to make an atoning Sacrifice in order to regain the favor and
                 goodwill of God on behalf of the human race)
               </span>
@@ -693,7 +695,7 @@ export default function Hebrews02() {
           being tempted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in His Incarnation as the last Adam, our Lord was put to the
                 test, and was also solicited to do evil [
                 <ScrollLink href="/matthew-04" scrollToId="#filepos10858743">
@@ -710,7 +712,7 @@ export default function Hebrews02() {
           , He is able to succour them who are tempted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross alone is the answer to temptation and sin. We
                 overcome temptation by placing our Faith strictly in Christ and
                 the Cross, which is the only way it can be overcome, thus giving

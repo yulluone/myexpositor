@@ -18,7 +18,7 @@ export default function Genesis17() {
           and nine, the LORD appeared to Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some thirteen years have passed since his last Revelation)
               </span>
             </span>
@@ -26,7 +26,7 @@ export default function Genesis17() {
           , and said unto him, I am the Almighty God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Hebrew is El Shaddai, which means Strong so as to
                 overpower; the Lord is telling the Patriarch that He is able to
                 bring to pass what He has promised)
@@ -36,7 +36,7 @@ export default function Genesis17() {
           ; walk before Me, and be thou perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Patriarch must be perfect in his Faith; it must not waver
                 as it had done regarding the situation with Hagar, but must rest
                 in Almighty God, Who is able to perform what He has promised)
@@ -52,7 +52,7 @@ export default function Genesis17() {
           Me and you, and will multiply you exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord now renews the Covenant with Abraham, which greatly
                 enlarges upon the Promises previously made)
               </span>
@@ -67,7 +67,7 @@ export default function Genesis17() {
           talked with him, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (either the Power of God was so great that the Patriarch fell,
                 or else, he did so out of reverence, which is probably the case)
               </span>
@@ -85,7 +85,7 @@ export default function Genesis17() {
           with you, and you shall be a father of many nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and so he was!)</span>
+              <span className="explanation">(and so he was!)</span>
             </span>
           </span>
         </span>
@@ -97,13 +97,13 @@ export default function Genesis17() {
           called Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which means exalted father)</span>
+              <span className="explanation">(which means exalted father)</span>
             </span>
           </span>
           , but your name shall be Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(father of the multitudes)</span>
+              <span className="explanation">(father of the multitudes)</span>
             </span>
           </span>
           ; for a father of many nations have I made you.
@@ -119,7 +119,7 @@ export default function Genesis17() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was saying to the Patriarch, and as stated, that He was
                 able, whatever the need)
               </span>
@@ -135,7 +135,7 @@ export default function Genesis17() {
           Everlasting Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that means this Covenant is valid even to this moment and, in
                 fact, ever will be; the Palestinians should learn that)
               </span>
@@ -144,7 +144,7 @@ export default function Genesis17() {
           , to be a God unto you, and to your seed after you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Covenant is linked to Justification by Faith, which means
                 that it is now a part of the New Covenant, which is also
                 referred to as The Everlasting Covenant [
@@ -169,7 +169,7 @@ export default function Genesis17() {
           Canaan, for an everlasting possession; and I will be their God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Jews, having forfeited their possession through rebellion
                 against God, and especially their rejection of Jesus Christ,
                 have caused a rupture; however, the Covenant still stands, and
@@ -191,7 +191,7 @@ export default function Genesis17() {
           generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this could well be called a Covenant of Grace, and as such is
                 everlasting; it is from everlasting in the counsels of it, and
                 to everlasting in the consequences of it)
@@ -208,7 +208,7 @@ export default function Genesis17() {
           among you shall be circumcised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Covenant had only one outward ordinance, and that was
                 Circumcision; the balance was entirely of Faith)
               </span>
@@ -224,7 +224,7 @@ export default function Genesis17() {
           and you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Circumcision, in a sense, is a Type of the Cross; blood is shed
                 and separation is made)
               </span>
@@ -241,7 +241,7 @@ export default function Genesis17() {
           not of your seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the little boy baby was not to be circumcised until he was
                 eight days old, because at that time the blood would coagulate;
                 before then, he could bleed to death; as well, every male in the
@@ -260,7 +260,7 @@ export default function Genesis17() {
           Covenant shall be in your flesh for an Everlasting Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Covenant is everlasting, but only in Christ; under the New
                 Covenant, Paul stated that we are to experience the circumcision
                 of the heart, which is a spiritual work [
@@ -288,7 +288,7 @@ export default function Genesis17() {
           off from his people; he has broken My Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, Israelite men who refused to be circumcised, or
                 mothers who refused to circumcise their baby boys, had broken
                 the Covenant and, if continuing that direction of rebellion,
@@ -309,7 +309,7 @@ export default function Genesis17() {
           Sarai your wife, you shall not call her name Sarai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (my princess, referring to the fact that she was Abrahams
                 princess alone)
               </span>
@@ -318,7 +318,7 @@ export default function Genesis17() {
           , but Sarah shall her name be{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (simply means princess; the idea is, whereas she was formerly
                 Abrahams princess only, she will now be recognized as a princess
                 generally and, in fact, in a sense, could be referred to as the
@@ -335,7 +335,7 @@ export default function Genesis17() {
           son also of her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first time in all of Gods dealings with Abraham
                 that He had mentioned the fact that the promised son would be of
                 Sarah)
@@ -346,7 +346,7 @@ export default function Genesis17() {
           of people shall be of her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (her blessing spoke of increase, which includes even the Church
                 and, in a sense, the Lord Jesus Christ)
               </span>
@@ -362,7 +362,7 @@ export default function Genesis17() {
           an hundred years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abrahams laughter was that of joy [
                 <ScrollLink href="/john-08" scrollToId="#filepos12487688">
                   <span className="calibre_19">
@@ -378,7 +378,7 @@ export default function Genesis17() {
           ? and shall Sarah, who is ninety years old, bear?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul said of him: He considered not the deadness of Sarahs womb
                 [
                 <ScrollLink href="/romans-04" scrollToId="#filepos13332169">
@@ -400,7 +400,7 @@ export default function Genesis17() {
           Ishmael might live before You!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham asked the Lord that Ishmael might have some place, and
                 not be completely left out.)
               </span>
@@ -414,7 +414,7 @@ export default function Genesis17() {
           bear you a son indeed; and you shall call his name Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Isaac means laughter)
               </span>
             </span>
@@ -423,7 +423,7 @@ export default function Genesis17() {
           Covenant, and with his seed after him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Covenant is to be established with Isaac and not Ishmael.
                 This completely shoots down the contention of the Muslims that
                 Ishmael was the chosen one, unless you dont believe the Bible.
@@ -444,7 +444,7 @@ export default function Genesis17() {
           multiply him exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord would bless Ishmael, but not as it regards the
                 Covenant)
               </span>
@@ -453,7 +453,7 @@ export default function Genesis17() {
           ; twelve princes shall he beget, and I will make him a great nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the blessing here pronounced was not because of Ishmael, but
                 because of Abraham, and Abraham alone)
               </span>
@@ -469,7 +469,7 @@ export default function Genesis17() {
           next year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so now they know when the child will be born)
               </span>
             </span>
@@ -482,13 +482,13 @@ export default function Genesis17() {
           <sup className="calibre7">22</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           left off talking with him, and God went up from Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Communion with the Lord is the most profitable exercise there
                 is)
               </span>
@@ -507,14 +507,14 @@ export default function Genesis17() {
           money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(servants)</span>
+              <span className="explanation">(servants)</span>
             </span>
           </span>
           , every male among the men of Abrahams house; and circumcised the
           flesh of their foreskin in the self-same day, as God had said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the obedience of Abraham in circumcising the entirety of his
                 house, servants and all, should be a lesson to us)
               </span>
@@ -535,7 +535,7 @@ export default function Genesis17() {
           years old, when he was circumcised in the flesh of his foreskin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Ishmael was circumcised, he who was born after the
                 flesh was by his natural birth a rebel, even though he may enter
                 in an outward covenant)
@@ -551,7 +551,7 @@ export default function Genesis17() {
           circumcised, and Ishmael his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (two men were circumcised; by that rite both men entered the
                 Covenant; however, only one of the men, Abraham, was saved)
               </span>
@@ -567,7 +567,7 @@ export default function Genesis17() {
           with him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This one Passage tells us that every single man in the house of
                 Abraham was saved, whether servants, slaves, or family, that is,
                 if they believed. The Epistles to the Romans, to the Galatians,

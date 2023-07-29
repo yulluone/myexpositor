@@ -19,7 +19,7 @@ export default function Isaiah35() {
           the rose.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the coming Kingdom Age. The previous Chapter,
                 which was the first part of this Prophecy, proclaims the cause
                 of all sorrow, pain, heartache, and destruction, which is sin
@@ -42,7 +42,7 @@ export default function Isaiah35() {
           of the LORD, and the excellency of our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Glory of the LORD, and the excellency of our God is the
                 cause of the abundant blossoming and the rejoicing even with joy
                 and singing.)
@@ -57,7 +57,7 @@ export default function Isaiah35() {
           confirm the feeble knees.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With these exceeding great and precious Promises, the servants
                 of Truth are commanded to strengthen trembling and apprehensive
                 Believers. With the Glory of the LORD now paramount, even the
@@ -74,7 +74,7 @@ export default function Isaiah35() {
           even God with a recompence; He will come and save you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage expresses again the Doctrine of the Coming of the
                 Lord Jesus Christ. As well, this Verse points to the period
                 predicted in{" "}
@@ -120,7 +120,7 @@ export default function Isaiah35() {
           opened, and the ears of the deaf shall be unstopped.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7656596">
                   <span className="calibre_19">
@@ -157,7 +157,7 @@ export default function Isaiah35() {
           waters break out, and streams in the desert.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entire complexion of that future Glad Day [the Millennium]
                 will be changed. Sickness and disease will be at an end. Then
                 the lame man will not only be able to walk, but will have such
@@ -203,7 +203,7 @@ export default function Isaiah35() {
           dragons, where each lay, shall be grass with reeds and rushes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jackals make their home in the sandy desert. They will be
                 banished and their haunts turned into verdant meadows. Many
                 nations of the world presently cannot now feed themselves due to
@@ -225,7 +225,7 @@ export default function Isaiah35() {
           fools, shall not err therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Scripture definitely predicts a literal highway that will
                 be built from Egypt through Israel to Assyria [
                 <ScrollLink href="/isaiah-11" scrollToId="#filepos7400224">
@@ -269,7 +269,7 @@ export default function Isaiah35() {
           the redeemed shall walk there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (such proclaims the Truth that Satan, as a roaring lion, shall
                 not have access to The way of holiness; demon spirits, i.e.,
                 ravenous beasts also shall not be found there; therefore, the
@@ -302,7 +302,7 @@ export default function Isaiah35() {
           shall flee away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7659577">
                   <span className="calibre_19">

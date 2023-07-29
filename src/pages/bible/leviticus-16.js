@@ -258,7 +258,7 @@ export default function Leviticus16() {
           burning coals of fire from off the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brazen Altar)</span>
+              <span className="explanation">(the Brazen Altar)</span>
             </span>
           </span>{" "}
           before the LORD, and his hands full of sweet incense beaten small, and
@@ -850,7 +850,7 @@ export default function Leviticus16() {
           all their sins once a year. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Aaron)</span>
+              <span className="explanation">(Aaron)</span>
             </span>
           </span>{" "}
           did as the LORD commanded Moses.{" "}

@@ -16,7 +16,7 @@ export default function Chronicles233() {
           began to reign, and he reigned fifty and five years in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Manasseh was one of the most wicked of all the 42 kings of
                 Israel and Judah, yet he reigned longer than any other 55 years;
                 quite possibly the Lord allowed Manasseh to reign so long
@@ -37,7 +37,7 @@ export default function Chronicles233() {
           LORD had cast out before the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not too many years from then, Judah would be cast out as well!)
               </span>
             </span>
@@ -50,20 +50,20 @@ export default function Chronicles233() {
           <sup className="calibre7">3</sup>For he built again the high places{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idol-worship)</span>
+              <span className="explanation">(idol-worship)</span>
             </span>
           </span>{" "}
           which Hezekiah his father had broken down, and he reared up altars for
           Baalim, and made groves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the worship of the Asherah)</span>
+              <span className="explanation">(the worship of the Asherah)</span>
             </span>
           </span>
           , and worshipped all the host of heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the planetary bodies)</span>
+              <span className="explanation">(the planetary bodies)</span>
             </span>
           </span>
           , and served them.
@@ -75,7 +75,7 @@ export default function Chronicles233() {
           the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (placed heathen altars in the very Temple itself)
               </span>
             </span>
@@ -83,7 +83,7 @@ export default function Chronicles233() {
           , whereof the LORD had said, In Jerusa lem shall My Name be forever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/deuteronmy-12" scrollToId="#filepos2240095">
                   <span className="calibre_19">
@@ -121,7 +121,7 @@ export default function Chronicles233() {
           of heaven in the two courts of the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (heathen altars built in the court of Israel, which was the
                 closest to the Temple, and the court of women, which was
                 immediately behind the court of Israel)
@@ -137,7 +137,7 @@ export default function Chronicles233() {
           through the fire in the valley of the son of Hinnom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human sacrifice)</span>
+              <span className="explanation">(human sacrifice)</span>
             </span>
           </span>
           : also he observed times, and used enchantments, and used witchcraft,
@@ -151,7 +151,7 @@ export default function Chronicles233() {
           which he had made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Asherah, a statue of the male member)
               </span>
             </span>
@@ -159,7 +159,7 @@ export default function Chronicles233() {
           , in the House of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some believe he put it in the very Holy of Holies)
               </span>
             </span>
@@ -178,7 +178,7 @@ export default function Chronicles233() {
           by the hand of Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for all the Blessings that the Lord had given Israel, all that
                 He demanded of them was that they make every effort to keep the
                 Law)
@@ -195,7 +195,7 @@ export default function Chronicles233() {
           whom the LORD had destroyed before the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, sin by a Believer is always worse than that by the
                 unredeemed, and for the obvious reasons)
               </span>
@@ -210,7 +210,7 @@ export default function Chronicles233() {
           to His people: but they would not hearken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sadly, this is the story of untold millions; the Lord speaks in
                 varied ways, but they will not hear, which refers to a willful
                 rejection)
@@ -233,7 +233,7 @@ export default function Chronicles233() {
           Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was an act of Mercy on the part of God, as He attempted to
                 bring Manasseh to his senses; it accomplished its purpose)
               </span>
@@ -249,7 +249,7 @@ export default function Chronicles233() {
           of his fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is evidently why the Lord allowed Manasseh to rule as long
                 as he did; as well, and as stated, it was the reason the Lord
                 allowed him to be taken captive to Babylon; it had the desired
@@ -270,7 +270,7 @@ export default function Chronicles233() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there could be no more beautiful illustration of the Mercy and
                 Grace of God than that which was extended to Manasseh; the great
                 lesson learned here is that if the Lord would do that for this
@@ -309,7 +309,7 @@ export default function Chronicles233() {
           LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great Brazen Altar, on which the Sacrifices were offered)
               </span>
             </span>
@@ -317,7 +317,7 @@ export default function Chronicles233() {
           , and sacrificed thereon Peace Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Peace Offerings were generally offered after the Sin and
                 Trespass Offerings, signifying that Peace with God had now been
                 restored; this tells us that the Peace of God had now come to
@@ -328,7 +328,7 @@ export default function Chronicles233() {
           and Thank Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be sure, this king had much to be thankful for, hence the
                 Thank Offerings and the emphasis on this by the Holy Spirit)
               </span>
@@ -343,7 +343,7 @@ export default function Chronicles233() {
           sacrifice still in the high places, yet unto the LORD their God only{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the offering of Sacrifices to the Lord in the high places was
                 contrary to the Word of God; there was to be one national
                 worship in the one Temple, and the Offerings and Sacrifices on
@@ -381,7 +381,7 @@ export default function Chronicles233() {
           stead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (unlike some of the other kings, Manasseh began his reign as a
                 wicked king, but ended it as a good one)
               </span>
@@ -413,7 +413,7 @@ export default function Chronicles233() {
           LORD, as Manasseh his father had humbled himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the Lord evidently chastised Amon,
                 trying to get him to repent, but to no avail)
               </span>
@@ -422,7 +422,7 @@ export default function Chronicles233() {
           ; but Amon trespassed more and more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, few humble themselves as Manasseh, with most
                 hardening themselves as did Amon, and that despite the appeal of
                 the Lord)

@@ -91,7 +91,7 @@ export default function Samuel119() {
           David played{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the harp)</span>
+              <span className="explanation">(the harp)</span>
             </span>
           </span>{" "}
           with his hand.
@@ -207,7 +207,7 @@ export default function Samuel119() {
           Behold, David is at Naioth in Ramah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a school for Prophets)</span>
+              <span className="explanation">(a school for Prophets)</span>
             </span>
           </span>
         </span>

@@ -407,7 +407,7 @@ export default function John06() {
           over the sea toward Capernaum{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where Jesus told them to go)</span>
+              <span className="explanation">(where Jesus told them to go)</span>
             </span>
           </span>
           . And it was now dark, and Jesus was not come to them{" "}
@@ -453,7 +453,7 @@ export default function John06() {
           and they were afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and no wonder!)</span>
+              <span className="explanation">(and no wonder!)</span>
             </span>
           </span>
           .
@@ -511,7 +511,9 @@ export default function John06() {
           boat there, save that one whereinto His Disciples were entered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no other boat from Capernaum)</span>
+              <span className="explanation">
+                (no other boat from Capernaum)
+              </span>
             </span>
           </span>
           , and that Jesus went not with His Disciples into the boat, but{" "}
@@ -584,7 +586,7 @@ export default function John06() {
           other side of the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Capernaum)</span>
+              <span className="explanation">(in Capernaum)</span>
             </span>
           </span>
           , they said unto Him, Rabbi, when did You come here?{" "}
@@ -850,7 +852,9 @@ export default function John06() {
           : He who comes to Me shall never hunger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pertains to spiritual hunger)</span>
+              <span className="explanation">
+                (pertains to spiritual hunger)
+              </span>
             </span>
           </span>
           ; and he who believes on Me shall never thirst{" "}
@@ -984,7 +988,7 @@ export default function John06() {
           : and I will raise Him up at the last day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a guaranteed Resurrection)</span>
+              <span className="explanation">(a guaranteed Resurrection)</span>
             </span>
           </span>
           .
@@ -1412,13 +1416,13 @@ export default function John06() {
           <sup className="calibre7">57</sup>As the Living Father has sent Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Life-giving Father)</span>
+              <span className="explanation">(Life-giving Father)</span>
             </span>
           </span>
           , and I live by the Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Incarnation)</span>
+              <span className="explanation">(speaks of the Incarnation)</span>
             </span>
           </span>
           : so he who eats Me, even he shall Live by Me{" "}
@@ -1548,7 +1552,7 @@ export default function John06() {
           Disciples murmured at it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(registered unbelief)</span>
+              <span className="explanation">(registered unbelief)</span>
             </span>
           </span>
           , He said unto them, Does this offend you?{" "}
@@ -1596,7 +1600,7 @@ export default function John06() {
           <sup className="calibre7">63</sup>It is the Spirit Who quickens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>
           ; the flesh profits nothing{" "}

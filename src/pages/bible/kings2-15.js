@@ -220,7 +220,7 @@ export default function Kings215() {
           reign in the nine and thirtieth year of Uzziah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Azariah)</span>
+              <span className="explanation">(Azariah)</span>
             </span>
           </span>{" "}
           king of Judah; and he reigned a full month in Samaria.
@@ -428,7 +428,7 @@ export default function Kings215() {
           the son of Uzziah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Azariah)</span>
+              <span className="explanation">(Azariah)</span>
             </span>
           </span>
         </span>

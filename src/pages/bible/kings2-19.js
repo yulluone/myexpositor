@@ -148,7 +148,7 @@ export default function Kings219() {
           you say to your master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Hezekiah)</span>
+              <span className="explanation">(to Hezekiah)</span>
             </span>
           </span>
           , Thus says the LORD, Be not afraid of the words which you have heard,
@@ -188,7 +188,7 @@ export default function Kings219() {
           departed from Lachish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lachish had fallen)</span>
+              <span className="explanation">(Lachish had fallen)</span>
             </span>
           </span>
         </span>
@@ -295,7 +295,7 @@ export default function Kings219() {
           which has sent him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it, the letter)</span>
+              <span className="explanation">(it, the letter)</span>
             </span>
           </span>{" "}
           to reproach the Living God{" "}
@@ -384,7 +384,7 @@ export default function Kings219() {
           spoken concerning him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerning Sennacherib)</span>
+              <span className="explanation">(concerning Sennacherib)</span>
             </span>
           </span>
           ; The virgin the daughter of Zion has despised you, and laughed you to
@@ -553,7 +553,7 @@ export default function Kings219() {
           upward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be prosperous once again!)</span>
+              <span className="explanation">(be prosperous once again!)</span>
             </span>
           </span>
         </span>
@@ -585,7 +585,7 @@ export default function Kings219() {
           against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there shall be no siege)</span>
+              <span className="explanation">(there shall be no siege)</span>
             </span>
           </span>
         </span>
@@ -632,7 +632,7 @@ export default function Kings219() {
           an hundred fourscore and five thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(185,000)</span>
+              <span className="explanation">(185,000)</span>
             </span>
           </span>
           : and when they arose early in the morning{" "}
@@ -646,7 +646,7 @@ export default function Kings219() {
           , behold, they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Assyrians)</span>
+              <span className="explanation">(the Assyrians)</span>
             </span>
           </span>{" "}
           were all dead corpses.{" "}

@@ -16,7 +16,7 @@ export default function Amos5() {
           against you, even a lamentation, O House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hear you this word which I take up against you, refers to the
                 certitude of the coming judgment because Israel would not
                 repent, because they saw no need to repent. The phrase, Even a
@@ -33,7 +33,7 @@ export default function Amos5() {
           raise her up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Northern Kingdom is here compared to a virgin, because
                 never hitherto conquered. She shall no more rise, means that she
                 will never again be restored as a separate nationality.)
@@ -49,7 +49,7 @@ export default function Amos5() {
           went forth by an hundred shall leave ten, to the House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So great would be the destruction of her armies in the battles
                 with the Assyrians that battalions a thousand strong, or
                 companies a hundred strong, that marched away from the cities to
@@ -77,7 +77,7 @@ export default function Amos5() {
           of Israel, Seek you Me and you shall live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a pure and plain offer to repent, which would avoid the
                 Judgment, but sadly, all to no avail!)
               </span>
@@ -93,7 +93,7 @@ export default function Amos5() {
           captivity, and Beth-el shall come to nought.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beth-el was the great center of the worship of God under the
                 similitude of a calf. But that idol could not quench the fire
                 that broke out in the house of Joseph. Gilgal, Beer-sheba, and
@@ -113,7 +113,7 @@ export default function Amos5() {
           there be none to quench it in Beth-el.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: Turn to the Lord, or suffer the fire of judgment!)
               </span>
             </span>
@@ -126,7 +126,7 @@ export default function Amos5() {
           and leave off Righteousness in the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God can have no fellowship either with falsehood in doctrine [
                 <ScrollLink href="/" scrollToId="#filepos10184807">
                   <span className="calibre_19">
@@ -152,7 +152,7 @@ export default function Amos5() {
           pours them out upon the face of the Earth: the LORD is His Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the seven stars refer to the Pleiades. Orion is the
                 constellation commonly known as the Giant. The space in the
                 sword of the Giant alone is estimated to be
@@ -186,7 +186,7 @@ export default function Amos5() {
           the strong, so that the spoiled shall come against the fortress.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that God can smite the strongest; no fortress is a
                 refuge from Him.)
               </span>
@@ -200,7 +200,7 @@ export default function Amos5() {
           gate, and they abhor him who speaks uprightly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun they refers to the Judges of Israel. The pronoun
                 him refers to Amos, who was hated because he spoke uprightly. He
                 no doubt stood in the gate of the city and rebuked the
@@ -219,7 +219,7 @@ export default function Amos5() {
           planted pleasant vineyards, but you shall not drink wine of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Anger burns against exactions [burdens] upon the poor; the
                 luxury obtained by such oppression is short-lived; He knows the
                 multitude and magnitude of such cruel deeds.)
@@ -241,7 +241,7 @@ export default function Amos5() {
           silence in that time; for it is an evil time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun they refers to evil Judges. Turn aside addresses
                 the perversion of justice. Consequently, prudent men suffered
                 wrong in silence and did not prosecute those who injured them,
@@ -266,7 +266,7 @@ export default function Amos5() {
           Hosts will be gracious unto the remnant of Joseph.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prescription for the avoidance of these terrible judgments
                 is given here. In effect, the Holy Spirit condescends to give
                 another Altar Call by saying, Seek good, and not evil, that you
@@ -294,7 +294,7 @@ export default function Amos5() {
           wailing: for I will pass through you, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wailing shall be in all streets, refers to the coming invasion
                 of the Assyrians, because Israel refused to seek the Lord. Such
                 speaks of terrible suffering. And in all vineyards shall be
@@ -312,7 +312,7 @@ export default function Amos5() {
           and not light.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A double Woe is the burden of this Message. The first was
                 pronounced upon false profession [
                 <ScrollLink href="/" scrollToId="#filepos10190985">
@@ -367,7 +367,7 @@ export default function Amos5() {
           wall, and a serpent bit him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is: Israel, because of refusal to
                 repent, is destined for death. It cannot be avoided!)
               </span>
@@ -381,7 +381,7 @@ export default function Amos5() {
           darkness, and not light? even very dark, and no brightness in it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Amos further appeals to them, by asking the question, Do you
                 not feel in your inmost hearts that, in the case of such guilt
                 as yours, the Lord can visit but to punish?)
@@ -399,7 +399,7 @@ export default function Amos5() {
           and I will not smell in your solemn assemblies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Regarding their man-made religion, even though it closely
                 resembled Gods True Way of Salvation, still, the Lords response
                 is, This I hate. Let it be understood: God hates every proposed
@@ -471,7 +471,7 @@ export default function Amos5() {
           the peace offerings of your fat beasts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage proclaims the fact that they maintained the formal
                 ritual of the Mosaic worship in their idolatry. It is the same
                 presently as it regards Christ and the Cross. Such are mentioned
@@ -488,7 +488,7 @@ export default function Amos5() {
           your songs; for I will not hear the melody of your viols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: while the sacrifices were being offered before the
                 golden calf, Psalms and Hymns of praise were being offered to
                 God, accompanied by exquisite sacred music. But the Lord would
@@ -507,7 +507,7 @@ export default function Amos5() {
           and Righteousness as a mighty stream.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Improper faith always results in improper justice. Proper
                 faith, which is Faith in Christ and what He has done for us at
                 the Cross, always results in Righteousness [
@@ -533,7 +533,7 @@ export default function Amos5() {
           and offerings in the wilderness forty years, O House of Israel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos10196170">
                   <span className="calibre_19">
@@ -558,7 +558,7 @@ export default function Amos5() {
           made to yourselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God did not question the fact that they did offer sacrifices in
                 the wilderness. His objection was that the sacrifices were not
                 always to Him. The unto Me is emphatic. If God is not served
@@ -586,7 +586,7 @@ export default function Amos5() {
           of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Enemies of Inspiration affirm that Stephen erred in saying,
                 Babylon and not Damascus [
                 <ScrollLink href="/acts-07" scrollToId="#filepos12881408">

@@ -69,7 +69,7 @@ export default function Joshua03() {
           you and it, about two thousand cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 3,000 feet)</span>
+              <span className="explanation">(about 3,000 feet)</span>
             </span>
           </span>{" "}
           by measure: come not near unto it, that you may know the way by which
@@ -380,7 +380,7 @@ export default function Joshua03() {
           plain, even the Salt Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Dead Sea)</span>
+              <span className="explanation">(Dead Sea)</span>
             </span>
           </span>
           , failed, and were cut off: and the people passed over right against

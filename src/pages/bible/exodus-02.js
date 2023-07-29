@@ -18,7 +18,7 @@ export default function Exodus02() {
           Levi, and took to wife a daughter of Levi.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that Moses was a member of the Tribe of Levi, which
                 was to be the Priestly Tribe. He was a Type of Christ, our Great
                 High Priest.)
@@ -34,7 +34,7 @@ export default function Exodus02() {
           three months.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Miriam and Aaron, Moses sister and brother, were already born
                 when Moses was born. Jochebed was his mother, with Amram being
                 his father.
@@ -93,13 +93,13 @@ export default function Exodus02() {
           <sup className="calibre7">3</sup>And when she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the mother of Moses)</span>
+              <span className="explanation">(the mother of Moses)</span>
             </span>
           </span>{" "}
           could not longer hide him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh had given the orders that all boy babies were to be
                 instantly killed)
               </span>
@@ -110,7 +110,7 @@ export default function Exodus02() {
           the rivers brink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which stands out so vividly in this account is the faith
                 of Jochebed, the mother of Moses. She no doubt was led by the
                 Lord in doing this.)
@@ -134,7 +134,7 @@ export default function Exodus02() {
           to wash herself at the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord had something in mind that Jochebed could not have
                 possibly dreamed)
               </span>
@@ -143,14 +143,14 @@ export default function Exodus02() {
           ; and her maidens walked along by the rivers side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Nile River)</span>
+              <span className="explanation">(the Nile River)</span>
             </span>
           </span>
           ; and when she saw the ark among the flags, she sent her maid to fetch
           it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit had everything timed just right the place, the
                 person, and the progress)
               </span>
@@ -164,14 +164,14 @@ export default function Exodus02() {
           <sup className="calibre7">6</sup>And when she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the daughter of Pharaoh)</span>
+              <span className="explanation">(the daughter of Pharaoh)</span>
             </span>
           </span>{" "}
           had opened it, she saw the child: and, behold, the babe wept. And she
           had compassion on him, and said, This is one of the Hebrews children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Someone has well said, On that memorable day, God floated His
                 navy on the tears of a babys cheeks.)
               </span>
@@ -184,14 +184,14 @@ export default function Exodus02() {
           <sup className="calibre7">7</sup>Then said his sister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses sister, Miriam)</span>
+              <span className="explanation">(Moses sister, Miriam)</span>
             </span>
           </span>{" "}
           to Pharaohs daughter, Shall I go and call to you a nurse of the Hebrew
           women, that she may nurse the child for you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Miriam was led by the Lord in doing this.)
               </span>
             </span>
@@ -204,7 +204,7 @@ export default function Exodus02() {
           Go. And the maid went and called the childs mother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, Pharaohs daughter did not, at least at this time, know
                 that this was Moses mother)
               </span>
@@ -220,7 +220,7 @@ export default function Exodus02() {
           wages. And the woman took the child, and nursed it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So Jochebed would take care of baby Moses, and be paid by the
                 State for doing so. I wonder what Satan thought of this.)
               </span>
@@ -234,7 +234,7 @@ export default function Exodus02() {
           him unto Pharaohs daughter, and he became her son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At a given time, the daughter of Pharaoh wanted Moses to come
                 live with her in the Palace. Him becoming her son proclaims the
                 fact that else her mother was dead or could not have children,
@@ -246,7 +246,7 @@ export default function Exodus02() {
           the water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To show how little the Holy Spirit thought of the palace of
                 Pharaoh, He, in effect, devotes only one Verse to these years of
                 Moses life.)
@@ -265,7 +265,7 @@ export default function Exodus02() {
           on their burdens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from the language of{" "}
                 <ScrollLink href="/genesis-11" scrollToId="#filepos153805">
                   <span className="calibre_19">
@@ -290,7 +290,7 @@ export default function Exodus02() {
           him in the sand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was a work of the flesh on the part of Moses and, as all
                 works of the flesh, it could have nothing but disastrous
                 consequences.)
@@ -319,7 +319,7 @@ export default function Exodus02() {
           he sought to kill Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephus said that the Egyptians, from the throne down, were
                 envious of Moses, and partly afraid of him. They thought, due to
                 his great success in defeating the Ethiopians [the Jewish
@@ -335,7 +335,7 @@ export default function Exodus02() {
           Midian: and he sat down by a well.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Haldeman says of Moses: The life of Moses presents a series of
                 striking antitheses. For instance, he was the child of a slave,
                 and the son of a queen. He was born in a hut, and lived in a
@@ -361,7 +361,7 @@ export default function Exodus02() {
           daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this man had three names, Reuel, Jethro, and Raguel; the last
                 name means a friend of God; he was a descendant of Abraham by
                 Keturah; he was a worshipper of the True God)
@@ -385,7 +385,7 @@ export default function Exodus02() {
           father, he said, How is it that you are come so soon to day?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Meaning that they had finished watering the flock early.)
               </span>
             </span>
@@ -399,7 +399,7 @@ export default function Exodus02() {
           us, and watered the flock.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was really not an Egyptian, but evidently the young
                 ladies thought he was.)
               </span>
@@ -420,7 +420,7 @@ export default function Exodus02() {
           the man: and he gave Moses Zipporah his daughter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We must assume that the Lord led Moses to Jethro [Reuel], and
                 that Zipporah was destined to be his wife. But yet, Zipporah
                 didnt prove to be as close to Moses as she should have been.)
@@ -436,7 +436,7 @@ export default function Exodus02() {
           strange land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses is about to begin his true education of 40 years
                 duration. Some have said that it took about 40 hours to get
                 Moses out of Egypt, but about 40 years to get Egypt out of
@@ -452,7 +452,7 @@ export default function Exodus02() {
           time, that the king of Egypt died{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the Pharaoh who desired to kill Moses)
               </span>
             </span>
@@ -461,7 +461,7 @@ export default function Exodus02() {
           cried, and their cry came up unto God by reason of the bondage.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pressure from Egypt is now becoming so hard and so
                 difficult on the Israelites that they are now ready to leave. To
                 be frank, they would in no way have left Egypt had the blessings
@@ -479,7 +479,7 @@ export default function Exodus02() {
           God remembered His Covenant with Abraham, with Isaac, and with Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not clear here how much the Israelites were conscious of
                 God, or whether they had almost forgotten Him. We do know that
                 it was God Who took the initiative in their deliverance in view
@@ -496,7 +496,7 @@ export default function Exodus02() {
           Israel, and God had respect unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The glorious Name Elohim occurs five times in{" "}
                 <ScrollLink href="/" scrollToId="#filepos702163">
                   <span className="calibre_19">

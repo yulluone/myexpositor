@@ -34,7 +34,7 @@ export default function Peter12() {
           <sup className="calibre7">2</sup>As newborn babes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those recently saved)</span>
+              <span className="explanation">(those recently saved)</span>
             </span>
           </span>
           , desire the sincere milk of the Word{" "}
@@ -62,7 +62,7 @@ export default function Peter12() {
           <sup className="calibre7">3</sup>If so be you have tasted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since you have tasted)</span>
+              <span className="explanation">(since you have tasted)</span>
             </span>
           </span>{" "}
           that the Lord{" "}
@@ -86,7 +86,7 @@ export default function Peter12() {
           <sup className="calibre7">4</sup>To Whom coming{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(come exclusively to Jesus)</span>
+              <span className="explanation">(come exclusively to Jesus)</span>
             </span>
           </span>
           ,{" "}
@@ -98,7 +98,7 @@ export default function Peter12() {
           a Living Stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is the Rock)</span>
+              <span className="explanation">(Christ is the Rock)</span>
             </span>
           </span>
           , disallowed indeed of men{" "}
@@ -134,7 +134,7 @@ export default function Peter12() {
           <sup className="calibre7">5</sup>You also, as lively stones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of being in Christ)</span>
+              <span className="explanation">(because of being in Christ)</span>
             </span>
           </span>
           , are built up a spiritual house{" "}
@@ -207,7 +207,7 @@ export default function Peter12() {
           : and he who believes on Him shall not be confounded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shall not be put to shame)</span>
+              <span className="explanation">(shall not be put to shame)</span>
             </span>
           </span>
           .
@@ -274,7 +274,7 @@ export default function Peter12() {
           which stumble at the Word, being disobedient{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to unbelief)</span>
+              <span className="explanation">(refers to unbelief)</span>
             </span>
           </span>
           : whereunto also they were appointed.{" "}
@@ -427,7 +427,7 @@ export default function Peter12() {
           <sup className="calibre7">12</sup>Having your conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
           </span>{" "}
           honest among the Gentiles{" "}
@@ -449,7 +449,7 @@ export default function Peter12() {
           good works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(separated from sin)</span>
+              <span className="explanation">(separated from sin)</span>
             </span>
           </span>
           , which they shall behold{" "}
@@ -463,7 +463,7 @@ export default function Peter12() {
           , glorify God in the day of visitation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to this Day of Grace)</span>
+              <span className="explanation">(refers to this Day of Grace)</span>
             </span>
           </span>
           .
@@ -500,13 +500,13 @@ export default function Peter12() {
           are sent by him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the local police)</span>
+              <span className="explanation">(the local police)</span>
             </span>
           </span>{" "}
           for the punishment of evildoers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(covers all Civil Government)</span>
+              <span className="explanation">(covers all Civil Government)</span>
             </span>
           </span>
           , and for the praise of them who do well.{" "}
@@ -578,7 +578,7 @@ export default function Peter12() {
               <span className="calibre_19">men</span>
             </span>
             <span>
-              <span className="calibre_19">(if honor is due)</span>
+              <span className="explanation">(if honor is due)</span>
             </span>
           </span>
           . Love the brotherhood{" "}
@@ -618,7 +618,7 @@ export default function Peter12() {
           <sup className="calibre7">18</sup>Servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>
           ,{" "}
@@ -797,7 +797,7 @@ export default function Peter12() {
           not again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He did not respond in kind)</span>
+              <span className="explanation">(He did not respond in kind)</span>
             </span>
           </span>
           ; when He suffered, He threatened not{" "}

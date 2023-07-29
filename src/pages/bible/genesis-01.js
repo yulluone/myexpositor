@@ -17,7 +17,7 @@ export default function Genesis01() {
           <sup className="calibre7">1</sup>In the beginning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the beginning of creation, or at least the creation
                 as it refers to this universe; God, unformed, unmade, uncreated,
                 had no beginning; He always was, always is, and always shall be)
@@ -27,7 +27,7 @@ export default function Genesis01() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, In the beginning God, explains the first cause of
                 all things as it regards creation)
               </span>
@@ -36,7 +36,7 @@ export default function Genesis01() {
           created the heaven and the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated the heavens and the Earth because God
                 created the entirety of the universe)
               </span>
@@ -54,7 +54,7 @@ export default function Genesis01() {
           void; and darkness was upon the face of the deep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God did not originally create the Earth without form and void;
                 it became this way after a cataclysmic happening; this happening
                 was the revolt of Lucifer against God, which took place some
@@ -65,13 +65,13 @@ export default function Genesis01() {
           . And the Spirit of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           moved upon the face of the waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the moving of the Holy Spirit signified and signifies the
                 beginning of life)
               </span>
@@ -88,7 +88,7 @@ export default function Genesis01() {
           <sup className="calibre7">3</sup>And God said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the manner in which creation or re-creation was
                 carried out; some ten times this phrase is used, and in the
                 exact manner, with the exception of the last time, where it
@@ -107,7 +107,7 @@ export default function Genesis01() {
           , Let there be light: and there was light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is the essence of light [
                 <ScrollLink href="/john-01" scrollToId="#filepos12285986">
                   <span className="calibre_19">
@@ -130,7 +130,7 @@ export default function Genesis01() {
           good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it did what it was designed to do)
               </span>
             </span>
@@ -138,7 +138,7 @@ export default function Genesis01() {
           : and God divided the light from the darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (simply refers to the fact that there were now periods of light
                 and darkness; darkness is simply the absence of light)
               </span>
@@ -152,13 +152,13 @@ export default function Genesis01() {
           <sup className="calibre7">5</sup>And God called the light Day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a character description)</span>
+              <span className="explanation">(a character description)</span>
             </span>
           </span>
           , and the darkness He called Night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with the revolution of the Earth)
               </span>
             </span>
@@ -166,7 +166,7 @@ export default function Genesis01() {
           . And the evening and the morning were the first day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(literal 24-hour days)</span>
+              <span className="explanation">(literal 24-hour days)</span>
             </span>
           </span>
           .
@@ -181,7 +181,7 @@ export default function Genesis01() {
           firmament in the midst of the waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to an expanse between the waters, so to speak, called
                 the atmosphere)
               </span>
@@ -190,7 +190,7 @@ export default function Genesis01() {
           , and let it divide the waters from the waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (water in the rain clouds and water on the Earth)
               </span>
             </span>
@@ -203,7 +203,7 @@ export default function Genesis01() {
           <sup className="calibre7">7</sup>And God made the firmament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is a difference in made and created; made refers to
                 something already created, but brought back to a useful
                 existence)
@@ -213,13 +213,13 @@ export default function Genesis01() {
           , and divided the waters which were under the firmament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(oceans, seas, rivers, etc.)</span>
+              <span className="explanation">(oceans, seas, rivers, etc.)</span>
             </span>
           </span>{" "}
           from the waters which were above the firmament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (water in the clouds, which comes down upon the Earth)
               </span>
             </span>
@@ -232,7 +232,7 @@ export default function Genesis01() {
           <sup className="calibre7">8</sup>And God called the firmament heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word as used here pertains to the atmosphere around the
                 Earth)
               </span>
@@ -241,7 +241,7 @@ export default function Genesis01() {
           . And the evening and the morning were the second day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a 24-hour time frame)</span>
+              <span className="explanation">(a 24-hour time frame)</span>
             </span>
           </span>
           .
@@ -256,7 +256,7 @@ export default function Genesis01() {
           the heaven be gathered together unto one place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the places designed for the waters on the Earth,
                 seas, oceans, rivers, etc.)
               </span>
@@ -265,7 +265,7 @@ export default function Genesis01() {
           , and let the dry land appear: and it was so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the continents being formed, which necessitated great
                 convulsions on the Earth)
               </span>
@@ -279,7 +279,7 @@ export default function Genesis01() {
           <sup className="calibre7">10</sup>And God called the dry land Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Supreme Being naming what He had created)
               </span>
             </span>
@@ -288,7 +288,7 @@ export default function Genesis01() {
           that it was good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Divine approval)</span>
+              <span className="explanation">(Divine approval)</span>
             </span>
           </span>
           .
@@ -300,19 +300,19 @@ export default function Genesis01() {
           forth grass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a carpet)</span>
+              <span className="explanation">(a carpet)</span>
             </span>
           </span>
           , the herb yielding seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(vegetables)</span>
+              <span className="explanation">(vegetables)</span>
             </span>
           </span>
           , and the fruit tree yielding fruit after his kind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that the different species of plants are already
                 fixed)
               </span>
@@ -321,7 +321,7 @@ export default function Genesis01() {
           , whose seed is in itself, upon the Earth: and it was so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the modern dogma of the origin of species by development is
                 unbiblical)
               </span>
@@ -337,7 +337,7 @@ export default function Genesis01() {
           whose seed was in itself, after his kind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first creation of plant life did not come from seed, but
                 that it came into being through the power of the Word)
               </span>
@@ -346,7 +346,7 @@ export default function Genesis01() {
           : and God saw that it was good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains not only to the fact of creation, but as well the
                 order of creation)
               </span>
@@ -361,7 +361,7 @@ export default function Genesis01() {
           the third day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on this day was the first creation of life, i.e., the plants,
                 etc.)
               </span>
@@ -379,7 +379,7 @@ export default function Genesis01() {
           the firmament of the heaven to divide the day from the night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is not here creating the sun, moon, and stars, that having
                 already been done in the beginning)
               </span>
@@ -388,7 +388,7 @@ export default function Genesis01() {
           ; and let them be for signs, and for seasons, and for days, and years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers in essence to time)</span>
+              <span className="explanation">(refers in essence to time)</span>
             </span>
           </span>
           :
@@ -400,7 +400,7 @@ export default function Genesis01() {
           firmament of the heaven to give light upon the Earth: and it was so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that God said it, and His glorious Word
                 contained such power that these planetary bodies will ever carry
                 out their prescribed function)
@@ -415,19 +415,19 @@ export default function Genesis01() {
           <sup className="calibre7">16</sup>And God made two great lights{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sun and the moon)</span>
+              <span className="explanation">(the sun and the moon)</span>
             </span>
           </span>
           ; the greater light to rule the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sun)</span>
+              <span className="explanation">(the sun)</span>
             </span>
           </span>
           , and the lesser light to rule the night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the moon has no light within itself; it is a
                 reflection of the sun, hence much lesser, exactly as the
                 Scripture says)
@@ -437,7 +437,7 @@ export default function Genesis01() {
           : He made the stars also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God created the sun, moon, and stars at some unknown period of
                 time in the beginning, and afterwards, when preparing the Earth
                 for man, He made, i.e., pointed them in relation to the Earth
@@ -463,7 +463,7 @@ export default function Genesis01() {
           the heaven to give light upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to their function)</span>
+              <span className="explanation">(refers to their function)</span>
             </span>
           </span>
           ,
@@ -476,7 +476,7 @@ export default function Genesis01() {
           it was good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything is now set for animate life, i.e., animal life as
                 opposed to plant life)
               </span>
@@ -501,7 +501,7 @@ export default function Genesis01() {
           fly above the Earth in the open firmament of heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (here the creatures of the sea are distinguished from all
                 previous creations, and in particular from vegetation, as being
                 possessed of a vital principle; this does not, of course,
@@ -522,7 +522,7 @@ export default function Genesis01() {
           and God saw that it was good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some ten times in the First{" "}
                 <ScrollLink href="/" scrollToId="#filepos10813">
                   <span className="calibre_19">
@@ -552,7 +552,7 @@ export default function Genesis01() {
           multiply in the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it may be asked as why God did not bless the plant life? of
                 them Moses simply says that God saw that it was good, but He did
                 not bless them; but here, God begins a new way of propagation,
@@ -586,7 +586,7 @@ export default function Genesis01() {
           and beast of the Earth after his kind: and it was so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that God leaves nothing empty that He has
                 made, but furnishes all with His store and riches)
               </span>
@@ -602,7 +602,7 @@ export default function Genesis01() {
           creeps upon the Earth after his kind: and God saw that it was good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us unequivocally that God designed each species of the
                 animal kingdom in such a way that it cannot be crossed)
               </span>
@@ -617,7 +617,7 @@ export default function Genesis01() {
           Image, after Our Likeness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the creation of man was preceded by a Divine consultation; as
                 well, the pronouns Us and Our proclaim the consultation held by
                 the Three Persons of the Divine Trinity, Who were One in the
@@ -641,7 +641,7 @@ export default function Genesis01() {
           every creeping thing that creeps upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this dominion was given by God to man, and is always subject to
                 God; the relationship of man to the balance of creation is now
                 defined to be one of rule and supremacy; the sphere of His
@@ -658,7 +658,7 @@ export default function Genesis01() {
           <sup className="calibre7">27</sup>So God created man in His Own Image{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word man should have the definite article, and should read
                 the man, that is, Adam the same man Adam spoken of in{" "}
                 <ScrollLink href="/genesis-02" scrollToId="#filepos32350">
@@ -676,7 +676,7 @@ export default function Genesis01() {
           , in the Image of God created He him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Image of God was lost at the Fall; however, the restoration
                 of the Image was carried out at the Cross, but the completion of
                 that restoration will not take place until the First
@@ -687,7 +687,7 @@ export default function Genesis01() {
           ; male and female created He them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents, at least as far as we know, the first time that God
                 has created the female gender, at least as it regards
                 intelligent beings; there is no record of any female Angels)
@@ -702,7 +702,7 @@ export default function Genesis01() {
           <sup className="calibre7">28</sup>And God blessed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again, speaks of the ability to reproduce)
               </span>
             </span>
@@ -711,7 +711,7 @@ export default function Genesis01() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word replenish carries the idea of a former creation on the
                 Earth before Adam and Eve; according to{" "}
                 <ScrollLink href="/isaiah-14" scrollToId="#filepos7420917">
@@ -741,7 +741,7 @@ export default function Genesis01() {
           , and subdue it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and that man has done; however, he would have done it much
                 sooner, but for the Fall)
               </span>
@@ -759,7 +759,7 @@ export default function Genesis01() {
           you it shall be for meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that both animals and mankind were
                 vegetarians before the Fall; incidentally, this was changed
                 after the Flood [
@@ -785,7 +785,7 @@ export default function Genesis01() {
           and it was so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tells us that animals were not originally created as
                 predators; in other words, all animals were then vegetarian as
                 well, which means that all, and not just some, were docile)
@@ -801,7 +801,7 @@ export default function Genesis01() {
           made, and, behold, it was very good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that it was not simply good, but good exceedingly; it is
                 not man alone whom God surveys, but the completed cosmos, with
                 man as its crown and glory)
@@ -811,7 +811,7 @@ export default function Genesis01() {
           . And the evening and the morning were the sixth day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word evening signified the fact that the new day began at
                 sunset, instead of 12 midnight as it presently does in our
                 reckoning of time)

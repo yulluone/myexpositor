@@ -151,7 +151,7 @@ export default function Romans03() {
           God unrighteous Who takes vengeance?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The answer is No!)</span>
+              <span className="explanation">(The answer is No!)</span>
             </span>
           </span>{" "}
           (I speak as a man){" "}
@@ -315,7 +315,7 @@ export default function Romans03() {
           <sup className="calibre7">11</sup>There is none who understands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims total depravity)</span>
+              <span className="explanation">(proclaims total depravity)</span>
             </span>
           </span>
           , there is none who seek after God{" "}
@@ -412,7 +412,9 @@ export default function Romans03() {
           full of cursing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wishing someone evil or hurt)</span>
+              <span className="explanation">
+                (wishing someone evil or hurt)
+              </span>
             </span>
           </span>{" "}
           and bitterness{" "}
@@ -456,7 +458,7 @@ export default function Romans03() {
           in their ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all brought about by sin)</span>
+              <span className="explanation">(all brought about by sin)</span>
             </span>
           </span>
           :
@@ -666,13 +668,13 @@ export default function Romans03() {
           <sup className="calibre7">24</sup>Being justified freely by His Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>{" "}
           through the Redemption that is in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(carried out at the Cross)</span>
+              <span className="explanation">(carried out at the Cross)</span>
             </span>
           </span>
           :
@@ -689,7 +691,7 @@ export default function Romans03() {
           a propitiation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Atonement or Reconciliation)</span>
+              <span className="explanation">(Atonement or Reconciliation)</span>
             </span>
           </span>{" "}
           through Faith in His Blood{" "}
@@ -713,7 +715,7 @@ export default function Romans03() {
           , through the forbearance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tolerance)</span>
+              <span className="explanation">(tolerance)</span>
             </span>
           </span>{" "}
           of God{" "}
@@ -748,7 +750,7 @@ export default function Romans03() {
           : that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           might be just{" "}
@@ -839,7 +841,7 @@ export default function Romans03() {
           without the deeds of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(faith in works is out)</span>
+              <span className="explanation">(faith in works is out)</span>
             </span>
           </span>
           .
@@ -904,7 +906,7 @@ export default function Romans03() {
           <sup className="calibre7">31</sup>Do we then make void the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law of Moses)</span>
+              <span className="explanation">(Law of Moses)</span>
             </span>
           </span>{" "}
           through faith? God forbid: yes, we establish the Law{" "}

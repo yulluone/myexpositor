@@ -18,7 +18,7 @@ export default function Hosea01() {
           Joash, king of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name Hosea means Salvation. He was a contemporary of
                 Isaiah. In the days..., refers to four kings of Judah, Uzziah,
                 Jotham, Ahaz, and Hezekiah. One king of Israel, the Northern
@@ -43,7 +43,7 @@ export default function Hosea01() {
           whoredom, departing from the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Go, take unto you a wife of whoredoms and children of
                 whoredoms, actually means children of idolatry. The Nation of
                 Israel, constituting the Northern Kingdom, is appealed to under
@@ -60,7 +60,7 @@ export default function Hosea01() {
           daughter of Diblaim; which conceived, and bore him a son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is some evidence that Gomer was the name of a harlot well
                 known at that particular time. If so, the shame heaped upon
                 Hosea would have been multi-fold.)
@@ -77,7 +77,7 @@ export default function Hosea01() {
           the house of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name Jezreel means, God will scatter or sow. This was
                 Hoseas first son.
               </span>
@@ -129,7 +129,7 @@ export default function Hosea01() {
           day, that I will break the bow of Israel in the valley of Jezreel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sign of the coming fall of this kingdom was the breaking of
                 the bow, because the Northern Kingdom of Israel was famous for
                 its use of the bow.)
@@ -149,7 +149,7 @@ export default function Hosea01() {
           them away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lo-ruhamah means not pitied. Because of Israel going into total
                 idolatry and refusing to repent, even though great Prophets were
                 sent unto them, the Northern Kingdom would be destroyed as a
@@ -166,7 +166,7 @@ export default function Hosea01() {
           them by bow, nor by sword, nor by battle, by horses, nor by horsemen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (About 200 years before, ten Tribes had broken away and
                 continued to refer to themselves as Israel. The larger Tribe of
                 Judah remained, and referred to itself as Judah, with the Tribe
@@ -236,7 +236,7 @@ export default function Hosea01() {
           she conceived, and bore a son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though it would be about 70 years before the fall of
                 Israel, still, the children are born in quick succession,
                 proclaiming the finality of the Judgment of God.
@@ -266,7 +266,7 @@ export default function Hosea01() {
           for you are not My People, and I will not be your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lo-ammi means not My People. As stated, the Prophets children
                 symbolized, step by step, Israels fast coming calamity. There
                 will be no reprieve, because there will be no Repentance.)
@@ -287,7 +287,7 @@ export default function Hosea01() {
           them, You are the sons of the Living God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no contradiction between{" "}
                 <ScrollLink href="/" scrollToId="#filepos9967454">
                   <span className="calibre_19">
@@ -330,7 +330,7 @@ export default function Hosea01() {
           the day of Jezreel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The restoration under Zerubbabel did not satisfy the prediction
                 of Verses 10 or 11, for it was very small, and did not secure
                 national independence. However, the future will satisfy the

@@ -19,7 +19,7 @@ export default function Genesis06() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the events of this Chapter probably begin at about the time of
                 Enoch, which was about a thousand years before the flood. There
                 were, no doubt, several millions of people on the face of the
@@ -47,7 +47,7 @@ export default function Genesis06() {
           which they chose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sons of God portrayed here refer to fallen Angels, which
                 had thrown in their lot with Lucifer, who led a revolution
                 against God some time in eternity past; in order to spoil the
@@ -102,13 +102,13 @@ export default function Genesis06() {
           <sup className="calibre7">3</sup>And the LORD said, My Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           shall not always strive with man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord is speaking here of the man, Adam, and not mankind in
                 general)
               </span>
@@ -117,7 +117,7 @@ export default function Genesis06() {
           , for that he also is flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that even though the first man was created
                 personally by God, he still was flesh, and because of the Fall
                 must ultimately die)
@@ -127,7 +127,7 @@ export default function Genesis06() {
           : yet his days shall be an hundred and twenty years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from the time of this announcement, Adam was to be given 120
                 years to repent; there is no evidence that he did; many think
                 that this 120 years refer to the time limit to repent before the
@@ -145,7 +145,7 @@ export default function Genesis06() {
           those days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as a result of the union of the fallen Angels with the
                 daughters of men)
               </span>
@@ -154,7 +154,7 @@ export default function Genesis06() {
           ; and also after that{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those days speak of the time before the Flood, while also after
                 that speaks of the time after the Flood; in fact, Goliath, who
                 was killed by David, was one of those specimens)
@@ -166,7 +166,7 @@ export default function Genesis06() {
           men of renown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these terms, mighty men, men of renown shoot down the
                 hypotheses of these terms referring merely to the lineage of
                 Seth and the lineage of Cain)
@@ -182,7 +182,7 @@ export default function Genesis06() {
           man was great in the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these men of renown, the giants, were developing more and more
                 ways of wickedness)
               </span>
@@ -192,7 +192,7 @@ export default function Genesis06() {
           evil continually{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to this infestation, the evil began with the very thought
                 processes, and incorporated every human being; this was a
                 continuous action of evil which never let up, and constantly
@@ -209,7 +209,7 @@ export default function Genesis06() {
           made man on the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God does not change as it regards His Nature; however, the fact
                 that the Lord repents presents the truth that God, in
                 consistency with His Immutability, assumes a changed position in
@@ -220,7 +220,7 @@ export default function Genesis06() {
           , and it grieved Him at His Heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is not merely an anthropomorphic statement, as some claim,
                 but a true statement regarding the Nature of God; sin grieves
                 the Lord!)
@@ -236,7 +236,7 @@ export default function Genesis06() {
           whom I have created from the face of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wickedness of man had become so great, if God had not done
                 this, man would ultimately have destroyed himself, although it
                 would have taken much longer. Sin has to be judged, and
@@ -248,7 +248,7 @@ export default function Genesis06() {
           air; for it repents Me that I have made them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the animal kingdom was made for man, and if man is destroyed,
                 there is no more purpose or reason for the animal kingdom; so it
                 must be destroyed as well)
@@ -267,7 +267,7 @@ export default function Genesis06() {
           the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first time that Grace is mentioned in the Bible.
                 Grace refers to the Goodness of God extended to undeserving man)
               </span>
@@ -281,7 +281,7 @@ export default function Genesis06() {
           <sup className="calibre7">9</sup>These are the generations of Noah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit brings this out, because Noah and his family
                 were perfect in their lineage, in that it had not been corrupted
                 by the union of fallen angels and women)
@@ -291,7 +291,7 @@ export default function Genesis06() {
           : Noah was a just man and perfect in his generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Noah was justified before God by Faith in the Promised Seed;
                 for Paul later said that he was an heir of the Righteousness
                 which is by Faith [
@@ -309,7 +309,7 @@ export default function Genesis06() {
           , and Noah walked with God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the only man on the face of the Earth at this time of
                 which this could be said)
               </span>
@@ -324,7 +324,7 @@ export default function Genesis06() {
           Ham, and Japheth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we learn from the last{" "}
                 <ScrollLink href="/genesis-05" scrollToId="#filepos90335">
                   <span className="calibre_19">
@@ -347,7 +347,7 @@ export default function Genesis06() {
           God, and the Earth was filled with violence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that all were corrupted respecting the lineage
                 concerning the union of fallen angels and women)
               </span>
@@ -362,7 +362,7 @@ export default function Genesis06() {
           behold, it was corrupt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God looked denotes a special observance, as though He had
                 instituted an inquiry into its real condition [
                 <ScrollLink href="/psalm-014" scrollToId="#filepos5727186">
@@ -387,7 +387,7 @@ export default function Genesis06() {
           ; for all flesh had corrupted his way upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the lineage of the entire race, due to the union of fallen
                 angels and women, was marred. This was the plan of Satan to keep
                 the Redeemer from coming into the world, Who could only function
@@ -405,7 +405,7 @@ export default function Genesis06() {
           all flesh is come before Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord had investigated the situation thoroughly)
               </span>
             </span>
@@ -413,7 +413,7 @@ export default function Genesis06() {
           ; for the Earth is filled with violence through them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hebrew says, For the Earth is filled with violence from
                 their faces; the idea is, they knew what they were doing, and
                 thereby, in effect, dared God to stop them)
@@ -423,7 +423,7 @@ export default function Genesis06() {
           ; and, behold, I will destroy them with the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God had no choice! but for Noah, the human race would have been
                 no more, and this world would have been turned back to a place
                 without form, and void, with darkness upon the face of the deep
@@ -447,7 +447,9 @@ export default function Genesis06() {
           <sup className="calibre7">14</sup>Make thee an Ark of gopher wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ark was a Type of Christ)</span>
+              <span className="explanation">
+                (the Ark was a Type of Christ)
+              </span>
             </span>
           </span>
           ; rooms shall you make in the Ark, and shall pitch it within and
@@ -461,7 +463,7 @@ export default function Genesis06() {
           the width of it fifty cubits, and the height of it thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (using 18 inches to the cubit, it was to be 450 feet long, 75
                 feet wide, and 45 feet high)
               </span>
@@ -478,7 +480,7 @@ export default function Genesis06() {
           stories shall you make it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hebrew words translated window and door carry a different
                 meaning than appears on the surface; for instance, the word
                 window was evidently a means, not merely of lighting the Ark,
@@ -503,7 +505,7 @@ export default function Genesis06() {
           shall die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this referred to all things, with the exception of the fish in
                 the sea [
                 <ScrollLink href="/" scrollToId="#filepos104161">
@@ -526,7 +528,7 @@ export default function Genesis06() {
           Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first time that the word Covenant is used in the
                 Bible. This pertains to the Covenant of the Promised Seed [
                 <ScrollLink href="/genesis-03" scrollToId="#filepos55109">
@@ -544,7 +546,7 @@ export default function Genesis06() {
           and your sons wives with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that his entire family was saved)
               </span>
             </span>
@@ -559,7 +561,7 @@ export default function Genesis06() {
           alive with you; they shall be male and female{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Scientists declare the distinct species of four-footed animals
                 to be about 250; if this number be doubled, and a certain
                 proportion multiplied by 7 for the clean animals, and if an
@@ -582,7 +584,7 @@ export default function Genesis06() {
           his kind, two of every sort shall come unto you, to keep them alive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I think it is obvious, from the phrase, shall come unto you,
                 that the Spirit of the Lord caused these animals and fowls to
                 come to Noah)
@@ -599,7 +601,7 @@ export default function Genesis06() {
           food for you, and for them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not knowing how long the flood waters would remain on the
                 Earth, evidently Noah filled the vessel to the brim with
                 provisions)
@@ -615,7 +617,7 @@ export default function Genesis06() {
           God commanded him, so did he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing greater could be said about any man!)
               </span>
             </span>

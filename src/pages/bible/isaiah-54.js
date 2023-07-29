@@ -18,7 +18,7 @@ export default function Isaiah54() {
           the married wife, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The singing of this Chapter will be the moral result of the
                 weeping of the prior one. The Tribes of Israel, having wailed
                 because of Him, will then sing because of Him. This is a great
@@ -95,7 +95,7 @@ export default function Isaiah54() {
           lengthen your cords, and strengthen your stakes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of this Chapter speaks of the coming Glad Day,
                 when Israel will have prayed the 51st Psalm and, thereby,
                 blotted out the terrible sin of crucifying Christ, as is
@@ -115,7 +115,7 @@ export default function Isaiah54() {
           and make the desolate cities to be inhabited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase speaks of Israels Restoration, which will take
                 place in the coming Kingdom Age.
               </span>
@@ -146,7 +146,7 @@ export default function Isaiah54() {
           the reproach of your widowhood any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The shame of Israels youth was idolatry, with the reproach of
                 her widowhood, her present rejection. This reproach has lasted
                 now for about 2,000 years.
@@ -188,7 +188,7 @@ export default function Isaiah54() {
           The God of the whole Earth shall He be called.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Maker and Husband, refer to the Lord as being such
                 to Israel.
               </span>
@@ -226,7 +226,7 @@ export default function Isaiah54() {
           were refused, sa ys your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word called is actually recalled, i.e., recall you to
                 Himself summon you to return and once more resume the office of
                 the wife.
@@ -262,7 +262,7 @@ export default function Isaiah54() {
           you, says the LORD your Redeemer.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Regarding eternity, it has only been a small moment respecting
                 Israels lost condition. As well, the words, little wrath, seem
                 inappropriate; however, compared to what God could have done, He
@@ -301,7 +301,7 @@ export default function Isaiah54() {
           nor rebuke you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Promise of this Verse is: as God assured Noah that He would
                 never again destroy the Earth with a flood, so does He promise
                 Israel that He will never again rebuke her with His Wrath. This
@@ -322,7 +322,7 @@ export default function Isaiah54() {
           has mercy on you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will take place at the Second Coming, when Israel will
                 then accept Christ as Saviour and Lord [
                 <ScrollLink href="/zechariah-13" scrollToId="#filepos10718933">
@@ -345,7 +345,7 @@ export default function Isaiah54() {
           colours, and lay your foundations with sapphires.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The present condition of Jerusalem is that of the first part of
                 this Verse, and the remainder of the Verse, with those
                 following, picture her future happiness and glory.)
@@ -361,7 +361,7 @@ export default function Isaiah54() {
           stones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One should compare Jerusalems present with her future and
                 realize that her future could have been her present. This beauty
                 is because of Christ; without Christ, such is impossible!)
@@ -376,7 +376,7 @@ export default function Isaiah54() {
           taught of the LORD; and great shall be the peace of your children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Messiah Himself, in{" "}
                 <ScrollLink href="/john-06" scrollToId="#filepos12417319">
                   <span className="calibre_19">
@@ -399,7 +399,7 @@ export default function Isaiah54() {
           and from terror; for it shall not come near you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that coming Glad Day, when Israel accepts Christ as her
                 Messiah, she then will be totally and completely free from
                 oppression, fear, and terror.
@@ -437,7 +437,7 @@ export default function Isaiah54() {
           shall fall for your sake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, But not by Me, address themselves to the many times
                 in the past that God had had to bring chastisement upon Israel,
                 and for her many sins.
@@ -486,7 +486,7 @@ export default function Isaiah54() {
           the LORD, and their Righteousness is of Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Irrespective of the efforts made by Satan to come against the
                 people of God, it must ever be remembered that the Lord is in
                 control of all things. This means that no weapon that is formed

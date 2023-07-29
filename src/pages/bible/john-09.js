@@ -94,7 +94,7 @@ export default function John09() {
           , while it is day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this life span)</span>
+              <span className="explanation">(this life span)</span>
             </span>
           </span>
           : the night comes, when no man can work{" "}
@@ -204,7 +204,7 @@ export default function John09() {
           , Is not this he who sat and begged?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He would beg no more.)</span>
+              <span className="explanation">(He would beg no more.)</span>
             </span>
           </span>
         </span>
@@ -367,7 +367,7 @@ export default function John09() {
           And there was a division among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims the obvious!)</span>
+              <span className="explanation">(proclaims the obvious!)</span>
             </span>
           </span>
           .
@@ -428,7 +428,7 @@ export default function John09() {
           how then does he now see?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What a stupid question!)</span>
+              <span className="explanation">(What a stupid question!)</span>
             </span>
           </span>
         </span>

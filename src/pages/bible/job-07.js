@@ -324,7 +324,7 @@ export default function Job07() {
           You, O You Preserver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Observer)</span>
+              <span className="explanation">(Observer)</span>
             </span>
           </span>{" "}
           of men? why have You set me as a mark against You, so that I am a

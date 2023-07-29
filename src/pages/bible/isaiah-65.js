@@ -17,7 +17,7 @@ export default function Isaiah65() {
           Me, unto a nation that was not called by My Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I am sought of them who asked not for Me, refers to the
                 Gentiles coming to Christ and the establishment of the Church,
                 when Israel crucified her Saviour.
@@ -68,7 +68,7 @@ export default function Isaiah65() {
           after their own thoughts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though the Lord will give Israel great Promises in His
                 Answer to them, nevertheless, He takes this occasion to once
                 again remind them of the terrible sin they have committed. He
@@ -101,7 +101,7 @@ export default function Isaiah65() {
           upon altars of brick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (although Israel during the time of Christ had outwardly
                 rejected idolatry, yet that evil spirit had returned to its
                 garnished house, bringing other spirits worse than itself and,
@@ -129,7 +129,7 @@ export default function Isaiah65() {
           abominable things is in their vessels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when people who have once known God rebel against Him, and go
                 their own way, the spiritual depths to which they sink, even as
                 Israel of old, are worse than any)
@@ -146,7 +146,7 @@ export default function Isaiah65() {
           fire that burns all the day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels initiation into heathen mysteries was thought to confer
                 on the initiated a holiness unattainable otherwise. Thus, the
                 heathenized Jew claimed to be holier than the true servants of
@@ -176,7 +176,7 @@ export default function Isaiah65() {
           bosom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he implication is that the Book lies open before Him, so that
                 their sin is ever in His sight. He would recompense accordingly!
               </span>
@@ -205,7 +205,7 @@ export default function Isaiah65() {
           measure their former work into their bosom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse links together into one guilty company the idolaters
                 of the past and the Pharisees of the present. Both are
                 Christ-rejecters. Therefore, the conduct of the former will be
@@ -239,7 +239,7 @@ export default function Isaiah65() {
           them all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the new wine is found in the cluster, refers to even a
                 single cluster of grapes on the vine-stem. The vine-pruners
                 would say one to another, Destroy not that stem, but spare it.
@@ -278,7 +278,7 @@ export default function Isaiah65() {
           shall inherit it, and My servants shall dwell there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Seed out of Jacob actually refers to Christ [
                 <ScrollLink href="/galatians-3" scrollToId="#filepos13942488">
                   <span className="calibre_19">
@@ -305,7 +305,7 @@ export default function Isaiah65() {
           for My People who have sought Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Achor was the place near Jericho where Achan was put to death [
                 <ScrollLink href="/joshua-07" scrollToId="#filepos2547851">
                   <span className="calibre_19">
@@ -350,7 +350,7 @@ export default function Isaiah65() {
           and who furnish the drink offering unto that number.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word troop, in the Hebrew, has reference to the god, or
                 rather the god of fortune, which had to do with the planet
                 Jupiter. That number, has to do with the goddess Destiny, that
@@ -382,7 +382,7 @@ export default function Isaiah65() {
           evil before My eyes, and did choose that wherein I delighted not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Israel looked to the numbers, responding to their god of
                 fortune, i.e., chance, the Lord says, Therefore will I number
                 you to the sword. With Israel seeking help from demon spirits,
@@ -428,7 +428,7 @@ export default function Isaiah65() {
           shall rejoice, but you shall be ashamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea of this Passage is this:
               </span>
             </span>
@@ -472,7 +472,7 @@ export default function Isaiah65() {
           for vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon said that all such was a vanity and vexation of spirit,
                 implying that even if there was so-called good fortune, it would
                 still result in empty nothings. For thats what the words, vanity
@@ -489,7 +489,7 @@ export default function Isaiah65() {
           servants by another name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of Israels rebellion against God, their very name has
                 been cursed. As well, instead of protecting them, the Lord,
                 because they didnt want Him, has allowed them to be slain by
@@ -528,7 +528,7 @@ export default function Isaiah65() {
           are forgotten, and because they are hid from My eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that if one is truly blessed, it
                 will be by the God of Truth. And he who swears in the Earth
                 shall swear by the God of Truth, refers to God, Who keeps
@@ -604,7 +604,7 @@ export default function Isaiah65() {
           mind.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture, as given by the Holy Spirit through Isaiah,
                 leaps ahead, even beyond the coming Millennium, to the time of
                 the new heavens and new Earth. And the former shall not be
@@ -624,7 +624,7 @@ export default function Isaiah65() {
           and her people a joy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whereas the Holy Spirit in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8091980">
                   <span className="calibre_19">
@@ -661,7 +661,7 @@ export default function Isaiah65() {
           her, nor the voice of crying.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, Jerusalem has been a place of weeping and crying. It,
                 as no other city in the world, has known war, heartache,
                 sadness, and sorrow! Satan has contested Gods ownership of this
@@ -693,7 +693,7 @@ export default function Isaiah65() {
           years old shall be accursed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (During the coming Millennium, the Redeemed, with glorified
                 bodies, and even those who have given their hearts to Christ at
                 that time, will experience no death whatsoever. Even among the
@@ -726,7 +726,7 @@ export default function Isaiah65() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proves that ordinary natural life and living conditions on
                 the Earth will continue in the Millennium. The idea of this
                 Passage is that work and labor will bring forth fruit and not be
@@ -746,7 +746,7 @@ export default function Isaiah65() {
           of their hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My elect, speaks of Israel, but also of all who have accepted
                 Christ as their Saviour. Shall long enjoy the work of their
                 hands, actually speaks of eternity. The enjoyment will never
@@ -799,7 +799,7 @@ export default function Isaiah65() {
           LORD, and their offspring with them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Their offspring with them, tells us that children
                 will be born during the Kingdom Age, and actually will be born
                 forever, even in the new Earth. This will not pertain to the
@@ -827,7 +827,7 @@ export default function Isaiah65() {
           will hear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture proclaims the Truth that Christ will be the One
                 Who will solve all problems, answer all questions, meet all
                 needs, and right all wrongs. The answer will not be delayed,
@@ -845,7 +845,7 @@ export default function Isaiah65() {
           holy mountain, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/romans-08" scrollToId="#filepos13401963">
                   <span className="calibre_19">

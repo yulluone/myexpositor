@@ -17,7 +17,7 @@ export default function Ezekiel26() {
           unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit devotes{" "}
                 <ScrollLink href="/" scrollToId="#filepos9380094">
                   <span className="calibre_19">
@@ -41,7 +41,7 @@ export default function Ezekiel26() {
           waste{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to Herodotus, Tyre was founded in 2700 B.C.; the city
                 became prosperous and became the principal Phoenician port
                 controlling the Phoenician coast; it was on the border of Israel
@@ -66,7 +66,7 @@ export default function Ezekiel26() {
           up against you, as the sea causes his waves to come up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the sea causes his waves to come up, refers to the first
                 great wave of the Babylonians against Tyre, and the last, the
                 Greeks; for the Prophecy of this Chapter embraces both
@@ -83,7 +83,7 @@ export default function Ezekiel26() {
           her, and make her like the top of a rock.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The walls refer to the first destruction by Nebuchadnezzar,
                 with the phrase, I will also scrape her dust from her, referring
                 to Alexander the Great, who built a causeway to attack the new
@@ -102,7 +102,7 @@ export default function Ezekiel26() {
           GOD: and it shall become a spoil to the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this was fulfilled in entirety.)
               </span>
             </span>
@@ -116,7 +116,7 @@ export default function Ezekiel26() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The daughters refer to the neighboring towns which were
                 dependent upon Tyre.)
               </span>
@@ -132,7 +132,7 @@ export default function Ezekiel26() {
           horsemen, and companies, and much people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Behold, I will bring upon Tyrus..., refers to the Lordship of
                 Christ as Sovereign Ruler over all. One may notice that the
                 title, a king of kings, is given to Nebuchadnezzar by the Holy
@@ -151,7 +151,7 @@ export default function Ezekiel26() {
           a mount against you, and lift up the buckler against you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims the nature of the siege that
                 Nebuchadnezzar would lay against Tyre. The siege lasted thirteen
                 years before Tyre eventually fell.)
@@ -166,7 +166,7 @@ export default function Ezekiel26() {
           against your walls, and with his axes he shall break down your towers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The engines of war consisted of huge catapults designed to hurl
                 great stones at the walls in order to make a breach in them.)
               </span>
@@ -183,7 +183,7 @@ export default function Ezekiel26() {
           breach.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the walls were finally breached by Nebuchadnezzar, the
                 might and power of his army and cavalry quickly overran the
                 city.)
@@ -199,7 +199,7 @@ export default function Ezekiel26() {
           sword, and your strong garrisons shall go down to the ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The he and his of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9384289">
                   <span className="calibre_19">
@@ -231,7 +231,7 @@ export default function Ezekiel26() {
           stones and your timber and your dust in the midst of the water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, the last phrase of this Verse, concerning the dust
                 in the midst of the water, refers to Alexanders invasion.)
               </span>
@@ -245,7 +245,7 @@ export default function Ezekiel26() {
           songs to cease; and the sound of your harps shall be no more heard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tyre was eminent no less for its culture than for its
                 commerce.)
               </span>
@@ -260,7 +260,7 @@ export default function Ezekiel26() {
           no more: for I the LORD have spoken it, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall be built no more, speaks of this rock where old Tyre
                 was located. Today, as for centuries past, the sight of the
                 ancient city, as described here, is a bare rock upon which
@@ -284,7 +284,7 @@ export default function Ezekiel26() {
           cry, when the slaughter is made in the midst of you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which happened to Jerusalem would ultimately happen to
                 Tyre.)
               </span>
@@ -301,7 +301,7 @@ export default function Ezekiel26() {
           moment, and be astonished at you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Princes of the sea, referred to the merchant princes who had
                 made Tyre one of the greatest centers of commerce in the world.
                 Now they are astonished at the fall of Tyre, which they thought
@@ -319,7 +319,7 @@ export default function Ezekiel26() {
           her inhabitants, which cause their terror to be on all who haunt it!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the riches and power of Tyre, the surrounding countries
                 did not think she would fall, and especially considering that it
                 took Nebuchadnezzar 13 years to subdue the city.)
@@ -335,7 +335,7 @@ export default function Ezekiel26() {
           at your departure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The troubling of the surrounding countries is due to the
                 commerce of Tyre, which had contributed to their prosperity, but
                 would now be lost.)
@@ -352,7 +352,7 @@ export default function Ezekiel26() {
           shall cover you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the city that had been so rich and prosperous now will be made
                 desolate)
               </span>
@@ -370,7 +370,7 @@ export default function Ezekiel26() {
           set Glory in the Land of the Living{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When I shall bring you down with them who descend into the pit,
                 is actually a portrayal of Hell itself, and her shut up with the
                 antediluvians, i.e., with the people of old time. And I shall
@@ -391,7 +391,7 @@ export default function Ezekiel26() {
           found again, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage and all the information given about Tyre [which
                 represents the system of this world] portray the fact that this
                 system is going to ultimately perish, and Jesus Christ will

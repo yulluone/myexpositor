@@ -41,7 +41,7 @@ export default function Thessalonians21() {
           <sup className="calibre7">2</sup>Grace unto you, and Peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanctifying Peace)</span>
+              <span className="explanation">(Sanctifying Peace)</span>
             </span>
           </span>
           , from God our Father and the Lord Jesus Christ{" "}
@@ -74,7 +74,7 @@ export default function Thessalonians21() {
           , and the charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           of every one of you all toward each other abounds{" "}
@@ -335,7 +335,7 @@ export default function Thessalonians21() {
           , and you in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Christ)</span>
+              <span className="explanation">(in Christ)</span>
             </span>
           </span>
           , according to the Grace of our God and the Lord Jesus Christ.{" "}

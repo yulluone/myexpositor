@@ -56,13 +56,13 @@ export default function Luke07() {
           <sup className="calibre7">4</sup>And when they came to Jesus, they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Elders of the Jews)</span>
+              <span className="explanation">(the Elders of the Jews)</span>
             </span>
           </span>{" "}
           besought Him instantly, saying, That he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the centurion)</span>
+              <span className="explanation">(the centurion)</span>
             </span>
           </span>{" "}
           was worthy for whom He should do this{" "}
@@ -212,13 +212,13 @@ export default function Luke07() {
           , and turned him about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will use him as an example)</span>
+              <span className="explanation">(will use him as an example)</span>
             </span>
           </span>
           , and said unto the people that followed Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who followed Jesus)</span>
+              <span className="explanation">(who followed Jesus)</span>
             </span>
           </span>
           , I say unto you, I have not found so great faith, no, not in Israel{" "}
@@ -272,7 +272,7 @@ export default function Luke07() {
           with Him, and much people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(recorded only by Luke)</span>
+              <span className="explanation">(recorded only by Luke)</span>
             </span>
           </span>
           .
@@ -284,7 +284,7 @@ export default function Luke07() {
           the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about to enter the city)</span>
+              <span className="explanation">(about to enter the city)</span>
             </span>
           </span>
           , behold, there was a dead man carried out, the only son of his
@@ -330,7 +330,7 @@ export default function Luke07() {
           . And he said, Young man, I say unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents His Deity)</span>
+              <span className="explanation">(presents His Deity)</span>
             </span>
           </span>
           , Arise{" "}
@@ -485,7 +485,7 @@ export default function Luke07() {
           <sup className="calibre7">20</sup>When the men were come unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Jesus)</span>
+              <span className="explanation">(unto Jesus)</span>
             </span>
           </span>
           , they said, John Baptist has sent us unto You, saying, Are You He Who
@@ -701,7 +701,7 @@ export default function Luke07() {
           Behold, I send My messenger before Your face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before the face of Christ)</span>
+              <span className="explanation">(before the face of Christ)</span>
             </span>
           </span>
           , which shall prepare Your way before You{" "}
@@ -767,7 +767,7 @@ export default function Luke07() {
           and the Publicans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tax-collectors)</span>
+              <span className="explanation">(tax-collectors)</span>
             </span>
           </span>
           , justified God{" "}
@@ -975,7 +975,7 @@ export default function Luke07() {
           <sup className="calibre7">37</sup>And, behold, a woman in the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably was Nain)</span>
+              <span className="explanation">(probably was Nain)</span>
             </span>
           </span>
           , which was a sinner{" "}
@@ -1088,7 +1088,7 @@ export default function Luke07() {
           He spoke within Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not out loud)</span>
+              <span className="explanation">(not out loud)</span>
             </span>
           </span>
           , saying, This Man, if He were a Prophet, would have known who and
@@ -1144,7 +1144,7 @@ export default function Luke07() {
           <sup className="calibre7">41</sup>There was a certain creditor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a moneylender)</span>
+              <span className="explanation">(a moneylender)</span>
             </span>
           </span>{" "}
           which had two debtors{" "}
@@ -1166,7 +1166,7 @@ export default function Luke07() {
           , and the other fifty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about two thousand dollars)</span>
+              <span className="explanation">(about two thousand dollars)</span>
             </span>
           </span>
           .
@@ -1254,7 +1254,7 @@ export default function Luke07() {
           <sup className="calibre7">45</sup>You gave Me no kiss{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was a custom in those days)</span>
+              <span className="explanation">(was a custom in those days)</span>
             </span>
           </span>
           : but this woman since the time I came in has not ceased to kiss my

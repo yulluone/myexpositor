@@ -207,7 +207,7 @@ export default function Job32() {
           <sup className="calibre7">14</sup>Now he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job)</span>
+              <span className="explanation">(Job)</span>
             </span>
           </span>{" "}
           has not directed his words against me: neither will I answer him with
@@ -270,7 +270,7 @@ export default function Job32() {
           <sup className="calibre7">18</sup>For I am full of matter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(words)</span>
+              <span className="explanation">(words)</span>
             </span>
           </span>
           , the spirit within me constrains me{" "}

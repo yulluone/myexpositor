@@ -16,7 +16,7 @@ export default function Acts13() {
           at Antioch certain Prophets and Teachers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit, as we shall see, shifts the emphasis from
                 Jerusalem to this Syrian city)
               </span>
@@ -33,13 +33,13 @@ export default function Acts13() {
           fasted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to worship)</span>
+              <span className="explanation">(refers to worship)</span>
             </span>
           </span>
           , the Holy Spirit said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit still speaks, at least to all who have the
                 right type of relationship, and anyone can who so desires)
               </span>
@@ -49,7 +49,7 @@ export default function Acts13() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (expresses a strong Command; in other words, it is not a
                 suggestion; the Lord does the calling, not man)
               </span>
@@ -66,7 +66,7 @@ export default function Acts13() {
           <sup className="calibre7">3</sup>And when they had fasted and prayed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Early Church was a praying Church; it is a shame that the
                 same cannot be said for the modern Church)
               </span>
@@ -81,7 +81,7 @@ export default function Acts13() {
           hands on them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it signified the Blessings of the Church upon Paul and
                 Barnabas)
               </span>
@@ -96,7 +96,7 @@ export default function Acts13() {
           away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents, as far as is known, the very first Missionary trip
                 to new places for the express purpose of planting new Churches)
               </span>
@@ -111,7 +111,7 @@ export default function Acts13() {
           Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Spirit not only calling them, but sending them as
                 well; due to the Cross, the Holy Spirit now has far greater
                 latitude to work within our lives)
@@ -121,7 +121,7 @@ export default function Acts13() {
           , departing unto Seleucia; and from thence they sailed to Cyprus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represented a journey of approximately one hundred miles; as
                 well, Cyprus was the boyhood home of Barnabas, where he no doubt
                 still had many friends [
@@ -144,7 +144,7 @@ export default function Acts13() {
           <sup className="calibre7">5</sup>And when they were at Salamis{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one of the principal cities on the Island of Cyprus)
               </span>
             </span>
@@ -152,7 +152,7 @@ export default function Acts13() {
           , they preached the Word of God in the Synagogues of the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (upon arriving in a new city, Paul would normally first go to
                 the Synagogue and minister; it was the Jew first, and then the
                 Gentile)
@@ -168,7 +168,7 @@ export default function Acts13() {
           minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of John Mark, who wrote one of the Four Gospels which
                 bears his name; he was their helper)
               </span>
@@ -183,14 +183,14 @@ export default function Acts13() {
           isle unto Paphos{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Capitol of Cyprus)</span>
+              <span className="explanation">(the Capitol of Cyprus)</span>
             </span>
           </span>
           , they found a certain sorcerer, a false prophet, a Jew, whose name
           was Bar-jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this man claimed to be of God, but in reality was of Satan)
               </span>
             </span>
@@ -204,7 +204,7 @@ export default function Acts13() {
           country, Sergius Paulus, a prudent man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he had this sorcerer with him; being a pagan, he did not know
                 the difference between sorcery and that which was legitimately
                 of God)
@@ -215,7 +215,7 @@ export default function Acts13() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the news of these men had got around)
               </span>
             </span>
@@ -229,7 +229,7 @@ export default function Acts13() {
           his name by interpretation) withstood them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he saw a threat in Paul and Barnabas)
               </span>
             </span>
@@ -237,7 +237,7 @@ export default function Acts13() {
           , seeking to turn away the deputy from the faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the Governor was believing the Message of Jesus
                 Christ, as presented by Paul and Barnabas)
               </span>
@@ -257,7 +257,7 @@ export default function Acts13() {
           Paul,){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents here the change of name; he will be referred to as
                 Paul from now on; Paul is the Roman derivative of the Hebrew
                 Saul),
@@ -267,7 +267,7 @@ export default function Acts13() {
           filled with the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not only speaks of an ongoing state, but seems to imply a
                 special new Anointing)
               </span>
@@ -276,7 +276,7 @@ export default function Acts13() {
           , set his eyes on him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (did so according to the leading of the Holy Spirit)
               </span>
             </span>
@@ -302,7 +302,7 @@ export default function Acts13() {
           enemy of all Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Gift of Discerning of spirits [
                 <ScrollLink
                   href="/corinthians1-12"
@@ -321,7 +321,7 @@ export default function Acts13() {
           , will you not cease to pervert the Right Ways of the Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This glaringly proclaims that this sorcerer who claimed to be
                 of God was not of God at all, but rather of Satan.)
               </span>
@@ -341,7 +341,7 @@ export default function Acts13() {
           upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (would have been better translated, is against you)
               </span>
             </span>
@@ -349,7 +349,7 @@ export default function Acts13() {
           , and you shall be blind, not seeing the sun for a season{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is indication that there was opportunity for Repentance;
                 in other words, it was a remedial chastisement)
               </span>
@@ -358,7 +358,7 @@ export default function Acts13() {
           . And immediately there fell on him a mist and a darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was used by the Holy Spirit to teach this man that his message
                 was darkness)
               </span>
@@ -367,7 +367,7 @@ export default function Acts13() {
           ; and he went about seeking some to lead him by the hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that he now has no followers due to the fact that he
                 has been shown up for what he truly is, an imposter!)
               </span>
@@ -382,7 +382,7 @@ export default function Acts13() {
           was done, believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he accepted the Lord Jesus Christ as his Saviour)
               </span>
             </span>
@@ -390,7 +390,7 @@ export default function Acts13() {
           , being astonished at the Doctrine of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks to the fact that this Doctrine was not mere rhetoric,
                 but was accompanied by Power as well)
               </span>
@@ -405,7 +405,7 @@ export default function Acts13() {
           from Paphos, they came to Perga in Pamphylia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents them going back to the mainland from the Island of
                 Cyprus)
               </span>
@@ -414,7 +414,7 @@ export default function Acts13() {
           : and John departing from them returned to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Mark who wrote the Gospel which bears his name; even
                 though the Holy Spirit is silent regarding why Mark did this, we
                 do know that his departure caused hardship on this Missionary
@@ -442,7 +442,7 @@ export default function Acts13() {
           they came to Antioch in Pisidia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims an Antioch other than the Antioch of Syria, where the
                 home Church was located [
                 <ScrollLink href="/" scrollToId="#filepos12987870">
@@ -459,7 +459,7 @@ export default function Acts13() {
           , and went into the Synagogue on the Sabbath Day, and sat down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to special seats, thus intimating that they were
                 willing to speak if invited, as was the custom in the Synagogue)
               </span>
@@ -474,7 +474,7 @@ export default function Acts13() {
           the Prophets the Rulers of the Synagogue sent unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims the custom)</span>
+              <span className="explanation">(proclaims the custom)</span>
             </span>
           </span>
           , saying,{" "}
@@ -492,7 +492,7 @@ export default function Acts13() {
           Brethren, if you have any word of exhortation for the people, say on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, this was generally the manner in which Paul began
                 his Evangelism in any given area; he would first go to the
                 Jewish Synagogue, and then to the Gentiles)
@@ -517,7 +517,7 @@ export default function Acts13() {
           hand said, Men of Israel, and you who fear God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gentiles who attended Jewish Synagogues were given a particular
                 place to sit, and were called God-fearers)
               </span>
@@ -526,7 +526,7 @@ export default function Acts13() {
           , give audience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the gist of Pauls Message is given here, but doesnt go into
                 much detail in the record of later sermons)
               </span>
@@ -541,7 +541,7 @@ export default function Acts13() {
           chose our Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul beginning his Message much as Steven had years
                 before)
               </span>
@@ -557,7 +557,7 @@ export default function Acts13() {
           suffered He their manners in the wilderness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bad manners)</span>
+              <span className="explanation">(bad manners)</span>
             </span>
           </span>
           .
@@ -569,7 +569,7 @@ export default function Acts13() {
           nations in the land of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to the Canaanites, Hittites, Girgashites, Amorites,
                 Havites, Perizzites, and Jebusites)
               </span>
@@ -578,7 +578,7 @@ export default function Acts13() {
           , He divided their land to them by lot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Urim and Thummim; gave different portions to
                 different Tribes)
               </span>
@@ -599,7 +599,7 @@ export default function Acts13() {
           the Prophet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Samuel was the last Judge, and the first man to stand in the
                 Office of the Prophet)
               </span>
@@ -615,7 +615,7 @@ export default function Acts13() {
           Benjamin, by the space of forty years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that he ruled for forty years)
               </span>
             </span>
@@ -628,19 +628,19 @@ export default function Acts13() {
           <sup className="calibre7">22</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           had removed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(removed Saul)</span>
+              <span className="explanation">(removed Saul)</span>
             </span>
           </span>
           , He raised up unto them David to be their king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David was meant to be the first king of Israel, but the people
                 jumped the gun, so to speak; they demanded a king and got Saul,
                 which proved to be a disaster)
@@ -661,7 +661,7 @@ export default function Acts13() {
           <sup className="calibre7">23</sup>Of this mans seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Davids seed)</span>
+              <span className="explanation">(Davids seed)</span>
             </span>
           </span>{" "}
           has God according to{" "}
@@ -673,7 +673,7 @@ export default function Acts13() {
           Promise raised unto Israel a Saviour, Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostle now introducing the One Who is the Cause
                 and Reason for everything; He is the only Saviour)
               </span>
@@ -688,7 +688,7 @@ export default function Acts13() {
           His coming the Baptism of Repentance to all the people of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ministry of John the Baptist)
               </span>
             </span>
@@ -714,7 +714,7 @@ export default function Acts13() {
           feet I am not worthy to loose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (John bluntly announces the fact that he is not the Messiah, but
                 rather Jesus)
               </span>
@@ -734,19 +734,19 @@ export default function Acts13() {
           Brethren, children of the stock of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Jews)</span>
+              <span className="explanation">(the Jews)</span>
             </span>
           </span>
           , and whosoever among you fear God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Gentiles)</span>
+              <span className="explanation">(the Gentiles)</span>
             </span>
           </span>
           , to you is the word of this Salvation sent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul, without apology, including the Gentiles in this
                 great Plan of Salvation)
               </span>
@@ -761,7 +761,7 @@ export default function Acts13() {
           their Rulers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pinpoints the murderers of Christ)
               </span>
             </span>
@@ -769,7 +769,7 @@ export default function Acts13() {
           , because they knew Him not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies a willful ignorance that brought about a willful
                 blindness)
               </span>
@@ -778,7 +778,7 @@ export default function Acts13() {
           , nor yet the voices of the Prophets which are read every Sabbath Day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Prophets told them of Christ, but they would not believe)
               </span>
             </span>
@@ -795,7 +795,7 @@ export default function Acts13() {
               <span className="calibre_19">Him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isa., Chpt.{" "}
                 <ScrollLink href="/isaiah-53" scrollToId="#filepos7909290">
                   <span className="calibre_19">
@@ -820,7 +820,7 @@ export default function Acts13() {
               <span className="calibre_19">in Him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they opposed Him from the very beginning; they heard Him with
                 closed minds, and as a result closed their ears),
               </span>
@@ -835,7 +835,7 @@ export default function Acts13() {
           was written of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to that which the Prophets had predicted)
               </span>
             </span>
@@ -849,7 +849,7 @@ export default function Acts13() {
           down from the tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Cross; if it is to be noticed, both Paul and
                 Peter used the term tree regarding the Cross; it is derived from{" "}
                 <ScrollLink href="/deuteronmy-21" scrollToId="#filepos2322192">
@@ -877,7 +877,7 @@ export default function Acts13() {
           <sup className="calibre7">30</sup>But God raised Him from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Paul proclaimed the Crucifixion of Jesus, he now proclaims
                 His Resurrection)
               </span>
@@ -892,7 +892,7 @@ export default function Acts13() {
           which came up with Him from Galilee to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns a number of appearances over a time span of some forty
                 days)
               </span>
@@ -901,7 +901,7 @@ export default function Acts13() {
           , who are His witnesses unto the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is making the case that there were too many appearances
                 for His Resurrection to be denied)
               </span>
@@ -915,7 +915,7 @@ export default function Acts13() {
           <sup className="calibre7">32</sup>And we declare unto you Glad Tidings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Good News of the Gospel, all wrapped up in
                 Christ)
               </span>
@@ -924,7 +924,7 @@ export default function Acts13() {
           , how that the Promise which was made unto the Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had its beginnings in{" "}
                 <ScrollLink href="/genesis-03" scrollToId="#filepos55109">
                   <span className="calibre_19">
@@ -946,7 +946,7 @@ export default function Acts13() {
           their children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means simply that the Lord did exactly what He had Promised)
               </span>
             </span>
@@ -954,14 +954,14 @@ export default function Acts13() {
           , in that He has raised up Jesus again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>
           ; as it is also written in the Second Psalm, You are My Son, this day
           have I begotten You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Incarnation when the Second Person of the Divine
                 Trinity took a perfect human body, in order that it would be
                 offered up as Sacrifice to Redeem humanity [
@@ -1007,7 +1007,7 @@ export default function Acts13() {
           no more to return to corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this phrase proclaims the fact that Jesus was raised from the
                 dead in greater form than when He went into the abode of death;
                 He died with a regular, although Perfect, human Body, but was
@@ -1018,7 +1018,7 @@ export default function Acts13() {
           , He said on this wise, I will give You the sure mercies of David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to the Lord Jesus Christ, Who embodies all of
                 these great Mercies [
                 <ScrollLink href="/isaiah-55" scrollToId="#filepos7946217">
@@ -1046,7 +1046,7 @@ export default function Acts13() {
           You shall not suffer Your Holy One to see corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to{" "}
                 <ScrollLink href="/psalm-016" scrollToId="#filepos5736007">
                   <span className="calibre_19">
@@ -1072,13 +1072,13 @@ export default function Acts13() {
           own generation by the Will of God, fell on sleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Davids death)</span>
+              <span className="explanation">(refers to Davids death)</span>
             </span>
           </span>
           , and was laid unto his Fathers, and saw corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this shows that the great Davidic Covenant pertained to the
                 greater son of David, and not David himself)
               </span>
@@ -1093,7 +1093,7 @@ export default function Acts13() {
           no corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pauls Message here is very similar to that of Peter in Acts,
                 Chpt.{" "}
                 <ScrollLink href="/acts-02" scrollToId="#filepos12767100">
@@ -1122,7 +1122,7 @@ export default function Acts13() {
           of sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Jesus as having paid the price for mans Redemption,
                 and through Him Alone can be forgiveness of sins)
               </span>
@@ -1136,13 +1136,13 @@ export default function Acts13() {
           <sup className="calibre7">39</sup>And by Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what He did at the Cross)</span>
+              <span className="explanation">(what He did at the Cross)</span>
             </span>
           </span>{" "}
           all who believe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (place our Faith in what He did at the Cross)
               </span>
             </span>
@@ -1150,7 +1150,7 @@ export default function Acts13() {
           are justified from all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Scripture here plainly says, all things, not just some
                 things)
               </span>
@@ -1159,7 +1159,7 @@ export default function Acts13() {
           , from which you could not be justified by the Law of Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dogmatically and without apology sets aside the Law of Moses as
                 being empty of any ability to justify one with God)
               </span>
@@ -1174,7 +1174,7 @@ export default function Acts13() {
           upon you, which is spoken of in the Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Judgment of God, and plainly says that it will
                 come upon rejecters of Truth)
               </span>
@@ -1189,7 +1189,7 @@ export default function Acts13() {
           and perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/habakkuk-1" scrollToId="#filepos10428662">
                   <span className="calibre_19">
@@ -1207,7 +1207,7 @@ export default function Acts13() {
           believe, though a man declare it unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (predicts the unbelief of mankind respecting Jesus Christ as the
                 source of all Salvation)
               </span>
@@ -1222,7 +1222,7 @@ export default function Acts13() {
           the Synagogue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that some had got angry at Pauls statements)
               </span>
             </span>
@@ -1231,7 +1231,7 @@ export default function Acts13() {
           next Sabbath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of those Gentiles referred to as God-fearers, who were
                 in the Synagogue and heard Pauls Message)
               </span>
@@ -1246,7 +1246,7 @@ export default function Acts13() {
           up, many of the Jews and religious proselytes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gentiles who had accepted Judaism)
               </span>
             </span>
@@ -1254,14 +1254,14 @@ export default function Acts13() {
           followed Paul and Barnabas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wanted to hear more)</span>
+              <span className="explanation">(wanted to hear more)</span>
             </span>
           </span>
           : who, speaking to them, persuaded them to continue in the Grace of
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not only must they accept Christ, they must also continue in
                 Christ)
               </span>
@@ -1279,7 +1279,7 @@ export default function Acts13() {
           the whole city together to hear the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (during the intervening week, it seems the new converts quickly
                 spread the Message of Grace through Jesus Christ; consequently,
                 there is a great crowd on this particular Sabbath Day to hear
@@ -1296,7 +1296,7 @@ export default function Acts13() {
           multitudes, they were filled with envy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did not expect this large a crowd)
               </span>
             </span>
@@ -1305,7 +1305,7 @@ export default function Acts13() {
           contradicting and blaspheming{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Synagogue leaders were trying to contradict Paul, and
                 blaspheming Christ as well)
               </span>
@@ -1319,7 +1319,7 @@ export default function Acts13() {
           <sup className="calibre7">46</sup>Then Paul and Barnabas waxed bold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this boldness was given to them by the Holy Spirit)
               </span>
             </span>
@@ -1328,7 +1328,7 @@ export default function Acts13() {
           been spoken to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should be first given to the Jews)
               </span>
             </span>
@@ -1337,7 +1337,7 @@ export default function Acts13() {
           Everlasting Life, lo, we turn to the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a statement of far-reaching magnitude; one might say
                 this was the beginning of Western Civilization)
               </span>
@@ -1351,7 +1351,7 @@ export default function Acts13() {
           <sup className="calibre7">47</sup>For so has the Lord Commanded us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks not only of His Personal Call, but of the Prophecy given
                 by Isaiah as well)
               </span>
@@ -1366,7 +1366,7 @@ export default function Acts13() {
           I have set you to be a Light of the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is taken from{" "}
                 <ScrollLink href="/isaiah-49" scrollToId="#filepos7856163">
                   <span className="calibre_19">
@@ -1382,7 +1382,7 @@ export default function Acts13() {
           , that you should be for Salvation unto the ends of the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Salvation afforded by Christ is intended for the entirety
                 of the world)
               </span>
@@ -1397,7 +1397,7 @@ export default function Acts13() {
           they were glad, and glorified the Word of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they knew this meant them, and it brought great joy, even as it
                 should)
               </span>
@@ -1406,7 +1406,7 @@ export default function Acts13() {
           : and as many as were ordained to Eternal Life believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that God has appointed and provided Eternal Life for all
                 who will believe [
                 <ScrollLink href="/john-03" scrollToId="#filepos12331298">
@@ -1469,7 +1469,7 @@ export default function Acts13() {
           published throughout all the region{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it didnt say the Church, or some religious institution, etc.,
                 but the Word of the Lord; this shows us where the emphasis must
                 be)
@@ -1484,13 +1484,15 @@ export default function Acts13() {
           <sup className="calibre7">50</sup>But the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those who opposed the Gospel)</span>
+              <span className="explanation">
+                (those who opposed the Gospel)
+              </span>
             </span>
           </span>{" "}
           stirred up the devout and Honourable women{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to indicate female Gentile Proselytes)
               </span>
             </span>
@@ -1499,7 +1501,7 @@ export default function Acts13() {
           and Barnabas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that these individuals believed the lies they were told
                 about these two)
               </span>
@@ -1508,7 +1510,7 @@ export default function Acts13() {
           , and expelled them out of their coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were not merely requested to leave, but forcibly ejected;
                 there is no evidence of physical violence, but definite evidence
                 that physical violence was threatened)
@@ -1524,7 +1526,7 @@ export default function Acts13() {
           feet against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which Jesus Commanded His Disciples to do under
                 these circumstances [
                 <ScrollLink href="/matthew-10" scrollToId="#filepos10972427">
@@ -1565,7 +1567,7 @@ export default function Acts13() {
           , and came unto Iconium{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a city in the southern part of the Roman Province of Galatia)
               </span>
             </span>
@@ -1579,7 +1581,7 @@ export default function Acts13() {
           joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the Holy Spirit informed them that the
                 problem in Antioch was not their fault; this brings them great
                 joy)
@@ -1589,7 +1591,7 @@ export default function Acts13() {
           , and with the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the Spirit of God was the Author of this joy)
               </span>
             </span>

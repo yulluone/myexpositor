@@ -296,13 +296,13 @@ export default function Leviticus08() {
           , and anointed the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Type of the Cross)</span>
+              <span className="explanation">(Type of the Cross)</span>
             </span>
           </span>{" "}
           and all his vessels, both the Laver and his foot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Type of the Word of God)</span>
+              <span className="explanation">(Type of the Word of God)</span>
             </span>
           </span>
           , to sanctify them{" "}
@@ -956,7 +956,9 @@ export default function Leviticus08() {
           has commanded to do, to make an Atonement for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by the Sacrificial Offerings)</span>
+              <span className="explanation">
+                (by the Sacrificial Offerings)
+              </span>
             </span>
           </span>
         </span>

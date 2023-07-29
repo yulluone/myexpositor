@@ -17,7 +17,7 @@ export default function Chronicles110() {
           fell down killed in Mount Gilboa.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit, in the last ten Verses of the Ninth Chapter,
                 recites the pedigree of King Saul, and then, in{" "}
                 <ScrollLink href="/" scrollToId="#filepos4460749">
@@ -41,7 +41,7 @@ export default function Chronicles110() {
           and Abinadab, and Malchi-shua, the sons of Saul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were the ones who accompanied him into the battle. There
                 were other sons who stayed at home, and did not die. The Holy
                 Spirit places Jonathans name first. Of all of these, Jonathan
@@ -65,7 +65,7 @@ export default function Chronicles110() {
           he was sore afraid. So Saul took a sword, and fell upon it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He committed suicide! He started so well, and concluded so
                 poorly. He failed to defeat the enemies within, which were
                 self-will, jealousy, and pride; therefore, the enemy without,
@@ -96,7 +96,7 @@ export default function Chronicles110() {
           came and dwelt in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which the Lord gave to Israel is now occupied by the
                 Philistines. It is the same with us presently. Satan desires to
                 inhabit that which God has given us; therefore, the battle ever
@@ -113,7 +113,7 @@ export default function Chronicles110() {
           his sons fallen in Mount Gilboa.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The evidence is obvious that Satan wants the last drop of
                 blood. There can be no compromise with the evil one. We destroy
                 him or he destroys us.)
@@ -130,7 +130,7 @@ export default function Chronicles110() {
           people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was customary to take the heads of conquered kings and make
                 sport with them in the houses of the gods, and in the cities of
                 their own people. But this was a tragedy, because these were
@@ -146,7 +146,7 @@ export default function Chronicles110() {
           of their gods, and fastened his head in the temple of Dagon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thereby giving their gods credit for this victory)
               </span>
             </span>
@@ -168,7 +168,7 @@ export default function Chronicles110() {
           fasted seven days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I Sam., Chpt.{" "}
                 <ScrollLink href="/samuel1-31" scrollToId="#filepos3379715">
                   <span className="calibre_19">
@@ -211,7 +211,7 @@ export default function Chronicles110() {
           Jesse.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, Saul did enquire of the Lord [
                 <ScrollLink href="/samuel1-28" scrollToId="#filepos3353527">
                   <span className="calibre_19">

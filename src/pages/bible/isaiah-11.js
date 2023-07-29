@@ -18,7 +18,7 @@ export default function Isaiah11() {
           of the stem of Jesse, and a Branch shall grow out of his roots{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse has to do with the Incarnation, with the balance of
                 the Chapter referring to the glorious reign of Christ during the
                 Millennium. The word Rod, in this instance, refers to a tender
@@ -38,14 +38,14 @@ export default function Isaiah11() {
           upon Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(upon Christ)</span>
+              <span className="explanation">(upon Christ)</span>
             </span>
           </span>
           , the Spirit of Wisdom and Understanding, the Spirit of Counsel and
           Might, the Spirit of Knowledge and of the fear of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proclaims the Perfection of the Holy Spirit in all His
                 attributes listed here resting upon the Messiah)
               </span>
@@ -61,7 +61,7 @@ export default function Isaiah11() {
           the sight of His Eyes, neither reprove after the hearing of His Ears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words, quick understanding, would probably have been better
                 translated the breath of His nostrils shall be in the Fear of
                 the LORD. It suggests a disposition instinct with delight in God
@@ -88,7 +88,7 @@ export default function Isaiah11() {
           of His Lips shall He kill the wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The smiting of the Earth might be better stated the oppressor
                 of the land, referring to the Antichrist. The word reprove means
                 to set right with equity or to administer justice on behalf of
@@ -104,7 +104,7 @@ export default function Isaiah11() {
           of His Loins, and Faithfulness the girdle of His Reins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse presents Immanuel as Priest. The loins speak of the
                 physical, with the reins speaking of the heart and, therefore,
                 the spiritual. For the first time, the human family in Christ
@@ -126,7 +126,7 @@ export default function Isaiah11() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The character and nature of the planet, including its occupants
                 and even the animal creation, will revert to their posture as
                 before the Fall.)
@@ -140,14 +140,14 @@ export default function Isaiah11() {
           <sup className="calibre7">7</sup>And the cow and the bear shall feed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(feed together)</span>
+              <span className="explanation">(feed together)</span>
             </span>
           </span>
           ; their young ones shall lie down together: and the lion shall eat
           straw like the ox.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage plainly tells us that the carnivorous nature of
                 the animal kingdom will be totally and eternally changed.)
               </span>
@@ -162,7 +162,7 @@ export default function Isaiah11() {
           cockatrice den.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though some of the curse will remain on the serpent in the
                 Millennium, in that he continues to writhe in the dust, still,
                 the deadly part will be removed [
@@ -189,7 +189,7 @@ export default function Isaiah11() {
           the LORD, as the waters cover the sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The holy mountain refers to the dwelling place of Christ during
                 the Kingdom Age, which will be Jerusalem. And from that vantage
                 point shall go out the knowledge of the LORD, which will cover
@@ -206,7 +206,7 @@ export default function Isaiah11() {
           shall the Gentiles seek: and His rest shall be glorious.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, as in most cases, refer to the Great
                 Tribulation, the Battle of Armageddon, the Second Coming of the
                 Lord, and the coming Kingdom Age.
@@ -247,7 +247,7 @@ export default function Isaiah11() {
           Shinar, and from Hamath, and from the islands of the sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, in that day, refers to Christ reigning Personally
                 in Jerusalem. The first gathering of the remnant, as it refers
                 to Israel, took place when Israel was gathered out of the
@@ -268,7 +268,7 @@ export default function Isaiah11() {
           together the dispersed of Judah from the four corners of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here, Israel is called outcasts, and they have been such ever
                 since their rejection of Christ and the destruction of Jerusalem
                 by Titus in A.D. 70.
@@ -299,7 +299,7 @@ export default function Isaiah11() {
           not envy Judah, and Judah shall not vex Ephraim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the splitting of Israel into two nations, with
                 the ten Tribes forming the Northern Kingdom called Ephraim, and
                 the two Tribes of Judah and Benjamin making up the Southern
@@ -319,7 +319,7 @@ export default function Isaiah11() {
           the children of Ammon shall obey them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage refers to the long and continued fight over
                 possession of the Promised Land. This Verse proclaims the fact
                 that this land that was promised to Israel by the Lord will
@@ -384,7 +384,7 @@ export default function Isaiah11() {
           it was to Israel in the day that he came up out of the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From this Passage, it seems that the Euphrates River in that
                 day will be made by the Hand of the Lord into seven rivers. They
                 very well could turn the Arabian Peninsula, which is now a

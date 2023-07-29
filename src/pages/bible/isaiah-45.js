@@ -18,7 +18,7 @@ export default function Isaiah45() {
           gates; and the gates shall not be shut{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter gives us a direct address of God to a heathen
                 king, which is without parallel in Scripture.
               </span>
@@ -61,7 +61,7 @@ export default function Isaiah45() {
           and cut in sunder the bars of iron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on the night that Belshazzar was slain, these gates, by a
                 strange oversight, were left open; the Medes had diverted the
                 course of the river, and so the soldiers marched up its dried
@@ -82,7 +82,7 @@ export default function Isaiah45() {
           I, the LORD, which call you by your name, am the God of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertained to the treasures and riches of Babylon.)
               </span>
             </span>
@@ -96,7 +96,7 @@ export default function Isaiah45() {
           you, though you have not known Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The conquerors name was Agradetes, but God surnamed him Cyrus;
                 and, as predicted in these Verses, he has ever since been known
                 by this name.
@@ -126,7 +126,7 @@ export default function Isaiah45() {
           known Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit is calling to attention the fact that none but
                 the LORD could forecast such minute detail concerning something
                 that would happen approximately 200 years in the future)
@@ -143,7 +143,7 @@ export default function Isaiah45() {
           LORD, and there is none else.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, from the rising of the sun, and from the west, is
                 meant to call attention to all the world, from the extreme east
                 to the extreme west, to these wonderful occurrences, so that
@@ -164,7 +164,7 @@ export default function Isaiah45() {
           things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this debunks the stupidity of evolution. The phrase, I
                 create evil, is rendered according to the following: the Hebrew
                 word used here for evil is ra, and is never rendered sin, but
@@ -183,7 +183,7 @@ export default function Isaiah45() {
           I the LORD have created it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit, upon proclaiming Israels release from
                 captivity, when in fact they have not even yet gone into
                 captivity, leaps ahead to the coming Glad Day, when the LORD
@@ -204,7 +204,7 @@ export default function Isaiah45() {
           He has no hands?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The woe announced in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7810862">
                   <span className="calibre_19">
@@ -242,7 +242,7 @@ export default function Isaiah45() {
           forth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is to be understood in the light of the angry
                 utterance of a son and heir at the birth of a brother. It
                 illustrates the anger and jealousy of the people of Israel at
@@ -259,7 +259,7 @@ export default function Isaiah45() {
           and concerning the work of My hands command you Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage has been misunderstood by many, thinking it gave
                 the right to the pottery to command the potter. The merit of the
                 entirety of this Chapter [and more particularly{" "}
@@ -296,7 +296,7 @@ export default function Isaiah45() {
           their host have I commanded.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of all of this is: God is saying, I do the commanding,
                 and not you!)
               </span>
@@ -312,7 +312,7 @@ export default function Isaiah45() {
           LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun him refers to Cyrus, and to him being raised up by
                 the Lord for a special task and mission. The phrase, in
                 righteousness, means to carry out My righteous purposes.
@@ -336,7 +336,7 @@ export default function Isaiah45() {
           in you; and there is none else, there is no God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage refers to the fact that the Gentiles robbed the
                 sons of Israel and carried them away in fetters of iron and
                 brass; but they will, in the future day of Restoration, come up
@@ -366,7 +366,7 @@ export default function Isaiah45() {
           Yourself, O God of Israel, the Saviour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the coming Kingdom Age, the Gentile world will exclaim that
                 the Lord is now visible to all. As well, this Text means that
                 the Lord hides many of His Plans from men, even though He is
@@ -385,7 +385,7 @@ export default function Isaiah45() {
           makers of idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the coming Kingdom Age, when all religions
                 will be ashamed in the Face of Christ.)
               </span>
@@ -400,7 +400,7 @@ export default function Isaiah45() {
           confounded world without end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Everlasting Salvation means one which will continue age
                 after age. The general sense of the Passage is that those who
                 trust in the Lord shall be vindicated, and shall never be
@@ -421,7 +421,7 @@ export default function Isaiah45() {
           inhabited: I am the LORD; and there is none else.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The heaping together of the terms of this Verse shows how much
                 more the Scriptures tell us about the creation of the worlds
                 than the professors of modern science. The terms, created,
@@ -442,7 +442,7 @@ export default function Isaiah45() {
           right.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Things are not right merely because the Lord declares such, but
                 because in fact they are right.)
               </span>
@@ -458,7 +458,7 @@ export default function Isaiah45() {
           god who cannot save.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement, and pray unto a god who cannot save, is a
                 heartrending word! Sadly, it incorporates most of the world.)
               </span>
@@ -475,7 +475,7 @@ export default function Isaiah45() {
           beside Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse could be thusly stated: Tell you [O Israel] and
                 bring forth the Prophecy of Isaiah; let them [the idolaters]
                 confer together, and then ask them who declared this Prophecy
@@ -503,7 +503,7 @@ export default function Isaiah45() {
           the ends of the Earth: for I am God, and there is none else.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Truth, having in the previous Verse confounded the idolaters,
                 Grace, in this Verse, offers them without exception a sure and
                 eternal Salvation in the words, Look unto Me....)
@@ -519,7 +519,7 @@ export default function Isaiah45() {
           Me every knee shall bow, every tongue shall swear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God swears by Himself, because He can swear by no greater peer
                 [
                 <ScrollLink href="/hebrews-06" scrollToId="#filepos14476687">
@@ -577,7 +577,7 @@ export default function Isaiah45() {
           who are incensed against Him shall be ashamed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this is ascribed to Christ, so asserting His Deity, that
                 He is Jehovah, and that all men shall worship Him as God by
                 bowing the knee to Him.)
@@ -592,7 +592,7 @@ export default function Isaiah45() {
           Israel be justified, and shall glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Self-justification, as practiced by Israel, brought
                 self-righteousness, and resulted in pride and misery. Gods
                 Justification, which is by Faith, and which is in Christ and

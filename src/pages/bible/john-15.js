@@ -38,7 +38,7 @@ export default function John15() {
           <sup className="calibre7">2</sup>Every branch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believer)</span>
+              <span className="explanation">(Believer)</span>
             </span>
           </span>{" "}
           in Me{" "}
@@ -160,7 +160,7 @@ export default function John15() {
           . As the branch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believer)</span>
+              <span className="explanation">(Believer)</span>
             </span>
           </span>{" "}
           cannot bear fruit of itself{" "}
@@ -227,7 +227,7 @@ export default function John15() {
           the branches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>
           : he who abides in Me, and I in him, the same brings forth much fruit{" "}
@@ -433,7 +433,7 @@ export default function John15() {
           , you shall abide in My Love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this can be done</span>
+              <span className="explanation">(this can be done</span>
             </span>
           </span>
           <span className="underline">
@@ -535,7 +535,7 @@ export default function John15() {
           <sup className="calibre7">13</sup>Greater love has no man than this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the epitome of love)</span>
+              <span className="explanation">(the epitome of love)</span>
             </span>
           </span>
           , that a man lay down his life for his friends{" "}
@@ -618,7 +618,7 @@ export default function John15() {
           , and ordained you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(has chosen us for a purpose)</span>
+              <span className="explanation">(has chosen us for a purpose)</span>
             </span>
           </span>
           , that you should go and bring forth fruit{" "}
@@ -781,7 +781,7 @@ export default function John15() {
           . If they have persecuted Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and they definitely did)</span>
+              <span className="explanation">(and they definitely did)</span>
             </span>
           </span>
           , they will also persecute you{" "}
@@ -795,7 +795,7 @@ export default function John15() {
           ; if they have kept My saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they didnt)</span>
+              <span className="explanation">(they didnt)</span>
             </span>
           </span>
           , they will keep yours also{" "}
@@ -944,13 +944,13 @@ export default function John15() {
           <sup className="calibre7">26</sup>But when the Comforter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Helper)</span>
+              <span className="explanation">(Helper)</span>
             </span>
           </span>{" "}
           is come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>
           , Whom I will send unto you from the Father{" "}
@@ -1018,7 +1018,7 @@ export default function John15() {
           <sup className="calibre7">27</sup>And you also shall bear witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Apostles)</span>
+              <span className="explanation">(the Apostles)</span>
             </span>
           </span>
           , because you have been with Me from the beginning{" "}

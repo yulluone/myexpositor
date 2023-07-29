@@ -22,7 +22,7 @@ export default function Galatians4() {
           though he be lord of all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul continues the argument for the inferiority of the
                 condition under Law using an illustration from contemporary
                 life)
@@ -38,7 +38,7 @@ export default function Galatians4() {
           until the time appointed of the father.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fixed time when he would be of legal age
                 and, therefore, able to accept the inheritance.)
               </span>
@@ -52,7 +52,7 @@ export default function Galatians4() {
           were in bondage under the elements of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refer to passions and pride which enslave humanity)
               </span>
             </span>
@@ -66,7 +66,7 @@ export default function Galatians4() {
           come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which completed the time designated by God that should elapse
                 before the Son of God would come)
               </span>
@@ -75,7 +75,7 @@ export default function Galatians4() {
           , God sent forth His Son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was God who acted; the Law required man to act; this
                 requirement demonstrated mans impotency; the Son of God requires
                 nothing from man other than his confidence)
@@ -85,7 +85,7 @@ export default function Galatians4() {
           , made of a woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Incarnation, God becoming man)
               </span>
             </span>
@@ -93,7 +93,7 @@ export default function Galatians4() {
           , made under the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Mosaic Law; Jesus was subject to the Jewish legal
                 economy, which He had to be, that is if He was to redeem fallen
                 humanity; in other words, He had to keep the Law perfectly,
@@ -109,7 +109,7 @@ export default function Galatians4() {
           <sup className="calibre7">5</sup>To redeem them who were under the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, all of humanity is under the Law of God which man,
                 due to his fallen condition, could not keep; but Jesus came and
                 redeemed us by keeping the Law perfectly, and above all
@@ -120,7 +120,7 @@ export default function Galatians4() {
           , that we might receive the adoption of sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that we could become the sons of God by adoption, which is
                 carried out by Faith in Christ and what He did at the Cross)
               </span>
@@ -134,13 +134,13 @@ export default function Galatians4() {
           <sup className="calibre7">6</sup>And because you are sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we now have many privileges)</span>
+              <span className="explanation">(we now have many privileges)</span>
             </span>
           </span>
           , God has sent forth the Spirit of his Son into your hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because we are sons, the Holy Spirit has been sent to take up
                 His permanent residence in our hearts)
               </span>
@@ -149,7 +149,7 @@ export default function Galatians4() {
           , crying, Abba, Father.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means it is the Holy Spirit Who is doing the crying, and
                 does so to the Father on our behalf.)
               </span>
@@ -163,7 +163,7 @@ export default function Galatians4() {
           but a son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the standing one has in Christ because of ones Faith
                 in Christ)
               </span>
@@ -172,7 +172,7 @@ export default function Galatians4() {
           ; and if a son, then an heir of God through Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that all the privileges, which belong
                 to Christ, now belong to us as well.)
               </span>
@@ -188,7 +188,7 @@ export default function Galatians4() {
           <sup className="calibre7">8</sup>Howbeit then, when you knew not God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the former unredeemed state)
               </span>
             </span>
@@ -196,7 +196,7 @@ export default function Galatians4() {
           , you did service unto them which by nature are no gods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were slaves to heathenistic superstition.)
               </span>
             </span>
@@ -209,7 +209,7 @@ export default function Galatians4() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Saving Grace, Knowing God through the acceptance of
                 Jesus Christ, which is the only way He can be known)
               </span>
@@ -218,7 +218,7 @@ export default function Galatians4() {
           , or rather are known of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Lord knowing us in a saving way)
               </span>
             </span>
@@ -226,7 +226,7 @@ export default function Galatians4() {
           , how turn you again to the weak and beggarly elements{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when the substance is reached and sonship established, going
                 back to the rudiments, i.e., symbols and sacraments, is not
                 progress, but ignorance)
@@ -236,7 +236,7 @@ export default function Galatians4() {
           , whereunto you desire again to be in bondage?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Bondage to the sin nature! It refers to leaving the Cross, and
                 making other things the object of Faith.)
               </span>
@@ -250,7 +250,7 @@ export default function Galatians4() {
           times, and years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Judaizers were attempting to get the Galatians to go into
                 Law-keeping in conjunction with Christ, which cannot work.)
               </span>
@@ -263,7 +263,7 @@ export default function Galatians4() {
           <sup className="calibre7">11</sup>I am afraid of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (afraid for your spiritual welfare)
               </span>
             </span>
@@ -271,7 +271,7 @@ export default function Galatians4() {
           , lest I have bestowed upon you labour in vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If one leaves Faith in Christ and the Cross and embraces other
                 things, which means to look to those other things for life and
                 victory, the Holy Spirit will have bestowed upon such a person
@@ -289,7 +289,7 @@ export default function Galatians4() {
               <span className="calibre_19">am</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (free from all the bondage of Salvation by works and sacraments,
                 which is no Salvation at all);
               </span>
@@ -307,7 +307,7 @@ export default function Galatians4() {
               <span className="calibre_19">are</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that even though he is an Apostle, he is subject to the
                 same Biblical Doctrines as they are)
               </span>
@@ -316,7 +316,7 @@ export default function Galatians4() {
           : you have not injured me at all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My motive is not one of personal complaint, but because of the
                 great harm that could come to you.)
               </span>
@@ -330,13 +330,13 @@ export default function Galatians4() {
           the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(doesnt say what it is)</span>
+              <span className="explanation">(doesnt say what it is)</span>
             </span>
           </span>{" "}
           I preached the Gospel unto you at the first{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, when these Churches were first founded)
               </span>
             </span>
@@ -350,7 +350,7 @@ export default function Galatians4() {
           flesh you despised not, nor rejected{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, my trial; but once again, we do
                 not know what it was, so speculation is useless)
               </span>
@@ -365,7 +365,7 @@ export default function Galatians4() {
           as Christ Jesus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They accepted him and what he preached.)
               </span>
             </span>
@@ -378,7 +378,7 @@ export default function Galatians4() {
           spoke of?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the wonderful prosperity of Salvation, which had
                 come to them as a result of Paul bringing the Gospel to this
                 region.)
@@ -395,7 +395,7 @@ export default function Galatians4() {
           them to me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This doesnt necessarily mean Paul had an eye disease, as some
                 claim. This was an idiom used often to express extreme
                 affliction.)
@@ -410,7 +410,7 @@ export default function Galatians4() {
           because I tell you the truth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A real friend is one who will tell his friend the truth, even
                 though it hurts.)
               </span>
@@ -423,7 +423,7 @@ export default function Galatians4() {
           <sup className="calibre7">17</sup>They zealously affect you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Judaizers attempting to subvert the Galatians in
                 order to win them over to themselves)
               </span>
@@ -438,13 +438,13 @@ export default function Galatians4() {
           not well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not for your good)</span>
+              <span className="explanation">(not for your good)</span>
             </span>
           </span>
           ; yes, they would exclude you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they would shut the Galatians out from the benefits of the
                 Gospel of Grace)
               </span>
@@ -453,7 +453,7 @@ export default function Galatians4() {
           , that you might affect them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means to be drawn to their side)
               </span>
             </span>
@@ -481,7 +481,7 @@ export default function Galatians4() {
               <span className="calibre_19">thing</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul wanted the Galatians to be as zealous over Christ and the
                 Cross as it seems they were tending to be over false doctrine),
               </span>
@@ -490,7 +490,7 @@ export default function Galatians4() {
           and not only when I am present with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their zeal for the right thing should be present at all times.)
               </span>
             </span>
@@ -502,7 +502,7 @@ export default function Galatians4() {
           <sup className="calibre7">19</sup>My little children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the language of deep affection and emotion)
               </span>
             </span>
@@ -510,7 +510,7 @@ export default function Galatians4() {
           , of whom I travail in birth again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (deliver to you again the rudiments of the great Message of
                 Christ and Him Crucified, as though you had never heard it to
                 begin with)
@@ -520,7 +520,7 @@ export default function Galatians4() {
           until Christ be formed in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the work only the Holy Spirit can do, and does
                 exclusively within the parameters of the Sacrifice of Christ,
                 which must always be the Object of our Faith)
@@ -535,7 +535,7 @@ export default function Galatians4() {
           <sup className="calibre7">20</sup>I desire to be present with you now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as a loving parent wants to be at the side of a sick child)
               </span>
             </span>
@@ -543,7 +543,7 @@ export default function Galatians4() {
           , and to change my voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that his true love for them would more
                 profitably come through were he only standing before them in
                 person)
@@ -553,7 +553,7 @@ export default function Galatians4() {
           ; for I stand in doubt of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle was perplexed as to how the Galatians could have
                 forsaken the Holy Spirit, substituting in His Place the cold
                 issues of dead Law. Any Christian who presently has as his
@@ -573,7 +573,7 @@ export default function Galatians4() {
           the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Law of Moses or any type of Law)
               </span>
             </span>
@@ -581,7 +581,7 @@ export default function Galatians4() {
           , do you not hear the Law?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Do you actually know what the Law demands?)
               </span>
             </span>
@@ -593,7 +593,7 @@ export default function Galatians4() {
           <sup className="calibre7">22</sup>For it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-16" scrollToId="#filepos210866">
                   <span className="calibre_19">
@@ -617,19 +617,19 @@ export default function Galatians4() {
           , that Abraham had two sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ishmael and Isaac)</span>
+              <span className="explanation">(Ishmael and Isaac)</span>
             </span>
           </span>
           , the one by a bondmaid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hagar)</span>
+              <span className="explanation">(Hagar)</span>
             </span>
           </span>
           , the other by a freewoman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sarah)</span>
+              <span className="explanation">(Sarah)</span>
             </span>
           </span>
           .
@@ -646,7 +646,7 @@ export default function Galatians4() {
           of the bondwoman was born after the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the scheming of Abraham and Sarah)
               </span>
             </span>
@@ -660,7 +660,7 @@ export default function Galatians4() {
           by Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by an action of the Holy Spirit)
               </span>
             </span>
@@ -673,7 +673,7 @@ export default function Galatians4() {
           <sup className="calibre7">24</sup>Which things are an allegory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a figure of speech in which spiritual facts are presented in
                 physical terms)
               </span>
@@ -682,7 +682,7 @@ export default function Galatians4() {
           : for these are the two Covenants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents Law [Hagar] and Grace [Sarah])
               </span>
             </span>
@@ -691,7 +691,7 @@ export default function Galatians4() {
           Hagar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the Apostle plainly saying he is using Hagar as a
                 symbol of the Law of Moses. As is obvious, it was given at Mt.
                 Sinai.)
@@ -706,7 +706,7 @@ export default function Galatians4() {
           Arabia, and answers to Jerusalem which now is{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to that city at the time of Paul; it was subject to
                 Laws, rites, and customs, according to the Law of Moses)
               </span>
@@ -715,7 +715,7 @@ export default function Galatians4() {
           , and is in bondage with her children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was in bondage to sin because of having rejected
                 Christ.)
               </span>
@@ -728,7 +728,7 @@ export default function Galatians4() {
           <sup className="calibre7">26</sup>But Jerusalem which is above is free{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the origin of Salvation, which is Heaven, and
                 proclaims its results, which are freedom)
               </span>
@@ -737,7 +737,7 @@ export default function Galatians4() {
           , which is the mother of us all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to all who are true Christians, whether Jews or
                 Gentiles.)
               </span>
@@ -750,7 +750,7 @@ export default function Galatians4() {
           <sup className="calibre7">27</sup>For it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-54" scrollToId="#filepos7930565">
                   <span className="calibre_19">
@@ -772,7 +772,7 @@ export default function Galatians4() {
           barren who bears not; break forth and cry, you who travail not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Church, grafted in because of Grace, in the place
                 of Israel, which demanded Law and which God would not accept)
               </span>
@@ -782,7 +782,7 @@ export default function Galatians4() {
           husband.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to Sarah who was barren which, in one sense of
                 the word and the culture of that day, was the same as not having
                 a husband, even though she was married to Abraham. It also
@@ -799,13 +799,13 @@ export default function Galatians4() {
           <sup className="calibre7">28</sup>Now we{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>
           , Brethren, as Isaac was, are the Children of Promise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Promise is a picture of the Messiah, Who came through the
                 lineage of Isaac to grant deliverance to people bound in sin.)
               </span>
@@ -819,7 +819,7 @@ export default function Galatians4() {
           the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ishmael)</span>
+              <span className="explanation">(Ishmael)</span>
             </span>
           </span>{" "}
           persecuted him{" "}
@@ -831,7 +831,7 @@ export default function Galatians4() {
           after the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Isaac)</span>
+              <span className="explanation">(Isaac)</span>
             </span>
           </span>
           , even so{" "}
@@ -843,7 +843,7 @@ export default function Galatians4() {
           now.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac and Ishmael symbolized the new and the old nature in the
                 Believer. Hagar and Sarah typified the two Covenants of works
                 and Grace, of bondage and Liberty, even as Paul is explaining
@@ -859,7 +859,7 @@ export default function Galatians4() {
           Scripture?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-21" scrollToId="#filepos273957">
                   <span className="calibre_19">
@@ -875,7 +875,7 @@ export default function Galatians4() {
           Cast out the bondwoman and her son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the birth of the new nature demands the expulsion of the old;
                 it is impossible to improve the old nature; it must be cast out,
                 i.e., placed in a dormant position; this can only be done by the
@@ -889,7 +889,7 @@ export default function Galatians4() {
           freewoman.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is giving a dramatic illustration of the irreconcilable
                 conflict between Salvation by works and Salvation by Faith.)
               </span>
@@ -903,13 +903,13 @@ export default function Galatians4() {
           children of the bondwoman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hagar, Ishmael, and the Law)</span>
+              <span className="explanation">(Hagar, Ishmael, and the Law)</span>
             </span>
           </span>
           , but of the free.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are not children of the Law, but rather free children of
                 Faith.)
               </span>

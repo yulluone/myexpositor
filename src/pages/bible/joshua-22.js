@@ -38,7 +38,7 @@ export default function Joshua22() {
           which Moses the Servant of the LORD gave you on the other side Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on the eastern side)</span>
+              <span className="explanation">(on the eastern side)</span>
             </span>
           </span>
         </span>

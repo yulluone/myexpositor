@@ -17,7 +17,7 @@ export default function Isaiah37() {
           sackcloth, and went into the House of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is actually a continuation of the previous;
                 therefore, the two constitute but one narrative. Whatever
                 difficulties of faithlessness that had previously plagued
@@ -37,7 +37,7 @@ export default function Isaiah37() {
           covered with sackcloth, unto Isaiah the Prophet the son of Amoz.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They should have done this at the beginning!)
               </span>
             </span>
@@ -52,7 +52,7 @@ export default function Isaiah37() {
           strength to bring forth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passage, the children are come to the birth... etc., was a
                 proverbial phrase for a time of extreme difficulty. Judah was in
                 sore trouble and was expecting deliverance; however, it seemed
@@ -72,7 +72,7 @@ export default function Isaiah37() {
           is left.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Notice the manner in this Verse in which Hezekiah couches his
                 terminology. He doesnt plead with the Lord regarding the merit
                 of Judah, but rather the blasphemy of Rabshakeh. He knows that
@@ -113,7 +113,7 @@ export default function Isaiah37() {
           Assyria have blasphemed Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blasphemy of Rabshakeh was against the Lord, and would be
                 answered in kind.)
               </span>
@@ -128,7 +128,7 @@ export default function Isaiah37() {
           cause him to fall by the sword in his own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, I will send a blast upon him, rather mean I will put
                 a spirit within him, i.e., I will remove from him the spirit of
                 pride and arrogancy and instead will infuse into his heart a
@@ -166,7 +166,7 @@ export default function Isaiah37() {
           departed from Lachish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After Rabshakeh concluded his mission, not realizing the wheels
                 he had set in motion, he returned to Sennacherib, for he found
                 him attempting to destroy Libnah. It seems that this was the
@@ -183,7 +183,7 @@ export default function Isaiah37() {
           heard it, he sent messengers to Hezekiah, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tirhakah king of Ethiopia is among the most famous of the
                 Monarchs belonging to this period; it seems this king had
                 defeated Egypt and now ruled both Ethiopia and Egypt; the
@@ -205,7 +205,7 @@ export default function Isaiah37() {
           Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sennacherib recognized Jehovah as a God, the God of the Jews,
                 but put Him on the same par with the other gods of the nations,
                 for whom he had no respect.)
@@ -221,7 +221,7 @@ export default function Isaiah37() {
           and shall you be delivered?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, Sennacherib at this time was the most powerful monarch
                 on the face of the Earth; therefore, these boasts were not
                 hollow threats!)
@@ -237,7 +237,7 @@ export default function Isaiah37() {
           and Rezeph, and the children of Eden which were in Telassar?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He enumerates here areas which had been taken by the
                 Assyrians.)
               </span>
@@ -252,7 +252,7 @@ export default function Isaiah37() {
           Ivah?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sennacherib, like Satan, delights in boasting of his
                 victories.)
               </span>
@@ -270,7 +270,7 @@ export default function Isaiah37() {
           unto the House of the LORD, and spread it before the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This last message was sent to Hezekiah in a letter. In{" "}
                 <ScrollLink href="/chronicles2-32" scrollToId="#filepos4979982">
                   <span className="calibre_19">
@@ -296,7 +296,7 @@ export default function Isaiah37() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the answer!)</span>
+              <span className="explanation">(this is the answer!)</span>
             </span>
           </span>
           ,
@@ -309,7 +309,7 @@ export default function Isaiah37() {
           the kingdoms of the Earth: You have made Heaven and Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiahs prayer is very interesting and well worth our
                 attention. It would be the same that we would pray today, with
                 one exception. Now, we are admonished to pray to the Lord in the
@@ -334,7 +334,7 @@ export default function Isaiah37() {
           Sennacherib, which has sent to reproach the Living God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a conscious pleading of the Promise made to Solomon [
                 <ScrollLink href="/chronicles2-07" scrollToId="#filepos4734081">
                   <span className="calibre_19">
@@ -400,7 +400,7 @@ export default function Isaiah37() {
           Assyria have laid waste all the nations, and their countries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, this was fact which was impossible to deny)
               </span>
             </span>
@@ -415,7 +415,7 @@ export default function Isaiah37() {
           stone: therefore they have destroyed them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If one will notice, Hezekiah did not deny the existence or even
                 the power of the Assyrians. Let it be known, like here, that the
                 confession of existing problems does not show a lack of faith
@@ -433,7 +433,7 @@ export default function Isaiah37() {
           are the LORD, even You only.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every petition that is made to the Lord, like Hezekiahs, should
                 not be for deliverance or triumph over enemies for our own
                 sakes, or the sake of others, but rather for the Glory of God.)
@@ -452,7 +452,7 @@ export default function Isaiah37() {
           have prayed to Me against Sennacherib king of Assyria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (either Isaiah knew that Hezekiah was seeking the Lord
                 concerning the Assyrian threat, or else the Lord revealed it to
                 him; the Promise had already been given by the Lord through
@@ -509,7 +509,7 @@ export default function Isaiah37() {
           her head at you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The expression, virgin daughter, represents Jerusalem as a
                 tender maiden, weak and delicate, yet still bold enough to stand
                 up against Sennacherib and all his hosts and bid him defiance.
@@ -528,7 +528,7 @@ export default function Isaiah37() {
           your eyes on high? even against the Holy One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that Sennacherib is fighting against
                 God. It is a battle that he cannot hope to win!)
               </span>
@@ -546,7 +546,7 @@ export default function Isaiah37() {
           Carmel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, the Holy Spirit is not claiming that
                 Sennacherib has actually uttered these words with his mouth, but
                 that he has thought them within his heart.)
@@ -562,7 +562,7 @@ export default function Isaiah37() {
           besieged places.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord continues to proclaim the boasts of Sennacherib.)
               </span>
             </span>
@@ -577,7 +577,7 @@ export default function Isaiah37() {
           into ruinous heaps.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, Isaiah, after speaking as the person of
                 Sennacherib, breaks off without warning and returns to speaking
                 as the person of Jehovah. In this Passage, Sennacherib is
@@ -602,7 +602,7 @@ export default function Isaiah37() {
           and as corn blasted before it be grown up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God, having decreed the success of the Assyrians, affected them
                 [in part] by infusing weakness into the nations that were their
                 adversaries. Sennacherib thought it was his military prowess
@@ -618,7 +618,7 @@ export default function Isaiah37() {
           going out, and your coming in, and your rage against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sennacherib, even though an unwitting instrument in the Hands
                 of God, still, could have known all he needed to know about God,
                 if he had only taken the time and the trouble to learn.{" "}
@@ -645,7 +645,7 @@ export default function Isaiah37() {
           way by which you came.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sennacherib proposed the shocking cruelty of this Verse for
                 Hezekiah and his people, but, figuratively, he was made to
                 suffer it himself.)
@@ -662,7 +662,7 @@ export default function Isaiah37() {
           reap, and plant vineyards, and eat the fruit thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Agriculture had been impossible for the two prior years,
                 because of the invasion of the Assyrians. But now God encourages
                 the remnant of His People to go out of the city into the country
@@ -681,7 +681,7 @@ export default function Isaiah37() {
           upward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessing of God is now upon Judah; in a short time, she
                 recovered her ancient vigor so that under Josiah she was able to
                 extend her dominion over almost the whole of the old Israelite
@@ -715,7 +715,7 @@ export default function Isaiah37() {
           of Hosts shall do this.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The remnant speaks of those who escaped the incursion of the
                 last two years. In fact, many had died or had been taken
                 captive.
@@ -745,7 +745,7 @@ export default function Isaiah37() {
           against it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sennacherib had planned all along to lay siege against
                 Jerusalem. The Holy Spirit through Isaiah says that no siege
                 will be laid against the city.)
@@ -760,7 +760,7 @@ export default function Isaiah37() {
           shall he return, and shall not come into this city, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Promise assured Hezekiah that he would not be confronted
                 with this enemy.)
               </span>
@@ -774,7 +774,7 @@ export default function Isaiah37() {
           it for My Own sake, and for My servant Davids sake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah is told here by no less than the Holy Spirit that he
                 could not boast that the beauty or fervor of his prayer
                 purchased the victory, for God told him that He would deliver
@@ -807,19 +807,19 @@ export default function Isaiah37() {
           five thousand: and when they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those in Judah)</span>
+              <span className="explanation">(those in Judah)</span>
             </span>
           </span>{" "}
           arose early in the morning, behold, they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Assyrians)</span>
+              <span className="explanation">(the Assyrians)</span>
             </span>
           </span>{" "}
           were all dead corpses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The scene of the account was probably about 25 miles from
                 Jerusalem. Word would have come quickly to Jerusalem concerning
                 the dead bodies that were lying everywhere.
@@ -848,7 +848,7 @@ export default function Isaiah37() {
           departed, and went and returned, and dwelt at Nineveh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, the Holy Spirit, and with short shift,
                 dispenses with Sennacherib. The word departed has the same
                 meaning as a dog leaving with its tail between its legs. He went
@@ -893,7 +893,7 @@ export default function Isaiah37() {
           land of Armenia: and Esar-haddon his son reigned in his stead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ancient history records that Sennacherib bequeathed his throne
                 to his youngest son, Esar-haddon. In order to gain the favor of
                 his god, he promised to sacrifice the two elder sons to that

@@ -77,14 +77,14 @@ export default function Ruth04() {
           it, then tell me, that I may know: for there is none{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before you)</span>
+              <span className="explanation">(before you)</span>
             </span>
           </span>{" "}
           to redeem it beside you; and I am after you. And he said, I will
           redeem it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but found he couldnt!)</span>
+              <span className="explanation">(but found he couldnt!)</span>
             </span>
           </span>
         </span>
@@ -298,13 +298,13 @@ export default function Ruth04() {
           <sup className="calibre7">15</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the child)</span>
+              <span className="explanation">(the child)</span>
             </span>
           </span>{" "}
           shall be unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naomi)</span>
+              <span className="explanation">(Naomi)</span>
             </span>
           </span>{" "}
           a restorer of your life, and a nourisher of your old age: for your
@@ -312,7 +312,7 @@ export default function Ruth04() {
           sons, has born him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(given birth to him)</span>
+              <span className="explanation">(given birth to him)</span>
             </span>
           </span>
         </span>
@@ -369,7 +369,7 @@ export default function Ruth04() {
           Pharez: Pharez begat Hezron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Esrom)</span>
+              <span className="explanation">(Esrom)</span>
             </span>
           </span>
           ,
@@ -380,7 +380,7 @@ export default function Ruth04() {
           <sup className="calibre7">19</sup>And Hezron begat Ram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Aram)</span>
+              <span className="explanation">(Aram)</span>
             </span>
           </span>
           , and Ram begat Amminadab,
@@ -391,7 +391,7 @@ export default function Ruth04() {
           <sup className="calibre7">20</sup>And Amminadab begat Nahshon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naason)</span>
+              <span className="explanation">(Naason)</span>
             </span>
           </span>
           , and Nahshon begat Salmon,
@@ -402,7 +402,7 @@ export default function Ruth04() {
           <sup className="calibre7">21</sup>And Salmon begat Boaz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Booz)</span>
+              <span className="explanation">(Booz)</span>
             </span>
           </span>
           , and Boaz begat Obed,

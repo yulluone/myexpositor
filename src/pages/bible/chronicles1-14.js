@@ -24,7 +24,7 @@ export default function Chronicles114() {
           because of His People Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first two Verses picture the coming day when Christ, the
                 Shepherd of His people, shall be confirmed by God the Father as
                 King over Israel, and when the Gentile princes, represented here
@@ -57,7 +57,7 @@ export default function Chronicles114() {
           Jerusalem: and David begat more sons and daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though this was tolerated by the Lord, still, such was not
                 His Will)
               </span>
@@ -73,7 +73,7 @@ export default function Chronicles114() {
           Solomon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mary, the mother of Christ, went back to David through Nathan,
                 while Joseph went back to David through Solomon)
               </span>
@@ -108,7 +108,7 @@ export default function Chronicles114() {
           to seek David. And David heard of it, and went out against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word seek means to kill him; the moment there is an
                 Anointing of the Spirit, Satan will come against it)
               </span>
@@ -123,7 +123,7 @@ export default function Chronicles114() {
           themselves in the valley of Rephaim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the valley of the giants; it must be clearly
                 understood that the flesh cannot overcome these giants; they can
                 be overcome only by the Spirit of God; the Philistines dwelt in
@@ -170,7 +170,7 @@ export default function Chronicles114() {
           into your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that David now had learned his lesson well, concerning
                 a lack of inquiry regarding the bringing up of the Ark; now, he
                 would take nothing for granted; consequently, he would
@@ -189,7 +189,7 @@ export default function Chronicles114() {
           called the name of that place Baal-perazim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prefix on this place was called Baal, which speaks of
                 heathen gods. So, in effect, David is saying, The Lord has
                 broken through and defeated these idol gods. How many idol gods
@@ -219,7 +219,7 @@ export default function Chronicles114() {
           there, David gave a commandment, and they were burned with fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fire of the Spirit is to burn the dross out of our lives [
                 <ScrollLink href="/matthew-03" scrollToId="#filepos10854547">
                   <span className="calibre_19">
@@ -241,7 +241,7 @@ export default function Chronicles114() {
           themselves abroad in the valley{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our mistake is large, if we think Satan will not return; he
                 probes for an opportunity; just because there has been great
                 victory does not mean that he will not come yet again; however,
@@ -261,7 +261,7 @@ export default function Chronicles114() {
           and come upon them over against the mulberry trees.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Had David thought it unnecessary to pray previous to the second
                 battle, he would, no doubt, have been defeated. He learned that
                 God cannot give victories to the flesh. Flesh must be humbled!
@@ -296,7 +296,7 @@ export default function Chronicles114() {
           host of the Philistines{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sound which David heard was the coming of the Holy Spirit;
                 He came to stay on the Day of Pentecost [
                 <ScrollLink href="/acts-02" scrollToId="#filepos12767963">
@@ -320,7 +320,7 @@ export default function Chronicles114() {
           Gazer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we have the mind of the Lord, we will always have the
                 victory which such affords)
               </span>
@@ -335,7 +335,7 @@ export default function Chronicles114() {
           all lands; and the LORD brought the fear of him upon all nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and so shall it be, when the Greater Son of David rules over
                 the entirety of the planet, which will take place after the
                 Second Coming)

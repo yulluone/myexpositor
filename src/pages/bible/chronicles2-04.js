@@ -18,19 +18,19 @@ export default function Chronicles204() {
           twenty cubits the length thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet long)</span>
+              <span className="explanation">(30 feet long)</span>
             </span>
           </span>
           , and twenty cubits the breadth thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet wide)</span>
+              <span className="explanation">(30 feet wide)</span>
             </span>
           </span>
           , and ten cubits the height thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (15 feet high; this means that the Brazen Altar was the same
                 dimensions as the Most Holy Place; the Altar portrayed Gods
                 Judgment on sin; the Holy of Holies portrayed His Mercy and
@@ -48,20 +48,20 @@ export default function Chronicles204() {
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>{" "}
           from brim to brim, round in compass, and five cubits the height
           thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           ; and a line of thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet)</span>
+              <span className="explanation">(45 feet)</span>
             </span>
           </span>{" "}
           did compass it round about.
@@ -79,7 +79,7 @@ export default function Chronicles204() {
           <sup className="calibre7">4</sup>It stood upon twelve oxen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number twelve signifies Gods Government, while oxen
                 symbolize the Word of God; so, Gods Government is built entirely
                 upon His Word, from which we must not deviate at all)
@@ -90,7 +90,7 @@ export default function Chronicles204() {
           and three looking toward the south, and three looking toward the east{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that Gods Government is the same throughout the
                 entirety of the Earth; in other words, there is no such thing as
                 a white mans gospel, or a black mans gospel, etc.; it is one
@@ -102,7 +102,7 @@ export default function Chronicles204() {
           inward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that the strength of the oxen holds up the Great
                 Laver, symbolizing the power of the Word of God)
               </span>
@@ -117,20 +117,20 @@ export default function Chronicles204() {
           handbreadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 4 inches)</span>
+              <span className="explanation">(about 4 inches)</span>
             </span>
           </span>
           , and the brim of it like the work of the brim of a cup, with flowers
           of lilies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(purity of Christ)</span>
+              <span className="explanation">(purity of Christ)</span>
             </span>
           </span>
           ; and it received and held three thousand baths{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about 18,000 gallons;{" "}
                 <ScrollLink href="/kings1-07" scrollToId="#filepos3780093">
                   <span className="calibre_19">
@@ -159,7 +159,7 @@ export default function Chronicles204() {
           as they offered for the Burnt Offering they washed in them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were used to wash the sacrifices before they were
                 offered)
               </span>
@@ -168,13 +168,13 @@ export default function Chronicles204() {
           ; but the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Laver)</span>
+              <span className="explanation">(Brazen Laver)</span>
             </span>
           </span>{" "}
           was for the Priests to wash in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which they had to do, washing both hands and feet, every time
                 they went into the Temple; the Brazen Laver, as well, was a Type
                 of the Word of God; as the Priests looked into the water, they
@@ -196,13 +196,13 @@ export default function Chronicles204() {
           <sup className="calibre7">7</sup>And he made ten candlesticks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstands)</span>
+              <span className="explanation">(Lampstands)</span>
             </span>
           </span>{" "}
           of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the fact that Christ is the Light of the world)
               </span>
             </span>
@@ -216,14 +216,14 @@ export default function Chronicles204() {
           <sup className="calibre7">8</sup>He made also ten tables{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tables of Shewbread)</span>
+              <span className="explanation">(tables of Shewbread)</span>
             </span>
           </span>
           , and placed them in the Temple, five on the right side, and five on
           the left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was only one Lampstand and one Table in the Tabernacle,
                 but here there are ten of each)
               </span>
@@ -232,7 +232,7 @@ export default function Chronicles204() {
           . And he made an hundred basons of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tables each held twelve loaves of bread, which had to be
                 eaten by the Priests every Sabbath, with new loaves taking their
                 place; the bread was a Type of Christ as the Bread of Life [
@@ -260,7 +260,7 @@ export default function Chronicles204() {
           the Doors of them with brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Doors also typified Christ; He said, I am the Door [
                 <ScrollLink href="/john-10" scrollToId="#filepos12512208">
                   <span className="calibre_19">
@@ -282,7 +282,7 @@ export default function Chronicles204() {
           of the east end, over against the south{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Brazen Laver, i.e., the Sea, had its position as the
                 Tabernacle Laver of old, which was between the Altar and the
                 porch)
@@ -302,7 +302,7 @@ export default function Chronicles204() {
           make for king Solomon for the House of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, Huram is a Type of the Holy Spirit, Who will finish
                 the work regarding the Church, thereby presenting us faultless
                 before the Throne of God [Jude,{" "}
@@ -326,14 +326,14 @@ export default function Chronicles204() {
           pommels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shaped like a ball)</span>
+              <span className="explanation">(shaped like a ball)</span>
             </span>
           </span>
           , and the chapiters which were on the top of the two pillars, and the
           two wreaths{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(chains)</span>
+              <span className="explanation">(chains)</span>
             </span>
           </span>{" "}
           to cover the two pommels of the chapiters which were on the top of the
@@ -345,7 +345,7 @@ export default function Chronicles204() {
           <sup className="calibre7">13</sup>And four hundred pomegranates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of the Fruit of the Spirit)
               </span>
             </span>
@@ -353,7 +353,7 @@ export default function Chronicles204() {
           on the two wreaths{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (chains, which typified our union with Christ)
               </span>
             </span>
@@ -368,7 +368,7 @@ export default function Chronicles204() {
           he upon the bases{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the ten Lavers [
                 <ScrollLink href="/" scrollToId="#filepos4692201">
                   <span className="calibre_19">
@@ -402,7 +402,7 @@ export default function Chronicles204() {
           cast them, in the clay ground between Succoth and Zeredathah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This represents death and Resurrection. In a sense, there must
                 be a death to the old self, with the new self raised in the
                 identification of Christ. This means that all former identity
@@ -475,7 +475,7 @@ export default function Chronicles204() {
           that were for the House of God, the golden Altar also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Altar of Incense, which stood immediately in front
                 of the Holy of Holies)
               </span>
@@ -489,20 +489,20 @@ export default function Chronicles204() {
           <sup className="calibre7">20</sup>Moreover the candlesticks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstands)</span>
+              <span className="explanation">(Lampstands)</span>
             </span>
           </span>{" "}
           with their lamps, that they should burn after the manner before the
           Oracle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy of Holies)</span>
+              <span className="explanation">(Holy of Holies)</span>
             </span>
           </span>
           , of pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the pure gold typified the Deity of Christ)
               </span>
             </span>
@@ -516,7 +516,7 @@ export default function Chronicles204() {
           the tongs, made he of gold, and that perfect gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that it contained no alloy whatsoever)
               </span>
             </span>
@@ -532,7 +532,7 @@ export default function Chronicles204() {
           of the House of the Temple, were of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no way into this House of God except through the Lord
                 Jesus Christ, Who is the Door [
                 <ScrollLink href="/john-10" scrollToId="#filepos12512208">

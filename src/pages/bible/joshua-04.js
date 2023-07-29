@@ -287,7 +287,7 @@ export default function Joshua04() {
           <sup className="calibre7">21</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           spoke unto the Children of Israel, saying, When your children shall

@@ -123,7 +123,7 @@ export default function Judges19() {
           his father in law urged him: therefore he lodged there again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stayed the extra night)</span>
+              <span className="explanation">(stayed the extra night)</span>
             </span>
           </span>
         </span>
@@ -135,7 +135,7 @@ export default function Judges19() {
           the fifth day to depart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had stayed there five days)</span>
+              <span className="explanation">(had stayed there five days)</span>
             </span>
           </span>
           : and the damsels father said, Comfort your heart, I pray you. And
@@ -184,7 +184,7 @@ export default function Judges19() {
           will not turn aside hither into the city of a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , that is not of the Children of Israel; we will pass over to Gibeah{" "}
@@ -212,7 +212,7 @@ export default function Judges19() {
           belongs to Benjamin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Tribe of Benjamin)</span>
+              <span className="explanation">(the Tribe of Benjamin)</span>
             </span>
           </span>
         </span>
@@ -316,7 +316,7 @@ export default function Judges19() {
           merry, behold, the men of the city, certain sons of Belial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthless individuals)</span>
+              <span className="explanation">(worthless individuals)</span>
             </span>
           </span>
           , beset the house round about, and beat at the door, and spoke to the

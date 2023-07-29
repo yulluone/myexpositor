@@ -21,7 +21,7 @@ export default function Corinthians105() {
           fornication among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (fornication speaks of all types of immorality; it seemed to
                 have been more widespread than just a case or two)
               </span>
@@ -30,7 +30,7 @@ export default function Corinthians105() {
           , and such fornication as is not so much as named among the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning this type was not common among the Gentiles)
               </span>
             </span>
@@ -38,7 +38,7 @@ export default function Corinthians105() {
           , that one should have his fathers wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the mans step-mother; it also seems the Father was
                 alive [
                 <ScrollLink
@@ -63,7 +63,7 @@ export default function Corinthians105() {
           <sup className="calibre7">2</sup>And you are puffed up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that some were attempting to say such was allowed
                 under the guise of Christian liberty)
               </span>
@@ -72,7 +72,7 @@ export default function Corinthians105() {
           , and have not rather mourned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which should have been the norm, but seemingly
                 was not)
               </span>
@@ -81,7 +81,7 @@ export default function Corinthians105() {
           , that he who has done this deed might be taken away from among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is the individual repent, thereby ceasing such
                 activity or be disfellowshiped)
               </span>
@@ -99,7 +99,7 @@ export default function Corinthians105() {
           present in spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that even though he is not present personally in Corinth,
                 the direction he will now give is still to be taken just as
                 seriously as if he were there personally)
@@ -115,7 +115,7 @@ export default function Corinthians105() {
           him who has so done this deed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Does not, as some think, contradict Jesus instructions to not
                 judge [
                 <ScrollLink href="/matthew-07" scrollToId="#filepos10920341">
@@ -145,7 +145,7 @@ export default function Corinthians105() {
           <sup className="calibre7">4</sup>In the Name of our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Christ as the Head of the Church)
               </span>
             </span>
@@ -153,7 +153,7 @@ export default function Corinthians105() {
           , when you are gathered together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the authority of the local Church)
               </span>
             </span>
@@ -161,7 +161,7 @@ export default function Corinthians105() {
           , and my spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Paul being there in spirit, even though he could not
                 be there in the flesh)
               </span>
@@ -170,7 +170,7 @@ export default function Corinthians105() {
           , with the power of our Lord Jesus Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The authority is in the Name, and the Power is in the Person of
                 Christ. This recognizes Him totally as the Head of the Church.)
               </span>
@@ -183,7 +183,7 @@ export default function Corinthians105() {
           <sup className="calibre7">5</sup>To deliver such an one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the one committing the sin of incest)
               </span>
             </span>
@@ -191,7 +191,7 @@ export default function Corinthians105() {
           unto Satan for the destruction of the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it refers to ceasing all prayer for such an individual, and can
                 be done by the local Body, providing the Church is correct in
                 its position; God will no more honor wrong committed by the
@@ -202,7 +202,7 @@ export default function Corinthians105() {
           , that the spirit may be saved in the day of the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is hoped that such action will cause the person to repent)
               </span>
             </span>
@@ -224,7 +224,7 @@ export default function Corinthians105() {
           not good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these people had taken liberty into license)
               </span>
             </span>
@@ -232,7 +232,7 @@ export default function Corinthians105() {
           . Do you not know that a little leaven leaveneth the whole lump?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Leaven is figurative of such that is minuscule in quantity, but
                 extremely pervasive in its penetrating force.)
               </span>
@@ -245,7 +245,7 @@ export default function Corinthians105() {
           <sup className="calibre7">7</sup>Purge out therefore the old leaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spoken in Old Covenant terminology, but with the same meaning
                 carried over in the hearts and lives of New Testament Believers)
               </span>
@@ -254,7 +254,7 @@ export default function Corinthians105() {
           , that you may be a new lump{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (start acting like what you are, a new creation)
               </span>
             </span>
@@ -262,7 +262,7 @@ export default function Corinthians105() {
           , as you are unleavened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the position that one has in Christ; that is our
                 standing; it is the business of the Spirit to bring our state up
                 to our standing)
@@ -272,7 +272,7 @@ export default function Corinthians105() {
           . For even Christ our Passover is Sacrificed for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Believer can have victory over all sin by placing his Faith
                 exclusively in the Cross of Christ, which Sacrifice addressed
                 all sin)
@@ -287,7 +287,7 @@ export default function Corinthians105() {
           <sup className="calibre7">8</sup>Therefore let us keep the feast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to serve as a symbol of the Jewish Passover, when all
                 leaven was purged from the household)
               </span>
@@ -296,7 +296,7 @@ export default function Corinthians105() {
           , not with old leaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (old sins committed before conversion)
               </span>
             </span>
@@ -304,7 +304,7 @@ export default function Corinthians105() {
           , neither with the leaven of malice and wickedness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the ways of the world from which the Child of God has
                 been delivered)
               </span>
@@ -319,7 +319,7 @@ export default function Corinthians105() {
           of sincerity and truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (can only be attained by ones Faith being anchored solely in the
                 Sacrifice of Christ)
               </span>
@@ -336,7 +336,7 @@ export default function Corinthians105() {
           <sup className="calibre7">9</sup>I wrote unto you in an Epistle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a previous letter written to the Church of Corinth,
                 which has been lost)
               </span>
@@ -345,7 +345,7 @@ export default function Corinthians105() {
           not to company with fornicators{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means, not to be mingled up among)
               </span>
             </span>
@@ -359,7 +359,7 @@ export default function Corinthians105() {
           fornicators of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places a difference between those in the world and those in the
                 Church)
               </span>
@@ -369,7 +369,7 @@ export default function Corinthians105() {
           must you needs go out of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to normal commerce and activity with those who are
                 unsaved, which is different than those who profess Christ)
               </span>
@@ -384,7 +384,7 @@ export default function Corinthians105() {
           to keep company{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Believers must not condone such immoral activity in other
                 Christians, considering that they refuse to repent)
               </span>
@@ -394,7 +394,7 @@ export default function Corinthians105() {
           an idolater, or a railer, or a drunkard, or an extortioner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (plainly tells us that many will call themselves Christian or
                 Brother, who practice these type of sins)
               </span>
@@ -403,7 +403,7 @@ export default function Corinthians105() {
           ; with such an one no not to eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks more so of the Lords Supper than anything else)
               </span>
             </span>
@@ -417,7 +417,7 @@ export default function Corinthians105() {
           also who are without?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that we have no right to apply these standards to
                 people who have not professed Christ as Saviour.)
               </span>
@@ -426,7 +426,7 @@ export default function Corinthians105() {
           do not you judge them who are within?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Believers, we have enough on our plate without having to
                 call unbelievers to task. That is not our obligation.)
               </span>
@@ -439,13 +439,13 @@ export default function Corinthians105() {
           <sup className="calibre7">13</sup>But them who are without{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unsaved)</span>
+              <span className="explanation">(unsaved)</span>
             </span>
           </span>{" "}
           God judges{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so lets leave the unredeemed to Him)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Corinthians105() {
           . Therefore put away from among yourselves that wicked person{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Believer will not repent of obvious wrongdoing, and we
                 speak of scandalous sins, then that person must be
                 disfellowshiped).

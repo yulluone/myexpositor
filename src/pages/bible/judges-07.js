@@ -258,7 +258,7 @@ export default function Judges07() {
           empty pitchers, and lamps within the pitchers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(clay pitchers)</span>
+              <span className="explanation">(clay pitchers)</span>
             </span>
           </span>
         </span>
@@ -304,7 +304,7 @@ export default function Judges07() {
           the middle watch; and they had but newly set the watch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(close to 11 p.m.)</span>
+              <span className="explanation">(close to 11 p.m.)</span>
             </span>
           </span>
           : and they blew the trumpets, and broke the pitchers that were in

@@ -16,7 +16,7 @@ export default function Kings119() {
           had done, and withal how he had killed all the prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Baal)</span>
+              <span className="explanation">(of Baal)</span>
             </span>
           </span>{" "}
           with the sword.

@@ -40,7 +40,7 @@ export default function Samuel214() {
           this manner unto him. So Joab put the words in her mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(told her what to say and do)</span>
+              <span className="explanation">(told her what to say and do)</span>
             </span>
           </span>
         </span>
@@ -375,7 +375,7 @@ export default function Samuel214() {
           kings weight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about six pounds when wet)</span>
+              <span className="explanation">(about six pounds when wet)</span>
             </span>
           </span>
         </span>

@@ -30,7 +30,7 @@ export default function John19() {
           thorns{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Victors thorns)</span>
+              <span className="explanation">(Victors thorns)</span>
             </span>
           </span>
           , and put{" "}
@@ -367,7 +367,7 @@ export default function John19() {
           , and about the sixth hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 a.m.)</span>
+              <span className="explanation">(6 a.m.)</span>
             </span>
           </span>
           : and he said unto the Jews, Behold your King!{" "}
@@ -707,7 +707,7 @@ export default function John19() {
           , and His Mothers sister, Mary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Maria)</span>
+              <span className="explanation">(Maria)</span>
             </span>
           </span>{" "}
           the{" "}
@@ -926,7 +926,7 @@ export default function John19() {
           the legs of the first, and of the other which was crucified with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking of the two thieves)</span>
+              <span className="explanation">(speaking of the two thieves)</span>
             </span>
           </span>
           .
@@ -1086,7 +1086,7 @@ export default function John19() {
           , being a Disciple of Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a follower of Christ)</span>
+              <span className="explanation">(a follower of Christ)</span>
             </span>
           </span>
           , but secretly for fear of the Jews{" "}
@@ -1116,7 +1116,7 @@ export default function John19() {
           leave{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(allowed him to do so)</span>
+              <span className="explanation">(allowed him to do so)</span>
             </span>
           </span>
           . He came therefore, and took the Body of Jesus{" "}

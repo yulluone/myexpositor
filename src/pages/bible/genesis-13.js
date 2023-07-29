@@ -18,13 +18,13 @@ export default function Genesis13() {
           and his wife, and all that he had, and Lot with him, into{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from)</span>
+              <span className="explanation">(from)</span>
             </span>
           </span>{" "}
           the south{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if Abraham went down into Egypt in{" "}
                 <ScrollLink href="/genesis-12" scrollToId="#filepos164070">
                   <span className="calibre_19">
@@ -47,7 +47,7 @@ export default function Genesis13() {
           silver, and in gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were the Blessings of God, but it did not make up for his
                 lapse of Faith)
               </span>
@@ -70,7 +70,7 @@ export default function Genesis13() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He went back to the mountaintop where his tent had been at the
                 beginning, and there, doubtless with tears and shame, he called
                 by Sacrifice on the Name of the Lord. His backslidings were
@@ -93,7 +93,7 @@ export default function Genesis13() {
           had flocks, and herds, and tents{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lot didnt seem to realize that his blessings were strictly
                 because of Abraham)
               </span>
@@ -109,7 +109,7 @@ export default function Genesis13() {
           so that they could not dwell together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Worldly substance generally causes problems, even as it did
                 here. There was strife in the Church. In fact, the Church of
                 that day consisted of the families of Abraham and Lot, at least
@@ -126,7 +126,7 @@ export default function Genesis13() {
           Canaanite and the Perizzite dwelled then in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The strife no more produced the worldliness in Lot than it
                 produced the faith in Abraham; it only manifested, in the case
                 of each, what was really there. The Canaanite and the Perizzite
@@ -144,7 +144,7 @@ export default function Genesis13() {
           your herdmen; for we be Brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The bent toward Sodom is now beginning to exert itself in the
                 heart of Lot. This bent demands its rights, which demands to be
                 able to choose for itself, which, at the same time, means that
@@ -162,7 +162,7 @@ export default function Genesis13() {
           then I will go to the left.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was a test for both Abraham and Lot.)
               </span>
             </span>
@@ -177,7 +177,7 @@ export default function Genesis13() {
           the LORD, like the land of Egypt, as you come unto Zoar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the lust of the eyes)</span>
+              <span className="explanation">(the lust of the eyes)</span>
             </span>
           </span>
         </span>
@@ -190,7 +190,7 @@ export default function Genesis13() {
           from the other.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lot didnt seem to realize, as most dont realize, that he was
                 blessed by God because of Abraham. He should have said to
                 Abraham, that whatever the Patriarch desired, thats what he
@@ -209,7 +209,7 @@ export default function Genesis13() {
           Sodom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Slowly but surely, the self-will of Lot takes him toward
                 destruction, even as self-will always does.)
               </span>
@@ -223,7 +223,7 @@ export default function Genesis13() {
           sinners before the LORD exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit through Moses, as he wrote the text, is very
                 quick to characterize Sodom and its inhabitants)
               </span>
@@ -241,7 +241,7 @@ export default function Genesis13() {
           that Lot was separated from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (directly Lot departs, God draws near to Abraham)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Genesis13() {
           northward, and southward, and eastward, and westward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord tells Abraham that the Promises are given to him, and
                 not to Lot)
               </span>
@@ -265,7 +265,7 @@ export default function Genesis13() {
           you will I give it, and to your seed for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The modern Palestinians should look at the statement, And to
                 your seed forever.)
               </span>
@@ -279,7 +279,7 @@ export default function Genesis13() {
           dust of the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sarah is barren, and yet God promises a number beyond
                 comprehension)
               </span>
@@ -289,7 +289,7 @@ export default function Genesis13() {
           seed also be numbered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This includes not only the Jews who serve the Lord, but also
                 every Gentile Believer who has ever lived.)
               </span>
@@ -303,7 +303,7 @@ export default function Genesis13() {
           length of it and in the breadth of it; for I will give it unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is a walk of Faith)</span>
+              <span className="explanation">(this is a walk of Faith)</span>
             </span>
           </span>
         </span>
@@ -316,7 +316,7 @@ export default function Genesis13() {
           there an Altar unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There was no Altar in Sodom, which Lot chose. All who travel in
                 that direction are in quest of something quite different from
                 that. It is never the worship of God, but the love of the world

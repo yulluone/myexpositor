@@ -162,7 +162,7 @@ export default function Psalm080() {
           You have cast out the heathen, and planted it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that vine is Israel)</span>
+              <span className="explanation">(that vine is Israel)</span>
             </span>
           </span>
           .
@@ -174,7 +174,7 @@ export default function Psalm080() {
           cause it to take deep root, and it filled the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Land of Promise)</span>
+              <span className="explanation">(the Land of Promise)</span>
             </span>
           </span>
           .
@@ -186,7 +186,7 @@ export default function Psalm080() {
           shadow of it, and the boughs thereof were like the goodly cedars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(great growth!)</span>
+              <span className="explanation">(great growth!)</span>
             </span>
           </span>
           .

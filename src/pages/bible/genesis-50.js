@@ -18,7 +18,7 @@ export default function Genesis50() {
           face, and wept upon him, and kissed him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph closed his fathers eyes, as predicted by the Lord to
                 Jacob [
                 <ScrollLink href="/genesis-46" scrollToId="#filepos614700">
@@ -50,7 +50,7 @@ export default function Genesis50() {
           physicians to embalm his father: and the physicians embalmed Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacobs body was embalmed, but his soul and spirit went into
                 Paradise, there to be with his grandfather Abraham and his
                 father Isaac, and every other Believer who had lived up until
@@ -67,7 +67,7 @@ export default function Genesis50() {
           him; for so are fulfilled the days of those which are embalmed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it took that long for the process)
               </span>
             </span>
@@ -75,7 +75,7 @@ export default function Genesis50() {
           : and the Egyptians mourned for him seventy days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (death is an enemy; it is the last enemy which will be defeated
                 [
                 <ScrollLink
@@ -113,7 +113,7 @@ export default function Genesis50() {
           Pharaoh, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fact that Joseph did not speak personally to Pharaoh
                 accords with discoveries which show that mourners at that time
                 did not shave and, therefore, could not enter into the royal
@@ -132,7 +132,7 @@ export default function Genesis50() {
           bury my father, and I will come again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, Joseph was speaking to Pharaoh through members of
                 the royal court)
               </span>
@@ -154,7 +154,7 @@ export default function Genesis50() {
           of his house, and all the elders of the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the grandeur of Jacobs funeral procession must have been a
                 wonder to behold; it is amazing to think of this great
                 Patriarch, a pilgrim all his life, being carried to his final
@@ -188,7 +188,7 @@ export default function Genesis50() {
           days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were now in the land of Canaan; seven is Gods perfect
                 number; as such, it speaks of a perfect Salvation, which will
                 ultimately lead to the Resurrection)
@@ -206,7 +206,7 @@ export default function Genesis50() {
           of it was called Abel-mizraim, which is beyond Jordan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Canaanites had no understanding of what Joseph was doing,
                 thinking this was some type of ritual concerning the Egyptians.)
               </span>
@@ -219,7 +219,7 @@ export default function Genesis50() {
           <sup className="calibre7">12</sup>And his sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacobs sons)</span>
+              <span className="explanation">(Jacobs sons)</span>
             </span>
           </span>{" "}
           did unto him according as he commanded them:
@@ -233,7 +233,7 @@ export default function Genesis50() {
           of Ephron the Hittite, before Mamre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham, Isaac, and Jacob were very wealthy in flocks, gold,
                 and silver; however, when they died, as all, the only thing they
                 took with them was their Faith)
@@ -260,7 +260,7 @@ export default function Genesis50() {
           and will certainly requite us all the evil which we did unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephs brothers never did quite understand who their brother
                 was, or what he was. Now that Jacob was dead, they expected evil
                 of Joseph. They did not, and even perhaps could not, understand
@@ -277,7 +277,7 @@ export default function Genesis50() {
           Joseph, saying, Your father did command before he died, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they claimed that Jacob had said before he died that they
                 should ask Joseph to forgive them of their great sin against
                 him)
@@ -295,7 +295,7 @@ export default function Genesis50() {
           of the servants of the God of your father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they are quoting the words to Joseph which Jacob had told them
                 to say)
               </span>
@@ -304,7 +304,7 @@ export default function Genesis50() {
           . And Joseph wept when they spoke unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Williams says, The incurable unbelief of the
                 heart is illustrated by the cruel thoughts of Josephs brothers
                 as to his affection for them. This unbelief moved Joseph to
@@ -322,7 +322,7 @@ export default function Genesis50() {
           down before his face; and they said, Behold, we be your servants.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse records the last of five times the brothers bowed
                 before Joseph, fulfilling the dreams [
                 <ScrollLink href="/genesis-37" scrollToId="#filepos498474">
@@ -346,7 +346,7 @@ export default function Genesis50() {
           for am I in the place of God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question of Joseph, in effect, says, I am not the Judge
                 and, therefore, I do not punish. If any punishment is meted out,
                 it will be God Who does it, and not me. You have nothing to fear
@@ -363,7 +363,7 @@ export default function Genesis50() {
           this day, to save much people alive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse holds one of the greatest Promises found in the
                 entirety of the Word of God. God can take the evil which is
                 planned against the Believer, that is, if the Believer will
@@ -381,7 +381,7 @@ export default function Genesis50() {
           kindly unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a perfect Type of Christ)</span>
+              <span className="explanation">(a perfect Type of Christ)</span>
             </span>
           </span>
         </span>
@@ -403,7 +403,7 @@ export default function Genesis50() {
           were brought up upon Josephs knees.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph was 110 years old when he died. He lived in Egypt 93
                 years, and his fathers descendants lived there 215 years. This
                 man who was sold as a slave into Egypt became a viceroy of the
@@ -422,7 +422,7 @@ export default function Genesis50() {
           unto the land which He swore to Abraham, to Isaac, and to Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph using the names of his great-grandfather, his
                 grandfather, and his father portrays the fact that when the
                 torch of Faith was passed to him, he did not allow it to dim.)
@@ -438,7 +438,7 @@ export default function Genesis50() {
           carry up my bones from hence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the Children of Israel left out of Egypt, some 3 million
                 strong, which they would do approximately 122 years later, Moses
                 was careful to take the bones of Joseph with him [
@@ -465,7 +465,7 @@ export default function Genesis50() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Book of Genesis begins with life and ends with death. It
                 starts with Creation and ends with a coffin. It begins with a
                 living God and ends with a dead man, and all because of the

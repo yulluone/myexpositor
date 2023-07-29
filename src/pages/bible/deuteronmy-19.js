@@ -24,7 +24,7 @@ export default function Deuteronmy19() {
           possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the cities of refuge are addressed in{" "}
                 <ScrollLink href="/numbers-35" scrollToId="#filepos2103536">
                   <span className="calibre_19">
@@ -54,7 +54,7 @@ export default function Deuteronmy19() {
           ignorantly, whom he hated not in time past{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the cities of refuge were for individuals who killed someone
                 accidentally; they could flee to one of these cities, and the
                 relatives of the victim could not touch there the one who had
@@ -75,7 +75,7 @@ export default function Deuteronmy19() {
           cities, and live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accidental death)</span>
+              <span className="explanation">(accidental death)</span>
             </span>
           </span>
           :
@@ -86,7 +86,7 @@ export default function Deuteronmy19() {
           <sup className="calibre7">6</sup>Lest the avenger of the blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a relative or friend of the victim)
               </span>
             </span>
@@ -96,7 +96,7 @@ export default function Deuteronmy19() {
           inasmuch as he hated him not in time past{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the mans death was an unfortunate accident)
               </span>
             </span>
@@ -110,7 +110,7 @@ export default function Deuteronmy19() {
           shall separate three cities for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for this purpose)</span>
+              <span className="explanation">(for this purpose)</span>
             </span>
           </span>
         </span>
@@ -131,7 +131,7 @@ export default function Deuteronmy19() {
           cities more for you, beside these three{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these latter three would be on the east side of the Jordan
                 River)
               </span>
@@ -147,7 +147,7 @@ export default function Deuteronmy19() {
           so blood be upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the design of appointing these cities was to prevent the
                 shedding of innocent blood, which would be the case if the
                 unintentional manslayer was killed by one of the relatives of
@@ -172,7 +172,7 @@ export default function Deuteronmy19() {
           avenger of blood, that he may die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the cities of refuge were not for murderers, but for
                 those who killed someone accidentally)
               </span>
@@ -188,7 +188,7 @@ export default function Deuteronmy19() {
           well with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Capital punishment for capital crimes is one of the
                 Commandments of the Lord; while execution of the guilty does not
                 serve as a deterrent, it does serve to show the worth that God
@@ -219,7 +219,7 @@ export default function Deuteronmy19() {
           possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this pertains to landmarks which have been placed to mark the
                 boundaries of possessions; they were not to be surreptitiously
                 altered)
@@ -240,7 +240,7 @@ export default function Deuteronmy19() {
           witnesses, shall the matter be established{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as in courts of law presently, even an eyewitness account is
                 often faulty; thats the reason that two or more are demanded
                 here, in order that the rights of individuals be protected)
@@ -286,7 +286,7 @@ export default function Deuteronmy19() {
           and fear, and shall henceforth commit no more any such evil among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (such directions were given in order that individuals would be
                 fearful of lying on someone else)
               </span>
@@ -302,7 +302,7 @@ export default function Deuteronmy19() {
           foot for foot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (most of the time, this was never carried out, but, instead,
                 certain amounts of money were given to satisfy the situation)
               </span>

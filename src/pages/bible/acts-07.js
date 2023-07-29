@@ -16,7 +16,7 @@ export default function Acts07() {
           things so?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was asked concerning the charges!)
               </span>
             </span>
@@ -28,13 +28,13 @@ export default function Acts07() {
           <sup className="calibre7">2</sup>And he said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Stephen)</span>
+              <span className="explanation">(Stephen)</span>
             </span>
           </span>
           , Men, brethren, and fathers, hearken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (addresses and is meant to address the religious hierarchy of
                 Israel)
               </span>
@@ -44,7 +44,7 @@ export default function Acts07() {
           Mesopotamia, before he dwelt in Charran{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt tell us exactly what this appearance was, whether
                 visible or that the Lord may have used someone else to deliver
                 the Message; the exact place in that land was Ur of the Chaldees
@@ -69,7 +69,7 @@ export default function Acts07() {
           your country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to a land of idol worship)
               </span>
             </span>
@@ -77,7 +77,7 @@ export default function Acts07() {
           , and from your kindred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says they were idol-worshippers as well)
               </span>
             </span>
@@ -85,7 +85,9 @@ export default function Acts07() {
           , and come into the land which I shall show you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the land of Canaan)</span>
+              <span className="explanation">
+                (refers to the land of Canaan)
+              </span>
             </span>
           </span>
           .
@@ -97,7 +99,7 @@ export default function Acts07() {
           Chaldaeans, and dwelt in Charran{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about 700 miles north of Ur of the Chaldees; he stayed there
                 approximately two or three years)
               </span>
@@ -107,7 +109,7 @@ export default function Acts07() {
           land, wherein you now dwell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Land of Canaan)</span>
+              <span className="explanation">(the Land of Canaan)</span>
             </span>
           </span>
           .
@@ -118,7 +120,7 @@ export default function Acts07() {
           <sup className="calibre7">5</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           gave him none inheritance in it, no, not{" "}
@@ -130,7 +132,7 @@ export default function Acts07() {
           to set his foot on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Abraham personally never owned any of the Land of
                 Canaan, except the Cave of Machpelah, which was used for a
                 burial place for he and Sarah [Gen. 23])
@@ -141,7 +143,7 @@ export default function Acts07() {
           to his seed after him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the seed of Isaac, not Ishmael [
                 <ScrollLink href="/genesis-17" scrollToId="#filepos220866">
                   <span className="calibre_19">
@@ -163,7 +165,7 @@ export default function Acts07() {
           he had no child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for all of this to be done, Abraham and Sarah must have an
                 heir, which they ultimately did have in Isaac)
               </span>
@@ -177,7 +179,7 @@ export default function Acts07() {
           <sup className="calibre7">6</sup>And God spoke on this wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the Prophecy given to Abraham by the Lord respecting
                 the future of his seed)
               </span>
@@ -186,7 +188,7 @@ export default function Acts07() {
           , That his seed should sojourn in a strange land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Egypt)</span>
+              <span className="explanation">(Egypt)</span>
             </span>
           </span>
           ; and that they should bring them into bondage, and entreat{" "}
@@ -198,7 +200,7 @@ export default function Acts07() {
           evil four hundred years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the whole length of the Dispensation of Promise [Abraham to
                 Moses] was 430 years [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos852732">
@@ -272,7 +274,7 @@ export default function Acts07() {
           in bondage will I judge, said God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Egypt [
                 <ScrollLink href="/exodus-01" scrollToId="#filepos680921">
                   <span className="calibre_19">
@@ -288,7 +290,7 @@ export default function Acts07() {
           : and after that shall they come forth, and serve Me in this place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Children of Israel were delivered from Egyptian bondage and
                 given the Promised Land, which Stephen refers to as this place)
               </span>
@@ -302,19 +304,19 @@ export default function Acts07() {
           <sup className="calibre7">8</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           gave him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           the Covenant of Circumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Abrahamic Covenant of{" "}
                 <ScrollLink href="/genesis-12" scrollToId="#filepos156936">
                   <span className="calibre_19">
@@ -357,7 +359,7 @@ export default function Acts07() {
           the Twelve Patriarchs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of his sons as the Twelve Heads of the Tribes of Israel,
                 and who came under the same Covenant of Circumcision)
               </span>
@@ -372,7 +374,7 @@ export default function Acts07() {
           sold Joseph into Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were jealous of him, in that he was chosen by his father
                 Jacob to inherit the Birthright [
                 <ScrollLink href="/chronicles1-05" scrollToId="#filepos4415664">
@@ -389,7 +391,9 @@ export default function Acts07() {
           : but God was with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(men rule, but God overrules!)</span>
+              <span className="explanation">
+                (men rule, but God overrules!)
+              </span>
             </span>
           </span>
           ,
@@ -401,7 +405,7 @@ export default function Acts07() {
           afflictions{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not say there were no afflictions, but that the Lord
                 delivered Joseph out of every snare set for him by Satan)
               </span>
@@ -411,7 +415,7 @@ export default function Acts07() {
           Egypt; and he made him Governor over Egypt and all his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays, for a change, a wise ruler!)
               </span>
             </span>
@@ -425,7 +429,7 @@ export default function Acts07() {
           land of Egypt and Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the seven year famine)
               </span>
             </span>
@@ -433,7 +437,7 @@ export default function Acts07() {
           , and great affliction: and our fathers found no sustenance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was orchestrated purposely by the Lord, in order
                 that His Plan be carried out respecting the nation of Israel)
               </span>
@@ -448,7 +452,7 @@ export default function Acts07() {
           corn in Egypt, he sent out our fathers first{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he sent his sons)</span>
+              <span className="explanation">(he sent his sons)</span>
             </span>
           </span>
           .
@@ -465,7 +469,7 @@ export default function Acts07() {
           Joseph was made known to his brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to their second trip to Egypt with Joseph testing them [
                 <ScrollLink href="/genesis-45" scrollToId="#filepos598222">
                   <span className="calibre_19">
@@ -481,7 +485,7 @@ export default function Acts07() {
           ; and Josephs kindred was made known unto Pharaoh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were introduced to Pharaoh, with Joseph seeking permission
                 for his family to come into Egypt)
               </span>
@@ -499,7 +503,7 @@ export default function Acts07() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is symbolic of the Second Coming, when Israel will finally
                 come to Jesus),
               </span>
@@ -508,7 +512,7 @@ export default function Acts07() {
           and all his kindred, threescore and fifteen souls{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seventy-five souls; Stephen was including the five sons of
                 Manasseh and Ephraim;{" "}
                 <ScrollLink href="/genesis-46" scrollToId="#filepos620469">
@@ -540,7 +544,7 @@ export default function Acts07() {
           died, he, and our fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while his life and Ministry were in Egypt, his heart was in
                 Canaan)
               </span>
@@ -562,7 +566,7 @@ export default function Acts07() {
           of Sychem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Shechem [
                 <ScrollLink href="/genesis-23" scrollToId="#filepos300960">
                   <span className="calibre_19">
@@ -640,7 +644,7 @@ export default function Acts07() {
           drew near{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods timing is just as important as His Promise)
               </span>
             </span>
@@ -648,7 +652,7 @@ export default function Acts07() {
           , which God had sworn to Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Promise of God concerned the Land of Canaan being given to
                 the Children of Israel)
               </span>
@@ -657,7 +661,7 @@ export default function Acts07() {
           , the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israelites)</span>
+              <span className="explanation">(Israelites)</span>
             </span>
           </span>{" "}
           grew and multiplied in Egypt,
@@ -668,13 +672,13 @@ export default function Acts07() {
           <sup className="calibre7">18</sup>Till another king arose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another Pharaoh)</span>
+              <span className="explanation">(another Pharaoh)</span>
             </span>
           </span>
           , which knew not Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that this new Pharaoh had no regard for Egypts past
                 respecting Joseph, and consequently had no regard for Josephs
                 people, the Israelites!).
@@ -689,7 +693,7 @@ export default function Acts07() {
           kindred, and evil entreated our fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaimed such being allowed by the Lord, and for purpose and
                 reason; had they been treated kindly by this Pharaoh, they would
                 not have desired to leave Egypt)
@@ -700,7 +704,7 @@ export default function Acts07() {
           not live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the demand ordered by Pharaoh that all the boy babies
                 of the Israelites be killed when they were born)
               </span>
@@ -714,7 +718,7 @@ export default function Acts07() {
           <sup className="calibre7">20</sup>In which time Moses was born{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents another step in the Plan of God for Israels
                 deliverance)
               </span>
@@ -723,7 +727,7 @@ export default function Acts07() {
           , and was exceeding fair{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (describes the appearance of the child)
               </span>
             </span>
@@ -731,7 +735,7 @@ export default function Acts07() {
           , and nourished up in his fathers house three months{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the time he was hidden by his parents, in order
                 that he not be killed as was demanded by Pharaoh of all
                 newly-born baby boys)
@@ -746,7 +750,7 @@ export default function Acts07() {
           <sup className="calibre7">21</sup>And when he was cast out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the time when he could not be hidden any longer)
               </span>
             </span>
@@ -754,7 +758,7 @@ export default function Acts07() {
           , Pharaohs daughter took him up, and nourished him for her own son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again, this was orchestrated by the Lord)
               </span>
             </span>
@@ -768,13 +772,13 @@ export default function Acts07() {
           wisdom of the Egyptians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(highly educated)</span>
+              <span className="explanation">(highly educated)</span>
             </span>
           </span>
           , and was mighty in words and in deeds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephus says that Moses ultimately became a General in the
                 Egyptian Army, and defeated the Ethiopians)
               </span>
@@ -788,7 +792,7 @@ export default function Acts07() {
           <sup className="calibre7">23</sup>And when he was full forty years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the years Moses spent in Pharaohs Court)
               </span>
             </span>
@@ -796,7 +800,7 @@ export default function Acts07() {
           , it came into his heart to visit his brethren the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (before now it seems that he had not been too occupied with the
                 plight of his brethren)
               </span>
@@ -819,7 +823,7 @@ export default function Acts07() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit begins to move Moses in this direction),
               </span>
             </span>
@@ -827,7 +831,7 @@ export default function Acts07() {
           and avenged him who was oppressed, and smote the Egyptian{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses had the right motive, but this was the wrong way)
               </span>
             </span>
@@ -841,7 +845,7 @@ export default function Acts07() {
           have understood how that God by his hand would deliver them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sentence structure here tells us that the Lord was
                 definitely dealing with Moses about the deliverance of the
                 Children of Israel; however, the people were not ready and
@@ -858,7 +862,7 @@ export default function Acts07() {
           unto them as they strove, and would have set them at one again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these two Israelites were angry with each other)
               </span>
             </span>
@@ -866,7 +870,7 @@ export default function Acts07() {
           , saying, Sirs, you are brethren; why do ye wrong one to another?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will bring forth an answer he was not anticipating.)
               </span>
             </span>
@@ -879,13 +883,13 @@ export default function Acts07() {
           thrust him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (plainly proclaims the man rejecting the leadership of Moses)
               </span>
             </span>
@@ -893,7 +897,7 @@ export default function Acts07() {
           , saying, Who made you a ruler and a judge over us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, neither Moses nor the people were yet ready for
                 deliverance.)
               </span>
@@ -907,7 +911,7 @@ export default function Acts07() {
           Egyptian yesterday?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evidently, Moses did not realize that his killing of the
                 Egyptian was known; however, he had been seen!)
               </span>
@@ -920,7 +924,7 @@ export default function Acts07() {
           <sup className="calibre7">29</sup>Then fled Moses at that saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was soon to find out that Pharaoh also knew and was
                 angry, so he fled Egypt [
                 <ScrollLink href="/exodus-02" scrollToId="#filepos698138">
@@ -937,7 +941,7 @@ export default function Acts07() {
           , and was a stranger in the land of Madian, where he begat two sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (their names were Gershom and Eliezer [
                 <ScrollLink href="/exodus-02" scrollToId="#filepos701765">
                   <span className="calibre_19">
@@ -966,7 +970,7 @@ export default function Acts07() {
           <sup className="calibre7">30</sup>And when forty years were expired{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it only took a very short time to get Moses out of Egypt, but
                 forty years to get Egypt out of Moses; the flesh dies hard!)
               </span>
@@ -976,7 +980,7 @@ export default function Acts07() {
           the Lord in a flame of fire in a bush{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was actually God Himself appearing to Moses [
                 <ScrollLink href="/exodus-03" scrollToId="#filepos704806">
                   <span className="calibre_19">
@@ -1008,7 +1012,7 @@ export default function Acts07() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(the burning bush),</span>
+              <span className="explanation">(the burning bush),</span>
             </span>
           </span>{" "}
           he wondered at the sight: and as he drew near to behold{" "}
@@ -1020,7 +1024,7 @@ export default function Acts07() {
           the Voice of the Lord came unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after forty years, the Lord now speaks)
               </span>
             </span>
@@ -1046,7 +1050,7 @@ export default function Acts07() {
           the God of Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence says that He was the same One Who had spoken to
                 them; it also means they were alive at that very time, actually
                 in Paradise)
@@ -1056,7 +1060,7 @@ export default function Acts07() {
           . Then Moses trembled, and turned his face away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-03" scrollToId="#filepos706833">
                   <span className="calibre_19">
@@ -1077,7 +1081,7 @@ export default function Acts07() {
           <sup className="calibre7">33</sup>Then said the Lord to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (begins a scenario that would only end some forty years later)
               </span>
             </span>
@@ -1086,7 +1090,7 @@ export default function Acts07() {
           Holy Ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the pulling off of the shoes signified that Moses was
                 relinquishing ownership to everything; slaves do not wear shoes,
                 and he, in effect, would be a slave of Christ, exactly as Paul)
@@ -1102,13 +1106,13 @@ export default function Acts07() {
           affliction of My people which is in Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God sees all and knows all)</span>
+              <span className="explanation">(God sees all and knows all)</span>
             </span>
           </span>
           , and I have heard their groaning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (groaning under the burden imposed by the Egyptian taskmasters,
                 who were types of Satan)
               </span>
@@ -1117,7 +1121,7 @@ export default function Acts07() {
           , and am come down to deliver them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He delivered them by the means of the slain lamb and the blood
                 applied to the doorposts, in essence the Cross; the Cross is
                 still the only manner of Deliverance [
@@ -1135,7 +1139,7 @@ export default function Acts07() {
           . And now come, I will send you into Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents one of the most appalling commissions ever given to
                 any man)
               </span>
@@ -1150,7 +1154,7 @@ export default function Acts07() {
           saying, Who made you a ruler and a judge?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is meant by the Holy Spirit through Stephen to show that
                 the Jesus they had rejected and crucified was their only Present
                 and Eternal Saviour.)
@@ -1167,7 +1171,7 @@ export default function Acts07() {
           in the bush{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sanhedrin were overly familiar with this; however, they
                 surely understood the implication)
               </span>
@@ -1181,7 +1185,7 @@ export default function Acts07() {
           <sup className="calibre7">36</sup>He brought them out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Egypt, but is meant to convey as well the Deliverance
                 effected regarding every believing sinner upon coming to Christ)
               </span>
@@ -1190,7 +1194,7 @@ export default function Acts07() {
           , after that he had showed wonders and signs in the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he manifested His great Power to Egypt, so that the Egyptians
                 were without excuse)
               </span>
@@ -1199,7 +1203,7 @@ export default function Acts07() {
           , and in the Red Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the greatest Miracle that had ever been performed up
                 to that time)
               </span>
@@ -1208,7 +1212,7 @@ export default function Acts07() {
           , and in the wilderness forty years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Divine protection of God for this length of time,
                 even though it was His Will that they only be there about two
                 years, if that!)
@@ -1224,7 +1228,7 @@ export default function Acts07() {
           the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays Stephen now presenting the fact of Christianity, even
                 though it was not even called such then)
               </span>
@@ -1234,7 +1238,7 @@ export default function Acts07() {
           brethren, like unto me; Him shall you hear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (points directly to Jesus as the fulfillment of that Prophecy
                 given by Moses so long before)
               </span>
@@ -1248,14 +1252,14 @@ export default function Acts07() {
           <sup className="calibre7">38</sup>This is he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>
           , who was in the Church in the wilderness with the Angel which spoke
           to him in the Mount Sinai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to God Himself, Who gave Moses the Law)
               </span>
             </span>
@@ -1269,7 +1273,7 @@ export default function Acts07() {
           our fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the Elders of Israel, were to help
                 Moses, but rather, did the opposite!)
               </span>
@@ -1278,7 +1282,7 @@ export default function Acts07() {
           : who received the lively oracles to give unto us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Law of Moses)</span>
+              <span className="explanation">(refers to the Law of Moses)</span>
             </span>
           </span>
           :
@@ -1289,7 +1293,7 @@ export default function Acts07() {
           <sup className="calibre7">39</sup>To whom our fathers would not obey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (marks the history of Israel, which ultimately led to their
                 destruction)
               </span>
@@ -1304,7 +1308,7 @@ export default function Acts07() {
           from them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had God not intervened, at least several times, they would have
                 killed Moses)
               </span>
@@ -1313,7 +1317,7 @@ export default function Acts07() {
           , and in their hearts turned back again into Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (puts the finger right square on the problem; their hearts were
                 still in Egypt, just like the hearts of many Believers presently
                 are still in the world)
@@ -1329,7 +1333,7 @@ export default function Acts07() {
           go before us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the sin which ultimately destroyed Israel)
               </span>
             </span>
@@ -1344,7 +1348,7 @@ export default function Acts07() {
           what is become of him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while God was preparing great things for them, they were
                 preparing to worship idols!)
               </span>
@@ -1358,13 +1362,13 @@ export default function Acts07() {
           <sup className="calibre7">41</sup>And they made a calf in those days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was their idol)</span>
+              <span className="explanation">(this was their idol)</span>
             </span>
           </span>
           , and offered sacrifice unto the idol{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably represented a lamb, but in times to come would include
                 human sacrifice)
               </span>
@@ -1373,7 +1377,7 @@ export default function Acts07() {
           , and rejoiced in the works of their own hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is still the problem presently, with the Church little
                 desiring to lean solely on Christ and what He has done at the
                 Cross; many prefer a Salvation of their own hands)
@@ -1389,7 +1393,7 @@ export default function Acts07() {
           worship the host of Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the sun, moon, and stars)
               </span>
             </span>
@@ -1404,7 +1408,7 @@ export default function Acts07() {
           forty years in the wilderness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While Israel did offer up Sacrifices, they were not always to
                 God. To Me is emphatic!)
               </span>
@@ -1418,7 +1422,7 @@ export default function Acts07() {
           Moloch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the name of the main Ammonite Deity to whom children
                 were offered by fire [
                 <ScrollLink href="/leviticus-18" scrollToId="#filepos1531464">
@@ -1484,7 +1488,7 @@ export default function Acts07() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the star-god of Babylon)
               </span>
             </span>
@@ -1492,7 +1496,7 @@ export default function Acts07() {
           : and I will carry you away beyond Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Stephen quotes from{" "}
                 <ScrollLink href="/amos-5" scrollToId="#filepos10196170">
                   <span className="calibre_19">
@@ -1515,7 +1519,7 @@ export default function Acts07() {
           witness in the wilderness, as He had appointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that God gave them the Tabernacle plus the articles of
                 Sacred Vessels, in order that His People may have a way to
                 worship Him)
@@ -1526,7 +1530,7 @@ export default function Acts07() {
           that he had seen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the design exclusively by the Lord, which means that
                 Moses was not to deviate from that design)
               </span>
@@ -1541,20 +1545,22 @@ export default function Acts07() {
           after brought in with Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           into the possession of the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Land of Canaan)</span>
+              <span className="explanation">
+                (refers to the Land of Canaan)
+              </span>
             </span>
           </span>
           , whom God drove out before the face of our fathers, unto the days of
           David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a time span of approximately five hundred years;
                 during that time, victories were sparse)
               </span>
@@ -1568,13 +1574,13 @@ export default function Acts07() {
           <sup className="calibre7">46</sup>Who found favour before God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(referring to David)</span>
+              <span className="explanation">(referring to David)</span>
             </span>
           </span>
           , and desired to find a Tabernacle for the God of Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Ark of the Covenant being brought into Jerusalem,
                 after being untended for approximately seventy years [
                 <ScrollLink href="/samuel2-06" scrollToId="#filepos3445787">
@@ -1604,13 +1610,13 @@ export default function Acts07() {
           <sup className="calibre7">47</sup>But Solomon built Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           an house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the plans were given to David, but it is Solomon, his son, who
                 built the house)
               </span>
@@ -1625,7 +1631,7 @@ export default function Acts07() {
           Temples made with hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the prayer offered by Solomon at the dedication of
                 the Temple [
                 <ScrollLink href="/kings1-08" scrollToId="#filepos3802878">
@@ -1642,7 +1648,7 @@ export default function Acts07() {
           ; as said the Prophet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this phrase should have been in the next Verse, because it
                 speaks of Isaiah)
               </span>
@@ -1668,7 +1674,7 @@ export default function Acts07() {
           My Footstool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is bigger and greater than anything)
               </span>
             </span>
@@ -1676,7 +1682,7 @@ export default function Acts07() {
           : what house will you build Me? says the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Temple was to be merely a stopgap measure until Christ
                 would come)
               </span>
@@ -1691,7 +1697,7 @@ export default function Acts07() {
           the place of My rest?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel had come to the place where they believed the Temple was
                 all in all. They didnt see it as a step toward an ultimate goal.
                 The rest is found only in Christ [
@@ -1714,7 +1720,7 @@ export default function Acts07() {
           things?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He has made the heavens and the Earth and all that is therein,
                 so why would He want to confine Himself totally to one small
                 building on Earth?)
@@ -1729,7 +1735,7 @@ export default function Acts07() {
           heart and ears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Stephen using the same language as Moses when he
                 conveyed Gods rebuke to Israel [
                 <ScrollLink href="/deuteronmy-10" scrollToId="#filepos2224004">
@@ -1758,7 +1764,7 @@ export default function Acts07() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything carried out by God on Earth is through the Person
                 and Office of the Holy Spirit; to resist Him is to resist God,
                 for He is God; they resisted Him by resisting the Plan of God,
@@ -1775,7 +1781,7 @@ export default function Acts07() {
           fathers persecuted?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is very similar to that stated by Christ [
                 <ScrollLink href="/matthew-05" scrollToId="#filepos10877977">
                   <span className="calibre_19">
@@ -1816,7 +1822,7 @@ export default function Acts07() {
           One{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they killed the Prophets who pointed to the One Who was to
                 come, namely Jesus)
               </span>
@@ -1825,7 +1831,7 @@ export default function Acts07() {
           ; of Whom you have been now the betrayers and murderers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is about as strong as anything that could be said; how
                 different this is from most of the modern Preaching!)
               </span>
@@ -1839,19 +1845,19 @@ export default function Acts07() {
           <sup className="calibre7">53</sup>Who{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           have received the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law of Moses)</span>
+              <span className="explanation">(Law of Moses)</span>
             </span>
           </span>{" "}
           by the disposition of Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the myriads of Angels who were present and were used
                 to help give the Law of Moses to Israel [
                 <ScrollLink href="/psalm-068" scrollToId="#filepos6103971">
@@ -1871,7 +1877,7 @@ export default function Acts07() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(contradicted their claims!).</span>
+              <span className="explanation">(contradicted their claims!).</span>
             </span>
           </span>
         </span>
@@ -1885,7 +1891,7 @@ export default function Acts07() {
           were cut to the heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the depth to which the Holy Spirit took Stephens
                 words, which, in effect, were the Words of the Lord)
               </span>
@@ -1900,7 +1906,7 @@ export default function Acts07() {
           teeth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims their answer to Stephen and the Holy Spirit)
               </span>
             </span>
@@ -1914,7 +1920,7 @@ export default function Acts07() {
           Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the second time this is said of him [
                 <ScrollLink href="/acts-06" scrollToId="#filepos12850578">
                   <span className="calibre_19">
@@ -1930,7 +1936,7 @@ export default function Acts07() {
           , look ed up stedfastly into Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Stephen saw something in Heaven which immediately
                 seized his attention)
               </span>
@@ -1939,13 +1945,13 @@ export default function Acts07() {
           , and saw the Glory of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he saw the Throne of God)</span>
+              <span className="explanation">(he saw the Throne of God)</span>
             </span>
           </span>
           , and Jesus standing on the Right Hand of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is usually presented as sitting at the Right Hand of God
                 [
                 <ScrollLink href="/hebrews-01" scrollToId="#filepos14418043">
@@ -1969,7 +1975,7 @@ export default function Acts07() {
           opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Jesus in His Glory as God, just as the Heavens had
                 opened to see Jesus in His humiliation on Earth as Man [
                 <ScrollLink href="/john-01" scrollToId="#filepos12310204">
@@ -1986,7 +1992,7 @@ export default function Acts07() {
           , and the Son of Man standing on the Right Hand of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims His rightful place by virtue of His achievements and
                 exaltation to original Glory [
                 <ScrollLink href="/john-17" scrollToId="#filepos12656869">
@@ -2032,13 +2038,13 @@ export default function Acts07() {
           <sup className="calibre7">57</sup>Then they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(members of the Sanhedrin)</span>
+              <span className="explanation">(members of the Sanhedrin)</span>
             </span>
           </span>{" "}
           cried out with a loud voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had they cried out in Repentance, the future of Israel could
                 have been drastically changed for the better)
               </span>
@@ -2047,7 +2053,7 @@ export default function Acts07() {
           , and stopped their ears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that they no longer desired to hear anything he desired
                 to say)
               </span>
@@ -2056,7 +2062,7 @@ export default function Acts07() {
           , and ran upon him with one accord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of the religious leadership of Israel were guilty)
               </span>
             </span>
@@ -2078,7 +2084,7 @@ export default function Acts07() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was their answer to the plea of God for their souls)
               </span>
             </span>
@@ -2086,7 +2092,7 @@ export default function Acts07() {
           : and the witnesses laid down their clothes at a young mans feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they took off their outer garments so as to be free to hurl the
                 stones at their victim with greater force)
               </span>
@@ -2095,7 +2101,7 @@ export default function Acts07() {
           , whose name was Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the first mention of this man who would have a greater
                 positive impact on Christianity than any other human being who
                 has ever lived; the death of Stephen, no doubt, played a part in
@@ -2115,7 +2121,7 @@ export default function Acts07() {
               <span className="calibre_19">God</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a monstrous offense on the part of his murderers; we
                 must remember, he was murdered by the religious leaders of
                 Israel),
@@ -2125,7 +2131,7 @@ export default function Acts07() {
           and saying, Lord Jesus, receive my spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Stephen rendering Divine Worship to Jesus Christ in
                 the most sublime form, and in the most solemn moment of his
                 life)
@@ -2141,7 +2147,7 @@ export default function Acts07() {
           a loud voice, Lord, lay not this sin to their charge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents him dying on his knees, without malice toward his
                 murderers)
               </span>
@@ -2150,7 +2156,7 @@ export default function Acts07() {
           . And when he had said this, he fell asleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the body falling asleep, while his soul and spirit
                 instantly went to be with Jesus; due to what Jesus did at the
                 Cross; death is now looked at as merely going to sleep)

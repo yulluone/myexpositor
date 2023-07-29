@@ -71,7 +71,7 @@ export default function Matthew10() {
           Matthew the publican{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tax collector)</span>
+              <span className="explanation">(tax collector)</span>
             </span>
           </span>
           ; James{" "}
@@ -83,7 +83,7 @@ export default function Matthew10() {
           of Alphaeus, and Lebbaeus whose surname{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(last name)</span>
+              <span className="explanation">(last name)</span>
             </span>
           </span>{" "}
           was Thaddaeus;
@@ -94,7 +94,7 @@ export default function Matthew10() {
           <sup className="calibre7">4</sup>Simon the Canaanite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the zealot)</span>
+              <span className="explanation">(the zealot)</span>
             </span>
           </span>
           , and Judas Iscariot, who also betrayed Him{" "}
@@ -175,7 +175,7 @@ export default function Matthew10() {
           raise the dead, cast out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           : freely you have received, freely give{" "}
@@ -230,13 +230,13 @@ export default function Matthew10() {
           shall enter, enquire who in it is worthy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of like faith)</span>
+              <span className="explanation">(of like faith)</span>
             </span>
           </span>
           ; and there abide till you go thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(work with them)</span>
+              <span className="explanation">(work with them)</span>
             </span>
           </span>
           .
@@ -248,7 +248,7 @@ export default function Matthew10() {
           salute it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bestow peace)</span>
+              <span className="explanation">(bestow peace)</span>
             </span>
           </span>
           .
@@ -259,13 +259,13 @@ export default function Matthew10() {
           <sup className="calibre7">13</sup>And if the house be worthy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of like faith)</span>
+              <span className="explanation">(of like faith)</span>
             </span>
           </span>
           , let your peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(blessing)</span>
+              <span className="explanation">(blessing)</span>
             </span>
           </span>{" "}
           come upon it: but if it be not worthy{" "}
@@ -279,7 +279,7 @@ export default function Matthew10() {
           , let your peace return to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont bless it)</span>
+              <span className="explanation">(dont bless it)</span>
             </span>
           </span>
           .
@@ -292,7 +292,7 @@ export default function Matthew10() {
           off the dust of your feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a curse is now upon such)</span>
+              <span className="explanation">(a curse is now upon such)</span>
             </span>
           </span>
           .
@@ -311,7 +311,7 @@ export default function Matthew10() {
           , It shall be more tolerable{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(degrees of punishment)</span>
+              <span className="explanation">(degrees of punishment)</span>
             </span>
           </span>{" "}
           for the land of Sodom and Gomorrha in the Day of Judgment{" "}
@@ -341,7 +341,7 @@ export default function Matthew10() {
           <sup className="calibre7">16</sup>Behold, I send you forth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ does the sending)</span>
+              <span className="explanation">(Christ does the sending)</span>
             </span>
           </span>{" "}
           as sheep in the midst of wolves{" "}
@@ -360,7 +360,7 @@ export default function Matthew10() {
           <sup className="calibre7">17</sup>But beware of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(religious apostates)</span>
+              <span className="explanation">(religious apostates)</span>
             </span>
           </span>
           : for they will deliver you up to the Councils, and they will scourge
@@ -393,7 +393,7 @@ export default function Matthew10() {
           for My sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(animosity against Christ)</span>
+              <span className="explanation">(animosity against Christ)</span>
             </span>
           </span>
           , for a testimony against them{" "}
@@ -420,7 +420,7 @@ export default function Matthew10() {
           <sup className="calibre7">19</sup>But when they deliver you up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not if but when)</span>
+              <span className="explanation">(not if but when)</span>
             </span>
           </span>
           , take no thought how or what you shall speak{" "}
@@ -434,7 +434,7 @@ export default function Matthew10() {
           : for it shall be given you in that same hour what you shall speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unction of the Spirit)</span>
+              <span className="explanation">(unction of the Spirit)</span>
             </span>
           </span>
           .
@@ -446,7 +446,7 @@ export default function Matthew10() {
           the Spirit of your Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           which speaks in you{" "}
@@ -501,7 +501,7 @@ export default function Matthew10() {
           for My Names sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the offense of the Cross)</span>
+              <span className="explanation">(the offense of the Cross)</span>
             </span>
           </span>
           : but he who endures to the end shall be saved{" "}
@@ -521,19 +521,19 @@ export default function Matthew10() {
           city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the certainty of opposition)</span>
+              <span className="explanation">(the certainty of opposition)</span>
             </span>
           </span>
           , flee you into another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(keep evangelizing)</span>
+              <span className="explanation">(keep evangelizing)</span>
             </span>
           </span>
           : for verily I say unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(remember this)</span>
+              <span className="explanation">(remember this)</span>
             </span>
           </span>
           , You shall not have gone over the cities of Israel{" "}
@@ -599,7 +599,7 @@ export default function Matthew10() {
           . If they have called the master of the house Beelzebub{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of the Devil)</span>
+              <span className="explanation">(of the Devil)</span>
             </span>
           </span>
           , how much more{" "}
@@ -625,7 +625,7 @@ export default function Matthew10() {
           that shall not be known{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a reckoning is coming)</span>
+              <span className="explanation">(a reckoning is coming)</span>
             </span>
           </span>
           .
@@ -636,7 +636,7 @@ export default function Matthew10() {
           <sup className="calibre7">27</sup>What I tell you in darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in prayer)</span>
+              <span className="explanation">(in prayer)</span>
             </span>
           </span>
           ,{" "}
@@ -648,13 +648,13 @@ export default function Matthew10() {
           speak you in light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(openly)</span>
+              <span className="explanation">(openly)</span>
             </span>
           </span>
           : and what you hear in the ear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what the Spirit reveals)</span>
+              <span className="explanation">(what the Spirit reveals)</span>
             </span>
           </span>
           ,{" "}
@@ -666,7 +666,7 @@ export default function Matthew10() {
           preach you upon the housetops{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(publicly)</span>
+              <span className="explanation">(publicly)</span>
             </span>
           </span>
           .
@@ -678,13 +678,13 @@ export default function Matthew10() {
           body, but are not able to kill the soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont fear men)</span>
+              <span className="explanation">(dont fear men)</span>
             </span>
           </span>
           : but rather fear Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           which is able to destroy both soul and body in hell.
@@ -696,7 +696,7 @@ export default function Matthew10() {
           farthing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cheap)</span>
+              <span className="explanation">(cheap)</span>
             </span>
           </span>
           ? and one of them shall not fall on the ground without your Father{" "}
@@ -753,7 +753,7 @@ export default function Matthew10() {
           before men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to tie man to God)</span>
+              <span className="explanation">(to tie man to God)</span>
             </span>
           </span>
           , him will I confess also before My Father which is in Heaven{" "}
@@ -815,7 +815,7 @@ export default function Matthew10() {
           variance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(odds)</span>
+              <span className="explanation">(odds)</span>
             </span>
           </span>{" "}
           against his father, and the daughter against her mother, and the
@@ -942,7 +942,7 @@ export default function Matthew10() {
           , and he who receives Me receives Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           Who sent Me.
@@ -954,7 +954,9 @@ export default function Matthew10() {
           name of a Prophet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because he is a true Prophet)</span>
+              <span className="explanation">
+                (because he is a true Prophet)
+              </span>
             </span>
           </span>{" "}
           shall receive a Prophets reward; and he who receives a Righteous man
@@ -969,7 +971,7 @@ export default function Matthew10() {
           shall receive a Righteous mans reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one on a Righteous Mission)</span>
+              <span className="explanation">(one on a Righteous Mission)</span>
             </span>
           </span>
           .
@@ -981,7 +983,7 @@ export default function Matthew10() {
           unto one of these little ones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(newest Believer)</span>
+              <span className="explanation">(newest Believer)</span>
             </span>
           </span>{" "}
           a cup of cold{" "}
@@ -1001,7 +1003,7 @@ export default function Matthew10() {
           , verily I say unto you, he shall in no wise lose his reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a reward is guaranteed)</span>
+              <span className="explanation">(a reward is guaranteed)</span>
             </span>
           </span>
           .

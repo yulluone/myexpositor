@@ -170,7 +170,7 @@ export default function Numbers06() {
           him, and he has defiled the head of his consecration{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(has touched a dead body)</span>
+              <span className="explanation">(has touched a dead body)</span>
             </span>
           </span>
           ; then he shall shave his head in the day of his cleansing, on the
@@ -182,13 +182,13 @@ export default function Numbers06() {
           <sup className="calibre7">10</sup>And on the eighth day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Resurrection day)</span>
+              <span className="explanation">(Resurrection day)</span>
             </span>
           </span>{" "}
           he shall bring two turtles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(turtledoves)</span>
+              <span className="explanation">(turtledoves)</span>
             </span>
           </span>
           , or two young pigeons, to the Priest, to the door of the Tabernacle
@@ -323,7 +323,7 @@ export default function Numbers06() {
           : the Priest shall offer also his Meat Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Thanksgiving Offering)</span>
+              <span className="explanation">(a Thanksgiving Offering)</span>
             </span>
           </span>
           , and his Drink Offering{" "}
@@ -372,7 +372,7 @@ export default function Numbers06() {
           wave breast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(thanksgiving to the Lord)</span>
+              <span className="explanation">(thanksgiving to the Lord)</span>
             </span>
           </span>{" "}
           and heave shoulder{" "}

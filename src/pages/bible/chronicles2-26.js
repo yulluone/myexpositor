@@ -17,7 +17,7 @@ export default function Chronicles226() {
           his father Amaziah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Uzziah is named Azariah in II Kings)
               </span>
             </span>
@@ -31,7 +31,7 @@ export default function Chronicles226() {
           Judah, after that the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Amaziah)</span>
+              <span className="explanation">(Amaziah)</span>
             </span>
           </span>{" "}
           slept with his fathers.
@@ -50,7 +50,7 @@ export default function Chronicles226() {
           the sight of the LORD, according to all that his father Amaziah did{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the qualifier is, he started well, and ended poorly)
               </span>
             </span>
@@ -64,7 +64,7 @@ export default function Chronicles226() {
           Zechariah, who had understanding in the Visions of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was not the Zechariah, the son of Jehoiada, who lived some
                 years prior; he was murdered by Joash, Uzziahs grandfather;
                 neither was he the Zechariah who wrote the Book of Zechariah;
@@ -75,7 +75,7 @@ export default function Chronicles226() {
           : and as long as he sought the LORD, God made him to prosper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what a statement! The words, sought the Lord, mean not only to
                 desire what God desires, but to seek His Face incessantly; this
                 is the secret of spiritual, domestic, financial, physical, and
@@ -111,7 +111,7 @@ export default function Chronicles226() {
           for he strengthened himself exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was able to strengthen himself, because God helped him)
               </span>
             </span>
@@ -139,7 +139,7 @@ export default function Chronicles226() {
           mountains, and in Carmel: for he loved husbandry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the kings partiality looked to agricultural and pastoral
                 pursuits)
               </span>
@@ -184,7 +184,7 @@ export default function Chronicles226() {
           for he was marvelously helped, till he was strong{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this means that God prospered him so greatly that the people
                 marveled; however, when he became strong, he entered into the
                 zone of extreme danger)
@@ -203,14 +203,14 @@ export default function Chronicles226() {
           was lifted up to his destruction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with pride)</span>
+              <span className="explanation">(with pride)</span>
             </span>
           </span>
           : for he transgressed against the LORD his God, and went into the
           Temple of the LORD to burn Incense upon the Altar of Incense.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His transgression was far more serious than we realize. For him
                 to attempt to burn incense upon the Altar of Incense proclaims
                 the fact that he, in essence, was saying that he did not need a
@@ -332,13 +332,13 @@ export default function Chronicles226() {
           <sup className="calibre7">17</sup>And Azariah the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(High Priest)</span>
+              <span className="explanation">(High Priest)</span>
             </span>
           </span>{" "}
           went in after him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (into the Holy Place, where was the Altar of Incense)
               </span>
             </span>
@@ -346,13 +346,13 @@ export default function Chronicles226() {
           , and with him fourscore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(80)</span>
+              <span className="explanation">(80)</span>
             </span>
           </span>{" "}
           Priests of the LORD, who were valiant men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (brave men, who would stand up to the king)
               </span>
             </span>
@@ -368,7 +368,7 @@ export default function Chronicles226() {
           consecrated to burn Incense: go out of the Sanctuary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, no one was allowed in the Sanctuary except Priests)
               </span>
             </span>
@@ -385,7 +385,7 @@ export default function Chronicles226() {
           in the House of the LORD, from beside the Incense Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because he attempted to worship God without the intervention of
                 an ongoing Saviour, the Lord smote him with leprosy. On the
                 forehead of the High Priest was a golden plate with the words,
@@ -408,7 +408,7 @@ export default function Chronicles226() {
           also to go out, because the LORD had smitten him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To be frank, he was afraid that the Lord would kill him and,
                 but for the Mercy of God, this is exactly what would have
                 happened. The leprosy started in his forehead, because, as
@@ -440,7 +440,7 @@ export default function Chronicles226() {
           first and last, did Isaiah the Prophet, the son of Amoz, write{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah the Prophet asserts that his prophetic inspiration was
                 in Uzziahs time [
                 <ScrollLink href="/isaiah-01" scrollToId="#filepos7260378">
@@ -473,7 +473,7 @@ export default function Chronicles226() {
           son reigned in his stead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (hopefully he repented, but there is no evidence that he did;
                 the last thing the Holy Spirit said about him was, He is a leper
                 not was, but rather is)

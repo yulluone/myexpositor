@@ -15,7 +15,7 @@ export default function Revelation03() {
           <sup className="calibre7">1</sup>And unto the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastor)</span>
+              <span className="explanation">(Pastor)</span>
             </span>
           </span>{" "}
           of the Church in Sardis write{" "}
@@ -90,7 +90,7 @@ export default function Revelation03() {
           received and heard, and hold fast, and repent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(go back to the Cross)</span>
+              <span className="explanation">(go back to the Cross)</span>
             </span>
           </span>
           . If therefore you shall not watch, I will come on you as a thief, and
@@ -111,7 +111,7 @@ export default function Revelation03() {
           which have not defiled their garments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord always has a few)</span>
+              <span className="explanation">(the Lord always has a few)</span>
             </span>
           </span>
           ; and they shall walk with Me in white: for they are worthy.{" "}
@@ -177,7 +177,7 @@ export default function Revelation03() {
           <sup className="calibre7">7</sup>And to the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastor)</span>
+              <span className="explanation">(Pastor)</span>
             </span>
           </span>{" "}
           of the Church in Philadelphia write{" "}
@@ -272,7 +272,7 @@ export default function Revelation03() {
           <sup className="calibre7">11</sup>Behold, I come quickly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(again refers to the Rapture)</span>
+              <span className="explanation">(again refers to the Rapture)</span>
             </span>
           </span>
           : hold that fast which you have, that no man take your crown.{" "}
@@ -354,7 +354,7 @@ export default function Revelation03() {
           <sup className="calibre7">14</sup>And unto the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastor)</span>
+              <span className="explanation">(Pastor)</span>
             </span>
           </span>{" "}
           of the Church of the Laodiceans write{" "}
@@ -400,7 +400,7 @@ export default function Revelation03() {
           : I would you were cold or hot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(half measures wont do)</span>
+              <span className="explanation">(half measures wont do)</span>
             </span>
           </span>
           .
@@ -503,7 +503,7 @@ export default function Revelation03() {
           chasten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(implies a remnant)</span>
+              <span className="explanation">(implies a remnant)</span>
             </span>
           </span>
           : be zealous therefore, and repent.{" "}

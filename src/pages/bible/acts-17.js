@@ -16,7 +16,7 @@ export default function Acts17() {
           Amphipolis and Apollonia, they came to Thessalonica{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Pauls destination evidently directed here by the Holy
                 Spirit)
               </span>
@@ -25,7 +25,7 @@ export default function Acts17() {
           , where was a Synagogue of the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul once again taking the Gospel first of all to the
                 Jews)
               </span>
@@ -40,7 +40,7 @@ export default function Acts17() {
           unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, as his custom was)
               </span>
             </span>
@@ -48,7 +48,7 @@ export default function Acts17() {
           , and three Sabbath Days reasoned with them out of the Scriptures{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Old Testament, and concerning Christ)
               </span>
             </span>
@@ -61,13 +61,13 @@ export default function Acts17() {
           <sup className="calibre7">3</sup>Opening and alleging{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to expound and present)</span>
+              <span className="explanation">(to expound and present)</span>
             </span>
           </span>
           , that Christ must needs have suffered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had to go to the Cross in order that all sin might be atoned [
                 <ScrollLink href="/genesis-03" scrollToId="#filepos55109">
                   <span className="calibre_19">
@@ -99,7 +99,7 @@ export default function Acts17() {
           , and risen again from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/leviticus-14" scrollToId="#filepos1456058">
                   <span className="calibre_19">
@@ -123,7 +123,7 @@ export default function Acts17() {
           ; and that this Jesus, whom I preach unto you, is Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is the Messiah, the One pointed to in the Scriptures)
               </span>
             </span>
@@ -136,13 +136,13 @@ export default function Acts17() {
           <sup className="calibre7">4</sup>And some of them believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(some Jews)</span>
+              <span className="explanation">(some Jews)</span>
             </span>
           </span>
           , and consorted with Paul and Silas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wanted to hear more about Jesus)
               </span>
             </span>
@@ -150,13 +150,13 @@ export default function Acts17() {
           ; and of the devout Greeks a great multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many Gentiles were saved)</span>
+              <span className="explanation">(many Gentiles were saved)</span>
             </span>
           </span>
           , and of the Chief women not a few{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could have referred to the wives of some of the Civil Rulers in
                 the city, or at least wives of influential men)
               </span>
@@ -171,7 +171,7 @@ export default function Acts17() {
           moved with envy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a perfect example of religious people who refuse the
                 Light of the Gospel, and then set about to stop the propagation
                 of that Light)
@@ -182,7 +182,7 @@ export default function Acts17() {
           a company, and set all the city on an uproar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents these Jews as being unable to Scripturally counter
                 Pauls Message, so they now resort to other measures)
               </span>
@@ -192,7 +192,7 @@ export default function Acts17() {
           the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently refers to where Paul and his associates were staying)
               </span>
             </span>
@@ -205,7 +205,7 @@ export default function Acts17() {
           <sup className="calibre7">6</sup>And when they found them not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently Paul and Silas were not there at the time)
               </span>
             </span>
@@ -213,7 +213,7 @@ export default function Acts17() {
           , they drew Jason and certain Brethren unto the Rulers of the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the mob determined to take their anger out on
                 someone, if not Paul!)
               </span>
@@ -223,7 +223,7 @@ export default function Acts17() {
           also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that the Jews had prepped certain people in this mob
                 thoroughly)
               </span>
@@ -237,7 +237,7 @@ export default function Acts17() {
           <sup className="calibre7">7</sup>Whom Jason has received{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (charges Jason as being a part of the alleged conspiracy)
               </span>
             </span>
@@ -252,7 +252,7 @@ export default function Acts17() {
           Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which is blatantly false, and the Jews knew it
                 was false)
               </span>
@@ -267,7 +267,7 @@ export default function Acts17() {
           Rulers of the city, when they heard these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by their lies, they created a commotion)
               </span>
             </span>
@@ -281,7 +281,7 @@ export default function Acts17() {
           Jason{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably means that Jason put up a security bond of some sorts)
               </span>
             </span>
@@ -289,7 +289,7 @@ export default function Acts17() {
           , and of the other{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to a guarantee on the part of Jason and others
                 that Paul and his party would leave the city, even though they
                 were not to blame)
@@ -299,7 +299,7 @@ export default function Acts17() {
           , they let them go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that the authorities were now satisfied)
               </span>
             </span>
@@ -316,7 +316,7 @@ export default function Acts17() {
           away Paul and Silas by night unto Berea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this town is about fifty miles from Thessalonica; they left by
                 night, because to remain longer could have caused more problems)
               </span>
@@ -331,7 +331,7 @@ export default function Acts17() {
           went into the Synagogue of the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents, as stated, Pauls custom, but which this time will
                 turn out better, for a change)
               </span>
@@ -346,7 +346,7 @@ export default function Acts17() {
           Thessalonica{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we now learn Gods definition of noble)
               </span>
             </span>
@@ -354,7 +354,7 @@ export default function Acts17() {
           , in that they received the Word with all readiness of mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the meaning of the word noble)
               </span>
             </span>
@@ -362,7 +362,7 @@ export default function Acts17() {
           , and searched the Scriptures daily, whether those things were so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us why they so eagerly accepted the Message of Jesus
                 Christ)
               </span>
@@ -376,7 +376,7 @@ export default function Acts17() {
           <sup className="calibre7">12</sup>Therefore many of them believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Jews who accepted Christ as Saviour)
               </span>
             </span>
@@ -384,7 +384,7 @@ export default function Acts17() {
           ; also of Honourable women which were Greeks, and of men, not a few{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Gentiles who had been attending the Jewish Synagogue
                 and, as well, accepted Christ)
               </span>
@@ -399,7 +399,7 @@ export default function Acts17() {
           had knowledge that the Word of God was preached of Paul at Berea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Jews in Thessalonica, not content with what they had done
                 in their city, now attempt to stop that which is happening in
                 Berea)
@@ -409,7 +409,7 @@ export default function Acts17() {
           , they came thither also, and stirred up the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shows how effective a lie can be)
               </span>
             </span>
@@ -423,7 +423,7 @@ export default function Acts17() {
           sent away Paul to go as it were to the Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Aegean, which was about seventeen miles from
                 Berea)
               </span>
@@ -432,7 +432,7 @@ export default function Acts17() {
           : but Silas and Timotheus abode there still{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(remained in Berea)</span>
+              <span className="explanation">(remained in Berea)</span>
             </span>
           </span>
           .
@@ -444,7 +444,7 @@ export default function Acts17() {
           him unto Athens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the chief city of Greece, famed for its learning)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Acts17() {
           him with all speed, they departed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul sends the Message back with these men that Silas and
                 Timothy are to come to Athens as soon as possible)
               </span>
@@ -472,7 +472,7 @@ export default function Acts17() {
           given to idolatry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means it was full of idols)</span>
+              <span className="explanation">(means it was full of idols)</span>
             </span>
           </span>
           .
@@ -484,7 +484,7 @@ export default function Acts17() {
           Synagogue with the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from the Scriptures, he would preach Jesus; the Scriptures
                 then, at least as far as the Jews were concerned, were the Old
                 Testament)
@@ -494,7 +494,7 @@ export default function Acts17() {
           , and with the devout persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (singles out the Jews who really seemed to be devoted to the
                 Scriptures)
               </span>
@@ -503,7 +503,7 @@ export default function Acts17() {
           , and in the market daily with them that met with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a place in Athens, where speakers generally gave
                 forth)
               </span>
@@ -518,7 +518,7 @@ export default function Acts17() {
           Epicureans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who claimed that gratification of the appetites and
                 pleasures was the only end in life)
               </span>
@@ -527,7 +527,7 @@ export default function Acts17() {
           , and of the Stoics{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they taught that man was not to be moved by either joy or
                 grief)
               </span>
@@ -536,7 +536,7 @@ export default function Acts17() {
           , encountered him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (challenged his statements about Christ)
               </span>
             </span>
@@ -544,7 +544,7 @@ export default function Acts17() {
           . And some said, What will this babbler say?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the highest insult of which they could think.)
               </span>
             </span>
@@ -552,7 +552,7 @@ export default function Acts17() {
           other some, He seems to be a setter forth of strange gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in their minds, anything outside of Greek philosophy was of no
                 consequence)
               </span>
@@ -561,7 +561,7 @@ export default function Acts17() {
           : because he preached unto them Jesus, and the Resurrection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they didnt want a Resurrection, simply because they did not
                 desire the idea of living this life over again; this shows they
                 totally misunderstood what Paul said)
@@ -577,7 +577,7 @@ export default function Acts17() {
           unto Areopagus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Mars Hill which faces the Acropolis; this was the
                 Supreme Court of Athens)
               </span>
@@ -600,7 +600,7 @@ export default function Acts17() {
           to our ears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (its strange that those who brought Paul to this place labeled
                 what he said as mere babblings, but yet think it important
                 enough to be taken to the highest Court in Athens)
@@ -610,7 +610,7 @@ export default function Acts17() {
           : we would know therefore what these things mean{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a noble request to Paul, and an unparalleled
                 opportunity)
               </span>
@@ -626,7 +626,7 @@ export default function Acts17() {
           or to hear some new thing.){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With the great Philosophers now dead, Athens was attempting to
                 live off the glory of former times.)
               </span>
@@ -649,7 +649,7 @@ export default function Acts17() {
           men of Athens, I perceive that in all things you are too superstitious{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this one sentence, he debunks all of their philosophies;
                 they are guided by superstition, which is no way to live)
               </span>
@@ -664,7 +664,7 @@ export default function Acts17() {
           devotions{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to their objects of worship)
               </span>
             </span>
@@ -672,7 +672,7 @@ export default function Acts17() {
           , I found an Altar with this inscription, TO THE UNKNOWN GOD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by addressing the situation in this way, he could not be
                 accused of preaching a foreign god to them)
               </span>
@@ -681,7 +681,7 @@ export default function Acts17() {
           . Whom therefore you ignorantly worship, Him declare I unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to them acknowledging that maybe they did not have the
                 last word on gods! actually, they did not have any word at all)
               </span>
@@ -696,13 +696,13 @@ export default function Acts17() {
           things therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents God as the Creator)</span>
+              <span className="explanation">(presents God as the Creator)</span>
             </span>
           </span>
           , seeing that he is Lord of Heaven and Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Him not only as Creator, but the constant Manager of
                 all that He has created as well)
               </span>
@@ -711,7 +711,7 @@ export default function Acts17() {
           , dwells not in Temples made with hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He is bigger than that!)</span>
+              <span className="explanation">(He is bigger than that!)</span>
             </span>
           </span>
           ;
@@ -723,7 +723,7 @@ export default function Acts17() {
           hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Second Commandment forbids the making of any graven image
                 of God, or the worship of any type of statue, etc.)
               </span>
@@ -732,13 +732,13 @@ export default function Acts17() {
           , as though He needed any thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God needs nothing!)</span>
+              <span className="explanation">(God needs nothing!)</span>
             </span>
           </span>
           , seeing He gives to all life, and breath, and all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents His Creation needing what He provides, which is
                 provided by no other source)
               </span>
@@ -753,7 +753,7 @@ export default function Acts17() {
           nations of men for to dwell on all the face of the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims all having their origin in Adam)
               </span>
             </span>
@@ -762,7 +762,7 @@ export default function Acts17() {
           their habitation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to particular parts of the world, and those who occupy
                 these areas; however, the statement, one blood all nations of
                 men, eliminates any type of racial superiority)
@@ -777,7 +777,7 @@ export default function Acts17() {
           <sup className="calibre7">27</sup>That they should seek the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the chief end of all Gods dealings with men [
                 <ScrollLink href="/peter1-2" scrollToId="#filepos14702003">
                   <span className="calibre_19">
@@ -817,7 +817,7 @@ export default function Acts17() {
           , if haply they might feel after Him, and find Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is appealing to the action of logic and common sense in
                 trying to address these Pagans)
               </span>
@@ -826,7 +826,7 @@ export default function Acts17() {
           , though He be not far from every one of us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Creator being very close to His Creation)
               </span>
             </span>
@@ -840,7 +840,7 @@ export default function Acts17() {
           have our being{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims God as the source of all life [
                 <ScrollLink href="/hebrews-01" scrollToId="#filepos14418043">
                   <span className="calibre_19">
@@ -857,7 +857,7 @@ export default function Acts17() {
           offspring{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a direct quote from Aratus of Tarsus, Pauls own
                 country)
               </span>
@@ -872,7 +872,7 @@ export default function Acts17() {
           offspring of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is offered by Paul in the sense of Creation; it does not mean
                 the Fatherhood of God, and the Brotherhood of Man, as many
                 contend)
@@ -883,7 +883,7 @@ export default function Acts17() {
           or stone, graven by art and mans device{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is saying that God is not a device of man, as all the
                 Greek gods in fact were)
               </span>
@@ -898,7 +898,7 @@ export default function Acts17() {
           winked at{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not reflect that such ignorance was Salvation, for it was
                 not! before the Cross, there was very little Light in the world,
                 so God withheld Judgment)
@@ -908,7 +908,7 @@ export default function Acts17() {
           ; but now commands all men every where to repent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but since the Cross, the Way is open to all; its up to us
                 Believers to make that Way known to all men)
               </span>
@@ -922,7 +922,7 @@ export default function Acts17() {
           <sup className="calibre7">31</sup>Because He has appointed a day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the coming of the Great White Throne Judgment [
                 <ScrollLink href="/revelation-20" scrollToId="#filepos15129672">
                   <span className="calibre_19">
@@ -944,7 +944,7 @@ export default function Acts17() {
           Man Whom He has ordained{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Righteousness is exclusively in Christ Jesus and what He
                 has done for us at the Cross, and can be gained only by Faith in
                 Him [
@@ -990,7 +990,7 @@ export default function Acts17() {
           in that He has raised Him from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Resurrection ratifying that which was done at
                 Calvary, and is applicable to all men, at least all who will
                 believe!)
@@ -1006,7 +1006,7 @@ export default function Acts17() {
           Resurrection of the Dead, some mocked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the mocking was caused by sheer unbelief)
               </span>
             </span>
@@ -1027,7 +1027,7 @@ export default function Acts17() {
           <sup className="calibre7">33</sup>So Paul departed from among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they ascertained that he had broken none of their laws, so he
                 was free to go, which he did!)
               </span>
@@ -1042,7 +1042,7 @@ export default function Acts17() {
           and believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these believed wholeheartedly, recognizing in Paul the true
                 Words of Life)
               </span>
@@ -1057,7 +1057,7 @@ export default function Acts17() {
           Dionysius the Areopagite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was a member of the Great Court of Athens; tradition says
                 that he became the Pastor of the Church in Athens)
               </span>
@@ -1066,7 +1066,7 @@ export default function Acts17() {
           , and a woman named Damaris{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a person of prominence)</span>
+              <span className="explanation">(a person of prominence)</span>
             </span>
           </span>
           , and others with them.

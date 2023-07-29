@@ -20,7 +20,7 @@ export default function Exodus17() {
           Rephidim: and there was no water for the people to drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It might seem strange that God, Who professed to love Israel,
                 should lead them into a desert, both foodless and waterless. But
                 love led them there that they might learn the desperate unbelief
@@ -38,7 +38,7 @@ export default function Exodus17() {
           them, Why chide you with me? wherefore do you tempt the Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Only in a desert could God reveal what He can be to those who
                 trust Him; for only there was Israel dependent upon Him for
                 everything. Without God nothing; with God everything. When we
@@ -58,7 +58,7 @@ export default function Exodus17() {
           children and our cattle with thirst?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (First of all, they tempted the Lord, which is a want of Faith,
                 and now they murmur, which proved to be one of their greatest
                 sins, because murmuring always exhibits unbelief.)
@@ -73,7 +73,7 @@ export default function Exodus17() {
           What shall I do unto this people? they be almost ready to stone me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One of the most prominent traits of the character of Moses is
                 that, at the occurrence of a difficulty, he always carried it
                 straight to God [
@@ -161,7 +161,7 @@ export default function Exodus17() {
           the sight of the Elders of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is one of the most beautiful Types found in the entirety
                 of Scripture. The Rock was a Type of Christ [
                 <ScrollLink
@@ -221,20 +221,20 @@ export default function Exodus17() {
           Massah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(contention)</span>
+              <span className="explanation">(contention)</span>
             </span>
           </span>
           , and Meribah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(strife)</span>
+              <span className="explanation">(strife)</span>
             </span>
           </span>
           , because of the chiding of the Children of Israel, and because they
           tempted the LORD, saying, Is the LORD among us, or not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that the smitten Rock, which gushed
                 forth with a river of water, was not brought about because of
                 the Righteousness and Holiness of the people, but strictly
@@ -263,7 +263,7 @@ export default function Exodus17() {
           Israel in Rephidim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reception of the Holy Spirit, of which the water was a
                 Type, immediately causes war. Its the war between the flesh and
                 the Holy Spirit [
@@ -287,7 +287,7 @@ export default function Exodus17() {
           top of the hill with the Rod of God in my hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Up to this point God had fought for them. Then, Israel was to
                 stand still and see His Salvation [
                 <ScrollLink href="/exodus-14" scrollToId="#filepos878028">
@@ -314,7 +314,7 @@ export default function Exodus17() {
           top of the hill.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Amalek pictures the old carnal nature. He was the grandson of
                 Esau, who before and after birth tried to murder Jacob, and who
                 preferred the mess of pottage to the birthright. This carnal
@@ -341,7 +341,7 @@ export default function Exodus17() {
           Amalek prevailed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hands upheld signified total dependence on the Lord. When
                 the Believer is totally depending on the Lord, and what He did
                 for us at the Cross, the victory of Christ belongs to us;
@@ -359,7 +359,7 @@ export default function Exodus17() {
           other side; and his hands were steady until the going down of the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Stone, as well, is symbolic of Christ. Moses exhaustion
                 portrays the fact that our own efforts soon result in spiritual
                 burn-out. But once we are in Gods glorious way [sitting on the
@@ -380,7 +380,7 @@ export default function Exodus17() {
           his people with the edge of the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sword here is a Type of the Word of God [
                 <ScrollLink href="/ephesians-6" scrollToId="#filepos14075012">
                   <span className="calibre_19">
@@ -410,7 +410,7 @@ export default function Exodus17() {
           this for a memorial in the Book{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse presents the birth of the Bible as a written Book;
                 the command was Write this in the Book, not in a book)
               </span>
@@ -420,7 +420,7 @@ export default function Exodus17() {
           the remembrance of Amalek from under Heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is remarkable that the first mention of the Bible should be
                 in connection with the hostility of the natural man [Amalek] to
                 the spiritual man [Israel].)
@@ -435,7 +435,7 @@ export default function Exodus17() {
           the name of it Jehovah-nissi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord my Banner; the Altar, of course, is a Type of Calvary;
                 Christ is our Banner only through the Cross)
               </span>
@@ -451,7 +451,7 @@ export default function Exodus17() {
           generation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Amalek was to dwell in the land, but not to reign in it.{" "}
                 <ScrollLink href="/romans-06" scrollToId="#filepos13353573">
                   <span className="calibre_19">

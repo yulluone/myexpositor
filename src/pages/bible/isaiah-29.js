@@ -16,7 +16,7 @@ export default function Isaiah29() {
           where David dwelt! add you year to year; let them kill sacrifices.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Ariel means the Lion of God, which is another name for
                 Jerusalem.
               </span>
@@ -44,7 +44,7 @@ export default function Isaiah29() {
           shall be heaviness and sorrow: and it shall be unto me as Ariel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Two things are said here: 1. The religious activity, for all
                 the obvious reasons, would not stop Gods Hand of Judgment and 2.
                 Despite what will happen, Jerusalem will ultimately be the Lion
@@ -61,7 +61,7 @@ export default function Isaiah29() {
           forts against you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These things did not happen when Sennacherib invaded Judah and
                 threatened Jerusalem. So, the coming Tribulation will see its
                 total fulfillment.)
@@ -78,7 +78,7 @@ export default function Isaiah29() {
           out of the ground, and your speech shall whisper out of the dust.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage has to do with the Antichrist breaking his
                 seven-year covenant with Israel at the midpoint and actually
                 invading the land.
@@ -119,7 +119,7 @@ export default function Isaiah29() {
           instant suddenly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The strangers speak of the hordes who are with the Antichrist
                 when he comes into Israel at the end of the seven-year period,
                 determined to completely destroy the holy people.
@@ -149,7 +149,7 @@ export default function Isaiah29() {
           and tempest, and the flame of devouring fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will no doubt be the greatest phenomenon the world has
                 ever known. At times in the past, the Lord has used the
                 elements; however, He will use them here as never before [
@@ -176,7 +176,7 @@ export default function Isaiah29() {
           munition, and who distress her, shall be as a dream of a night vision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both{" "}
                 <ScrollLink href="/" scrollToId="#filepos7575754">
                   <span className="calibre_19">
@@ -222,7 +222,7 @@ export default function Isaiah29() {
           the multitude of all the nations be, that fight against Mount Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is, the Antichrist will feel certain that he is going
                 to take Jerusalem and destroy every Jew down to the last man.
               </span>
@@ -254,7 +254,7 @@ export default function Isaiah29() {
           not with strong drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse should read: Be ye amazed and you shall be amazed!
                 Blind yourselves and you shall become blind! that is, a judicial
                 blindness would descend upon them, and they would be amazed at
@@ -286,7 +286,7 @@ export default function Isaiah29() {
           your rulers, the seers has He covered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The deep sleep spoken of here refers to a spiritual deadness
                 and impassiveness an inability to appreciate or even to
                 understand spiritual warnings.)
@@ -303,7 +303,7 @@ export default function Isaiah29() {
           for it is sealed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were learned men; in other words, they were knowledgeable
                 in the Word of God; these were the spiritual leaders of Israel,
                 and yet they were totally without spiritual understanding; they
@@ -322,7 +322,7 @@ export default function Isaiah29() {
           learned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The thrust of this Message has little to do with academic
                 excellence. Isaiah is speaking of the spiritual deadness of the
                 people, irrespective of their ability to read or write.)
@@ -339,7 +339,7 @@ export default function Isaiah29() {
           toward Me is taught by the precept of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage was quoted by Christ [
                 <ScrollLink href="/matthew-15" scrollToId="#filepos11074102">
                   <span className="calibre_19">
@@ -366,7 +366,7 @@ export default function Isaiah29() {
           understanding of their prudent men shall be hid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the Passage is that despite the unbelief of men,
                 Gods Work would nevertheless be carried out. While it is true
                 that the unbelief would cause millions to die eternally lost,
@@ -384,7 +384,7 @@ export default function Isaiah29() {
           say, Who sees us? and who knows us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In particular, this Passage applies to the secret negotiations
                 between the rulers in Jerusalem and the king of Egypt. They
                 conducted themselves as if the Lord did not know their actions.)
@@ -401,7 +401,7 @@ export default function Isaiah29() {
           who framed it, He had no understanding?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These people were so perverse and wrong-headed that they
                 inverted the relation in which they stood to God and God to
                 them. In their thinking, God was to be passive, or merely given
@@ -438,7 +438,7 @@ export default function Isaiah29() {
           field shall be esteemed as a forest?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Isaiah leaps ahead, leaving behind the
                 unbelief, the doubting, and the spiritual obstinacy of Judah.
                 The time that He now speaks of is the coming Kingdom Age, which
@@ -455,7 +455,7 @@ export default function Isaiah29() {
           obscurity, and out of darkness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, at least as far as total fulfillment is
                 concerned, refer to the coming Millennial Reign.)
               </span>
@@ -470,7 +470,7 @@ export default function Isaiah29() {
           of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Holy Spirit is saying that even though the men
                 of Judah would not hear the Holy One of Israel, nevertheless,
                 the meek and the poor among men, referring to the Gentiles,
@@ -499,7 +499,7 @@ export default function Isaiah29() {
           are cut off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the Battle of Armageddon, when the Antichrist
                 will be killed, with all the scorners at that time set straight;
                 this, of course, will take place at the Second Coming)
@@ -516,7 +516,7 @@ export default function Isaiah29() {
           the just for a thing of nought.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the spirit of self-righteousness, which prevailed upon
                 the First Advent of Christ. The Pharisees laid many snares for
                 Christ; still, they never caught Him. As well, Christ was the
@@ -535,7 +535,7 @@ export default function Isaiah29() {
           be ashamed, neither shall his face now wax pale.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the coming Kingdom Age, Israel will finally conduct herself
                 as she should, because of her acceptance of Christ. This means
                 that Jacob will no longer be ashamed.)
@@ -551,7 +551,7 @@ export default function Isaiah29() {
           and sanctify the Holy One of Jacob, and shall fear the God of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will take place during the coming Kingdom Age, when Israel
                 will accept the Christ Whom they so long rejected. At that time,
                 they will sanctify the Holy One of Jacob [
@@ -574,7 +574,7 @@ export default function Isaiah29() {
           come to understanding, and they who murmured shall learn doctrine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The murmuring speaks of doubt and unbelief. The phrase, shall
                 learn doctrine, means that they will willingly receive the
                 teaching of Gods Prophets and profit by it.)

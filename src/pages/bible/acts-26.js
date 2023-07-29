@@ -35,7 +35,7 @@ export default function Acts26() {
           you to be expert in all customs and questions which are among the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was not offered as flattery; in fact, Agrippas Father,
                 King Agrippa I, was zealous for the Jewish Law up to almost the
                 end of his life)
@@ -52,7 +52,7 @@ export default function Acts26() {
           the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns Paul being immersed in Jewish Ritual and Law from the
                 time he was old enough to begin his advanced studies, which was
                 probably about twelve years of age)
@@ -67,7 +67,7 @@ export default function Acts26() {
           <sup className="calibre7">5</sup>Which knew me from the beginning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means simply that what he is saying can be easily proven)
               </span>
             </span>
@@ -76,7 +76,7 @@ export default function Acts26() {
           religion I lived a Pharisee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to this group being the most strict in Doctrines and
                 moral practices)
               </span>
@@ -91,7 +91,7 @@ export default function Acts26() {
           hope of the promise made of God unto our Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this hope was the Messiah, the Lord Jesus Christ Whom the Jews
                 rejected)
               </span>
@@ -112,7 +112,7 @@ export default function Acts26() {
           For which hopes sake, king Agrippa, I am accused of the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many of the Jews were looking forward to the fulfillment of the
                 Prophecies regarding the coming Messiah; the great dissension
                 was over Jesus)
@@ -128,7 +128,7 @@ export default function Acts26() {
           incredible with you, that God should raise the dead?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels history was one of Miracles, so the dead being raised,
                 as extraordinary as it is, should not come as a surprise.)
               </span>
@@ -142,7 +142,7 @@ export default function Acts26() {
           ought to do many things contrary to the Name of Jesus of Nazareth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul taking himself back to his dreadful time of
                 unbelief)
               </span>
@@ -178,7 +178,7 @@ export default function Acts26() {
           to blaspheme{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, and attempted to compel them to
                 blaspheme, because the Greek Text implies that he was not
                 successful in this effort)
@@ -194,7 +194,7 @@ export default function Acts26() {
           even unto strange cities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that Damascus was not the only city, other than
                 Jerusalem, where Paul was practicing his deadly wares)
               </span>
@@ -209,7 +209,7 @@ export default function Acts26() {
           authority and commission from the Chief Priests{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (intending to continue his persecution in that city)
               </span>
             </span>
@@ -226,7 +226,7 @@ export default function Acts26() {
           a Light from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims one of, if not, the most dramatic conversions the
                 world has ever known)
               </span>
@@ -236,7 +236,7 @@ export default function Acts26() {
           which journeyed with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Glory of Jesus Christ)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Acts26() {
           earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Power of God was so strong that Paul and all his associates
                 with him fell to the ground),
               </span>
@@ -259,7 +259,7 @@ export default function Acts26() {
           I heard a Voice speaking unto me, and saying in the Hebrew tongue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually speaks of all hearing the Voice, but only Paul knowing
                 what was said [
                 <ScrollLink href="/acts-09" scrollToId="#filepos12918476">
@@ -276,13 +276,13 @@ export default function Acts26() {
           , Saul, Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his Hebrew name)</span>
+              <span className="explanation">(his Hebrew name)</span>
             </span>
           </span>
           , why do you persecute Me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that when we persecute those who belong
                 to the Lord we, in fact, persecute the Lord.) it is
               </span>
@@ -291,7 +291,7 @@ export default function Acts26() {
           hard for you to kick against the pricks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a common idiom of that day and even now; in other
                 words, you will only succeed in hurting yourself; you will not
                 stop the Plan of God)
@@ -306,7 +306,7 @@ export default function Acts26() {
           <sup className="calibre7">15</sup>And I said, Who are you, Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that Paul knew he was speaking to
                 Deity.)
               </span>
@@ -315,7 +315,7 @@ export default function Acts26() {
           And He said, I am Jesus Whom you persecute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Lord using the Name Paul hated the most Jesus)
               </span>
             </span>
@@ -328,7 +328,7 @@ export default function Acts26() {
           <sup className="calibre7">16</sup>But rise, and stand upon your feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (very similar to what the Lord had said to Job many years before
                 [
                 <ScrollLink href="/job-38" scrollToId="#filepos5618009">
@@ -345,7 +345,7 @@ export default function Acts26() {
           : for I have appeared unto you for this purpose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (specifies that the Lord has a very important work for Paul to
                 do)
               </span>
@@ -355,7 +355,7 @@ export default function Acts26() {
           have seen, and of those things in the which I will appear unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, it would be to Paul that the Lord would give the
                 meaning of the New Covenant, which, in effect, was the meaning
                 of the Cross [
@@ -381,7 +381,7 @@ export default function Acts26() {
           <sup className="calibre7">17</sup>Delivering you from the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Jews)</span>
+              <span className="explanation">(refers to the Jews)</span>
             </span>
           </span>
           , and{" "}
@@ -393,7 +393,7 @@ export default function Acts26() {
           the Gentiles, unto whom now I send you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord would not allow the death of the Apostle until he had
                 finished his Mission; his primary Mission was to take the Gospel
                 to the Gentiles, which he did)
@@ -428,7 +428,7 @@ export default function Acts26() {
           in Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle pointed out that man is blind, enslaved, impure,
                 immoral, poverty-stricken, and unholy, but he can receive sight,
                 liberty, forgiveness, true wealth and holiness upon the
@@ -449,7 +449,7 @@ export default function Acts26() {
           disobedient unto the Heavenly Vision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul had faithfully carried out that which the Lord had called
                 him to do)
               </span>
@@ -464,7 +464,7 @@ export default function Acts26() {
           Damascus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he preached Christ in Damascus immediately after being saved)
               </span>
             </span>
@@ -472,7 +472,7 @@ export default function Acts26() {
           , and at Jerusalem, and throughout all the coasts of Judaea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to Paul going to Jerusalem immediately after Damascus,
                 and then later to other areas of Judaea)
               </span>
@@ -487,7 +487,7 @@ export default function Acts26() {
           to the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the far greater majority of his Ministry, even up to
                 this particular time)
               </span>
@@ -497,7 +497,7 @@ export default function Acts26() {
           repentance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (turn from the heathen idols to God)
               </span>
             </span>
@@ -526,7 +526,7 @@ export default function Acts26() {
           God, I continue unto this day, witnessing both to small and great{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that God has sustained him through some very
                 difficult times)
               </span>
@@ -536,7 +536,7 @@ export default function Acts26() {
           say should come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul claims total Scripturality for his Message, which it
                 certainly was)
               </span>
@@ -550,13 +550,13 @@ export default function Acts26() {
           <sup className="calibre7">23</sup>That Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Messiah)</span>
+              <span className="explanation">(the Messiah)</span>
             </span>
           </span>{" "}
           should suffer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he would die; in other words that was the reason He
                 came [Isa., Chpt.{" "}
                 <ScrollLink href="/isaiah-53" scrollToId="#filepos7909290">
@@ -579,7 +579,7 @@ export default function Acts26() {
           that he should be the first who should rise from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus is the Firstfruits of the Resurrection and, therefore,
                 the guarantee of the Resurrection of all Believers [
                 <ScrollLink
@@ -607,7 +607,7 @@ export default function Acts26() {
           , and should show light unto the people, and to the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Lord Jesus Christ as being the only Light, and
                 for all people)
               </span>
@@ -626,7 +626,7 @@ export default function Acts26() {
           learning does make you mad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as a heathen, Festus could not understand as Agrippa could the
                 great argument that the Atoning Death and Resurrection of the
                 Messiah fulfilled the predictions of the Prophets, and were
@@ -642,13 +642,13 @@ export default function Acts26() {
           <sup className="calibre7">25</sup>But he said, I am not mad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(insane)</span>
+              <span className="explanation">(insane)</span>
             </span>
           </span>
           , most noble Festus; but speak forth the Words of Truth and soberness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the only Truth the Governor and others present had
                 ever heard)
               </span>
@@ -662,7 +662,7 @@ export default function Acts26() {
           <sup className="calibre7">26</sup>For the King{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Agrippa)</span>
+              <span className="explanation">(Agrippa)</span>
             </span>
           </span>{" "}
           knows of these things, before whom also I speak freely: for I am
@@ -670,7 +670,7 @@ export default function Acts26() {
           thing was not done in a corner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (King Agrippa most certainly knew of Jesus; it would have been
                 impossible for him not to have known)
               </span>
@@ -688,7 +688,7 @@ export default function Acts26() {
           Prophets?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents an Altar Call being given to this King and his
                 Sister, which drilled straight to the heart of this profligate
                 Jew.)
@@ -698,7 +698,7 @@ export default function Acts26() {
           I know that you believe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle answering for the King, which saved him
                 from embarrassment)
               </span>
@@ -713,7 +713,7 @@ export default function Acts26() {
           thou persuadest me to be a Christian{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek Text does not give any more indication of what the
                 King actually said; it is not known if he was really moved and
                 then said sincerely, you almost persuade me to be a Christian!
@@ -731,7 +731,7 @@ export default function Acts26() {
           altogether such as I am{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle, through and by the Gospel of Jesus Christ,
                 proclaims the position of the Believer in Christ as being above
                 any other office or position in the world)
@@ -741,7 +741,7 @@ export default function Acts26() {
           , except these bonds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this must have been a dramatic moment when, coupled with the
                 majesty of his words, Paul lifts up his manacled hands forming a
                 picture of arresting grandeur)
@@ -758,7 +758,7 @@ export default function Acts26() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did not want to hear anymore, so they rose and thus closed
                 the audience, and their opportunity for Eternal Life)
               </span>
@@ -774,7 +774,7 @@ export default function Acts26() {
           death or of bonds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had been brought face-to-face with themselves, and above
                 all with God; as such, they would never be the same again, even
                 though they had rejected the appeal and the plea)
@@ -790,7 +790,7 @@ export default function Acts26() {
           man might have been set at liberty, if he had not appealed unto Caesar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that the appeal had already been registered, and now
                 must be carried out; behind it all, the Lord wanted the Apostle
                 to go to Rome)

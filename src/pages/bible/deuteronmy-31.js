@@ -22,7 +22,7 @@ export default function Deuteronmy31() {
           hundred and twenty years old this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this day, whatever it might have been, was his birthday)
               </span>
             </span>
@@ -30,7 +30,7 @@ export default function Deuteronmy31() {
           ; I can no more go out and come in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not because of a lack of physical strength, but because his
                 Ministry was now finished)
               </span>
@@ -39,7 +39,7 @@ export default function Deuteronmy31() {
           : also the LORD has said unto me, You shall not go over this Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was a type of the Law, and the Law can never possess the
                 land, because of the feebleness of mans moral nature, all
                 brought about by the Fall; only Grace can inherit the Promise [
@@ -65,7 +65,7 @@ export default function Deuteronmy31() {
           LORD has said.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joshua was chosen by the Lord to lead Israel into the Promised
                 Land. He is a Type of Christ. Actually, the Jewish name of Jesus
                 was Joshua. It means Saviour. Jesus has done for us what we
@@ -92,7 +92,7 @@ export default function Deuteronmy31() {
           them, whom He destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while Israel was the instrument, it was the Lord Who actually
                 destroyed these enemies, as He Alone can do such!)
               </span>
@@ -108,7 +108,7 @@ export default function Deuteronmy31() {
           Commandments which I have commanded you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with the Lord, Israel could not be defeated)
               </span>
             </span>
@@ -123,7 +123,7 @@ export default function Deuteronmy31() {
           go with you; He will not fail you, nor forsake you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What a Promise! And to be sure, this Promise holds true even
                 unto this moment, and even greater [
                 <ScrollLink href="/hebrews-08" scrollToId="#filepos14505595">
@@ -152,7 +152,7 @@ export default function Deuteronmy31() {
           inherit it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our Heavenly Joshua Alone has already done for us everything
                 that is needed; for us to possess the Heavenly Promise, we must
                 but place our Faith exclusively in Christ and the Cross; the
@@ -187,7 +187,7 @@ export default function Deuteronmy31() {
           you: fear not, neither be dismayed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (let the Reader understand that this Promise given to Israel so
                 long ago is just as valid now, and even more so, because of
                 Christ and what He has done for us at the Cross [
@@ -229,7 +229,7 @@ export default function Deuteronmy31() {
           read this Law before all Israel in their hearing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of the Law was to be read every seven years, and
                 all of Israel was required to hear it)
               </span>
@@ -246,7 +246,7 @@ export default function Deuteronmy31() {
           and observe to do all the words of this Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (none were to be excluded, all were to be included)
               </span>
             </span>
@@ -261,7 +261,7 @@ export default function Deuteronmy31() {
           long as you live in the land where you go over Jordan to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (future generations were commanded by the Lord to know the Law,
                 exactly as these here this day)
               </span>
@@ -282,7 +282,7 @@ export default function Deuteronmy31() {
           Tabernacle of the congregation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses and Joshua were instructed by the Lord to go into the
                 Sanctuary)
               </span>
@@ -298,7 +298,7 @@ export default function Deuteronmy31() {
           over the door of the Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Presence of the Lord)</span>
+              <span className="explanation">(the Presence of the Lord)</span>
             </span>
           </span>
         </span>
@@ -311,14 +311,14 @@ export default function Deuteronmy31() {
           up, and go a whoring after the gods of the strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           of the land, where they go to be among them, and will forsake Me, and
           break My Covenant which I have made with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord predicts that Israel will fail, which they did!)
               </span>
             </span>
@@ -335,7 +335,7 @@ export default function Deuteronmy31() {
           these evils come upon us, because our God is not among us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was not very pleasant for Moses to hear, but it was the
                 truth.)
               </span>
@@ -350,7 +350,7 @@ export default function Deuteronmy31() {
           are turned unto other gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (idolatry was the basic cause of the downfall of Israel, at
                 least when the Lord allowed them to be taken over by the
                 Babylonians, which would be approximately 800-plus years into
@@ -368,7 +368,7 @@ export default function Deuteronmy31() {
           this song may be a witness for Me against the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the song which follows in the next Chapter; this
                 shows the value that the Holy Spirit places on songs which
                 glorify the Lord)
@@ -387,7 +387,7 @@ export default function Deuteronmy31() {
           Me, and break My Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prosperity oftentimes causes people to forsake the Lord)
               </span>
             </span>
@@ -405,7 +405,7 @@ export default function Deuteronmy31() {
           swore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were this a history of human imagination, the inventor would
                 never dream of closing the service of one great Chieftain, and
                 beginning the exploits of another, in such a cloud of gloom and
@@ -456,7 +456,7 @@ export default function Deuteronmy31() {
           it may be there for a witness against you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there was to be no excuse!)</span>
+              <span className="explanation">(there was to be no excuse!)</span>
             </span>
           </span>
         </span>
@@ -483,7 +483,7 @@ export default function Deuteronmy31() {
           have commanded you; and evil will befall you in the latter days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has double meaning: the destruction of Israel in A.D. 70, and
                 the acceptance of the Antichrist by Israel, which is yet future,
                 which will bring about the Great Tribulation [

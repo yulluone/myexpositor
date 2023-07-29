@@ -18,7 +18,7 @@ export default function Deuteronmy20() {
           brought you up out of the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord promised to be with Israel in time of war, that is, if
                 the cause of Israel was right.
               </span>
@@ -112,7 +112,7 @@ export default function Deuteronmy20() {
           the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the Priest being used instead of a military commander, this
                 shows that the battle was more spiritual than anything else;
                 with the Child of God, in one way or the other, everything is
@@ -136,7 +136,7 @@ export default function Deuteronmy20() {
           <sup className="calibre7">4</sup>For the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as by now is obvious, the phrase, LORD your God, so often used,
                 refers to Covenant)
               </span>
@@ -146,7 +146,7 @@ export default function Deuteronmy20() {
           save you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with the Lord, Israel was invincible! Without the Lord, Israel
                 was easily defeated; it is the same presently in our own
                 personal hearts and lives)
@@ -181,7 +181,7 @@ export default function Deuteronmy20() {
           his house, lest he die in the battle, and another man take her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to Josephus, this exemption was for a year)
               </span>
             </span>
@@ -197,7 +197,7 @@ export default function Deuteronmy20() {
           brethrens heart faint as well as his heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Fear and doubt are contagious; so the Holy Spirit says, Those
                 who are plagued with such, get them out of the army. He is
                 saying the same thing presently. More than anything else, the
@@ -214,7 +214,7 @@ export default function Deuteronmy20() {
           Captains of the armies to lead the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, these individuals were to be chosen more for their
                 Faith in the Lord, and we do not mean reckless presumption, than
                 for their military expertise)
@@ -233,7 +233,7 @@ export default function Deuteronmy20() {
           fight against it, then proclaim peace unto it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (invite it peaceably to surrender)
               </span>
             </span>
@@ -249,7 +249,7 @@ export default function Deuteronmy20() {
           shall serve you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (service rendered as tribute, whether for a season or in
                 perpetuity)
               </span>
@@ -286,7 +286,7 @@ export default function Deuteronmy20() {
           these nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The information given in these Passages has to do with foreign
                 cities, and not the heathenistic tribes which occupied the land
                 of Canaan. At times, invaders from afar would come against
@@ -308,7 +308,7 @@ export default function Deuteronmy20() {
           which the LORD your God does give you for an inheritance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who were occupying the land of Canaan)
               </span>
             </span>
@@ -324,7 +324,7 @@ export default function Deuteronmy20() {
           commanded you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to these particular people, no offer of peaceful submission was
                 to be made, and when the city was taken, all the inhabitants
                 without reserve were to be destroyed. Why? The next Verse tells
@@ -342,7 +342,7 @@ export default function Deuteronmy20() {
           should you sin against the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the abominations of these heathen tribes, who served all
                 types of gods, were taken up by the Israelites, they would lose
                 their way and be destroyed exactly as the heathen; and thats
@@ -362,7 +362,7 @@ export default function Deuteronmy20() {
           life) to employ them in the siege{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fruit bearing trees)</span>
+              <span className="explanation">(fruit bearing trees)</span>
             </span>
           </span>
           :

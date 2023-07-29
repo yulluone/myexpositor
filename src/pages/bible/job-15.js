@@ -186,7 +186,7 @@ export default function Job15() {
           <sup className="calibre7">15</sup>Behold, He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           puts no trust in His Saints; ye s, the heavens are not clean in His
@@ -300,7 +300,7 @@ export default function Job15() {
           prosperity the destroyer shall come upon him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is directed toward Job)</span>
+              <span className="explanation">(this is directed toward Job)</span>
             </span>
           </span>
           .

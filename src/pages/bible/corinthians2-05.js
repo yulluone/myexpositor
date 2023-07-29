@@ -22,7 +22,7 @@ export default function Corinthians205() {
           Tabernacle were dissolved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our physical body, which is not permanent)
               </span>
             </span>
@@ -30,7 +30,7 @@ export default function Corinthians205() {
           , we have a building of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Glorified Body, which all Saints will gain at the
                 Resurrection)
               </span>
@@ -39,7 +39,7 @@ export default function Corinthians205() {
           , an house not made with hands, eternal in the Heavens.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Glorified Body is Created by God, and will last and live
                 forever.)
               </span>
@@ -52,13 +52,13 @@ export default function Corinthians205() {
           <sup className="calibre7">2</sup>For in this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this present physical body)</span>
+              <span className="explanation">(this present physical body)</span>
             </span>
           </span>{" "}
           we groan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not complaining, but rather seeing by Faith that which is to
                 come and, thereby, longing for it to arrive)
               </span>
@@ -68,7 +68,7 @@ export default function Corinthians205() {
           Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the coming Resurrection, when the corruptible shall
                 put on incorruption and the mortal will put on immortality)
               </span>
@@ -83,7 +83,7 @@ export default function Corinthians205() {
           not be found naked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will not be destitute of covering, but will be clothed with
                 light [
                 <ScrollLink
@@ -114,7 +114,7 @@ export default function Corinthians205() {
           Tabernacle do groan, being burdened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not for death, for death is an enemy, but rather for the coming
                 Resurrection)
               </span>
@@ -123,7 +123,7 @@ export default function Corinthians205() {
           : not for that we would be unclothed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we do not desire to die, nor are we unwilling to bear these
                 burdens as long as God shall appoint)
               </span>
@@ -132,7 +132,7 @@ export default function Corinthians205() {
           , but clothed upon, that mortality might be swallowed up of life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to putting on immortality [
                 <ScrollLink
                   href="/corinthians1-15"
@@ -162,7 +162,7 @@ export default function Corinthians205() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is preparing us for Resurrection)
               </span>
             </span>
@@ -170,7 +170,7 @@ export default function Corinthians205() {
           , Who also has given unto us the earnest of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a down payment with the totality coming shortly)
               </span>
             </span>
@@ -189,13 +189,13 @@ export default function Corinthians205() {
           always confident{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims a guarantee)</span>
+              <span className="explanation">(proclaims a guarantee)</span>
             </span>
           </span>
           , knowing that, while we are at home in the body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (makes an important distinction between the person and his
                 physical body)
               </span>
@@ -204,7 +204,7 @@ export default function Corinthians205() {
           , we are absent from the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but will be with Him forever at the Resurrection)
               </span>
             </span>
@@ -217,7 +217,7 @@ export default function Corinthians205() {
           <sup className="calibre7">7</sup>(For we walk by Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to the fact that life is a journey, and the
                 Christian is traveling to another country)
               </span>
@@ -226,7 +226,7 @@ export default function Corinthians205() {
           , not by sight:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the things we can presently see. It is Faith
                 that controls us, not sight.)
               </span>
@@ -245,7 +245,7 @@ export default function Corinthians205() {
           and willing rather to be absent from the body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this physical body is merely a house in which the real person
                 resides)
               </span>
@@ -254,7 +254,7 @@ export default function Corinthians205() {
           , and to be present with the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Death holds no terror for the Child of God.)
               </span>
             </span>
@@ -269,25 +269,25 @@ export default function Corinthians205() {
           <sup className="calibre7">9</sup>Wherefore we labour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(are ambitious)</span>
+              <span className="explanation">(are ambitious)</span>
             </span>
           </span>
           , that, whether present{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with Christ)</span>
+              <span className="explanation">(with Christ)</span>
             </span>
           </span>{" "}
           or absent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(still in this world)</span>
+              <span className="explanation">(still in this world)</span>
             </span>
           </span>
           , we may be accepted of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (approved by Him, which we will be if our Faith is in Christ and
                 the Cross)
               </span>
@@ -302,7 +302,7 @@ export default function Corinthians205() {
           Judgment Seat of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this will take place in Heaven, and will probably transpire
                 immediately before the Second Coming)
               </span>
@@ -329,7 +329,7 @@ export default function Corinthians205() {
           good or bad.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerns our life lived for the Lord. Sins will not be
                 judged here, but rather our motivation and faithfulness, for sin
                 was judged at Calvary.)
@@ -344,7 +344,7 @@ export default function Corinthians205() {
           Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, fear)
               </span>
             </span>
@@ -352,7 +352,7 @@ export default function Corinthians205() {
           , we persuade men; but we are made manifest unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what we do, we do before Him, seeking only to have His leading,
                 guidance, direction, and approval)
               </span>
@@ -361,7 +361,7 @@ export default function Corinthians205() {
           ; and I trust also are made manifest in your consciences.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If our Message is acceptable to the Lord, it surely should be
                 acceptable to Believers.)
               </span>
@@ -375,7 +375,7 @@ export default function Corinthians205() {
           unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shouldnt have to, because they knew Paul)
               </span>
             </span>
@@ -383,7 +383,7 @@ export default function Corinthians205() {
           , but give you occasion to glory on our behalf{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to stand up for us)</span>
+              <span className="explanation">(to stand up for us)</span>
             </span>
           </span>
           , that you may have somewhat to{" "}
@@ -395,7 +395,7 @@ export default function Corinthians205() {
           them which glory in appearance, and not in heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents Paul desiring no false praise from anyone, but
                 wanting true recognition.)
               </span>
@@ -414,7 +414,7 @@ export default function Corinthians205() {
           to God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertain to the idea that his detractors were accusing him of
                 being mentally unbalanced)
               </span>
@@ -429,7 +429,7 @@ export default function Corinthians205() {
           for your cause.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to being of sound mind, and to be thought of as
                 such. Some said he was insane, and some said he was too sober.)
               </span>
@@ -445,7 +445,7 @@ export default function Corinthians205() {
           <sup className="calibre7">14</sup>For the Love of Christ constrains us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what Christ did for us at the Cross)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Corinthians205() {
           ; because we thus judge, that if one died for all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ died for the whole world, and for all time)
               </span>
             </span>
@@ -461,7 +461,7 @@ export default function Corinthians205() {
           , then were all dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are all dead in trespasses and sins)
               </span>
             </span>
@@ -480,7 +480,7 @@ export default function Corinthians205() {
           He died for all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (brings the reader back to the supreme Sacrifice paid by Christ)
               </span>
             </span>
@@ -488,19 +488,19 @@ export default function Corinthians205() {
           , that they which live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accept Christ)</span>
+              <span className="explanation">(accept Christ)</span>
             </span>
           </span>{" "}
           should not henceforth live unto themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we now belong to Christ)</span>
+              <span className="explanation">(we now belong to Christ)</span>
             </span>
           </span>
           , but unto Him which died for them, and rose again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to do His Will in our lives)</span>
+              <span className="explanation">(to do His Will in our lives)</span>
             </span>
           </span>
           .
@@ -512,7 +512,7 @@ export default function Corinthians205() {
           after the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to any and all things that characterize humanity in
                 this present world)
               </span>
@@ -528,7 +528,7 @@ export default function Corinthians205() {
           no more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are to know Him exclusively as Saviour, which was
                 accomplished by the Cross.)
               </span>
@@ -547,7 +547,7 @@ export default function Corinthians205() {
           in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saved by the Blood)</span>
+              <span className="explanation">(Saved by the Blood)</span>
             </span>
           </span>
           ,{" "}
@@ -559,13 +559,13 @@ export default function Corinthians205() {
           a new creature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a new creation)</span>
+              <span className="explanation">(a new creation)</span>
             </span>
           </span>
           : old things are passed away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what we were before Salvation)
               </span>
             </span>
@@ -573,7 +573,7 @@ export default function Corinthians205() {
           ; behold, all things are become new.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The old is no longer useable, with everything given to us now
                 by Christ as new.)
               </span>
@@ -592,13 +592,13 @@ export default function Corinthians205() {
           of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all these new things)</span>
+              <span className="explanation">(all these new things)</span>
             </span>
           </span>
           , Who has reconciled us to Himself by Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which He was able to do as a result of the Cross)
               </span>
             </span>
@@ -606,7 +606,7 @@ export default function Corinthians205() {
           , and has given to us the Ministry of Reconciliation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to announcing to men the nature and conditions of this
                 Plan of being Reconciled, which is summed up in the Preaching of
                 the Cross [
@@ -643,13 +643,13 @@ export default function Corinthians205() {
           <sup className="calibre7">19</sup>To wit, that God was in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by the agency of Christ)</span>
+              <span className="explanation">(by the agency of Christ)</span>
             </span>
           </span>
           , reconciling the world unto Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents the Atonement as the work of the Blessed Trinity and
                 the result of love, not of wrath)
               </span>
@@ -658,7 +658,7 @@ export default function Corinthians205() {
           , not imputing their trespasses unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the penalty for these trespasses was
                 imputed to Christ instead)
               </span>
@@ -667,7 +667,7 @@ export default function Corinthians205() {
           ; and has committed unto us the Word of Reconciliation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All Believers are to Preach the Cross in one way or the other [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -691,7 +691,7 @@ export default function Corinthians205() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one empowered to deliver a message for another)
               </span>
             </span>
@@ -705,7 +705,7 @@ export default function Corinthians205() {
           by us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is to be understood that our Message is to be regarded as
                 the Message of God)
               </span>
@@ -720,7 +720,7 @@ export default function Corinthians205() {
           in Christs stead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as though He were performing the task)
               </span>
             </span>
@@ -728,7 +728,7 @@ export default function Corinthians205() {
           , be ye reconciled to God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It can only be done by accepting Christ and what He did for us
                 at the Cross.)
               </span>
@@ -741,13 +741,13 @@ export default function Corinthians205() {
           <sup className="calibre7">21</sup>For He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           has made Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
             <span>
               <span className="calibre_19">to be</span>
@@ -756,7 +756,7 @@ export default function Corinthians205() {
           sin for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sin-Offering [
                 <ScrollLink href="/isaiah-53" scrollToId="#filepos7917676">
                   <span className="calibre_19">
@@ -788,7 +788,7 @@ export default function Corinthians205() {
           , Who knew no sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was not guilty; He was perfectly Holy and Pure)
               </span>
             </span>
@@ -796,7 +796,7 @@ export default function Corinthians205() {
           ; that we might be made the Righteousness of God in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (made so by accepting what He did for us at the Cross)
               </span>
             </span>

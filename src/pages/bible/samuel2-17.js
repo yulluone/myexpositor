@@ -203,7 +203,7 @@ export default function Samuel217() {
           Abiathar the Priests{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(High Priests)</span>
+              <span className="explanation">(High Priests)</span>
             </span>
           </span>
           , Thus and thus did Ahithophel counsel Absalom and the Elders of
@@ -217,7 +217,7 @@ export default function Samuel217() {
           but speedily pass over{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pass over the Jordan River)</span>
+              <span className="explanation">(pass over the Jordan River)</span>
             </span>
           </span>
           ; lest the king be swallowed up, and all the people who are with him{" "}
@@ -316,7 +316,7 @@ export default function Samuel217() {
           David, and said unto David, Arise, and pass quickly over the water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(over the Jordan River)</span>
+              <span className="explanation">(over the Jordan River)</span>
             </span>
           </span>
           : for thus has Ahithophel counseled against you{" "}
@@ -448,7 +448,7 @@ export default function Samuel217() {
           and cheese of kine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cattle)</span>
+              <span className="explanation">(cattle)</span>
             </span>
           </span>
           , for David, and for the people who were with him, to eat: for they

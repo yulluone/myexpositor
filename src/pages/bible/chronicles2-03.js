@@ -16,7 +16,7 @@ export default function Chronicles203() {
           of the LORD at Jerusalem in Mount Moriah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first mention of Mount Moriah since{" "}
                 <ScrollLink href="/genesis-22" scrollToId="#filepos286245">
                   <span className="calibre_19">
@@ -34,7 +34,7 @@ export default function Chronicles203() {
           David had prepared in the threshingfloor of Ornan the Jebusite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a place of judgment, the destroying Angel [
                 <ScrollLink href="/samuel2-24" scrollToId="#filepos3669995">
                   <span className="calibre_19">
@@ -66,13 +66,13 @@ export default function Chronicles203() {
           length by cubits after the first measure was threescore cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(90 feet long)</span>
+              <span className="explanation">(90 feet long)</span>
             </span>
           </span>
           , and the breadth twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (30 feet wide; however, this pertained only to the Temple
                 proper; many rooms were also built on each side)
               </span>
@@ -88,7 +88,7 @@ export default function Chronicles203() {
           House, twenty cubits, and the height was an hundred and twenty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the height is definitely a copyist error in one of the old
                 manuscripts; this would make the Temple 180 feet high twice as
                 high as it was long; in{" "}
@@ -116,7 +116,7 @@ export default function Chronicles203() {
           : and he overlaid it within with pure gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the gold signified the Deity of Christ, with every part of the
                 Temple, in fact, portraying Christ, in either His Atoning,
                 Mediatorial, or Intercessory Work)
@@ -133,7 +133,7 @@ export default function Chronicles203() {
           and chains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was designed by the Holy Spirit, even down to the
                 most minute detail; it must be adhered to strictly)
               </span>
@@ -148,7 +148,7 @@ export default function Chronicles203() {
           precious stones for beauty: and the gold was gold of Parvaim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the precious stones speak of the redeemed [
                 <ScrollLink href="/malachi-3" scrollToId="#filepos10822955">
                   <span className="calibre_19">
@@ -171,7 +171,7 @@ export default function Chronicles203() {
           gold; and graved Cherubims on the walls.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cherubims speak of Gods Holiness. The palm trees of{" "}
                 <ScrollLink href="/" scrollToId="#filepos4682086">
                   <span className="calibre_19">
@@ -196,7 +196,7 @@ export default function Chronicles203() {
           <sup className="calibre7">8</sup>And he made the Most Holy House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy of Holies, which contained the Ark of the Covenant)
               </span>
             </span>
@@ -205,19 +205,19 @@ export default function Chronicles203() {
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet)</span>
+              <span className="explanation">(30 feet)</span>
             </span>
           </span>
           , and the breadth thereof twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet; it was foursquare)</span>
+              <span className="explanation">(30 feet; it was foursquare)</span>
             </span>
           </span>
           : and he overlaid it with fine gold, amounting to six hundred talents{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about $300 million in 2004 currency)
               </span>
             </span>
@@ -231,7 +231,7 @@ export default function Chronicles203() {
           shekels of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about $10,000)</span>
+              <span className="explanation">(about $10,000)</span>
             </span>
           </span>
           . And he overlaid the upper chambers with gold.
@@ -242,7 +242,7 @@ export default function Chronicles203() {
           <sup className="calibre7">10</sup>And in the Most Holy House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Holy of Holies, where the Ark of the Covenant was)
               </span>
             </span>
@@ -256,13 +256,13 @@ export default function Chronicles203() {
           twenty cubits long{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet)</span>
+              <span className="explanation">(30 feet)</span>
             </span>
           </span>
           : one wing of the one cherub was five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           , reaching to the wall of the House: and the other wing was likewise
@@ -283,7 +283,7 @@ export default function Chronicles203() {
           their faces were inward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is some indication that the word inward in the Hebrew, as
                 used here, means toward the house, in other words, outward.
               </span>
@@ -311,7 +311,7 @@ export default function Chronicles203() {
           <sup className="calibre7">14</sup>And he made the Veil of blue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that Christ came from Heaven)
               </span>
             </span>
@@ -319,7 +319,7 @@ export default function Chronicles203() {
           , and purple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that Christ is the King)
               </span>
             </span>
@@ -327,7 +327,7 @@ export default function Chronicles203() {
           , and crimson{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying His shed Blood on the Cross of Calvary, which was
                 necessary in order that man be redeemed)
               </span>
@@ -336,7 +336,7 @@ export default function Chronicles203() {
           , and fine linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying His Perfect Righteousness)
               </span>
             </span>
@@ -344,7 +344,7 @@ export default function Chronicles203() {
           , and wrought Cherubims thereon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying His Holiness. The Veil of the Temple is described
                 here as being like that in the Tabernacle of Moses. It is not
                 mentioned in I Kings at all. In{" "}
@@ -377,13 +377,13 @@ export default function Chronicles203() {
           pillars of thirty and five cubits high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(52 feet high)</span>
+              <span className="explanation">(52 feet high)</span>
             </span>
           </span>
           , and the chapiter that was on the top of each of them was five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (7 feet, making a total of 60 feet)
               </span>
             </span>
@@ -396,7 +396,7 @@ export default function Chronicles203() {
           <sup className="calibre7">16</sup>And he made chains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifies our union with Christ)
               </span>
             </span>
@@ -405,7 +405,7 @@ export default function Chronicles203() {
           an hundred pomegranates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the Fruit of the Spirit)
               </span>
             </span>
@@ -419,7 +419,7 @@ export default function Chronicles203() {
           the Temple, one on the right hand, and the other on the left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, these two pillars did not hold up anything; they were
                 strictly for ornamentation, and signified Believers [
                 <ScrollLink href="/revelation-03" scrollToId="#filepos14919243">
@@ -436,13 +436,13 @@ export default function Chronicles203() {
           ; and called the name of that on the right hand Jachin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He shall establish)</span>
+              <span className="explanation">(He shall establish)</span>
             </span>
           </span>
           , and the name of that on the left Boaz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in it is strength; the actual meaning is Believers shall be
                 established in the Strength of the Lord)
               </span>

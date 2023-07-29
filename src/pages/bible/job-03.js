@@ -15,7 +15,7 @@ export default function Job03() {
           <sup className="calibre7">1</sup>After this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seven days and seven nights)</span>
+              <span className="explanation">(seven days and seven nights)</span>
             </span>
           </span>{" "}
           opened Job his mouth, and cursed his day{" "}
@@ -199,7 +199,7 @@ export default function Job03() {
           <sup className="calibre7">12</sup>Why did the knees prevent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(receive)</span>
+              <span className="explanation">(receive)</span>
             </span>
           </span>{" "}
           me?{" "}
@@ -263,7 +263,9 @@ export default function Job03() {
           not been; as infants which never saw light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I wish I had been born dead!)</span>
+              <span className="explanation">
+                (I wish I had been born dead!)
+              </span>
             </span>
           </span>
           .
@@ -291,7 +293,9 @@ export default function Job03() {
           they hear not the voice of the oppressor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(again, if they know the Lord)</span>
+              <span className="explanation">
+                (again, if they know the Lord)
+              </span>
             </span>
           </span>
           .

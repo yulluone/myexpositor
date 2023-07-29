@@ -22,13 +22,13 @@ export default function Mark02() {
           days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(maybe several weeks)</span>
+              <span className="explanation">(maybe several weeks)</span>
             </span>
           </span>
           ; and it was noised that He was in the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peters house)</span>
+              <span className="explanation">(Peters house)</span>
             </span>
           </span>
           .
@@ -39,7 +39,7 @@ export default function Mark02() {
           <sup className="calibre7">2</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           many were gathered together, insomuch that there was no room to
@@ -66,13 +66,13 @@ export default function Mark02() {
           sick of the palsy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(paralysis)</span>
+              <span className="explanation">(paralysis)</span>
             </span>
           </span>
           , which was borne{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(carried)</span>
+              <span className="explanation">(carried)</span>
             </span>
           </span>{" "}
           of four.
@@ -84,7 +84,7 @@ export default function Mark02() {
           unto Him for the press{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the great crowd)</span>
+              <span className="explanation">(the great crowd)</span>
             </span>
           </span>
           , they uncovered the roof where He was{" "}
@@ -119,7 +119,7 @@ export default function Mark02() {
           <sup className="calibre7">5</sup>When Jesus saw their faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(faith without works is dead)</span>
+              <span className="explanation">(faith without works is dead)</span>
             </span>
           </span>
           , He said unto the sick of the palsy, Son, your sins be forgiven you{" "}
@@ -267,7 +267,7 @@ export default function Mark02() {
           , took up the bed, and went forth before them all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(including the skeptics)</span>
+              <span className="explanation">(including the skeptics)</span>
             </span>
           </span>
           ; insomuch that they were all amazed{" "}
@@ -298,7 +298,7 @@ export default function Mark02() {
           side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>
           ; and all the multitude resorted unto Him, and He taught them.
@@ -309,7 +309,7 @@ export default function Mark02() {
           <sup className="calibre7">14</sup>And as He passed by, He saw Levi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Matthew)</span>
+              <span className="explanation">(Matthew)</span>
             </span>
           </span>{" "}
           the{" "}
@@ -354,7 +354,7 @@ export default function Mark02() {
           sat at meat in his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the house of Matthew)</span>
+              <span className="explanation">(the house of Matthew)</span>
             </span>
           </span>
           , many publicans and sinners sat also together with Jesus and His
@@ -443,7 +443,7 @@ export default function Mark02() {
           Pharisees used to fast: and they come and say unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Jesus)</span>
+              <span className="explanation">(unto Jesus)</span>
             </span>
           </span>
           , Why do the disciples of John{" "}
@@ -473,7 +473,7 @@ export default function Mark02() {
           as long as they have the bridegroom with them, they cannot fast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus is the Bridegroom)</span>
+              <span className="explanation">(Jesus is the Bridegroom)</span>
             </span>
           </span>
           .
@@ -562,7 +562,7 @@ export default function Mark02() {
           the ears of corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stalks of barley or wheat)</span>
+              <span className="explanation">(stalks of barley or wheat)</span>
             </span>
           </span>
           .
@@ -582,7 +582,7 @@ export default function Mark02() {
           , Behold, why do they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Disciples)</span>
+              <span className="explanation">(the Disciples)</span>
             </span>
           </span>{" "}
           on the Sabbath Day that which is not lawful?{" "}

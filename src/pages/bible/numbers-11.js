@@ -83,13 +83,13 @@ export default function Numbers11() {
           Taberah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a burning)</span>
+              <span className="explanation">(a burning)</span>
             </span>
           </span>
           : because the fire of the LORD burnt among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of unbelief)</span>
+              <span className="explanation">(because of unbelief)</span>
             </span>
           </span>
         </span>
@@ -301,7 +301,7 @@ export default function Numbers11() {
           <sup className="calibre7">13</sup>Whence should I have flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(meat)</span>
+              <span className="explanation">(meat)</span>
             </span>
           </span>{" "}
           to give unto all this people? for they weep unto me, saying, Give us
@@ -375,7 +375,7 @@ export default function Numbers11() {
           you there: and I will take of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           which is upon you, and will put it upon them; and they shall bear the
@@ -519,7 +519,7 @@ export default function Numbers11() {
           and spoke unto him, and took of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           that was upon him, and gave it unto the seventy Elders: and it came to
@@ -672,7 +672,7 @@ export default function Numbers11() {
           the other side, round about the camp, and as it were two cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 feet)</span>
+              <span className="explanation">(3 feet)</span>
             </span>
           </span>{" "}
           high upon the face of the Earth{" "}
@@ -695,7 +695,7 @@ export default function Numbers11() {
           quails: he who gathered least gathered ten homers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 60 bushels)</span>
+              <span className="explanation">(about 60 bushels)</span>
             </span>
           </span>
           : and they spread them all abroad for themselves round about the camp.
@@ -730,7 +730,7 @@ export default function Numbers11() {
           <sup className="calibre7">34</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           called the name of that place Kibroth-hattaavah: because there they

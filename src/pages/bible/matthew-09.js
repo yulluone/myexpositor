@@ -16,7 +16,7 @@ export default function Matthew09() {
           passed over and came into His Own city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Capernaum)</span>
+              <span className="explanation">(Capernaum)</span>
             </span>
           </span>
           .
@@ -28,13 +28,13 @@ export default function Matthew09() {
           man sick of the palsy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(paralyzed)</span>
+              <span className="explanation">(paralyzed)</span>
             </span>
           </span>
           , lying on a bed: and Jesus seeing their faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the action of faith)</span>
+              <span className="explanation">(the action of faith)</span>
             </span>
           </span>{" "}
           said unto the sick of the palsy; Son, be of good cheer; your sins be
@@ -54,13 +54,13 @@ export default function Matthew09() {
           <sup className="calibre7">3</sup>And, behold, certain of the Scribes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(experts in the Law of Moses)</span>
+              <span className="explanation">(experts in the Law of Moses)</span>
             </span>
           </span>{" "}
           said within themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(murmured among themselves)</span>
+              <span className="explanation">(murmured among themselves)</span>
             </span>
           </span>
           , This{" "}
@@ -93,7 +93,7 @@ export default function Matthew09() {
           , Why do you think evil in your hearts?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Unbelief!)</span>
+              <span className="explanation">(Unbelief!)</span>
             </span>
           </span>
         </span>
@@ -122,7 +122,7 @@ export default function Matthew09() {
           Man has power on earth to forgive sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims His Deity)</span>
+              <span className="explanation">(proclaims His Deity)</span>
             </span>
           </span>
           , (then said He to the sick of the palsy,) Arise, take up your bed,
@@ -158,7 +158,7 @@ export default function Matthew09() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(healing of the man),</span>
+              <span className="explanation">(healing of the man),</span>
             </span>
           </span>{" "}
           they marvelled, and glorified God, which had given such power unto men{" "}
@@ -181,7 +181,7 @@ export default function Matthew09() {
           thence, He saw a man, named Matthew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Spirit directed Him)</span>
+              <span className="explanation">(the Spirit directed Him)</span>
             </span>
           </span>
           , sitting at the receipt of custom{" "}
@@ -195,13 +195,13 @@ export default function Matthew09() {
           : and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Matthew)</span>
+              <span className="explanation">(Matthew)</span>
             </span>
           </span>
           , Follow Me{" "}
@@ -215,7 +215,7 @@ export default function Matthew09() {
           . And he arose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>
           , and followed Him.
@@ -226,25 +226,25 @@ export default function Matthew09() {
           <sup className="calibre7">10</sup>And it came to pass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after a few days)</span>
+              <span className="explanation">(after a few days)</span>
             </span>
           </span>
           , as Jesus sat at meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a meal)</span>
+              <span className="explanation">(a meal)</span>
             </span>
           </span>{" "}
           in the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Matthews house)</span>
+              <span className="explanation">(Matthews house)</span>
             </span>
           </span>
           , behold, many Publicans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tax collectors)</span>
+              <span className="explanation">(tax collectors)</span>
             </span>
           </span>{" "}
           and sinners came and sat down with Him and His Disciples{" "}
@@ -266,14 +266,14 @@ export default function Matthew09() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(heard of it a little later),</span>
+              <span className="explanation">(heard of it a little later),</span>
             </span>
           </span>{" "}
           they said unto His Disciples, Why does your Master eat with Publicans
           and sinners{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-righteousness)</span>
+              <span className="explanation">(self-righteousness)</span>
             </span>
           </span>
           ?
@@ -287,13 +287,13 @@ export default function Matthew09() {
               <span className="calibre_19">that</span>
             </span>
             <span>
-              <span className="calibre_19">(a short time later),</span>
+              <span className="explanation">(a short time later),</span>
             </span>
           </span>{" "}
           He said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Disciples)</span>
+              <span className="explanation">(His Disciples)</span>
             </span>
           </span>
           , They who be whole need not a physician, but they who are sick{" "}
@@ -326,7 +326,7 @@ export default function Matthew09() {
           : for I am not come to call the Righteous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-righteous)</span>
+              <span className="explanation">(self-righteous)</span>
             </span>
           </span>
           , but sinners to Repentance.
@@ -341,14 +341,14 @@ export default function Matthew09() {
           John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John was now in prison)</span>
+              <span className="explanation">(John was now in prison)</span>
             </span>
           </span>
           , saying, Why do we and the Pharisees fast often, but Your Disciples
           fast not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(They fasted twice a week.)</span>
+              <span className="explanation">(They fasted twice a week.)</span>
             </span>
           </span>
         </span>
@@ -397,19 +397,19 @@ export default function Matthew09() {
           <sup className="calibre7">16</sup>No man puts a piece of new cloth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(New Covenant)</span>
+              <span className="explanation">(New Covenant)</span>
             </span>
           </span>{" "}
           onto an old garment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Old Covenant)</span>
+              <span className="explanation">(Old Covenant)</span>
             </span>
           </span>
           , for that which is put in to fill it up takes from the garment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a patch)</span>
+              <span className="explanation">(a patch)</span>
             </span>
           </span>
           , and the rent is made worse{" "}
@@ -429,19 +429,21 @@ export default function Matthew09() {
           <sup className="calibre7">17</sup>Neither do men put new wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(New Covenant)</span>
+              <span className="explanation">(New Covenant)</span>
             </span>
           </span>{" "}
           into old bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(skins)</span>
+              <span className="explanation">(skins)</span>
             </span>
           </span>
           : else the bottles break{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(new wine splits the wineskin)</span>
+              <span className="explanation">
+                (new wine splits the wineskin)
+              </span>
             </span>
           </span>
           , and the wine runs out{" "}
@@ -463,19 +465,19 @@ export default function Matthew09() {
           , and the bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(skins)</span>
+              <span className="explanation">(skins)</span>
             </span>
           </span>{" "}
           perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law destroys Grace)</span>
+              <span className="explanation">(Law destroys Grace)</span>
             </span>
           </span>
           : but they put new wine into new bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(new skins)</span>
+              <span className="explanation">(new skins)</span>
             </span>
           </span>
           , and both are preserved{" "}
@@ -507,19 +509,19 @@ export default function Matthew09() {
           , behold, there came a certain Ruler{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jarius)</span>
+              <span className="explanation">(Jarius)</span>
             </span>
           </span>
           , and worshipped Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as Lord and Messiah)</span>
+              <span className="explanation">(as Lord and Messiah)</span>
             </span>
           </span>
           , saying, My daughter is even now dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is dying)</span>
+              <span className="explanation">(is dying)</span>
             </span>
           </span>
           : but come and lay Your hand upon her, and she shall live.
@@ -530,7 +532,7 @@ export default function Matthew09() {
           <sup className="calibre7">19</sup>And Jesus arose, and followed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>
           , and{" "}
@@ -547,7 +549,7 @@ export default function Matthew09() {
           <sup className="calibre7">20</sup>And, behold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an interruption)</span>
+              <span className="explanation">(an interruption)</span>
             </span>
           </span>
           , a woman, which was diseased with an issue of blood{" "}
@@ -575,7 +577,7 @@ export default function Matthew09() {
           and touched the hem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(border)</span>
+              <span className="explanation">(border)</span>
             </span>
           </span>{" "}
           of His garment{" "}
@@ -611,7 +613,7 @@ export default function Matthew09() {
           , If I may but touch His garment, I shall be whole{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(her faith)</span>
+              <span className="explanation">(her faith)</span>
             </span>
           </span>
           .
@@ -622,13 +624,13 @@ export default function Matthew09() {
           <sup className="calibre7">22</sup>But Jesus turned Him about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in response to her touch)</span>
+              <span className="explanation">(in response to her touch)</span>
             </span>
           </span>
           , and when He saw her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(took a moment to find her)</span>
+              <span className="explanation">(took a moment to find her)</span>
             </span>
           </span>
           , He said, Daughter{" "}
@@ -642,7 +644,7 @@ export default function Matthew09() {
           , be of good comfort{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont fear)</span>
+              <span className="explanation">(dont fear)</span>
             </span>
           </span>
           ; your Faith has made you whole{" "}
@@ -708,7 +710,7 @@ export default function Matthew09() {
           : for the maid is not dead, but asleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will not remain dead)</span>
+              <span className="explanation">(will not remain dead)</span>
             </span>
           </span>
           . And they laughed Him to scorn{" "}
@@ -728,7 +730,7 @@ export default function Matthew09() {
           <sup className="calibre7">25</sup>But when the people were put forth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they didnt go quietly)</span>
+              <span className="explanation">(they didnt go quietly)</span>
             </span>
           </span>
           , He went in{" "}
@@ -757,7 +759,7 @@ export default function Matthew09() {
           all that land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all over Israel and beyond)</span>
+              <span className="explanation">(all over Israel and beyond)</span>
             </span>
           </span>
           .
@@ -771,7 +773,7 @@ export default function Matthew09() {
           <sup className="calibre7">27</sup>And when Jesus departed thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(left the home of Jarius)</span>
+              <span className="explanation">(left the home of Jarius)</span>
             </span>
           </span>
           , two blind men followed Him, crying, and saying,{" "}
@@ -783,7 +785,7 @@ export default function Matthew09() {
           Son of David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Messianic title)</span>
+              <span className="explanation">(the Messianic title)</span>
             </span>
           </span>
           , have mercy on us{" "}
@@ -802,7 +804,7 @@ export default function Matthew09() {
           <sup className="calibre7">28</sup>And when He was come into the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably the house of Peter)</span>
+              <span className="explanation">(probably the house of Peter)</span>
             </span>
           </span>
           , the blind men came to Him{" "}
@@ -816,7 +818,7 @@ export default function Matthew09() {
           : and Jesus said unto them, Do you believe that I am able to do this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He only required Faith.)</span>
+              <span className="explanation">(He only required Faith.)</span>
             </span>
           </span>{" "}
           They said unto Him, Yes, Lord.
@@ -827,13 +829,13 @@ export default function Matthew09() {
           <sup className="calibre7">29</sup>Then touched He their eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(light touched darkness)</span>
+              <span className="explanation">(light touched darkness)</span>
             </span>
           </span>
           , saying, According to your Faith be it unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Faith)</span>
+              <span className="explanation">(the Law of Faith)</span>
             </span>
           </span>
           .
@@ -844,13 +846,13 @@ export default function Matthew09() {
           <sup className="calibre7">30</sup>And their eyes were opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(instantly)</span>
+              <span className="explanation">(instantly)</span>
             </span>
           </span>
           ; and Jesus straitly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(strongly)</span>
+              <span className="explanation">(strongly)</span>
             </span>
           </span>{" "}
           charged them, saying, See{" "}
@@ -916,7 +918,7 @@ export default function Matthew09() {
           <sup className="calibre7">33</sup>And when the devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>{" "}
           was cast out, the dumb spoke: and the multitudes marvelled, saying, It
@@ -945,13 +947,13 @@ export default function Matthew09() {
           , He casts out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           through the prince of the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by the power of Satan)</span>
+              <span className="explanation">(by the power of Satan)</span>
             </span>
           </span>
           .
@@ -963,19 +965,19 @@ export default function Matthew09() {
           and villages, teaching{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(explaining truth)</span>
+              <span className="explanation">(explaining truth)</span>
             </span>
           </span>{" "}
           in their Synagogues, and preaching{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaiming truth)</span>
+              <span className="explanation">(proclaiming truth)</span>
             </span>
           </span>{" "}
           the Gospel of the Kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(good news)</span>
+              <span className="explanation">(good news)</span>
             </span>
           </span>
           , and healing every sickness and every disease among the people{" "}
@@ -998,14 +1000,14 @@ export default function Matthew09() {
           was moved with compassion on them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had great pity and sympathy)</span>
+              <span className="explanation">(had great pity and sympathy)</span>
             </span>
           </span>
           , because they fainted, and were scattered abroad, as sheep having no
           shepherd{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no spiritual leadership)</span>
+              <span className="explanation">(no spiritual leadership)</span>
             </span>
           </span>
           .
@@ -1017,7 +1019,7 @@ export default function Matthew09() {
           harvest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(souls to be saved)</span>
+              <span className="explanation">(souls to be saved)</span>
             </span>
           </span>{" "}
           truly{" "}
@@ -1048,13 +1050,13 @@ export default function Matthew09() {
           <sup className="calibre7">38</sup>Pray you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(intercede)</span>
+              <span className="explanation">(intercede)</span>
             </span>
           </span>{" "}
           therefore the Lord of the Harvest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is the Lord)</span>
+              <span className="explanation">(Christ is the Lord)</span>
             </span>
           </span>
           , that He will send forth labourers into His Harvest{" "}

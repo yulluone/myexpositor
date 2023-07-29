@@ -315,7 +315,7 @@ export default function John15() {
           in earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as in Heaven, so on Earth)</span>
+              <span className="explanation">(as in Heaven, so on Earth)</span>
             </span>
           </span>
           , the Spirit, and the water, and the blood{" "}
@@ -355,7 +355,7 @@ export default function John15() {
           : for this is the witness of God which He has testified of His Son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(centers on the Cross)</span>
+              <span className="explanation">(centers on the Cross)</span>
             </span>
           </span>
           .
@@ -434,7 +434,7 @@ export default function John15() {
           <sup className="calibre7">12</sup>He who has the Son has Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through the Cross)</span>
+              <span className="explanation">(through the Cross)</span>
             </span>
           </span>
           ;{" "}
@@ -480,7 +480,7 @@ export default function John15() {
           , and that you may believe on the Name of the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(keep believing)</span>
+              <span className="explanation">(keep believing)</span>
             </span>
           </span>
           .
@@ -525,7 +525,7 @@ export default function John15() {
           , we know that we have the petitions that we desired of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(providing its His Will)</span>
+              <span className="explanation">(providing its His Will)</span>
             </span>
           </span>
           .
@@ -614,7 +614,7 @@ export default function John15() {
           God sins not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(does not practice sin)</span>
+              <span className="explanation">(does not practice sin)</span>
             </span>
           </span>
           ; but he who is begotten of God keeps himself{" "}
@@ -657,7 +657,7 @@ export default function John15() {
           , and the whole world lies in wickedness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the world system)</span>
+              <span className="explanation">(refers to the world system)</span>
             </span>
           </span>
           .

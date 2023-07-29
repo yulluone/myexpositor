@@ -1218,7 +1218,7 @@ export default function Jeremiah51() {
           and great destruction from the land of the Chaldeans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was the cry of defeat!)</span>
+              <span className="explanation">(this was the cry of defeat!)</span>
             </span>
           </span>
           :

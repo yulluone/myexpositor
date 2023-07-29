@@ -21,7 +21,7 @@ export default function Colossians4() {
           servants that which is just and equal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking to Christian Masters)
               </span>
             </span>
@@ -29,7 +29,7 @@ export default function Colossians4() {
           ; knowing that you also have a Master in Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the great principle on which all Christianity reposes)
               </span>
             </span>
@@ -45,7 +45,7 @@ export default function Colossians4() {
           <sup className="calibre7">2</sup>Continue in prayer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prayer should be a habit with every Believer)
               </span>
             </span>
@@ -53,7 +53,7 @@ export default function Colossians4() {
           , and watch in the same{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont let the habit of prayer be broken)
               </span>
             </span>
@@ -61,7 +61,7 @@ export default function Colossians4() {
           with thanksgiving{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (most prayer should be made up of thanksgiving)
               </span>
             </span>
@@ -75,7 +75,7 @@ export default function Colossians4() {
           would open unto us a door of utterance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (reminds us that even though the spread of the Gospel is under
                 Divine direction [
                 <ScrollLink href="/acts-16" scrollToId="#filepos13053910">
@@ -103,7 +103,7 @@ export default function Colossians4() {
           , to speak the Mystery of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns that which had been previously hidden, but now has
                 been made fully known the Cross and what it means)
               </span>
@@ -112,7 +112,7 @@ export default function Colossians4() {
           , for which I am also in bonds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Pauls imprisonment in Rome)
               </span>
             </span>
@@ -125,13 +125,13 @@ export default function Colossians4() {
           <sup className="calibre7">4</sup>That I may make it manifest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(preach Christ)</span>
+              <span className="explanation">(preach Christ)</span>
             </span>
           </span>
           , as I ought to speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (manifest Christ as Christ ought to be manifested)
               </span>
             </span>
@@ -145,7 +145,7 @@ export default function Colossians4() {
           without{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to ordering ones behavior)
               </span>
             </span>
@@ -153,7 +153,7 @@ export default function Colossians4() {
           , redeeming the time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (make wise and sacred use of every opportunity to present
                 Christ)
               </span>
@@ -173,13 +173,13 @@ export default function Colossians4() {
           alway with Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(gracious and pleasant)</span>
+              <span className="explanation">(gracious and pleasant)</span>
             </span>
           </span>
           , seasoned with salt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (salt represents the incorruptible Word of God)
               </span>
             </span>
@@ -187,7 +187,7 @@ export default function Colossians4() {
           , that you may know how you ought to answer every man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as it regards Christ)</span>
+              <span className="explanation">(as it regards Christ)</span>
             </span>
           </span>
           .
@@ -209,7 +209,7 @@ export default function Colossians4() {
           Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Brother was evidently with Paul in Rome, at least for a
                 period of time)
               </span>
@@ -224,7 +224,7 @@ export default function Colossians4() {
           same purpose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (apparently, Tychicus had already left Rome to go to Colosse)
               </span>
             </span>
@@ -232,7 +232,7 @@ export default function Colossians4() {
           , that he might know your estate, and comfort your hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies the news Tychicus would bring about the Apostle; as
                 well, he was entrusted with three Epistles: Ephesians,
                 Colossians, and the short note to Philemon)
@@ -254,7 +254,7 @@ export default function Colossians4() {
           of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a runaway slave, who has now found Christ, accompanies
                 Tychicus)
               </span>
@@ -263,7 +263,7 @@ export default function Colossians4() {
           . They shall make known unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church at Colosse)</span>
+              <span className="explanation">(the Church at Colosse)</span>
             </span>
           </span>{" "}
           all things which{" "}
@@ -275,7 +275,7 @@ export default function Colossians4() {
           here{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Rome)</span>
+              <span className="explanation">(Rome)</span>
             </span>
           </span>
           .
@@ -287,7 +287,7 @@ export default function Colossians4() {
           salutes you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not known if Paul is speaking literally or spiritually
                 concerning this man being a fellow-prisoner)
               </span>
@@ -296,7 +296,7 @@ export default function Colossians4() {
           , and Marcus, sisters son to Barnabas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to John Mark, the writer of the Gospel which bears his
                 name among the four Gospels; he was the cousin of Barnabas)
               </span>
@@ -306,7 +306,7 @@ export default function Colossians4() {
           receive him;){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not known exactly what Paul meant here. At any rate, he
                 is recommending this young man, which tells us that the problem
                 they had had some years before was now made right [
@@ -336,7 +336,7 @@ export default function Colossians4() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (three Jews: Aristarchus, Mark, and Justus)
               </span>
             </span>
@@ -355,7 +355,7 @@ export default function Colossians4() {
           of you, a servant of Christ, salutes you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably the founder of the Colossian Church, who is now with
                 Paul for a period of time)
               </span>
@@ -364,7 +364,7 @@ export default function Colossians4() {
           , always labouring fervently for you in prayers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to strong intercession)
               </span>
             </span>
@@ -372,7 +372,7 @@ export default function Colossians4() {
           , that you may stand perfect and complete in all the Will of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(spiritual maturity)</span>
+              <span className="explanation">(spiritual maturity)</span>
             </span>
           </span>
           .
@@ -390,7 +390,7 @@ export default function Colossians4() {
           in Laodicea, and them in Hierapolis.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Epaphras probably founded all three of these Churches, for
                 these three towns were very close together.)
               </span>
@@ -403,7 +403,7 @@ export default function Colossians4() {
           <sup className="calibre7">14</sup>Luke, the beloved physician{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is Luke, the writer of the Gospel that bears his name,
                 plus the Book of Acts; we also learn here that he was a medical
                 doctor, although it seems he no longer practiced his craft)
@@ -413,7 +413,7 @@ export default function Colossians4() {
           , and Demas, greet you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Unfortunately, this man Demas, who had such a good beginning,
                 lost his way [
                 <ScrollLink href="/timothy2-4" scrollToId="#filepos14372184">
@@ -437,13 +437,13 @@ export default function Colossians4() {
           <sup className="calibre7">15</sup>Salute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greet)</span>
+              <span className="explanation">(greet)</span>
             </span>
           </span>{" "}
           the Brethren which are in Laodicea, and Nymphas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Pastor, it seems, of the Church in Laodicea)
               </span>
             </span>
@@ -451,7 +451,7 @@ export default function Colossians4() {
           , and the Church which is in his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (almost all Churches then were located in houses)
               </span>
             </span>
@@ -464,14 +464,14 @@ export default function Colossians4() {
           <sup className="calibre7">16</sup>And when this Epistle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Colossians)</span>
+              <span className="explanation">(Colossians)</span>
             </span>
           </span>{" "}
           is read among you, cause that it be read also in the Church of the
           Laodiceans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (history records the fact that many copies were made of these
                 Epistles, which circulated among the Churches)
               </span>
@@ -486,7 +486,7 @@ export default function Colossians4() {
           from Laodicea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This evidently refers to an Epistle lost to us.)
               </span>
             </span>
@@ -499,7 +499,7 @@ export default function Colossians4() {
           the Ministry which you have received in the Lord, that you fulfil it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the same man mentioned in Philemon,{" "}
                 <ScrollLink href="/" scrollToId="#filepos14177614">
                   <span className="calibre_19">
@@ -522,7 +522,7 @@ export default function Colossians4() {
           Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents him, as stated, writing this closing word himself)
               </span>
             </span>
@@ -530,7 +530,7 @@ export default function Colossians4() {
           . Remember my bonds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, he is asking for prayer that he will be released
                 from prison)
               </span>
@@ -545,7 +545,7 @@ export default function Colossians4() {
           with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sum of the Gospel Message)
               </span>
             </span>

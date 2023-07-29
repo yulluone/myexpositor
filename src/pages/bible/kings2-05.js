@@ -100,7 +100,7 @@ export default function Kings205() {
           go, and I will send a letter unto the king of Israel. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naaman)</span>
+              <span className="explanation">(Naaman)</span>
             </span>
           </span>{" "}
           departed, and took with him ten talents of silver, and six thousand
@@ -221,7 +221,7 @@ export default function Kings205() {
           with his chariot, and stood at the door of the house of Elisha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the entire entourage)</span>
+              <span className="explanation">(the entire entourage)</span>
             </span>
           </span>
           .
@@ -249,7 +249,7 @@ export default function Kings205() {
           <sup className="calibre7">11</sup>But Naaman was wroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(very angry)</span>
+              <span className="explanation">(very angry)</span>
             </span>
           </span>
           , and went away, and said, Behold, I thought, He will surely come out
@@ -375,7 +375,7 @@ export default function Kings205() {
           <sup className="calibre7">16</sup>But he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said, As the LORD lives, before Whom I stand, I will receive none. And
@@ -432,14 +432,14 @@ export default function Kings205() {
           servant, that when my master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the king of Syria)</span>
+              <span className="explanation">(the king of Syria)</span>
             </span>
           </span>{" "}
           goes into the house of Rimmon to worship there, and he leans on my
           hand, and I bow myself in the house of Rimmon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the god Hadad)</span>
+              <span className="explanation">(to the god Hadad)</span>
             </span>
           </span>
           : when I bow down myself in the house of Rimmon, the LORD pardon your
@@ -451,13 +451,13 @@ export default function Kings205() {
           <sup className="calibre7">19</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naaman)</span>
+              <span className="explanation">(Naaman)</span>
             </span>
           </span>
           , Go in peace. So he departed from him a little way{" "}
@@ -537,7 +537,7 @@ export default function Kings205() {
           he said, Your servant went no whither{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he lied!)</span>
+              <span className="explanation">(he lied!)</span>
             </span>
           </span>
           .

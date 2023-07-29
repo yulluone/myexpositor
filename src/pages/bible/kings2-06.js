@@ -42,7 +42,7 @@ export default function Kings206() {
           where we may dwell. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           answered, Go you{" "}
@@ -80,7 +80,7 @@ export default function Kings206() {
           came to Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the river Jordan)</span>
+              <span className="explanation">(the river Jordan)</span>
             </span>
           </span>
           , they cut down wood.
@@ -161,7 +161,7 @@ export default function Kings206() {
           <sup className="calibre7">9</sup>And the man of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           sent unto the king of Israel, saying, Beware that you pass not such a
@@ -182,7 +182,7 @@ export default function Kings206() {
           <sup className="calibre7">10</sup>And the king of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehoram)</span>
+              <span className="explanation">(Jehoram)</span>
             </span>
           </span>{" "}
           sent to the place which the man of God told him and warned him of, and
@@ -229,7 +229,7 @@ export default function Kings206() {
           <sup className="calibre7">13</sup>And he said, Go and spy where he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           is, that I may send and fetch him. And it was told him, saying,
@@ -243,7 +243,7 @@ export default function Kings206() {
           the city about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all for just one man)</span>
+              <span className="explanation">(all for just one man)</span>
             </span>
           </span>
           .
@@ -280,7 +280,7 @@ export default function Kings206() {
           <sup className="calibre7">16</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           answered, Fear not{" "}
@@ -310,7 +310,7 @@ export default function Kings206() {
           pray You, open his eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the eyes of the servant)</span>
+              <span className="explanation">(the eyes of the servant)</span>
             </span>
           </span>
           , that he may see. And the LORD opened the eyes of the young man; and
@@ -384,7 +384,7 @@ export default function Kings206() {
           <sup className="calibre7">22</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           answered, You shall not smite them: would you smite those whom you
@@ -410,7 +410,7 @@ export default function Kings206() {
           of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at least at that time!)</span>
+              <span className="explanation">(at least at that time!)</span>
             </span>
           </span>
           .
@@ -457,13 +457,13 @@ export default function Kings206() {
           Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of its sin)</span>
+              <span className="explanation">(because of its sin)</span>
             </span>
           </span>
           : and, behold, they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Syrians)</span>
+              <span className="explanation">(the Syrians)</span>
             </span>
           </span>{" "}
           besieged it{" "}
@@ -607,13 +607,15 @@ export default function Kings206() {
           : and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the king)</span>
+              <span className="explanation">(the king)</span>
             </span>
           </span>{" "}
           said, Behold, this evil is of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(now, Jehoram blames the Lord)</span>
+              <span className="explanation">
+                (now, Jehoram blames the Lord)
+              </span>
             </span>
           </span>
           ; what should I wait for the LORD any longer?{" "}

@@ -18,13 +18,13 @@ export default function Chronicles101() {
           <sup className="calibre7">1</sup>Adam, Sheth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Seth)</span>
+              <span className="explanation">(Seth)</span>
             </span>
           </span>
           , Enosh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Writer of Chronicles began abruptly with Adam, supposing
                 that His readers would understand from the First Book of the
                 Bible about the origin of Adam, the first man from whom all
@@ -73,7 +73,7 @@ export default function Chronicles101() {
           <sup className="calibre7">3</sup>Henoch, Methuselah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who lived longer than any other human being, 969 years)
               </span>
             </span>
@@ -86,7 +86,7 @@ export default function Chronicles101() {
           <sup className="calibre7">4</sup>Noah, Shem, Ham, and Japheth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from these last three came all the descendants of planet Earth)
               </span>
             </span>
@@ -103,7 +103,7 @@ export default function Chronicles101() {
           Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the descendants of Japheth populated Europe, some parts of the
                 Far East, England, and eventually the United States)
               </span>
@@ -133,7 +133,7 @@ export default function Chronicles101() {
           Put, and Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the descendants of Ham first went into the Middle East, where
                 they were exterminated or driven out by the sons of Shem, and
                 eventually populated Africa)
@@ -155,7 +155,7 @@ export default function Chronicles101() {
           <sup className="calibre7">10</sup>And Cush begat Nimrod{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that he led the first organized rebellion
                 against God [
                 <ScrollLink href="/genesis-10" scrollToId="#filepos139172">
@@ -184,7 +184,7 @@ export default function Chronicles101() {
           whom came the Philistines,) and Caphthorim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Philistines were ever a thorn in the side of Israel and, in
                 some sense of the word, this continues even unto this very hour
                 in modern Israel)
@@ -218,7 +218,7 @@ export default function Chronicles101() {
           and the Hamathite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the taking of the land of Canaan, Israel opposed most of
                 these Tribes; it was because of their great evil that they were
                 allowed by God to be driven out; regrettably, just as we have
@@ -241,7 +241,7 @@ export default function Chronicles101() {
           and Arphaxad, and Lud, and Aram, and Uz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (where Job resided [
                 <ScrollLink href="/job-01" scrollToId="#filepos5344751">
                   <span className="calibre_19">
@@ -257,7 +257,7 @@ export default function Chronicles101() {
           , and Hul, and Gether, and Meshech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these sons of Shem ultimately overran the Middle East)
               </span>
             </span>
@@ -278,7 +278,7 @@ export default function Chronicles101() {
           divided: and his brothers name was Joktan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that at one time in the distant past all the
                 continents of the Earth were joined together; but during the
                 days of Peleg, which was about 4,000 years ago, the continents
@@ -353,7 +353,7 @@ export default function Chronicles101() {
           Ishmael{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac, though younger than Ishmael, is placed first as the
                 legitimate heir, since Sarah was the only true wife of Abraham;
                 but in the genealogy which follows the sons of Ishmael and of
@@ -387,7 +387,7 @@ export default function Chronicles101() {
           are the sons of Ishmael{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ishmael, Abrahams son through Hagar, had twelve sons, as did
                 Jacob; they were also the heads of twelve Tribes, making 24
                 Tribes which descended from Abraham through two of his sons)
@@ -423,7 +423,7 @@ export default function Chronicles101() {
           Isaac; Esau and Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now, the Author comes back to Isaac and his seed, Esau and
                 Jacob, and follows the main purpose of His writing, dealing
                 briefly with the seed of Esau first before going into the more
@@ -444,7 +444,7 @@ export default function Chronicles101() {
           <sup className="calibre7">35</sup>The sons of Esau; Eliphaz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Eliphaz of the Book of Job, who was a Temanite [
                 <ScrollLink href="/job-02" scrollToId="#filepos5362898">
                   <span className="calibre_19">
@@ -474,7 +474,7 @@ export default function Chronicles101() {
           Zephi, and Gatam, Kenaz, and Timna, and Amalek.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This man, a descendant of Esau, was noted for his opposition to
                 Israel. The Amalekites were the first to attack Israel as they
                 came out of Egypt. For this God swore that they would have war

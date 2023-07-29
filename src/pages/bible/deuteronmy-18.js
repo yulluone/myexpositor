@@ -17,7 +17,7 @@ export default function Deuteronmy18() {
           shall eat the Offerings of the LORD made by fire, and his inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Only one of the five Levitical Offerings was consumed wholly,
                 which was the Burnt Offering. The other four Offerings were to
                 be given to the Priests, with the exception of the fat and
@@ -46,7 +46,7 @@ export default function Deuteronmy18() {
           cheeks, and the maw{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(parts of the animal)</span>
+              <span className="explanation">(parts of the animal)</span>
             </span>
           </span>
         </span>
@@ -59,7 +59,7 @@ export default function Deuteronmy18() {
           shall you give him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a tenth of their crops were to go to the Priests and the
                 Sanctuary, i.e., firstfruit)
               </span>
@@ -75,7 +75,7 @@ export default function Deuteronmy18() {
           him and his sons for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (continually until the Messiah would come, Who, by His Death on
                 the Cross of Calvary, would bring to an end the necessity of
                 Priests, and Sacrifices, etc.)
@@ -92,7 +92,7 @@ export default function Deuteronmy18() {
           desire of his mind unto the place which the LORD shall choose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only some of the Levites were engaged in the service of the
                 Sanctuary; the rest lived in their towns throughout the country;
                 if they should feel led of the Lord to go and serve at the
@@ -116,7 +116,7 @@ export default function Deuteronmy18() {
           beside that which comes of the sale of his patrimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (having sold his home; he should not be expected to use those
                 funds, whatever they may have been, but should share in the
                 Offerings brought, the same as the other Priests, or Levites)
@@ -136,7 +136,7 @@ export default function Deuteronmy18() {
           abominations of those nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again and again, Israel was warned concerning this)
               </span>
             </span>
@@ -150,7 +150,7 @@ export default function Deuteronmy18() {
           any one who makes his son or his daughter to pass through the fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human sacrifice)</span>
+              <span className="explanation">(human sacrifice)</span>
             </span>
           </span>
           , or who uses divination, or an observer of times, or an enchanter, or
@@ -163,7 +163,7 @@ export default function Deuteronmy18() {
           familiar spirits, or a wizard, or a necromancer.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last is one who professed to call up the dead, and from
                 them to learn the secrets of the future. All of these things had
                 to do with witchcraft, and were not at all to be a part of
@@ -181,7 +181,7 @@ export default function Deuteronmy18() {
           your God does drive them out from before you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, this is at least part of the reason that these
                 heathen tribes were driven from Canaan)
               </span>
@@ -196,7 +196,7 @@ export default function Deuteronmy18() {
           your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word perfect means single-hearted, that is, pure from
                 idolatry)
               </span>
@@ -222,7 +222,7 @@ export default function Deuteronmy18() {
           unto Him you shall hearken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Prophet would be the Lord Jesus Christ)
               </span>
             </span>
@@ -238,7 +238,7 @@ export default function Deuteronmy18() {
           great fire any more, that I die not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holiness of God was more than Israel could stand)
               </span>
             </span>
@@ -259,7 +259,7 @@ export default function Deuteronmy18() {
           Mouth; and He shall speak unto them all that I shall command Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that Christ taught and the very words He used in His
                 Teaching were from God. There was no misgiving in the Divine
                 Mind as to that certitude. Seven times He asserted that all His
@@ -276,7 +276,7 @@ export default function Deuteronmy18() {
           Name, I will require it of him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel had to answer for their rejection of Christ. They would
                 not heed His Words. They lost that generation, plus all the
                 generations since, and they lost their Nation. Likewise, every
@@ -307,7 +307,7 @@ export default function Deuteronmy18() {
           die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that was the sentence in Israel, and for all the obvious
                 reasons; it is the same presently, spiritually speaking)
               </span>
@@ -330,7 +330,7 @@ export default function Deuteronmy18() {
           presumptuously: you shall not be afraid of him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (how many self-anointed prophets presently are constantly giving
                 forth prophecies, even with names and dates, which do not come
                 to pass; and the modern Church is so jaded, they do not seem to

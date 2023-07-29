@@ -233,7 +233,7 @@ export default function Samuel125() {
           two hundred loaves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(very large loaves of bread)</span>
+              <span className="explanation">(very large loaves of bread)</span>
             </span>
           </span>
           , and two bottles of wine{" "}
@@ -401,7 +401,7 @@ export default function Samuel125() {
           and to seek your soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she speaks of Saul)</span>
+              <span className="explanation">(she speaks of Saul)</span>
             </span>
           </span>
           : but the soul of my lord shall be bound in the bundle of life with

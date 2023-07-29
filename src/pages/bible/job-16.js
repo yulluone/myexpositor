@@ -21,7 +21,7 @@ export default function Job16() {
           miserable comforters are you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and so they were!)</span>
+              <span className="explanation">(and so they were!)</span>
             </span>
           </span>
           .
@@ -97,7 +97,7 @@ export default function Job16() {
           <sup className="calibre7">7</sup>But now He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has made me weary: You have made desolate all my company.
@@ -115,7 +115,7 @@ export default function Job16() {
           <sup className="calibre7">9</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           tears me in His wrath, Who hates me: He gnashes upon me with His
@@ -136,7 +136,7 @@ export default function Job16() {
           <sup className="calibre7">10</sup>They{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(these friends and others)</span>
+              <span className="explanation">(these friends and others)</span>
             </span>
           </span>{" "}
           have gaped upon me with their mouth: they have smitten me upon the
@@ -174,7 +174,7 @@ export default function Job16() {
           and turned me over into the hands of the wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is only partially true)</span>
+              <span className="explanation">(this is only partially true)</span>
             </span>
           </span>
           .
@@ -185,14 +185,14 @@ export default function Job16() {
           <sup className="calibre7">12</sup>I was at ease, but He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has broken me asunder: He has also taken me by my neck, and shaken me
           to pieces, and set me up for His mark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(partially true!)</span>
+              <span className="explanation">(partially true!)</span>
             </span>
           </span>
           .
@@ -230,7 +230,7 @@ export default function Job16() {
           and defiled my horn in the dust{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he doesnt see any way out)</span>
+              <span className="explanation">(he doesnt see any way out)</span>
             </span>
           </span>
           .
@@ -242,7 +242,7 @@ export default function Job16() {
           my eyelids is the shadow of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he thought he was dying)</span>
+              <span className="explanation">(he thought he was dying)</span>
             </span>
           </span>
           ;
@@ -323,7 +323,7 @@ export default function Job16() {
           pours out tears unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God Alone is his refuge)</span>
+              <span className="explanation">(God Alone is his refuge)</span>
             </span>
           </span>
           .
@@ -349,7 +349,7 @@ export default function Job16() {
           shall go the way whence I shall not return{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job thinks he is dying)</span>
+              <span className="explanation">(Job thinks he is dying)</span>
             </span>
           </span>
           .

@@ -25,7 +25,7 @@ export default function Chronicles221() {
           of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word Israel being used instead of Judah is not an error in
                 transcription; it does show that God recognized the faithful
                 remnant of Judah as His entire people)
@@ -43,7 +43,7 @@ export default function Chronicles221() {
           the firstborn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehoram was one of the most wicked kings to sit on the throne
                 of Judah; according to the last phrase of this Verse, the
                 implication is that Jehoshaphat did not have the mind of the
@@ -65,7 +65,7 @@ export default function Chronicles221() {
           brethren with the sword, and divers also of the princes of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he killed all those of{" "}
                 <ScrollLink href="/" scrollToId="#filepos4859905">
                   <span className="calibre_19">
@@ -89,7 +89,7 @@ export default function Chronicles221() {
           when he began to reign, and he reigned eight years in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was a dark time for Israel!)
               </span>
             </span>
@@ -105,7 +105,7 @@ export default function Chronicles221() {
           LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we now see the leaven that was in the life of Jehoshaphat
                 concerning his alliance with Ahab; the awful thing about sin is
                 that it breeds more sin and, in fact, can only be stopped by
@@ -149,7 +149,7 @@ export default function Chronicles221() {
           fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (over and over again, we see blessing coming because of
                 adherence to the Word of God and, as well, judgment because of
                 failure to adhere to the Word of God)
@@ -171,7 +171,7 @@ export default function Chronicles221() {
           fornication, and compelled Judah thereto{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was mostly the worship of the Asherah; it was the male sex
                 organ, carved out of a tree trunk, and standing anywhere from 10
                 to 20 feet high; this, as the god of fertility, would be
@@ -197,7 +197,7 @@ export default function Chronicles221() {
           to go a whoring, like to the whoredoms of the house of Ahab{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idol-worship)</span>
+              <span className="explanation">(idol-worship)</span>
             </span>
           </span>
           , and also have killed your brethren of your fathers house, which were
@@ -218,7 +218,7 @@ export default function Chronicles221() {
           sickness day by day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Elijah was basically a Prophet to the northern
                 kingdom of Israel, which was sometimes referred to as Samaria,
                 still, the Lord gave him this great word for Jehoram. Had the
@@ -238,7 +238,7 @@ export default function Chronicles221() {
           near the Ethiopians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we see the Lords hand in everything, be it negative or
                 positive, all based on disobedience or obedience)
               </span>
@@ -255,7 +255,7 @@ export default function Chronicles221() {
           never a son left him, save Jehoahaz, the youngest of his sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the first of two times in this period that the royal
                 line was cut off except for one boy the line that would be in
                 the lineage of Christ [
@@ -282,7 +282,7 @@ export default function Chronicles221() {
           him in his bowels with an incurable disease{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as the Prophet Elijah had predicted, because of his
                 gross wickedness; all sickness in Believers cannot be traced to
                 sin in their lives; however, most definitely, some can!)
@@ -300,7 +300,7 @@ export default function Chronicles221() {
           burning for him, like the burning of his fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, the Lord gave this wicked monarch two years in
                 which to repent; but he didnt!)
               </span>
@@ -316,7 +316,7 @@ export default function Chronicles221() {
           departed without being desired{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what an indictment!)</span>
+              <span className="explanation">(what an indictment!)</span>
             </span>
           </span>
           . Howbeit they buried him in the city of David, but not in the

@@ -32,7 +32,7 @@ export default function Deuteronmy21() {
           the yoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord was to be brought into all of this, thus showing His
                 tender Solicitude for individuals as well as for nations, and
                 the regard He had for family life Williams)
@@ -49,7 +49,7 @@ export default function Deuteronmy21() {
           sown, and shall strike off the heifers neck there in the valley{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (break the heifers neck; this was not a sacrifice, but simply a
                 symbolical representation of the infliction of death on the
                 undiscovered murderer)
@@ -67,7 +67,7 @@ export default function Deuteronmy21() {
           shall every controversy and every stroke be tried{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Priests were to be heavily involved, because everything as
                 it pertained to Israel was spiritual)
               </span>
@@ -89,7 +89,7 @@ export default function Deuteronmy21() {
           hands have not shed this blood, neither have our eyes seen it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again, all of this shows the sacredness of human life)
               </span>
             </span>
@@ -111,7 +111,7 @@ export default function Deuteronmy21() {
           in the sight of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (expiation was made by the killing of the transgressor, when he
                 could be found [
                 <ScrollLink href="/deuteronmy-19" scrollToId="#filepos2302830">
@@ -161,7 +161,7 @@ export default function Deuteronmy21() {
           unto her, and be her husband, and she shall be your wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of these things demanded were signs of purification, of
                 separation from former heathenism, preparatory to reception
                 among the Covenant People of Jehovah)
@@ -179,7 +179,7 @@ export default function Deuteronmy21() {
           her, because you have humbled her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Law of God, as given to Moses, which took into account even
                 the feelings of a slave girl, so to speak, which as well
                 guaranteed her rights; at that time, there was no law in the
@@ -218,7 +218,7 @@ export default function Deuteronmy21() {
           firstborn is his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the firstborn inherited twice as much as any of the other sons)
               </span>
             </span>
@@ -258,7 +258,7 @@ export default function Deuteronmy21() {
           among you; and all Israel shall hear, and fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gluttony and drunkenness were regarded by the Hebrews as highly
                 criminal; the word rendered by glutton includes other kinds of
                 excess besides eating; it designates one who is prodigal, who
@@ -287,7 +287,7 @@ export default function Deuteronmy21() {
           which the LORD your God gives you for an inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the reason that the religious leaders of Israel
                 demanded that Jesus be put on the Cross [
                 <ScrollLink href="/matthew-27" scrollToId="#filepos11306205">

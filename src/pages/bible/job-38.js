@@ -55,7 +55,7 @@ export default function Job38() {
           <sup className="calibre7">3</sup>Gird up now your loins like a man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He now speaks to Job)</span>
+              <span className="explanation">(He now speaks to Job)</span>
             </span>
           </span>
           ; for I will demand of you, and answer you Me{" "}
@@ -383,7 +383,7 @@ export default function Job38() {
           thereof, and that you should know the paths to the house thereof?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(No man can!)</span>
+              <span className="explanation">(No man can!)</span>
             </span>
           </span>
         </span>
@@ -508,7 +508,7 @@ export default function Job38() {
           ground; and to cause the bud of the tender herb to spring forth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Plants also need the rain.)</span>
+              <span className="explanation">(Plants also need the rain.)</span>
             </span>
           </span>
         </span>
@@ -538,7 +538,9 @@ export default function Job38() {
           and the face of the deep is frozen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Arctic and the Antarctic)</span>
+              <span className="explanation">
+                (the Arctic and the Antarctic)
+              </span>
             </span>
           </span>
         </span>

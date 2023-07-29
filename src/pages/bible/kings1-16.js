@@ -57,7 +57,7 @@ export default function Kings116() {
           your house like the house of Jeroboam the son of Nebat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(take away means exterminate)</span>
+              <span className="explanation">(take away means exterminate)</span>
             </span>
           </span>
         </span>
@@ -111,7 +111,7 @@ export default function Kings116() {
           being like the house of Jeroboam; and because he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Baasha)</span>
+              <span className="explanation">(Baasha)</span>
             </span>
           </span>{" "}
           killed him{" "}

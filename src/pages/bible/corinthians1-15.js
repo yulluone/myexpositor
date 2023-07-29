@@ -16,7 +16,7 @@ export default function Corinthians115() {
           you the Gospel which I Preached unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was to Paul that the meaning of the New Covenant was given,
                 which, in effect, was the meaning of the Cross and the
                 Resurrection)
@@ -26,13 +26,13 @@ export default function Corinthians115() {
           , which also you have received{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Salvation)</span>
+              <span className="explanation">(unto Salvation)</span>
             </span>
           </span>
           , and wherein you stand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(live a victorious life)</span>
+              <span className="explanation">(live a victorious life)</span>
             </span>
           </span>
           ;
@@ -43,7 +43,7 @@ export default function Corinthians115() {
           <sup className="calibre7">2</sup>By which also you are saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that belief in the Resurrection is absolutely
                 indispensable to ones Salvation)
               </span>
@@ -52,7 +52,7 @@ export default function Corinthians115() {
           , if ye keep in memory what I Preached unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/hebrews-02" scrollToId="#filepos14424657">
                   <span className="calibre_19">
@@ -68,7 +68,7 @@ export default function Corinthians115() {
           , unless ye have believed in vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to believing at first and then drawing back, which
                 will cause one to lose ones soul. This also causes the
                 unscriptural Doctrine of Unconditional Eternal Security to fall
@@ -84,7 +84,7 @@ export default function Corinthians115() {
           that which I also received{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the meaning of the New Covenant)
               </span>
             </span>
@@ -92,7 +92,7 @@ export default function Corinthians115() {
           , how that Christ died for our sins according to the Scriptures{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/psalm-022" scrollToId="#filepos5781003">
                   <span className="calibre_19">
@@ -113,7 +113,7 @@ export default function Corinthians115() {
           <sup className="calibre7">4</sup>And that He was buried{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because He really died, not merely swoon as some claim)
               </span>
             </span>
@@ -121,7 +121,7 @@ export default function Corinthians115() {
           , and that He rose again the third day according to the Scriptures{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/isaiah-53" scrollToId="#filepos7922773">
                   <span className="calibre_19">
@@ -151,19 +151,19 @@ export default function Corinthians115() {
           <sup className="calibre7">5</sup>And that He was seen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after His Resurrection)</span>
+              <span className="explanation">(after His Resurrection)</span>
             </span>
           </span>{" "}
           of Cephas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter)</span>
+              <span className="explanation">(Peter)</span>
             </span>
           </span>
           , then of the Twelve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proving that Paul was not meant to be the Twelfth Apostle, as
                 some claim)
               </span>
@@ -177,13 +177,13 @@ export default function Corinthians115() {
           <sup className="calibre7">6</sup>After that{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after those appearances)</span>
+              <span className="explanation">(after those appearances)</span>
             </span>
           </span>
           , He was seen of above five hundred Brethren at once{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many think this appearance took place in Galilee)
               </span>
             </span>
@@ -191,13 +191,13 @@ export default function Corinthians115() {
           ; of whom the greater part remain unto this present{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(are still alive)</span>
+              <span className="explanation">(are still alive)</span>
             </span>
           </span>
           , but some are fallen asleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(have died)</span>
+              <span className="explanation">(have died)</span>
             </span>
           </span>
           .
@@ -208,7 +208,7 @@ export default function Corinthians115() {
           <sup className="calibre7">7</sup>After that, He was seen of James{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lords Brother, who did not believe on Him during His
                 earthly Ministry [
                 <ScrollLink href="/john-07" scrollToId="#filepos12434511">
@@ -225,7 +225,7 @@ export default function Corinthians115() {
           ; then of all the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/luke-24" scrollToId="#filepos12280804">
                   <span className="calibre_19">
@@ -247,7 +247,7 @@ export default function Corinthians115() {
           also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was after the Ascension of Christ)
               </span>
             </span>
@@ -255,7 +255,7 @@ export default function Corinthians115() {
           , as of one born out of due time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He did not mean the timing was wrong, but rather that he was
                 not worthy of what the Lord did for him.)
               </span>
@@ -268,7 +268,7 @@ export default function Corinthians115() {
           <sup className="calibre7">9</sup>For I am the least of the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not mock modesty, but rather the most deep humility)
               </span>
             </span>
@@ -276,13 +276,13 @@ export default function Corinthians115() {
           , that am not meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthy)</span>
+              <span className="explanation">(worthy)</span>
             </span>
           </span>{" "}
           to be called an Apostle, because I persecuted the Church of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before his conversion)</span>
+              <span className="explanation">(before his conversion)</span>
             </span>
           </span>
           .
@@ -294,7 +294,7 @@ export default function Corinthians115() {
           am{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the Favor or Mercy of God)
               </span>
             </span>
@@ -308,7 +308,7 @@ export default function Corinthians115() {
           upon me was not in vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was not without effect, telling us that it is without effect
                 with many)
               </span>
@@ -317,7 +317,7 @@ export default function Corinthians115() {
           ; but I laboured more abundantly than they all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which Grace enabled Paul to do because he had a
                 greater grasp of Grace than anyone else, which speaks of the
                 Cross, the means of Grace)
@@ -327,7 +327,7 @@ export default function Corinthians115() {
           : yet not I, but the Grace of God which was with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is with all Believers who look toward the Cross [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -357,7 +357,7 @@ export default function Corinthians115() {
           I or they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this case, the other Apostles)
               </span>
             </span>
@@ -365,13 +365,13 @@ export default function Corinthians115() {
           , so we Preach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what they Preached)</span>
+              <span className="explanation">(what they Preached)</span>
             </span>
           </span>
           , and so you believed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (False teachers had been attempting to turn their Faith away
                 from the coming Resurrection. Let the reader understand that the
                 Resurrection and the Rapture are one and the same!)
@@ -390,7 +390,7 @@ export default function Corinthians115() {
           Resurrection of the dead?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some were actually repudiating the Doctrine of the
                 Resurrection.)
               </span>
@@ -404,7 +404,7 @@ export default function Corinthians115() {
           the dead, then is Christ not risen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Atonement and Resurrection are the two great foundation stones
                 of the Gospel, and if either of them is denied, then the Gospel
                 ceases to exist; once again, let us state the Truth that if one
@@ -421,7 +421,7 @@ export default function Corinthians115() {
           <sup className="calibre7">14</sup>And if Christ be not risen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if even one sin had been left unatoned, then Christ could not
                 have risen from the dead, for the wages of sin is death [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13362529">
@@ -459,7 +459,7 @@ export default function Corinthians115() {
           also vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(empty nothings)</span>
+              <span className="explanation">(empty nothings)</span>
             </span>
           </span>
           .
@@ -472,7 +472,7 @@ export default function Corinthians115() {
           Christ: Whom He raised not up, if so be that the dead rise not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Resurrection of all the Saints hinges completely upon the
                 Resurrection of Christ. The former guarantees the latter, and
                 without the former there is no latter.)
@@ -486,7 +486,7 @@ export default function Corinthians115() {
           <sup className="calibre7">16</sup>For if the dead rise not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if there is no Resurrection of all the Saints)
               </span>
             </span>
@@ -494,7 +494,7 @@ export default function Corinthians115() {
           , then is not Christ raised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a repetition of{" "}
                 <ScrollLink href="/" scrollToId="#filepos13731899">
                   <span className="calibre_19">
@@ -524,7 +524,7 @@ export default function Corinthians115() {
           vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all who do not believe in the Atonement and the Resurrection
                 have a useless faith)
               </span>
@@ -533,7 +533,7 @@ export default function Corinthians115() {
           ; you are yet in your sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sins are forgiven and cleansed only by and through what Christ
                 did at the Cross and in the Resurrection, and our Faith in that
                 Finished Work. Otherwise the sins remain, which presents a
@@ -549,7 +549,7 @@ export default function Corinthians115() {
           asleep in Christ are perished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lost forever)</span>
+              <span className="explanation">(lost forever)</span>
             </span>
           </span>
           .
@@ -561,7 +561,7 @@ export default function Corinthians115() {
           Christ, we are of all men most miserable.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which is coming in the Resurrection is so far ahead of
                 that which presently is, that there is no comparison.)
               </span>
@@ -578,7 +578,7 @@ export default function Corinthians115() {
           dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(so says the Holy Spirit)</span>
+              <span className="explanation">(so says the Holy Spirit)</span>
             </span>
           </span>
           ,{" "}
@@ -590,7 +590,7 @@ export default function Corinthians115() {
           become the Firstfruits of them who slept.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Resurrection of Christ guarantees the Resurrection of all
                 Saints.)
               </span>
@@ -609,7 +609,7 @@ export default function Corinthians115() {
           death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Adam and the Fall in the Garden of Eden, and speaks
                 of spiritual death, separation from God)
               </span>
@@ -624,7 +624,7 @@ export default function Corinthians115() {
           also the Resurrection of the dead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Lord Jesus Christ Who Atoned for all sin,
                 thereby, making it possible for man to be united once again with
                 God, which guarantees the Resurrection.)
@@ -638,7 +638,7 @@ export default function Corinthians115() {
           <sup className="calibre7">22</sup>For as in Adam all die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spiritual death, separation from God)
               </span>
             </span>
@@ -646,7 +646,7 @@ export default function Corinthians115() {
           , even so in Christ shall all be made alive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the first man, all died. In the Second Man, all shall be
                 made alive, at least all who will believe [
                 <ScrollLink href="/john-03" scrollToId="#filepos12332060">
@@ -667,7 +667,7 @@ export default function Corinthians115() {
           <sup className="calibre7">23</sup>But every man in his own order{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ first, and then all Believers thereafter)
               </span>
             </span>
@@ -675,7 +675,7 @@ export default function Corinthians115() {
           : Christ the Firstfruits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was the First One to be raised from the dead, never to die
                 again)
               </span>
@@ -684,7 +684,7 @@ export default function Corinthians115() {
           ; afterward they who are Christs at His coming.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the Rapture of the Church, not the Second
                 Coming [
                 <ScrollLink
@@ -714,7 +714,7 @@ export default function Corinthians115() {
           the end{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to the time immediately following the Rapture or
                 even the Second Coming, but rather to when all Satanic rule and
                 authority have been put down, which will take place at the
@@ -733,14 +733,14 @@ export default function Corinthians115() {
           , when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           shall have delivered up the Kingdom to God, even the Father; when He
           shall have put down all rule and all authority and power.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will have put down all of Satans rule, etc.; the means of
                 which were made possible by the Cross and the Resurrection.)
               </span>
@@ -753,13 +753,13 @@ export default function Corinthians115() {
           <sup className="calibre7">25</sup>For He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           must reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the 1,000 year reign of Christ on Earth after He
                 returns)
               </span>
@@ -768,7 +768,7 @@ export default function Corinthians115() {
           , till He has put all enemies under His Feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the subjugation of all evil powers, which will take place at
                 the conclusion of the Millennial Reign [Rev., Chpt.{" "}
                 <ScrollLink href="/revelation-20" scrollToId="#filepos15120787">
@@ -796,7 +796,7 @@ export default function Corinthians115() {
           shall be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(abolished)</span>
+              <span className="explanation">(abolished)</span>
             </span>
             <span>
               <span className="calibre_19">is</span>
@@ -805,7 +805,7 @@ export default function Corinthians115() {
           death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Death is the result of sin [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13362529">
                   <span className="calibre_19">
@@ -840,7 +840,7 @@ export default function Corinthians115() {
           feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God the Father has put all things under the Feet of Jesus.)
               </span>
             </span>
@@ -854,7 +854,7 @@ export default function Corinthians115() {
           manifest that He is excepted, which did put all things under Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This has reference to the fact that all things do not include
                 God the Father being made subject to Jesus. God is excepted, as
                 should be obvious.)
@@ -869,7 +869,7 @@ export default function Corinthians115() {
           unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that in Pauls day, this total dominion had not yet been
                 exercised and, in fact, has not done so unto this present hour;
                 but the time will come when it definitely shall be, which will
@@ -881,7 +881,7 @@ export default function Corinthians115() {
           things under Him, that God may be all in all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There will be no trace of evil left anywhere in the Universe.)
               </span>
             </span>
@@ -895,7 +895,7 @@ export default function Corinthians115() {
           baptized for the dead?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is actually saying, It is a fruitless point to Baptize for
                 the dead, which is unscriptural anyway, if there is no
                 Resurrection as some are teaching.)
@@ -913,7 +913,7 @@ export default function Corinthians115() {
           hour?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is he wouldnt live a life of constant jeopardy if
                 there were no Resurrection.)
               </span>
@@ -927,7 +927,7 @@ export default function Corinthians115() {
           have in Christ Jesus our Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Corinthians were able to rejoice in the Lord because Paul
                 had brought the Message of Redemption to them)
               </span>
@@ -936,7 +936,7 @@ export default function Corinthians115() {
           , I die daily.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is referring here to his life being in constant
                 danger on a daily basis. He is not referring to dying out to sin
                 daily. He argued that we should become dead to sin once, and
@@ -969,7 +969,7 @@ export default function Corinthians115() {
           rise not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not to be taken literally. He is actually saying, I am
                 risking my life daily, just as surely as those who fight the
                 wild beasts in the arenas; as well, as surely as these
@@ -980,7 +980,7 @@ export default function Corinthians115() {
           let us eat and drink; for to morrow we die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These words present the fatalism of those who do not believe in
                 a coming Resurrection. So the Apostle is saying, if there is no
                 Resurrection there is no Hope.)
@@ -994,7 +994,7 @@ export default function Corinthians115() {
           <sup className="calibre7">33</sup>Be not deceived{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the statement actually says, Do not go on being deceived!
                 meaning that many Corinthians had already been deceived into
                 believing there was no Resurrection)
@@ -1004,7 +1004,7 @@ export default function Corinthians115() {
           : evil communications corrupt good manners{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, evil occasions corrupt excellent
                 morals)
               </span>
@@ -1018,7 +1018,7 @@ export default function Corinthians115() {
           <sup className="calibre7">34</sup>Awake to Righteousness, and sin not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says, come to your senses)
               </span>
             </span>
@@ -1026,7 +1026,7 @@ export default function Corinthians115() {
           ; for some have not the Knowledge of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says, for some are ignorant of God and His Ways)
               </span>
             </span>
@@ -1040,7 +1040,7 @@ export default function Corinthians115() {
           to your shame.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I am speaking to shame you.)</span>
+              <span className="explanation">(I am speaking to shame you.)</span>
             </span>
           </span>
         </span>
@@ -1056,19 +1056,19 @@ export default function Corinthians115() {
               <span className="calibre_19">man</span>
             </span>
             <span>
-              <span className="calibre_19">(skeptic)</span>
+              <span className="explanation">(skeptic)</span>
             </span>
           </span>{" "}
           will say, How are the dead raised up?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The skeptics use sarcasm.)</span>
+              <span className="explanation">(The skeptics use sarcasm.)</span>
             </span>
           </span>{" "}
           and with what body do they come?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the form, shape, size, etc. False teachers were
                 making fun of the Doctrine of the Resurrection of the human
                 body.)
@@ -1088,7 +1088,7 @@ export default function Corinthians115() {
           fool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirits answer to those who taught this false
                 doctrine)
               </span>
@@ -1097,7 +1097,7 @@ export default function Corinthians115() {
           , that which you sow is not quickened, except it die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul takes this from the Words of Christ, when He spoke of the
                 seed falling to the ground and dying, and then bringing forth
                 much fruit, which is the nature of harvest [
@@ -1121,7 +1121,7 @@ export default function Corinthians115() {
           that body that shall be, but bear grain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the little seed, when sown, will bring forth a beautiful plant)
               </span>
             </span>
@@ -1132,7 +1132,7 @@ export default function Corinthians115() {
               <span className="calibre_19">grain</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one cannot tell from the seed exactly what the plant will be)
               </span>
             </span>
@@ -1148,7 +1148,7 @@ export default function Corinthians115() {
           pleased Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Resurrection process is in the Hands of God, Who can do all
                 things)
               </span>
@@ -1157,7 +1157,7 @@ export default function Corinthians115() {
           , and to every seed his own body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This thwarts every evolutionary speculation. Every person will
                 have their own body, not that of another. They will have their
                 own color, appearance, etc., minus imperfections.)
@@ -1177,7 +1177,7 @@ export default function Corinthians115() {
           not the same flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, a point that definitely contradicts the theory of
                 evolution)
               </span>
@@ -1204,7 +1204,7 @@ export default function Corinthians115() {
           another of birds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to all being flesh, but of different types)
               </span>
             </span>
@@ -1223,7 +1223,7 @@ export default function Corinthians115() {
           also celestial bodies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (heavenly bodies, such as the Sun, Moon, etc.)
               </span>
             </span>
@@ -1231,7 +1231,7 @@ export default function Corinthians115() {
           , and bodies terrestrial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (earthly bodies, which refer to human beings, animals, trees,
                 etc.)
               </span>
@@ -1258,7 +1258,7 @@ export default function Corinthians115() {
           another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the glory differs)</span>
+              <span className="explanation">(the glory differs)</span>
             </span>
           </span>
           .
@@ -1288,7 +1288,7 @@ export default function Corinthians115() {
           Star in glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul has a point here, which we will see in the next Verse.)
               </span>
             </span>
@@ -1306,7 +1306,7 @@ export default function Corinthians115() {
           the Resurrection of the dead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some Saints, due to greater faithfulness, will have greater
                 glory than others, which is the point of the previous Verse.)
               </span>
@@ -1315,13 +1315,13 @@ export default function Corinthians115() {
           It is sown in corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the grave)</span>
+              <span className="explanation">(refers to the grave)</span>
             </span>
           </span>
           ; it is raised in incorruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Glorified Form and the type of Body God will
                 provide)
               </span>
@@ -1335,7 +1335,7 @@ export default function Corinthians115() {
           <sup className="calibre7">43</sup>It is sown in dishonour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the awful indignity of dust to dust)
               </span>
             </span>
@@ -1343,19 +1343,21 @@ export default function Corinthians115() {
           ; it is raised in glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the same body, but glorified)</span>
+              <span className="explanation">
+                (the same body, but glorified)
+              </span>
             </span>
           </span>
           : it is sown in weakness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(death)</span>
+              <span className="explanation">(death)</span>
             </span>
           </span>
           ; it is raised in power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(life)</span>
+              <span className="explanation">(life)</span>
             </span>
           </span>
           :
@@ -1366,7 +1368,7 @@ export default function Corinthians115() {
           <sup className="calibre7">44</sup>It is sown a natural body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was energized by blood, before death)
               </span>
             </span>
@@ -1374,7 +1376,7 @@ export default function Corinthians115() {
           ; it is raised a Spiritual Body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (energized by the Holy Spirit, not blood, and will be of
                 immortal substance)
               </span>
@@ -1383,13 +1385,13 @@ export default function Corinthians115() {
           . There is a natural body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which we now have)</span>
+              <span className="explanation">(which we now have)</span>
             </span>
           </span>
           , and there is a Spiritual Body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Glorified Body of our Lord is the example, and our
                 Glorified Body will be like His [
                 <ScrollLink href="/john1-3" scrollToId="#filepos14809269">
@@ -1413,7 +1415,7 @@ export default function Corinthians115() {
           <sup className="calibre7">45</sup>And so it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-02" scrollToId="#filepos32350">
                   <span className="calibre_19">
@@ -1429,13 +1431,13 @@ export default function Corinthians115() {
           , The first man Adam was made a living soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the natural body)</span>
+              <span className="explanation">(the natural body)</span>
             </span>
           </span>
           ; the last Adam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
             <span>
               <span className="calibre_19">was made</span>
@@ -1444,7 +1446,7 @@ export default function Corinthians115() {
           a quickening Spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word last is used. No other will ever be needed. Quickening
                 refers to making all alive who trust Him.)
               </span>
@@ -1463,13 +1465,13 @@ export default function Corinthians115() {
           not first which is spiritual, but that which is natural{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Adam came first)</span>
+              <span className="explanation">(Adam came first)</span>
             </span>
           </span>
           ; and afterward that which is spiritual.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ, as the Last Adam, came second in order to undo that
                 which occurred at the Fall.)
               </span>
@@ -1482,7 +1484,7 @@ export default function Corinthians115() {
           <sup className="calibre7">47</sup>The first man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Adam)</span>
+              <span className="explanation">(Adam)</span>
             </span>
             <span>
               <span className="calibre_19">is</span>
@@ -1491,13 +1493,13 @@ export default function Corinthians115() {
           of the earth, earthy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(materialistic)</span>
+              <span className="explanation">(materialistic)</span>
             </span>
           </span>
           : the Second Man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
             <span>
               <span className="calibre_19">is</span>
@@ -1506,7 +1508,7 @@ export default function Corinthians115() {
           the Lord from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a vast difference between the first man and the Second Man)
               </span>
             </span>
@@ -1531,7 +1533,7 @@ export default function Corinthians115() {
           they also who are earthy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the body and its present condition to which Paul points
                 with the term earthy)
               </span>
@@ -1552,7 +1554,7 @@ export default function Corinthians115() {
           they also who are Heavenly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the Heavenly One, and all who are the Heavenly ones
                 are like Him. Paul is continuing to speak of the Resurrection,
                 and what it will be like.)
@@ -1567,7 +1569,7 @@ export default function Corinthians115() {
           the earthy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that as our first father, we are frail,
                 decaying, and dying)
               </span>
@@ -1576,7 +1578,7 @@ export default function Corinthians115() {
           , we shall also bear the image of the Heavenly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us what we will be like in the Resurrection, i.e.,
                 like Him.)
               </span>
@@ -1590,7 +1592,7 @@ export default function Corinthians115() {
           and blood cannot inherit the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to our present physical bodies as they are now)
               </span>
             </span>
@@ -1598,7 +1600,7 @@ export default function Corinthians115() {
           ; neither does corruption inherit incorruption.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Flesh and blood comes under corruption, while the Kingdom of
                 God comes under incorruption.)
               </span>
@@ -1614,7 +1616,7 @@ export default function Corinthians115() {
           <sup className="calibre7">51</sup>Behold, I show you a mystery{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a new Revelation given by the Holy Spirit to Paul concerning
                 the Resurrection, i.e., Rapture)
               </span>
@@ -1623,7 +1625,7 @@ export default function Corinthians115() {
           ; We shall not all sleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the time of the Resurrection [Rapture], many Christians will
                 be alive)
               </span>
@@ -1632,7 +1634,7 @@ export default function Corinthians115() {
           , but we shall all be changed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (both those who are dead and those who are alive)
               </span>
             </span>
@@ -1646,7 +1648,7 @@ export default function Corinthians115() {
           eye{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims how long it will take for this change to take place)
               </span>
             </span>
@@ -1654,7 +1656,7 @@ export default function Corinthians115() {
           , at the last trump{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not denote by the use of the word last that there will be
                 successive trumpet blasts, but rather denotes that this is the
                 close of things, referring to the Church Age)
@@ -1664,7 +1666,7 @@ export default function Corinthians115() {
           : for the trumpet shall sound{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the Trump of God [
                 <ScrollLink
                   href="/thessalonians1-3"
@@ -1683,7 +1685,7 @@ export default function Corinthians115() {
           , and the dead shall be raised incorruptible{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sainted dead, with no sin nature)
               </span>
             </span>
@@ -1691,7 +1693,7 @@ export default function Corinthians115() {
           , and we shall be changed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(put on the Glorified Body)</span>
+              <span className="explanation">(put on the Glorified Body)</span>
             </span>
           </span>
           .
@@ -1702,13 +1704,13 @@ export default function Corinthians115() {
           <sup className="calibre7">53</sup>For this corruptible{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sin nature)</span>
+              <span className="explanation">(sin nature)</span>
             </span>
           </span>{" "}
           must put on incorruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a Glorified Body with no sin nature)
               </span>
             </span>
@@ -1716,7 +1718,7 @@ export default function Corinthians115() {
           , and this mortal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(subject to death)</span>
+              <span className="explanation">(subject to death)</span>
             </span>
             <span>
               <span className="calibre_19">must</span>
@@ -1725,7 +1727,7 @@ export default function Corinthians115() {
           put on immortality{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will never die)</span>
+              <span className="explanation">(will never die)</span>
             </span>
           </span>
           .
@@ -1736,13 +1738,13 @@ export default function Corinthians115() {
           <sup className="calibre7">54</sup>So when this corruptible{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sin nature)</span>
+              <span className="explanation">(sin nature)</span>
             </span>
           </span>{" "}
           shall have put on incorruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Divine Nature in total control by the Holy Spirit)
               </span>
             </span>
@@ -1750,20 +1752,20 @@ export default function Corinthians115() {
           , and this mortal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(subject to death)</span>
+              <span className="explanation">(subject to death)</span>
             </span>
           </span>{" "}
           shall have put on immortality{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will never die)</span>
+              <span className="explanation">(will never die)</span>
             </span>
           </span>
           , then shall be brought to pass the saying that is written, Death is
           swallowed up in Victory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/isaiah-25" scrollToId="#filepos7526793">
                   <span className="calibre_19">
@@ -1799,7 +1801,7 @@ export default function Corinthians115() {
           your sting?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the Apostle looking ahead, and exulting in this
                 great coming victory. Sin was forever Atoned at the Cross, which
                 took away the sting of death.)
@@ -1815,7 +1817,7 @@ export default function Corinthians115() {
           your victory?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to death being conquered, the grave is no more and, once
                 again, all because of what Christ did at the Cross [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
@@ -1842,7 +1844,7 @@ export default function Corinthians115() {
           sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually says, The sting of the death is the sin; the words the
                 sin refer to the sin nature, which came about at the Fall, and
                 results in death [
@@ -1866,7 +1868,7 @@ export default function Corinthians115() {
           the Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the Law of Moses. It defined sin and stressed its
                 penalty, which is death [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
@@ -1893,7 +1895,7 @@ export default function Corinthians115() {
           to God, which gives us the victory through our Lord Jesus Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This victory was won exclusively at the Cross, with the
                 Resurrection ratifying what had been done.)
               </span>
@@ -1907,7 +1909,7 @@ export default function Corinthians115() {
           ye stedfast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (established, with your Faith firmly attached to the Cross of
                 Christ)
               </span>
@@ -1916,7 +1918,7 @@ export default function Corinthians115() {
           , unmoveable{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not allowing your Faith to be moved from the Cross of Christ)
               </span>
             </span>
@@ -1924,7 +1926,7 @@ export default function Corinthians115() {
           , always abounding in the Work of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (telling others of what Jesus has done, regarding His great
                 victory of the Cross)
               </span>
@@ -1933,7 +1935,7 @@ export default function Corinthians115() {
           , forasmuch as you know that your labour is not in vain in the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is proclaiming that the Word of the Cross will always
                 bring glorious results [
                 <ScrollLink

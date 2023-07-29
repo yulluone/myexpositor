@@ -16,7 +16,7 @@ export default function Ezekiel30() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, The natural heart quickly wearies of these
                 repeated threatenings of judgment, hence, the Book of Jeremiah
                 and Ezekiel are by and large unpopular in Christendom, and
@@ -35,7 +35,7 @@ export default function Ezekiel30() {
           says the Lord GOD; Howl you, Woe worth the day!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is basically divided into two sections.{" "}
                 <ScrollLink href="/" scrollToId="#filepos9439571">
                   <span className="calibre_19">
@@ -78,7 +78,7 @@ export default function Ezekiel30() {
           the LORD is near, a cloudy day; it shall be the time of the heathen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Day of the LORD, refers to the Second Advent of Christ and
                 continues through the Millennium. The Holy Spirit through the
                 Prophet is saying that the Great Tribulation means that the
@@ -124,7 +124,7 @@ export default function Ezekiel30() {
           league, shall fall with them by the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These two Verses have to do with the opening of the second seal
                 in the coming Great Tribulation, when power will be given to the
                 Antichrist to take peace from the Earth [
@@ -151,7 +151,7 @@ export default function Ezekiel30() {
           Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The description furnished in this Passage pertains to one end
                 of Egypt to the other.)
               </span>
@@ -166,7 +166,7 @@ export default function Ezekiel30() {
           the midst of the cities that are wasted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The desolation that is referred to in this Verse will have its
                 fulfillment in the third seal. There it says, Come and see. And
                 I beheld, and lo a black horse; and he who sat on him had a pair
@@ -193,7 +193,7 @@ export default function Ezekiel30() {
           be destroyed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the Antichrist will attack Egypt, making his bid
                 for world dominion, of which Egypt will be the first, still, the
                 Lord is the One setting the parameters for the Antichrist, and
@@ -210,7 +210,7 @@ export default function Ezekiel30() {
           pain shall come upon them, as in the day of Egypt: for, lo, it comes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For, lo, it comes, proclaims the certitude of the Prophecies.
                 There is no way that man can avoid it, but with one exception! I
                 speak of the Rapture of the Church [
@@ -251,7 +251,7 @@ export default function Ezekiel30() {
           king of Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is often done with Bible Prophecy, the thrust of direction
                 will automatically change, and without warning [
                 <ScrollLink href="/isaiah-61" scrollToId="#filepos8031080">
@@ -284,7 +284,7 @@ export default function Ezekiel30() {
           slain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The terrible of the nations, refers to the power of the
                 Babylonians as those who were to execute the Divine Judgments.)
               </span>
@@ -308,7 +308,7 @@ export default function Ezekiel30() {
           put a fear in the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Noph was the Greek Memphis, the capital of lower Egypt and the
                 chief center of the worship of the god Phthah. These were
                 destroyed by the invading Babylonians.
@@ -340,7 +340,7 @@ export default function Ezekiel30() {
           and will set fire in Zoan, and will execute judgments in No.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were all major cities in Egypt; each was the location of
                 concentrated idol worship.)
               </span>
@@ -354,7 +354,7 @@ export default function Ezekiel30() {
           the strength of Egypt; and I will cut off the multitude of No.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sin was a major Egyptian city in the Egyptian Delta. It stood
                 on the eastern branch of the Nile, surrounded by swamps, and its
                 position made it, in modern terminology, the key of Egypt.
@@ -385,7 +385,7 @@ export default function Ezekiel30() {
           have distresses daily.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Babylonians were so sure of their victory that they gave
                 little respect to Egyptian defenses, as prophesied by Ezekiel.)
               </span>
@@ -400,7 +400,7 @@ export default function Ezekiel30() {
           captivity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These two cities, Aven and Pi-beseth, are Heliopolis and
                 Bubastis, where a famous temple to the Sun was situated.
                 Bubastis was located on what is now the Suez Canal; it derived
@@ -431,7 +431,7 @@ export default function Ezekiel30() {
           and her daughters shall go into captivity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tehaphnehes was the Tehaphnehes of{" "}
                 <ScrollLink href="/jeremiah-43" scrollToId="#filepos8758018">
                   <span className="calibre_19">
@@ -478,7 +478,7 @@ export default function Ezekiel30() {
           Egypt: and they shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they shall know that I am the LORD, is used repeatedly by
                 the Holy Spirit through Ezekiel. The statement is made in order
                 to counter the boastful, prideful, arrogant attitudes of not
@@ -498,7 +498,7 @@ export default function Ezekiel30() {
           Word of the LORD came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was about three months before the destruction of Jerusalem
                 [
                 <ScrollLink href="/kings2-25" scrollToId="#filepos4357951">
@@ -532,7 +532,7 @@ export default function Ezekiel30() {
           to put a roller to bind it, to make it strong to hold the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse pertains to the destruction of Egypt by
                 Nebuchadnezzar, and it never rising again as a world power.)
               </span>
@@ -548,7 +548,7 @@ export default function Ezekiel30() {
           fall out of his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And will break his arms, actually has reference to two distinct
                 engagements. The first arm was broken at Carchemish by
                 Nebuchadnezzar, as prophesied by Jeremiah [
@@ -572,7 +572,7 @@ export default function Ezekiel30() {
           among the nations, and will disperse them through the countries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(This, Nebuchadnezzar did!)</span>
+              <span className="explanation">(This, Nebuchadnezzar did!)</span>
             </span>
           </span>
         </span>
@@ -594,7 +594,7 @@ export default function Ezekiel30() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The facts were: the Lord would strengthen the king of Babylon,
                 while He would weaken the arms of Pharaoh. As a result, his arms
                 would fall down.)
@@ -610,7 +610,7 @@ export default function Ezekiel30() {
           shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After the scattering, they will see that they have been
                 fighting against God. So the Prophet ends this Chapter with the
                 ever-recurring formula, they shall know that I am the LORD.)

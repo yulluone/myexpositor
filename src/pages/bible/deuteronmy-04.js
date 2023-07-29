@@ -18,7 +18,7 @@ export default function Deuteronmy04() {
           God of your fathers gives you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law of God was divided into three parts, the Civil, the
                 Ceremonial, and the Moral. The truth is, due to mans fallen
                 condition, keeping the Law of God was beyond his ability. So,
@@ -46,7 +46,7 @@ export default function Deuteronmy04() {
           keep the Commandments of the LORD your God which I command you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regrettably, Israel decimated this Command; by the time of
                 Christ, they had added over 600 oral laws to the original Law of
                 Moses, even claiming that the oral laws were more important;
@@ -65,7 +65,7 @@ export default function Deuteronmy04() {
           your God has destroyed them from among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this should have been a lesson!)
               </span>
             </span>
@@ -94,7 +94,7 @@ export default function Deuteronmy04() {
           is a wise and understanding people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law of God, devised totally by the Lord, placed Israel
                 light-years ahead of all the surrounding nations, and in every
                 capacity.)
@@ -110,7 +110,7 @@ export default function Deuteronmy04() {
           that we call upon Him for?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, no other nation throughout the entirety of the world
                 was so blessed as Israel. The Lord belonged to Israel
                 exclusively.)
@@ -126,7 +126,7 @@ export default function Deuteronmy04() {
           set before you this day?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(None!)</span>
+              <span className="explanation">(None!)</span>
             </span>
           </span>
         </span>
@@ -139,7 +139,7 @@ export default function Deuteronmy04() {
           but teach them to your sons, and your sons sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the key to all continued blessings)
               </span>
             </span>
@@ -163,7 +163,7 @@ export default function Deuteronmy04() {
           heaven, with darkness, clouds, and thick darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses takes Israel back, at least in their remembrance, to
                 Mount Sinai, where the Law was originally given)
               </span>
@@ -179,7 +179,7 @@ export default function Deuteronmy04() {
           similitude; only you heard a Voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did not see the shape of God)
               </span>
             </span>
@@ -194,7 +194,7 @@ export default function Deuteronmy04() {
           and He wrote them upon two tables of stone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the Moral Law, and it is still in force, because Moral
                 Law cannot change. Believers keep the Law by simply trusting
                 Christ and what Christ did at the Cross, which gives the Holy
@@ -221,7 +221,7 @@ export default function Deuteronmy04() {
           the land where you go over to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was required of every Israelite that they understand the
                 Law)
               </span>
@@ -247,7 +247,7 @@ export default function Deuteronmy04() {
           male or female{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, had they seen a similitude of God, they would
                 have fashioned an idol as to what they had seen; the implication
                 here is that God has a Spirit Body)
@@ -263,7 +263,7 @@ export default function Deuteronmy04() {
           the Earth, the likeness of any winged fowl that flies in the air{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no image is to be made of anything of this nature)
               </span>
             </span>
@@ -287,7 +287,7 @@ export default function Deuteronmy04() {
           whole heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (most of the nations of the world worshipped these things
                 mentioned here by the Lord)
               </span>
@@ -317,7 +317,7 @@ export default function Deuteronmy04() {
           not go over Jordan: but you shall go over, and possess that good land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (how these words must have hurt Moses)
               </span>
             </span>
@@ -342,7 +342,7 @@ export default function Deuteronmy04() {
           fire, even a jealous God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is jealous over His People, because He loves us, and will
                 not endure any rivalry in our affection and devotion)
               </span>
@@ -360,7 +360,7 @@ export default function Deuteronmy04() {
           provoke Him to anger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while those in the modern Church do not make graven images of
                 sorts, still, idolatry, sadly, is alive and well; anything that
                 we place before Christ and Him Crucified becomes an idol; to be
@@ -379,7 +379,7 @@ export default function Deuteronmy04() {
           your days upon it, but shall utterly be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the warning is clear!)</span>
+              <span className="explanation">(the warning is clear!)</span>
             </span>
           </span>
         </span>
@@ -391,7 +391,7 @@ export default function Deuteronmy04() {
           the nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and thats exactly what happened)
               </span>
             </span>
@@ -400,7 +400,7 @@ export default function Deuteronmy04() {
           LORD shall lead you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whatever nation that the Israelites found themselves in, they
                 would always be in the minority, and treated accordingly)
               </span>
@@ -423,7 +423,7 @@ export default function Deuteronmy04() {
           heart and with all your soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What a beautiful Promise! If honesty and sincerity find lodging
                 in the heart of any person, irrespective as to what they have
                 done, if the Lord is sought, He will be found.)
@@ -438,7 +438,7 @@ export default function Deuteronmy04() {
           these things are come upon you, even in the latter days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to the coming Great Tribulation [
                 <ScrollLink href="/matthew-24" scrollToId="#filepos11227963">
                   <span className="calibre_19">
@@ -462,7 +462,7 @@ export default function Deuteronmy04() {
           Covenant of your fathers which He swore unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (ultimately, the Lord will bring the Jews back to their rightful
                 place, with every Promise being kept, which will take place at
                 the Second Coming [
@@ -492,7 +492,7 @@ export default function Deuteronmy04() {
           heard like it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord delivered Israel out of Egyptian bondage and, as well,
                 was with Israel through the entirety of the past forty years,
                 performing miracles on a daily basis; no, there had never been
@@ -524,7 +524,7 @@ export default function Deuteronmy04() {
           might know that the LORD He is God; there is none else beside Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there is no other God)</span>
+              <span className="explanation">(there is no other God)</span>
             </span>
           </span>
         </span>
@@ -542,7 +542,7 @@ export default function Deuteronmy04() {
           <sup className="calibre7">37</sup>And because He loved your fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham, Isaac, Jacob, etc.)</span>
+              <span className="explanation">(Abraham, Isaac, Jacob, etc.)</span>
             </span>
           </span>
           , therefore He chose their seed after them, and brought you out in His
@@ -572,7 +572,7 @@ export default function Deuteronmy04() {
           you, for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Expositors say, The sum of this whole exhortation is, first
                 of all, to acknowledge and lay to heart that God is the Alone
                 God of the universe, in Heaven and on Earth; hence, as well, to
@@ -592,7 +592,7 @@ export default function Deuteronmy04() {
           this side Jordan toward the sunrising{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as cities of refuge)</span>
+              <span className="explanation">(as cities of refuge)</span>
             </span>
           </span>
           ;
@@ -605,7 +605,7 @@ export default function Deuteronmy04() {
           past; and that fleeing unto one of these cities he might live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not for murderers, but for those who would kill accidentally)
               </span>
             </span>

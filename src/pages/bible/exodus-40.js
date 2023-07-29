@@ -24,7 +24,7 @@ export default function Exodus40() {
           shall you set up the Tabernacle of the tent of the congregation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The setting up of the Tabernacle, with the Sacred Vessels
                 placed in proper order so that the proper worship of the Lord
                 may begin, was the single most important thing on Earth at that
@@ -40,13 +40,13 @@ export default function Exodus40() {
           the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ark of the Covenant)</span>
+              <span className="explanation">(Ark of the Covenant)</span>
             </span>
           </span>
           , and cover the Ark with the Veil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (hang the Veil between the Holy Place and the Holy of Holies,
                 with the Ark situated in the latter; the Veil thereby hid it
                 from view)
@@ -62,7 +62,7 @@ export default function Exodus40() {
           set in order the things that are to be set in order upon it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (put the twelve loaves of bread on the Table)
               </span>
             </span>
@@ -70,13 +70,13 @@ export default function Exodus40() {
           ; and you shall bring in the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>
           , and light the lamps thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lampstand sat on the north side of the Tabernacle, with the
                 Table of Shewbread situated on the south side)
               </span>
@@ -92,7 +92,7 @@ export default function Exodus40() {
           of the door to the Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was at the front of the Tabernacle, which led into the
                 Holy Place)
               </span>
@@ -108,7 +108,7 @@ export default function Exodus40() {
           congregation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Brazen Altar was a Type of the Cross)
               </span>
             </span>
@@ -123,7 +123,7 @@ export default function Exodus40() {
           therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Priests, upon entering the Holy Place, which they did
                 constantly, had to wash their hands and feet in this water each
                 time they went in, signifying the cleansing by the Word, which
@@ -140,13 +140,13 @@ export default function Exodus40() {
           about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fence)</span>
+              <span className="explanation">(the fence)</span>
             </span>
           </span>
           , and hang up the hanging at the court gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the one entrance into the Court)
               </span>
             </span>
@@ -159,7 +159,7 @@ export default function Exodus40() {
           <sup className="calibre7">9</sup>And you shall take the anointing Oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a Type of the Holy Spirit, which would anoint Christ [
                 <ScrollLink href="/luke-04" scrollToId="#filepos11778560">
                   <span className="calibre_19">
@@ -175,13 +175,13 @@ export default function Exodus40() {
           , and anoint the Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of Christ)</span>
+              <span className="explanation">(a Type of Christ)</span>
             </span>
           </span>
           , and all that is therein, and shall hallow it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (consecrate it totally to the Lord)
               </span>
             </span>
@@ -196,7 +196,7 @@ export default function Exodus40() {
           it shall be an Altar most holy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ sanctified the Altar, i.e., the Cross, meaning that the
                 Cross didnt sanctify Christ. This completely refutes the
                 unscriptural doctrine that Jesus died spiritually on the Cross.
@@ -238,7 +238,7 @@ export default function Exodus40() {
           them with water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The water is typical of the Word of God [
                 <ScrollLink href="/ephesians-5" scrollToId="#filepos14063009">
                   <span className="calibre_19">
@@ -260,7 +260,7 @@ export default function Exodus40() {
           unto Me in the Priests office.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no more Priesthood in the New Covenant, because Christ
                 has satisfied all the demands of Mediation, with Himself
                 becoming the Mediator. It was all done through the Cross [
@@ -291,7 +291,7 @@ export default function Exodus40() {
           throughout their generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as long as the Old Covenant lasted, which it did unto Christ)
               </span>
             </span>
@@ -305,7 +305,7 @@ export default function Exodus40() {
           that the LORD commanded him, so did he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he never deviated from the pattern, not whatsoever)
               </span>
             </span>
@@ -320,7 +320,7 @@ export default function Exodus40() {
           Tabernacle was reared up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first day of the first month of the second year, in a
                 sense, tells Israel that they now have a new beginning. They
                 should be careful that they make the most of it.)
@@ -343,7 +343,7 @@ export default function Exodus40() {
           LORD commanded Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Today, these things are but a memory, having all been satisfied
                 by what Christ did at the Cross, which made them unnecessary.
                 But until Christ came, the Tabernacle and the Temple were
@@ -358,7 +358,7 @@ export default function Exodus40() {
           <sup className="calibre7">20</sup>And he took and put the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ten Commandments, written on two stone tablets)
               </span>
             </span>
@@ -373,13 +373,13 @@ export default function Exodus40() {
           Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(into the Holy of Holies)</span>
+              <span className="explanation">(into the Holy of Holies)</span>
             </span>
           </span>
           , and set up the Veil of the covering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (separating the Holy of Holies from the Holy Place)
               </span>
             </span>
@@ -392,7 +392,7 @@ export default function Exodus40() {
           <sup className="calibre7">22</sup>And he put the Table{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Table of Shewbread)</span>
+              <span className="explanation">(Table of Shewbread)</span>
             </span>
           </span>{" "}
           in the tent of the congregation, upon the side of the Tabernacle
@@ -405,7 +405,7 @@ export default function Exodus40() {
           it before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(twelve loaves)</span>
+              <span className="explanation">(twelve loaves)</span>
             </span>
           </span>
           ; as the LORD had commanded Moses.
@@ -416,7 +416,7 @@ export default function Exodus40() {
           <sup className="calibre7">24</sup>And he put the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>{" "}
           in the tent of the congregation, over against the Table, on the side
@@ -429,7 +429,7 @@ export default function Exodus40() {
           LORD; as the LORD commanded Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses lit the lamps before the Lord, which referred to the fact
                 that the Lord was minutely inspecting everything that was done.)
               </span>
@@ -442,13 +442,13 @@ export default function Exodus40() {
           <sup className="calibre7">26</sup>And he put the Golden Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Altar of Incense)</span>
+              <span className="explanation">(Altar of Incense)</span>
             </span>
           </span>{" "}
           in the tent of the congregation before the Veil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was situated in the Holy Place, in fact, sitting immediately
                 in front of the Ark of the Covenant, but separated by the Veil)
               </span>
@@ -463,7 +463,7 @@ export default function Exodus40() {
           as the LORD commanded Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was burned twice a day, at the time of the morning and
                 evening Sacrifices 9 a.m. and 3 p.m.)
               </span>
@@ -478,7 +478,7 @@ export default function Exodus40() {
           door of the Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the front door, covered by a curtain containing the same colors
                 as the Veil immediately in front of the Holy of Holies)
               </span>
@@ -493,7 +493,7 @@ export default function Exodus40() {
           Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of the Cross)</span>
+              <span className="explanation">(a Type of the Cross)</span>
             </span>
           </span>{" "}
           by the door of the Tabernacle of the tent of the congregation, and
@@ -501,7 +501,7 @@ export default function Exodus40() {
           commanded Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Tabernacle, having been made according to the Divine
                 Pattern, even as we shall see, was filled with the Divine Glory,
                 but not until precious blood had been shed by the Sacrifices on
@@ -532,7 +532,7 @@ export default function Exodus40() {
           the LORD commanded Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The water typified the Word, with the washing typifying its
                 application. Without the Word being applied to our lives, it
                 serves no purpose.)
@@ -547,19 +547,19 @@ export default function Exodus40() {
           about the Tabernacle and the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fence)</span>
+              <span className="explanation">(the fence)</span>
             </span>
           </span>
           , and set up the hanging of the Court gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the entrance to the Court)</span>
+              <span className="explanation">(the entrance to the Court)</span>
             </span>
           </span>
           . So Moses finished the work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and exactly as the Lord had instructed him)
               </span>
             </span>
@@ -576,7 +576,7 @@ export default function Exodus40() {
           congregation, and the Glory of the LORD filled the Tabernacle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Glory that filled the Tabernacle fills our hearts and lives
                 presently in the Person of the Holy Spirit.)
               </span>
@@ -591,7 +591,7 @@ export default function Exodus40() {
           Glory of the LORD filled the Tabernacle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea seems to be that Moses attempted to enter the
                 Tabernacle, but the Glory of the Lord occupied the Tabernacle,
                 at least at this time, in such a powerful way that the Law-Giver
@@ -609,7 +609,7 @@ export default function Exodus40() {
           journeys.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel did not determine or decide where they would go, or how
                 long they would stay where they were. Not even Moses decided
                 this. It was all decided by the moving of the Cloud. The great
@@ -625,7 +625,7 @@ export default function Exodus40() {
           then they journeyed not till the day that it was taken up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They didnt move until the Cloud moved.)
               </span>
             </span>
@@ -639,7 +639,7 @@ export default function Exodus40() {
           all the House of Israel, throughout all their journeys.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So, the great Book of Exodus closes out with the Glory of the
                 Lord. It began with the People of God serving as slaves in
                 Egypt. It ends with them free from Egyptian bondage and,

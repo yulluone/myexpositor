@@ -18,7 +18,7 @@ export default function Deuteronmy01() {
           Hazeroth, and Dizahab.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Message was given by Moses to Israel shortly before the
                 great Law-giver died, and thereby shortly before Israel went
                 into the Promised Land.)
@@ -49,7 +49,7 @@ export default function Deuteronmy01() {
           had given him in Commandment unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this will be his last word to Israel; the time of these Words
                 will be approximately a month previous to his death; the theme
                 of his Message is that possession of Canaan was dependent upon
@@ -68,7 +68,7 @@ export default function Deuteronmy01() {
           dwelt at Astaroth in Edrei{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the destruction of these kings, who sought to bar the access
                 of the Israelites to the Promised Land, God had given proof that
                 He would indeed fulfill His Promise to His people)
@@ -84,7 +84,7 @@ export default function Deuteronmy01() {
           Moab, began Moses to declare this Law, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing but prosperity was promised upon fidelity to that Law,
                 and nothing but misery if unfaithful thereto; a lesson of the
                 Book is the impossibility of the natural man taking hold upon
@@ -101,7 +101,7 @@ export default function Deuteronmy01() {
           Horeb, saying, You have dwelt long enough in this Mount{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Lord our God, implies the Covenant union of Israel
                 with Jehovah, and presupposes the existence of that Covenant,
                 which was entered into at Sinai)
@@ -120,7 +120,7 @@ export default function Deuteronmy01() {
           Lebanon, unto the great river, the river Euphrates.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This description encompasses the whole of the Promised Land. It
                 included all of modern Jordan, Syria, and even Iraq, at least as
                 far as the Euphrates River. It was considerably larger than the
@@ -140,7 +140,7 @@ export default function Deuteronmy01() {
           seed after them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God keeps His Promises! As well, Israel could have occupied the
                 land 38 years earlier had they evidenced faith)
               </span>
@@ -165,7 +165,7 @@ export default function Deuteronmy01() {
           multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as the Lord told Abraham it would be [
                 <ScrollLink href="/genesis-15" scrollToId="#filepos192788">
                   <span className="calibre_19">
@@ -203,7 +203,7 @@ export default function Deuteronmy01() {
           cumbrance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(entanglements)</span>
+              <span className="explanation">(entanglements)</span>
             </span>
           </span>
           , and your burden, and your strife?
@@ -216,7 +216,7 @@ export default function Deuteronmy01() {
           rulers over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (you select the ones you desire)
               </span>
             </span>
@@ -260,7 +260,7 @@ export default function Deuteronmy01() {
           the things which you should do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It appears from the following Passages that this arrangement of
                 the people selecting leaders over them did not turn out too very
                 well. These leaders, even as the following Passages proclaim,
@@ -304,7 +304,7 @@ export default function Deuteronmy01() {
           into what cities we shall come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we plan for ourselves, in some way, the plans are always
                 wrong. If we allow God to plan for us, His plans are guaranteed
                 of success. Israel did not allow the Lord, at least at this
@@ -321,7 +321,7 @@ export default function Deuteronmy01() {
           I took twelve men of you, one of a Tribe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was guilty somewhat in this situation, as well; he should
                 have taken the matter to the Lord, but the evidence is that he
                 didnt)
@@ -359,7 +359,7 @@ export default function Deuteronmy01() {
           us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they lied on God; to be sure, that is one of the biggest sins
                 in the modern Church, as well!)
               </span>
@@ -376,7 +376,7 @@ export default function Deuteronmy01() {
           have seen the sons of the Anakims there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they saw the walled cities and the giants; what is it that you
                 see?)
               </span>
@@ -391,7 +391,7 @@ export default function Deuteronmy01() {
           neither be afraid of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are to see the Promises of God alone, for we walk by Faith
                 and not by sight)
               </span>
@@ -407,7 +407,7 @@ export default function Deuteronmy01() {
           Egypt before your eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had seen the great miracles of the Lord, so they should
                 have known better)
               </span>
@@ -423,7 +423,7 @@ export default function Deuteronmy01() {
           son, in all the way that you went, until you came into this place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the miracles which began in Egypt continued in the wilderness,
                 and were obvious to all)
               </span>
@@ -438,7 +438,7 @@ export default function Deuteronmy01() {
           believe the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they registered a continuing unbelief)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Deuteronmy01() {
           show you by what way you should go, and in a cloud by day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the visible Presence of God was obvious, both day and night,
                 and for all to see; as well, that visible Presence led them, and
                 supplied their every need; so, again and again, due to the
@@ -481,7 +481,7 @@ export default function Deuteronmy01() {
           unto your fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all Promises of God to us are dependent upon our obedience, and
                 that speaks of continuing Faith in Him)
               </span>
@@ -497,7 +497,7 @@ export default function Deuteronmy01() {
           upon, and to his children, because he has wholly followed the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is no respecter of persons; what He did for Caleb and
                 Joshua, He will do for any and all who believe Him)
               </span>
@@ -512,7 +512,7 @@ export default function Deuteronmy01() {
           your sakes, saying, You also shall not go in thither{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of his own failure in striking the Rock, when he was
                 told to speak to It [
                 <ScrollLink href="/numbers-20" scrollToId="#filepos1937197">
@@ -536,7 +536,7 @@ export default function Deuteronmy01() {
           cause Israel to inherit it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Joshua, even the greatest among us need encouragement)
               </span>
             </span>
@@ -552,7 +552,7 @@ export default function Deuteronmy01() {
           them will I give it, and they shall possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had accused God of bringing their children into the
                 wilderness in order to kill them, and He, in answer to that
                 accusation, told them that their children would survive the
@@ -589,7 +589,7 @@ export default function Deuteronmy01() {
           every man his weapons of war, you were ready to go up into the hill.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, what they were doing now was in the flesh; the only
                 result could be defeat. Many in the modern Church are fighting,
                 but they are fighting a battle which the Lord never designed.
@@ -616,7 +616,7 @@ export default function Deuteronmy01() {
           smitten before your enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they were warned!)</span>
+              <span className="explanation">(they were warned!)</span>
             </span>
           </span>
         </span>
@@ -629,7 +629,7 @@ export default function Deuteronmy01() {
           presumptuously up into the hill{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presumption is one of the great sins of the modern Church)
               </span>
             </span>
@@ -651,7 +651,7 @@ export default function Deuteronmy01() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the weeping was for their dilemma, and not the weeping of the
                 soul for their sin of unbelief)
               </span>
@@ -666,7 +666,7 @@ export default function Deuteronmy01() {
           according unto the days that you abode there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (out of the Will of God, the days are long!)
               </span>
             </span>

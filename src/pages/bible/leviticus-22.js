@@ -86,27 +86,27 @@ export default function Leviticus22() {
           <sup className="calibre7">4</sup>What man soever of the seed of Aaron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Priest)</span>
+              <span className="explanation">(a Priest)</span>
             </span>
           </span>{" "}
           is a leper, or has a running issue; he shall not eat of the holy
           things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sacrifices)</span>
+              <span className="explanation">(the Sacrifices)</span>
             </span>
           </span>
           , until he be clean{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(has been purified)</span>
+              <span className="explanation">(has been purified)</span>
             </span>
           </span>
           . And whoso touches anything that is unclean by the dead, or a man
           whose seed goes from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(masturbation)</span>
+              <span className="explanation">(masturbation)</span>
             </span>
           </span>
           ;
@@ -133,13 +133,13 @@ export default function Leviticus22() {
           , and shall not eat of the holy things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sacrifices)</span>
+              <span className="explanation">(the Sacrifices)</span>
             </span>
           </span>
           , unless he wash his flesh with water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the purification process)</span>
+              <span className="explanation">(the purification process)</span>
             </span>
           </span>
         </span>
@@ -198,7 +198,7 @@ export default function Leviticus22() {
           <sup className="calibre7">10</sup>There shall no stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           eat of the holy thing: a sojourner of the Priest, or an hired servant,
@@ -219,7 +219,7 @@ export default function Leviticus22() {
           his money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(servant)</span>
+              <span className="explanation">(servant)</span>
             </span>
           </span>
           , he shall eat of it, and he who is born in his house: they shall eat
@@ -241,7 +241,7 @@ export default function Leviticus22() {
           married unto a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , she may not eat of an Offering of the holy things.
@@ -255,7 +255,7 @@ export default function Leviticus22() {
           there shall be no stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           eat thereof.
@@ -274,7 +274,7 @@ export default function Leviticus22() {
           eat of the holy thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sacrifices)</span>
+              <span className="explanation">(Sacrifices)</span>
             </span>
           </span>{" "}
           unwittingly{" "}
@@ -333,7 +333,7 @@ export default function Leviticus22() {
           be of the house of Israel, or of the strangers in Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile proselytes)</span>
+              <span className="explanation">(Gentile proselytes)</span>
             </span>
           </span>
           , who will offer his oblation for all his vows, and for all his
@@ -406,7 +406,7 @@ export default function Leviticus22() {
           <sup className="calibre7">25</sup>Neither from a strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           hand shall you offer the bread of your God of any of these; because
@@ -429,13 +429,13 @@ export default function Leviticus22() {
           goat, is brought forth, then it shall be seven days under the dam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(its mother)</span>
+              <span className="explanation">(its mother)</span>
             </span>
           </span>
           ; and from the eighth day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(eight days old)</span>
+              <span className="explanation">(eight days old)</span>
             </span>
           </span>{" "}
           and thenceforth it shall be accepted for an Offering made by fire unto

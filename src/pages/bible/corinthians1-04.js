@@ -16,7 +16,7 @@ export default function Corinthians104() {
           Ministers of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christians should form some estimate of the position of
                 Ministers of the Gospel, and Paul tells us what that estimate
                 should be)
@@ -26,13 +26,13 @@ export default function Corinthians104() {
           , and Stewards{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(literally a house-manager)</span>
+              <span className="explanation">(literally a house-manager)</span>
             </span>
           </span>{" "}
           of the Mysteries of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These are Truths once hidden, but now revealed.)
               </span>
             </span>
@@ -45,7 +45,7 @@ export default function Corinthians104() {
           that a man be found Faithful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, God doesnt demand success, but He does demand
                 Faithfulness)
               </span>
@@ -60,13 +60,15 @@ export default function Corinthians104() {
           that I should be judged of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(judged regarding his motives)</span>
+              <span className="explanation">
+                (judged regarding his motives)
+              </span>
             </span>
           </span>
           , or of mans judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to any man judging him regarding motives)
               </span>
             </span>
@@ -74,7 +76,7 @@ export default function Corinthians104() {
           : yes, I judge not mine own self.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, this says a Believer is not actually even qualified
                 to properly judge himself, much less others.)
               </span>
@@ -87,7 +89,7 @@ export default function Corinthians104() {
           <sup className="calibre7">4</sup>For I know nothing by myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, the verdict of my own conscience acquits me of all
                 intentional unfaithfulness; but this is insufficient, because
                 God sees with clearer eyes than ours)
@@ -97,7 +99,7 @@ export default function Corinthians104() {
           ; yet am I not hereby justified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I know of nothing in my life or Ministry that is contrary to
                 the Lord, still it is not my judgment that counts in this case,
                 but rather that of the Lord)
@@ -107,7 +109,7 @@ export default function Corinthians104() {
           : but He who judges me is the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Lord as the final Command, in fact the only True
                 Judge)
               </span>
@@ -122,7 +124,7 @@ export default function Corinthians104() {
           time, until the Lord come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the coming Judgment Seat of Christ)
               </span>
             </span>
@@ -131,7 +133,7 @@ export default function Corinthians104() {
           make manifest the counsels of the hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at that time, the Lord will reveal the true motives behind the
                 actions of His People)
               </span>
@@ -140,7 +142,7 @@ export default function Corinthians104() {
           : and then shall every man have praise of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means such praise as he deserves)
               </span>
             </span>
@@ -163,7 +165,7 @@ export default function Corinthians104() {
           Apollos for your sakes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he has used himself and Apollos as examples)
               </span>
             </span>
@@ -177,13 +179,13 @@ export default function Corinthians104() {
           above that which is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Scriptures)</span>
+              <span className="explanation">(refers to the Scriptures)</span>
             </span>
           </span>
           , that no one of you be puffed up for one against another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an inflation of pride)</span>
+              <span className="explanation">(an inflation of pride)</span>
             </span>
           </span>
           .
@@ -197,7 +199,7 @@ export default function Corinthians104() {
               <span className="calibre_19">from another?</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All are on the same level, in desperate need of God.)
               </span>
             </span>
@@ -205,7 +207,7 @@ export default function Corinthians104() {
           and what have you that you did not receive?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whatever we have is a Gift, not a merit.)
               </span>
             </span>
@@ -222,7 +224,7 @@ export default function Corinthians104() {
               <span className="calibre_19">it?</span>
             </span>
             <span>
-              <span className="calibre_19">(This presents a fake boast!)</span>
+              <span className="explanation">(This presents a fake boast!)</span>
             </span>
           </span>
         </span>
@@ -232,7 +234,7 @@ export default function Corinthians104() {
           <sup className="calibre7">8</sup>Now you are full, now you are rich{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle using irony)
               </span>
             </span>
@@ -240,7 +242,7 @@ export default function Corinthians104() {
           , you have reigned as kings without us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (you are acting as if you do not need our Ministry)
               </span>
             </span>
@@ -248,7 +250,7 @@ export default function Corinthians104() {
           : and I would to God you did reign, that we also might reign with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says he wished they were actually in the Millennium)
               </span>
             </span>
@@ -262,7 +264,7 @@ export default function Corinthians104() {
           the Apostles last, as it were appointed to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gladiators in the arena, appointed to die)
               </span>
             </span>
@@ -271,7 +273,7 @@ export default function Corinthians104() {
           men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God-called men and women are exhibited as a spectacle in a
                 theatre to the world of men and to Angels.)
               </span>
@@ -290,7 +292,7 @@ export default function Corinthians104() {
           fools for Christs sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (continuing to be the spectacle)
               </span>
             </span>
@@ -304,7 +306,7 @@ export default function Corinthians104() {
           wise in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (telling the Corinthians, and all others for that matter, that
                 if they truly walk close to Christ, they will meet with the same
                 contempt and hatred men showed to Christ)
@@ -320,7 +322,7 @@ export default function Corinthians104() {
           weak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all Believers are weak, at least as far as the flesh is
                 concerned)
               </span>
@@ -335,7 +337,7 @@ export default function Corinthians104() {
           strong{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Corinthians were busy telling everyone just how strong
                 they were in the Lord)
               </span>
@@ -356,7 +358,7 @@ export default function Corinthians104() {
           despised.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The more popular the Church is, the further away from God it
                 is. True Believers are despised!)
               </span>
@@ -369,7 +371,7 @@ export default function Corinthians104() {
           <sup className="calibre7">11</sup>Even unto this present hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the moment in which he was writing this particular
                 Epistle)
               </span>
@@ -379,7 +381,7 @@ export default function Corinthians104() {
           no certain dwellingplace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (perhaps this homelessness was among the severest of all trials)
               </span>
             </span>
@@ -393,7 +395,7 @@ export default function Corinthians104() {
           hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spoke of his tentmaking, which he did in order to meet his
                 needs in places where he was attempting to plant a Church)
               </span>
@@ -402,7 +404,7 @@ export default function Corinthians104() {
           : being reviled, we bless{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the correct spiritual stance for the Child of God)
               </span>
             </span>
@@ -410,7 +412,7 @@ export default function Corinthians104() {
           ; being persecuted, we suffer it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (put it in the Hands of the Lord)
               </span>
             </span>
@@ -423,7 +425,7 @@ export default function Corinthians104() {
           <sup className="calibre7">13</sup>Being defamed, we intreat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (irrespective as to how evil the response to the Message was,
                 the Apostle would not allow his spirit to be affected by the
                 opposition)
@@ -433,7 +435,7 @@ export default function Corinthians104() {
           : we are made as the filth of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, we are treated as the filth of the world)
               </span>
             </span>
@@ -447,7 +449,7 @@ export default function Corinthians104() {
           the offscouring of all things unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shoots down popularity)</span>
+              <span className="explanation">(shoots down popularity)</span>
             </span>
           </span>
           .
@@ -462,7 +464,7 @@ export default function Corinthians104() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carries the idea that he is not merely venting his spleen, so
                 to speak; there is a lesson the Holy Spirit desires that he
                 teach)
@@ -475,7 +477,7 @@ export default function Corinthians104() {
               <span className="calibre_19">you.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These four Chapters are not merely presenting the hurt feelings
                 of a Preacher who has been rejected, but rather proclaiming that
                 these Corinthians were completely getting off track, which would
@@ -491,7 +493,7 @@ export default function Corinthians104() {
           instructors in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Teachers)</span>
+              <span className="explanation">(refers to Teachers)</span>
             </span>
           </span>
           , yet{" "}
@@ -503,7 +505,7 @@ export default function Corinthians104() {
           not many fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of one who has brought the Gospel to the sinner so that
                 he might be saved)
               </span>
@@ -512,7 +514,7 @@ export default function Corinthians104() {
           : for in Christ Jesus I have begotten you through the Gospel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents far more than merely preaching. It actually
                 speaks of the entirety of the Call of God on a mans life,
                 resulting in souls.)
@@ -526,13 +528,13 @@ export default function Corinthians104() {
           <sup className="calibre7">16</sup>Wherefore I beseech you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I beg you)</span>
+              <span className="explanation">(I beg you)</span>
             </span>
           </span>
           , be ye followers of me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, be ye imitators of me; Paul
                 preached the Cross, lived the Cross, and knew if victory was to
                 be had by anyone, it would have to be by the Cross;
@@ -550,7 +552,7 @@ export default function Corinthians104() {
           Timothy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul knew that the letter would arrive before Timothy)
               </span>
             </span>
@@ -558,7 +560,7 @@ export default function Corinthians104() {
           , who is my beloved son, and Faithful in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his son in the Lord; Paul had won him to Christ some years
                 before)
               </span>
@@ -568,7 +570,7 @@ export default function Corinthians104() {
           as I teach every where in every Church.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Timothy would Preach the Cross, exactly as did Paul [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -613,13 +615,13 @@ export default function Corinthians104() {
           <sup className="calibre7">18</sup>Now some are puffed up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prideful attitudes)</span>
+              <span className="explanation">(prideful attitudes)</span>
             </span>
           </span>
           , as though I would not come to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, as though they would not
                 eventually have to face me in person)
               </span>
@@ -634,7 +636,7 @@ export default function Corinthians104() {
           the Lord will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (expresses a humble spirit of dependence)
               </span>
             </span>
@@ -643,7 +645,7 @@ export default function Corinthians104() {
           power.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He addresses these remarks to those who actually thought their
                 spirituality was greater than his.)
               </span>
@@ -662,7 +664,7 @@ export default function Corinthians104() {
           not in word, but in power.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Message of the Cross changes lives, and does so by the
                 Power of God.)
               </span>
@@ -675,7 +677,7 @@ export default function Corinthians104() {
           <sup className="calibre7">21</sup>What will you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This actually comes from the Holy Spirit, and delivers an
                 ultimatum.)
               </span>
@@ -690,7 +692,7 @@ export default function Corinthians104() {
           the spirit of meekness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Cross is rejected, trouble ultimately is in the offing.
                 Accepted? The opposite!)
               </span>

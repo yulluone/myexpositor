@@ -22,7 +22,7 @@ export default function James2() {
           of Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, My Brethren, you have not the
                 Faith of our Lord Jesus Christ; in other words, the ones James
                 was writing to were not conducting themselves as the Lord)
@@ -32,7 +32,7 @@ export default function James2() {
           , with respect of persons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Lord doesnt show respect of persons, then we should not
                 as well!)
               </span>
@@ -46,13 +46,13 @@ export default function James2() {
           a man with a gold ring, in goodly apparel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(addresses the rich)</span>
+              <span className="explanation">(addresses the rich)</span>
             </span>
           </span>
           , and there come in also a poor man in vile raiment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the obvious)</span>
+              <span className="explanation">(refers to the obvious)</span>
             </span>
           </span>
           ;
@@ -64,13 +64,13 @@ export default function James2() {
           the gay clothing, and say unto him, Sit you here in a good place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(show him partiality)</span>
+              <span className="explanation">(show him partiality)</span>
             </span>
           </span>
           ; and say to the poor, you stand there, or sit here under my footstool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a terrible attitude and spirit)
               </span>
             </span>
@@ -84,13 +84,13 @@ export default function James2() {
           yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(answers itself)</span>
+              <span className="explanation">(answers itself)</span>
             </span>
           </span>
           , and are become judges of evil thoughts?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To show respect of persons is looked at by God as evil.)
               </span>
             </span>
@@ -104,7 +104,7 @@ export default function James2() {
           Kingdom which He has promised to them who love Him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This demands a positive answer. Not many mighty, not many
                 noble, answer the Call [
                 <ScrollLink
@@ -128,7 +128,7 @@ export default function James2() {
           <sup className="calibre7">6</sup>But you have despised the poor.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that some Christians had despised those
                 whom God had chosen.)
               </span>
@@ -137,7 +137,7 @@ export default function James2() {
           Do not rich men oppress you, and draw you before the judgment seats?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims a worldwide problem that has existed from the
                 beginning of time, and continues unto this present hour.)
               </span>
@@ -151,7 +151,7 @@ export default function James2() {
           name by the which you are called?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who place their Faith and trust in money will ultimately
                 blaspheme the Name of the Lord.)
               </span>
@@ -165,7 +165,7 @@ export default function James2() {
           to the Scripture{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/leviticus-19" scrollToId="#filepos1546405">
                   <span className="calibre_19">
@@ -189,7 +189,7 @@ export default function James2() {
           , You shall love your neighbour as yourself, you do well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (show favor to everyone, whether rich or poor)
               </span>
             </span>
@@ -203,7 +203,7 @@ export default function James2() {
           you commit sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there are many things of this nature which God constitutes as
                 sin, but to which many Believers pay little heed)
               </span>
@@ -212,7 +212,7 @@ export default function James2() {
           , and are convinced of the Law as transgressors.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Refers to the Law of Moses, which was the only acceptable moral
                 Law in the world of that day. To be sure, its moral precepts
                 continue to be binding on the entirety of the human race, but
@@ -231,7 +231,7 @@ export default function James2() {
           Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law of Moses)</span>
+              <span className="explanation">(Law of Moses)</span>
             </span>
           </span>
           , and yet offend in one{" "}
@@ -243,7 +243,7 @@ export default function James2() {
           he is guilty of all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims in no uncertain terms the impossibility of the
                 Believer finding Victory through the Law, whether the Law of
                 Moses, or any type of Law. It simply cannot be done!)
@@ -259,7 +259,7 @@ export default function James2() {
           if you kill, you are become a transgressor of the Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The breaking of even one Commandment puts the person in the
                 position of a transgressor.)
               </span>
@@ -272,13 +272,13 @@ export default function James2() {
           <sup className="calibre7">12</sup>So speak ye, and so do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what we say, we ought to do)</span>
+              <span className="explanation">(what we say, we ought to do)</span>
             </span>
           </span>
           , as they who shall be judged by the Law of Liberty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the coming Judgment Seat of Christ.)
               </span>
             </span>
@@ -291,7 +291,7 @@ export default function James2() {
           Mercy, who has shown no Mercy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we withhold Mercy here, or whatever that is right, we will
                 face the same at the Judgment Seat of Christ)
               </span>
@@ -300,7 +300,7 @@ export default function James2() {
           ; and Mercy rejoices against Judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the fact that one who shows Mercy in this life
                 will have nothing to fear at the Judgment Seat of Christ.)
               </span>
@@ -320,7 +320,7 @@ export default function James2() {
           works?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the fact that proper Faith will always produce
                 proper works.)
               </span>
@@ -329,7 +329,7 @@ export default function James2() {
           can Faith save him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This should have been translated, is that Faith able to save
                 him? The truth is God will not recognize that type of Faith.)
               </span>
@@ -362,7 +362,7 @@ export default function James2() {
           profit?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to claimed Faith which blesses no one, simply
                 because its not true Faith. True Faith will help the person.)
               </span>
@@ -376,7 +376,7 @@ export default function James2() {
           is dead, being alone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, proper Faith will produce proper works. If not, the
                 Holy Spirit says here that it is dead faith.)
               </span>
@@ -390,7 +390,7 @@ export default function James2() {
           and I have works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the efforts by some to divide the two)
               </span>
             </span>
@@ -399,7 +399,7 @@ export default function James2() {
           by my works.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that the profession of a lifeless Faith
                 is profitless.)
               </span>
@@ -412,7 +412,7 @@ export default function James2() {
           <sup className="calibre7">19</sup>You believe that there is one God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the type of Faith held by hundreds of millions, but in
                 which there is no saving grace)
               </span>
@@ -421,13 +421,13 @@ export default function James2() {
           ; you do well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you think you do well!)</span>
+              <span className="explanation">(you think you do well!)</span>
             </span>
           </span>
           : the devils also believe, and tremble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Simply believing there is a God says no more than what demons
                 believe. Proper Faith will accept the Lord as ones Saviour.)
               </span>
@@ -441,7 +441,7 @@ export default function James2() {
           Faith without works is dead?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, James bluntly says anyone who trusts in an empty
                 Faith has, in effect, an empty head.)
               </span>
@@ -455,7 +455,7 @@ export default function James2() {
           by works, when he had offered Isaac his son upon the Altar?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Any Faith that doesnt have the Cross as its proper Object is
                 dead Faith. The Holy Spirit had James choose this example of
                 Abraham offering Isaac to portray one of the most vivid
@@ -471,7 +471,7 @@ export default function James2() {
           his works, and by works was Faith made perfect?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (James is making it clear that he is not talking about works as
                 the sole source of Abrahams Justification as{" "}
                 <ScrollLink href="/" scrollToId="#filepos14632998">
@@ -494,7 +494,7 @@ export default function James2() {
           which said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-15" scrollToId="#filepos193610">
                   <span className="calibre_19">
@@ -510,7 +510,7 @@ export default function James2() {
           , Abraham believed God, and it was imputed unto him for Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that Abrahams Faith was genuine)
               </span>
             </span>
@@ -518,7 +518,7 @@ export default function James2() {
           : and he was called the Friend of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-41" scrollToId="#filepos7742887">
                   <span className="calibre_19">
@@ -540,7 +540,7 @@ export default function James2() {
           is Justified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be better understood by saying, You see then, how that by
                 works a mans Justification is proven)
               </span>
@@ -549,7 +549,7 @@ export default function James2() {
           , and not by Faith only.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This must be understood in the context of the entire Passage.
                 The Apostle is merely saying that no one can claim Justification
                 on the basis of Faith alone, which produces no qualifying works.
@@ -572,7 +572,7 @@ export default function James2() {
           out another way?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents one of the most beautiful stories of Faith found
                 in the annals of human history. This was proper Faith, which
                 produced proper works.)
@@ -587,7 +587,7 @@ export default function James2() {
           is dead, so Faith without works is dead also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In closing our comments on this Chapter, I must remind you with
                 Paul that works without dynamic living Faith in the Lord Jesus
                 cannot produce Salvation or Victory. On the other hand, I must

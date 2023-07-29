@@ -17,7 +17,7 @@ export default function Isaiah15() {
           night Kir of Moab is laid waste, and brought to silence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy was uttered in the year that king Ahaz died [
                 <ScrollLink href="/isaiah-14" scrollToId="#filepos7434159">
                   <span className="calibre_19">
@@ -54,7 +54,7 @@ export default function Isaiah15() {
           Medeba: on all their heads shall be baldness, and every beard cut off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These high places were centers of idolatrous worship; the two
                 most important were upon Nebo and Medeba. The Prophet, in
                 Vision, sees the terror-stricken Moabites hastening up these
@@ -83,7 +83,7 @@ export default function Isaiah15() {
           streets, every one shall howl, weeping abundantly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy speaks of the coming invasion by Assyria of Moab,
                 which would take place about three years from this time.
               </span>
@@ -111,7 +111,7 @@ export default function Isaiah15() {
           soldiers of Moab shall cry out; his life shall be grievous unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last statement, his life shall be grievous, personifies the
                 Moabite people and the terrible judgment that was coming.)
               </span>
@@ -127,7 +127,7 @@ export default function Isaiah15() {
           way of Horonaim they shall raise up a cry of destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah, upon seeing the terrible judgment in his Vision that
                 was coming upon idol-worshipping Moab, cried out for them. He
                 sympathizes with the sufferings of Moab as a kindred people [
@@ -160,7 +160,7 @@ export default function Isaiah15() {
           green thing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse speaks of the desolation that is coming to this
                 land.)
               </span>
@@ -175,7 +175,7 @@ export default function Isaiah15() {
           brook of the willows.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The abundance speaks of the property that the people will
                 endeavor to carry with them when they flee the enemy.)
               </span>
@@ -190,7 +190,7 @@ export default function Isaiah15() {
           thereof unto Beer-elim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A hope had been entertained of the pursuit slackening, but it
                 is disappointed.)
               </span>
@@ -205,7 +205,7 @@ export default function Isaiah15() {
           of Moab, and upon the remnant of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy is that so many people will die that the waters of
                 Dimon will run red with blood. Of those who escape the enemies
                 lance, lions and wild animals will help destroy the majority of

@@ -19,7 +19,7 @@ export default function Jeremiah30() {
           the LORD, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8566453">
                   <span className="calibre_19">
@@ -46,7 +46,7 @@ export default function Jeremiah30() {
           saying, Write you all the words that I have spoken unto you in a Book.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Book spoken of is the part of the Bible we now have in our
                 possession, the Book of Jeremiah.)
               </span>
@@ -62,7 +62,7 @@ export default function Jeremiah30() {
           I gave to their fathers, and they shall possess it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While Israel would partially fulfill this after the dispersion
                 into Babylon, still, its total fulfillment awaits the coming
                 Kingdom Age.)
@@ -80,7 +80,7 @@ export default function Jeremiah30() {
           spoke concerning Israel and concerning Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again, the Holy Spirit speaks of both Israel and Judah as being
                 one. In other words, all the Promises that concern one concern
                 both!)
@@ -95,7 +95,7 @@ export default function Jeremiah30() {
           a voice of trembling, of fear, and not of peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8568182">
                   <span className="calibre_19">
@@ -121,7 +121,7 @@ export default function Jeremiah30() {
           paleness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And all faces are turned into paleness, refers to Israels shock
                 when she realizes that she has been played for a fool! The
                 Antichrist is really not the Messiah, but an imposter! Israel
@@ -140,7 +140,7 @@ export default function Jeremiah30() {
           be saved out of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The glory of Israels restoration, as is proclaimed in the
                 previous Verses, will be preceded by the horror of the time of
                 Jacobs Trouble. It will be the last three and a half years of
@@ -181,7 +181,7 @@ export default function Jeremiah30() {
           themselves of him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will break his yoke, refers to the last king of Babylon the
                 Antichrist. This will be done during the Battle of Armageddon,
                 when Jesus Christ comes back)
@@ -197,7 +197,7 @@ export default function Jeremiah30() {
           God, and David their king, whom I will raise up unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The LORD their God is the Lord Jesus Christ. And David their
                 king, whom I will raise up unto them, refers to David being
                 resurrected, along with all the Saints, and given a glorified
@@ -217,7 +217,7 @@ export default function Jeremiah30() {
           shall make him afraid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Israels restoration at the beginning of the
                 Kingdom Age. In fact, the phrase, And Jacob shall return, began
                 to be fulfilled in 1948, when a part of the original Promised
@@ -238,7 +238,7 @@ export default function Jeremiah30() {
           correct you in measure, and will not leave you altogether unpunished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Though I make a full end of all nations whither I have
                 scattered you, refers to nations and empires such as Babylon,
                 Medo-Persia, the Grecian Empire, and the Roman Empire. These
@@ -270,7 +270,7 @@ export default function Jeremiah30() {
           is incurable, and your wound is grievous.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that the bruise which Israel has is
                 incurable, i.e., cannot be cured by the world, but only by the
                 Lord, which will be done at the Second Coming. The only cure for
@@ -295,7 +295,7 @@ export default function Jeremiah30() {
           that you may be bound up: you have no healing medicines.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Upon Israels abandonment of Christ, there is none to plead your
                 cause. Consequently, the only healing medicines are those which
                 come from the Lord, and not from the system of the world.)
@@ -312,7 +312,7 @@ export default function Jeremiah30() {
           iniquity; because your sins were increased.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cruel one is the Antichrist. When he turns on them,
                 breaking his covenant in the middle of the week [seven years],
                 they will then see that all your lovers have forgotten you.
@@ -365,7 +365,7 @@ export default function Jeremiah30() {
           your sins were increased, I have done these things unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Why do you cry for your affliction?, refers to
                 them mourning for Him when they realize that the One they
                 crucified was actually their Messiah, the Lord of Glory [
@@ -403,7 +403,7 @@ export default function Jeremiah30() {
           who prey upon you will I give for a prey.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to every nation in the world which has opposed
                 Israel, which is opposing Israel at the present, and which will
                 oppose Israel under the Antichrist in the future. They should
@@ -420,7 +420,7 @@ export default function Jeremiah30() {
           you an Outcast, saying, This is Zion, whom no man seeks after.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, as well as so many others, the restoration to
                 health is promised here! Even though no one else in the world
                 could heal the grievous wound of Israel, nevertheless, the Lord
@@ -441,7 +441,7 @@ export default function Jeremiah30() {
           palace shall remain after the manner thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The palace refers to the Temple, which will be built in
                 Jerusalem upon the Second Coming of Christ. It shall be
                 inhabited and have a style befitting its glory [Ezek., Chpts.{" "}
@@ -469,7 +469,7 @@ export default function Jeremiah30() {
           shall not be small.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will multiply them, and they shall not be few, refers to
                 their smallness now, but their greatness then. Israel will then
                 grow into a great nation, with David as their king and Christ as
@@ -488,7 +488,7 @@ export default function Jeremiah30() {
           I will punish all who oppress them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will punish all who oppress them, is the same as the
                 original Abrahamic Covenant [
                 <ScrollLink href="/genesis-12" scrollToId="#filepos156936">
@@ -515,7 +515,7 @@ export default function Jeremiah30() {
           who is this who engaged his heart to approach unto Me? says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And their nobles shall be of themselves, refers to the Gentiles
                 no longer lording it over Israel as they have done for
                 centuries, for the times of the Gentiles will be ended [
@@ -583,7 +583,7 @@ export default function Jeremiah30() {
           will be your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this will have been made possible by the Cross [
                 <ScrollLink href="/zechariah-13" scrollToId="#filepos10718933">
                   <span className="calibre_19">
@@ -608,7 +608,7 @@ export default function Jeremiah30() {
           upon the head of the wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The whirlwind pictures Divine Judgment on the nations of the
                 world that have set themselves to foil the Plan of God. The
                 purpose will be to fall with pain upon the head of the wicked,
@@ -636,7 +636,7 @@ export default function Jeremiah30() {
           intents of His heart: in the latter days you shall consider it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fierce anger of the LORD shall not return, until He have
                 done it, refers to the fact that evil will be dealt with in the
                 Great Tribulation and at the Second Coming. This is a

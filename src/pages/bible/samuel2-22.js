@@ -206,7 +206,7 @@ export default function Samuel222() {
           <sup className="calibre7">11</sup>And He rode upon a Cherub{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His traveling Throne)</span>
+              <span className="explanation">(His traveling Throne)</span>
             </span>
           </span>
           , and did fly: and He was seen upon the wings of the wind{" "}
@@ -671,13 +671,13 @@ export default function Samuel222() {
           <sup className="calibre7">34</sup>He makes my feet like hinds feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as fast as the feet of deer)</span>
+              <span className="explanation">(as fast as the feet of deer)</span>
             </span>
           </span>
           : and sets me upon my high places{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(master over everything)</span>
+              <span className="explanation">(master over everything)</span>
             </span>
           </span>
         </span>

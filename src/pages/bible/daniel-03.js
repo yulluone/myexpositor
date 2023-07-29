@@ -20,7 +20,7 @@ export default function Daniel03() {
           Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (According to the Septuagint, Nebuchadnezzar built the image of
                 gold in the 18th year of his reign, about a year before he
                 burned Jerusalem [586 B.C.]. Daniel and his friends had been in
@@ -53,7 +53,7 @@ export default function Daniel03() {
           they stood before the image that Nebuchadnezzar had set up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is some indication that this group of notables also
                 included all of the conquered nations. However, it is only an
                 indication and by no means certain from the original text.)
@@ -82,7 +82,7 @@ export default function Daniel03() {
           shall the same hour be cast into the midst of a burning fiery furnace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan not only demands worship, and in many and varied ways,
                 but also attaches a penalty to all those who will not obey.
                 Actually, only a tiny few refuse to obey!)
@@ -100,7 +100,7 @@ export default function Daniel03() {
           Nebuchadnezzar the king had set up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage indicates that all of the leaders from the
                 conquered nations from all over the Babylonian Empire were
                 brought in.)
@@ -120,7 +120,7 @@ export default function Daniel03() {
           Chaldeans came near, and accused the Jews.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Accused the Jews, was pointed more particularly at Shadrach,
                 Meshach, and Abed-nego, but actually pertained to all Jews.)
               </span>
@@ -157,7 +157,7 @@ export default function Daniel03() {
           not your gods, nor worship the golden image which you have set up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Upon reading this narrative, one may think that these
                 proceedings only related to the swollen ego of this Monarch.
                 While this no doubt strongly entered into the proceedings,
@@ -175,7 +175,7 @@ export default function Daniel03() {
           brought these men before the king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Quite possibly, along with their disobedience, the jealousy of
                 the Babylonian officials showed itself regarding these certain
                 Jews. These, under Daniel, had been elevated to high positions
@@ -194,7 +194,7 @@ export default function Daniel03() {
           my gods, nor worship the golden image which I have set up?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Is it true? concerning their refusal to bow, is
                 actually asked of every single person in one form or the other.
                 The answer has no middle ground; it is either an unequivocal yes
@@ -214,7 +214,7 @@ export default function Daniel03() {
           is that God Who shall deliver you out of my hands?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king was to quickly find out as to Who exactly that God
                 was!)
               </span>
@@ -229,7 +229,7 @@ export default function Daniel03() {
           answer you in this matter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are not careful to answer you in this matter, is somewhat
                 clumsy in the English translation. It actually means that it is
                 not something they have to think about or give careful
@@ -248,7 +248,7 @@ export default function Daniel03() {
           deliver us out of your hand, O king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this stage, they have no assurance that they will be
                 delivered, only that the Lord is able to deliver.)
               </span>
@@ -263,7 +263,7 @@ export default function Daniel03() {
           which you have set up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, but if not, do not show a lack of Faith, but only
                 that they are not functioning in the realm of presumption, as do
                 so many Believers.)
@@ -286,7 +286,7 @@ export default function Daniel03() {
           heated.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To express his wrath and to appease the gods, he will order the
                 furnace to be heated sevenfold hotter. The Babylonians
                 recognized seven planets and seven gods of the planets, one for
@@ -304,7 +304,7 @@ export default function Daniel03() {
           cast them into the burning fiery furnace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These mighty men were no doubt chosen for a particular reason.
                 The king might be ready to admit that no accumulation of human
                 power could equal Divine Power, yet it is obvious that these men
@@ -323,7 +323,7 @@ export default function Daniel03() {
           cast into the midst of the burning fiery furnace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was, no doubt, done because the king thought that these
                 items of clothing, being of flammable material, would hasten
                 their deaths. Conversely, it did the very opposite, proving the
@@ -347,7 +347,7 @@ export default function Daniel03() {
           fiery furnace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The furnace was so hot that the mighty men employed by
                 Nebuchadnezzar were killed by the excruciating heat.)
               </span>
@@ -368,7 +368,7 @@ export default function Daniel03() {
           fire? They answered and said unto the king, True, O king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word astonied means terrified. What the king saw terrified
                 him!)
               </span>
@@ -383,7 +383,7 @@ export default function Daniel03() {
           and the form of the fourth is like the Son of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The original language reads: a son of God.)
               </span>
             </span>
@@ -399,7 +399,7 @@ export default function Daniel03() {
           the midst of the fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The constant repetition of the names, Shadrach, Meshach, and
                 Abed-nego, is not due to poor sentence structure on the part of
                 the Holy Spirit, but is instead by design. The Holy Spirit
@@ -419,7 +419,7 @@ export default function Daniel03() {
           had passed on them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Babylonian god of fire was Iz-bar. Consequently, this event
                 was all the more important to the Babylonians. The God of Israel
                 was thus manifested as so much higher than this Iz-bar, inasmuch
@@ -439,7 +439,7 @@ export default function Daniel03() {
           serve nor worship any god, except their own God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no evidence, even regarding the statements made by the
                 Monarch, that he accepted the Lord at this time. Actually, all
                 evidence is that he did not! This would come at a later date.
@@ -462,7 +462,7 @@ export default function Daniel03() {
           other god who can deliver after this sort.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea expressed in this Verse is that words spoken against
                 Jehovah might excite His Wrath and bring down damage on the
                 Empire. Therefore, Nebuchadnezzar was not necessarily jealous
@@ -480,7 +480,7 @@ export default function Daniel03() {
           Meshach, and Abed-nego, in the province of Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A few minutes before, the king was commanding their deaths, and
                 now he is commanding their promotion. Such is the Lord!)
               </span>

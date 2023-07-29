@@ -142,7 +142,7 @@ export default function Joshua08() {
           west side of Ai: but Joshua lodged that night among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(among the army)</span>
+              <span className="explanation">(among the army)</span>
             </span>
           </span>
         </span>
@@ -508,7 +508,7 @@ export default function Joshua08() {
           <sup className="calibre7">32</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           wrote there upon the stones a copy of the Law of Moses{" "}

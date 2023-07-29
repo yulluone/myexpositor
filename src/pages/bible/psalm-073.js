@@ -45,7 +45,7 @@ export default function Psalm073() {
           <sup className="calibre7">2</sup>But as for me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Asaph)</span>
+              <span className="explanation">(Asaph)</span>
             </span>
           </span>
           , my feet were almost gone; my steps had well nigh slipped.{" "}
@@ -367,7 +367,7 @@ export default function Psalm073() {
           <sup className="calibre7">18</sup>Surely You did set them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wicked)</span>
+              <span className="explanation">(the wicked)</span>
             </span>
           </span>{" "}
           in slippery places: You cast them down into destruction.{" "}

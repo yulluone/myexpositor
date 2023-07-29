@@ -17,7 +17,7 @@ export default function Ezekiel31() {
           of the LORD came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter was written about two or three months before the
                 fall of Jerusalem. It deals with the ruin of two mighty empires,
                 Egypt and Assyria [the latter had fallen years before], and
@@ -35,7 +35,7 @@ export default function Ezekiel31() {
           of Egypt, and to his multitude; Whom are you like in your greatness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Whom are you like in your greatness?, is speaking
                 of Sardana-Palus, the last king of Assyria, who was conquered by
                 Nebuchadnezzar. Possibly, Pharaoh looked up to this now dead
@@ -53,7 +53,7 @@ export default function Ezekiel31() {
           high stature; and his top was among the thick boughs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet likens empires to great trees, and their kings to
                 the highest branches. The Prophecy penetrates the world of the
                 dead, and reveals the disembodied spirits of deceased kings as
@@ -72,7 +72,7 @@ export default function Ezekiel31() {
           sent out her little rivers unto all the trees of the field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The waters, the deep, and the rivers pictured the nations that
                 contributed to the wealth of the empire; and the trees of the
                 fields symbolized the subordinate kings. Such is portrayed to
@@ -91,7 +91,7 @@ export default function Ezekiel31() {
           shot forth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The exaltation was enjoyed because of the supremacy of the
                 Assyrian empire; however, this supremacy was gained by brute
                 terror and force.)
@@ -108,7 +108,7 @@ export default function Ezekiel31() {
           nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And under his shadow dwelt all great nations, imposes the fact
                 that much of the riches and greatness of the Assyrian empire was
                 derived from heavy taxation levied on those subjugated nations.)
@@ -123,7 +123,7 @@ export default function Ezekiel31() {
           the length of his branches: for his root was by great waters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit uses the word greatness in describing the
                 Assyrian empire, but yet it was a greatness in the eyes of man,
                 and not God.)
@@ -140,7 +140,7 @@ export default function Ezekiel31() {
           was like unto him in his beauty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the Garden of God, represents the Sovereignty of the Lord
                 over these nations, even though they did not know Him, nor even
                 recognize Him, but were rather idol worshippers.)
@@ -156,7 +156,7 @@ export default function Ezekiel31() {
           Garden of God, envied him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Envied him, not only pertains to Pharaoh, but also to the other
                 nations of the world. Tragically, even Israel, the Northern
                 Kingdom, which was supposed to be the People of God, and
@@ -174,7 +174,7 @@ export default function Ezekiel31() {
           top among the thick boughs, and his heart is lifted up in his height{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because you have lifted up yourself in height, reveals the
                 reason for the destruction of Assyria. It was great pride!)
               </span>
@@ -190,7 +190,7 @@ export default function Ezekiel31() {
           him: I have driven him out for his wickedness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mighty one of the heathen refers to Nebuchadnezzar, who
                 would subjugate the mighty Assyrian empire, because the Lord
                 deemed it necessary.)
@@ -208,7 +208,7 @@ export default function Ezekiel31() {
           gone down from his shadow, and have left him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the Holy Spirit is to impress upon Pharaoh the
                 cause of the destruction upon the proud empire of the Assyrians,
                 and that the Egyptians were facing the same ruin, because they
@@ -225,7 +225,7 @@ export default function Ezekiel31() {
           branches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea of this Verse is that once this tree stood tall and
                 proud, but now it is no more, and the vultures and jackals hover
                 and creep over the carcass of the dead, decaying trunk)
@@ -245,7 +245,7 @@ export default function Ezekiel31() {
           of men, with them who go down to the Pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phraseology in this Verse suggests that Hell [or Sheol] is
                 situated in the center of the Earth. In that Pit, the greatest
                 monarchs rank with the disembodied spirits of the generality of
@@ -277,7 +277,7 @@ export default function Ezekiel31() {
           of the field fainted for him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the day when he went down to the grave, does not refer to
                 the burying of a body in a grave, as the word is commonly used,
                 but rather refers to Sheol. This is the place of departed
@@ -305,7 +305,7 @@ export default function Ezekiel31() {
           of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When I cast him down to Hell with them who descend into the
                 Pit, pertains to the Lord casting the last king of the Assyrian
                 empire, Sardana-Palus, down into Sheol, i.e., Hell.
@@ -335,7 +335,7 @@ export default function Ezekiel31() {
           who dwelt under his shadow in the midst of the heathen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sadly and regrettably, almost all of mankind has died eternally
                 lost, which means they went to Hell. Jesus said so [
                 <ScrollLink href="/matthew-07" scrollToId="#filepos10927018">
@@ -360,7 +360,7 @@ export default function Ezekiel31() {
           the sword. This is Pha raoh and all his multitude, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, To whom are you...? is repeated as it was given
                 in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9455511">

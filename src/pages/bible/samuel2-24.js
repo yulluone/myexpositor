@@ -324,7 +324,7 @@ export default function Samuel224() {
           Israel from the morning even to the time appointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(three days and nights)</span>
+              <span className="explanation">(three days and nights)</span>
             </span>
           </span>
           : and there died of the people from Dan even to Beer-sheba seventy
@@ -387,7 +387,7 @@ export default function Samuel224() {
           and I have done wickedly: but these sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking of Israel)</span>
+              <span className="explanation">(speaking of Israel)</span>
             </span>
           </span>
           , what have they done? let Your hand, I pray You, be against me, and

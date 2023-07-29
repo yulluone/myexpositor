@@ -19,7 +19,7 @@ export default function Exodus18() {
           Israel His people, and that the LORD had brought Israel out of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Hebrew, father-in-law and brother-in-law present the
                 same word; Reuel, Moses father-in-law was dead, and had been
                 succeeded by Jethro, probably his son and, therefore, the
@@ -36,7 +36,7 @@ export default function Exodus18() {
           took Zipporah, Moses wife, after he had sent her back{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is obvious from the account given in{" "}
                 <ScrollLink href="/exodus-04" scrollToId="#filepos716743">
                   <span className="calibre_19">
@@ -74,13 +74,13 @@ export default function Exodus18() {
           with his sons and his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses sons and wife)</span>
+              <span className="explanation">(Moses sons and wife)</span>
             </span>
           </span>{" "}
           unto Moses into the wilderness, where he encamped at the Mount of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning the time factor of this visit by Jethro, Pink says
                 that Exodus,{" "}
                 <ScrollLink href="/" scrollToId="#filepos940258">
@@ -170,7 +170,7 @@ export default function Exodus18() {
           above them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from this statement, it seems that Jethro, like most heathen,
                 believed in a plurality of gods and, therefore, had regarded the
                 God of Israel as merely one among many equals; now he renounces
@@ -191,7 +191,7 @@ export default function Exodus18() {
           the Elders of Israel, to eat bread with Moses father-in-law before God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse proclaims the fact that Moses knew and understood,
                 as well as all the Elders of Israel, which he now relates to
                 Jethro, that Israels might and power were all in the Blood of
@@ -220,7 +220,7 @@ export default function Exodus18() {
           morning unto evening?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses, for this particular time, succumbed to the temptation of
                 the flesh, to rely on the weak arm of flesh. He listened to man
                 instead of God. That problem persists with us even unto this
@@ -236,7 +236,7 @@ export default function Exodus18() {
           father-in-law, Because the people come unto me to enquire of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the responsibility of Moses was immense, he was not asked
                 to bear these people alone, for God was with him)
               </span>
@@ -252,7 +252,7 @@ export default function Exodus18() {
           the Statutes of God, and His Laws{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was God Who actually was bearing them; Moses was but the
                 instrument; he might just as well have spoken of his rod as
                 bearing the people; he was merely an instrument in Gods Hand, as
@@ -269,7 +269,7 @@ export default function Exodus18() {
           him, The thing that you do is not good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is here the servants of Christ constantly fail; and the
                 failure is all the more dangerous because it wears the
                 appearance of humility)
@@ -286,7 +286,7 @@ export default function Exodus18() {
           you are not able to perform it yourself alone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if God has imposed the responsibility, He will surely do with
                 the person what is necessary to sustain it)
               </span>
@@ -302,7 +302,7 @@ export default function Exodus18() {
           the people to God, that you may bring the causes unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is never the fruit of humility to depart from a
                 Divinely-appointed post; on the contrary, the deepest humility
                 will express itself by remaining there, which is simple
@@ -320,7 +320,7 @@ export default function Exodus18() {
           work that they must do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is a sure evidence of being occupied with self when we
                 shrink from Service on the ground of inability; God does not
                 call us unto Service on the ground of our ability, but of His
@@ -339,7 +339,7 @@ export default function Exodus18() {
           rulers of hundreds, rulers of fifties, and rulers of tens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the question is not of the advice offered by Jethro, whether
                 good or bad, but rather that it came from the heart of man, and
                 not from God; thats where the problem was; Moses was to look to
@@ -369,7 +369,7 @@ export default function Exodus18() {
           easier for yourself, and they shall bear the burden with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some may ask, Could not God use one such as Jethro to give
                 advice and counsel? God can use anything; however, had He been
                 using Jethro, He would first of all have related this to Moses.)
@@ -391,7 +391,7 @@ export default function Exodus18() {
           his father-in-law, and did all that he had said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, Moses complained of the burden, and the burden was
                 speedily removed; but with it the high honor of being allowed to
                 carry it)
@@ -408,7 +408,7 @@ export default function Exodus18() {
           rulers of hundreds, rulers of fifties, and rulers of tens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was no fresh power introduced; it was the same Spirit,
                 whether in one or in many; there was no more value or virtue in
                 the flesh of many men than in the flesh of one man)
@@ -431,7 +431,7 @@ export default function Exodus18() {
           depart; and he went his way into his own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There was nothing in this wrong way of power gained, but a
                 great deal in the way of dignity lost, by this movement on the
                 part of Moses, as he listened to Jethro, instead of the Lord.

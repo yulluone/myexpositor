@@ -170,7 +170,7 @@ export default function Job40() {
           bind their faces in secret{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which only God can do!)</span>
+              <span className="explanation">(which only God can do!)</span>
             </span>
           </span>
         </span>

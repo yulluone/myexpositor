@@ -18,7 +18,7 @@ export default function Jeremiah03() {
           the harlot with many lovers; yet return again to Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, ... and become another mans, shall he return unto
                 her again?, refers to the Command in{" "}
                 <ScrollLink href="/deuteronmy-24" scrollToId="#filepos2346847">
@@ -167,7 +167,7 @@ export default function Jeremiah03() {
           polluted the land with your whoredoms and with your wickedness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Arabian in the wilderness, refers to their thirst for
                 plunder, and is likened to Israels thirst for idolatry.)
               </span>
@@ -182,7 +182,7 @@ export default function Jeremiah03() {
           forehead, you refused to be ashamed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord withheld the rains, thereby stunting the crops, trying
                 to get Judah to repent, but to no avail! In effect, the Holy
                 Spirit is saying that Judah is so far gone that they now have a
@@ -199,7 +199,7 @@ export default function Jeremiah03() {
           Me, My Father, You are the guide of my youth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The language, My Father, was insincere.)
               </span>
             </span>
@@ -213,7 +213,7 @@ export default function Jeremiah03() {
           things as you could.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages probe deep into the heart of wayward Judah,
                 revealing not only her actions, but her thoughts, and even the
                 intent of her thoughts. The power of such preaching was enough
@@ -235,7 +235,7 @@ export default function Jeremiah03() {
           green tree, and there has played the harlot.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos8165432">
                   <span className="calibre_19">
@@ -271,7 +271,7 @@ export default function Jeremiah03() {
           treacherous sister Judah saw it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah had been an observer to all that had happened in the
                 Northern Kingdom. She heard, saw, witnessed, and experienced the
                 appeal made to Ephraim. She saw her destruction, and knew the
@@ -290,7 +290,7 @@ export default function Jeremiah03() {
           not, but went and played the harlot also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The adultery named here is spiritual adultery, i.e., in this
                 case, consorting with idols. As stated, in{" "}
                 <ScrollLink href="/romans-07" scrollToId="#filepos13363384">
@@ -327,7 +327,7 @@ export default function Jeremiah03() {
           adultery with stones and with stocks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Committed adultery with stones and with stocks, refers to the
                 worship of idols, some of which were made of stone. The word
                 stocks refers to the manner in which the idols were worshipped.
@@ -365,7 +365,7 @@ export default function Jeremiah03() {
           feignedly, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah professed attachment to the Law, but it was a feigned
                 loyalty; and, untaught by the judgment that had fallen upon the
                 Ten Tribes, she secretly and even openly practiced idolatry.
@@ -393,7 +393,7 @@ export default function Jeremiah03() {
           backsliding Israel has justified herself more than treacherous Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason for Judahs treacherous condition was because of the
                 great light that had been given to her by the advent of at least
                 some Godly kings, when, in fact, Israel did not have a single
@@ -414,7 +414,7 @@ export default function Jeremiah03() {
           the LORD, and I will not keep anger forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This second prophetic Message was sent by the Holy Spirit
                 through Jeremiah to the Ten Tribes, then and now, in captivity.
                 It assured them that the proclamation of Cyrus, which would be
@@ -436,7 +436,7 @@ export default function Jeremiah03() {
           obeyed My Voice, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The one condition of acceptance is the acknowledgment of ones
                 guilt and a sincere desire to break with sin, which is repeated
                 in each Verse [
@@ -473,7 +473,7 @@ export default function Jeremiah03() {
           city, and two of a family, and I will bring you to Zion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this thrice repeated invitation has never yet been fully
                 responded to by the Ten Tribes, but will be in the future, and
                 then God will bring to Zion all who accept it.
@@ -506,7 +506,7 @@ export default function Jeremiah03() {
           understanding.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will take place in the coming Kingdom Age, but not
                 before.)
               </span>
@@ -523,7 +523,7 @@ export default function Jeremiah03() {
           shall they visit it; neither shall that be done any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In those days, refers to the future time of Restoration. The
                 Ark, which was a symbol, will be replaced by Christ Himself,
                 i.e., the Throne, which will be the reality. The Ark and the
@@ -597,7 +597,7 @@ export default function Jeremiah03() {
           they walk any more after the imagination of their evil heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, At that time, refer to the coming Kingdom Age, when
                 Christ will reign supreme from Jerusalem. Actually, this city
                 will serve as His Throne.)
@@ -614,7 +614,7 @@ export default function Jeremiah03() {
           inheritance unto your fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the coming Kingdom Age, Israel will be no more divided as it
                 was in the days of Jeremiah, but will again become one nation.)
               </span>
@@ -630,7 +630,7 @@ export default function Jeremiah03() {
           shall not turn away from Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, How shall I put you among the children, and give
                 you a pleasant land?, refers to Gods great question in bringing
                 Israel to a place of Repentance in order that He can fulfill the
@@ -672,7 +672,7 @@ export default function Jeremiah03() {
           House of Israel, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, the Lord bluntly reminds Israel of her former
                 treachery. He uses as an example the unfaithful wife. He likens
                 Himself to Israels Husband.)
@@ -688,7 +688,7 @@ export default function Jeremiah03() {
           have perverted their way, and they have forgotten the LORD their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8169813">
                   <span className="calibre_19">
@@ -740,7 +740,7 @@ export default function Jeremiah03() {
           are the LORD our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will be the call of the Messiah to wayward Israel,
                 immediately after His Second Coming. Finally, their response
                 will be positive.)
@@ -756,7 +756,7 @@ export default function Jeremiah03() {
           our God is the Salvation of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument of this Verse is that as surely as deliverance is
                 vainly hoped for from the multitude of idols placed on the hills
                 and mountains, so surely is Salvation a certitude when sought
@@ -795,7 +795,7 @@ export default function Jeremiah03() {
           and their daughters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Serving God enriches and ennobles; serving idols degrades and
                 impoverishes. The flocks and herds refer to animals being
                 offered in sacrifice to idols. As well, sons and daughters,
@@ -846,7 +846,7 @@ export default function Jeremiah03() {
           obeyed the Voice of the LORD our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the Fall, man took control of his life out of the Hands of
                 God, placing it into his own domain, i.e., Satan. Shame and
                 confusion are the result! Now Israel confesses her sin and

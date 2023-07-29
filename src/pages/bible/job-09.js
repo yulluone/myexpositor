@@ -421,7 +421,7 @@ export default function Job09() {
           vain?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Why do I try to live right?)</span>
+              <span className="explanation">(Why do I try to live right?)</span>
             </span>
           </span>
         </span>

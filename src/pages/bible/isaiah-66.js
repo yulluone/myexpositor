@@ -17,7 +17,7 @@ export default function Isaiah66() {
           build unto Me? and where is the place of My rest?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter takes up and reviews all the prior Chapters
                 concerning this particular Prophesy. The Messiahs First Advent
                 and the judgment which followed it are the subject of the first
@@ -48,7 +48,7 @@ export default function Isaiah66() {
           trembles at My Word.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Great Temple fashioned by Jehovahs Hand, i.e., the heavens
                 and the Earth, is contrasted in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8100779">
@@ -96,7 +96,7 @@ export default function Isaiah66() {
           ways, and their soul delights in their abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sacrifices which the Pharisees offered so zealously are
                 declared in this Verse to be abominable to God, as if they
                 offered up human sacrifice, or dogs, or swine, and their worship
@@ -175,7 +175,7 @@ export default function Isaiah66() {
           eyes, and chose that in which I delighted not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels rejection of Christ at His First Coming is recorded in
                 this Verse, and the persecution of His Disciples predicted in
                 the next Verse.
@@ -207,7 +207,7 @@ export default function Isaiah66() {
           your joy, and they shall be ashamed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hear the Word of the LORD, is an admonishment to the Church to
                 not hear the word of man. The words, You who tremble at His
                 Word, refer to those who are of a poor and contrite spirit. The
@@ -256,7 +256,7 @@ export default function Isaiah66() {
           his enemies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After rebuking the hypocrisy of the wicked, God addressed the
                 righteous, promising that they would be blessed in the end, and
                 declared that He would recompense their enemies in due time.)
@@ -271,7 +271,7 @@ export default function Isaiah66() {
           forth; before her pain came, she was delivered of a man child.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Sixth Verse speaks of the Second Coming, this Verse
                 speaks of the events immediately preceding that all-important
                 occasion.
@@ -327,7 +327,7 @@ export default function Isaiah66() {
           brought forth her children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is as if the Holy Spirit, anticipating the incredulity of
                 the Reader, asks, Who has heard such a thing?
               </span>
@@ -415,7 +415,7 @@ export default function Isaiah66() {
           shut the womb? says your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No matter how it looks, the Lord is emphatically stating that
                 Israel will be brought back, irrespective as to how negative her
                 situation may seem. To emphasize the strength of His statement,
@@ -451,7 +451,7 @@ export default function Isaiah66() {
           who mourn for her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit through Isaiah is contemplating, especially due
                 to the strength of His pronouncements, that the reader must
                 believe what is said and, therefore, Rejoice you with Jerusalem,
@@ -469,7 +469,7 @@ export default function Isaiah66() {
           delighted with the abundance of her glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit now uses another strong analogy, and does so by
                 using the mother who has now brought forth a child, by saying,
                 That you may suck, and be satisfied with the breasts of her
@@ -488,7 +488,7 @@ export default function Isaiah66() {
           her sides, and be dandled upon her knees.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sudden and vast enlargement of the nation of Israel, with
                 her glory, her spiritual wealth, her consolation, and her
                 headship over the nations, and all because of Christ, are
@@ -519,7 +519,7 @@ export default function Isaiah66() {
           will I comfort you; and you shall be comforted in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As one whom his mother comforts, continues the analogy used by
                 the Holy Spirit concerning the birth [
                 <ScrollLink href="/" scrollToId="#filepos8108784">
@@ -545,7 +545,7 @@ export default function Isaiah66() {
           indignation to ward His enemies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passage, And your bones shall flourish like an herb, refers
                 to the fact that in times past Israels bones had been consumed [
                 <ScrollLink href="/psalm-031" scrollToId="#filepos5835510">
@@ -594,7 +594,7 @@ export default function Isaiah66() {
           fury, and His rebuke with flames of fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages are not symbolic, but literal. This is the
                 Second Coming, which Ezekiel describes in detail [
                 <ScrollLink href="/ezekiel-38" scrollToId="#filepos9574227">
@@ -617,7 +617,7 @@ export default function Isaiah66() {
           many.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the army of the Antichrist will be killed, with
                 the exception of a one-sixth part [
                 <ScrollLink href="/ezekiel-39" scrollToId="#filepos9577551">
@@ -641,7 +641,7 @@ export default function Isaiah66() {
           together, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse signifies that all idolatry in Israel will now end.
                 That abominable day is forever over.)
               </span>
@@ -661,7 +661,7 @@ export default function Isaiah66() {
           and they shall come, and see My Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8115044">
                   <span className="calibre_19">
@@ -689,7 +689,7 @@ export default function Isaiah66() {
           Glory; and they shall declare My Glory among the Gentiles.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will set a sign among them, actually pertains to Christ.
                 He will be the sign!
               </span>
@@ -741,7 +741,7 @@ export default function Isaiah66() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication of the Verse is this:
               </span>
             </span>
@@ -782,7 +782,7 @@ export default function Isaiah66() {
           Priests and Levites, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason that the Gentiles will be so eager to help Israel is
                 because the intermediary between Christ and the Gentile world
                 will be, at least in some small way, the Priests, who come from
@@ -821,7 +821,7 @@ export default function Isaiah66() {
           shall your seed and your name remain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, the order that the Lord will set up shall
                 remain before Me. This signifies that it will never be
                 overthrown as it was in the past in the Garden of Eden. That
@@ -838,7 +838,7 @@ export default function Isaiah66() {
           flesh come to worship before Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage merely reflects the thought that the worship of
                 the Lord will go on from month to month, and forever!
               </span>
@@ -870,7 +870,7 @@ export default function Isaiah66() {
           they shall be an abhorring unto all flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The eternal doom pronounced in this Verse is confirmed by the
                 Messiah Himself when He said, Where their worm dies not, and the
                 fire is not quenched [

@@ -24,13 +24,13 @@ export default function Exodus22() {
           <sup className="calibre7">2</sup>If a thief be found breaking up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(breaking into a house)</span>
+              <span className="explanation">(breaking into a house)</span>
             </span>
           </span>
           , and be smitten that he die, there shall no blood be shed for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(justifiable homicide)</span>
+              <span className="explanation">(justifiable homicide)</span>
             </span>
           </span>
         </span>
@@ -42,7 +42,7 @@ export default function Exodus22() {
           shall be blood shed for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the thief has no intention of harming anyone; therefore, if he
                 is maliciously killed, the man who kills him may very well
                 suffer the same fate from the mans relatives)
@@ -52,7 +52,7 @@ export default function Exodus22() {
           ; for he should make full restitution{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the thief should replace what he has stolen)
               </span>
             </span>
@@ -60,7 +60,7 @@ export default function Exodus22() {
           ; if he have nothing, then he shall be sold for this theft{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sold as a slave, in order that the debt be paid)
               </span>
             </span>
@@ -83,7 +83,7 @@ export default function Exodus22() {
           his own vineyard, shall he make restitution{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Im certain is obvious by now, property rights were held
                 sacred)
               </span>
@@ -114,7 +114,7 @@ export default function Exodus22() {
           he have put his hand unto his neighbours goods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law of Moses, which in reality is the Law of God, taught
                 Israel many things. It taught them how they should conduct
                 themselves toward God, and also went into minute detail as to
@@ -134,7 +134,7 @@ export default function Exodus22() {
           parties shall come before the judges{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a trial)</span>
+              <span className="explanation">(a trial)</span>
             </span>
           </span>
           ; and whom the judges shall condemn, he shall pay double unto his
@@ -183,7 +183,7 @@ export default function Exodus22() {
           hire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the Law was totally fulfilled in Christ, which means that
                 it is not now incumbent upon Believers, still, the principle of
                 Law will always, and without exception, be carried out in
@@ -203,7 +203,7 @@ export default function Exodus22() {
           wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if this law was followed now, this sin would be greatly
                 decreased)
               </span>
@@ -218,7 +218,7 @@ export default function Exodus22() {
           her unto him, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the one who committed the sin)
               </span>
             </span>
@@ -234,7 +234,7 @@ export default function Exodus22() {
           <sup className="calibre7">18</sup>You shall not suffer a witch to live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this applied to Israel only, and is not incumbent on modern
                 Believers; however, it must be readily understood that God is
                 unalterably opposed to all type of witchcraft)
@@ -249,13 +249,13 @@ export default function Exodus22() {
           <sup className="calibre7">19</sup>Whosoever lies with a beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(engage in intercourse)</span>
+              <span className="explanation">(engage in intercourse)</span>
             </span>
           </span>{" "}
           shall surely be put to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this sin is grossly unnatural, in that it insults God, as it
                 regards His role as Creator; any such act pulls one down to the
                 level of an animal, thereby insulting Gods highest form of
@@ -272,7 +272,7 @@ export default function Exodus22() {
           unto the LORD only, he shall be utterly destroyed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pulpit says: Sacrifice was the chief act of worship; and to
                 sacrifice to a false god was to renounce the True God. Under a
                 theocracy, which Israel was, this was rebellion, and rightly
@@ -293,7 +293,7 @@ export default function Exodus22() {
           <sup className="calibre7">21</sup>You shall neither vex a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Gentile)</span>
+              <span className="explanation">(a Gentile)</span>
             </span>
           </span>{" "}
           nor oppress him: for you were strangers in the land of Egypt.
@@ -318,7 +318,7 @@ export default function Exodus22() {
           children fatherless.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Gentile, referred to as a stranger, was placed with the
                 widow and the orphan, and made the special object of Gods care.
                 In fact, it was on account of the neglect of this precept that
@@ -344,7 +344,7 @@ export default function Exodus22() {
           neither shall you lay upon him usury.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the lending of money, Jews were not to charge other Jews
                 interest on that money. On the other hand, it was distinctly
                 declared that interest might be taken from strangers [
@@ -367,7 +367,7 @@ export default function Exodus22() {
           raiment to pledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as collateral)</span>
+              <span className="explanation">(as collateral)</span>
             </span>
           </span>
           , you shall deliver it unto him by that the sun goes down:
@@ -385,13 +385,15 @@ export default function Exodus22() {
           <sup className="calibre7">28</sup>You shall not revile the gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judges or Magistrates)</span>
+              <span className="explanation">(Judges or Magistrates)</span>
             </span>
           </span>
           , nor curse the ruler of your people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the office must be respected)</span>
+              <span className="explanation">
+                (the office must be respected)
+              </span>
             </span>
           </span>
         </span>
@@ -403,13 +405,13 @@ export default function Exodus22() {
           first of your ripe fruits, and of your liquors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Tithes)</span>
+              <span className="explanation">(Tithes)</span>
             </span>
           </span>
           : the firstborn of your sons shall you give unto Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dedicate to the Lord)</span>
+              <span className="explanation">(dedicate to the Lord)</span>
             </span>
           </span>
         </span>
@@ -421,13 +423,13 @@ export default function Exodus22() {
           oxen, and with your sheep: seven days it shall be with his dam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the mother)</span>
+              <span className="explanation">(the mother)</span>
             </span>
           </span>
           ; on the eighth day you shall give it Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the Fall, birth was viewed as an unclean process, which
                 it was, and is, and, therefore, nothing was fit for presentation
                 to God except after a particular interval, here, seven days)
@@ -442,7 +444,7 @@ export default function Exodus22() {
           <sup className="calibre7">31</sup>And you shall be holy men unto Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be set apart exclusively unto God)
               </span>
             </span>
@@ -451,7 +453,7 @@ export default function Exodus22() {
           you shall cast it to the dogs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was because the blood of such an animal would not be
                 properly drained from it. Some would remain in the tissues, and
                 thence the animal would be unclean.)

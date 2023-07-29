@@ -130,7 +130,7 @@ export default function Job33() {
           <sup className="calibre7">10</sup>Behold, He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           finds occasions against me, He counts me for His enemy,
@@ -398,7 +398,7 @@ export default function Job33() {
           not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(if Job would only repent...)</span>
+              <span className="explanation">(if Job would only repent...)</span>
             </span>
           </span>
           ;

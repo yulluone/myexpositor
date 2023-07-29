@@ -88,7 +88,7 @@ export default function Luke21() {
           : but she of her penury{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(poverty)</span>
+              <span className="explanation">(poverty)</span>
             </span>
           </span>{" "}
           has cast in all the living that she had{" "}
@@ -224,13 +224,13 @@ export default function Luke21() {
           : for many shall come in My Name, saying, I am Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Christ);</span>
+              <span className="explanation">(of Christ);</span>
             </span>
           </span>{" "}
           and the time draws near{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture of the Church)</span>
+              <span className="explanation">(the Rapture of the Church)</span>
             </span>
           </span>
           : go ye not therefore after them{" "}
@@ -988,13 +988,13 @@ export default function Luke21() {
           , lest at any time your hearts be overcharged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(weighed down)</span>
+              <span className="explanation">(weighed down)</span>
             </span>
           </span>{" "}
           with surfeiting{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(debauchery)</span>
+              <span className="explanation">(debauchery)</span>
             </span>
           </span>
           , and drunkenness, and cares of this life{" "}

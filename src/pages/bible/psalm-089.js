@@ -254,7 +254,7 @@ export default function Psalm089() {
           <sup className="calibre7">10</sup>You have broken Rahab{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Egypt)</span>
+              <span className="explanation">(Egypt)</span>
             </span>
           </span>{" "}
           in pieces, as one that is dead; You have scattered Your enemies with
@@ -441,7 +441,7 @@ export default function Psalm089() {
           Holy One of Israel is our King{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           .

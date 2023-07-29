@@ -18,7 +18,7 @@ export default function Chronicles222() {
           Ahaziah the son of Jehoram king of Judah reigned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This king had three names: Ahaziah, Azariah, and Jehoahaz. All
                 have the same meaning in Hebrew, Jehovah takes hold; however,
                 Jehovah had no opportunity to take hold in the life of this
@@ -47,7 +47,7 @@ export default function Chronicles222() {
           mothers name also was Athaliah the daughter of Omri{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the leaven that was in the life of Jehoshaphat concerning his
                 alliance with Ahab will now continue its rot; Athaliah, the
                 mother of Ahaziah, was actually the daughter of Ahab and
@@ -66,7 +66,7 @@ export default function Chronicles222() {
           house of Ahab: for his mother was his counselor to do wickedly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehoahaz followed his wicked father, Jehoram, who had also
                 walked in all the wicked ways of Ahab and Jezebel; his mother
                 killed all of her grandsons except one and seized the throne of
@@ -91,7 +91,7 @@ export default function Chronicles222() {
           Hazael king of Syria at Ramoth-gilead: and the Syrians smote Joram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joram, the king of the northern confederacy of Israel, is the
                 same as Jehoram)
               </span>
@@ -108,7 +108,7 @@ export default function Chronicles222() {
           of Judah went down to see Jehoram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who was the king of Israel; he had the same name as Azariahs
                 father)
               </span>
@@ -128,7 +128,7 @@ export default function Chronicles222() {
           the house of Ahab{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord determined the destruction of Ahaziah because of his
                 sins; it was brought about by Jehu, whom the Lord caused to be
                 king of the ten Tribes; Jehu killed both Jehoram [Joram], king
@@ -156,7 +156,7 @@ export default function Chronicles222() {
           house of Ahaziah had no power to keep still the kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the last phrase in this Verse means that there was no one of
                 the house of Ahaziah who could succeed him; the Hebrew Text does
                 not say, no one left, simply because Joash was the son of
@@ -177,7 +177,7 @@ export default function Chronicles222() {
           seed royal of the house of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one of the most wicked women ever!)
               </span>
             </span>
@@ -195,7 +195,7 @@ export default function Chronicles222() {
           Athaliah, so that she killed him not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, this bloody woman thought she had killed them all,
                 not realizing that the infant was not dead; from this
                 bloodstained room, the daughter of Jehoram [Jehoshaphats son]
@@ -213,7 +213,7 @@ export default function Chronicles222() {
           House of God six years: and Athaliah reigned over the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this time, the Temple was not in use; the people were
                 worshipping idols on the mountaintops and other places; so, the
                 House of God was the logical place for him to be hidden, so he

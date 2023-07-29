@@ -136,7 +136,7 @@ export default function Numbers05() {
           shall be his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shall belong to the Priest)</span>
+              <span className="explanation">(shall belong to the Priest)</span>
             </span>
           </span>
         </span>
@@ -164,7 +164,7 @@ export default function Numbers05() {
           against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin of adultery)</span>
+              <span className="explanation">(the sin of adultery)</span>
             </span>
           </span>
           ,
@@ -193,7 +193,7 @@ export default function Numbers05() {
           wife, and she be not defiled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his suspicion is wrong)</span>
+              <span className="explanation">(his suspicion is wrong)</span>
             </span>
           </span>
           :

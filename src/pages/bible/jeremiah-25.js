@@ -18,7 +18,7 @@ export default function Jeremiah25() {
           king of Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter records the great Prophecy of the 70 years
                 servitude in Babylon. It also predicts the overthrow of Babylon
                 by the nations whom she had enslaved. However, the Prophecy goes
@@ -55,7 +55,7 @@ export default function Jeremiah25() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the expression, Jeremiah the Prophet, is given in this manner
                 to emphasize the fact that this Prophet is the one to whom God
                 is speaking concerning the future of the people of Judah and to
@@ -75,7 +75,7 @@ export default function Jeremiah25() {
           hearkened.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah had been a Prophet from the Thirteenth year of Josiah,
                 which now totaled about twenty-three years. This was eighteen
                 years under Josiah, 3 months under Jehoahaz, and 4 years under
@@ -92,7 +92,7 @@ export default function Jeremiah25() {
           not hearkened, nor inclined your ear to hear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This actually refers to all the Prophets who had come before
                 Jeremiah. Israel little heard them, as well!)
               </span>
@@ -108,7 +108,7 @@ export default function Jeremiah25() {
           forever and ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (settlement in the Land of Promise was contingent upon
                 obedience)
               </span>
@@ -124,7 +124,7 @@ export default function Jeremiah25() {
           of your hands; and I will do you no hurt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Upon relationship with the Lord, the ancient as well as the
                 modern Believer can either gladden the heart of God or anger
                 Him. Such shows a direct and total involvement in the lives of
@@ -141,7 +141,7 @@ export default function Jeremiah25() {
           your hands to your own hurt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was not a matter of not hearing or understanding what the
                 Lord was saying, but a matter of not believing what He was
                 saying. Such also is the modern Church!)
@@ -159,7 +159,7 @@ export default function Jeremiah25() {
           Hosts; Because you have not heard My Words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Words were given through Jeremiah, but yet they had all
                 been given before in the Bible. In fact, the Book of Deuteronomy
                 was basically the foundation of all of Jeremiahs Prophecies
@@ -188,7 +188,7 @@ export default function Jeremiah25() {
           and an hissing, and perpetual desolations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The families of the north consist of Nebuchadnezzar plus all
                 those who followed him. My servant, concerning Nebuchadnezzar,
                 does not refer to relationship, but rather as an instrument of
@@ -206,7 +206,7 @@ export default function Jeremiah25() {
           and the light of the candle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moreover I will take from them, refers to total desolations,
                 and in fact perpetual desolations, meaning long-continued.)
               </span>
@@ -221,7 +221,7 @@ export default function Jeremiah25() {
           king of Babylon seventy years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord sentenced Judah to seventy years of service to the
                 king of Babylon, because she had ignored the yearly Sabbath that
                 was supposed to be conducted every seventh year. In fact, they
@@ -262,7 +262,7 @@ export default function Jeremiah25() {
           land of the Chaldeans, and will make it perpetual desolations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king of Babylon at that time was Belshazzar. The kings used
                 by God to punish him were Darius the Mede and Cyrus the
                 Persian.)
@@ -278,7 +278,7 @@ export default function Jeremiah25() {
           in this Book, which Jeremiah has prophesied against all the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My Words... written in this Book, are Gods Words, and they were
                 written in a Book of the Bible, i.e., the Book of Jeremiah, the
                 very Book we now hold in our hands. Such is Inspiration! [
@@ -303,7 +303,7 @@ export default function Jeremiah25() {
           hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Although certain nations were commissioned by the Lord to
                 punish Judah and Jerusalem, still, every indication is that they
                 carried this commission too far regarding cruelty and
@@ -323,7 +323,7 @@ export default function Jeremiah25() {
           nations, to whom I send you, to drink it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This part of the Prophecy leaps ahead to the future, and in
                 fact has not yet been fulfilled. The fulfillment will come in
                 the Great Tribulation [
@@ -346,7 +346,7 @@ export default function Jeremiah25() {
           and be mad, because of the sword that I will send among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers not only to the coming destruction of Babylon by
                 Darius and Cyrus, but as well to the Great Tribulation when the
                 Antichrist will take peace from the Earth [
@@ -370,7 +370,7 @@ export default function Jeremiah25() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would have proper fulfillment in Jeremiahs near future,
                 and would include all the nations surrounding Judah. But yet,
                 the words, The cup at the LORDs Hand, jump ahead to the Book of
@@ -397,7 +397,7 @@ export default function Jeremiah25() {
           day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (judgment was to begin at Jerusalem because it is the House of
                 God [
                 <ScrollLink href="/peter1-4" scrollToId="#filepos14730513">
@@ -420,7 +420,7 @@ export default function Jeremiah25() {
           servants, and his princes, and all his people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after Judah, mighty Egypt is addressed first of all. Pharaoh is
                 especially signaled out, because of Egypts supposed strength,
                 and because of Pharaoh being worshipped as Deity. Egypt as well
@@ -439,7 +439,7 @@ export default function Jeremiah25() {
           Ashdod{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is interesting that the land of Uz is mentioned, inasmuch as
                 it was the home of Job about 1,000 years before)
               </span>
@@ -454,7 +454,7 @@ export default function Jeremiah25() {
           Ammon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the area that makes up present day Jordan. Strangely
                 enough, this area will escape the hand of the Antichrist in that
                 coming terrible day of Judgment, to which Israel will flee after
@@ -488,7 +488,7 @@ export default function Jeremiah25() {
           sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these two cities, Tyrus and Zidon, situated on the
                 Mediterranean, were to become two of the most powerful cities of
                 commerce in the world of that day. Tyre would become so rich and
@@ -514,7 +514,7 @@ export default function Jeremiah25() {
           who are in the utmost corners{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Dedan is on the border of Edom, while Tema is the area that
                 Eliphaz came from, regarding one of Jobs friends [
                 <ScrollLink href="/job-02" scrollToId="#filepos5362898">
@@ -546,7 +546,7 @@ export default function Jeremiah25() {
           the kings of the mingled people who dwell in the desert{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all are singled out because of their association with Judah,
                 whether near or far)
               </span>
@@ -569,7 +569,7 @@ export default function Jeremiah25() {
           after them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many of the statements, such as All the kingdoms of the world,
                 prove that this Prophecy belongs to the future. It speaks to the
                 coming Great Tribulation.)
@@ -586,7 +586,7 @@ export default function Jeremiah25() {
           which I will send among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because of the sword which I will send among you, refers to
                 Gods total control over all the nations of the world.)
               </span>
@@ -601,7 +601,7 @@ export default function Jeremiah25() {
           says the LORD of Hosts; You shall certainly drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall certainly drink, portrays these nations reaping what
                 they have sown [
                 <ScrollLink href="/galatians-6" scrollToId="#filepos13985257">
@@ -625,7 +625,7 @@ export default function Jeremiah25() {
           upon all the inhabitants of the Earth, says the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The city which is called by My Name is Jerusalem.)
               </span>
             </span>
@@ -641,7 +641,7 @@ export default function Jeremiah25() {
           grapes, against all the inhabitants of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy speaks of the forthcoming glee of the surrounding
                 nations at the destruction of Judah; however, their glee shall
                 be short-lived! As well, the phrase, Against all the inhabitants
@@ -661,7 +661,7 @@ export default function Jeremiah25() {
           says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word plead means to judge. The Prophecy now extends from
                 Jeremiahs day to the coming Great Tribulation, and even the
                 Battle of Armageddon [
@@ -685,7 +685,7 @@ export default function Jeremiah25() {
           whirlwind shall be raised up from the coasts of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this refers to{" "}
                 <ScrollLink href="/revelation-16" scrollToId="#filepos15065053">
                   <span className="calibre_19">
@@ -708,7 +708,7 @@ export default function Jeremiah25() {
           shall be dung upon the ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From one end of the Earth even unto the other end of the Earth,
                 refers to the Antichrist taking peace from the Earth, which will
                 take place in the coming Great Tribulation [
@@ -733,7 +733,7 @@ export default function Jeremiah25() {
           you shall fall like a pleasant vessel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy now reverts back to Jeremiahs time. These
                 shepherds were Zedekiah and his ministers and men of war. The
                 pleasant vessel refers to Judah. When a precious but fragile
@@ -761,7 +761,7 @@ export default function Jeremiah25() {
           to flee, nor the principal of the flock to escape.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last kings of Judah, Jehoiakim, Jehoiachin, and Zedekiah,
                 all came to a miserable end [
                 <ScrollLink href="/kings2-23" scrollToId="#filepos4346061">
@@ -800,7 +800,7 @@ export default function Jeremiah25() {
           LORD has spoiled their pasture.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His habitation, i.e., His pasture, is now their pasture,
                 because disowned by Him.)
               </span>
@@ -814,7 +814,7 @@ export default function Jeremiah25() {
           cut down because of the fierce anger of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We learn from all of this that the Lord can abide sin in His
                 Own no more than He can in the heathen in fact, not nearly as
                 much!)
@@ -830,7 +830,7 @@ export default function Jeremiah25() {
           oppressor, and because of His fierce anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The oppressor is the Chaldean, while His fierce anger is Gods
                 anger.)
               </span>

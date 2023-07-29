@@ -25,7 +25,7 @@ export default function Exodus19() {
           and were come to the desert of Sinai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this desert, immediately before Mount Sinai, is approximately
                 two miles long and a half mile wide; it is nearly flat, and
                 could easily accommodate the nearly 3 million Israelites who
@@ -37,7 +37,7 @@ export default function Exodus19() {
           the Mount{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Feast of the Passover witnessed Israels departure from
                 Egypt, and now they are soon to come to the Feast of Pentecost,
                 which would occasion the giving of the Law, 50 days after
@@ -58,7 +58,7 @@ export default function Exodus19() {
           to the house of Jacob, and tell the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is Mount Sinai, where the Law was given)
               </span>
             </span>
@@ -73,7 +73,7 @@ export default function Exodus19() {
           Myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of a Salvation wholly of God)
               </span>
             </span>
@@ -88,7 +88,7 @@ export default function Exodus19() {
           Treasure unto Me above all people: for all the Earth is Mine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now, in Christ, spiritual Israel, which is the Church, is a
                 part of this Peculiar Treasure)
               </span>
@@ -104,7 +104,7 @@ export default function Exodus19() {
           unto the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were Gods people, in fact, the only people on the face of
                 the Earth who fell into this category; even though all the Earth
                 was His, still, these were the only people who knew Him)
@@ -128,7 +128,7 @@ export default function Exodus19() {
           the words of the people unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man has ever proclaimed his ability to obey God, and has ever
                 portrayed his constant failure. Had they known their own hearts,
                 they would have replied that such a condition was impossible to
@@ -159,7 +159,7 @@ export default function Exodus19() {
           people unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is thrice-Holy. As such, He has to veil Himself when He
                 speaks to sinful man.)
               </span>
@@ -174,7 +174,7 @@ export default function Exodus19() {
           wash their clothes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word sanctify actually means set apart and, in this case,
                 set apart exclusively to the Lord)
               </span>
@@ -190,7 +190,7 @@ export default function Exodus19() {
           people upon Mount Sinai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (three days were to be spent in preparation of the people)
               </span>
             </span>
@@ -206,7 +206,7 @@ export default function Exodus19() {
           Mount shall be surely put to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as is obvious, before the Cross, man was very limited as to how
                 he could approach God; since the Cross, whosoever will may come
                 [
@@ -239,7 +239,7 @@ export default function Exodus19() {
           clothes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sanctification then was mostly external, meaning symbolic;
                 however, since the Cross, Sanctification is a spiritual work)
               </span>
@@ -254,7 +254,7 @@ export default function Exodus19() {
           ready against the third day: come not at your wives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, this had to do with the sanctification process)
               </span>
             </span>
@@ -270,7 +270,7 @@ export default function Exodus19() {
           that all the people that was in the camp trembled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And rightly so! The Cross alone has opened up the way.)
               </span>
             </span>
@@ -284,7 +284,7 @@ export default function Exodus19() {
           the Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not that God is unapproachable. In fact, He wanted man to
                 approach, but, due to the sinfulness of man, this, at the time,
                 was the best that could be done.)
@@ -301,7 +301,7 @@ export default function Exodus19() {
           greatly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this proclaims the awful Holiness of God Almighty. What
                 a mighty God we serve!)
               </span>
@@ -319,7 +319,7 @@ export default function Exodus19() {
           answered him by a voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (may be translated, And God kept answering him by a voice; this
                 explains how the following Chapters were given to Moses)
               </span>
@@ -335,7 +335,7 @@ export default function Exodus19() {
           top of the Mount; and Moses went up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that Aaron at this time may have been with
                 Moses)
               </span>
@@ -351,7 +351,7 @@ export default function Exodus19() {
           gaze, and many of them perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no sooner had Moses arrived at the appointed place that the
                 Lord told him to go back down; once again, the people must be
                 warned)
@@ -368,7 +368,7 @@ export default function Exodus19() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (none were excluded, concerning the warning)
               </span>
             </span>
@@ -383,7 +383,7 @@ export default function Exodus19() {
           bounds about the Mount, and sanctify it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if men presently attempt to come into the Presence of God by
                 any means other than the Cross, spiritual death is the result,
                 and sometimes physical death [
@@ -409,7 +409,7 @@ export default function Exodus19() {
           lest He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           break forth upon them.

@@ -19,7 +19,7 @@ export default function Exodus34() {
           these tables the Words that were in the first tables, which you broke.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Ten Commandments were given again, but they were to be
                 committed to the Ark of the Covenant the symbol of Him Who said,
                 Thy Word have I hid in My heart Williams.)
@@ -35,7 +35,7 @@ export default function Exodus34() {
           in the top of the Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Grace is the keynote of this Chapter.)
               </span>
             </span>
@@ -49,7 +49,7 @@ export default function Exodus34() {
           flocks nor herds feed before that Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the Lord told Moses to hew the tables of stone all over
                 again, because Moses had broken the first two, there is no
                 record that God reprimanded him. Perhaps we could say that the
@@ -69,7 +69,7 @@ export default function Exodus34() {
           the two tables of stone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law is written on stone, while Grace is written on the
                 heart.)
               </span>
@@ -86,7 +86,7 @@ export default function Exodus34() {
           and stood with him there, and proclaimed the Name of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord revealed His Character and Nature, which His Name
                 proclaims.)
               </span>
@@ -101,7 +101,7 @@ export default function Exodus34() {
           longsuffering, and abundant in Goodness and Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was epitomized in the Lord Jesus Christ)
               </span>
             </span>
@@ -116,7 +116,7 @@ export default function Exodus34() {
           means clear the guilty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the unrepentant cannot experience forgiveness from the Lord)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function Exodus34() {
           childrens children, unto the third and to the fourth generation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, once any member of a family comes to Christ, this
                 curse is broken [
                 <ScrollLink
@@ -158,7 +158,7 @@ export default function Exodus34() {
           take us for Your Inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wondrous Revelation of God in this Chapter is declared in
                 II Corinthians to have been the ministration of death; for as
                 the people were still under Law, the more gracious God was, the
@@ -187,7 +187,7 @@ export default function Exodus34() {
           <sup className="calibre7">10</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, Behold, I make a Covenant: before all your people I will do
@@ -196,7 +196,7 @@ export default function Exodus34() {
           the LORD: for it is a terrible thing that I will do with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For all this, Israel still had problems believing, which cost
                 that generation the Promised Land.)
               </span>
@@ -212,7 +212,7 @@ export default function Exodus34() {
           Jebusite.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord driving out these enemies, at least when Israel came
                 to the Promised Land, was contingent upon them rendering proper
                 obedience, even as it is presently.)
@@ -228,7 +228,7 @@ export default function Exodus34() {
           for a snare in the midst of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to make a covenant with the world is to invite disaster)
               </span>
             </span>
@@ -242,7 +242,7 @@ export default function Exodus34() {
           break their images, and cut down their groves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Verse is found the first mention of Phallic worship in
                 the Bible; such was the object of worship described here as a
                 grove or Ashera; in blunt language, this is the male member [
@@ -280,7 +280,7 @@ export default function Exodus34() {
           for the LORD, Whose Name is Jealous, is a jealous God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this sense, the jealousy of God is of the essence of His
                 Moral Character, a major cause for worship and confidence on the
                 part of His People, and a ground for fear on the part of His
@@ -314,7 +314,7 @@ export default function Exodus34() {
           gods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Word of God is emphatic, that it teaches separation from
                 the world; however, it doesnt teach isolation. There is a great
                 difference in the two.)
@@ -334,7 +334,7 @@ export default function Exodus34() {
           from Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is touching to recognize the love which repeated the Ten
                 Commandments and the Sacrifices and Feasts connected therewith.
                 This was not mere repetition; it was loving instruction.)
@@ -348,14 +348,14 @@ export default function Exodus34() {
           <sup className="calibre7">19</sup>All that open the matrix{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(womb)</span>
+              <span className="explanation">(womb)</span>
             </span>
           </span>{" "}
           is Mine; and every firstling among your cattle, whether ox or sheep,
           that is male.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The firstborn, not only of man, but even the male animals, were
                 to be given to the Lord. This was typical of Christ, Who was
                 Gods Son. Regarding the Incarnation, He was the firstborn [
@@ -378,7 +378,7 @@ export default function Exodus34() {
           shall redeem with a lamb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by offering up a lamb in sacrifice, which was typical of Christ
                 being offered up for unclean humanity, of which the ass was a
                 type)
@@ -390,7 +390,7 @@ export default function Exodus34() {
           Me empty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The firstborn could not be redeemed, unless sacrifice was
                 offered; likewise, there is no Redemption for humanity without
                 Faith in the Sacrifice of Christ, of which all of this was a
@@ -406,13 +406,13 @@ export default function Exodus34() {
           seventh day you shall rest: in earing time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(plowing time)</span>
+              <span className="explanation">(plowing time)</span>
             </span>
           </span>{" "}
           and in harvest you shall rest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is Gods rest [Heb., Chpt.{" "}
                 <ScrollLink href="/hebrews-04" scrollToId="#filepos14447661">
                   <span className="calibre_19">
@@ -444,7 +444,7 @@ export default function Exodus34() {
           Weeks, of the firstfruits of wheat harvest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the feast of Pentecost, which took place in our May or June)
               </span>
             </span>
@@ -452,7 +452,7 @@ export default function Exodus34() {
           , and the Feast of Ingathering at the years end{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (of Tabernacles, which took place in October)
               </span>
             </span>
@@ -466,7 +466,7 @@ export default function Exodus34() {
           menchildren appear before the Lord GOD, the God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(April, June, and October)</span>
+              <span className="explanation">(April, June, and October)</span>
             </span>
           </span>
         </span>
@@ -480,7 +480,7 @@ export default function Exodus34() {
           thrice in the year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with all the men gathered in Jerusalem, enemies might think
                 this would be the time to attack Israel; however, the Lord
                 promises His Protection)
@@ -496,7 +496,7 @@ export default function Exodus34() {
           sacrifice with leaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many, if not most, Jewish Scholars, I believe, limit this
                 prohibition to the Passover Lamb; in fact, concerning the Feast
                 of Pentecost, leaven is required [
@@ -515,7 +515,7 @@ export default function Exodus34() {
           unto the morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this represents the fact that one must partake totally of
                 Christ, and not partially)
               </span>
@@ -530,13 +530,13 @@ export default function Exodus34() {
           land you shall bring unto the House of the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Firstfruits speak of Tithes)</span>
+              <span className="explanation">(Firstfruits speak of Tithes)</span>
             </span>
           </span>
           . You shall not seethe a kid in his mothers milk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the little baby lamb was not to be boiled in his mothers milk;
                 killing the little animal at its birth, and cooking it in this
                 manner, showed a disrespect for the coming Redeemer, represented
@@ -557,7 +557,7 @@ export default function Exodus34() {
           Covenant with you and with Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words which Moses wrote are those found in{" "}
                 <ScrollLink href="/" scrollToId="#filepos1182275">
                   <span className="calibre_19">
@@ -579,13 +579,13 @@ export default function Exodus34() {
           He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           wrote upon the tables the Words of the Covenant, the Ten Commandments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The latter portion of this Verse seems to imply that Moses
                 wrote the Ten Commandments on the two Tables of stone; however,
                 it was the Lord Who wrote these Words [
@@ -618,7 +618,7 @@ export default function Exodus34() {
           his face shone while he talked with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with Aaron this was the Presence of God on Moses)
               </span>
             </span>
@@ -633,7 +633,7 @@ export default function Exodus34() {
           afraid to come near him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this shining indicated that the Glory of God on Moses face was
                 like rays or darts of lightning shooting forth)
               </span>
@@ -662,7 +662,7 @@ export default function Exodus34() {
           with them, he put a veil on his face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul addressed this incident in II Corinthians,{" "}
                 <ScrollLink href="/exodus-03" scrollToId="#filepos704175">
                   <span className="calibre_19">
@@ -706,7 +706,7 @@ export default function Exodus34() {
           veil upon his face again, until he went in to speak with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with the Lord Richards says concerning this: The veil
                 symbolizes hiding our real selves from one another and must be
                 removed in our relationships with other Believers; because Jesus

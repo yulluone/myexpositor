@@ -62,13 +62,13 @@ export default function John16() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in one way or the other)</span>
+              <span className="explanation">(in one way or the other)</span>
             </span>
           </span>
           , because they have not known the Father, nor Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(despite their claims!)</span>
+              <span className="explanation">(despite their claims!)</span>
             </span>
           </span>
           .
@@ -116,7 +116,9 @@ export default function John16() {
           Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(back to the Father in Heaven)</span>
+              <span className="explanation">
+                (back to the Father in Heaven)
+              </span>
             </span>
           </span>
           ; and none of you asks Me, Where do You go?{" "}
@@ -161,7 +163,7 @@ export default function John16() {
           : for if I go not away, the Comforter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           will not come unto you{" "}
@@ -191,13 +193,13 @@ export default function John16() {
           <sup className="calibre7">8</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           is come, He will reprove{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(convict)</span>
+              <span className="explanation">(convict)</span>
             </span>
           </span>{" "}
           the world of sin{" "}
@@ -376,7 +378,7 @@ export default function John16() {
           : for He shall receive of Mine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the benefits of the Cross)</span>
+              <span className="explanation">(the benefits of the Cross)</span>
             </span>
           </span>
           , and shall show{" "}
@@ -584,7 +586,7 @@ export default function John16() {
           you shall weep and lament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(regarding His Crucifixion)</span>
+              <span className="explanation">(regarding His Crucifixion)</span>
             </span>
           </span>
           , but the world shall rejoice{" "}
@@ -637,7 +639,7 @@ export default function John16() {
           but I will see you again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Resurrection)</span>
+              <span className="explanation">(speaks of the Resurrection)</span>
             </span>
           </span>
           , and your heart shall rejoice, and your joy no man takes from you{" "}
@@ -659,7 +661,7 @@ export default function John16() {
           <sup className="calibre7">23</sup>And in that day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after the Day of Pentecost)</span>
+              <span className="explanation">(after the Day of Pentecost)</span>
             </span>
           </span>{" "}
           you shall ask Me nothing{" "}
@@ -763,7 +765,7 @@ export default function John16() {
           <sup className="calibre7">26</sup>At that day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after the Day of Pentecost)</span>
+              <span className="explanation">(after the Day of Pentecost)</span>
             </span>
           </span>{" "}
           you shall ask in My Name{" "}
@@ -845,7 +847,7 @@ export default function John16() {
           : again, I leave the world, and go to the Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mission is complete)</span>
+              <span className="explanation">(the Mission is complete)</span>
             </span>
           </span>
           .

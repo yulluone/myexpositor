@@ -19,7 +19,7 @@ export default function Isaiah21() {
           from a terrible land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, the desert of the sea, refers to Babylon.)
               </span>
             </span>
@@ -34,7 +34,7 @@ export default function Isaiah21() {
           I made to cease.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The primal occasion of the fulfillment of this Prophecy was the
                 destruction of Babylon some 200 years later by the Medes and
                 Persians on the night that Belshazzar was slain. This means that
@@ -54,7 +54,7 @@ export default function Isaiah21() {
           seeing of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet is horror-stricken at the devastation, the ruin,
                 the carnage.)
               </span>
@@ -69,7 +69,7 @@ export default function Isaiah21() {
           me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was no doubt the night of the handwriting on the wall,
                 which saw the fall of Babylon to the Medes and Persians [Dan.,
                 Chpt.{" "}
@@ -92,7 +92,7 @@ export default function Isaiah21() {
           watchtower, eat, drink: arise, you princes, and anoint the shield.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of war and destruction, when the Medes and the
                 Persians would break through and take the city.)
               </span>
@@ -106,7 +106,7 @@ export default function Isaiah21() {
           Go, set a watchman, let him declare what he sees.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit will, in effect, give Isaiah a ringside seat as
                 to what he will observe. These are the judgments which will come
                 upon Babylon.)
@@ -122,7 +122,7 @@ export default function Isaiah21() {
           hearkened diligently with much heed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah saw something that would happen many years into the
                 future; such pinpoint accuracy should provide information to
                 anyone who desires to know of the Hand of God, even minutely so,
@@ -140,7 +140,7 @@ export default function Isaiah21() {
           my ward whole nights{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sense of the Verse is that the Prophet cried as a lion; he
                 can contain himself no longer)
               </span>
@@ -157,7 +157,7 @@ export default function Isaiah21() {
           unto the ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The masses of infantry and cavalry seen by the watchman in
                 Vision were the hosts of Media and Elam. The repetition of the
                 word fallen and the use of the present tense emphasize the sure
@@ -175,7 +175,7 @@ export default function Isaiah21() {
           Israel, have I declared unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The bruised corn of the threshingfloor describes Israel as
                 oppressed by the Babylonians. The Lord identifies Himself here
                 with these hapless slaves and is not ashamed to call them His
@@ -194,7 +194,7 @@ export default function Isaiah21() {
           out of Seir, Watchman, what of the night? Watchman, what of the night?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Dumah refers to Idumea or Edom. There is a play here
                 upon words, for Dumah means silence. The Prophecy foretold an
                 eternal silence for the sons of Esau.
@@ -222,7 +222,7 @@ export default function Isaiah21() {
           come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, Isaiah says: For Israel, the morning is indeed
                 coming, but for Edom, the night; and yet, in the tender
                 compassion of the Holy Spirit, He adds, If you are in earnest
@@ -244,7 +244,7 @@ export default function Isaiah21() {
           Dedanim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is a play upon the word Arabia. It has to do with the
                 word sunset. For the sons of Ishmael, there is an evening of
                 sorrow as they lodge in the forest, but not a night of eternal
@@ -261,7 +261,7 @@ export default function Isaiah21() {
           him who fled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fleeing Dedanites are helped by the descendants of Abraham
                 as they pass through. They are given bread and water.)
               </span>
@@ -276,7 +276,7 @@ export default function Isaiah21() {
           war.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy pertains to the invasion by Assyria, which would
                 happen very shortly. Isaiah sees the defeat of the Arabians, as
                 well as their fleeing for their lives and from the heartache of
@@ -293,7 +293,7 @@ export default function Isaiah21() {
           glory of Kedar shall fail{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word Kedar refers to another part of Arabia; the Prophet
                 says that the judgment upon Arabia will take place within a
                 year; this pertains to the invasion by Assyria)
@@ -310,7 +310,7 @@ export default function Isaiah21() {
           for the LORD God of Israel has spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These people glory, not only in their wealth, but in their
                 number of archers and their mighty men. They felt secure!
               </span>

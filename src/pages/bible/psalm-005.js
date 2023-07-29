@@ -101,7 +101,7 @@ export default function Psalm005() {
           leasing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lies)</span>
+              <span className="explanation">(lies)</span>
             </span>
           </span>
           : the LORD will abhor the bloody and deceitful man{" "}
@@ -165,20 +165,20 @@ export default function Psalm005() {
           mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Pharisees)</span>
+              <span className="explanation">(the Pharisees)</span>
             </span>
           </span>
           ; their inward part is very wickedness; their throat is an open
           sepulchre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sadducees)</span>
+              <span className="explanation">(the Sadducees)</span>
             </span>
           </span>
           ; they flatter with their tongue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Herodians)</span>
+              <span className="explanation">(the Herodians)</span>
             </span>
           </span>
           .

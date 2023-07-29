@@ -31,7 +31,7 @@ export default function Romans04() {
           works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which he wasnt)</span>
+              <span className="explanation">(which he wasnt)</span>
             </span>
           </span>
           , he has{" "}
@@ -96,13 +96,13 @@ export default function Romans04() {
           is the reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Righteousness)</span>
+              <span className="explanation">(Righteousness)</span>
             </span>
           </span>{" "}
           not reckoned of Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Grace of God)</span>
+              <span className="explanation">(the Grace of God)</span>
             </span>
           </span>
           , but of debt{" "}
@@ -129,7 +129,9 @@ export default function Romans04() {
           , but believes on Him Who Justifies the ungodly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through Christ and the Cross)</span>
+              <span className="explanation">
+                (through Christ and the Cross)
+              </span>
             </span>
           </span>
           , his faith is counted for Righteousness{" "}
@@ -159,7 +161,7 @@ export default function Romans04() {
           also describes the blessedness of the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a blessed man)</span>
+              <span className="explanation">(a blessed man)</span>
             </span>
           </span>
           , unto whom God imputes Righteousness without works{" "}
@@ -206,7 +208,9 @@ export default function Romans04() {
           , and whose sins are covered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Cross made this possible)</span>
+              <span className="explanation">
+                (the Cross made this possible)
+              </span>
             </span>
           </span>
           .
@@ -249,7 +253,7 @@ export default function Romans04() {
           or upon the uncircumcision also?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(It comes on all alike!)</span>
+              <span className="explanation">(It comes on all alike!)</span>
             </span>
           </span>{" "}
           for we say that Faith was reckoned to Abraham for Righteousness{" "}
@@ -331,7 +335,7 @@ export default function Romans04() {
           : that he might be the father of all them who believe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews and Gentiles)</span>
+              <span className="explanation">(Jews and Gentiles)</span>
             </span>
           </span>
           , though they be not Circumcised{" "}
@@ -454,7 +458,7 @@ export default function Romans04() {
           heirs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(only those in the Law)</span>
+              <span className="explanation">(only those in the Law)</span>
             </span>
           </span>
           , faith is made void{" "}
@@ -544,13 +548,13 @@ export default function Romans04() {
           ; not to that only which is of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews),</span>
+              <span className="explanation">(Jews),</span>
             </span>
           </span>{" "}
           but to that also which is of the faith of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(everything is by Faith)</span>
+              <span className="explanation">(everything is by Faith)</span>
             </span>
           </span>
           ; who is the father of us all{" "}
@@ -651,7 +655,7 @@ export default function Romans04() {
           which was spoken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Promise of God)</span>
+              <span className="explanation">(the Promise of God)</span>
             </span>
           </span>
           , So shall your seed be{" "}
@@ -678,7 +682,7 @@ export default function Romans04() {
           <sup className="calibre7">19</sup>And being not weak in Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(strong Faith)</span>
+              <span className="explanation">(strong Faith)</span>
             </span>
           </span>
           , he considered not his own body now dead, when he was about an
@@ -729,13 +733,13 @@ export default function Romans04() {
           <sup className="calibre7">21</sup>And being fully persuaded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no turning back)</span>
+              <span className="explanation">(no turning back)</span>
             </span>
           </span>{" "}
           that, what He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           had Promised, He was able also to perform{" "}

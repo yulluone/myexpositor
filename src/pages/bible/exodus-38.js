@@ -18,25 +18,25 @@ export default function Exodus38() {
           Offering of Shittim Wood: five cubits was the length thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 and 1/2 feet)</span>
+              <span className="explanation">(7 and 1/2 feet)</span>
             </span>
           </span>
           , and five cubits the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           thereof; it was foursquare; and three cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(4 and 1/2 feet)</span>
+              <span className="explanation">(4 and 1/2 feet)</span>
             </span>
           </span>{" "}
           the height thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the Altar where the Burnt Offerings were offered. The
                 Vessel sat outside immediately in front of the Tabernacle.)
               </span>
@@ -50,7 +50,7 @@ export default function Exodus38() {
           four corners of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (horns stand for power and dominion; the idea is that the
                 Sacrifice of Christ would be a total and complete Sacrifice,
                 answering every problem of the entirety of the human race,
@@ -68,7 +68,7 @@ export default function Exodus38() {
           and the firepans: all the Vessels thereof made he of brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The copper, which characterizes this particular Vessel, speaks
                 of Judgment, and Judgment which came upon Christ instead of upon
                 us.)
@@ -84,7 +84,7 @@ export default function Exodus38() {
           it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evidently, this was an extension on the Altar, which protruded
                 out, and encircled the Altar. It was there, evidently, to catch
                 parts of the Sacrifice which might fall off, so that they not
@@ -107,7 +107,7 @@ export default function Exodus38() {
           Wood, and overlaid them with brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
         </span>
@@ -120,7 +120,7 @@ export default function Exodus38() {
           with boards.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As all the other Sacred Vessels had to be transported when the
                 Camp of Israel moved, so did the great Brazen Altar. This tells
                 us, among other things, that there is never a time, place, or
@@ -139,7 +139,7 @@ export default function Exodus38() {
           <sup className="calibre7">8</sup>And he made the Laver of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the copper Laver, filled with water, symbolized the Word of
                 God, with Jesus as the Living Word [
                 <ScrollLink href="/john-01" scrollToId="#filepos12284332">
@@ -156,14 +156,16 @@ export default function Exodus38() {
           , and the foot of it of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the pedestal on which it sat)</span>
+              <span className="explanation">
+                (the pedestal on which it sat)
+              </span>
             </span>
           </span>
           , of the lookingglasses of the women assembling, which assembled at
           the door of the Tabernacle of the congregation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The women who assembled here portrayed their zeal for the
                 things of God, and contributed their bronze plates, which
                 emitted a high polish and were used as mirrors, from which the
@@ -183,7 +185,7 @@ export default function Exodus38() {
           <sup className="calibre7">9</sup>And he made the Court{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which surrounded the Tabernacle)
               </span>
             </span>
@@ -192,7 +194,7 @@ export default function Exodus38() {
           Twined Linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (symbolizing the Righteousness of Christ)
               </span>
             </span>
@@ -200,7 +202,7 @@ export default function Exodus38() {
           , an hundred cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(150 feet)</span>
+              <span className="explanation">(150 feet)</span>
             </span>
           </span>
           :
@@ -211,7 +213,7 @@ export default function Exodus38() {
           <sup className="calibre7">10</sup>Their pillars were twenty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were probably made of Shittim Wood)
               </span>
             </span>
@@ -219,7 +221,7 @@ export default function Exodus38() {
           , and their brasen sockets twenty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sockets in which the pillars sat)
               </span>
             </span>
@@ -227,7 +229,7 @@ export default function Exodus38() {
           ; the hooks of the pillars and their fillets were of silver.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The silver symbolizes Redemption. The spotless white walls that
                 surrounded the Tabernacle on every side were a standing witness
                 to the Holiness of Him Whose dwelling it was.)
@@ -242,7 +244,7 @@ export default function Exodus38() {
           were an hundred cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(150 feet)</span>
+              <span className="explanation">(150 feet)</span>
             </span>
           </span>
           , their pillars were twenty, and their sockets of brass twenty; the
@@ -255,7 +257,7 @@ export default function Exodus38() {
           of fifty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           , their pillars ten, and their sockets ten; the hooks of the pillars
@@ -274,7 +276,7 @@ export default function Exodus38() {
           gate were fifteen cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(22 and 1/2 feet)</span>
+              <span className="explanation">(22 and 1/2 feet)</span>
             </span>
           </span>
           ; their pillars three, and their sockets three.
@@ -287,7 +289,7 @@ export default function Exodus38() {
           their pillars three, and their sockets three.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gate, or entrance, into the Court was 20 cubits, or 30
                 feet, wide [
                 <ScrollLink href="/exodus-27" scrollToId="#filepos1069078">
@@ -322,7 +324,7 @@ export default function Exodus38() {
           roundabout were of Fine Twined Linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (snow-white, typifying the Righteousness of Christ)
               </span>
             </span>
@@ -338,7 +340,7 @@ export default function Exodus38() {
           the Court were filleted with silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, expressing Redemption, all in Christ)
               </span>
             </span>
@@ -355,7 +357,7 @@ export default function Exodus38() {
           Court was needlework, of Blue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the Heavenly origin of Christ)
               </span>
             </span>
@@ -363,7 +365,7 @@ export default function Exodus38() {
           , and Purple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying His Position as King)
               </span>
             </span>
@@ -371,7 +373,7 @@ export default function Exodus38() {
           , and Scarlet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying His shed Blood on the Cross of Calvary)
               </span>
             </span>
@@ -379,19 +381,19 @@ export default function Exodus38() {
           , and Fine Twined Linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typifying His Righteousness)</span>
+              <span className="explanation">(typifying His Righteousness)</span>
             </span>
           </span>
           : and twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet)</span>
+              <span className="explanation">(30 feet)</span>
             </span>
           </span>{" "}
           was the length, and the height in the breadth was five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (7 and 1/2 feet; the merely curious could not see over this
                 fence)
               </span>
@@ -424,7 +426,7 @@ export default function Exodus38() {
           of Ithamar, son of Aaron the Priest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ithamar was placed in charge. Aaron had four sons, and Ithamar
                 was the youngest. Two of the sons, Nadab and Abihu, would be
                 slain by the Lord for using strange fire [
@@ -447,7 +449,7 @@ export default function Exodus38() {
           of Hur, of the Tribe of Judah, made all that the LORD commanded Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was in charge)</span>
+              <span className="explanation">(was in charge)</span>
             </span>
           </span>
         </span>
@@ -461,7 +463,7 @@ export default function Exodus38() {
           linen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything was designed by the Lord, even down to the minute
                 details. These designs were to be followed minutely and without
                 fail.)
@@ -478,7 +480,7 @@ export default function Exodus38() {
           shekels, after the shekel of the sanctuary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about $14,000,000, in 2004 currency)
               </span>
             </span>
@@ -494,7 +496,7 @@ export default function Exodus38() {
           the Sanctuary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about $750,000, in 2004 currency)
               </span>
             </span>
@@ -509,7 +511,7 @@ export default function Exodus38() {
           be numbered, from twenty years old and upward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were men of war and, if a census was taken, each man was
                 responsible to pay a half shekel of silver, worth about $3; as
                 silver signified Redemption, this tells us that Israels power
@@ -523,7 +525,7 @@ export default function Exodus38() {
           fifty men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (603,550 at the time of this census, and, as stated, all men of
                 war; these were counted from 20 years old upward to 50 years
                 old; counting those younger and older, as well as all the women
@@ -542,7 +544,7 @@ export default function Exodus38() {
           an hundred sockets of the hundred talents, a talent for a socket{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 75 pounds)</span>
+              <span className="explanation">(about 75 pounds)</span>
             </span>
           </span>
         </span>
@@ -560,7 +562,7 @@ export default function Exodus38() {
           <sup className="calibre7">29</sup>And the brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>{" "}
           of the Offering was seventy talents, and two thousand and four hundred
@@ -574,7 +576,7 @@ export default function Exodus38() {
           and the brasen grate for it, and all the Vessels of the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper signified judgment)</span>
+              <span className="explanation">(copper signified judgment)</span>
             </span>
           </span>
           ,

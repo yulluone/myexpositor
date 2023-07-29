@@ -18,7 +18,7 @@ export default function Isaiah48() {
           of the God of Israel, but not in truth, nor in righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob is the nations natural name; Israel is the spiritual
                 name. To swear by the Name of Jehovah is an idiom expressive of
                 worship. The phrase, But not in truth, nor in righteousness,
@@ -36,7 +36,7 @@ export default function Isaiah48() {
           His Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The essence of this Verse is the idea that Judah put great
                 dependence and store upon the outward and formal, as the fact of
                 their belonging to the Holy City, Jerusalem. Compare the boasts
@@ -61,7 +61,7 @@ export default function Isaiah48() {
           them; I did them suddenly, and they came to pass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The former things concern the predicted birth of Isaac and the
                 foretold exodus from Egypt. The words, showed and declared, as
                 well as suddenly, refer to the Deliverance from Egypt, and that
@@ -78,7 +78,7 @@ export default function Isaiah48() {
           obstinate, and your neck is an iron sinew, and your brow brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the argument of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7841433">
                   <span className="calibre_19">
@@ -107,7 +107,7 @@ export default function Isaiah48() {
           image, have commanded them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It has been already observed that there was a strong tendency
                 to idolatry among the Jews, not only before, but also during,
                 the captivity! [
@@ -131,7 +131,7 @@ export default function Isaiah48() {
           even hidden things, and you did not know them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The new things contrasted with the former things of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7840846">
                   <span className="calibre_19">
@@ -153,7 +153,7 @@ export default function Isaiah48() {
           should say, Behold, I knew them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, they are created now, do not mean that God is
                 hastily formulating a new plan, but that what has lain in secret
                 in Gods counsels from all eternity is now being revealed to
@@ -171,7 +171,7 @@ export default function Isaiah48() {
           the womb.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel had ears, but they would not hear, and consequently they
                 did not know. It was a willful deadness and, thereby, a willful
                 ignorance!)
@@ -190,7 +190,7 @@ export default function Isaiah48() {
           off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels annihilation was not escaped from because of their
                 goodness, but because of the Glory of Jehovahs Name and Praise.)
               </span>
@@ -204,7 +204,7 @@ export default function Isaiah48() {
           with silver; I have chosen you in the furnace of affliction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was refined in Egypt, and was to be refined after
                 Isaiahs day in Babylon, and will be refined during the coming
                 Great Tribulation. The furnace of affliction always has to do
@@ -224,7 +224,7 @@ export default function Isaiah48() {
           give My glory unto another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Had the Lord not deferred His Anger and had He cut Israel off,
                 then would His Name have been profaned and His Glory would have
                 been given to another god.)
@@ -239,7 +239,7 @@ export default function Isaiah48() {
           My called; I am He; I am the First, I also am the Last.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is impressing upon Israel the seriousness of
                 the situation by considering Who it is by Whom they have been
                 called I am He i.e., I am the absolute and eternally
@@ -265,7 +265,7 @@ export default function Isaiah48() {
           unto them, they stand up together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Heaven and Earth and all things that are in them, except man,
                 are prompt to perform Gods Will and rise up at once at His Call
                 to show their readiness.)
@@ -282,7 +282,7 @@ export default function Isaiah48() {
           Chaldeans.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is all the more startling when one realizes that the
                 Babylonian Empire, at the time of Isaiahs Prophecy, had not even
                 come into being, much less a settled power in the world! So,
@@ -300,7 +300,7 @@ export default function Isaiah48() {
           called him: I have brought him, and he shall make his way prosperous.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cyrus is represented as raised up by God, called by Him and
                 commissioned by Him to do all his pleasure.)
               </span>
@@ -316,7 +316,7 @@ export default function Isaiah48() {
           sent Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God, from the beginning and from His first dealings with
                 Israel, had raised up a succession of Prophets who had declared
                 His Will, not in secret, or ambiguously, but openly and plainly,
@@ -348,7 +348,7 @@ export default function Isaiah48() {
           profit, Who leads you by the way that you should go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Promise of this Scripture is absolutely phenomenal! The
                 Word of God is extolled here; if the Word is followed, the
                 result will be tremendous profit, and in every capacity.)
@@ -364,7 +364,7 @@ export default function Isaiah48() {
           righteousness as the waves of the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea of this Passage is that Israel should try to keep the
                 Commandments to the very best of their ability. In truth, they
                 were not capable of doing so, but they were supposed to try. Had
@@ -383,7 +383,7 @@ export default function Isaiah48() {
           should not have been cut off nor destroyed from before Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy looks ahead some two hundred years when Israel
                 will be coming back from dispersion, and then it looks ahead
                 even unto the present hour. Due to Israels Crucifixion of
@@ -402,7 +402,7 @@ export default function Isaiah48() {
           His servant Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sons of Israel were to forsake Babylon and her idols and to
                 testify to the ends of the Earth that their Deliverance was due
                 to Jehovah Messiah, and not to any false god.)
@@ -418,7 +418,7 @@ export default function Isaiah48() {
           for them: he clave the rock also, and the waters gushed out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Promise is that God would superintend their passage exactly
                 as He did their forefathers those many centuries before. The
                 Holy Spirit is saying, As the Rock was Christ for Israel coming
@@ -435,7 +435,7 @@ export default function Isaiah48() {
           unto the wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy closes with a tremendous Promise and tremendous
                 warning! Those who follow Him will never thirst, while those who
                 do not follow Him will have no peace. As eternal is the flowing

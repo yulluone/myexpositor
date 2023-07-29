@@ -151,7 +151,7 @@ export default function Kings214() {
           salt ten thousand, and took Selah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Petra)</span>
+              <span className="explanation">(Petra)</span>
             </span>
           </span>{" "}
           by war, and called the name of it Joktheel unto this day{" "}
@@ -245,7 +245,7 @@ export default function Kings214() {
           Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(went to battle!)</span>
+              <span className="explanation">(went to battle!)</span>
             </span>
           </span>
         </span>
@@ -301,7 +301,7 @@ export default function Kings214() {
           <sup className="calibre7">14</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joash, king of Israel)</span>
+              <span className="explanation">(Joash, king of Israel)</span>
             </span>
           </span>{" "}
           took all the gold and silver, and all the vessels that were found in
@@ -340,7 +340,7 @@ export default function Kings214() {
           son reigned in his stead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jeroboam II)</span>
+              <span className="explanation">(Jeroboam II)</span>
             </span>
           </span>
         </span>
@@ -458,7 +458,7 @@ export default function Kings214() {
           the sight of the LORD: he departed not from all the sins of Jeroboam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after whom he was named)</span>
+              <span className="explanation">(after whom he was named)</span>
             </span>
           </span>{" "}
           the son of Nebat, who made Israel to sin{" "}
@@ -555,7 +555,7 @@ export default function Kings214() {
           , for Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(recovered them for Israel)</span>
+              <span className="explanation">(recovered them for Israel)</span>
             </span>
           </span>
           , are they not written in the Book of the Chronicles of the kings of

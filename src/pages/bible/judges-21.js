@@ -204,7 +204,7 @@ export default function Judges21() {
           to call peaceably unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(20:47)</span>
+              <span className="explanation">(20:47)</span>
             </span>
           </span>
         </span>

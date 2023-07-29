@@ -186,7 +186,7 @@ export default function Ezekiel18() {
           iniquity, has executed true judgment between man and man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(traits of the righteous!)</span>
+              <span className="explanation">(traits of the righteous!)</span>
             </span>
           </span>
           ,
@@ -217,7 +217,7 @@ export default function Ezekiel18() {
           <sup className="calibre7">10</sup>If he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the righteous man)</span>
+              <span className="explanation">(the righteous man)</span>
             </span>
           </span>{" "}
           beget a son who is a robber, a shedder of blood, and who does the like

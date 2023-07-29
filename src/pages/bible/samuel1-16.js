@@ -42,7 +42,7 @@ export default function Samuel116() {
           fill your horn with oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of the Holy Spirit)</span>
+              <span className="explanation">(a Type of the Holy Spirit)</span>
             </span>
           </span>
           , and go{" "}
@@ -156,13 +156,13 @@ export default function Samuel116() {
           come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesse and his sons)</span>
+              <span className="explanation">(Jesse and his sons)</span>
             </span>
           </span>
           , that he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Samuel)</span>
+              <span className="explanation">(Samuel)</span>
             </span>
           </span>{" "}
           looked on Eliab, and said, Surely the LORDs anointed is before him.{" "}
@@ -246,7 +246,7 @@ export default function Samuel116() {
           he was ruddy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(red-haired)</span>
+              <span className="explanation">(red-haired)</span>
             </span>
           </span>
           , and withal of a beautiful countenance{" "}
@@ -260,7 +260,7 @@ export default function Samuel116() {
           , and goodly to look to{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to look at, handsome)</span>
+              <span className="explanation">(to look at, handsome)</span>
             </span>
           </span>
           . And the LORD said, Arise, anoint him: for this is he.{" "}
@@ -409,7 +409,7 @@ export default function Samuel116() {
           cunning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(skillful)</span>
+              <span className="explanation">(skillful)</span>
             </span>
           </span>{" "}
           in playing, and a mighty valiant man, and a man of war, and prudent in
@@ -447,7 +447,7 @@ export default function Samuel116() {
           bread, and a bottle of wine, and a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(baby lamb)</span>
+              <span className="explanation">(baby lamb)</span>
             </span>
           </span>
           , and sent them by David his son unto Saul.

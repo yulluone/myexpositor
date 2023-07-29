@@ -17,7 +17,7 @@ export default function Ezekiel20() {
           the Elders of Israel came to inquire of the LORD, and sat before me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a new Prophecy; it begins with this Verse and follows
                 through the conclusion of{" "}
                 <ScrollLink href="/ezekiel-23" scrollToId="#filepos9332808">
@@ -77,7 +77,7 @@ export default function Ezekiel20() {
           by you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last phrase is a startling statement indeed! The Lord will
                 not accede to their request and will not hear their prayers.
                 These men outwardly professed the worship of God, but inwardly
@@ -93,7 +93,7 @@ export default function Ezekiel20() {
           you judge them? cause them to know the abominations of their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit, by causing them to know the abominations of
                 their fathers, will in no uncertain terms proclaim the justness
                 of Gods Actions; furthermore, He will relate their own
@@ -113,7 +113,7 @@ export default function Ezekiel20() {
           LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, In the day when I chose Israel, reverts back to{" "}
                 <ScrollLink href="/ezekiel-16" scrollToId="#filepos9192627">
                   <span className="calibre_19">
@@ -138,7 +138,7 @@ export default function Ezekiel20() {
           of all lands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Flowing with milk and honey, appears first in{" "}
                 <ScrollLink href="/exodus-03" scrollToId="#filepos707974">
                   <span className="calibre_19">
@@ -165,7 +165,7 @@ export default function Ezekiel20() {
           the idols of Egypt: I am the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse portrays the fact that they were idol worshippers in
                 Egypt, and the Lord demanded their disengagement from such
                 abominations.)
@@ -183,7 +183,7 @@ export default function Ezekiel20() {
           My Anger against them in the midst of the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To accomplish My Anger against them in the midst of the land of
                 Egypt, portrays Israels wrongdoing, even in the midst of being
                 delivered. This is not so pointedly outlined in the Book of
@@ -208,7 +208,7 @@ export default function Ezekiel20() {
           of the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, But I wrought for My Names sake, refers to the
                 truth that the only reason they were spared was not their
                 holiness, but His Holiness and Names sake.)
@@ -230,7 +230,7 @@ export default function Ezekiel20() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Statutes and Judgments spoken of here pertain to the Law of
                 Moses given to the Children of Israel on Mount Sinai. They were
                 to live by these Laws.)
@@ -246,7 +246,7 @@ export default function Ezekiel20() {
           I Am the LORD Who sanctifies them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sabbaths were typical of the rest which could be found only
                 in Christ. Serving Christ today constitutes keeping the Sabbath;
                 that particular day is no longer in force, because the One it
@@ -316,7 +316,7 @@ export default function Ezekiel20() {
           My Fury upon them in the wilderness, to consume them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When fathers are hardened in sin, as{" "}
                 <ScrollLink href="/" scrollToId="#filepos9276835">
                   <span className="calibre_19">
@@ -348,7 +348,7 @@ export default function Ezekiel20() {
           brought them out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This, as{" "}
                 <ScrollLink href="/" scrollToId="#filepos9274280">
                   <span className="calibre_19">
@@ -372,7 +372,7 @@ export default function Ezekiel20() {
           glory of all lands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from this Passage, we learn how absolutely close that Israel
                 came to being totally exterminated in the wilderness. It was
                 only the Intercession of Moses which caused them, after a
@@ -398,7 +398,7 @@ export default function Ezekiel20() {
           heart went after their idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage portrays to us the truth that Laws, even if they
                 do originate with the Lord, cannot change an individual. Only a
                 work effected in the heart can bring about this change. It is
@@ -422,7 +422,7 @@ export default function Ezekiel20() {
           destroying them, neither did I make an end of them in the wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Eye spared them for His Names sake.)
               </span>
             </span>
@@ -436,7 +436,7 @@ export default function Ezekiel20() {
           observe their judgments, nor defile yourselves with their idols{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, But I said unto their children in the wilderness,
                 refers to the generation who followed those who died off in the
                 wilderness because of their rebellion)
@@ -459,7 +459,7 @@ export default function Ezekiel20() {
           LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the keeping of a particular day called the Sabbath
                 is not imposed upon Christians. The Sabbath of the Old Covenant
                 was a day of rest. It typified Christ, Who would give perfect
@@ -486,7 +486,7 @@ export default function Ezekiel20() {
           them, to accomplish My Anger against them in the wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As they did in Egypt, as described in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9273291">
                   <span className="calibre_19">
@@ -510,7 +510,7 @@ export default function Ezekiel20() {
           of the heathen, in whose sight I brought them forth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For His Names sake the Lord allowed the second generation to go
                 into the Promised Land. He did it so the heathen would not be
                 able to mock His Name by claiming that He had brought them into
@@ -527,7 +527,7 @@ export default function Ezekiel20() {
           disperse them through the countries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were not to think that because He had allowed them to go
                 into the land, that this was a sign of His Approval)
               </span>
@@ -543,7 +543,7 @@ export default function Ezekiel20() {
           and their eyes were after their fathers idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the fathers had sinned, so did the children! As their
                 fathers were judged, so were they!)
               </span>
@@ -557,7 +557,7 @@ export default function Ezekiel20() {
           that were not good, and judgments whereby they should not live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Wherefore I gave them, means that He permitted them
                 to pollute themselves)
               </span>
@@ -574,7 +574,7 @@ export default function Ezekiel20() {
           that I Am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God commanded that their children should be passed over to Him
                 and live. Idolatry commanded that they should pass through to
                 Moloch and die.)
@@ -594,7 +594,7 @@ export default function Ezekiel20() {
           trespass against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It actually says, They trespassed a trespass. That is, they
                 were guilty of a supreme trespass, i.e., they associated idols
                 with God.)
@@ -613,7 +613,7 @@ export default function Ezekiel20() {
           there their drink offerings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fourfold repetition of the word there, stipulating the
                 places of idol worship, is employed to emphasize the contrast
                 with the one Divinely appointed place of acceptance, i.e.,
@@ -651,7 +651,7 @@ export default function Ezekiel20() {
           this day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Bamah means high place. This word became a byword
                 expressing the displeasure of God upon such places a memorial of
                 the guilt of the people. In fact, the very name, high place,
@@ -676,7 +676,7 @@ export default function Ezekiel20() {
           your fathers? and commit you whoredom after their abominations?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This period of Israels idolatrous history is the subject of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9285753">
                   <span className="calibre_19">
@@ -704,7 +704,7 @@ export default function Ezekiel20() {
           inquired of by you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel, by Inspiration, refused to pray for his visitors. They
                 must have been very angry with him, for, instead of preaching to
                 them the comfortable messages which the other prophets
@@ -742,7 +742,7 @@ export default function Ezekiel20() {
           families of the countries, to serve wood and stone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Temple were to be destroyed, as Jeremiah and Ezekiel
                 were prophesying, this would mean, at least in their minds, that
                 they could no longer worship Jehovah, and would be free to be as
@@ -774,7 +774,7 @@ export default function Ezekiel20() {
           out will I rule over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord now answers the thoughts of their minds in stating to
                 them that they could not abrogate their high position; they
                 would remain under the burden of its responsibilities)
@@ -792,7 +792,7 @@ export default function Ezekiel20() {
           Fury poured out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These baseless inquiries by the Elders of Judah in exile will
                 occasion the Holy Spirit giving these profound Prophecies
                 concerning Israels future Salvation. This Scripture will not be
@@ -810,7 +810,7 @@ export default function Ezekiel20() {
           face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage pertains to the time when the Antichrist will
                 actually invade Israel and defeat her, with a million or more
                 escaping to the wilderness, i.e., Petra, which is in modern
@@ -869,7 +869,7 @@ export default function Ezekiel20() {
           ys the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (During this time of pleading, they will be brought face-to-face
                 with their failures, rebellion, and iniquities.)
               </span>
@@ -883,7 +883,7 @@ export default function Ezekiel20() {
           the rod, and I will bring you into the bond of the Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, And I will cause you to pass under the rod, refers
                 primarily to the rod of chastisement. It concerns itself with
                 the latter half [3 years] of the Great Tribulation, when Israel
@@ -911,7 +911,7 @@ export default function Ezekiel20() {
           into the land of Israel: and you shall know that I Am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The purging will take place during the last three and a half
                 years of the Great Tribulation, and will have to do with the
                 two-thirds who will be destroyed during that time, and
@@ -929,7 +929,7 @@ export default function Ezekiel20() {
           Holy Name no more with your gifts, and with your idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through the Prophet now brings the Prophecy
                 away from the future back to the present. The Elders are
                 addressed.
@@ -965,7 +965,7 @@ export default function Ezekiel20() {
           firstfruits of your oblations, with all your holy things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now the Holy Spirit reverts back to Prophecies concerning the
                 future. Redeemed Israel, in the happy day of her future glory,
                 will recognize and confess that all her happiness is due to the
@@ -997,7 +997,7 @@ export default function Ezekiel20() {
           sanctified in you before the heathen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The acceptance of the worshipper is the result of the value of
                 the victim offered in Sacrifice for sin. Hence, Believers are
                 engraced in the Beloved One [
@@ -1021,7 +1021,7 @@ export default function Ezekiel20() {
           for the which I lifted up My Hand to give it to your fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the tremendous Prophecies which seem so
                 impossible to the natural mind, and yet, which the Lord declares
                 that He is able to bring to pass, and which He did!)
@@ -1038,7 +1038,7 @@ export default function Ezekiel20() {
           have committed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerns Israels acceptance of Christ at the Second
                 Coming, when they realize Who He is, and especially how they
                 crucified Him and brought upon themselves such judgment and
@@ -1056,7 +1056,7 @@ export default function Ezekiel20() {
           Israel, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel will know in that day that their Salvation and
                 Restoration are not brought about because of their holiness; in
                 fact, their ways were wicked and their doings were corrupt.
@@ -1077,7 +1077,7 @@ export default function Ezekiel20() {
           unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the balance of this Chapter speaks of the near Judgment upon
                 Judah and Jerusalem. As is by now obvious, rebellion against God
                 ensconced in their idol worship was basically the cause)
@@ -1094,7 +1094,7 @@ export default function Ezekiel20() {
           forest of the south field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy forms an introduction to{" "}
                 <ScrollLink href="/ezekiel-21" scrollToId="#filepos9298699">
                   <span className="calibre_19">
@@ -1121,7 +1121,7 @@ export default function Ezekiel20() {
           from the south to the north shall be burned therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The green tree symbolizes the righteous, while the dry tree
                 symbolizes the wicked. The inclusion of the righteous with the
                 wicked in national and universal Judgments is one of the
@@ -1150,7 +1150,7 @@ export default function Ezekiel20() {
           LORD have kindled it: it shall not be quenched.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The accomplishment of the prediction proves the Divine Origin
                 of the Prophecy.)
               </span>
@@ -1164,7 +1164,7 @@ export default function Ezekiel20() {
           of me, Does he not speak parables?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ridicule of unbelief is often more painful than the anger
                 of unbelief!)
               </span>

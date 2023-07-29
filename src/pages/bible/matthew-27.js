@@ -103,7 +103,7 @@ export default function Matthew27() {
           , and brought again the thirty pieces of silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the price he had been given)</span>
+              <span className="explanation">(the price he had been given)</span>
             </span>
           </span>{" "}
           to the Chief Priests and Elders{" "}
@@ -210,7 +210,7 @@ export default function Matthew27() {
           <sup className="calibre7">7</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sanhedrin)</span>
+              <span className="explanation">(the Sanhedrin)</span>
             </span>
           </span>{" "}
           took counsel{" "}
@@ -225,7 +225,7 @@ export default function Matthew27() {
           , and bought with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the thirty pieces of silver)</span>
+              <span className="explanation">(the thirty pieces of silver)</span>
             </span>
           </span>{" "}
           the potters field, to bury strangers in{" "}
@@ -298,7 +298,7 @@ export default function Matthew27() {
           <sup className="calibre7">10</sup>And gave them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(thirty pieces of silver)</span>
+              <span className="explanation">(thirty pieces of silver)</span>
             </span>
           </span>{" "}
           for the potters field, as the Lord appointed Me{" "}
@@ -321,7 +321,7 @@ export default function Matthew27() {
           <sup className="calibre7">11</sup>And Jesus stood before the governor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of Pontius Pilate)</span>
+              <span className="explanation">(speaks of Pontius Pilate)</span>
             </span>
           </span>
           : and the governor asked Him, saying, are You the King of the Jews?{" "}
@@ -439,13 +439,13 @@ export default function Matthew27() {
           feast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Passover)</span>
+              <span className="explanation">(the Passover)</span>
             </span>
           </span>{" "}
           the governor was wont{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accustomed)</span>
+              <span className="explanation">(accustomed)</span>
             </span>
           </span>{" "}
           to release unto the people a prisoner, whom they would{" "}
@@ -574,7 +574,7 @@ export default function Matthew27() {
           , and destroy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(kill)</span>
+              <span className="explanation">(kill)</span>
             </span>
           </span>{" "}
           Jesus.
@@ -735,7 +735,7 @@ export default function Matthew27() {
           : and when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pilate)</span>
+              <span className="explanation">(Pilate)</span>
             </span>
           </span>{" "}
           had scourged Jesus{" "}
@@ -782,7 +782,7 @@ export default function Matthew27() {
           <sup className="calibre7">27</sup>Then the soldiers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Roman soldiers)</span>
+              <span className="explanation">(Roman soldiers)</span>
             </span>
           </span>{" "}
           of the governor took Jesus into the common hall, and gathered unto Him
@@ -903,7 +903,7 @@ export default function Matthew27() {
           <sup className="calibre7">32</sup>And as they came out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on the way to Calvary)</span>
+              <span className="explanation">(on the way to Calvary)</span>
             </span>
           </span>
           , they found a man of Cyrene, Simon by name{" "}
@@ -1158,7 +1158,7 @@ export default function Matthew27() {
           with the Scribes and Elders, said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is religion at work!)</span>
+              <span className="explanation">(this is religion at work!)</span>
             </span>
           </span>
           ,
@@ -1187,7 +1187,7 @@ export default function Matthew27() {
           and we will believe Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(blasphemers are also liars!)</span>
+              <span className="explanation">(blasphemers are also liars!)</span>
             </span>
           </span>
           .
@@ -1261,7 +1261,7 @@ export default function Matthew27() {
           <sup className="calibre7">45</sup>Now from the sixth hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(12 Noon)</span>
+              <span className="explanation">(12 Noon)</span>
             </span>
           </span>{" "}
           there was darkness over all the land unto the ninth hour{" "}
@@ -1357,7 +1357,7 @@ export default function Matthew27() {
           <sup className="calibre7">48</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           one of them ran, and took a sp onge, and filled{" "}
@@ -1390,7 +1390,7 @@ export default function Matthew27() {
           whether Elijah will come to save Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said in mockery!)</span>
+              <span className="explanation">(said in mockery!)</span>
             </span>
           </span>
           .
@@ -1488,7 +1488,7 @@ export default function Matthew27() {
           resurrection, and went into the holy city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>
           , and appeared unto many{" "}
@@ -1709,13 +1709,15 @@ export default function Matthew27() {
           <sup className="calibre7">60</sup>And laid it in his own new tomb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which had never been used)</span>
+              <span className="explanation">(which had never been used)</span>
             </span>
           </span>
           , which he had hewn out in the rock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was cut out of solid rock)</span>
+              <span className="explanation">
+                (it was cut out of solid rock)
+              </span>
             </span>
           </span>
           : and he rolled a great stone to the door of the sepulchre, and

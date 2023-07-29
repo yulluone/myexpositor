@@ -154,7 +154,7 @@ export default function Numbers04() {
           and cover the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>{" "}
           of the light, and his lamps, and his tongs, and his snuffdishes, and
@@ -186,7 +186,7 @@ export default function Numbers04() {
           <sup className="calibre7">11</sup>And upon the Golden Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Altar of Incense)</span>
+              <span className="explanation">(the Altar of Incense)</span>
             </span>
           </span>{" "}
           they shall spread a cloth of blue, and cover it with a covering of
@@ -232,7 +232,7 @@ export default function Numbers04() {
           the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brazen Altar)</span>
+              <span className="explanation">(the Brazen Altar)</span>
             </span>
           </span>
           ; and they shall spread upon it a covering of badgers skins, and put
@@ -383,7 +383,7 @@ export default function Numbers04() {
           and the covering of the badgers skins that is above upon it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the roof)</span>
+              <span className="explanation">(the roof)</span>
             </span>
           </span>
           , and the hanging for the door of the Tabernacle of the congregation,
@@ -395,7 +395,7 @@ export default function Numbers04() {
           the hanging for the door of the gate of the Court{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the entrance into the Court)</span>
+              <span className="explanation">(the entrance into the Court)</span>
             </span>
           </span>
           , which is by the Tabernacle and by the Altar round about, and their

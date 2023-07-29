@@ -18,7 +18,7 @@ export default function Chronicles230() {
           Passover unto the LORD God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passover is a type of Calvary [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos834321">
                   <span className="calibre_19">
@@ -47,14 +47,14 @@ export default function Chronicles230() {
           time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the appointed season)</span>
+              <span className="explanation">(the appointed season)</span>
             </span>
           </span>
           , because the Priests had not sanctified themselves sufficiently,
           neither had the people gathered themselves together to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passover was supposed to be kept the first month [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos820944">
                   <span className="calibre_19">
@@ -95,7 +95,7 @@ export default function Chronicles230() {
           was written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the multitude of an undivided and holy kingdom)
               </span>
             </span>
@@ -108,7 +108,7 @@ export default function Chronicles230() {
           <sup className="calibre7">6</sup>So the posts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(messengers)</span>
+              <span className="explanation">(messengers)</span>
             </span>
           </span>{" "}
           went with the letters from the king and his princes throughout all
@@ -118,7 +118,7 @@ export default function Chronicles230() {
           that are escaped out of the hand of the kings of Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The northern kingdom had by now fallen, and so the poorest of
                 the poor had been left by Assyria in the land, with the elite
                 taken out as captives; however, they were precious in Gods sight
@@ -136,7 +136,7 @@ export default function Chronicles230() {
           fathers, who therefore gave them up to desolation, as you see{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the desolation of the northern kingdom could easily be seen)
               </span>
             </span>
@@ -152,7 +152,7 @@ export default function Chronicles230() {
           God, that the fierceness of His wrath may turn away from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only thing that assuages the wrath of God is Calvary; His
                 wrath will either be turned toward the unrepentant Christian or
                 Calvary; the price of sin must be paid; if we accept the price
@@ -173,7 +173,7 @@ export default function Chronicles230() {
           lead them captive, so that they shall come again into this land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah speaks of a possible restoration, but only if
                 repentance is enjoined)
               </span>
@@ -183,7 +183,7 @@ export default function Chronicles230() {
           away His face from you, if you return unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sincerely repent!)</span>
+              <span className="explanation">(sincerely repent!)</span>
             </span>
           </span>
         </span>
@@ -194,14 +194,14 @@ export default function Chronicles230() {
           <sup className="calibre7">10</sup>So the posts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(messengers)</span>
+              <span className="explanation">(messengers)</span>
             </span>
           </span>{" "}
           passed from city to city through the country of Ephraim and Manasseh
           even unto Zebulun: but they laughed them to scorn, and mocked them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these last two phrases speak significant description of the
                 exact moral state in which Israels Tribes were now to be found;
                 sadly, far too many in the modern Church meet the Message of the
@@ -218,7 +218,7 @@ export default function Chronicles230() {
           Manasseh and of Zebulun humbled themselves, and came to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while many will laugh and mock, many, as well, will accept and
                 receive; it is to the latter we look!)
               </span>
@@ -232,7 +232,7 @@ export default function Chronicles230() {
           <sup className="calibre7">12</sup>Also in Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the former Verses pertain to the northern kingdom of Israel)
               </span>
             </span>
@@ -241,7 +241,7 @@ export default function Chronicles230() {
           the king and of the princes, by the Word of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah was far more amenable to the Word of the Lord than
                 Israel)
               </span>
@@ -257,7 +257,7 @@ export default function Chronicles230() {
           a very great congregation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Three Feasts were to be conducted at this time: Passover,
                 Unleavened Bread, and Firstfruits. They took seven days.
                 Passover commenced on the first day, Unleavened Bread would
@@ -278,7 +278,7 @@ export default function Chronicles230() {
           they away, and cast them into the brook Kidron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idol altars)</span>
+              <span className="explanation">(idol altars)</span>
             </span>
           </span>
         </span>
@@ -295,7 +295,7 @@ export default function Chronicles230() {
           Offerings into the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Repentance on the part of the Priests and the
                 Levites; judgment must begin at the House of God [
                 <ScrollLink href="/peter1-4" scrollToId="#filepos14730513">
@@ -328,7 +328,7 @@ export default function Chronicles230() {
           to sanctify them unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which affirms that the original directions of Moses were that
                 the person who brought the victim to offer it was to kill it;
                 but, in this case, the Levites mostly officiated)
@@ -346,7 +346,7 @@ export default function Chronicles230() {
           written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had not followed the proper procedure [
                 <ScrollLink href="/deuteronmy-16" scrollToId="#filepos2273851">
                   <span className="calibre_19">
@@ -369,7 +369,7 @@ export default function Chronicles230() {
           the purification of the Sanctuary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason all of this was so serious is simply because it all
                 pointed to Christ and what He would do to redeem humanity, which
                 all led to the Cross)
@@ -385,7 +385,7 @@ export default function Chronicles230() {
           and healed the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no healing other than Calvary; all other cisterns are
                 broken and can hold no water [
                 <ScrollLink href="/jeremiah-02" scrollToId="#filepos8144943">
@@ -413,7 +413,7 @@ export default function Chronicles230() {
           day by day, singing with loud instruments unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, worship in the realm of music and singing always
                 accompanies the Cross, and our Faith in that Finished Work)
               </span>
@@ -429,7 +429,7 @@ export default function Chronicles230() {
           did eat throughout the Feast seven days, offering Peace Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (of which a part of this Offering was eaten by the offeror)
               </span>
             </span>
@@ -437,7 +437,7 @@ export default function Chronicles230() {
           , and making confession to the LORD God of their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Repentance!)</span>
+              <span className="explanation">(Repentance!)</span>
             </span>
           </span>
         </span>
@@ -452,7 +452,7 @@ export default function Chronicles230() {
           to keep other seven days: and they kept other seven days with gladness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (making a total of fourteen days)
               </span>
             </span>
@@ -468,7 +468,7 @@ export default function Chronicles230() {
           thousand sheep: and a great number of Priests sanctified themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the conduits carrying the blood from these many sacrifices from
                 the Temple Mount would have caused the Brook Kidron, which ran
                 between the Temple Mount and Olivet, to run red with blood; this
@@ -504,7 +504,7 @@ export default function Chronicles230() {
           was not the like in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Calvary alone brings great joy; nothing else will)
               </span>
             </span>
@@ -519,7 +519,7 @@ export default function Chronicles230() {
           came up to His Holy Dwelling Place, even unto Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only prayer that God will hear is that which is anchored in
                 Calvarys Cross)
               </span>

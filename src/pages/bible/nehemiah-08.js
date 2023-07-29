@@ -34,7 +34,7 @@ export default function Nehemiah08() {
           with understanding{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(even little children)</span>
+              <span className="explanation">(even little children)</span>
             </span>
           </span>
           , upon the first day of the seventh month{" "}
@@ -54,7 +54,7 @@ export default function Nehemiah08() {
           that was before the water gate from the morning until midday{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 6 hours)</span>
+              <span className="explanation">(about 6 hours)</span>
             </span>
           </span>
           , before the men and the women, and those who could understand; and
@@ -180,13 +180,13 @@ export default function Nehemiah08() {
           <sup className="calibre7">9</sup>And Nehemiah, which is the Tirshatha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Governor)</span>
+              <span className="explanation">(Governor)</span>
             </span>
           </span>
           , and Ezra the Priest the Scribe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who wrote the Book of Ezra)</span>
+              <span className="explanation">(who wrote the Book of Ezra)</span>
             </span>
           </span>
           , and the Levites who taught the people, said unto all the people,
@@ -263,7 +263,7 @@ export default function Nehemiah08() {
           because they had understood the Words that were declared unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(great rejoicing)</span>
+              <span className="explanation">(great rejoicing)</span>
             </span>
           </span>
           .
@@ -296,7 +296,7 @@ export default function Nehemiah08() {
           should dwell in booths in the Feast of the seventh month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Feast of Tabernacles)</span>
+              <span className="explanation">(Feast of Tabernacles)</span>
             </span>
           </span>
           .
@@ -343,7 +343,7 @@ export default function Nehemiah08() {
           booths: for since the days of Jeshua{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           the son of Nun unto that day had not the Children of Israel done so.

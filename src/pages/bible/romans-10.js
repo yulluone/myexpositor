@@ -199,7 +199,7 @@ export default function Romans10() {
           The Word is near you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Word of God)</span>
+              <span className="explanation">(the Word of God)</span>
             </span>
           </span>
           ,{" "}
@@ -267,7 +267,7 @@ export default function Romans10() {
           , you shall be Saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it is that simple!)</span>
+              <span className="explanation">(it is that simple!)</span>
             </span>
           </span>
           .
@@ -375,7 +375,7 @@ export default function Romans10() {
           <sup className="calibre7">13</sup>For whosoever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(anyone, anywhere)</span>
+              <span className="explanation">(anyone, anywhere)</span>
             </span>
           </span>{" "}
           shall call upon the Name of the Lord shall be Saved{" "}
@@ -461,7 +461,7 @@ export default function Romans10() {
           , and bring glad tidings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Good News)</span>
+              <span className="explanation">(Good News)</span>
             </span>
           </span>{" "}
           of good things!{" "}

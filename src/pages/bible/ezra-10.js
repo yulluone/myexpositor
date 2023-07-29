@@ -18,7 +18,7 @@ export default function Ezra10() {
           of men and women and children: for the people wept very sore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in leading the way, Ezra spurred the people to Repentance as
                 well!)
               </span>
@@ -35,7 +35,7 @@ export default function Ezra10() {
           land: yet now there is hope in Israel concerning this thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if sin is present, without fail, the Holy Spirit will point it
                 out)
               </span>
@@ -50,14 +50,14 @@ export default function Ezra10() {
           with our God to put away all the wives, and such as are born of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the children)</span>
+              <span className="explanation">(the children)</span>
             </span>
           </span>
           , according to the counsel of my lord, and of those who tremble at the
           Commandment of our God; and let it be done according to the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Covenant proposed was that which addressed the problem of
                 the heathen wives, and possibly, as well, the heathen husbands,
                 also the children born to these unlawful unions [
@@ -81,13 +81,13 @@ export default function Ezra10() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ezra)</span>
+              <span className="explanation">(Ezra)</span>
             </span>
           </span>
           : we also will be with you: be of good courage, and do it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the princes of Israel proclaimed to Ezra that he must take the
                 lead in this thing, as distasteful as it was!)
               </span>
@@ -103,7 +103,7 @@ export default function Ezra10() {
           according to this word. And they swore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of Israel was to act in the matter as Shechaniah had
                 recommended and put away the adulterous wives)
               </span>
@@ -121,7 +121,7 @@ export default function Ezra10() {
           been carried away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the greater sin had to do with Satans efforts through
                 intermarriage to destroy the sacred bloodline through which the
                 Messiah was to come, hence the mourning)
@@ -138,7 +138,7 @@ export default function Ezra10() {
           should gather themselves together unto Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra and others had greatly sought the Lord; now they will put
                 action to their prayers; they will call an assembly for all in
                 Judah and Jerusalem)
@@ -156,7 +156,7 @@ export default function Ezra10() {
           from the congregation of those who had been carried away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the command was ironclad; all able-bodied men had to come to
                 Jerusalem, irrespective as to where they lived in Judah)
               </span>
@@ -174,7 +174,7 @@ export default function Ezra10() {
           because of this matter, and for the great rain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they gathered in the month Chisleu, which corresponds somewhat
                 with our December)
               </span>
@@ -190,7 +190,7 @@ export default function Ezra10() {
           to increase the trespass of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, to increase the trespass of Israel, refers to the
                 fact that Israel must not again travel a strange path; the past
                 70 years of suffering should be warning enough; Gods Word is not
@@ -208,7 +208,7 @@ export default function Ezra10() {
           yourselves from the people of the land, and from the strange wives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this sin had to be confessed before the Lord)
               </span>
             </span>
@@ -230,7 +230,7 @@ export default function Ezra10() {
           in this thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, For we are many who have transgressed in this
                 thing, should have been translated, We have greatly offended in
                 this thing)
@@ -249,7 +249,7 @@ export default function Ezra10() {
           this matter be turned from us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (each case had to be examined individually; in some cases, the
                 foreign wives may have become proselytes, and the children may
                 have been circumcised, and so accepted into the congregation,
@@ -268,7 +268,7 @@ export default function Ezra10() {
           Meshullam and Shabbethai the Levite helped them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, Only Jonathan and Jahaziah stood
                 up against this matter, or opposed it; in other words, they were
                 not happy about this Covenant)
@@ -287,7 +287,7 @@ export default function Ezra10() {
           the matter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the people, despite the opposition of Jonathan and Jahaziah,
                 acquiesced to Ezras decision and acted accordingly)
               </span>
@@ -302,7 +302,7 @@ export default function Ezra10() {
           men who had taken strange wives by the first day of the first month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it took about three months to do this)
               </span>
             </span>
@@ -323,7 +323,7 @@ export default function Ezra10() {
           and Jarib, and Gedaliah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra listed the offending Priests first of all, because, of all
                 people, they should have known better than to take strange
                 wives)
@@ -340,7 +340,7 @@ export default function Ezra10() {
           the flock for their trespass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only answer for this sin was the Sacrifice, i.e., the
                 Cross, as the Cross is the only answer for any sin [
                 <ScrollLink href="/john1-1" scrollToId="#filepos14787707">
@@ -510,7 +510,7 @@ export default function Ezra10() {
           and some of them had wives by whom they had children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One may wonder why the necessity of these individuals and their
                 families being listed, even as Ezra did? However, the Holy
                 Spirit wanted this done in order that we may all understand how

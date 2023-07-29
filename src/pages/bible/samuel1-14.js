@@ -726,7 +726,7 @@ export default function Samuel114() {
           God of Israel, Give a perfect lot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(give us the answer)</span>
+              <span className="explanation">(give us the answer)</span>
             </span>
           </span>
           . And Saul and Jonathan were taken: but the people escaped{" "}

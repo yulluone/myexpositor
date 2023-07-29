@@ -17,7 +17,7 @@ export default function Ecclesiastes10() {
           who is in reputation for wisdom and honour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One little inconsistency in the character of a renowned
                 Believer destroys his testimony as effectually as a dead fly
                 destroys the fragrance of a precious ointment. The greater the
@@ -40,7 +40,7 @@ export default function Ecclesiastes10() {
           fool.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Two types of wisdom are portrayed in these two Verses: 1.
                 Wisdom that comes from the Bible alone and 2. Wisdom that comes
                 from the world. The right hand speaks of power [
@@ -66,7 +66,7 @@ export default function Ecclesiastes10() {
           offences.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, leave not your place, mean that one does not assert
                 oneself when attacked, but, by using gentleness, escapes worse
                 evils. The true Christian will yield even in the face of great
@@ -83,7 +83,7 @@ export default function Ecclesiastes10() {
           under the sun, as an error which proceeds from the ruler.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon now speaks of rulers who do not use the wisdom of God
                 in their appointments of people to high places. Such is the bane
                 of society.)
@@ -98,7 +98,7 @@ export default function Ecclesiastes10() {
           the rich sit in low place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is portrayed by king Ahasuerus promoting of Haman to a
                 place of great dignity, while Mordecai, who was rich in wisdom
                 and who had, in fact, saved the kings life, sits in a low place,
@@ -122,7 +122,7 @@ export default function Ecclesiastes10() {
           princes walking as servants upon the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon had seen these things and instantly recognized the
                 stupidity of rulers who did not wisely appoint their officials.
                 Such all too often characterizes mans government.)
@@ -150,7 +150,7 @@ export default function Ecclesiastes10() {
           profitable to direct.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We should make the Lord a part of all of our doings, even those
                 things which only seem to be menial.)
               </span>
@@ -167,7 +167,7 @@ export default function Ecclesiastes10() {
           enchantment; and a babbler is no better.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument of this Verse is that both a slanderer and a
                 serpent should be skillfully avoided. The slanderer is looked at
                 by the Lord the same as a snake.)
@@ -195,7 +195,7 @@ export default function Ecclesiastes10() {
           him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Human science multiplies books and theories and wearies itself
                 in such labor. But its uselessness and ignorance concerning the
                 great questions of life are demonstrated by its inability to
@@ -211,7 +211,7 @@ export default function Ecclesiastes10() {
           every one of them, because he knows not how to go to the city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To go to the city proverbially expresses the inability of a
                 fool to find his way to even so conspicuous a place. Man is
                 mentally and spiritually incapable of finding his way to the
@@ -230,7 +230,7 @@ export default function Ecclesiastes10() {
           is a child, and your princes eat in the morning!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the East, this speaks of neglect of duty, for that is the
                 time that princes are supposed to have ministered justice at the
                 gate of the city.)
@@ -246,7 +246,7 @@ export default function Ecclesiastes10() {
           strength, and not for drunkenness!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, eat in due season, mean that one is not to neglect
                 duty in order to indulge appetite. Too many times public
                 officials forget that they are servants of the people and use
@@ -263,7 +263,7 @@ export default function Ecclesiastes10() {
           decays; and through idleness of the hands the house drops through.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fabric of government and of the state are compared here to
                 a neglected house which suffers serious damage when members of
                 the government neglect duty and give themselves over to
@@ -280,7 +280,7 @@ export default function Ecclesiastes10() {
           wine makes merry: but money answers all things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means money responds to all things; that is, money can
                 procure all the luxuries needed for banquetings and revelings.
               </span>
@@ -316,7 +316,7 @@ export default function Ecclesiastes10() {
           matter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon, being a king, knew how that things said by others
                 easily found way to his ears. We should take a lesson from such,
                 which means to keep our mouths closed.)

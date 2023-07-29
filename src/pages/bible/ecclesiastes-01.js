@@ -16,7 +16,7 @@ export default function Ecclesiastes01() {
           David, king in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The beginning of this Book has a majesty that defies
                 description. The title, son of David, not only applies to
                 Solomon, but also to the Greater Son of David, the Lord Jesus
@@ -54,7 +54,7 @@ export default function Ecclesiastes01() {
           Preacher, vanity of vanities; all is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit says here that all that man is and has done,
                 irrespective of his riches, beauty, power, or glory, can never
                 satisfy the cravings of the human heart.
@@ -81,7 +81,7 @@ export default function Ecclesiastes01() {
           labour which he takes under the sun?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Book discusses labor as mans proposed end or ideal of
                 happiness. The Book argues that, as an end, it is unsatisfying,
                 however profitable it may be as a means.)
@@ -96,7 +96,7 @@ export default function Ecclesiastes01() {
           another generation comes: but the Earth abides forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The brevity of human life is contrasted with the age of the
                 Earth. The word forever is comparative, not absolute.)
               </span>
@@ -110,7 +110,7 @@ export default function Ecclesiastes01() {
           down, and hastes to his place where he arose.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The anguish of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7072405">
                   <span className="calibre_19">
@@ -147,7 +147,7 @@ export default function Ecclesiastes01() {
           filled with hearing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lesson the Holy Spirit is portraying to us is that any and
                 all that the eye sees or the ear hears can never satisfy the
                 craving of the human heart.
@@ -183,7 +183,7 @@ export default function Ecclesiastes01() {
           before us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is, in reality, nothing new; that is, nothing occurs or
                 can occur which can transport man into a new world or give him
                 new joys or new emotions. Modern inventions are only new in a
@@ -200,7 +200,7 @@ export default function Ecclesiastes01() {
           come with those that shall come after.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse says that the records of the antediluvian world are
                 totally destroyed, except for the information that is given to
                 us in the Bible [from the time of Adam to Noahs flood]. God
@@ -218,7 +218,7 @@ export default function Ecclesiastes01() {
           in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon called himself a Preacher, and so he was. He was called
                 of God to be such.)
               </span>
@@ -234,7 +234,7 @@ export default function Ecclesiastes01() {
           therewith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that science can do is to recognize the vanity of all of
                 mans efforts to turn Earth into a Heaven without God.)
               </span>
@@ -248,7 +248,7 @@ export default function Ecclesiastes01() {
           done under the sun; and, behold, all is vanity and vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gist of this Passage is that man cannot solve mans problem.
                 That problem is a sinful, fallen nature that is in rebellion
                 against God.)
@@ -263,7 +263,7 @@ export default function Ecclesiastes01() {
           straight: and that which is wanting cannot be numbered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mans inability to straighten what has been made morally crooked
                 and to furnish what is defective is insisted on with Truth in
                 this entire Book.)
@@ -280,7 +280,7 @@ export default function Ecclesiastes01() {
           great experience of wisdom and knowledge.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No man in the world ever has had the Wisdom or the Knowledge
                 that Solomon had. As well, his great Wisdom was given to him by
                 God. In other words, it was a Gift of God.
@@ -309,7 +309,7 @@ export default function Ecclesiastes01() {
           of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon had the money and the power to do what millions would
                 like to do but simply cannot afford to do. But after it was
                 done, he said, This also is vexation of spirit.)
@@ -324,7 +324,7 @@ export default function Ecclesiastes01() {
           and he who increases knowledge increases sorrow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wisdom without God only brings grief. Knowledge without God
                 only brings sorrow.
               </span>

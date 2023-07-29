@@ -88,7 +88,7 @@ export default function Esther01() {
           before him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was the master of the world of that day; this position was
                 given to him by God, even though he did not recognize such)
               </span>
@@ -104,7 +104,7 @@ export default function Esther01() {
           even an hundred and fourscore days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many believe this particular Ahasuerus was Xerxes; this
                 festivity lasted for six months)
               </span>
@@ -121,7 +121,7 @@ export default function Esther01() {
           garden of the kings palace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from{" "}
                 <ScrollLink href="/" scrollToId="#filepos5271955">
                   <span className="calibre_19">
@@ -145,7 +145,7 @@ export default function Esther01() {
           pavement of red, and blue, and white, and black, marble{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a mosaic pavement of four different hues, no doubt,
                 exquisitely beautiful)
               </span>
@@ -169,7 +169,7 @@ export default function Esther01() {
           pleasure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for this particular feast, the men could drink or not drink; it
                 was their choice)
               </span>
@@ -184,7 +184,7 @@ export default function Esther01() {
           for the women in the royal house which belonged to king Ahasuerus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, this particular feast was for women only)
               </span>
             </span>
@@ -210,7 +210,7 @@ export default function Esther01() {
           beauty: for she was fair to look on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this practice was not entirely unusual for kings of that day)
               </span>
             </span>
@@ -225,13 +225,13 @@ export default function Esther01() {
           very wroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(angry)</span>
+              <span className="explanation">(angry)</span>
             </span>
           </span>
           , and his anger burned in him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Vashti, in this instance, was justified in her actions; had she
                 complied, she would have lost the respect not only of the
                 Persian nation, but of the king himself)
@@ -291,7 +291,7 @@ export default function Esther01() {
           provinces of the king Ahasuerus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From this mans reply, we realize that there was no Persian law
                 which provided for a penalty for such a case. The idea seems to
                 be that they will now make up a law, which, of course, was
@@ -322,7 +322,7 @@ export default function Esther01() {
           Vashti the queen to be brought in before him, but she came not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of it is a trumped up charge!)
               </span>
             </span>
@@ -370,7 +370,7 @@ export default function Esther01() {
           the language of every people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (besides publishing the decree, Ahasuerus sent letters
                 prescribing certain things)
               </span>

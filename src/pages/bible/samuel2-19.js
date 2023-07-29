@@ -185,7 +185,7 @@ export default function Samuel219() {
           <sup className="calibre7">12</sup>You are my brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Tribe of Judah)</span>
+              <span className="explanation">(the Tribe of Judah)</span>
             </span>
           </span>
           , you are my bones and my flesh: wherefore then are you the last to
@@ -224,7 +224,7 @@ export default function Samuel219() {
           <sup className="calibre7">14</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           bowed the heart of all the men of Judah, even as the heart of one man;
@@ -475,7 +475,7 @@ export default function Samuel219() {
           even fourscore years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(80 years old)</span>
+              <span className="explanation">(80 years old)</span>
             </span>
           </span>
           : and he had provided the king of sustenance while he lay at Mahanaim;

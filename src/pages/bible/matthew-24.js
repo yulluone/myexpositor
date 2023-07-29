@@ -18,7 +18,7 @@ export default function Matthew24() {
           the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when He left, God left)</span>
+              <span className="explanation">(when He left, God left)</span>
             </span>
           </span>
           : and His Disciples came to{" "}
@@ -105,7 +105,7 @@ export default function Matthew24() {
           the sign of Your coming{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Second Coming)</span>
+              <span className="explanation">(refers to the Second Coming)</span>
             </span>
           </span>
           , and of the end of the world?{" "}
@@ -178,7 +178,7 @@ export default function Matthew24() {
           : see that you be not troubled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerns true Believers)</span>
+              <span className="explanation">(concerns true Believers)</span>
             </span>
           </span>
           : for all{" "}
@@ -378,7 +378,7 @@ export default function Matthew24() {
           ; and then shall the end come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>
           .
@@ -515,7 +515,7 @@ export default function Matthew24() {
           in the winter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bad weather)</span>
+              <span className="explanation">(bad weather)</span>
             </span>
           </span>
           , neither on the Sabbath Day{" "}
@@ -570,13 +570,13 @@ export default function Matthew24() {
           : but for the elects{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israels)</span>
+              <span className="explanation">(Israels)</span>
             </span>
           </span>{" "}
           sake those days shall be shortened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by the Second Coming)</span>
+              <span className="explanation">(by the Second Coming)</span>
             </span>
           </span>
           .
@@ -600,7 +600,7 @@ export default function Matthew24() {
           not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont be deceived)</span>
+              <span className="explanation">(dont be deceived)</span>
             </span>
           </span>
           .
@@ -840,7 +840,7 @@ export default function Matthew24() {
           <sup className="calibre7">31</sup>And He shall send His Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they will be visible)</span>
+              <span className="explanation">(they will be visible)</span>
             </span>
           </span>{" "}
           with a great sound of a trumpet{" "}
@@ -854,7 +854,7 @@ export default function Matthew24() {
           , and they shall gather together His elect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           from the four winds, from one end of Heaven to the other{" "}
@@ -915,7 +915,7 @@ export default function Matthew24() {
           <sup className="calibre7">33</sup>So likewise ye{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(points to the modern Church)</span>
+              <span className="explanation">(points to the modern Church)</span>
             </span>
           </span>
           , when you shall see all these things{" "}
@@ -1185,7 +1185,7 @@ export default function Matthew24() {
           , whom his Lord has made ruler over His household{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in this case, the Church)</span>
+              <span className="explanation">(in this case, the Church)</span>
             </span>
           </span>
           , to give them meat in due season?{" "}
@@ -1300,7 +1300,7 @@ export default function Matthew24() {
           his portion with the hypocrites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(despite his profession)</span>
+              <span className="explanation">(despite his profession)</span>
             </span>
           </span>
           : there shall be weeping and gnashing of teeth{" "}

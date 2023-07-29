@@ -17,7 +17,7 @@ export default function Deuteronmy27() {
           command you this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (possession of the land depended on obedience to the Law)
               </span>
             </span>
@@ -41,7 +41,7 @@ export default function Deuteronmy27() {
           milk and honey; as the LORD God of your fathers has promised you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is not actually known as to whether each and all of the
                 legislative enactments of the Torah were to be recorded, or
                 rather the substance and essence of the Law; but even if the
@@ -62,7 +62,7 @@ export default function Deuteronmy27() {
           you this day, in Mount Ebal, and you shall plaister them with plaister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mount Ebal, which was right beside Mount Gerizim, and located
                 in the very center of Israel, was referred to as the Mount of
                 cursing, which pertained to the Judgment of God; the stones were
@@ -90,7 +90,7 @@ export default function Deuteronmy27() {
           unto the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the stones which made up the Altar, which was a Type of Christ
                 and the Cross, were to be whole stones, and not stones which had
                 been made to fit by man; this tells us that the Cross of Christ
@@ -115,7 +115,7 @@ export default function Deuteronmy27() {
           and shall eat there, and rejoice before the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Burnt Offerings and Peace Offerings were commanded, but no Sin
                 Offering; for the action of that day presupposes a redeemed
                 people, but placed under the curse if they should break the Law;
@@ -133,7 +133,7 @@ export default function Deuteronmy27() {
           all the words of this Law very plainly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blessings of Gerizim are entirely omitted here, for the
                 subject was the judgment that would surely follow upon failure
                 in a full obedience to the Commandments engraved upon the
@@ -171,7 +171,7 @@ export default function Deuteronmy27() {
           day you are become the people of the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (much responsibility was upon them)
               </span>
             </span>
@@ -199,7 +199,7 @@ export default function Deuteronmy27() {
           and Judah, and Issachar, and Joseph, and Benjamin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these particular Tribes were to stand upon Mount Gerizim, which
                 was very close to Mount Ebal, and pronounce blessings upon
                 Israel, which account of Blessings is given in the next Chapter)
@@ -215,7 +215,7 @@ export default function Deuteronmy27() {
           Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were to stand for the curse; it does not say they were to
                 curse the people; all who broke the Law were cursed)
               </span>
@@ -233,7 +233,7 @@ export default function Deuteronmy27() {
           unto all the men of Israel with a loud voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were probably situated between the two mountains, with a
                 Levite standing a voice distance away from another, and shouting
                 loudly the Message of the Lord, in order that all of Israel
@@ -252,7 +252,7 @@ export default function Deuteronmy27() {
           people shall answer and say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (each of the first eleven curses is directed against some
                 particular sin already denounced in the Law)
               </span>
@@ -267,7 +267,7 @@ export default function Deuteronmy27() {
           father or his mother. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the failure to honor the father and the mother)
               </span>
             </span>
@@ -281,7 +281,7 @@ export default function Deuteronmy27() {
           neighbours landmark. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by fraud, attempts to steal anothers property by secretly
                 moving the boundary)
               </span>
@@ -296,7 +296,7 @@ export default function Deuteronmy27() {
           wander out of the way. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cruel to the handicapped)</span>
+              <span className="explanation">(cruel to the handicapped)</span>
             </span>
           </span>
         </span>
@@ -308,13 +308,13 @@ export default function Deuteronmy27() {
           judgment of the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , fatherless, and widow. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (failure to show kindness to all, even the least among them)
               </span>
             </span>
@@ -329,7 +329,7 @@ export default function Deuteronmy27() {
           people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(incest)</span>
+              <span className="explanation">(incest)</span>
             </span>
           </span>
         </span>
@@ -341,7 +341,7 @@ export default function Deuteronmy27() {
           manner of beast. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (bestiality, which was prominent among the heathen)
               </span>
             </span>
@@ -356,7 +356,7 @@ export default function Deuteronmy27() {
           all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(again, incest is mentioned)</span>
+              <span className="explanation">(again, incest is mentioned)</span>
             </span>
           </span>
         </span>
@@ -368,7 +368,7 @@ export default function Deuteronmy27() {
           mother in law. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sin of incest was prominent among the heathen, therefore,
                 the triple admonition)
               </span>
@@ -383,7 +383,7 @@ export default function Deuteronmy27() {
           neighbour secretly. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tries to harm him behind his back)
               </span>
             </span>
@@ -397,7 +397,7 @@ export default function Deuteronmy27() {
           slay an innocent person. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(contract killings)</span>
+              <span className="explanation">(contract killings)</span>
             </span>
           </span>
         </span>
@@ -409,7 +409,7 @@ export default function Deuteronmy27() {
           the words of this Law to do them. And all the people shall say, Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Law, as given by God, was to govern Israel in all that she
                 did; in fact, Israel constituted the only people in the world
                 who had the Law of God, which made them superior in every

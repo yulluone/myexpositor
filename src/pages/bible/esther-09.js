@@ -16,7 +16,7 @@ export default function Esther09() {
           the month Adar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(March)</span>
+              <span className="explanation">(March)</span>
             </span>
           </span>
           , on the thirteenth day of the same, when the kings commandment and
@@ -34,7 +34,7 @@ export default function Esther09() {
           them; for the fear of them fell upon all people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number thirteen, which is so feared by the superstitious
                 children of this world, is a gladsome number to the people of
                 God, for, on that day in March, the Amalekite and all his allies
@@ -52,7 +52,7 @@ export default function Esther09() {
           helped the Jews; because the fear of Mordecai fell upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the fact that he was now Prime Minister, which refers to
                 one who actually runs the government)
               </span>
@@ -75,7 +75,7 @@ export default function Esther09() {
           what they would unto those who hated them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who would have killed the Jews, had the former edict remained
                 in place)
               </span>
@@ -90,7 +90,7 @@ export default function Esther09() {
           killed and destroyed five hundred men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to the upper city where the palace was)
               </span>
             </span>
@@ -123,7 +123,7 @@ export default function Esther09() {
           they not their hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this was looked at by the Lord as war. It is the same as
                 when Joshua or David overcame the enemy, killing, at times,
                 thousands of them. Presently, the United States has the
@@ -149,7 +149,7 @@ export default function Esther09() {
           were killed in Shushan the palace was brought before the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was customary in all wars for the number of the killed to be
                 carefully made out and recorded)
               </span>
@@ -165,7 +165,7 @@ export default function Esther09() {
           the palace, and the ten sons of Haman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (have arrested these ten, with the intention of executing them)
               </span>
             </span>
@@ -183,7 +183,7 @@ export default function Esther09() {
           be hanged upon the gallows{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the manner in which they would be executed)
               </span>
             </span>
@@ -206,7 +206,7 @@ export default function Esther09() {
           laid not their hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (notwithstanding the clause in the edict which allowed the Jews
                 to take the spoil of their enemies for a prey, neither in the
                 capital nor in the provinces did the triumphant Israelites touch
@@ -235,7 +235,7 @@ export default function Esther09() {
           seventy and five thousand, but they laid not their hands on the prey,{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some of the older manuscripts had the number 15,000, which is
                 probably the correct number. There are no original copies of
                 Biblical Scrolls left, as would be obvious. However, there are
@@ -257,7 +257,7 @@ export default function Esther09() {
           day of feasting and gladness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Jews would have lived in daily fear of the vengeance of
                 these men, if they had not been destroyed; Esthers wise conduct
                 gave perfect peace to her people and, at the same time, punished
@@ -357,7 +357,7 @@ export default function Esther09() {
           from among the Jews, nor the memorial of them perish from their seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, this feast has continued among the Jews, at least in
                 some form, even unto this day)
               </span>
@@ -373,7 +373,7 @@ export default function Esther09() {
           this second letter of Purim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first letter is the one which is mentioned in{" "}
                 <ScrollLink href="/" scrollToId="#filepos5337817">
                   <span className="calibre_19">
@@ -415,7 +415,7 @@ export default function Esther09() {
           for their seed, the matters of the fastings and their cry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sort of a history as to what had happened)
               </span>
             </span>

@@ -23,7 +23,7 @@ export default function Samuel210() {
           unto Hanun the son of Nahash{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means shining serpent)</span>
+              <span className="explanation">(means shining serpent)</span>
             </span>
           </span>
           , as his father showed kindness unto me. And David sent to comfort him

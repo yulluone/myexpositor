@@ -19,7 +19,7 @@ export default function Ezra04() {
           unto the LORD God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan now sends his adversaries, endeavoring to hinder the
                 building of the Temple)
               </span>
@@ -36,13 +36,13 @@ export default function Ezra04() {
           the days of Esar-haddon king of Assur{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Assyria)</span>
+              <span className="explanation">(Assyria)</span>
             </span>
           </span>
           , which brought us up hither{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were the Samaritans, who occupied what was formerly
                 referred to as the northern kingdom of Israel)
               </span>
@@ -60,7 +60,7 @@ export default function Ezra04() {
           king of Persia has commanded us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the plan fomented here by Satan was designed to destroy the
                 people of God; his proposal through the Samaritans for help,
                 which was no doubt sorely needed, possibly seemed attractive on
@@ -87,7 +87,7 @@ export default function Ezra04() {
           until the reign of Darius king of Persia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord allowed this opposition in order to test the faith of
                 His people; regrettably, they failed; in fact, everything that
                 happens to the Believer is, in essence, a test of faith)
@@ -109,7 +109,7 @@ export default function Ezra04() {
           inhabitants of Judah and Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a new king has taken the throne, so fresh representations were
                 made to him by the adversaries, lest the work of the Temple
                 should continue)
@@ -127,7 +127,7 @@ export default function Ezra04() {
           in the Syrian tongue, and interpreted in the Syrian tongue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Artaxerxes now takes over the Persian kingdom, and the
                 adversaries appeal to him, as well!)
               </span>
@@ -151,7 +151,7 @@ export default function Ezra04() {
           the Babylonians, the Susanchites, the Dehavites, and the Elamites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (either the Samaritans were not now amalgamated into a single
                 people, or else they thought, by listing all of these different
                 names, that such would portray power and strength to the king,
@@ -170,7 +170,7 @@ export default function Ezra04() {
           time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who this great and noble Asnapper was, we arent told; they were
                 speaking of the Jordan River)
               </span>
@@ -225,7 +225,7 @@ export default function Ezra04() {
           shall have no portion on this side the river.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The enemies of the Lord told half-truths and outright lies, in
                 order to hinder the rebuilding of the Temple.)
               </span>
@@ -241,7 +241,7 @@ export default function Ezra04() {
           <sup className="calibre7">17</sup>Then sent the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Artaxerxes)</span>
+              <span className="explanation">(Artaxerxes)</span>
             </span>
           </span>{" "}
           an answer unto Rehum the chancellor, and to Shimshai the scribe, and
@@ -249,7 +249,7 @@ export default function Ezra04() {
           rest beyond the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(east of the Jordan River)</span>
+              <span className="explanation">(east of the Jordan River)</span>
             </span>
           </span>
           , Peace, and at such a time.
@@ -296,7 +296,7 @@ export default function Ezra04() {
           them to cease by force and power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the adversaries lost no time in brandishing the letter from the
                 Persian king, demanding that the work stop; by threatened force,
                 the work did stop)
@@ -313,7 +313,7 @@ export default function Ezra04() {
           reign of Darius king of Persia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the work was resumed early in Darius second year, the entire
                 period of suspension cannot have much exceeded a year and a
                 half; however, the Jews allowed many other things to hinder,

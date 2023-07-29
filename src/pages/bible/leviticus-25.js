@@ -180,7 +180,7 @@ export default function Leviticus25() {
           : it shall be a Jubilee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(joy)</span>
+              <span className="explanation">(joy)</span>
             </span>
           </span>{" "}
           unto you; and you shall return every man unto his possession, and you
@@ -572,19 +572,19 @@ export default function Leviticus25() {
           and fallen in decay with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to your knowledge)</span>
+              <span className="explanation">(to your knowledge)</span>
             </span>
           </span>
           ; then you shall relieve him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(help him)</span>
+              <span className="explanation">(help him)</span>
             </span>
           </span>
           : yes, though he be a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , or a sojourner; that he may live with you{" "}
@@ -614,7 +614,7 @@ export default function Leviticus25() {
           : but fear your God; that your brother may live with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on an equal status)</span>
+              <span className="explanation">(on an equal status)</span>
             </span>
           </span>
         </span>
@@ -664,7 +664,7 @@ export default function Leviticus25() {
           Jubilee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ever how long that might be)</span>
+              <span className="explanation">(ever how long that might be)</span>
             </span>
           </span>
         </span>
@@ -725,7 +725,7 @@ export default function Leviticus25() {
           about you; of them shall you buy bondmen and bondmaids{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of the Gentiles)</span>
+              <span className="explanation">(of the Gentiles)</span>
             </span>
           </span>
         </span>
@@ -737,7 +737,7 @@ export default function Leviticus25() {
           strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           who do sojourn among you, of them shall you buy, and of their families
@@ -797,7 +797,7 @@ export default function Leviticus25() {
           <sup className="calibre7">47</sup>And if a sojourner or stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           wax rich by you, and your brother who dwells by him wax poor, and sell
@@ -895,7 +895,7 @@ export default function Leviticus25() {
           children with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(set free)</span>
+              <span className="explanation">(set free)</span>
             </span>
           </span>
         </span>

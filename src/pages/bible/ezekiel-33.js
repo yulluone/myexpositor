@@ -24,7 +24,7 @@ export default function Ezekiel33() {
           their watchman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a great part of this Chapter will deal with the Ministry of the
                 watchman, to which Ezekiel is appointed by the Lord.{" "}
                 <ScrollLink href="/ezekiel-24" scrollToId="#filepos9365324">
@@ -49,7 +49,7 @@ export default function Ezekiel33() {
           the land, he blow the trumpet, and warn the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the responsibility of the watchman is to correctly see and
                 warn. He was to warn by blowing the trumpet. The modern Preacher
                 is to do the same thing by correctly preaching the True Gospel [
@@ -77,7 +77,7 @@ export default function Ezekiel33() {
           his blood shall be upon his own head.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If one is to notice, there is a demand by the Holy Spirit that
                 the people be allowed to hear that which is Truth. What they do
                 with it is then upon his own head.)
@@ -93,7 +93,7 @@ export default function Ezekiel33() {
           warning shall deliver his soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The opportunity to accept or reject is demanded by the Holy
                 Spirit. Therefore, it is incumbent upon the True Preacher of the
                 Gospel to blow a certain and sure sound. The responsibility is
@@ -112,7 +112,7 @@ export default function Ezekiel33() {
           his iniquity; but his blood will I require at the watchmans hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Two types of warnings are given in this Passage: the warning
                 that should be given to the people by faithful watchmen; and the
                 warning that should be given by the Holy Spirit to unfaithful
@@ -129,7 +129,7 @@ export default function Ezekiel33() {
           at My Mouth, and warn them from Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The commission of Ezekiel is once again enjoined. He is called,
                 O son of man, which is the same designation that will be given
                 to The Son of Man, the Lord Jesus Christ [
@@ -170,7 +170,7 @@ export default function Ezekiel33() {
           I require at your hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is similar in many ways and to a great degree to{" "}
                 <ScrollLink href="/ezekiel-03" scrollToId="#filepos9039194">
                   <span className="calibre_19">
@@ -193,7 +193,7 @@ export default function Ezekiel33() {
           die in his iniquity; but you have delivered your soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The True Preacher is not responsible for the response of the
                 individual to the Message, but the True Preacher most definitely
                 is responsible that the right Message be delivered.)
@@ -213,7 +213,7 @@ export default function Ezekiel33() {
           should we then live?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture addressed itself to the scorn, incredulity, and
                 derision heaped upon the Prophet, when he told of the coming
                 Judgment. The people trusted in the promises of the false
@@ -253,7 +253,7 @@ export default function Ezekiel33() {
           ways; for why will you die, O House of Israel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a plea for Repentance, without which these individuals
                 will be lost!)
               </span>
@@ -271,7 +271,7 @@ export default function Ezekiel33() {
           righteousness in the day that he sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage and many others are a plain and clear rebuke to
                 those who teach the unscriptural doctrine of unconditional
                 eternal security. If the Believer turns from his righteousness
@@ -292,7 +292,7 @@ export default function Ezekiel33() {
           for his iniquity that he has committed, he shall die for it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is: if an individual thinks he can trust
                 his past righteousness to save him when he has committed sin and
                 continues therein, refusing to repent, his past righteousness
@@ -317,7 +317,7 @@ export default function Ezekiel33() {
           committing iniquity; he shall surely live, he shall not die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Give again that he had robbed, illustrates the power of the new
                 life in Christ to fulfill the requirements of the Moral Law as
                 it was evidenced in the conversion of Zacchaeus [
@@ -341,7 +341,7 @@ export default function Ezekiel33() {
           lawful and right; he shall surely live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first part of this Verse constitutes Justification by
                 Faith. These sins are not mentioned any more because in the Mind
                 of God they do not exist and, in fact, they have never existed.
@@ -378,7 +378,7 @@ export default function Ezekiel33() {
           equal.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel, as most, was claiming that their righteousness and
                 unrighteousness should be balanced one against the other. They
                 construed the Ways of the Lord as unequal, inasmuch as He did
@@ -410,7 +410,7 @@ export default function Ezekiel33() {
           righteousness, and commits iniquity, he shall even die thereby.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is emphatic in that the present condition is
                 what counts with God; it is also that which should count with
                 man.)
@@ -426,7 +426,7 @@ export default function Ezekiel33() {
           thereby.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As well, the Lord judges the wicked exactly as He does the
                 righteous, all according to their present status. If the wicked
                 man repents, the Lord will instantly save, wiping out all past
@@ -443,7 +443,7 @@ export default function Ezekiel33() {
           ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Perfect love beams in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9488145">
                   <span className="calibre_19">
@@ -478,7 +478,7 @@ export default function Ezekiel33() {
           The city is smitten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, The city is smitten, even though said by the
                 messenger [whoever he was], is given as a sob by the Holy
                 Spirit. How so unnecessary this was! But yet, it was done only
@@ -497,7 +497,7 @@ export default function Ezekiel33() {
           and I was no more dumb.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And my mouth was opened, and I was no more dumb, refers back to{" "}
                 <ScrollLink href="/ezekiel-24" scrollToId="#filepos9370847">
                   <span className="calibre_19">
@@ -532,7 +532,7 @@ export default function Ezekiel33() {
           inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument of this ungodly remnant was that if a mighty
                 nation was born of one man, Abraham, how much more powerful a
                 nation could spring out of the many sons of Abraham who had been
@@ -553,7 +553,7 @@ export default function Ezekiel33() {
           your idols, and shed blood: and shall you possess the land?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To eat with the blood violated{" "}
                 <ScrollLink href="/leviticus-19" scrollToId="#filepos1551671">
                   <span className="calibre_19">
@@ -578,7 +578,7 @@ export default function Ezekiel33() {
           you possess the land?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through the Prophet, even though many hundreds
                 of miles away from destroyed Judah, still, speaks the same thing
                 as the Prophet Jeremiah had prophesied. Despite the Judgment,
@@ -600,7 +600,7 @@ export default function Ezekiel33() {
           shall die of the pestilence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning the ungodly remnant in Judah, Ezekiel prophesies,
                 exactly as Jeremiah had prophesied, that there was no escape for
                 them from the judging Hand of God, and rightly so, because of
@@ -617,7 +617,7 @@ export default function Ezekiel33() {
           of Israel shall be desolate, that none shall pass through.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning Judah, the phrase, And the pomp of her strength
                 shall cease, was brought to pass in stark reality, undeniable by
                 all!)
@@ -633,7 +633,7 @@ export default function Ezekiel33() {
           abominations which they have committed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At any time along the way, if Repentance had been engaged for
                 these abominations, they would have been instantly forgiven and
                 put away, with Mercy and Grace extended. Inasmuch as there was
@@ -657,7 +657,7 @@ export default function Ezekiel33() {
           comes forth from the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that the word against would have been better
                 translated of. If so, it would mean that the Exiles were proud
                 of their Prophet Ezekiel, admiring his preaching and crowding to
@@ -677,7 +677,7 @@ export default function Ezekiel33() {
           but their heart goes after their covetousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, As My People, mean professing to be My People. Their
                 covetousness, refers to money-getting and all forms of
                 self-pleasing. They show much love, means that they profess
@@ -694,7 +694,7 @@ export default function Ezekiel33() {
           instrument: for they hear your words, but they do them not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A very lovely song, refers to the people coming to hear the
                 Prophet as they would to hear a hired singer at a banquet. The
                 Prophets words passed over them and left no lasting impression.)
@@ -709,7 +709,7 @@ export default function Ezekiel33() {
           will come,) then shall they know that a Prophet has been among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Revelation of the rebellious corruption of the listeners
                 hearts saved the Prophet from the self-complacent corruption of
                 his own heart, which his popularity as a Preacher would

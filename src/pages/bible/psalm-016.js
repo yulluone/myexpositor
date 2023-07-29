@@ -203,7 +203,7 @@ export default function Psalm016() {
           <sup className="calibre7">11</sup>You will show me the Path of Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>
           : in Your Presence is fulness of joy{" "}

@@ -15,20 +15,20 @@ export default function Exodus24() {
           <sup className="calibre7">1</sup>And H e{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto Moses, Come up unto the LORD, you, and Aaron, and Nadab, and
           Abihu{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Aarons sons)</span>
+              <span className="explanation">(Aarons sons)</span>
             </span>
           </span>
           , and seventy of the elders of Israel; and you shall worship afar off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The short phrase afar off proclaims the best the Law can do.
                 One can search out the Law, and not be able to find the two
                 words, Draw nigh. The Blood of Jesus Alone makes it possible for
@@ -52,7 +52,7 @@ export default function Exodus24() {
           LORD: but they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all the others)</span>
+              <span className="explanation">(all the others)</span>
             </span>
           </span>{" "}
           shall not come near: neither shall the people go up with him.
@@ -66,7 +66,7 @@ export default function Exodus24() {
           said will we do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which Moses told the people as he came down from the
                 mountain pertained to the legislation given us in{" "}
                 <ScrollLink href="/exodus-21" scrollToId="#filepos974350">
@@ -89,7 +89,7 @@ export default function Exodus24() {
           hill, and twelve pillars, according to the Twelve Tribes of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar represents Christ and what He would do at the Cross.
                 The twelve pillars represent the Government of God, with the
                 number twelve in the Bible always standing for that principle.
@@ -120,7 +120,7 @@ export default function Exodus24() {
           Offerings of oxen unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Burnt Offerings signified that God would give His all as it
                 refers to the Redemption of man, and the Peace Offerings
                 signified that the Whole Burnt Offering was accepted by God, and
@@ -137,7 +137,7 @@ export default function Exodus24() {
           put it in basons; and half of the blood he sprinkled on the Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blood, which symbolized the life of the victim, was the
                 essential part of every Sacrifice, and was usually poured over
                 the Altar, or, at any rate, sprinkled upon it, as the very
@@ -169,7 +169,7 @@ export default function Exodus24() {
           and read in the audience of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first mention of the Bible, at least in its beginning form,
                 is given in{" "}
                 <ScrollLink href="/exodus-17" scrollToId="#filepos938679">
@@ -191,7 +191,7 @@ export default function Exodus24() {
           obedient.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While they possibly desired to be obedient, there was no way
                 they could be, because the obedience that God demands is a
                 perfect obedience, which man is incapable of rendering. Their
@@ -208,7 +208,7 @@ export default function Exodus24() {
           Covenant, which the LORD has made with you concerning all these words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blood being sprinkled on the people probably pertained to
                 their leaders and representatives. It could hardly have referred
                 to being sprinkled on nearly 3 million people. Half of the blood
@@ -225,7 +225,7 @@ export default function Exodus24() {
           and Abihu, and seventy of the Elders of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (before the invitation of{" "}
                 <ScrollLink href="/" scrollToId="#filepos1015246">
                   <span className="calibre_19">
@@ -249,7 +249,7 @@ export default function Exodus24() {
           <sup className="calibre7">10</sup>And they saw the God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/john-01" scrollToId="#filepos12293186">
                   <span className="calibre_19">
@@ -276,7 +276,7 @@ export default function Exodus24() {
           Stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sapphire Stone expressed the purity of God)
               </span>
             </span>
@@ -284,7 +284,7 @@ export default function Exodus24() {
           , and as it were the body of Heaven in His clearness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that they saw Him clearly)
               </span>
             </span>
@@ -299,7 +299,7 @@ export default function Exodus24() {
           drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Previously, they couldnt even approach the mountain. So, how do
                 we explain here the difference? We must assume that it was the
                 Altar which made the difference. Blood had been shed, a Covenant
@@ -320,7 +320,7 @@ export default function Exodus24() {
           teach them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Its our business as Preachers of the Gospel to teach the Word
                 of God to the people.)
               </span>
@@ -334,7 +334,7 @@ export default function Exodus24() {
           Joshua: and Moses went up into the Mount of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evidently, Moses was instructed by the Lord to take Joshua with
                 him. It is doubtful that Joshua was able to go into the very
                 Presence of God as did Moses; nevertheless, he at least went
@@ -359,13 +359,13 @@ export default function Exodus24() {
           <sup className="calibre7">14</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           said unto the Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70 men)</span>
+              <span className="explanation">(70 men)</span>
             </span>
           </span>
           , Tarry ye here for us, until we come again unto you: and, behold,
@@ -373,7 +373,7 @@ export default function Exodus24() {
           come unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the latter two were left in charge)
               </span>
             </span>
@@ -387,7 +387,7 @@ export default function Exodus24() {
           and a Cloud covered the Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evidently, Moses stopped when he arrived at the Cloud.)
               </span>
             </span>
@@ -401,7 +401,7 @@ export default function Exodus24() {
           called unto Moses out of the midst of the Cloud.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses evidently waited until the Lord called him.)
               </span>
             </span>
@@ -415,7 +415,7 @@ export default function Exodus24() {
           the Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It looked like the entirety of the top of the Mountain was on
                 fire, with this being seen by all of the Children of Israel.)
               </span>
@@ -429,7 +429,7 @@ export default function Exodus24() {
           Cloud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joshua stayed at the edge of the Cloud, and did not go further)
               </span>
             </span>
@@ -438,7 +438,7 @@ export default function Exodus24() {
           and forty nights{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (without food or water; so the Lord had to miraculously sustain
                 him)
               </span>

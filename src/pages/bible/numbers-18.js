@@ -148,7 +148,7 @@ export default function Numbers18() {
           service of gift: and the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one not a Levite)</span>
+              <span className="explanation">(one not a Levite)</span>
             </span>
           </span>{" "}
           who comes near shall be put to death.
@@ -183,7 +183,7 @@ export default function Numbers18() {
           Offering of theirs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the people)</span>
+              <span className="explanation">(the people)</span>
             </span>
           </span>
           , and every Sin Offering of theirs, and every Trespass Offering of
@@ -377,7 +377,7 @@ export default function Numbers18() {
           Children of Levi all the tenth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Tithe)</span>
+              <span className="explanation">(Tithe)</span>
             </span>
           </span>{" "}
           in Israel for an inheritance, for their service which they serve, even

@@ -129,7 +129,7 @@ export default function Luke10() {
           shoes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God will provide)</span>
+              <span className="explanation">(God will provide)</span>
             </span>
           </span>
           : and salute no man by the way{" "}
@@ -179,7 +179,7 @@ export default function Luke10() {
           , your peace shall rest upon it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Blessing will be given)</span>
+              <span className="explanation">(the Blessing will be given)</span>
             </span>
           </span>
           : if not, it shall turn to you again{" "}
@@ -249,7 +249,7 @@ export default function Luke10() {
           , eat such things as are set before you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and dont complain)</span>
+              <span className="explanation">(and dont complain)</span>
             </span>
           </span>
           :
@@ -437,7 +437,7 @@ export default function Luke10() {
           ; and He who despises you despises Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fearsome indeed!)</span>
+              <span className="explanation">(fearsome indeed!)</span>
             </span>
           </span>
           ; and he who despises Me despises Him Who sent Me{" "}
@@ -461,7 +461,7 @@ export default function Luke10() {
           joy, saying, Lord, even the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           are subject unto us through Your Name{" "}
@@ -796,7 +796,7 @@ export default function Luke10() {
           <sup className="calibre7">28</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said unto him, You have answered right{" "}
@@ -965,7 +965,7 @@ export default function Luke10() {
           <sup className="calibre7">35</sup>And on the morrow when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the good Samaritan)</span>
+              <span className="explanation">(the good Samaritan)</span>
             </span>
           </span>{" "}
           departed, he took out two pence, and gave{" "}
@@ -1078,7 +1078,7 @@ export default function Luke10() {
           her, Martha, Martha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is said in pitying love)</span>
+              <span className="explanation">(is said in pitying love)</span>
             </span>
           </span>
           , you are careful and troubled about many things{" "}
@@ -1107,7 +1107,7 @@ export default function Luke10() {
           : and Mary has chosen that good part{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means that this is a choice)</span>
+              <span className="explanation">(means that this is a choice)</span>
             </span>
           </span>
           , which shall not be taken away from her{" "}

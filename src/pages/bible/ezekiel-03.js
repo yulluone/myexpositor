@@ -17,7 +17,7 @@ export default function Ezekiel03() {
           Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Eat that you find, is a reminder that the True Prophet does not
                 choose his message [
                 <ScrollLink href="/acts-04" scrollToId="#filepos12818429">
@@ -41,7 +41,7 @@ export default function Ezekiel03() {
           me to eat that roll.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This implies that the Lord helped Ezekiel to understand what
                 was written. Actually, he did not literally eat a Book or Roll,
                 as all of this is given in a Vision [
@@ -66,7 +66,7 @@ export default function Ezekiel03() {
           sweetness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Word of God is ever sweet to a spiritual palate; however,
                 it is bitter to the flesh [
                 <ScrollLink href="/" scrollToId="#filepos9046435">
@@ -95,7 +95,7 @@ export default function Ezekiel03() {
           get you unto the House of Israel, and speak with My Words unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiels Ministry begins here. Its character should be compared
                 with that of Jeremiahs. His Ministry was begun at least while
                 God was still in relationship with Israel, and while He yet
@@ -111,7 +111,7 @@ export default function Ezekiel03() {
           strange speech and of an hard language, but to the House of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Ezekiel was sent to Israel, likewise, Christ was sent to
                 Israel. As Israel would not hear him, Israel would not hear
                 Christ! In both cases, they went to their doom!)
@@ -128,7 +128,7 @@ export default function Ezekiel03() {
           Surely, had I sent you to them, they would have hearkened unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Divine statement, Surely they would hearken unto you,
                 throws a shaft of light across the darkness of the heathen
                 world, and actually, in shadow, proclaims the coming Gentile
@@ -145,7 +145,7 @@ export default function Ezekiel03() {
           of Israel are impudent and hardhearted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word impudent means to be contemptuous, and in this sense
                 holding the Word of God in contempt and exhibiting a cocky
                 boldness. The word hardhearted means unfeeling and pitiless.)
@@ -160,7 +160,7 @@ export default function Ezekiel03() {
           against their faces, and your forehead strong against their foreheads.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the rebellion is deep, the Lord gives Ezekiel a powerful
                 anointing that he may be able to continue to minister despite
                 their obstinacy.)
@@ -176,7 +176,7 @@ export default function Ezekiel03() {
           looks, though they be a rebellious house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word adamant could be translated diamond, which is the
                 hardest substance known to man. The phrase, Neither be dismayed
                 at their looks, proclaims the fact that the Prophet had a
@@ -195,7 +195,7 @@ export default function Ezekiel03() {
           and hear with your ears.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The stress is laid on the word all. The Prophet was not to pick
                 and choose out of the Message, but was to deliver all the
                 counsel of God [
@@ -220,7 +220,7 @@ export default function Ezekiel03() {
           they will forbear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And go, get you to them of the captivity, refers to his Message
                 being directed to this group. Due to the Northern Kingdom having
                 been taken captive well over a hundred years previous, and some
@@ -255,7 +255,7 @@ export default function Ezekiel03() {
           Glory of the LORD from His place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The exclamation, Blessed be the Glory of the LORD from His
                 place, probably means that the Glory awakens Praise wherever it
                 goes, and so could make even Babylonia Gods place.
@@ -284,7 +284,7 @@ export default function Ezekiel03() {
           wheels over against them, and a noise of a great rushing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this which Ezekiel has been observing, such as the
                 Cherubim, etc., he now becomes a part of!)
               </span>
@@ -299,7 +299,7 @@ export default function Ezekiel03() {
           Hand of the LORD was strong upon me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And I went in bitterness, in the heat of my spirit,
                 refers to the wrath or anger of the Prophet respecting the sins
                 of the people and their opposition and rebellion against God.)
@@ -315,7 +315,7 @@ export default function Ezekiel03() {
           sat, and remained there astonished among them seven days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that is known of Tel-abib is said here. It is by the river
                 of Chebar. And I sat where they sat, refers to Ezekiel beginning
                 his Ministry in silence.)
@@ -330,7 +330,7 @@ export default function Ezekiel03() {
           seven days, that the Word of the LORD came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel did not move until the Lord said so!)
               </span>
             </span>
@@ -348,7 +348,7 @@ export default function Ezekiel03() {
           mouth, and give them warning from Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the ancient world, watchmen walked the walls in order to
                 spot any hostile action against the city. They were also there
                 to give word to the king of any person approaching the city wall
@@ -382,7 +382,7 @@ export default function Ezekiel03() {
           shall die in his iniquity; but his blood will I require at your hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage tells us that ignorance of the Gospel does not
                 save one. As well, the Preacher is to warn the wicked, and in no
                 uncertain terms. If the wicked arent warned, meaning that the
@@ -413,7 +413,7 @@ export default function Ezekiel03() {
           his iniquity; but you have delivered your soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But you have delivered your soul, means that the judgment
                 passed on the Prophet does not depend on the results of his
                 Ministry, whether men will hear or whether they will forbear,
@@ -436,7 +436,7 @@ export default function Ezekiel03() {
           hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage lays to rest the unscriptural doctrine of
                 Unconditional Eternal Security. As well, the Preacher is not
                 only to preach to the lost, but he is to also warn the righteous
@@ -468,7 +468,7 @@ export default function Ezekiel03() {
           soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us that the righteous must be constantly warned, or
                 else many, if not most, righteous will be turned aside. This
                 puts a tremendous responsibility on the Preacher of the Gospel.
@@ -490,7 +490,7 @@ export default function Ezekiel03() {
           will there talk with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To hear the Word from His Mouth, the servant of the Lord must
                 be willing to withdraw into the plain or low place, for it is
                 there that the Master speaks with the servant and afresh reveals
@@ -510,7 +510,7 @@ export default function Ezekiel03() {
           Glory which I saw by the river of Chebar: and I fell on my face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I fell on my face, is spoken of Ezekiel six times [Vs.{" "}
                 <ScrollLink href="/ezekiel-23" scrollToId="#filepos9332808">
                   <span className="calibre_19">
@@ -573,7 +573,7 @@ export default function Ezekiel03() {
           yourself within your house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then the Spirit entered into me, refers to the Holy Spirit, Who
                 will lead us into all Truth [
                 <ScrollLink href="/john-16" scrollToId="#filepos12638889">
@@ -596,7 +596,7 @@ export default function Ezekiel03() {
           not go out among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when under the control of the Holy Spirit [a control which
                 indeed must be freely given], the lips are taught when to be
                 dumb and when to speak)
@@ -613,7 +613,7 @@ export default function Ezekiel03() {
           them a reprover: for they are a rebellious house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For they are a rebellious house, implied that his subjects were
                 far more rebellious than he realized, and he must have the
                 absolute leading of the Spirit in all action of Ministry. As
@@ -640,7 +640,7 @@ export default function Ezekiel03() {
           they are a rebellious house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages proclaim the manner of operation regarding the
                 imparting of the Word to the hearer by the Holy Spirit. It is
                 done by the messenger proclaiming the Message, and the subject

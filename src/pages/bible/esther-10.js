@@ -15,7 +15,7 @@ export default function Esther10() {
           <sup className="calibre7">1</sup>And the king Ahasuerus laid a tribute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tax)</span>
+              <span className="explanation">(tax)</span>
             </span>
           </span>{" "}
           upon the land, and upon the isles of the sea.
@@ -37,7 +37,7 @@ export default function Esther10() {
           speaking peace to all his seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (promoting their peace and safety, guaranteeing them, so long as
                 he lived and ruled, a quiet and peaceful existence Pulpit)
               </span>

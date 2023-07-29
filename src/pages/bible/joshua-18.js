@@ -126,7 +126,7 @@ export default function Joshua18() {
           Shiloh before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Urim and the Thummim)</span>
+              <span className="explanation">(the Urim and the Thummim)</span>
             </span>
           </span>
           : and there Joshua divided the land unto the Children of Israel

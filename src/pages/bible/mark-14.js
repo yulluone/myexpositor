@@ -44,7 +44,7 @@ export default function Mark14() {
           by craft{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deceit)</span>
+              <span className="explanation">(deceit)</span>
             </span>
           </span>
           , and put{" "}
@@ -92,7 +92,7 @@ export default function Mark14() {
           in the house of Simon the leper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a man whom Jesus had healed)</span>
+              <span className="explanation">(a man whom Jesus had healed)</span>
             </span>
           </span>
           , as He sat at meat, there came a woman{" "}
@@ -220,7 +220,7 @@ export default function Mark14() {
           ; why trouble ye her?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Concerns the murmuring.)</span>
+              <span className="explanation">(Concerns the murmuring.)</span>
             </span>
           </span>{" "}
           she has wrought a good work on Me{" "}
@@ -393,14 +393,14 @@ export default function Mark14() {
           Bread, when they killed the Passover{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the lamb was killed)</span>
+              <span className="explanation">(the lamb was killed)</span>
             </span>
           </span>
           , His Disciples said unto Him, Where will You that we go and prepare
           that You may eat the Passover?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(A place had to be prepared.)</span>
+              <span className="explanation">(A place had to be prepared.)</span>
             </span>
           </span>
         </span>
@@ -427,13 +427,13 @@ export default function Mark14() {
           , and said unto them, Go ye into the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>
           , and there shall meet you a man bearing a pitcher of water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was seldom done by men)</span>
+              <span className="explanation">(this was seldom done by men)</span>
             </span>
           </span>
           : follow him{" "}
@@ -475,7 +475,7 @@ export default function Mark14() {
           <sup className="calibre7">15</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the owner of the house)</span>
+              <span className="explanation">(the owner of the house)</span>
             </span>
           </span>{" "}
           will show you a large upper room furnished{" "}
@@ -487,7 +487,7 @@ export default function Mark14() {
           prepared{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was in a state of readiness)</span>
+              <span className="explanation">(was in a state of readiness)</span>
             </span>
           </span>
           : there make ready for us{" "}
@@ -690,7 +690,9 @@ export default function Mark14() {
           , and said, Take, eat: this is My Body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the word is means represents)</span>
+              <span className="explanation">
+                (the word is means represents)
+              </span>
             </span>
           </span>
           .
@@ -723,13 +725,13 @@ export default function Mark14() {
           <sup className="calibre7">24</sup>And He said unto them, This is{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(represents)</span>
+              <span className="explanation">(represents)</span>
             </span>
           </span>{" "}
           My blood of the New Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(New Covenant)</span>
+              <span className="explanation">(New Covenant)</span>
             </span>
           </span>
           , which is shed for many{" "}
@@ -758,7 +760,7 @@ export default function Mark14() {
           in the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the coming Kingdom Age)</span>
+              <span className="explanation">(the coming Kingdom Age)</span>
             </span>
           </span>
           .
@@ -769,13 +771,13 @@ export default function Mark14() {
           <sup className="calibre7">26</sup>And when they had sung an hymn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ps. 118)</span>
+              <span className="explanation">(Ps. 118)</span>
             </span>
           </span>
           , they went out into the Mount of Olives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where He would be betrayed)</span>
+              <span className="explanation">(where He would be betrayed)</span>
             </span>
           </span>
           .
@@ -879,7 +881,7 @@ export default function Mark14() {
           , before the cock crow twice, you shall deny Me thrice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(three times)</span>
+              <span className="explanation">(three times)</span>
             </span>
           </span>
           .
@@ -973,7 +975,7 @@ export default function Mark14() {
           <sup className="calibre7">34</sup>And said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Peter, James, and John)</span>
+              <span className="explanation">(to Peter, James, and John)</span>
             </span>
           </span>
           , My Soul is exceeding sorrowful unto death{" "}
@@ -1126,7 +1128,7 @@ export default function Mark14() {
           ready{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the human spirit)</span>
+              <span className="explanation">(the human spirit)</span>
             </span>
           </span>
           , but the flesh{" "}
@@ -1201,7 +1203,7 @@ export default function Mark14() {
           rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said in irony)</span>
+              <span className="explanation">(said in irony)</span>
             </span>
           </span>
           : it is enough, the hour is come{" "}
@@ -1321,7 +1323,7 @@ export default function Mark14() {
           <sup className="calibre7">46</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the religious leaders)</span>
+              <span className="explanation">(the religious leaders)</span>
             </span>
           </span>{" "}
           laid their hands on Him, and took Him{" "}
@@ -1348,7 +1350,7 @@ export default function Mark14() {
           <sup className="calibre7">47</sup>And one of them who stood by{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Simon Peter)</span>
+              <span className="explanation">(Simon Peter)</span>
             </span>
           </span>{" "}
           drew a sword, and smote a servant of the High Priest, and cut off his
@@ -1542,7 +1544,7 @@ export default function Mark14() {
           : and with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Caiaphas)</span>
+              <span className="explanation">(Caiaphas)</span>
             </span>
           </span>{" "}
           were assembled all the Chief Priests and the Elders and the Scribes{" "}
@@ -1951,7 +1953,7 @@ export default function Mark14() {
           of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is a different maid)</span>
+              <span className="explanation">(this is a different maid)</span>
             </span>
           </span>
           .

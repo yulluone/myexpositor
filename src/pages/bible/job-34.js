@@ -102,7 +102,7 @@ export default function Job34() {
           workers of iniquity, and walks with wicked men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was totally untrue!)</span>
+              <span className="explanation">(this was totally untrue!)</span>
             </span>
           </span>
         </span>
@@ -114,7 +114,7 @@ export default function Job34() {
           nothing that he should delight himself with God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job had not said this!)</span>
+              <span className="explanation">(Job had not said this!)</span>
             </span>
           </span>
         </span>
@@ -163,7 +163,7 @@ export default function Job34() {
           <sup className="calibre7">14</sup>If He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           set His Heart upon man, if He gather unto Himself His Spirit and His
@@ -397,7 +397,7 @@ export default function Job34() {
           God, I have borne chastisement, I will not offend any more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he now tells Job to repent)</span>
+              <span className="explanation">(he now tells Job to repent)</span>
             </span>
           </span>
           :
@@ -446,7 +446,7 @@ export default function Job34() {
           and his words were without wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what arrogance!)</span>
+              <span className="explanation">(what arrogance!)</span>
             </span>
           </span>
         </span>
@@ -472,7 +472,7 @@ export default function Job34() {
           <sup className="calibre7">37</sup>For he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job)</span>
+              <span className="explanation">(Job)</span>
             </span>
           </span>{" "}
           adds rebellion unto his sin, he claps his hands among us, and

@@ -18,7 +18,7 @@ export default function Amos8() {
           and behold a basket of summer fruit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gathering of fruit was the last harvest of the year, and
                 was done in October. As it was the last harvest of the year, it
                 also fitly typified the final warning to Israel.)
@@ -35,7 +35,7 @@ export default function Amos8() {
           anymore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last phrase means that the Lord will not forgive them
                 anymore, nor show any more Mercy, because of their refusal to
                 repent.)
@@ -51,7 +51,7 @@ export default function Amos8() {
           bodies in every place; they shall cast them forth with silence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Howlings portray the coming disposition of Israel changed from
                 its present occupation of revelry, luxury, and entertainment to
                 one of judgment, desolation, destitution, and stark horror. The
@@ -72,7 +72,7 @@ export default function Amos8() {
           needy, even to make the poor of the land to fail{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Love for the poor and His burning Anger against their
                 oppressors once more appear)
               </span>
@@ -89,7 +89,7 @@ export default function Amos8() {
           the balances by deceit?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By reducing the size of the ephah, by overcharging, and by
                 falsifying the scales, they robbed the defenseless; plunging
                 them into debt, they sold them into slavery for a trifle, in
@@ -137,7 +137,7 @@ export default function Amos8() {
           wheat?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the poor, because of the
                 dishonesty of much of the upper class, kept getting poorer, and
                 they were compelled to pay their debt by selling themselves into
@@ -174,7 +174,7 @@ export default function Amos8() {
           of Jacob, Surely I will never forget any of their works.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The excellency of Jacob, speaks of God Himself. In{" "}
                 <ScrollLink href="/" scrollToId="#filepos10219829">
                   <span className="calibre_19">
@@ -199,7 +199,7 @@ export default function Amos8() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that coming Judgment shall flood the land.)
               </span>
             </span>
@@ -213,7 +213,7 @@ export default function Amos8() {
           and I will darken the Earth in the clear day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of an eclipse of the sun. At exactly what time the
                 Holy Spirit is speaking of in this particular Passage is not
                 known)
@@ -232,7 +232,7 @@ export default function Amos8() {
           bitter day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last phrase, And the end thereof as a bitter day, sums up
                 the entirety of this Passage. It speaks of the attack by the
                 Assyrians and the shock of its brutal force finally registering
@@ -249,7 +249,7 @@ export default function Amos8() {
           a thirst for water, but of hearing the Words of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what the leaders of Israel had demanded of Amos, they will now
                 get! They will be carted away to captivity, at least those who
                 were left, with the results being that there would be no more
@@ -269,7 +269,7 @@ export default function Amos8() {
           seek the Word of the LORD, and shall not find it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then the Word of the Lord would be eagerly desired, but not
                 realized; sought, but not found; called for, but not answered!
                 And it must be quickly added, nothing could be worse! On all
@@ -287,7 +287,7 @@ export default function Amos8() {
           and young men faint for thirst.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The thirst spoken of here concerns Spiritual Thirst, which can
                 only be satisfied by the Word of the LORD.)
               </span>
@@ -302,7 +302,7 @@ export default function Amos8() {
           Beer-sheba lives; even they shall fall, and never rise up again.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Samaria, Dan, Beth-el, Gilgal, and Beer-sheba were centers of
                 idolatry in Israel [
                 <ScrollLink href="/hosea-04" scrollToId="#filepos9997867">

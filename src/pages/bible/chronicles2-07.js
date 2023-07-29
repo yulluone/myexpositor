@@ -21,7 +21,7 @@ export default function Chronicles207() {
           House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is additional to{" "}
                 <ScrollLink href="/kings1-08" scrollToId="#filepos3817712">
                   <span className="calibre_19">
@@ -86,7 +86,7 @@ export default function Chronicles207() {
           LORDs House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Glory of the Lord can only come through Calvary)
               </span>
             </span>
@@ -103,7 +103,7 @@ export default function Chronicles207() {
           good; for His Mercy endures for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (On the Day of Pentecost, approximately a thousand years later,
                 the fire fell from Heaven in a way that it had never fallen
                 previously. In Old Testament times, it fell upon the Sacrifice.
@@ -149,7 +149,7 @@ export default function Chronicles207() {
           sheep: so the king and all the people dedicated the House of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this showed Israel that her great blessing was built on
                 the foundation of the shed Blood of Christ; even though the
                 number of Sacrifices offered was staggering, still, it could not
@@ -187,7 +187,7 @@ export default function Chronicles207() {
           sounded trumpets before them, and all Israel stood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the worship, heavily anchored in the Sacrifices, portrays the
                 fact that Spirit-led music and singing accompany the Cross and,
                 in fact, are made possible by the Cross)
@@ -204,7 +204,7 @@ export default function Chronicles207() {
           offered Burnt Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typified the perfection of Christ being given to the sinner)
               </span>
             </span>
@@ -212,7 +212,7 @@ export default function Chronicles207() {
           , and the fat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the very best that God has in the offering up of His
                 Son)
               </span>
@@ -221,7 +221,7 @@ export default function Chronicles207() {
           of the Peace Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Offering typified that Peace had been restored, as a
                 result of the Burnt Offering)
               </span>
@@ -231,13 +231,15 @@ export default function Chronicles207() {
           receive the Burnt Offerings, and the Meat Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Offering of Thanksgiving)</span>
+              <span className="explanation">
+                (the Offering of Thanksgiving)
+              </span>
             </span>
           </span>
           , and the fat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the middle Court, which was the Court of women, had to also be
                 used, because the area around the Brazen Altar was too small,
                 considering the great number of Sacrifices being offered)
@@ -261,7 +263,7 @@ export default function Chronicles207() {
           and the Feast seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was a Feast of Dedication of the Temple which was seven
                 days long, and then Solomon also kept the Feast of Tabernacles,
                 for an additional seven days, making altogether the fourteen
@@ -280,7 +282,7 @@ export default function Chronicles207() {
           David, and to Solomon, and to Israel His people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (joy always follows proper worship, which is always anchored in
                 the Cross, typified by the Sacrifices)
               </span>
@@ -295,7 +297,7 @@ export default function Chronicles207() {
           the LORD, and the kings house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the personal dwelling place of Solomon)
               </span>
             </span>
@@ -304,7 +306,7 @@ export default function Chronicles207() {
           LORD, and in his own house, he prosperously effected{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(carried forth to completion)</span>
+              <span className="explanation">(carried forth to completion)</span>
             </span>
           </span>
           .
@@ -322,7 +324,7 @@ export default function Chronicles207() {
           this place to Myself for an House of Sacrifice.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord not only answered Solomons prayer by a manifestation
                 of the fire falling from Heaven, but, as well, He portrayed what
                 He will do, as it regards Solomons petition, and in no uncertain
@@ -383,7 +385,7 @@ export default function Chronicles207() {
           pestilence among My people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the Lord does such a thing, it will be because of sin,
                 always because of sin)
               </span>
@@ -398,25 +400,25 @@ export default function Chronicles207() {
           Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>
           , shall humble themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(humility)</span>
+              <span className="explanation">(humility)</span>
             </span>
           </span>
           , and pray, and seek My Face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the prayer of Repentance)</span>
+              <span className="explanation">(the prayer of Repentance)</span>
             </span>
           </span>
           , and turn from their wicked ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which proclaims the manner of true Repentance)
               </span>
             </span>
@@ -424,13 +426,13 @@ export default function Chronicles207() {
           ; then will I hear from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but not otherwise)</span>
+              <span className="explanation">(but not otherwise)</span>
             </span>
           </span>
           , and will forgive their sin, and will heal their land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Prescription for spiritual sickness)
               </span>
             </span>
@@ -444,7 +446,7 @@ export default function Chronicles207() {
           Ears attent unto the prayer that is made in this place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As well, prayer from a distance being made toward this place
                 would be answered.
               </span>
@@ -491,7 +493,7 @@ export default function Chronicles207() {
           Heart shall be there perpetually{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (literally, until the Cross; in general, forever, because the
                 Lord now lives in our hearts and lives [
                 <ScrollLink
@@ -518,7 +520,7 @@ export default function Chronicles207() {
           have commanded you, and shall observe My Statutes and My Judgments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the conditions)</span>
+              <span className="explanation">(the conditions)</span>
             </span>
           </span>
           ;
@@ -531,7 +533,7 @@ export default function Chronicles207() {
           saying, There shall not fail you a man to be ruler in Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is unconditional, for it contemplates Christ)
               </span>
             </span>
@@ -554,7 +556,7 @@ export default function Chronicles207() {
           make it to be a proverb and a byword among all nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is exactly what happened!)
               </span>
             </span>
@@ -578,7 +580,7 @@ export default function Chronicles207() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4735932">
                   <span className="calibre_19">

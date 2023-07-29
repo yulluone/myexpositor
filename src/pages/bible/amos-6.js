@@ -19,7 +19,7 @@ export default function Amos6() {
           nations, to whom the House of Israel came!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Woe to them who are at ease in Zion, is the second
                 Woe pronounced, and it denounces a false peace. The first Woe,
                 found in{" "}
@@ -45,7 +45,7 @@ export default function Amos6() {
           greater than your border?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cities mentioned in this Verse were great and prosperous at
                 this particular time. But yet, both Judah and Israel are invited
                 by the Holy Spirit to go and compare their condition with that
@@ -64,7 +64,7 @@ export default function Amos6() {
           and cause the seat of violence to come near{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You who put far away the evil day, addresses the approaching
                 day of Gods Wrath. The seat of violence refers to the corrupt
                 Court of Justice. Upon hearing Amos stern words, the religious
@@ -83,7 +83,7 @@ export default function Amos6() {
           flock, and the calves out of the midst of the stall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who lie upon beds of ivory, is meant to portray their Spiritual
                 insensibility, somewhat a result of their prosperity; however,
                 their gain was ill-gotten)
@@ -99,7 +99,7 @@ export default function Amos6() {
           and invent to themselves instruments of music, like David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as is obvious, prosperity, producing ease and luxury, was
                 coupled with entertainment; this is not so much different than
                 the modern Church)
@@ -116,7 +116,7 @@ export default function Amos6() {
           affliction of Joseph.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who drink wine in bowls, actually referred to the sacrificial
                 bowls, which were used in libations of wine and in the
                 sprinkling of blood, regarding the sacrifices. And anoint
@@ -148,7 +148,7 @@ export default function Amos6() {
           themselves shall be removed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore now shall they go captive with the first who go
                 captive, speaks of Israel falling to the Assyrians about 133
                 years before the Southern Kingdom of Judah fell to the
@@ -169,7 +169,7 @@ export default function Amos6() {
           is therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord GOD has sworn by Himself, speaks of the threat
                 proceeding directly from Him; it is, therefore, immutable. The
                 balance of this Scripture does not mean that God hates
@@ -186,7 +186,7 @@ export default function Amos6() {
           remain ten men in one house, that they shall die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pestilence would accompany captivity, or follow it, so deadly
                 that even a large family of ten persons should have but one
                 survivor, if that!)
@@ -204,7 +204,7 @@ export default function Amos6() {
           for we may not make mention of the Name of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, For we may not make mention of the Name of the
                 LORD, refers to the fact that so conscious would be the
                 survivors that it was a Divine Judgment, they would feel that
@@ -222,7 +222,7 @@ export default function Amos6() {
           clefts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great house pertains to the Ten Tribes of the Northern
                 Kingdom, while the little house refers to the Two Tribes of the
                 Southern Kingdom.)
@@ -238,7 +238,7 @@ export default function Amos6() {
           the fruit of Righteousness into hemlock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For we have turned judgment into gall, and the fruit of
                 Righteousness into hemlock, refers to Israel turning the Word of
                 God, and all that it promised, against themselves instead of for
@@ -256,7 +256,7 @@ export default function Amos6() {
           nought, which say, Have we not taken to us horns by our own strength?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You which rejoice in a thing of naught, pertains to Israel
                 trusting idols. The question, Have we not taken to us horns by
                 our own strength?, refers to military strength and Israels
@@ -283,7 +283,7 @@ export default function Amos6() {
           of the wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to the Assyrians. The latter phrase
                 predicts the entirety of Israel being wrecked by the Assyrians.)
               </span>

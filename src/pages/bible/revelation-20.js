@@ -58,7 +58,7 @@ export default function Revelation20() {
           and a great chain in his hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(should be taken literally)</span>
+              <span className="explanation">(should be taken literally)</span>
             </span>
           </span>
           .
@@ -156,7 +156,7 @@ export default function Revelation20() {
           ; and they lived and reigned with Christ a thousand years.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(This is the Kingdom Age.)</span>
+              <span className="explanation">(This is the Kingdom Age.)</span>
             </span>
           </span>
         </span>

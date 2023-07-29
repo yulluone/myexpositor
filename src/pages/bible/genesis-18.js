@@ -17,14 +17,14 @@ export default function Genesis18() {
           <sup className="calibre7">1</sup>And the LORD appeared unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           in the plains of Mamre: and he sat in the tent door in the heat of the
           day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the{" "}
                 <ScrollLink href="/" scrollToId="#filepos224923">
                   <span className="calibre_19">
@@ -48,7 +48,7 @@ export default function Genesis18() {
           and, lo, three Men stood by Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (stood by the Lord; these were Angels)
               </span>
             </span>
@@ -57,7 +57,7 @@ export default function Genesis18() {
           bowed himself toward the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies worship, for he knew this was the Lord)
               </span>
             </span>
@@ -72,7 +72,7 @@ export default function Genesis18() {
           servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham had found favor in Gods sight, but only by and through
                 the Faith which he exhibited)
               </span>
@@ -87,7 +87,7 @@ export default function Genesis18() {
           fetched, and wash Your Feet, and rest Yourselves under the tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord and the Angels did not need such; however, the washing
                 of the feet and the rest symbolized a Spiritual Truth; it spoke
                 of the humility which is required on the part of Believers and,
@@ -104,7 +104,7 @@ export default function Genesis18() {
           which will comfort Your Hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (bread is a Type of the Word of God and, as well, of the Lord
                 Jesus Christ [
                 <ScrollLink href="/john-06" scrollToId="#filepos12412181">
@@ -124,7 +124,7 @@ export default function Genesis18() {
           ; after that You shall pass on{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but not before I have shown You the dignity and respect You
                 deserve)
               </span>
@@ -134,7 +134,7 @@ export default function Genesis18() {
           you have said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord favorably received guarantees the favorable blessing)
               </span>
             </span>
@@ -149,7 +149,7 @@ export default function Genesis18() {
           knead it, and make cakes upon the hearth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spiritual activity in the heart of one servant of Christs stirs
                 up activity in the hearts of other servants)
               </span>
@@ -165,7 +165,7 @@ export default function Genesis18() {
           hastened to dress it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the calf would be killed, likewise would the Son of God, all
                 of which served as a Type)
               </span>
@@ -181,7 +181,7 @@ export default function Genesis18() {
           Them under the tree, and They did eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus told us that we must eat as well; I speak of the eating
                 of Christ, which, in effect, speaks of evidencing Faith in Him
                 and what He has done for us at the Cross [
@@ -215,19 +215,19 @@ export default function Genesis18() {
           <sup className="calibre7">9</sup>And They{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord and the Angels)</span>
+              <span className="explanation">(the Lord and the Angels)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>
           , Where is Sarah your wife? And he said, Behold, in the tent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one of the greatest announcements ever made in human history is
                 now forthcoming)
               </span>
@@ -241,13 +241,13 @@ export default function Genesis18() {
           <sup className="calibre7">10</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, I will certainly return unto you according to the time of life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to this time next year)
               </span>
             </span>
@@ -262,7 +262,7 @@ export default function Genesis18() {
           well stricken in age{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham was 100 and Sarah was 90)
               </span>
             </span>
@@ -276,13 +276,13 @@ export default function Genesis18() {
           herself, saying, After I am waxed old shall I have pleasure, my lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           being old also?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Unbelief makes men cowards and liars. Sarah laughs with
                 unbelief, and then, through fear, denies the fact. Despite,
                 however, her incredulity, and despite Satans seeming success in
@@ -301,7 +301,7 @@ export default function Genesis18() {
           which am old?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is in the Scripture the laughter of faith and the
                 laughter of unbelief.{" "}
                 <ScrollLink href="/psalm-126" scrollToId="#filepos6608258">
@@ -330,7 +330,7 @@ export default function Genesis18() {
           <sup className="calibre7">14</sup>Is anything too hard for the LORD?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the actual Hebrew says: Is anything too wonderful for Jehovah?)
               </span>
             </span>
@@ -345,19 +345,19 @@ export default function Genesis18() {
           not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she lied)</span>
+              <span className="explanation">(she lied)</span>
             </span>
           </span>
           ; for she was afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unbelief tenders fear)</span>
+              <span className="explanation">(unbelief tenders fear)</span>
             </span>
           </span>
           . And He said, No; but you did laugh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord gently rebukes her)</span>
+              <span className="explanation">(the Lord gently rebukes her)</span>
             </span>
           </span>
         </span>
@@ -371,13 +371,13 @@ export default function Genesis18() {
           <sup className="calibre7">16</sup>And the Men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord and the Angels)</span>
+              <span className="explanation">(the Lord and the Angels)</span>
             </span>
           </span>{" "}
           rose up from thence, and looked toward Sodom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was not a look of Grace, and because of their great sin)
               </span>
             </span>
@@ -385,7 +385,7 @@ export default function Genesis18() {
           : and Abraham went with them to bring them on the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (walked a little distance with Them)
               </span>
             </span>
@@ -399,7 +399,7 @@ export default function Genesis18() {
           Abraham that thing which I do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the secret of the Lord is with them who fear Him)
               </span>
             </span>
@@ -414,7 +414,7 @@ export default function Genesis18() {
           shall be blessed in him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both predictions came through exactly as spoken by the Lord.)
               </span>
             </span>
@@ -427,7 +427,7 @@ export default function Genesis18() {
           his children and his household after him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the actual Hebrew says, For I have known him in order that he
                 may command his sons...)
               </span>
@@ -436,7 +436,7 @@ export default function Genesis18() {
           , and they shall keep the Way of the LORD, to do justice and judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the responsibility of the modern Church as well, a
                 responsibility, incidentally, which by and large has been
                 abrogated)
@@ -446,7 +446,7 @@ export default function Genesis18() {
           ; that the LORD may bring upon Abraham that which He has spoken of him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (looking back from this present time to the time of Abraham, all
                 have come to pass exactly as the Lord promised)
               </span>
@@ -461,7 +461,7 @@ export default function Genesis18() {
           of Sodom and Gomorrah is great, and because their sin is very grievous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sin of these twin cities had become so great that it
                 threatened contamination of the entirety of that part of the
                 world; consequently, they had to be destroyed; in other words,
@@ -480,7 +480,7 @@ export default function Genesis18() {
           unto Me; and if not, I will know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all sin is inherently offensive in the Eyes of the Almighty;
                 but some forms of wickedness are more presumptuously daring or
                 more intrinsically loathsome than others, and of such sort were
@@ -508,19 +508,19 @@ export default function Genesis18() {
           <sup className="calibre7">22</sup>And the Men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the two Angels)</span>
+              <span className="explanation">(the two Angels)</span>
             </span>
           </span>{" "}
           turned their faces from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Abraham)</span>
+              <span className="explanation">(from Abraham)</span>
             </span>
           </span>
           , and went toward Sodom: but Abraham stood yet before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after the Lord explained to Abraham what He was about to do,
                 Abraham would now intercede for Lot)
               </span>
@@ -538,7 +538,7 @@ export default function Genesis18() {
           Will You also destroy the righteous with the wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was thinking of Lot)</span>
+              <span className="explanation">(he was thinking of Lot)</span>
             </span>
           </span>
           ?
@@ -551,7 +551,7 @@ export default function Genesis18() {
           place for the fifty righteous who are therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we find from this narrative how important the righteous are, as
                 it involves the overall scheme of things)
               </span>
@@ -568,7 +568,7 @@ export default function Genesis18() {
           Judge of all the Earth do right?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We can be confident that the Judge of the Earth shall do right.
                 That Judge is the Lord!)
               </span>
@@ -590,7 +590,7 @@ export default function Genesis18() {
           dust and ashes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we find here the humility of the great Patriarch)
               </span>
             </span>
@@ -611,13 +611,13 @@ export default function Genesis18() {
           <sup className="calibre7">29</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           spoke unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           yet again, and said, Peradventure there shall be forty found there.
@@ -630,7 +630,7 @@ export default function Genesis18() {
           LORD be angry, and I will speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I think it can easily be said that the Lord delights in the
                 Believer pressing, as it regards petitions and desires)
               </span>
@@ -655,7 +655,7 @@ export default function Genesis18() {
           found there. And He said, I will not destroy it for tens sake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are here witnessing true Intercession.)
               </span>
             </span>
@@ -669,7 +669,7 @@ export default function Genesis18() {
           place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the Lord now goes His way, He doesnt do so until Abraham
                 ceases his petitioning. Abraham ceased asking before God ceased
                 giving.)

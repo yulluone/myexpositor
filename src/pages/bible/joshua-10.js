@@ -166,7 +166,9 @@ export default function Joshua10() {
           Azekah, and unto Makkedah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a distance of about 25 miles)</span>
+              <span className="explanation">
+                (a distance of about 25 miles)
+              </span>
             </span>
           </span>
         </span>
@@ -202,7 +204,7 @@ export default function Joshua10() {
           Israel, and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           said in the sight of Israel, Sun, stand thou still upon Gibeon; and
@@ -264,7 +266,7 @@ export default function Joshua10() {
           with him, unto the camp to Gilgal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(returned in victory)</span>
+              <span className="explanation">(returned in victory)</span>
             </span>
           </span>
         </span>
@@ -314,7 +316,7 @@ export default function Joshua10() {
           of them entered into fenced cities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(under guard)</span>
+              <span className="explanation">(under guard)</span>
             </span>
           </span>
         </span>
@@ -534,7 +536,7 @@ export default function Joshua10() {
           to all that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           had done to Libnah.{" "}

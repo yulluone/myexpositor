@@ -341,7 +341,7 @@ export default function Leviticus13() {
           him up seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for inspection)</span>
+              <span className="explanation">(for inspection)</span>
             </span>
           </span>
           :

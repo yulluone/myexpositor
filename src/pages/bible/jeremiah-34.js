@@ -464,7 +464,7 @@ export default function Jeremiah34() {
           LORD, and cause them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Babylonians)</span>
+              <span className="explanation">(the Babylonians)</span>
             </span>
           </span>{" "}
           to return to this city; and they shall fight against it, and take it,

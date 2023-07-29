@@ -18,7 +18,7 @@ export default function Genesis16() {
           children: and she had an handmaid, an Egyptian, whose name was Hagar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the previous{" "}
                 <ScrollLink href="/genesis-15" scrollToId="#filepos189328">
                   <span className="calibre_19">
@@ -40,7 +40,7 @@ export default function Genesis16() {
           <sup className="calibre7">2</sup>And Sarai said unto Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that it wasnt the Lord who spoke to Abraham)
               </span>
             </span>
@@ -48,7 +48,7 @@ export default function Genesis16() {
           , Behold now, the LORD has restrained me from bearing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the impatience of unbelief; the flesh quickly tires
                 of waiting for the Divine promise)
               </span>
@@ -57,7 +57,7 @@ export default function Genesis16() {
           : I pray you, go in unto my maid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the path of Faith is full of dignity, the path of unbelief full
                 of degradation)
               </span>
@@ -66,7 +66,7 @@ export default function Genesis16() {
           ; it may be that I may obtain children by her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tired of waiting, they no longer set their hopes upon God, but
                 rather upon the Egyptian slave girl)
               </span>
@@ -75,7 +75,7 @@ export default function Genesis16() {
           . And Abram hearkened to the voice of Sarai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which means that the Patriarch was not hearkening to the Voice
                 of the Lord)
               </span>
@@ -90,7 +90,7 @@ export default function Genesis16() {
           maid the Egyptian{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Epistle to the Galatians declares that Sarah and Hagar
                 represent the two principles of Law and Grace; Hagar represents
                 salvation by works; Sarah Salvation by Faith; these principles
@@ -113,7 +113,7 @@ export default function Genesis16() {
           to her husband Abram to be his wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, ten being the number of completion, is it possible
                 that, at this time, God had planned to bring forth Isaac? Or
                 better yet, how much do our failures of faith hinder in our
@@ -129,14 +129,14 @@ export default function Genesis16() {
           <sup className="calibre7">4</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           went in unto Hagar, and she conceived: and when she saw that she had
           conceived, her mistress was despised in her eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she began to act unkindly toward Sarah, actually with
                 contempt!)
               </span>
@@ -151,7 +151,7 @@ export default function Genesis16() {
           be upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham and Sarah think that, by their clever plan, they can
                 hasten and bring to pass the Divine Promise; the result is
                 misery; he succeeds in his plan, Ishmael is born; but better
@@ -165,7 +165,7 @@ export default function Genesis16() {
           you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sarah now sees her wrong, but too late! Works of the flesh, and
                 this definitely was a work of the flesh, always bring on
                 dissension.)
@@ -181,7 +181,7 @@ export default function Genesis16() {
           dealt hardly with her, she fled from her face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Scripture doesnt tell us what Sarah did)
               </span>
             </span>
@@ -199,7 +199,7 @@ export default function Genesis16() {
           to Shur{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every evidence is, this Angel of the Lord is none other than a
                 pre-incarnate appearance of the Lord Jesus Christ)
               </span>
@@ -221,7 +221,7 @@ export default function Genesis16() {
           her, Return to your mistress, and submit yourself under her hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had she not obeyed, she would no doubt have died in the
                 wilderness)
               </span>
@@ -237,7 +237,7 @@ export default function Genesis16() {
           numbered for multitude.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, the Lord said nothing about Faith, because there was
                 no faith in the heart of Hagar, and neither would there be any
                 in the heart of her son, Ishmael.)
@@ -253,7 +253,7 @@ export default function Genesis16() {
           call his name Ishmael; because the LORD has heard your affliction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fault of her situation did not belong with Hagar, but
                 rather with Abraham and Sarah; however, she ultimately forfeited
                 what the Lord could have done for her by opposing His Plan,
@@ -271,7 +271,7 @@ export default function Genesis16() {
           shall dwell in the presence of all his brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These predictions describe the Arab people perfectly. They
                 cannot get along with anyone in the world, and they cannot even
                 get along among themselves. The descendants of Ishmael dwell in
@@ -288,7 +288,7 @@ export default function Genesis16() {
           Who spoke unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hagar recognized that the Angel was, in fact, the Lord,
                 actually the God of Abraham)
               </span>
@@ -298,7 +298,7 @@ export default function Genesis16() {
           Who sees me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hagar gave the name to the Lord of El Roi, which means, You are
                 a God Who permits Himself to be seen. As is obvious, she truly
                 had a wonderful Revelation, but, sadly and regrettably, her
@@ -317,7 +317,7 @@ export default function Genesis16() {
           Beer-lahai-roi; behold, it is between Kadesh and Bered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beer-lahai-roi means Well of the Living-Seeing God.)
               </span>
             </span>
@@ -330,7 +330,7 @@ export default function Genesis16() {
           Abram called his sons name, which Hagar bore, Ishmael.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hagar, without doubt, related to Abraham all that had happened,
                 placed herself under the authority of Sarah, and Abraham was
                 then careful to name the boy what the Lord had said Ishmael.)
@@ -348,13 +348,13 @@ export default function Genesis16() {
           years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(86)</span>
+              <span className="explanation">(86)</span>
             </span>
           </span>
           , when Hagar bore Ishmael to Abram.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham would yet have to wait some 14 years before the Promise
                 would be fulfilled. As previously asked, I have to wonder if
                 this lapse of faith did not prolong the waiting period for the

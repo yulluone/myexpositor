@@ -56,13 +56,13 @@ export default function Numbers28() {
           morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 a.m.)</span>
+              <span className="explanation">(9 a.m.)</span>
             </span>
           </span>
           , and the other lamb shall you offer at evening{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 p.m.)</span>
+              <span className="explanation">(3 p.m.)</span>
             </span>
           </span>
           ;
@@ -74,7 +74,7 @@ export default function Numbers28() {
           for a Meat Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Thanksgiving Offering)</span>
+              <span className="explanation">(a Thanksgiving Offering)</span>
             </span>
           </span>
           , mingled with the fourth part of an hin of beaten oil{" "}
@@ -338,7 +338,7 @@ export default function Numbers28() {
           <sup className="calibre7">20</sup>And their Meat Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Thanksgiving Offering)</span>
+              <span className="explanation">(Thanksgiving Offering)</span>
             </span>
           </span>{" "}
           shall be of flour{" "}
@@ -385,7 +385,7 @@ export default function Numbers28() {
           for every lamb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Thanksgiving Offering)</span>
+              <span className="explanation">(Thanksgiving Offering)</span>
             </span>
           </span>
           , throughout the seven lambs:
@@ -443,7 +443,7 @@ export default function Numbers28() {
           daily, throughout the seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Unleavened Bread)</span>
+              <span className="explanation">(of Unleavened Bread)</span>
             </span>
           </span>
           , the meat of the sacrifice made by fire, of a sweet savour unto the
@@ -547,7 +547,7 @@ export default function Numbers28() {
           atonement for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Sin Offering)</span>
+              <span className="explanation">(a Sin Offering)</span>
             </span>
           </span>
         </span>

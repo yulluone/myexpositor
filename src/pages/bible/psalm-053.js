@@ -156,7 +156,7 @@ export default function Psalm053() {
           against you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Israel)</span>
+              <span className="explanation">(against Israel)</span>
             </span>
           </span>
           : you have put them to shame, because God has despised them.{" "}

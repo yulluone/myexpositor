@@ -16,7 +16,7 @@ export default function Romans13() {
           higher powers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Human Government)</span>
+              <span className="explanation">(refers to Human Government)</span>
             </span>
           </span>
           . For there is no power but of God{" "}
@@ -45,7 +45,7 @@ export default function Romans13() {
           power, resists the Ordinance of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(anarchy is not of God)</span>
+              <span className="explanation">(anarchy is not of God)</span>
             </span>
           </span>
           : and they who resist shall receive to themselves damnation{" "}
@@ -100,7 +100,7 @@ export default function Romans13() {
           <sup className="calibre7">4</sup>For he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Civil Magistrate)</span>
+              <span className="explanation">(the Civil Magistrate)</span>
             </span>
           </span>{" "}
           is the minister of God to you for good{" "}
@@ -191,7 +191,7 @@ export default function Romans13() {
           thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to public servants)</span>
+              <span className="explanation">(refers to public servants)</span>
             </span>
           </span>
           .
@@ -303,13 +303,13 @@ export default function Romans13() {
           , You shall not steal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont take whats not yours)</span>
+              <span className="explanation">(dont take whats not yours)</span>
             </span>
           </span>
           , You shall not bear false witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont lie)</span>
+              <span className="explanation">(dont lie)</span>
             </span>
           </span>
           , You shall not covet{" "}
@@ -344,7 +344,7 @@ export default function Romans13() {
           <sup className="calibre7">10</sup>Love works no ill to his neighbour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will not hurt his neighbor)</span>
+              <span className="explanation">(will not hurt his neighbor)</span>
             </span>
           </span>
           : therefore love{" "}
@@ -456,7 +456,7 @@ export default function Romans13() {
           ; not in rioting and drunkenness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the ways of the world)</span>
+              <span className="explanation">(the ways of the world)</span>
             </span>
           </span>
           , not in chambering and wantonness{" "}

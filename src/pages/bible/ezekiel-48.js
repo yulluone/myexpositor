@@ -19,7 +19,7 @@ export default function Ezekiel48() {
           Dan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A portion for Dan, portrays this Tribe mentioned first. As is
                 obvious, it is the Holy Spirit Who draws off the portions. None
                 are decided by men, all by the Lord.)
@@ -64,7 +64,7 @@ export default function Ezekiel48() {
           east side unto the west side, a portion for Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Seven Tribes will have their possession north of the Oblation,
                 and five Tribes, south of the Oblation, i.e., Sacrifices.)
               </span>
@@ -84,7 +84,7 @@ export default function Ezekiel48() {
           Sanctuary shall be in the midst of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portion is approximately 42 miles long and 42 miles wide.
                 It seems to be out of proportion compared to the allotment to
                 the other Tribes. However, it is thought by some that quite
@@ -125,7 +125,7 @@ export default function Ezekiel48() {
           midst thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As all the Tribes were proportioned around the Tabernacle in
                 the wilderness [Num., Chpts.{" "}
                 <ScrollLink href="/numbers-01" scrollToId="#filepos1676918">
@@ -172,7 +172,7 @@ export default function Ezekiel48() {
           Levites.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The faithfulness of Zadok [
                 <ScrollLink href="/kings1-01" scrollToId="#filepos3678943">
                   <span className="calibre_19">
@@ -222,7 +222,7 @@ export default function Ezekiel48() {
           holy unto the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The portion here described is that reserved for the Levites,
                 who will have a part in Sanctuary duties, but not the
                 Sacrifices. That will be attended to solely by the sons of
@@ -258,7 +258,7 @@ export default function Ezekiel48() {
           city shall be in the midst thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The term, profane place, simply means that it is not dedicated
                 to sacred use in the same sense as the Sanctuary. The area will
                 be about 42 miles long and 8 miles wide.
@@ -300,7 +300,7 @@ export default function Ezekiel48() {
           hundred.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These dimensions speak of the city proper, pertaining to
                 business, etc. It will be about five miles square. The
                 measurement is given for each side of the city in repetition in
@@ -319,7 +319,7 @@ export default function Ezekiel48() {
           toward the west two hundred and fifty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There will be about a half mile laid out on each side of the
                 city called the suburbs, which will probably be left as a garden
                 or park.)
@@ -343,7 +343,7 @@ export default function Ezekiel48() {
           serve it out of all the Tribes of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Scriptures portray the fact that two sections of land
                 will be set aside, reserved for farming, on either side of the
                 city. Each side will measure approximately 17 miles long and 8
@@ -375,7 +375,7 @@ export default function Ezekiel48() {
           oblation foursquare, with the possession of the city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the area, including city, suburbs, farming
                 land, and the place of the Sanctuary, will measure about 42
                 miles long and 42 miles wide. It will be, as stated, foursquare,
@@ -412,7 +412,7 @@ export default function Ezekiel48() {
           Sanctuary of the House shall be in the midst thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The land East and West of the Holy Oblation will be for the
                 Prince of Israel. This area on both sides is called the residue.
                 It seems these portions given to him will be about 8 miles long
@@ -446,7 +446,7 @@ export default function Ezekiel48() {
           of Benjamin, shall be for the Prince.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One portion for the Prince [High Priest] will border the Tribe
                 of Judah, while the other portion will border the Tribe of
                 Benjamin. These were the two Tribes that remained true to the
@@ -506,7 +506,7 @@ export default function Ezekiel48() {
           their portions, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Divide by lot, originally referred to the Urim and the Thummim,
                 which were held by the High Priest and used to discern the Mind
                 of God [
@@ -574,7 +574,7 @@ export default function Ezekiel48() {
           city on the north side, four thousand and five hundred measures.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This final portion is dedicated to the gates, dimensions, and
                 name of the city. And these are the goings out of the city,
                 refers to the walls around the city and its measurement, which
@@ -591,7 +591,7 @@ export default function Ezekiel48() {
           Gate of Reuben, one Gate of Judah, one Gate of Levi.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This city will be foursquare, with three Gates to each side,
                 totaling twelve Gates; the names of the Tribes of Israel will be
                 on the twelve Gates.)
@@ -628,7 +628,7 @@ export default function Ezekiel48() {
           there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The city will be about 30 miles in circumference at its
                 perimeter. Even though this Glorious Name, The LORD is there, is
                 given here, this is only one of a number of new names for the

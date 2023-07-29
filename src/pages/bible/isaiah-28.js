@@ -17,7 +17,7 @@ export default function Isaiah28() {
           are on the head of the fat valleys of them who are overcome with wine!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7552766">
                   <span className="calibre_19">
@@ -56,7 +56,7 @@ export default function Isaiah28() {
           the hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mighty and strong one pertains to the king of Assyria, who
                 was to destroy the Northern Kingdom and, thereby, take the Ten
                 Tribes into captivity [II Ki., Chpt.{" "}
@@ -91,7 +91,7 @@ export default function Isaiah28() {
           Ephraim, shall be trodden under feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this crown of pride is the self-complacency and boastful spirit
                 of the Israelite people, who will be trodden under feet by the
                 Assyrians)
@@ -109,7 +109,7 @@ export default function Isaiah28() {
           it is yet in his hand he eats it up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Figs ripen in August, but some which ripen in June are
                 considered a great delicacy. Immediately, they are plucked then
                 and eaten. So would Sennacherib, the Assyrian prince, quickly
@@ -126,7 +126,7 @@ export default function Isaiah28() {
           of His People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Across the gloom of this Chapter is cast the bright ray of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7555430">
                   <span className="calibre_19">
@@ -157,7 +157,7 @@ export default function Isaiah28() {
           the gate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah came to the throne of Judah only three years before
                 the fatal siege of Samaria, the Northern Kingdom, began. It was
                 the dawn of a day of promise for the Southern Kingdom, such as
@@ -197,7 +197,7 @@ export default function Isaiah28() {
           <sup className="calibre7">7</sup>But they also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judah)</span>
+              <span className="explanation">(Judah)</span>
             </span>
           </span>{" "}
           have erred through wine, and through strong drink are out of the way;
@@ -206,7 +206,7 @@ export default function Isaiah28() {
           they err in vision, they stumble in judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The magistrates were Priests. The Preachers were Prophets.
                 These were drunk in the pulpit [they reel in Vision] and were
                 tipsy while on the bench [they stumble in judgment]. This tells
@@ -224,7 +224,7 @@ export default function Isaiah28() {
           filthiness, so that there is no place clean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah says, There is no place, referring to the fact that
                 every part of Judah, from the ruling order to the Priestly
                 order, was contaminated. It was quite an indictment!)
@@ -240,7 +240,7 @@ export default function Isaiah28() {
           the milk, and drawn from the breasts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is meant to be understood as the mocking words of
                 the scornful men of Jerusalem [
                 <ScrollLink href="/" scrollToId="#filepos7563102">
@@ -277,7 +277,7 @@ export default function Isaiah28() {
           and there a little{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hebrew word for precept is tsav and means injunction or
                 commandment. The second precept is from the Hebrew word tsavah,
                 which means to enjoin or to appoint, charge, set in order. The
@@ -308,7 +308,7 @@ export default function Isaiah28() {
           tongue will He speak to this People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, stammering lips, refers to a proper language being
                 spoken, but yet the people hearing it would not understand it.
                 Paul quoted this same Passage as it regards the Gift of Tongues
@@ -373,7 +373,7 @@ export default function Isaiah28() {
           yet they would not hear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Coupled with{" "}
                 <ScrollLink href="/" scrollToId="#filepos7559928">
                   <span className="calibre_19">
@@ -415,7 +415,7 @@ export default function Isaiah28() {
           fall backward, and be broken, and snared, and taken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning is that because they would not hear, therefore, by
                 a just judgment, will the simplicity of the Gospel become a
                 stumblingblock to them, resulting in their captivity.
@@ -445,7 +445,7 @@ export default function Isaiah28() {
           you scornful men, who rule this people which is in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah now turns from a denunciation of the Priests and
                 Prophets, who especially opposed his teaching, to a threatening
                 of the great men who guided the course of public affairs. He
@@ -464,7 +464,7 @@ export default function Isaiah28() {
           ourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the covenant of death that Isaiah was speaking of was probably
                 Judahs agreement with Egypt. It also refers to the covenant that
                 Israel will make with the Antichrist at the beginning of the
@@ -496,7 +496,7 @@ export default function Isaiah28() {
           make haste.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage speaks of the Lord Jesus Christ. As Zion was not
                 itself the Corner Stone, so the Church is not the Saviour.
                 Christ is the Stone, but sadly almost the entirety of the world
@@ -525,7 +525,7 @@ export default function Isaiah28() {
           the refuge of lies, and the waters shall overflow the hiding place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A plummet is a piece of metal on a string that makes a straight
                 line of its own weight as it hangs down. Not only is the Messiah
                 the Foundation, He is also the Plummet, i.e., He is the standard
@@ -546,7 +546,7 @@ export default function Isaiah28() {
           by it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Assyrians, like an overflowing scourge, would go through
                 Judah. The Holy Spirit is saying that the entire clever
                 arrangement by which Judah thought to avert the danger from
@@ -563,7 +563,7 @@ export default function Isaiah28() {
           by night: and it shall be a vexation only to understand the report.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, to understand the report, are an allusion to{" "}
                 <ScrollLink href="/" scrollToId="#filepos7558153">
                   <span className="calibre_19">
@@ -588,7 +588,7 @@ export default function Isaiah28() {
           can wrap himself in it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Jews will have made themselves a bed in which they can have
                 no comfort or ease, and consequently no rest. But they will only
                 have themselves to blame! This also has reference to the
@@ -607,7 +607,7 @@ export default function Isaiah28() {
           strange act.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Just as God broke forth at Gibeon and at Perazim [
                 <ScrollLink href="/samuel2-05" scrollToId="#filepos3436532">
                   <span className="calibre_19">
@@ -643,7 +643,7 @@ export default function Isaiah28() {
           Hosts a consumption, even determined upon the whole Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through the Prophet now entreats Judah to
                 repent.)
               </span>
@@ -660,7 +660,7 @@ export default function Isaiah28() {
           hearken, and hear My speech.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah at this time would in fact partially hear. Because of the
                 intercession of Hezekiah and Isaiah, God would send an Angel who
                 would kill 185,000 Assyrian soldiers. Thus, Jerusalem and Judah
@@ -676,7 +676,7 @@ export default function Isaiah28() {
           sow? does he open and break the clods of his ground?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Using a farmer as an example, the Lord in effect says that He
                 will try again to bring Judah to the place she ought to be.)
               </span>
@@ -692,7 +692,7 @@ export default function Isaiah28() {
           in their place?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The detail to which the Holy Spirit went in describing how the
                 farmer protects his land and plants the seed illustrates the
                 detail with which God had prepared the spiritual soil of Judah.)
@@ -707,7 +707,7 @@ export default function Isaiah28() {
           discretion, and does teach him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which taught man then, and that which teaches man now, is
                 the Word of God.)
               </span>
@@ -730,7 +730,7 @@ export default function Isaiah28() {
           cart, nor bruise it with his horsemen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that the farmer will not continue always threshing
                 the grain nor crunching it with his cart wheel and with his
                 horses. In other words, he will not bruise it.
@@ -761,7 +761,7 @@ export default function Isaiah28() {
           of Hosts, which is wonderful in counsel, and excellent in working.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet goes no further, but leaves his disciples to draw
                 the conclusion that Gods Own method of working will be similar
                 to the farmer threshing the grain [

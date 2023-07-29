@@ -51,7 +51,7 @@ export default function Matthew18() {
           Except you be converted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Born-Again)</span>
+              <span className="explanation">(Born-Again)</span>
             </span>
           </span>
           , and become as little children{" "}
@@ -80,13 +80,13 @@ export default function Matthew18() {
           <sup className="calibre7">4</sup>Whosoever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no exceptions to this rule)</span>
+              <span className="explanation">(no exceptions to this rule)</span>
             </span>
           </span>{" "}
           therefore shall humble himself as this little child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(requirement for greatness)</span>
+              <span className="explanation">(requirement for greatness)</span>
             </span>
           </span>
           , the same is greatest in the Kingdom of Heaven{" "}
@@ -149,7 +149,7 @@ export default function Matthew18() {
           he were drowned in the depth of the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ again uses symbolism)</span>
+              <span className="explanation">(Christ again uses symbolism)</span>
             </span>
           </span>
           .
@@ -169,7 +169,7 @@ export default function Matthew18() {
           for it must needs be that offences come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(due to the Fall)</span>
+              <span className="explanation">(due to the Fall)</span>
             </span>
           </span>
           ; but woe to that man by whom the offence cometh!{" "}
@@ -194,7 +194,7 @@ export default function Matthew18() {
           from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(symbolism)</span>
+              <span className="explanation">(symbolism)</span>
             </span>
           </span>
           : it is better for you to enter into life halt or maimed, rather than
@@ -363,20 +363,20 @@ export default function Matthew18() {
           <sup className="calibre7">15</sup>Moreover if your brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(brother in the Lord)</span>
+              <span className="explanation">(brother in the Lord)</span>
             </span>
           </span>{" "}
           shall trespass against you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sin against you)</span>
+              <span className="explanation">(sin against you)</span>
             </span>
           </span>
           , go and tell him his fault between you and him alone: if he shall
           hear you, you have gained your brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the way to settle disputes)</span>
+              <span className="explanation">(the way to settle disputes)</span>
             </span>
           </span>
           .
@@ -414,14 +414,14 @@ export default function Matthew18() {
           unto the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elders of the Church)</span>
+              <span className="explanation">(Elders of the Church)</span>
             </span>
           </span>
           : but if he neglect to hear the Church, let him be unto you as an
           heathen man and a publican{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there can be no fellowship)</span>
+              <span className="explanation">(there can be no fellowship)</span>
             </span>
           </span>
           .
@@ -538,7 +538,7 @@ export default function Matthew18() {
           <sup className="calibre7">24</sup>And when he had begun to reckon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to check the books)</span>
+              <span className="explanation">(to check the books)</span>
             </span>
           </span>
           , one was brought unto him, which owed him ten thousand talents{" "}
@@ -688,7 +688,7 @@ export default function Matthew18() {
           <sup className="calibre7">32</sup>Then his lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is Lord of all)</span>
+              <span className="explanation">(Christ is Lord of all)</span>
             </span>
           </span>
           , after that he had called him{" "}
@@ -732,7 +732,7 @@ export default function Matthew18() {
           <sup className="calibre7">34</sup>And his lord was wroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(angry)</span>
+              <span className="explanation">(angry)</span>
             </span>
           </span>
           , and delivered him to the tormentors, till he should pay all that was

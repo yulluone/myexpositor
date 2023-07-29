@@ -17,7 +17,7 @@ export default function Genesis12() {
           <sup className="calibre7">1</sup>Now the LORD had said unto Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referring to the Revelation which had been given to the
                 Patriarch a short time before; this Chapter is very important,
                 for it records the first steps of this great Believer in the
@@ -28,25 +28,25 @@ export default function Genesis12() {
           , Get thee out of your country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(separation)</span>
+              <span className="explanation">(separation)</span>
             </span>
           </span>
           , and from your kindred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(separation)</span>
+              <span className="explanation">(separation)</span>
             </span>
           </span>
           , and from your fathers house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(separation)</span>
+              <span className="explanation">(separation)</span>
             </span>
           </span>
           , unto a land that I will show you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Abraham had no choice in the matter; he
                 was to receive his orders from the Lord, and go where those
                 orders led him)
@@ -61,7 +61,7 @@ export default function Genesis12() {
           <sup className="calibre7">2</sup>And I will make of you a great Nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Nation which God made of Abraham has changed the world, and
                 exists even unto this hour; in fact, this Nation Israel still
                 has a great part to play, which will take place in the coming
@@ -72,7 +72,7 @@ export default function Genesis12() {
           , and I will bless you, and make your name great{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to Scripture, to bless means to increase; the
                 builders of the Tower of Babel sought to make us a name, whereas
                 God took this man, who forsook all, and made his name great)
@@ -82,7 +82,7 @@ export default function Genesis12() {
           ; and you shall be a blessing:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerns itself with the greatest blessing of all. It is the
                 glory of Abrahams Faith. God would give this man the meaning of
                 Salvation, which is Justification by Faith, which would come
@@ -107,7 +107,7 @@ export default function Genesis12() {
           <sup className="calibre7">3</sup>And I will bless them who bless you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to bless Israel, or any Believer, for that matter, guarantees
                 the Blessings of God)
               </span>
@@ -116,7 +116,7 @@ export default function Genesis12() {
           , and curse him who curses you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to curse Israel, or any Believer, guarantees that one will be
                 cursed by God)
               </span>
@@ -125,7 +125,7 @@ export default function Genesis12() {
           : and in you shall all families of the Earth be blessed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It speaks of Israel, which sprang from the loins of Abraham and
                 the womb of Sarah, giving the world the Word of God and, more
                 particularly, bringing the Messiah into the world. Through
@@ -142,7 +142,7 @@ export default function Genesis12() {
           spoken unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was his first surrender; there were seven in all: 1. He
                 surrenders here his native land; 2. He surrenders his family; 3.
                 He then surrenders the vale of the Jordan; 4. He then surrenders
@@ -156,7 +156,7 @@ export default function Genesis12() {
           he departed out of Haran{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit notes Abrahams age upon his departure,
                 signifying that the revelation may have come several years
                 earlier)
@@ -174,7 +174,7 @@ export default function Genesis12() {
           into the land of Canaan; and into the land of Canaan they came.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From Haran to Canaan was approximately 350 miles. Abraham had
                 318 trained men with him [
                 <ScrollLink href="/genesis-14" scrollToId="#filepos181819">
@@ -199,7 +199,7 @@ export default function Genesis12() {
           was then in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham finds the hateful, impure, and hostile Canaanite in
                 Gods land. That being an example, the young Believer expects
                 after conversion to find nothing in his nature hostile to
@@ -217,7 +217,7 @@ export default function Genesis12() {
           <sup className="calibre7">7</sup>And the LORD appeared unto Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (though the hostile Canaanite was in the land, the Lord was
                 there as well)
               </span>
@@ -226,7 +226,7 @@ export default function Genesis12() {
           , and said, Unto your seed will I give this land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the seed through Isaac, and not Ishmael; Satan has contested
                 this Promise from the very beginning, with the struggle
                 continuing even unto this hour, as it regards Israel and the
@@ -237,7 +237,7 @@ export default function Genesis12() {
           : and there built he an Altar unto the LORD, Who appeared unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar and its Sacrifice represented the Lord Jesus Christ,
                 and the price He would pay on the Cross in order to redeem
                 humanity. The Promises of God to Abraham, as are all the
@@ -255,7 +255,7 @@ export default function Genesis12() {
           on the west, and Hai on the east{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beth-el means House of God, while Hai means the heap of ruins)
               </span>
             </span>
@@ -264,7 +264,7 @@ export default function Genesis12() {
           of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar and the tent give us the two great features of
                 Abrahams character. He was a worshipper of God, hence the Cross,
                 and a stranger in the world, hence the tent. Our prayers are
@@ -281,7 +281,7 @@ export default function Genesis12() {
           toward the south{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (south was toward Egypt, which direction Abraham should not have
                 gone)
               </span>
@@ -298,7 +298,7 @@ export default function Genesis12() {
           <sup className="calibre7">10</sup>And there was a famine in the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a famine in Gods land? it was allowed by the Lord as a test of
                 Faith, as everything for the Believer is a test of Faith)
               </span>
@@ -307,7 +307,7 @@ export default function Genesis12() {
           : and Abram went down into Egypt to sojourn there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord didnt call Abram to Egypt, but rather to Canaan;
                 better to starve in Canaan, than to live in luxury in Egypt)
               </span>
@@ -322,7 +322,7 @@ export default function Genesis12() {
           come near to enter into Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is not possible to go into Egypt, spiritually speaking,
                 without partaking of Egypt)
               </span>
@@ -332,7 +332,7 @@ export default function Genesis12() {
           fair woman to look upon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now begins the repulsive picture of contemptible and abject
                 cowardice)
               </span>
@@ -355,7 +355,7 @@ export default function Genesis12() {
           because of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God had a Plan: that Plan was for Abraham and Sarah to bring a
                 son into the world, through whom ultimately the Messiah, the
                 Redeemer of the world, would come. Satan had a plan: that plan
@@ -385,7 +385,7 @@ export default function Genesis12() {
           Pharaohs house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh was the official title of the kings of Egypt. The
                 particular Monarch who occupied the Egyptian throne at the time
                 of Abrahams arrival is believed to have been Necao; with some
@@ -403,14 +403,14 @@ export default function Genesis12() {
           <sup className="calibre7">16</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaoh)</span>
+              <span className="explanation">(Pharaoh)</span>
             </span>
           </span>{" "}
           entreated Abram well for her sake: and he had sheep, and oxen, and he
           asses, and menservants, and maidservants, and she asses, and camels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of these Pharaoh gave to Abraham; the riches he acquired in
                 Egypt were nothing by comparison to the riches he stood to lose)
               </span>
@@ -425,7 +425,7 @@ export default function Genesis12() {
           house with great plagues because of Sarai Abrams wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In Canaan, Abraham was a blessing; in the land of Egypt, he is
                 a curse. In the path of faith, the Christian is likewise a
                 blessing to the world, but in the path of self-will, a curse.)
@@ -439,7 +439,7 @@ export default function Genesis12() {
           <sup className="calibre7">18</sup>And Pharaoh called Abram, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in what manner Pharaoh came to know that the plagues falling on
                 his house were because of Sarah, we arent told; Sarah was
                 blameless in this, the fault being that of Abraham)
@@ -450,7 +450,7 @@ export default function Genesis12() {
           that she was your wife?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham had told those who were representing Pharaoh that Sarah
                 was his sister. In fact, this was a half-truth. She was the
                 daughter of his father, but not the daughter of his mother [
@@ -475,7 +475,7 @@ export default function Genesis12() {
           wife, take her, and go your way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of Abrahams deception, this heathen prince hurries this
                 man of God out of his land as he would chase away a pestilence;
                 it was not Abrahams finest hour)
@@ -491,13 +491,13 @@ export default function Genesis12() {
           concerning him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>
           : and they sent him away, and his wife, and all that he had{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the mighty Pharaoh saw the Power of God, even though it was in
                 a negative way; what effect it had on him, other than this which
                 we see in the Scripture, we arent told)

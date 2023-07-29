@@ -35,13 +35,13 @@ export default function Numbers36() {
           lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           to give the land for an inheritance by lot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Urim and the Thummim)</span>
+              <span className="explanation">(the Urim and the Thummim)</span>
             </span>
           </span>{" "}
           to the Children of Israel: and my lord was commanded by the LORD to
@@ -62,7 +62,7 @@ export default function Numbers36() {
           <sup className="calibre7">4</sup>And when the Jubilee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Year of Jubilee)</span>
+              <span className="explanation">(Year of Jubilee)</span>
             </span>
           </span>{" "}
           of the Children of Israel shall be, then shall their inheritance be

@@ -35,7 +35,7 @@ export default function Philippians1() {
           , with the Bishops{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastors)</span>
+              <span className="explanation">(Pastors)</span>
             </span>
           </span>{" "}
           and Deacons:
@@ -143,7 +143,7 @@ export default function Philippians1() {
           , that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           which has begun a good work in you will perform{" "}
@@ -155,7 +155,7 @@ export default function Philippians1() {
           until the Day of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture of the Church)</span>
+              <span className="explanation">(the Rapture of the Church)</span>
             </span>
           </span>
           :
@@ -166,7 +166,7 @@ export default function Philippians1() {
           <sup className="calibre7">7</sup>Even as it is meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(necessary)</span>
+              <span className="explanation">(necessary)</span>
             </span>
           </span>{" "}
           for me to think this of you all, because I have you in my heart;
@@ -174,7 +174,9 @@ export default function Philippians1() {
           the Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the ground of his confidence)</span>
+              <span className="explanation">
+                (the ground of his confidence)
+              </span>
             </span>
           </span>
           , you all are partakers of my Grace{" "}
@@ -193,7 +195,7 @@ export default function Philippians1() {
           <sup className="calibre7">8</sup>For God is my record{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(One Who bears Testimony)</span>
+              <span className="explanation">(One Who bears Testimony)</span>
             </span>
           </span>
           , how greatly I long after you all in the bowels of Jesus Christ.{" "}
@@ -211,19 +213,21 @@ export default function Philippians1() {
           <sup className="calibre7">9</sup>And this I pray{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul prayed about everything)</span>
+              <span className="explanation">
+                (Paul prayed about everything)
+              </span>
             </span>
           </span>
           , that your love may abound yet more and more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Love that God is)</span>
+              <span className="explanation">(the Love that God is)</span>
             </span>
           </span>{" "}
           in knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(knowledge of the Cross)</span>
+              <span className="explanation">(knowledge of the Cross)</span>
             </span>
           </span>{" "}
           and{" "}
@@ -249,13 +253,13 @@ export default function Philippians1() {
           excellent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to approve by testing)</span>
+              <span className="explanation">(to approve by testing)</span>
             </span>
           </span>
           ; that you may be sincere{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pure)</span>
+              <span className="explanation">(pure)</span>
             </span>
           </span>{" "}
           and without offence{" "}
@@ -270,7 +274,7 @@ export default function Philippians1() {
           till the Day of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture of the Church)</span>
+              <span className="explanation">(the Rapture of the Church)</span>
             </span>
           </span>
           ;
@@ -742,7 +746,7 @@ export default function Philippians1() {
           <sup className="calibre7">27</sup>Only let your conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
           </span>{" "}
           be as it becomes the Gospel of Christ{" "}

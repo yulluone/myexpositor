@@ -16,7 +16,7 @@ export default function Isaiah13() {
           the son of Amoz did see.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (According to Isaiahs Prophecies, Babylon is the first city or
                 empire to be judged. And so she was! She has been, is, and will
                 be, the great enemy. She is Satans city in opposition to
@@ -33,7 +33,7 @@ export default function Isaiah13() {
           into the gates of the nobles.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage has to do with the capture of Babylon by the
                 Medes, but, even more so, it symbolizes the calling of the
                 nations to gather to fight at Armageddon.)
@@ -49,7 +49,7 @@ export default function Isaiah13() {
           in My highness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Second Coming, which will destroy the
                 Antichrist.)
               </span>
@@ -65,7 +65,7 @@ export default function Isaiah13() {
           Host of the battle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, this refers to the Battle of Armageddon and the
                 destruction of the Antichrist, which will take place at the
                 Second Coming.)
@@ -81,7 +81,7 @@ export default function Isaiah13() {
           indignation, to destroy the whole land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this time, and we continue to speak of Armageddon, the Lord
                 will lead this charge.)
               </span>
@@ -98,7 +98,7 @@ export default function Isaiah13() {
           at hand; it shall come as a destruction from the Almighty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The howling refers to Israels destitute condition during the
                 Battle of Armageddon, immediately before the Second Coming of
                 Christ; however, the Lord will definitely then come, with the
@@ -114,7 +114,7 @@ export default function Isaiah13() {
           and every mans heart shall melt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though this pertains to the near destruction of Babylon by
                 Cyrus, it portrays in an even greater way the helplessness of
                 the Antichrist and his armies at the Second Coming of Christ)
@@ -132,7 +132,7 @@ export default function Isaiah13() {
           flames.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Israels condition just before the Second Coming
                 [
                 <ScrollLink
@@ -158,7 +158,7 @@ export default function Isaiah13() {
           He shall destroy the sinners thereof out of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While these Passages have a limited reference to the near
                 destruction of Babylon by the Medes and Persians, their total
                 fulfillment awaits the coming Battle of Armageddon and the
@@ -176,7 +176,7 @@ export default function Isaiah13() {
           shine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious, none of this happened during the first
                 destruction of Babylon; however, it will happen in the last half
                 of the Great Tribulation and at the Second Coming [
@@ -201,7 +201,7 @@ export default function Isaiah13() {
           the terrible.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The proud and the terrible refer to the Antichrist in
                 particular and to all his followers in general.)
               </span>
@@ -215,7 +215,7 @@ export default function Isaiah13() {
           fine gold; even a man than the golden wedge of Ophir.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So great will be the destruction, and so many men will be
                 killed that they will be as scarce as the golden wedge of Ophir
                 [Ezek., Chpts.{" "}
@@ -239,7 +239,7 @@ export default function Isaiah13() {
           of Hosts, and in the day of His fierce anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the last nearly 2,000 years, the world has little known the
                 wrath or anger of God. During the last half of the Great
                 Tribulation, and especially during the Battle of Armageddon, His
@@ -257,7 +257,7 @@ export default function Isaiah13() {
           own people, and flee every one into his own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the great fear of the people at the exhibition
                 of the wrath and anger of the Lord, which will take place, as
                 stated, in the latter half of the Great Tribulation.)
@@ -273,7 +273,7 @@ export default function Isaiah13() {
           sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage is saying that all in the armies of the Antichrist
                 who do not flee will perish.)
               </span>
@@ -288,7 +288,7 @@ export default function Isaiah13() {
           wives ravished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Prophecies of Zechariah, which will be
                 fulfilled in totality at the Battle of Armageddon [
                 <ScrollLink href="/zechariah-14" scrollToId="#filepos10735728">
@@ -311,7 +311,7 @@ export default function Isaiah13() {
           shall not delight in it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage, as is obvious, refers to the Medes and the
                 Persians attacking Babylon and taking the city. Their object was
                 not plunder, but rather conquest and the extension of dominion.)
@@ -327,7 +327,7 @@ export default function Isaiah13() {
           their eyes shall not spare children.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah now predicts a great slaughter concerning the coming
                 invasion of Babylon by the Medes, which would take place about
                 200 years from the time of Isaiah.)
@@ -346,7 +346,7 @@ export default function Isaiah13() {
           Sodom and Gomorrah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7418438">
                   <span className="calibre_19">
@@ -386,7 +386,7 @@ export default function Isaiah13() {
           there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After the destruction of Babylon near the close of the Great
                 Tribulation [Rev., Chpt.{" "}
                 <ScrollLink href="/revelation-18" scrollToId="#filepos15089509">
@@ -419,7 +419,7 @@ export default function Isaiah13() {
           prolonged.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the coming Millennium, and even into the New Earth [Rev.,
                 Chpts.{" "}
                 <ScrollLink href="/revelation-21" scrollToId="#filepos15132674">

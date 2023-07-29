@@ -16,7 +16,7 @@ export default function Ephesians6() {
           Lord: for this is right.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means to be under authority. As well, it refers to parents
                 who know God. If not, they are to be obeyed as far as possible,
                 but not in that which violates the Scripture.)
@@ -30,7 +30,7 @@ export default function Ephesians6() {
           <sup className="calibre7">2</sup>Honour your father and mother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this is important because family Government is designed
                 to be an imitation of the Government of God)
               </span>
@@ -45,7 +45,7 @@ export default function Ephesians6() {
           may live long on the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/deuteronmy-05" scrollToId="#filepos2176567">
                   <span className="calibre_19">
@@ -78,7 +78,7 @@ export default function Ephesians6() {
           children to wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Fathers are to raise their children in
                 love and not the opposite)
               </span>
@@ -87,7 +87,7 @@ export default function Ephesians6() {
           : but bring them up in the nurture and admonition of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (raised according to the ways of the Lord, i.e., His Word)
               </span>
             </span>
@@ -103,7 +103,7 @@ export default function Ephesians6() {
           <sup className="calibre7">5</sup>Servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>
           , be obedient to them who are{" "}
@@ -115,7 +115,7 @@ export default function Ephesians6() {
           masters according to the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the slave owners were masters as it pertained to the task at
                 hand, but that only; the Lord was the Master of the soul and the
                 spirit of the individual, and the eternal well-being also)
@@ -125,7 +125,7 @@ export default function Ephesians6() {
           , with fear and trembling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually refers to fear and trembling before the Lord)
               </span>
             </span>
@@ -133,7 +133,7 @@ export default function Ephesians6() {
           , in singleness of your heart, as unto Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (consider an order by the slave master as an order from Christ)
               </span>
             </span>
@@ -146,7 +146,7 @@ export default function Ephesians6() {
           <sup className="calibre7">6</sup>Not with eyeservice, as men-pleasers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to service which is done only when one is under the
                 Masters eye, but something else when he is not watching)
               </span>
@@ -155,7 +155,7 @@ export default function Ephesians6() {
           ; but as the Servants of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were to look at themselves as servants of Christ, not of
                 men; this spirit will render excellent service to men)
               </span>
@@ -164,7 +164,7 @@ export default function Ephesians6() {
           , doing the Will of God from the heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the Will of God that we conduct ourselves like Christ)
               </span>
             </span>
@@ -178,7 +178,7 @@ export default function Ephesians6() {
           the Lord, and not to men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this means every employee, irrespective whom his employer might
                 be, is to function in his task, whatever it might be, as though
                 he is doing it to the Lord)
@@ -200,7 +200,7 @@ export default function Ephesians6() {
           bond or free.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though conscientious service may not always be rewarded by
                 earthly employers, it definitely will not be overlooked by the
                 Lord.)
@@ -215,7 +215,7 @@ export default function Ephesians6() {
           unto them, forbearing threatening{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Christian Masters, of which there definitely were
                 some, were to treat their Christian slaves, or any slave for
                 that matter, with kindness and respect)
@@ -225,7 +225,7 @@ export default function Ephesians6() {
           : knowing that your Master also is in Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thereby overlooking both the employer and the employee in using
                 todays terminology)
               </span>
@@ -234,7 +234,7 @@ export default function Ephesians6() {
           ; neither is there respect of persons with Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He looks at one as he looks at the other.)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Ephesians6() {
           the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (be continually strengthened, which one does by constant Faith
                 in the Cross)
               </span>
@@ -259,7 +259,7 @@ export default function Ephesians6() {
           , and in the power of His Might.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This power is at our disposal. The Source is the Holy Spirit,
                 but the Means is the Cross [
                 <ScrollLink
@@ -283,13 +283,13 @@ export default function Ephesians6() {
           <sup className="calibre7">11</sup>Put on the whole Armour of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not just some, but all)</span>
+              <span className="explanation">(not just some, but all)</span>
             </span>
           </span>
           , that you may be able to stand against the wiles of the Devil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the stratagems of Satan.)
               </span>
             </span>
@@ -302,7 +302,7 @@ export default function Ephesians6() {
           blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our foes are not human; however, Satan constantly uses human
                 beings to carry out his dirty work)
               </span>
@@ -311,7 +311,7 @@ export default function Ephesians6() {
           , but against principalities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (rulers or beings of the highest rank and order in Satans
                 kingdom)
               </span>
@@ -320,7 +320,7 @@ export default function Ephesians6() {
           , against powers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the rank immediately below the Principalities)
               </span>
             </span>
@@ -328,7 +328,7 @@ export default function Ephesians6() {
           , against the rulers of the darkness of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who carry out the instructions of the Powers)
               </span>
             </span>
@@ -339,7 +339,7 @@ export default function Ephesians6() {
               <span className="calibre_19">places.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to demon spirits.)
               </span>
             </span>
@@ -355,13 +355,13 @@ export default function Ephesians6() {
           Armour of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of what we face)</span>
+              <span className="explanation">(because of what we face)</span>
             </span>
           </span>
           , that you may be able to withstand in the evil day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to resisting and opposing the powers of darkness)
               </span>
             </span>
@@ -369,7 +369,7 @@ export default function Ephesians6() {
           , and having done all, to stand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Believer not giving ground, not a single
                 inch.)
               </span>
@@ -383,13 +383,13 @@ export default function Ephesians6() {
           gird about with Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Truth of the Cross)</span>
+              <span className="explanation">(the Truth of the Cross)</span>
             </span>
           </span>
           , and having on the Breastplate of Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Righteousness of Christ, which comes strictly by and
                 through the Cross)
               </span>
@@ -404,7 +404,7 @@ export default function Ephesians6() {
           preparation of the Gospel of Peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (peace comes through the Cross as well)
               </span>
             </span>
@@ -418,7 +418,7 @@ export default function Ephesians6() {
           Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (ever making the Cross the Object of your Faith, which is the
                 only Faith God will recognize, and the only Faith Satan will
                 recognize)
@@ -429,7 +429,7 @@ export default function Ephesians6() {
           wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This represents temptations with which Satan assails the
                 Saints.)
               </span>
@@ -442,7 +442,7 @@ export default function Ephesians6() {
           <sup className="calibre7">17</sup>And take the Helmet of Salvation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with the renewing of the mind, which is done by
                 understanding that everything we receive from the Lord, comes to
                 us through the Cross)
@@ -452,7 +452,7 @@ export default function Ephesians6() {
           , and the Sword of the Spirit, which is the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word of God is the Story of Christ and the Cross)
               </span>
             </span>
@@ -466,7 +466,7 @@ export default function Ephesians6() {
           supplication in the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (an incessant pleading until the prayer is answered [
                 <ScrollLink href="/luke-18" scrollToId="#filepos12108457">
                   <span className="calibre_19">
@@ -482,7 +482,7 @@ export default function Ephesians6() {
           , and watching thereunto{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (being sensitive to what the Holy Spirit desires)
               </span>
             </span>
@@ -490,19 +490,19 @@ export default function Ephesians6() {
           with all perseverance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont stop)</span>
+              <span className="explanation">(dont stop)</span>
             </span>
           </span>{" "}
           and supplication{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(petitions and requests)</span>
+              <span className="explanation">(petitions and requests)</span>
             </span>
           </span>{" "}
           for all Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Saints praying for other Saints)
               </span>
             </span>
@@ -515,13 +515,13 @@ export default function Ephesians6() {
           <sup className="calibre7">19</sup>And for me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pray for me)</span>
+              <span className="explanation">(pray for me)</span>
             </span>
           </span>
           , that utterance may be given unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pray that the Lord would anoint him to Preach and Teach)
               </span>
             </span>
@@ -529,7 +529,7 @@ export default function Ephesians6() {
           , that I may open my mouth boldly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to being fearless and confident in the presentation of
                 the Gospel)
               </span>
@@ -538,7 +538,7 @@ export default function Ephesians6() {
           , to make known the Mystery of the Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to properly Preach and Teach the New Covenant, which is the
                 story of the Cross)
               </span>
@@ -552,19 +552,19 @@ export default function Ephesians6() {
           <sup className="calibre7">20</sup>For which I am an Ambassador{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for Christ)</span>
+              <span className="explanation">(for Christ)</span>
             </span>
           </span>{" "}
           in bonds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a prisoner)</span>
+              <span className="explanation">(a prisoner)</span>
             </span>
           </span>
           : that therein I may speak boldly, as I ought to speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that he would not allow the persecution to stop him from
                 Preaching as he should Preach)
               </span>
@@ -589,7 +589,7 @@ export default function Ephesians6() {
           Lord, shall make known to you all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, Tychicus was with Paul for a period of time while he
                 was imprisoned in Rome; he would inform the Ephesians of Pauls
                 state)
@@ -622,7 +622,7 @@ export default function Ephesians6() {
           to the Brethren, and Love with Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Love springing forth from Faith, which ever speaks of
                 the Cross as its Object)
               </span>
@@ -631,7 +631,7 @@ export default function Ephesians6() {
           , from God the Father and the Lord Jesus Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that what all Believers receive from
                 God the Father comes through the Lord Jesus Christ, with the
                 Cross being the means of such things.)
@@ -651,7 +651,7 @@ export default function Ephesians6() {
           with all them who love our Lord Jesus Christ in sincerity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Love is sincere, it will be based strictly in the Cross
                 of Christ.)
               </span>

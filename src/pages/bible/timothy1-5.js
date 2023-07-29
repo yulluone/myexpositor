@@ -44,7 +44,7 @@ export default function Timothy15() {
           the younger men as Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Christ, we are family)</span>
+              <span className="explanation">(in Christ, we are family)</span>
             </span>
           </span>
           ;
@@ -119,7 +119,7 @@ export default function Timothy15() {
           <sup className="calibre7">5</sup>Now she who is a widow indeed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(truly)</span>
+              <span className="explanation">(truly)</span>
             </span>
           </span>
           , and desolate{" "}
@@ -226,13 +226,13 @@ export default function Timothy15() {
           number{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cared for by the Church)</span>
+              <span className="explanation">(cared for by the Church)</span>
             </span>
           </span>{" "}
           under threescore years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(60 years old)</span>
+              <span className="explanation">(60 years old)</span>
             </span>
           </span>
           , having been the wife of one man{" "}
@@ -251,7 +251,7 @@ export default function Timothy15() {
           <sup className="calibre7">10</sup>Well reported of for good works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not a busybody)</span>
+              <span className="explanation">(not a busybody)</span>
             </span>
           </span>
           ; if she have brought up children{" "}
@@ -266,19 +266,19 @@ export default function Timothy15() {
           , if she have lodged strangers, if she have washed the Saints feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hospitable)</span>
+              <span className="explanation">(hospitable)</span>
             </span>
           </span>
           , if she have relieved the afflicted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those in distress)</span>
+              <span className="explanation">(those in distress)</span>
             </span>
           </span>
           , if she have diligently followed every good work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(her life portrays this)</span>
+              <span className="explanation">(her life portrays this)</span>
             </span>
           </span>
           .
@@ -450,13 +450,13 @@ export default function Timothy15() {
           <sup className="calibre7">17</sup>Let the Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastors in this case)</span>
+              <span className="explanation">(Pastors in this case)</span>
             </span>
           </span>{" "}
           who rule well be counted worthy of double honour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(respect and regard)</span>
+              <span className="explanation">(respect and regard)</span>
             </span>
           </span>
           , especially they who labour in the Word and Doctrine{" "}
@@ -533,7 +533,7 @@ export default function Timothy15() {
           <sup className="calibre7">19</sup>Against an Elder{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastor)</span>
+              <span className="explanation">(Pastor)</span>
             </span>
           </span>{" "}
           receive not an accusation, but before two or three witnesses.{" "}
@@ -706,7 +706,7 @@ export default function Timothy15() {
           they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sins)</span>
+              <span className="explanation">(the sins)</span>
             </span>
           </span>{" "}
           follow after{" "}

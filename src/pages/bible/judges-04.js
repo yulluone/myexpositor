@@ -38,7 +38,7 @@ export default function Judges04() {
           the LORD: for he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sisera)</span>
+              <span className="explanation">(Sisera)</span>
             </span>
           </span>{" "}
           had nine hundred chariots of iron; and twenty years he mightily
@@ -129,7 +129,7 @@ export default function Judges04() {
           multitude; and I will deliver him into your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the Promise)</span>
+              <span className="explanation">(this is the Promise)</span>
             </span>
           </span>
         </span>
@@ -180,7 +180,7 @@ export default function Judges04() {
           and Deborah went up with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(10,000 men went with him)</span>
+              <span className="explanation">(10,000 men went with him)</span>
             </span>
           </span>
         </span>
@@ -207,7 +207,7 @@ export default function Judges04() {
           were with him, from Harosheth of the Gentiles unto the river of Kishon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a formidable army)</span>
+              <span className="explanation">(a formidable army)</span>
             </span>
           </span>
         </span>
@@ -275,7 +275,9 @@ export default function Judges04() {
           between Jabin the king of Hazor and the house of Heber the Kenite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jabin was the king of Canaan)</span>
+              <span className="explanation">
+                (Jabin was the king of Canaan)
+              </span>
             </span>
           </span>
         </span>
@@ -379,7 +381,7 @@ export default function Judges04() {
           until they had destroyed Jabin king of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a tremendous victory!)</span>
+              <span className="explanation">(a tremendous victory!)</span>
             </span>
           </span>
         </span>

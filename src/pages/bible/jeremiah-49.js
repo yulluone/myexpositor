@@ -554,14 +554,14 @@ export default function Jeremiah49() {
           LORD, that He has taken against Edom; and His purposes, that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has purposed against the inhabitants of Teman: Surely the least of the
           flock shall draw them out: surely he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nebuchadnezzar)</span>
+              <span className="explanation">(Nebuchadnezzar)</span>
             </span>
           </span>{" "}
           shall make their habitations desolate with them.{" "}
@@ -611,7 +611,7 @@ export default function Jeremiah49() {
           <sup className="calibre7">22</sup>Behold, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nebuchadnezzar)</span>
+              <span className="explanation">(Nebuchadnezzar)</span>
             </span>
           </span>{" "}
           shall come up and fly as the eagle, and spread his wings over Bozrah:

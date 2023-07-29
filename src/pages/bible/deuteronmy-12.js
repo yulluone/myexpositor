@@ -26,7 +26,7 @@ export default function Deuteronmy12() {
           tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all places of idol worship, wherever they were found, were to
                 be totally and completely destroyed, when Israel entered the
                 land)
@@ -44,7 +44,7 @@ export default function Deuteronmy12() {
           of them out of that place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were to utterly destroy everything having even a remote
                 connection with idolatry)
               </span>
@@ -59,7 +59,7 @@ export default function Deuteronmy12() {
           your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was not to build altars, as did the heathen, but was to
                 have one designated place)
               </span>
@@ -78,7 +78,7 @@ export default function Deuteronmy12() {
           even unto His habitation shall you seek, and there you shall come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the one center for national worship foreshadowed Calvary, to
                 which, in spirit, all must go in order to meet God, and worship
                 Him; one center for worship secured purity of doctrine and
@@ -105,7 +105,7 @@ export default function Deuteronmy12() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it is to be noticed, the Lord, at this time, did not tell
                 Israel as to where that place would be)
               </span>
@@ -127,7 +127,7 @@ export default function Deuteronmy12() {
           rest and to the inheritance, which the LORD your God gives you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (upon entering Canaan, the Lord would bring about a more
                 structured government, all based on the Law)
               </span>
@@ -161,7 +161,7 @@ export default function Deuteronmy12() {
           gates; forasmuch as he has no part nor inheritance with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this is repeatedly presented as a scene of rejoicing;
                 even slaves were to have their share in the joy)
               </span>
@@ -183,7 +183,7 @@ export default function Deuteronmy12() {
           Offerings, and there you shall do all that I command you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while there were definitely set places in Israel where the
                 Tabernacle was pitched, still, it was not until the Temple was
                 built by Solomon that a permanent place was established, which
@@ -203,7 +203,7 @@ export default function Deuteronmy12() {
           of the hart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they could feel free to kill and eat that which they desired,
                 but it must not be a Sacrifice)
               </span>
@@ -218,7 +218,7 @@ export default function Deuteronmy12() {
           you shall pour it upon the earth as water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the life of the flesh is in the blood; Jesus would shed His
                 Blood in order to obtain Salvation for Adams fallen race;
                 consequently, the blood is never to be eaten, and is to be
@@ -240,7 +240,7 @@ export default function Deuteronmy12() {
           you vowed, nor your Freewill Offerings, or Heave Offering of your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these had to do with the Peace Offerings and such, or anything
                 dedicated to the Lord)
               </span>
@@ -258,7 +258,7 @@ export default function Deuteronmy12() {
           rejoice before the LORD your God in all that you put your hands unto.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord would appoint a place, which would be where the
                 Tabernacle was located, and then, later on, the Temple, which
                 would be situated in Jerusalem. If the Offering entailed a
@@ -279,7 +279,7 @@ export default function Deuteronmy12() {
           forsake not the Levite as long as you live upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Levites tended the things of the Lord, without which the
                 people could not approach God; in a sense, the fivefold Ministry
                 presently serves in that capacity [
@@ -305,7 +305,7 @@ export default function Deuteronmy12() {
           whatsoever your soul lusteth after{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(desires)</span>
+              <span className="explanation">(desires)</span>
             </span>
           </span>
         </span>
@@ -318,7 +318,7 @@ export default function Deuteronmy12() {
           kill of your herd and of your flock, which the LORD has given you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all prosperity for the Believer is made possible solely by the
                 Lord)
               </span>
@@ -328,7 +328,7 @@ export default function Deuteronmy12() {
           your soul lusts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seeks)</span>
+              <span className="explanation">(seeks)</span>
             </span>
           </span>{" "}
           after.
@@ -341,7 +341,7 @@ export default function Deuteronmy12() {
           them alike{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to animals not offered in Sacrifice)
               </span>
             </span>
@@ -356,7 +356,7 @@ export default function Deuteronmy12() {
           the flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Expositors say, The Hebrew word used is
                 nephesh. By this word, the Hebrews designated the animal
                 life-principle in men and in beasts; and as without this the
@@ -415,7 +415,7 @@ export default function Deuteronmy12() {
           Altar of the LORD your God, and you shall eat the flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture points to the fact as to why the blood is so
                 sacred. The Altar represented the Cross, and the blood typified
                 the poured out Life of the Son of God, Who would give Himself
@@ -451,7 +451,7 @@ export default function Deuteronmy12() {
           in the sight of the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord required obedience)</span>
+              <span className="explanation">(the Lord required obedience)</span>
             </span>
           </span>
         </span>
@@ -472,7 +472,7 @@ export default function Deuteronmy12() {
           nations serve their gods? even so will I do likewise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont emulate the heathen and, as well, we presently are not to
                 emulate the world)
               </span>
@@ -489,7 +489,7 @@ export default function Deuteronmy12() {
           have burnt in the fire to their gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human sacrifices)</span>
+              <span className="explanation">(human sacrifices)</span>
             </span>
           </span>
         </span>
@@ -501,7 +501,7 @@ export default function Deuteronmy12() {
           observe to do it: you shall not add thereto, nor diminish from it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont add to My Word, or take from My Word)
               </span>
             </span>

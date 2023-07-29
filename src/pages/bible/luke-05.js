@@ -17,7 +17,7 @@ export default function Luke05() {
           of Gennesaret{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sea of Galilee)</span>
+              <span className="explanation">(the Sea of Galilee)</span>
             </span>
           </span>
           ,
@@ -29,7 +29,7 @@ export default function Luke05() {
           lake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(two among the many)</span>
+              <span className="explanation">(two among the many)</span>
             </span>
           </span>
           : but the fishermen were gone out of them, and were washing{" "}
@@ -66,7 +66,7 @@ export default function Luke05() {
           He sat down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the custom then)</span>
+              <span className="explanation">(the custom then)</span>
             </span>
           </span>
           , and taught the people out of the ship.
@@ -455,7 +455,9 @@ export default function Luke05() {
           <sup className="calibre7">20</sup>And when He saw their faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(true Faith always has action)</span>
+              <span className="explanation">
+                (true Faith always has action)
+              </span>
             </span>
           </span>
           , He said unto him, Man, your sins are forgiven you{" "}
@@ -530,7 +532,7 @@ export default function Luke05() {
           of Man has power upon earth to forgive sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to prove that power)</span>
+              <span className="explanation">(to prove that power)</span>
             </span>
           </span>
           , (He said unto the sick of the palsy,) I say unto you, Arise, and
@@ -551,7 +553,7 @@ export default function Luke05() {
           , and took up that whereon he lay{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(carried his own bed)</span>
+              <span className="explanation">(carried his own bed)</span>
             </span>
           </span>
           , and departed to his own house, Glorifying God{" "}
@@ -571,7 +573,7 @@ export default function Luke05() {
           <sup className="calibre7">26</sup>And they were all amazed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Truth was incontestable)</span>
+              <span className="explanation">(the Truth was incontestable)</span>
             </span>
           </span>
           , and they Glorified God{" "}
@@ -603,13 +605,13 @@ export default function Luke05() {
           forth, and saw a Publican{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a tax-collector)</span>
+              <span className="explanation">(a tax-collector)</span>
             </span>
           </span>
           , named Levi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Matthew)</span>
+              <span className="explanation">(Matthew)</span>
             </span>
           </span>
           , sitting at the receipt of custom{" "}
@@ -627,13 +629,13 @@ export default function Luke05() {
           : and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Matthew)</span>
+              <span className="explanation">(Matthew)</span>
             </span>
           </span>
           , Follow Me{" "}
@@ -667,7 +669,7 @@ export default function Luke05() {
           <sup className="calibre7">29</sup>And Levi made Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           a great feast in his own house{" "}
@@ -816,13 +818,13 @@ export default function Luke05() {
           bridegroom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           shall be taken away from them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>
           , and then shall they fast in those days{" "}
@@ -870,7 +872,7 @@ export default function Luke05() {
           bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wineskins)</span>
+              <span className="explanation">(wineskins)</span>
             </span>
           </span>
           ; else the new wine will burst the bottles, and be spilled, and the
@@ -891,13 +893,13 @@ export default function Luke05() {
           <sup className="calibre7">38</sup>But new wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(New Covenant)</span>
+              <span className="explanation">(New Covenant)</span>
             </span>
           </span>{" "}
           must be put into new bottles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(new skins)</span>
+              <span className="explanation">(new skins)</span>
             </span>
           </span>
           ; and both are preserved{" "}
@@ -925,7 +927,7 @@ export default function Luke05() {
           straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           desires new: for he says, The old is better{" "}

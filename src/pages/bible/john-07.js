@@ -175,7 +175,7 @@ export default function John07() {
           ; but Me it hates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the world of religion),</span>
+              <span className="explanation">(the world of religion),</span>
             </span>
           </span>{" "}
           because I testify of it, that the works thereof are evil{" "}
@@ -302,7 +302,7 @@ export default function John07() {
           <sup className="calibre7">13</sup>Howbeit no man spoke openly of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(spoke favorably)</span>
+              <span className="explanation">(spoke favorably)</span>
             </span>
           </span>{" "}
           for fear of the Jews.
@@ -360,7 +360,7 @@ export default function John07() {
           <sup className="calibre7">17</sup>If any man will do His Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is willing to do Gods Will)</span>
+              <span className="explanation">(is willing to do Gods Will)</span>
             </span>
           </span>
           , he shall know of the Doctrine, whether it be of God, or{" "}
@@ -397,7 +397,7 @@ export default function John07() {
           : but he who seeks His Glory Who sent him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seeks to bring glory to God)</span>
+              <span className="explanation">(seeks to bring glory to God)</span>
             </span>
           </span>
           , the same is true, and no unrighteousness is in Him{" "}
@@ -953,7 +953,7 @@ export default function John07() {
           , out of his belly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(innermost being)</span>
+              <span className="explanation">(innermost being)</span>
             </span>
           </span>{" "}
           shall flow rivers of Living Water{" "}
@@ -972,7 +972,7 @@ export default function John07() {
           <sup className="calibre7">39</sup>(But this spoke He of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>
           , which they who believe on Him should receive{" "}
@@ -989,7 +989,7 @@ export default function John07() {
               <span className="calibre_19">given</span>
             </span>
             <span>
-              <span className="calibre_19">(He has now been given);</span>
+              <span className="explanation">(He has now been given);</span>
             </span>
           </span>{" "}
           because that Jesus was not yet glorified.){" "}
@@ -1119,7 +1119,7 @@ export default function John07() {
           Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(would have arrested Him)</span>
+              <span className="explanation">(would have arrested Him)</span>
             </span>
           </span>
           ; but no man laid hands on Him{" "}
@@ -1155,7 +1155,7 @@ export default function John07() {
           ; and they said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said to the officers)</span>
+              <span className="explanation">(said to the officers)</span>
             </span>
           </span>
           , Why have you not brought Him?{" "}
@@ -1281,7 +1281,7 @@ export default function John07() {
           <sup className="calibre7">52</sup>They answered and said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Nicodemus)</span>
+              <span className="explanation">(to Nicodemus)</span>
             </span>
           </span>
           , Are you also of Galilee? Search, and look: for out of Galilee arises

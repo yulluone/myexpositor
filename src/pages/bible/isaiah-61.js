@@ -18,7 +18,7 @@ export default function Isaiah61() {
           to the captives, and the opening of the prison to them who are bound{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first nine{" "}
                 <ScrollLink href="/" scrollToId="#filepos8031080">
                   <span className="calibre_19">
@@ -111,7 +111,7 @@ export default function Isaiah61() {
           mourn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the Year of Jubilee, as proclaimed in{" "}
                 <ScrollLink href="/leviticus-25" scrollToId="#filepos1622885">
                   <span className="calibre_19">
@@ -194,7 +194,7 @@ export default function Isaiah61() {
           be glorified.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beauty refers to a nuptial crown. Wood ashes placed upon the
                 head expressed mourning, a nuptial garland signified gladness.
                 The trees of this Verse are the redeemed of{" "}
@@ -233,7 +233,7 @@ export default function Isaiah61() {
           waste cities, the desolations of many generations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To assure the reality of these statements, they are repeated.
                 Thus, the first and third lines of the Verse predict the
                 rebuilding of the deserted cities, and the second and fourth
@@ -288,7 +288,7 @@ export default function Isaiah61() {
           vinedressers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To the proud nations of the past and present, it was, and is, a
                 degradation to be associated thus with the Jew; but in the
                 future it will be an honor, but only because of Israels
@@ -306,7 +306,7 @@ export default function Isaiah61() {
           yourselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that day of Restoration, the entire nation of Israel will be
                 a nation of Priests and Ministers, and will act as such in
                 relation to God and the inhabited world. Actually, what God
@@ -340,7 +340,7 @@ export default function Isaiah61() {
           unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Possessing the double pertained to the following:
               </span>
             </span>
@@ -388,7 +388,7 @@ export default function Isaiah61() {
           I will make an Everlasting Covenant with them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word judgment here is justice. Hence, the Lord loves
                 fairness, equality, correct measures, honesty, integrity,
                 truthfulness, and rightness. I hate robbery for Burnt Offering,
@@ -423,7 +423,7 @@ export default function Isaiah61() {
           blessed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that day, the restored sons of Jacob will be a testimony to
                 the moral glory of the Messiah. The Seed actually refers to
                 Christ [
@@ -454,7 +454,7 @@ export default function Isaiah61() {
           bride adorns herself with her jewels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Christ and His ornamentation by the Father. In
                 the Incarnation, He lived as a Peasant, and was despised and
                 rejected of men; still, the Lord has blessed this Seed, and has
@@ -538,7 +538,7 @@ export default function Isaiah61() {
           forth before all the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adonai-Jehovah will introduce a government which will evoke
                 praise. Until then, all mans efforts to set up a praiseworthy
                 rule in the Earth will be fruitless. At the present, wickedness,

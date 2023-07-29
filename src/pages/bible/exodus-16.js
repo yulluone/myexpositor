@@ -21,7 +21,7 @@ export default function Exodus16() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This First Verse tells us that the Children of Israel had been
                 on the road exactly one month, having left Egypt the fifteenth
                 of the first month. It must be remembered that the Pillar of the
@@ -39,7 +39,7 @@ export default function Exodus16() {
           Children of Israel murmured against Moses and Aaron in the wilderness:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we murmur against Gods man or woman, we have, in effect,
                 murmured against God. Pink says: Here was the selfsame people
                 who had been Divinely spared from the ten plagues on Egypt, who
@@ -58,7 +58,7 @@ export default function Exodus16() {
           Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as we read these words, we are reading an oath; this means that
                 their sin was aggravated by an oath; they took the Divine Name
                 in vain; the future proves the fact that they got exactly that
@@ -71,7 +71,7 @@ export default function Exodus16() {
           , when we sat by the flesh pots, and when we did eat bread to the full{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they lied! as slaves of the merciless Egyptians, there is no
                 ground whatsoever for us to suppose that they sat by the flesh
                 pots or ate bread to the full; unbelief is always based on a
@@ -83,7 +83,7 @@ export default function Exodus16() {
           whole assembly with hunger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God had promised that they should worship Him at Sinai [
                 <ScrollLink href="/exodus-03" scrollToId="#filepos710950">
                   <span className="calibre_19">
@@ -106,7 +106,7 @@ export default function Exodus16() {
           Behold, I will rain bread from Heaven for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Manna prefigured the descent of the True Bread, of which if
                 a man eat he shall live forever [
                 <ScrollLink href="/john-06" scrollToId="#filepos12420407">
@@ -123,7 +123,7 @@ export default function Exodus16() {
           ; and the people shall go out and gather a certain rate every day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proclaims the fact that we are to partake of Christ every
                 day)
               </span>
@@ -132,7 +132,7 @@ export default function Exodus16() {
           , that I may prove them, whether they will walk in My Law, or no.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything the Lord does with us is to prove us. How will we
                 act? How will we react?)
               </span>
@@ -147,7 +147,7 @@ export default function Exodus16() {
           shall be twice as much as they gather daily.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were to gather twice as much on the sixth day as they had
                 on the previous days, but which the Lord would miraculously
                 multiply, in order that they may have sustenance the next day,
@@ -165,7 +165,7 @@ export default function Exodus16() {
           brought you out from the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Moses didnt record it here,{" "}
                 <ScrollLink href="/" scrollToId="#filepos918410">
                   <span className="calibre_19">
@@ -188,7 +188,7 @@ export default function Exodus16() {
           the LORD: and what are we, that you murmur against us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The next morning, the Manna was sent. The murmurings of{" "}
                 <ScrollLink href="/" scrollToId="#filepos914266">
                   <span className="calibre_19">
@@ -225,7 +225,7 @@ export default function Exodus16() {
           against us, but against the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos915442">
                   <span className="calibre_19">
@@ -260,7 +260,7 @@ export default function Exodus16() {
           LORD: for He has heard your murmurings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those in positions of Godly leadership do not hear all the
                 murmurs of those whom they are attempting to lead. It is well
                 that we do not, perhaps because we could not bear it: but God
@@ -278,7 +278,7 @@ export default function Exodus16() {
           appeared in the Cloud.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse seems to indicate that the entirety of the Children
                 of Israel should present themselves as a whole congregation to
                 the Lord. Concerning the Glory of the Lord appearing in the
@@ -303,19 +303,19 @@ export default function Exodus16() {
           flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the quail)</span>
+              <span className="explanation">(the quail)</span>
             </span>
           </span>
           , and in the morning you shall be filled with bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Manna)</span>
+              <span className="explanation">(the Manna)</span>
             </span>
           </span>
           ; and you shall know that I am the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Past miracles are convincing. But unless there are fresh
                 evidences of God, the natural man will soon forget and lapse
                 into unbelief again. Murmuring was the first sin committed by
@@ -336,7 +336,7 @@ export default function Exodus16() {
           lay round about the host.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that the quails, as appears by the subsequent
                 narrative, were supplied, not regularly, but only on rare
                 occasions; in fact [so far as appears] only here in the
@@ -372,7 +372,7 @@ export default function Exodus16() {
           given you to eat.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Manna was so precious that it could not bear contact with
                 the Earth. It fell upon the dew and had to be gathered before
                 the Sun came up. This teaches us that yesterdays blessing will
@@ -392,7 +392,7 @@ export default function Exodus16() {
           for them which are in his tents.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In Egypt, Israel had slave food; in the desert, Angels food.
                 The test quickly revealed that the natural man had little
                 appetite for Heavenly things, for the people soon called it
@@ -408,7 +408,7 @@ export default function Exodus16() {
           and gathered, some more, some less.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel in the desert presented a striking picture! Egypt was
                 behind them, Canaan was before them, the wilderness was around
                 them, and the Manna was above them.)
@@ -423,7 +423,7 @@ export default function Exodus16() {
           omer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (an omer is the equivalent of six pints; considering there were
                 approximately 3 million people, this would play out to some 18
                 million pints, or about 13.5 million pounds gathered daily; to
@@ -439,7 +439,7 @@ export default function Exodus16() {
           had no lack{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christians who hoard money will find that it will not grow as
                 they think; Christians who give generously to the Work of God
                 will find that personally, and for their family, they will have
@@ -450,7 +450,7 @@ export default function Exodus16() {
           ; they gathered every man according to his eating.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which the Lord gives to us as Believers should be used
                 according to our need, and the balance be given to the Work of
                 God; however, we must make certain that what we are supporting
@@ -466,7 +466,7 @@ export default function Exodus16() {
           it till the morning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What they gathered, they were to eat. None was to be left over
                 for the next day. This means that we must partake of Christ
                 every day. As well, what we receive today from the Lord will not
@@ -484,7 +484,7 @@ export default function Exodus16() {
           worms, and stank: and Moses was angry with them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which some Christians are trying to present to the world
                 stinks, at least in the nostrils of God, because it is someone
                 elses vision, or yesterdays blessing.)
@@ -500,7 +500,7 @@ export default function Exodus16() {
           melted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus must the Christian feed upon Christ every day.)
               </span>
             </span>
@@ -514,7 +514,7 @@ export default function Exodus16() {
           and all the rulers of the congregation came and told Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were allowed to gather twice as much on the sixth day,
                 because the Manna would not fall on the seventh day.)
               </span>
@@ -534,7 +534,7 @@ export default function Exodus16() {
           until the morning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The day of rest here suddenly reappears after a silence of more
                 than 2,000 years. Redemption being accomplished, typified by
                 deliverance from Egypt, the Sabbath is gifted to Israel. The
@@ -552,14 +552,14 @@ export default function Exodus16() {
           <sup className="calibre7">24</sup>And they laid it up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Manna)</span>
+              <span className="explanation">(the Manna)</span>
             </span>
           </span>{" "}
           till the morning, as Moses bade: and it did not stink, neither was
           there any worm therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the double amount gathered on Friday, with the leftover to be
                 used on Saturday)
               </span>
@@ -574,7 +574,7 @@ export default function Exodus16() {
           today is a Sabbath unto the LORD: today you shall not find it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Manna)</span>
+              <span className="explanation">(the Manna)</span>
             </span>
           </span>{" "}
           in the field.
@@ -593,7 +593,7 @@ export default function Exodus16() {
           found none.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man has little heart for Gods rest. His nature is bad. He can
                 neither rest with, nor work for, God. If God makes a rest for
                 him, he will not keep it; and if God tells him to work, he will
@@ -625,7 +625,7 @@ export default function Exodus16() {
           day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, this particular day, the Sabbath, commanded by God
                 for Israel to keep, was meant to serve as a Type of Christ, and
                 the rest He would give, on acceptance of Him [
@@ -649,7 +649,7 @@ export default function Exodus16() {
           taste of it was like wafers made with honey.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Manna was a provision made for Gods people. It was not a
                 question of Redemption, that having been obtained by the Blood
                 at the Cross, and there alone. Manna was meant to proclaim
@@ -672,7 +672,7 @@ export default function Exodus16() {
           the wilderness, when I brought you forth from the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A container of Manna was to be kept as a most precious memorial
                 of the faithfulness of God. Whereas the Manna held over would
                 normally breed worms and stink, the Manna addressed here in this
@@ -697,7 +697,7 @@ export default function Exodus16() {
           Aaron laid it up before the Testimony, to be kept.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Testimony was the Ten Commandments, kept on two tablets of
                 stone, and preserved in the Ark of the Covenant.)
               </span>

@@ -16,7 +16,7 @@ export default function Samuel121() {
           the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(High Priest)</span>
+              <span className="explanation">(High Priest)</span>
             </span>
           </span>
           : and Ahimelech was afraid at the meeting of David, and said unto him,
@@ -40,7 +40,7 @@ export default function Samuel121() {
           Priest, The king has commanded me a business{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which was a lie)</span>
+              <span className="explanation">(which was a lie)</span>
             </span>
           </span>
           , and has said unto me, Let no man know anything of the business

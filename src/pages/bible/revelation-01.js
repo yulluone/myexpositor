@@ -402,7 +402,7 @@ export default function Revelation01() {
           on the Lords Day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sunday)</span>
+              <span className="explanation">(Sunday)</span>
             </span>
           </span>
           , and heard behind me a great Voice, as of a trumpet{" "}
@@ -424,7 +424,7 @@ export default function Revelation01() {
           First and the Last{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is all in all)</span>
+              <span className="explanation">(Christ is all in all)</span>
             </span>
           </span>
           : and, What you see, write in a Book{" "}
@@ -522,7 +522,7 @@ export default function Revelation01() {
           white like wool, as white as snow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Majesty and Authority)</span>
+              <span className="explanation">(Majesty and Authority)</span>
             </span>
           </span>
           ; and His Eyes{" "}
@@ -556,7 +556,7 @@ export default function Revelation01() {
           ; and His Voice as the sound of many waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Voice of Power)</span>
+              <span className="explanation">(the Voice of Power)</span>
             </span>
           </span>
           .
@@ -576,7 +576,7 @@ export default function Revelation01() {
           : and out of His Mouth went a sharp twoedged Sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(represents the Word of God)</span>
+              <span className="explanation">(represents the Word of God)</span>
             </span>
           </span>
           : and His Countenance{" "}
@@ -588,7 +588,7 @@ export default function Revelation01() {
           as the sun shines in His Strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(represents His Glory)</span>
+              <span className="explanation">(represents His Glory)</span>
             </span>
           </span>
           .
@@ -764,7 +764,7 @@ export default function Revelation01() {
           , and the Seven Golden Candlesticks. The Seven Stars are the Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastors)</span>
+              <span className="explanation">(Pastors)</span>
             </span>
           </span>{" "}
           of the Seven Churches: and the Seven Candlesticks which you saw are

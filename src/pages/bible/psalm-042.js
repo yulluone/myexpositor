@@ -14,7 +14,7 @@ export default function Psalm042() {
           <sup className="calibre7">1</sup>As the hart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deer)</span>
+              <span className="explanation">(deer)</span>
             </span>
           </span>{" "}
           pants after the water brooks, so pants my soul after You, O God.{" "}

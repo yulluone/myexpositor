@@ -74,7 +74,7 @@ export default function Judges16() {
           <sup className="calibre7">2</sup>And it was told the Gazites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the inhabitants of Gaza)</span>
+              <span className="explanation">(the inhabitants of Gaza)</span>
             </span>
           </span>
           , saying, Samson is come hither. And they compassed him in, and laid
@@ -175,7 +175,7 @@ export default function Judges16() {
           bind me with seven green withs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably refers to catgut)</span>
+              <span className="explanation">(probably refers to catgut)</span>
             </span>
           </span>{" "}
           that were never dried, then shall I be weak, and be as another man.
@@ -197,7 +197,7 @@ export default function Judges16() {
           known{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the secret of his strength)</span>
+              <span className="explanation">(the secret of his strength)</span>
             </span>
           </span>
         </span>
@@ -304,7 +304,7 @@ export default function Judges16() {
           been a Nazarite unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(separated unto God)</span>
+              <span className="explanation">(separated unto God)</span>
             </span>
           </span>{" "}
           from my mothers womb: if I be shaved, then my strength will go from
@@ -346,7 +346,7 @@ export default function Judges16() {
           out as at other times before, and shake myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shake off the Philistines)</span>
+              <span className="explanation">(shake off the Philistines)</span>
             </span>
           </span>
           . And he wist not that the LORD was departed from him{" "}
@@ -502,7 +502,7 @@ export default function Judges16() {
           , remember me, I pray You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a petition of humility)</span>
+              <span className="explanation">(a petition of humility)</span>
             </span>
           </span>
           , and strengthen me, I pray You, only this once, O God, that I may be

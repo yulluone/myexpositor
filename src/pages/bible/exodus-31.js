@@ -24,7 +24,7 @@ export default function Exodus31() {
           the son of Uri, the son of Hur, of the Tribe of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that Bezaleel was the grandson of Hur, who it is
                 believed was the brother-in-law of Moses, having married his
                 sister Miriam; the choice of these principal workmen was that of
@@ -42,7 +42,7 @@ export default function Exodus31() {
           manner of workmanship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (before the Cross, the Holy Spirit only came upon individuals
                 who had been called of God for a certain task, even as Bezaleel;
                 now, since the Cross, the Holy Spirit resides in the hearts and
@@ -76,7 +76,7 @@ export default function Exodus31() {
           them, and in carving of timber, to work in all manner of workmanship.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this shows us that the Holy Spirit can, and will, help
                 us in every aspect of our life and living, providing what we do
                 is right.)
@@ -93,7 +93,7 @@ export default function Exodus31() {
           that I have commanded you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it is to be noticed, the Lord said here wise hearted,
                 instead of wise headed; this means that the Holy Spirit
                 functioned in the hearts of these individuals, leading them and
@@ -137,7 +137,7 @@ export default function Exodus31() {
           shall they do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We must remember, the Holy Spirit worked with these individuals
                 to prepare that which pointed to Christ, and what He would do,
                 which speaks of the Cross. Now, the Holy Spirit points back to a
@@ -172,7 +172,7 @@ export default function Exodus31() {
           I am the LORD Who does sanctify you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sabbath, as stated, represented the rest, which one now
                 finds in Christ. This sign was to be between the Lord and
                 Israel. It was never meant to be a sign between the Lord and the
@@ -190,7 +190,7 @@ export default function Exodus31() {
           shall be cut off from among his people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will lose his soul)</span>
+              <span className="explanation">(will lose his soul)</span>
             </span>
           </span>
         </span>
@@ -202,7 +202,7 @@ export default function Exodus31() {
           the seventh is the Sabbath of Rest, holy to the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because it represented Christ and what Christ would do in order
                 to bring Rest to the soul)
               </span>
@@ -236,7 +236,7 @@ export default function Exodus31() {
           Testimony, tables of stone, written with the Finger of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were the Ten Commandments, five on one stone, and five on
                 the other)
               </span>

@@ -24,7 +24,7 @@ export default function Esther07() {
           shall be performed, even to the half of the kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the king, obviously, is very pleasantly curious)
               </span>
             </span>
@@ -53,7 +53,7 @@ export default function Esther07() {
           not countervail the kings damage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even in the case of the latter, with all the Jews made into
                 slaves, the kings revenues would have been injured beyond
                 compensation; so the empire was going to lose in every capacity,
@@ -78,7 +78,7 @@ export default function Esther07() {
           the queen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esther adds the word enemy to the list, with the insinuation
                 that, in actuality, Haman was an enemy of the king also; in
                 other words, he was playing the king for all he could get, and
@@ -107,7 +107,7 @@ export default function Esther07() {
           fallen upon the bed whereon Esther was{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, reclining on a couch, as was the custom then at
                 banquets)
               </span>
@@ -118,7 +118,7 @@ export default function Esther07() {
           face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In his pleading with Esther for his life, he, more than likely,
                 sought to grasp her feet or her garments, as was usual with
                 supplicants in the east. At that moment, the king returned.
@@ -153,20 +153,20 @@ export default function Esther07() {
           <sup className="calibre7">9</sup>And Harbonah, one of the chamberlains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(eunuchs)</span>
+              <span className="explanation">(eunuchs)</span>
             </span>
           </span>
           , said before the king, Behold also, the gallows fifty cubits high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           , which Haman had made for Mordecai, who had spoken good for the king,
           stands in the house of Haman. Then the king said, Hang him thereon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, Haman had erected the gallows within the compound of
                 his home, which no doubt was quite large and included many acres
                 of gardens, etc.; now he will hang on his own gallows)
@@ -182,7 +182,7 @@ export default function Esther07() {
           that he had prepared for Mordecai. Then was the kings wrath pacified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the king realized that Haman had made a fool of him; so, he
                 determines to settle the score in the worst way of all, which he
                 did)

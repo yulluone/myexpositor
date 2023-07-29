@@ -26,7 +26,7 @@ export default function Romans01() {
           , a servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a voluntary Bondslave)</span>
+              <span className="explanation">(a voluntary Bondslave)</span>
             </span>
           </span>{" "}
           of Jesus Christ, called{" "}
@@ -60,7 +60,7 @@ export default function Romans01() {
           <sup className="calibre7">2</sup>(Which He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           had promised afore by His Prophets in the Holy Scriptures,){" "}
@@ -95,7 +95,7 @@ export default function Romans01() {
           of the Seed of David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through the family of David)</span>
+              <span className="explanation">(through the family of David)</span>
             </span>
           </span>{" "}
           according to the flesh{" "}
@@ -151,19 +151,19 @@ export default function Romans01() {
           <sup className="calibre7">5</sup>By Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by God)</span>
+              <span className="explanation">(by God)</span>
             </span>
           </span>{" "}
           we have received Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unmerited favor)</span>
+              <span className="explanation">(unmerited favor)</span>
             </span>
           </span>{" "}
           and Apostleship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Call)</span>
+              <span className="explanation">(the Call)</span>
             </span>
           </span>
           , for obedience to the Faith{" "}
@@ -199,7 +199,7 @@ export default function Romans01() {
           <sup className="calibre7">6</sup>Among whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all Believers)</span>
+              <span className="explanation">(all Believers)</span>
             </span>
           </span>{" "}
           are you also the called of Jesus Christ{" "}
@@ -244,7 +244,7 @@ export default function Romans01() {
           and Peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanctifying Peace)</span>
+              <span className="explanation">(Sanctifying Peace)</span>
             </span>
           </span>{" "}
           from God our Father, and the Lord Jesus Christ{" "}
@@ -269,7 +269,7 @@ export default function Romans01() {
           world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Roman Empire)</span>
+              <span className="explanation">(speaks of the Roman Empire)</span>
             </span>
           </span>
           .
@@ -281,7 +281,7 @@ export default function Romans01() {
           with my spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his human spirit)</span>
+              <span className="explanation">(his human spirit)</span>
             </span>
           </span>{" "}
           in the Gospel of His Son{" "}
@@ -398,13 +398,13 @@ export default function Romans01() {
           Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a phrase often used by Paul)</span>
+              <span className="explanation">(a phrase often used by Paul)</span>
             </span>
           </span>
           , that oftentimes I purposed to come unto you, (but was let hitherto,){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(something hindered)</span>
+              <span className="explanation">(something hindered)</span>
             </span>
           </span>{" "}
           that I might have some fruit among you also, even as among other
@@ -425,7 +425,7 @@ export default function Romans01() {
           <sup className="calibre7">14</sup>I am debtor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(true of every Believer)</span>
+              <span className="explanation">(true of every Believer)</span>
             </span>
           </span>{" "}
           both to the Greeks, and to the Barbarians; both to the wise, and to
@@ -479,13 +479,13 @@ export default function Romans01() {
           <sup className="calibre7">17</sup>For therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through the Cross)</span>
+              <span className="explanation">(through the Cross)</span>
             </span>
           </span>{" "}
           is the Righteousness of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Right with God)</span>
+              <span className="explanation">(Right with God)</span>
             </span>
           </span>{" "}
           revealed from faith to faith{" "}
@@ -608,7 +608,7 @@ export default function Romans01() {
           , being understood by the things that are made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Creation demands a Creator)</span>
+              <span className="explanation">(Creation demands a Creator)</span>
             </span>
           </span>
           ,{" "}
@@ -812,7 +812,7 @@ export default function Romans01() {
           <sup className="calibre7">27</sup>And likewise also the men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(homosexuality)</span>
+              <span className="explanation">(homosexuality)</span>
             </span>
           </span>
           , leaving the natural use of the woman{" "}
@@ -827,7 +827,7 @@ export default function Romans01() {
           , burned in their lust one toward another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(raging lust)</span>
+              <span className="explanation">(raging lust)</span>
             </span>
           </span>
           ; men with men working that which is unseemly{" "}
@@ -879,7 +879,7 @@ export default function Romans01() {
           , to do those things which are not convenient{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which are not fitting)</span>
+              <span className="explanation">(which are not fitting)</span>
             </span>
           </span>
           ;
@@ -930,7 +930,7 @@ export default function Romans01() {
           , that they which commit such things are worthy of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Divine Judgment is implied)</span>
+              <span className="explanation">(Divine Judgment is implied)</span>
             </span>
           </span>
           , not only do the same, but have pleasure in them who do them{" "}

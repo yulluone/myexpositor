@@ -26,7 +26,7 @@ export default function Deuteronmy26() {
           Name there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the best of the first of the harvest; there is no specification
                 as to the amount to be offered; it was to be brought to the
                 Tabernacle, and later on to the Temple)
@@ -44,7 +44,7 @@ export default function Deuteronmy26() {
           unto our fathers for to give us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well, this produce was to now belong to the Priest, who was
                 a Type of Christ; all of this means that the Place, the Priest,
                 the Worshipper, and the character of his worship all
@@ -64,7 +64,7 @@ export default function Deuteronmy26() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Altar was the Brazen Altar, which was a Type of Calvary;
                 this tells us that all worship must have as its foundation the
                 Cross of Christ, hence Paul saying, We preach Christ Crucified [
@@ -93,7 +93,7 @@ export default function Deuteronmy26() {
           Nation, great, mighty, and populous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reference is to Jacob, the father of the Twelve Tribes)
               </span>
             </span>
@@ -136,7 +136,7 @@ export default function Deuteronmy26() {
           your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the worshipper is confessing here that Grace has brought him
                 into this good land promised to the fathers; and that the same
                 Grace has filled his cup to overflowing, the bounty of which the
@@ -154,7 +154,7 @@ export default function Deuteronmy26() {
           you, and the Levite, and the stranger who is among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the worshipper as described here was to come with joy bearing
                 his basket of firstfruits to the place of the Burnt and Sin
                 Offerings chosen by God; the basket testified that God was the
@@ -178,7 +178,7 @@ export default function Deuteronmy26() {
           all the tithes of your increase the third year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the year that all tithes were to go to the Priests and the
                 Sanctuary [
                 <ScrollLink href="/numbers-18" scrollToId="#filepos1919519">
@@ -216,7 +216,7 @@ export default function Deuteronmy26() {
           commanded me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is not a self-righteous boast; it is rather a solemn
                 profession of attention to duties which might have been
                 neglected, and refers, not to the keeping of every Commandment,
@@ -235,7 +235,7 @@ export default function Deuteronmy26() {
           and honey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (blessing is here requested, and, to be sure, blessing will be
                 abundantly given)
               </span>
@@ -276,7 +276,7 @@ export default function Deuteronmy26() {
           spoken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses concludes his address by a solemn admonition to the
                 people to keep and observe the Laws and Commandments, which the
                 Lord by him had laid upon them, reminding them that they had

@@ -32,7 +32,7 @@ export default function Joshua11() {
           north of the mountains, and of the plains south of Chinneroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>
           , and in the valley, and in the borders of Dor on the west{" "}
@@ -61,7 +61,7 @@ export default function Joshua11() {
           shore in multitude, with horses and chariots very many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all the heathen kings)</span>
+              <span className="explanation">(all the heathen kings)</span>
             </span>
           </span>
         </span>
@@ -293,7 +293,7 @@ export default function Joshua11() {
           their hearts, that they should come against Israel in battle, that he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joshua)</span>
+              <span className="explanation">(Joshua)</span>
             </span>
           </span>{" "}
           might destroy them utterly, and that they might have no favour, but

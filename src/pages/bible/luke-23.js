@@ -538,7 +538,9 @@ export default function Luke23() {
           go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sounds a note of desperation)</span>
+              <span className="explanation">
+                (sounds a note of desperation)
+              </span>
             </span>
           </span>
           .
@@ -766,7 +768,7 @@ export default function Luke23() {
           green tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He was the Green Tree)</span>
+              <span className="explanation">(He was the Green Tree)</span>
             </span>
           </span>
           , what shall be done in the dry?{" "}
@@ -814,7 +816,7 @@ export default function Luke23() {
           , and the malefactors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the two criminals)</span>
+              <span className="explanation">(the two criminals)</span>
             </span>
           </span>
           , one on the right hand, and the other on the left{" "}
@@ -845,7 +847,7 @@ export default function Luke23() {
           . And they parted His raiment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(divided up His Garments)</span>
+              <span className="explanation">(divided up His Garments)</span>
             </span>
           </span>
           , and cast lots{" "}
@@ -1075,7 +1077,7 @@ export default function Luke23() {
           <sup className="calibre7">44</sup>And it was about the sixth hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(12 noon)</span>
+              <span className="explanation">(12 noon)</span>
             </span>
           </span>
           , and there was a darkness over all the Earth until the ninth hour{" "}

@@ -73,7 +73,7 @@ export default function John02() {
           , the mother of Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Mary)</span>
+              <span className="explanation">(Mary)</span>
             </span>
           </span>{" "}
           said unto Him, They have no wine{" "}
@@ -623,7 +623,7 @@ export default function John02() {
           : for He knew what was in man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(total depravity)</span>
+              <span className="explanation">(total depravity)</span>
             </span>
           </span>
           .

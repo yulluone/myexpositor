@@ -16,7 +16,7 @@ export default function Jeremiah02() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Word given by Jeremiah is thought by some to be the first
                 Oracle delivered in public)
               </span>
@@ -33,7 +33,7 @@ export default function Jeremiah02() {
           wilderness, in a land that was not sown.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Message was addressed to Judah, but, as it did not flatter
                 them, it was rejected, and its rejection shows that the revival
                 of 629 B.C. did not last [
@@ -94,7 +94,7 @@ export default function Jeremiah02() {
           evil shall come upon them, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was holiness unto the LORD, refers to their being a
                 consecrated people. This does not necessarily imply a personal
                 holiness and, in fact, definitely did not imply such, but rather
@@ -154,7 +154,7 @@ export default function Jeremiah02() {
           House of Jacob, and all the families of the House of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now the Holy Spirit through Jeremiah will begin a long litany
                 of grievances against Judah. The pleadings by the Holy Spirit
                 present the pathos of a broken heart the broken heart of God!)
@@ -171,7 +171,7 @@ export default function Jeremiah02() {
           have walked after vanity, and are become vain?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage refers to God, Who never fails and always keeps
                 Covenants and Promises. Of course, there is no iniquity in the
                 Lord! If a man leaves God, it is always wrongdoing on the part
@@ -204,7 +204,7 @@ export default function Jeremiah02() {
           through, and where no man dwelt?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Neither said they, refer to lack of inquiry on the
                 part of Judah. Even though the Lord had done so many great
                 things for them, they were little interested in recounting His
@@ -222,7 +222,7 @@ export default function Jeremiah02() {
           you entered, you defiled My Land, and made My Heritage an abomination.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse simply speaks of the glory of the Land of Israel. It
                 was a garden-land. If one is to notice, the Holy Spirit says, My
                 Land, denoting the fact that the Land of Israel belongs to the
@@ -241,7 +241,7 @@ export default function Jeremiah02() {
           walked after things that do not profit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Priests, the Magistrates, and the Prophets, i.e., the whole
                 nation, apostatized from God to Baal. Only that which comes from
                 the Lord and His Word is profitable. All else does not profit.)
@@ -256,7 +256,7 @@ export default function Jeremiah02() {
           says the LORD, and with your childrens children will I plead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In modern terminology, the Holy Spirit pleads with people. The
                 pleading is always for them to get right with God and draw
                 closer to Him. The word plead also refers to chastisement, for
@@ -281,7 +281,7 @@ export default function Jeremiah02() {
           there be such a thing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Chittim lay to the west and Kedar to the east of Jerusalem. The
                 challenge here was to find, if possible, either east or west, a
                 nation that had changed its gods. Such a quest would be
@@ -325,7 +325,7 @@ export default function Jeremiah02() {
           which does not profit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Has a nation changed their gods? actually asks,
                 Has any heathen nation ever changed its idol god for another?
               </span>
@@ -366,7 +366,7 @@ export default function Jeremiah02() {
           this, and be horribly afraid, be you very desolate, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah at this time should have been trembling with fear,
                 especially considering the awful doom that was soon to break
                 upon them! The heavens were afraid, but not Judah! With Judah
@@ -384,7 +384,7 @@ export default function Jeremiah02() {
           them out cisterns, broken cisterns, that can hold no water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When one forsakes God, they always do such for that which is
                 far, far less! The answer for every problem is found in the Word
                 of God; however, the modern Church has by and large forsaken the
@@ -406,7 +406,7 @@ export default function Jeremiah02() {
           homeborn slave? why is he spoiled?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was a son, not a slave, yet they were about to become
                 slaves! In fact, Israel had become a servant, i.e., slave, to
                 the heathenistic gods. As a result, they would soon become a
@@ -452,7 +452,7 @@ export default function Jeremiah02() {
           inhabitant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet will now speak of future events as if they had
                 already happened. Actually,{" "}
                 <ScrollLink href="/" scrollToId="#filepos8146695">
@@ -477,7 +477,7 @@ export default function Jeremiah02() {
           Tahapanes have broken the crown of your head.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication in this Passage is that despite the reforms of
                 Godly Josiah, the Lord, knowing the unrepentant heart of Judah,
                 took Josiah, the righteous man [
@@ -503,7 +503,7 @@ export default function Jeremiah02() {
           to the way?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So long as God leads, there is sonship, liberty, and dignity,
                 but self-will insures slavery.)
               </span>
@@ -518,7 +518,7 @@ export default function Jeremiah02() {
           the way of Assyria, to drink the waters of the river?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The waters of Sihor, referring to Egypt, and the waters of the
                 river [Euphrates], referring to Assyria, are what the Holy
                 Spirit is speaking of in{" "}
@@ -544,7 +544,7 @@ export default function Jeremiah02() {
           your God, and that My fear is not in you, says the Lord GOD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The suffering that comes upon men results from their own
                 self-will, and is not justly chargeable to God. So, the idea, as
                 claimed by humanistic psychology, that Believers should forgive
@@ -562,7 +562,7 @@ export default function Jeremiah02() {
           the harlot.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For of old time I have broken your yoke, refers to their
                 deliverance from Egyptian bondage. Playing the harlot, is a
                 descriptive term used by the Holy Spirit, referring to
@@ -579,7 +579,7 @@ export default function Jeremiah02() {
           of a strange vine unto Me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is that the type of Vine planted by the Lord
                 was a noble Vine, which came from the right Seed, with the
                 inference referring to Christ and, thereby, designed to bring
@@ -611,7 +611,7 @@ export default function Jeremiah02() {
           says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The inference by the Holy Spirit is that all of mans efforts
                 cannot take away your iniquity. Such can only be done by the
                 Blood of Christ. The problem of the modern Church is that it
@@ -630,7 +630,7 @@ export default function Jeremiah02() {
           you have done: you are a swift dromedary traversing her ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sin deadens and blinds the conscience here the Prophet
                 indignantly points to the valley of Hinnom, which was filled
                 with idolatrous altars. Judahs fault was not in neglecting the
@@ -666,7 +666,7 @@ export default function Jeremiah02() {
           month they shall find her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos8151377">
                   <span className="calibre_19">
@@ -691,7 +691,7 @@ export default function Jeremiah02() {
           no; for I have loved strangers, and after them will I go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning her love for God, Judah said, No, I love strange
                 gods, and after them will I go; but the result was shame to
                 their kings, their princes, their Priests, and their Prophets.)
@@ -710,7 +710,7 @@ export default function Jeremiah02() {
           princes, and their Priests, and their Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the blame for Judahs plight is laid at the feet of her
                 spiritual leaders)
               </span>
@@ -727,7 +727,7 @@ export default function Jeremiah02() {
           their trouble they will say, Arise, and save us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah forsook God as their Father, and worshipped idols. These
                 idols were given credit for Israels inheritance, as modern
                 psychology is given credit today! The Holy Spirit warns that a
@@ -746,7 +746,7 @@ export default function Jeremiah02() {
           your gods, O Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The impotency of idols and the mental degradation of idolaters
                 are the sad burden of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8153869">
@@ -779,7 +779,7 @@ export default function Jeremiah02() {
           you all have transgressed against Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Wherefore will you plead with Me? refers to
                 Judahs audacity at attempting to justify herself!)
               </span>
@@ -794,7 +794,7 @@ export default function Jeremiah02() {
           your Prophets, like a destroying lion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In vain have I smitten your children, refers to the fact that
                 the Lord brought corrective judgments on Judah, but to no avail!
                 However, they received no correction, meaning that Judah,
@@ -816,7 +816,7 @@ export default function Jeremiah02() {
           wherefore say My People, We are lords; we will come no more unto You?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord is asking Judah the question, Did He lead them into
                 privation and misery? Of course not! God does not lead His
                 People in lowliness and darkness, but into light and fellowship.
@@ -836,7 +836,7 @@ export default function Jeremiah02() {
           number.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was completely contrary to nature for Judah to forget God.)
               </span>
             </span>
@@ -849,7 +849,7 @@ export default function Jeremiah02() {
           love? therefore have you also taught the wicked ones your ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wicked ones actually mean wicked women. The idolatrous
                 nations are here compared to debauched women having Judah as
                 their teacher in vileness. It is a sad fact that the rejecter of
@@ -867,7 +867,7 @@ export default function Jeremiah02() {
           secret search, but upon all these.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The poor innocents refer to the helpless. The accusation is:
                 the evidence of Judahs guilt as the destroyer of Gods Servants
                 is so visible that a search is not needed.)
@@ -883,7 +883,7 @@ export default function Jeremiah02() {
           because you say, I have not sinned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Someone has said, A revival which is not based upon conviction
                 of sin and the certainty of Gods Wrath is a false revival! Even
                 at this late date, with the cup of iniquity running over, Judah
@@ -900,7 +900,7 @@ export default function Jeremiah02() {
           ashamed of Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Why do you gad about in order to change your way?
                 refers to the different political parties in Judah, which were
                 seeking alliances, first in this place and then in another. In
@@ -930,7 +930,7 @@ export default function Jeremiah02() {
           confidences, and you shall not prosper in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Confident schemes which repose upon human promises and which
                 ignore God never prosper. For the LORD has rejected your
                 confidences, refers to the fact that God will not allow these

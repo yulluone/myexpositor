@@ -15,13 +15,13 @@ export default function Corinthians116() {
           <sup className="calibre7">1</sup>Now concerning the collection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(offering)</span>
+              <span className="explanation">(offering)</span>
             </span>
           </span>{" "}
           for the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers specifically to Jerusalem)
               </span>
             </span>
@@ -29,7 +29,7 @@ export default function Corinthians116() {
           , as I have given order to the Churches of Galatia, even so do you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to this matter being the responsibility of all the
                 Churches)
               </span>
@@ -49,7 +49,7 @@ export default function Corinthians116() {
           of the week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sunday, which replaced the Jewish Sabbath of Saturday)
               </span>
             </span>
@@ -57,7 +57,7 @@ export default function Corinthians116() {
           let every one of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no exceptions)</span>
+              <span className="explanation">(no exceptions)</span>
             </span>
           </span>{" "}
           lay by him in store, as{" "}
@@ -69,7 +69,7 @@ export default function Corinthians116() {
           has prospered him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (give to the Work of the Lord on this day)
               </span>
             </span>
@@ -77,7 +77,7 @@ export default function Corinthians116() {
           , that there be no gatherings when I come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to their systematic giving)
               </span>
             </span>
@@ -90,7 +90,7 @@ export default function Corinthians116() {
           <sup className="calibre7">3</sup>And when I come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Church at Corinth)</span>
+              <span className="explanation">(to the Church at Corinth)</span>
             </span>
           </span>
           , whomsoever you shall approve by{" "}
@@ -102,7 +102,7 @@ export default function Corinthians116() {
           letters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the congregation at Corinth was to select one or
                 more persons to take these funds to Jerusalem)
               </span>
@@ -111,7 +111,9 @@ export default function Corinthians116() {
           , them will I send to bring your liberality unto Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those chosen by the Churches)</span>
+              <span className="explanation">
+                (those chosen by the Churches)
+              </span>
             </span>
           </span>
           .
@@ -122,13 +124,13 @@ export default function Corinthians116() {
           <sup className="calibre7">4</sup>And if it be meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(necessary)</span>
+              <span className="explanation">(necessary)</span>
             </span>
           </span>{" "}
           that I go also, they shall go with me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this time, it seems Paul is uncertain as to whether he will
                 also go to Jerusalem with this Gift. However, by the time he
                 wrote II Corinthians, he had decided to go and, as stated, have
@@ -166,7 +168,7 @@ export default function Corinthians116() {
           shall pass through Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle visiting the Churches in this area)
               </span>
             </span>
@@ -174,7 +176,7 @@ export default function Corinthians116() {
           : for I do pass through Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not to linger, to spend only a little time at each of the
                 Churches)
               </span>
@@ -189,7 +191,7 @@ export default function Corinthians116() {
           and winter with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he felt he needed to spend more time at Corinth than elsewhere,
                 at least at this time)
               </span>
@@ -198,7 +200,7 @@ export default function Corinthians116() {
           , that you may bring me on my journey whithersoever I go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Corinthians would help him with finances, etc.)
               </span>
             </span>
@@ -210,7 +212,7 @@ export default function Corinthians116() {
           <sup className="calibre7">7</sup>For I will not see you now by the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him not being able to come to them immediately)
               </span>
             </span>
@@ -218,7 +220,7 @@ export default function Corinthians116() {
           ; but I trust to tarry a while with you, if the Lord permit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but when he does come, he hopes to stay a while)
               </span>
             </span>
@@ -232,7 +234,7 @@ export default function Corinthians116() {
           Pentecost.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is writing a short time before the Jewish Passover, and
                 intends to leave Ephesus after the Jewish Feast of Pentecost, a
                 period of about two months.)
@@ -247,7 +249,7 @@ export default function Corinthians116() {
           opened unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to spreading the Gospel)
               </span>
             </span>
@@ -261,7 +263,7 @@ export default function Corinthians116() {
           many adversaries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who opposed his Ministry, there seemed to have been many)
               </span>
             </span>
@@ -278,7 +280,7 @@ export default function Corinthians116() {
           be with you without fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of his youth, let no one intimidate him)
               </span>
             </span>
@@ -289,7 +291,7 @@ export default function Corinthians116() {
               <span className="calibre_19">do.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Inasmuch as Timothy is with Paul, he is to be treated
                 accordingly.)
               </span>
@@ -302,7 +304,7 @@ export default function Corinthians116() {
           <sup className="calibre7">11</sup>Let no man therefore despise him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to his youth and inexperience)
               </span>
             </span>
@@ -310,7 +312,7 @@ export default function Corinthians116() {
           : but conduct him forth in peace, that he may come unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I dont want him to come to me with a bad report)
               </span>
             </span>
@@ -318,7 +320,7 @@ export default function Corinthians116() {
           : for I look for him with the Brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to those who accompanied Timothy, whomever they
                 may have been.)
               </span>
@@ -338,19 +340,19 @@ export default function Corinthians116() {
           Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a previous visit)</span>
+              <span className="explanation">(a previous visit)</span>
             </span>
           </span>
           : but his will was not at all to come at this time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for whatever reason)</span>
+              <span className="explanation">(for whatever reason)</span>
             </span>
           </span>
           ; but he will come when he shall have convenient time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when a good opportunity offers itself to him; the Church at
                 Corinth greatly respected Apollos)
               </span>
@@ -367,7 +369,7 @@ export default function Corinthians116() {
           <sup className="calibre7">13</sup>Watch ye{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a military command, be vigilant)
               </span>
             </span>
@@ -375,7 +377,7 @@ export default function Corinthians116() {
           , stand fast in the Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont let the devil move your Faith from the Cross to other
                 things)
               </span>
@@ -384,13 +386,13 @@ export default function Corinthians116() {
           , quit you like men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(act like mature men)</span>
+              <span className="explanation">(act like mature men)</span>
             </span>
           </span>
           , be strong{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (strong in the Faith, which makes one strong against the Devil)
               </span>
             </span>
@@ -404,7 +406,7 @@ export default function Corinthians116() {
           charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>
           .
@@ -416,7 +418,7 @@ export default function Corinthians116() {
           the house of Stephanas, that it is the Firstfruits of Achaia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in all of Greece, the family of Stephanas was the first to come
                 to Christ as a consequence of Pauls Ministry)
               </span>
@@ -431,7 +433,7 @@ export default function Corinthians116() {
           they have addicted themselves to the Ministry of the Saints,){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (used of the Lord, and greatly so!)
               </span>
             </span>
@@ -443,7 +445,7 @@ export default function Corinthians116() {
           <sup className="calibre7">16</sup>That you submit yourselves unto such{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (let Stephanas and those like him be the ones you follow,
                 instead of these false teachers)
               </span>
@@ -458,7 +460,7 @@ export default function Corinthians116() {
           and labors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because they Preach the same Gospel as Paul, the Gospel of the
                 Cross and the Resurrection)
               </span>
@@ -473,7 +475,7 @@ export default function Corinthians116() {
           and Fortunatus and Achaicus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to them coming from Corinth to Paul at Ephesus)
               </span>
             </span>
@@ -481,7 +483,7 @@ export default function Corinthians116() {
           : for that which was lacking on your part they have supplied.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This probably means he wished he could have spoken to the
                 entire Church at Corinth, but these Brethren who represented
                 that Church would be sufficient for the present.)
@@ -496,7 +498,7 @@ export default function Corinthians116() {
           and yours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (eased my spirit, and as your representatives, eased your
                 spirits as well)
               </span>
@@ -505,7 +507,7 @@ export default function Corinthians116() {
           : therefore acknowledge ye them who are such.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to these three men, and that what they will say to
                 the Church at Corinth will be correct and right.)
               </span>
@@ -518,7 +520,7 @@ export default function Corinthians116() {
           <sup className="calibre7">19</sup>The Churches of Asia salute you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking of the Churches in that area)
               </span>
             </span>
@@ -527,7 +529,7 @@ export default function Corinthians116() {
           that is in their house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a husband and wife, with one of the meeting places for worship
                 in Ephesus being in their house; there were no Church buildings
                 as such, at that time, as Rome was not allowing such)
@@ -542,7 +544,7 @@ export default function Corinthians116() {
           <sup className="calibre7">20</sup>All the Brethren greet you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is speaking not only of those at Ephesus, but all the
                 Churches of Asia, etc., as well.)
               </span>
@@ -551,7 +553,7 @@ export default function Corinthians116() {
           Greet you one another with an holy kiss{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (culture for that day and time, but which now is a handshake or
                 embrace)
               </span>
@@ -574,7 +576,7 @@ export default function Corinthians116() {
           Paul with my own hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul had dictated the letter up to this point, with a Scribe
                 doing the writing. However, the Apostle now takes the pen and,
                 as we may say, signs the letter.)
@@ -589,13 +591,13 @@ export default function Corinthians116() {
           Christ, let him be Anathema{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accursed)</span>
+              <span className="explanation">(accursed)</span>
             </span>
           </span>{" "}
           Maranatha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord comes)</span>
+              <span className="explanation">(the Lord comes)</span>
             </span>
           </span>
           .
@@ -612,7 +614,7 @@ export default function Corinthians116() {
           with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Refers to the favor of the Lord, which comes in an
                 uninterrupted flow to all who have Christ and the Cross as the
                 object of their Faith.)
@@ -632,7 +634,7 @@ export default function Corinthians116() {
           with you all in Christ Jesus. Amen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul includes this last statement because he has had to write
                 some very strong things in the body of this Letter. He is saying
                 that it was love for them, which occasioned the necessity.)

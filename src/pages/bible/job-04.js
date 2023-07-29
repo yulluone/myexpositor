@@ -242,7 +242,7 @@ export default function Job04() {
           the hair of my flesh stood up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this no doubt happened)</span>
+              <span className="explanation">(this no doubt happened)</span>
             </span>
           </span>
           :

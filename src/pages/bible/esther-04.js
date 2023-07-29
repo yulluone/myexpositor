@@ -18,7 +18,7 @@ export default function Esther04() {
           bitter cry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was not totally uncommon for that particular time)
               </span>
             </span>
@@ -32,7 +32,7 @@ export default function Esther04() {
           for none might enter into the kings gate clothed with sackcloth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to his manner of dress, he was not allowed to pass through
                 the gate into the palace)
               </span>
@@ -49,7 +49,7 @@ export default function Esther04() {
           sackcloth and ashes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and no wonder!)</span>
+              <span className="explanation">(and no wonder!)</span>
             </span>
           </span>
           .
@@ -64,7 +64,7 @@ export default function Esther04() {
           came and told it her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about Mordecai)</span>
+              <span className="explanation">(about Mordecai)</span>
             </span>
           </span>
           . Then was the queen exceedingly grieved; and she sent raiment to
@@ -80,7 +80,7 @@ export default function Esther04() {
           was{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esther, in the seclusion of the harem, knew nothing of what the
                 king and Haman had determined to carry forth; so, as stated, she
                 didnt know the reason for Mordecais great consternation)
@@ -112,7 +112,7 @@ export default function Esther04() {
           and to make request before him for her people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esthers marriage took place in the seventh year of the reign of
                 Ahasuerus [
                 <ScrollLink href="/esther-02" scrollToId="#filepos5284034">
@@ -159,7 +159,7 @@ export default function Esther04() {
           I have not been called to come in unto the king these thirty days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she did not realize that these past thirty days had been spent
                 by Haman in persuading the king to kill all the Jews)
               </span>
@@ -184,7 +184,7 @@ export default function Esther04() {
           house, more than all the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the fact that you are Jewish, Mordecai says, you will
                 die as well!)
               </span>
@@ -200,7 +200,7 @@ export default function Esther04() {
           to the Jews from another place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mordecai is confident that God will not allow the destruction
                 of His People)
               </span>
@@ -209,7 +209,7 @@ export default function Esther04() {
           ; but you and your fathers house shall be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though the Lord will spare the nation someway, still, many
                 Jews will die, and you and I will definitely be among them)
               </span>
@@ -219,7 +219,7 @@ export default function Esther04() {
           this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And, to be sure, this is exactly why the Lord had raised up
                 Esther to this particular position. The Lord knows all things,
                 past, present, and future; therefore, He functions accordingly.
@@ -248,7 +248,7 @@ export default function Esther04() {
           three days, night or day: I also and my maidens will fast likewise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (her request that a prayer-meeting, lasting for three days and
                 three nights, should be held outside the palace, in unison with
                 a similar prayer-meeting inside, showed her belief that God
@@ -261,7 +261,7 @@ export default function Esther04() {
           law: and if I perish, I perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this noble woman resolved, if necessary, to sacrifice her life
                 for the sake of her people)
               </span>
@@ -276,7 +276,7 @@ export default function Esther04() {
           according to all that Esther had commanded him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (unfortunately, far too many modern Believers, in a time of
                 trouble, are taught to turn to anything and everything except
                 the Lord!)

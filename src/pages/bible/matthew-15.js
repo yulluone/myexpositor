@@ -45,7 +45,7 @@ export default function Matthew15() {
           for they wash not their hands when they eat bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had no</span>
+              <span className="explanation">(had no</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -169,7 +169,7 @@ export default function Matthew15() {
               <span className="calibre_19">he shall be free</span>
             </span>
             <span>
-              <span className="calibre_19">(free from responsibility).</span>
+              <span className="explanation">(free from responsibility).</span>
             </span>
           </span>{" "}
           Thus have you made the Commandment of God of none effect by your
@@ -181,7 +181,7 @@ export default function Matthew15() {
           <sup className="calibre7">7</sup>You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was said to their faces)</span>
+              <span className="explanation">(was said to their faces)</span>
             </span>
           </span>{" "}
           hypocrites, well did Isaiah prophesy of you, saying,
@@ -199,7 +199,7 @@ export default function Matthew15() {
           lips; but their heart is far from Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this defines the hypocrite)</span>
+              <span className="explanation">(this defines the hypocrite)</span>
             </span>
           </span>
           .
@@ -290,7 +290,7 @@ export default function Matthew15() {
           , Do you not know that the Pharisees were offended{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(scandalized)</span>
+              <span className="explanation">(scandalized)</span>
             </span>
           </span>
           , after they heard this saying?{" "}
@@ -366,7 +366,7 @@ export default function Matthew15() {
           him, Declare unto us this parable{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(give us more explanation)</span>
+              <span className="explanation">(give us more explanation)</span>
             </span>
           </span>
           .
@@ -471,13 +471,13 @@ export default function Matthew15() {
           <sup className="calibre7">21</sup>Then Jesus went thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(left Capernaum)</span>
+              <span className="explanation">(left Capernaum)</span>
             </span>
           </span>
           , and departed into the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Tyre and Sidon.
@@ -488,19 +488,19 @@ export default function Matthew15() {
           <sup className="calibre7">22</sup>And, behold, a woman of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Gentile)</span>
+              <span className="explanation">(a Gentile)</span>
             </span>
           </span>{" "}
           came out of the same coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>
           , and cried unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the woman was desperate)</span>
+              <span className="explanation">(the woman was desperate)</span>
             </span>
           </span>
           , saying, Have mercy on me, O Lord,{" "}
@@ -512,7 +512,7 @@ export default function Matthew15() {
           Son of David; my daughter is grievously vexed with a devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>
           .
@@ -576,7 +576,7 @@ export default function Matthew15() {
           meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(appropriate)</span>
+              <span className="explanation">(appropriate)</span>
             </span>
           </span>{" "}
           to take the childrens bread{" "}
@@ -689,7 +689,7 @@ export default function Matthew15() {
           Jesus feet; and he healed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He healed them all)</span>
+              <span className="explanation">(He healed them all)</span>
             </span>
           </span>
           :
@@ -785,7 +785,7 @@ export default function Matthew15() {
           filled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(satisfied)</span>
+              <span className="explanation">(satisfied)</span>
             </span>
           </span>
           : and they took up of the broken{" "}

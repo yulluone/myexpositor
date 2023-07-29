@@ -155,7 +155,7 @@ export default function Revelation19() {
           the four Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Living Ones)</span>
+              <span className="explanation">(Living Ones)</span>
             </span>
           </span>{" "}
           fell down and worshipped God Who sat on the Throne{" "}
@@ -441,7 +441,7 @@ export default function Revelation19() {
           as a flame of fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(represents Judgment)</span>
+              <span className="explanation">(represents Judgment)</span>
             </span>
           </span>
           , and on His Head{" "}

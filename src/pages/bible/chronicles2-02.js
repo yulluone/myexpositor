@@ -16,7 +16,7 @@ export default function Chronicles202() {
           house for the Name of the LORD, and an house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a royal residence for himself)
               </span>
             </span>
@@ -24,7 +24,7 @@ export default function Chronicles202() {
           for his kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wording of this Passage proclaims to us that Solomons
                 determination was even more than the prompting to do so by his
                 father David; the Holy Spirit is, in fact, now helping him)
@@ -40,20 +40,20 @@ export default function Chronicles202() {
           ten thousand men to bear burdens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70,000)</span>
+              <span className="explanation">(70,000)</span>
             </span>
           </span>
           , and fourscore thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(80,000)</span>
+              <span className="explanation">(80,000)</span>
             </span>
           </span>{" "}
           to hew in the mountain, and three thousand and six hundred to oversee
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A total of 153,600. These were all foreigners, Gentiles,
                 actually prisoners of war, justly condemned to hard labor for
                 life. David could easily have put these men to death, as he
@@ -87,7 +87,7 @@ export default function Chronicles202() {
           cedars to build him an house to dwell therein, even so deal with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was not the Hiram of Davids day, but the son of the Hiram
                 of{" "}
                 <ScrollLink href="/samuel2-05" scrollToId="#filepos3432718">
@@ -114,7 +114,7 @@ export default function Chronicles202() {
           ever to Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the mention of these three particulars portray Christ; the
                 Sweet Incense speaks of His glorious Presence; the continual
                 Shewbread speaks of His continual life, for Jesus is the Bread
@@ -133,7 +133,7 @@ export default function Chronicles202() {
           for great is our God above all gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the testimony of Solomon, as to the greatness of God above the
                 heathen entities of surrounding nations, is a witness to his
                 boldness of testimony; he did not flinch from proclaiming the
@@ -152,7 +152,7 @@ export default function Chronicles202() {
           Sacrifice before Him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers back to the time that David desired to build a
                 House for the Lord [I Chron., Chpt.{" "}
                 <ScrollLink href="/chronicles1-17" scrollToId="#filepos4539717">
@@ -188,7 +188,7 @@ export default function Chronicles202() {
           father did provide{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is remarkable in Solomons letter that nearly two-thirds
                 extols the God of Glory, with only about one-third of it
                 itemizing his request)
@@ -213,7 +213,7 @@ export default function Chronicles202() {
           great{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it would be wonderful great, because the Lord would occupy the
                 House; otherwise, it would be just another house)
               </span>
@@ -230,7 +230,7 @@ export default function Chronicles202() {
           thousand baths of wine, and twenty thousand baths of oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a measure equals about 3 gallons, while a bath equals about 6
                 gallons)
               </span>
@@ -249,7 +249,7 @@ export default function Chronicles202() {
           people, He has made you king over them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse and the following are also testimony to the indirect
                 influences on surrounding nations of the knowledge of the One
                 True Creator-God and Ruler-God, Who was domiciled by special
@@ -276,13 +276,13 @@ export default function Chronicles202() {
           build an house for the LORD, and an house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a palace for Solomon)</span>
+              <span className="explanation">(a palace for Solomon)</span>
             </span>
           </span>{" "}
           for his kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hiram and the kingdom of Tyre will, no doubt, be greatly
                 blessed, because of their participation in this great work for
                 God)
@@ -323,7 +323,7 @@ export default function Chronicles202() {
           sea to Joppa; and you shall carry it up to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from Joppa to Jerusalem was about 34 miles)
               </span>
             </span>
@@ -339,7 +339,7 @@ export default function Chronicles202() {
           hundred and fifty thousand and three thousand and six hundred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4671029">
                   <span className="calibre_19">

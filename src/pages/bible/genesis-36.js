@@ -18,7 +18,7 @@ export default function Genesis36() {
           Esau, who is Edom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is important only in the sense of showing us the portion
                 of Esau, who had his place in this life, and not the life to
                 come [
@@ -44,7 +44,7 @@ export default function Genesis36() {
           of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from the cursed line of Canaan [
                 <ScrollLink href="/genesis-09" scrollToId="#filepos133252">
                   <span className="calibre_19">
@@ -102,7 +102,7 @@ export default function Genesis36() {
           is Edom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In all of this, we find that Esau is repeatedly called Edom.
                 This is the name which perpetuated the remembrance of his
                 selling his birthright for a mess of pottage. We find that Esau
@@ -119,7 +119,7 @@ export default function Genesis36() {
           the father of the Edomites in mount Seir{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Petra)</span>
+              <span className="explanation">(Petra)</span>
             </span>
           </span>
           :
@@ -145,7 +145,7 @@ export default function Genesis36() {
           Esaus wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Amalek mentioned here is probably the Amalekite nation
                 which attacked Israel at Horeb. In Biblical typology, Amalek is
                 looked at as a type of the flesh. When Israel experienced the
@@ -294,7 +294,7 @@ export default function Genesis36() {
           of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this Chapter, Matthew Henry says, In external
                 prosperity and honor, the children of the Covenant are often
                 cast behind, and those who are out of the Covenant, such as

@@ -17,7 +17,7 @@ export default function Ecclesiastes08() {
           and the boldness of his face shall be changed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Christ, Who is Wisdom, lives by the Power of the Holy
                 Spirit in the heart of man, man is made intelligent, and his
                 face, naturally discontented and gloomy, is made bright and
@@ -41,7 +41,7 @@ export default function Ecclesiastes08() {
           commandment, and that in regard of the oath of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This basically has to do with{" "}
                 <ScrollLink href="/psalm-089" scrollToId="#filepos6305871">
                   <span className="calibre_19">
@@ -70,7 +70,7 @@ export default function Ecclesiastes08() {
           stand not in an evil thing; for He does whatsoever pleases Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We should seek to please Christ in all things, which we can do
                 only by constantly exhibiting Faith in Christ and what He has
                 done for us at the Cross [Rom., Chpt.{" "}
@@ -94,7 +94,7 @@ export default function Ecclesiastes08() {
           power: and who may say unto Him, What do You?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though God will not answer the questions of prideful
                 conceit, still, He will answer the questions of the broken,
                 contrite, searching heart [
@@ -118,7 +118,7 @@ export default function Ecclesiastes08() {
           judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Christian, though he knows there will be a day of judgment,
                 feels no terror, because all has been committed to the King.)
               </span>
@@ -135,7 +135,7 @@ export default function Ecclesiastes08() {
           time and judgment, therefore the misery of man is great upon him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The misery of man is the guilt of unpardoned sin and the
                 knowledge that a future day of reckoning is coming. That misery
                 can only be assuaged at the Cross of Christ.)
@@ -150,7 +150,7 @@ export default function Ecclesiastes08() {
           for who can tell him when it shall be?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No man knows when that time of judgment will come; however, the
                 righteous man is not troubled, because he has committed the
                 judgment to Christ.)
@@ -167,7 +167,7 @@ export default function Ecclesiastes08() {
           deliver those who are given to it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wickedness here means a way of salvation other than Gods Way.
                 Human priests offer dying men a salvation which they themselves
                 have invented, and many Preachers also offer a salvation other
@@ -185,7 +185,7 @@ export default function Ecclesiastes08() {
           wherein one man rules over another to his own hurt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To rule over another in the things of the Lord will ultimately
                 bring hurt both to the ruler and to the ruled. This is the
                 doctrine of the Nicolaitanes, which the Lord hates [
@@ -209,7 +209,7 @@ export default function Ecclesiastes08() {
           in the city where they had so done: this is also vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the wicked dying in the false hope of a false
                 plan of salvation.)
               </span>
@@ -224,7 +224,7 @@ export default function Ecclesiastes08() {
           is fully set in them to do evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The government is morally and spiritually obligated to put down
                 all evil work, whether in the hearts and lives of individuals or
                 in entire nations. To not do so will only increase the evil.)
@@ -240,7 +240,7 @@ export default function Ecclesiastes08() {
           well with them who fear God, which fear before Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sinner placed in his best position cannot begin to compare
                 with the well-being of those who fear God)
               </span>
@@ -256,7 +256,7 @@ export default function Ecclesiastes08() {
           because he fears not before God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the days of the wicked can be prolonged,
                 nevertheless, there will come a day that it will all end.)
               </span>
@@ -273,7 +273,7 @@ export default function Ecclesiastes08() {
           vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Irrespective as to how things may look on the surface, it is
                 eternity to which one must look.)
               </span>
@@ -289,7 +289,7 @@ export default function Ecclesiastes08() {
           his life, which God gives him under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The argument and teaching of the Book of Ecclesiastes is that
                 going the opposite direction of the Lord is folly, for God
                 exists and will bring every action into judgment.)
@@ -324,7 +324,7 @@ export default function Ecclesiastes08() {
           able to find it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To understand everything about God, even the wisest man is
                 unable to do so. Neither are we meant to do so. We can know many
                 things, but the only true thing worthwhile of knowing is that

@@ -264,7 +264,7 @@ export default function Leviticus15() {
           and her flowers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(discharge)</span>
+              <span className="explanation">(discharge)</span>
             </span>
           </span>{" "}
           be upon him, he shall be unclean seven days; and all the bed whereon
@@ -337,7 +337,7 @@ export default function Leviticus15() {
           unto her two turtles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(turtledoves)</span>
+              <span className="explanation">(turtledoves)</span>
             </span>
           </span>
           , or two young pigeons, and bring them unto the Priest, to the door of
@@ -384,7 +384,7 @@ export default function Leviticus15() {
           flowers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(discharge)</span>
+              <span className="explanation">(discharge)</span>
             </span>
           </span>
           , and of him who has an issue, of the man, and of the woman, and of

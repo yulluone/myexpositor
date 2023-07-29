@@ -420,7 +420,7 @@ export default function Samuel107() {
           Gath; and the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           thereof did Israel deliver out of the hands of the Philistines. And

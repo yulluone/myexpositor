@@ -137,7 +137,7 @@ export default function Psalm038() {
           greatly; I go mourning all the day long{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(while on the Cross!)</span>
+              <span className="explanation">(while on the Cross!)</span>
             </span>
           </span>
           .
@@ -173,7 +173,7 @@ export default function Psalm038() {
           and My groaning is not hid from You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(while He was on the Cross!)</span>
+              <span className="explanation">(while He was on the Cross!)</span>
             </span>
           </span>
           .
@@ -266,7 +266,9 @@ export default function Psalm038() {
           they should rejoice over Me: when My foot slips{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when He was put on the Cross)</span>
+              <span className="explanation">
+                (when He was put on the Cross)
+              </span>
             </span>
           </span>
           , they magnify themselves against Me.
@@ -277,7 +279,7 @@ export default function Psalm038() {
           <sup className="calibre7">17</sup>For I am ready to halt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to be offered)</span>
+              <span className="explanation">(to be offered)</span>
             </span>
           </span>
           , and My sorrow is continually before Me.

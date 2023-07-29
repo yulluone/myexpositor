@@ -19,7 +19,7 @@ export default function Exodus01() {
           came with Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We look at the 70 souls, Jacobs family, which, by the Hand of
                 Lord, were brought from Canaan to Egypt, and brought there for
                 safe-keeping, one might say. They were insignificant in the eyes
@@ -51,7 +51,7 @@ export default function Exodus01() {
           loins of Jacob were seventy souls: for Joseph was in Egypt already.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Book of Genesis is the story of the Fall of man. The Book
                 of Exodus is the story of the Redemption of man. Hence, the work
                 of Redemption by Christ is called His Exodus [decease, going out
@@ -75,7 +75,7 @@ export default function Exodus01() {
           brothers, and all that generation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we are to notice, this Book begins with names, hence,
                 Salvation is a personal matter. Joseph died about 80 years
                 before Moses was born.)
@@ -91,7 +91,7 @@ export default function Exodus01() {
           exceeding mighty; and the land was filled with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessings of the Lord were upon Israel)
               </span>
             </span>
@@ -108,7 +108,7 @@ export default function Exodus01() {
           Egypt, which knew not Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who had no regard for Joseph; this new king was probably either
                 Rameses I, or his son, Seti I)
               </span>
@@ -123,7 +123,7 @@ export default function Exodus01() {
           the people of the Children of Israel are more and mightier than we{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed they numbered approximately 2 million; it has
                 been stated by some that in the Egyptian records there is no
                 mention of the Hebrews, as the Bible claims; however, it is
@@ -149,7 +149,7 @@ export default function Exodus01() {
           and so get them up out of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh sets out to destroy Gods people. To be sure, his plans
                 to do so were keen and far-reaching, at least as long as God was
                 left out; but the entrance of God into these plans turned their
@@ -167,7 +167,7 @@ export default function Exodus01() {
           Pharaoh treasure cities, Pithom and Raamses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ruins of these two cities exist presently and, in fact, the
                 latter was the residence of the Court. There is a good
                 possibility that the miracles of Moses recorded in Exodus,{" "}
@@ -209,7 +209,7 @@ export default function Exodus01() {
           the Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Mackintosh says, In reference to the king of
                 Egypt, it may assuredly be said, he did greatly err not knowing
                 God or His changeless counsels. He knew not that, hundreds of
@@ -237,7 +237,7 @@ export default function Exodus01() {
           of Israel to serve with rigour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (rigour is derived from a root which means to break in pieces,
                 to crush)
               </span>
@@ -261,7 +261,7 @@ export default function Exodus01() {
           name of the other Puah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is ironic that the names of the mighty Pharaohs of that day
                 are all but lost to history, whereas the names of these two
                 women who obeyed God are recognized by multiple millions in
@@ -279,7 +279,7 @@ export default function Exodus01() {
           of a midwife to the Hebrew women, and see them upon the stools{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when the child is about to be born)
               </span>
             </span>
@@ -288,7 +288,7 @@ export default function Exodus01() {
           then she shall live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This murderous scheme hatched up by Pharaoh, or someone in his
                 court, was supposed to weaken Israel by denying further growth.
                 Some may ask as to why the Lord allowed such to happen? The
@@ -306,7 +306,7 @@ export default function Exodus01() {
           alive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The midwives, as well, concocted a scheme, no doubt inspired by
                 the Lord, that would bring about the desired results.)
               </span>
@@ -320,7 +320,7 @@ export default function Exodus01() {
           midwives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Shiphrah and Puah)</span>
+              <span className="explanation">(Shiphrah and Puah)</span>
             </span>
           </span>
           , and said unto them, Why have you done this thing, and have saved the
@@ -334,7 +334,7 @@ export default function Exodus01() {
           lively, and are delivered ere the midwives come in unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This scheme called for the midwives to be late, which brought
                 about the desired results.)
               </span>
@@ -348,7 +348,7 @@ export default function Exodus01() {
           midwives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that this is what the Lord told them to do, and He
                 blessed them for their obedience)
               </span>
@@ -357,7 +357,7 @@ export default function Exodus01() {
           : and the people multiplied, and waxed very mighty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaohs scheme was foiled)</span>
+              <span className="explanation">(Pharaohs scheme was foiled)</span>
             </span>
           </span>
         </span>
@@ -369,7 +369,7 @@ export default function Exodus01() {
           midwives feared God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they feared God above Pharaoh)
               </span>
             </span>
@@ -377,13 +377,13 @@ export default function Exodus01() {
           , that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           made them houses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(gave them large families)</span>
+              <span className="explanation">(gave them large families)</span>
             </span>
           </span>
         </span>
@@ -399,7 +399,7 @@ export default function Exodus01() {
           daughter you shall save alive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While Pharaoh desired to weaken the Israelites by demanding
                 that the boy babies be killed at birth, Satans plan was far more
                 sinister. This is the serpents enmity against the Seed of the

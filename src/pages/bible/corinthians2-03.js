@@ -16,7 +16,7 @@ export default function Corinthians203() {
           ourselves?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was in order to prove his Apostleship.)
               </span>
             </span>
@@ -36,7 +36,7 @@ export default function Corinthians203() {
           of commendation from you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is presenting this contention as an obscurity to suppose
                 that he or Timothy should need such letters, either from the
                 Corinthians or to them.)
@@ -51,7 +51,7 @@ export default function Corinthians203() {
           hearts, known and read of all men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Saints at Corinth who had been saved under his
                 Ministry, which were Epistle enough)
               </span>
@@ -71,7 +71,7 @@ export default function Corinthians203() {
           manifestly declared to be the Epistle of Christ ministered by us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ was the Author of this Epistle of which Paul speaks,
                 i.e., souls saved from sin and darkness)
               </span>
@@ -80,7 +80,7 @@ export default function Corinthians203() {
           , written not with ink, but with the Spirit of the Living God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is the highest commendation of all)
               </span>
             </span>
@@ -88,7 +88,7 @@ export default function Corinthians203() {
           ; not in tables of stone, but in fleshy tables of the heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(referring to changed hearts)</span>
+              <span className="explanation">(referring to changed hearts)</span>
             </span>
           </span>
           .
@@ -100,7 +100,7 @@ export default function Corinthians203() {
           to God-ward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the personal confidence Paul had that he was
                 appointed by God, and God accepted his work)
               </span>
@@ -115,7 +115,7 @@ export default function Corinthians203() {
           ourselves to think any thing as of ourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was confident that he possessed that competency through
                 Christ in the sight of God, though personally absolutely
                 incompetent, as are all men for that matter)
@@ -131,7 +131,7 @@ export default function Corinthians203() {
           of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it can either be in God or self; it cannot be in both)
               </span>
             </span>
@@ -148,25 +148,25 @@ export default function Corinthians203() {
           of the New Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the New Covenant)</span>
+              <span className="explanation">(the New Covenant)</span>
             </span>
           </span>
           ; not of the letter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the old Law of Moses)</span>
+              <span className="explanation">(the old Law of Moses)</span>
             </span>
           </span>
           , but of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>
           : for the letter kills{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Law; all the Law can do is kill)
               </span>
             </span>
@@ -174,7 +174,7 @@ export default function Corinthians203() {
           , but the Spirit gives life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and does so through Christ, due to what Christ did at the Cross
                 [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13387535">
@@ -196,7 +196,7 @@ export default function Corinthians203() {
           <sup className="calibre7">7</sup>But if the ministration of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Moses)</span>
+              <span className="explanation">(the Law of Moses)</span>
             </span>
           </span>
           , written{" "}
@@ -208,7 +208,7 @@ export default function Corinthians203() {
           engraved in stones, was glorious{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and it was)</span>
+              <span className="explanation">(and it was)</span>
             </span>
           </span>
           , so that the children of Israel could not stedfastly behold the face
@@ -221,7 +221,7 @@ export default function Corinthians203() {
           was to be done away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the glory on Moses face faded, just as the Law faded, as it was
                 intended to when Christ came)
               </span>
@@ -236,7 +236,7 @@ export default function Corinthians203() {
           Spirit be rather glorious?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is a much better Covenant, based on better Promises [
                 <ScrollLink href="/hebrews-08" scrollToId="#filepos14505595">
                   <span className="calibre_19">
@@ -266,13 +266,13 @@ export default function Corinthians203() {
           glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Moses)</span>
+              <span className="explanation">(the Law of Moses)</span>
             </span>
           </span>
           , much more does the ministration of Righteousness exceed in glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to what Christ did for us at the Cross, which made it
                 possible for the Holy Spirit to do great things within our
                 lives, providing we keep our Faith in the Cross; evidently, some
@@ -292,7 +292,7 @@ export default function Corinthians203() {
           excels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The glory of the Law of Moses could not begin to compare with
                 the Glory of the New Covenant.)
               </span>
@@ -311,7 +311,7 @@ export default function Corinthians203() {
           glorious{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law)</span>
+              <span className="explanation">(the Law)</span>
             </span>
           </span>
           , much more that which remains{" "}
@@ -323,7 +323,7 @@ export default function Corinthians203() {
           glorious.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the Gospel of Christ, which is forever [
                 <ScrollLink href="/hebrews-13" scrollToId="#filepos14606342">
                   <span className="calibre_19">
@@ -346,7 +346,7 @@ export default function Corinthians203() {
           <sup className="calibre7">12</sup>Seeing then that we have such hope{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which only the Cross could bring about)
               </span>
             </span>
@@ -354,7 +354,7 @@ export default function Corinthians203() {
           , we use great plainness of speech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(doesnt mince words)</span>
+              <span className="explanation">(doesnt mince words)</span>
             </span>
           </span>
           :
@@ -372,7 +372,7 @@ export default function Corinthians203() {
           stedfastly look to the end of that which is abolished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the glory on Moses face faded, and was meant to show
                 that the Law would fade as well, which it did with Christ Who
                 fulfilled it all)
@@ -387,7 +387,7 @@ export default function Corinthians203() {
           <sup className="calibre7">14</sup>But their minds were blinded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they didnt understand the Law was meant to be phased out)
               </span>
             </span>
@@ -396,7 +396,7 @@ export default function Corinthians203() {
           of the Old Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was still trying to live by the Law, and some were
                 trying to force it into the New Covenant)
               </span>
@@ -411,7 +411,7 @@ export default function Corinthians203() {
           is done away in Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law was meant to be fulfilled by Christ, and it was
                 fulfilled by Christ.)
               </span>
@@ -425,13 +425,13 @@ export default function Corinthians203() {
           is read{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Old Testament)</span>
+              <span className="explanation">(the Old Testament)</span>
             </span>
           </span>
           , the veil is upon their heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Israel not seeing the true meaning and beauty of
                 their own Scriptures, which portrayed Christ.)
               </span>
@@ -445,7 +445,7 @@ export default function Corinthians203() {
           the Lord, the veil shall be taken away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which will be done at the Second Coming)
               </span>
             </span>
@@ -458,7 +458,7 @@ export default function Corinthians203() {
           <sup className="calibre7">17</sup>Now the Lord is that Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>
           : and where the Spirit of the Lord{" "}
@@ -467,7 +467,7 @@ export default function Corinthians203() {
               <span className="calibre_19">is</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is with all who Preach the Cross),
               </span>
             </span>
@@ -481,7 +481,7 @@ export default function Corinthians203() {
           Liberty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Liberty to live a Holy life by placing ones Faith in the Cross,
                 which gives the Holy Spirit the latitude to work mightily in our
                 hearts and lives)
@@ -496,7 +496,7 @@ export default function Corinthians203() {
           <sup className="calibre7">18</sup>But we all, with open face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all who do not know Christ are veiled, i.e., shut off)
               </span>
             </span>
@@ -504,13 +504,13 @@ export default function Corinthians203() {
           beholding as in a glass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(looking into a mirror)</span>
+              <span className="explanation">(looking into a mirror)</span>
             </span>
           </span>{" "}
           the Glory of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because the Holy Spirit lives within our hearts)
               </span>
             </span>
@@ -518,7 +518,7 @@ export default function Corinthians203() {
           , are changed into the same image from glory to glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (changed into Christlikeness, with the glory getting greater and
                 greater, while it became dimmer and dimmer with Moses)
               </span>
@@ -533,7 +533,7 @@ export default function Corinthians203() {
           as by the Spirit of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit Alone can make us what we ought to be, which He
                 does within the parameters of the Finished Work of Christ and
                 our Faith in that Sacrifice)

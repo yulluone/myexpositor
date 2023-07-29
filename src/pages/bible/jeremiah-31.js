@@ -516,7 +516,7 @@ export default function Jeremiah31() {
           heard in Ramah, lamentation, and bitter weeping; Rahel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Rachel)</span>
+              <span className="explanation">(Rachel)</span>
             </span>
           </span>{" "}
           weeping for her children refused to be comforted for her children,

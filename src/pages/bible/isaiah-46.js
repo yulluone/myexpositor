@@ -17,7 +17,7 @@ export default function Isaiah46() {
           heavy laden; they are a burden to the weary beast.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fall of the gods of Babylon is among the direct
                 consequences of the victories of Cyrus. The Prophet expresses
                 the downfall of material imagery, graphically describing the
@@ -36,7 +36,7 @@ export default function Isaiah46() {
           captivity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning of this Passage is that these gods were, in each
                 case, unable to deliver or save from capture. Consequently, they
                 were carried off on the backs of weary beasts.
@@ -67,7 +67,7 @@ export default function Isaiah46() {
           the belly, which are carried from the womb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though this Prophecy was given some 200 years before the
                 fact, still, the Holy Spirit is addressing Israel at the time of
                 their Restoration from Babylon. He says, Hearken unto Me. The
@@ -86,7 +86,7 @@ export default function Isaiah46() {
           even I will carry, and will deliver you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is this: The mother carries the child for a
                 while, but soon tires of carrying him and leaves him to shift
                 for himself. But Gods tender Care for His People lasts from
@@ -117,7 +117,7 @@ export default function Isaiah46() {
           Me equal, and compare Me, that we may be like?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no equal to the Lord! There is only one image of God
                 that is favored by the Holy Spirit. Paul said: For whom He did
                 foreknow, He also did predestinate to be conformed to the Image
@@ -144,7 +144,7 @@ export default function Isaiah46() {
           god: they fall down, yes, they worship.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit puts forth the fallacy of
                 worshipping something inferior to the one who made it.)
               </span>
@@ -160,7 +160,7 @@ export default function Isaiah46() {
           answer, nor save him out of his trouble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let it ever be known that if its not Christ, it is an idol and,
                 as such, it cannot answer, nor save out of trouble.)
               </span>
@@ -174,7 +174,7 @@ export default function Isaiah46() {
           men: bring it again to mind, O you transgressors.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It could be translated, Remember, and keep remembering this
                 fact, and show yourselves men against idolatry. In other words,
                 quit acting like a beast, which can neither consider nor
@@ -191,7 +191,7 @@ export default function Isaiah46() {
           Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the things that the Lord has done in the past, and will do in
                 the present for those who believe Him, prove Him to be God in a
                 sense in which the Word cannot be applied to any other. The
@@ -224,7 +224,7 @@ export default function Isaiah46() {
           saying, My counsel shall stand, and I will do all My pleasure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this declares that God has a distinct, Divine Plan; to
                 be sure, that Plan will be carried through to completion)
               </span>
@@ -241,7 +241,7 @@ export default function Isaiah46() {
           also do it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this time, it was strange to Jewish ears that God would use
                 a heathen, a Gentile, and from a far country. But this is
                 exactly what the Lord did, as it regards Cyrus, whom He refers
@@ -260,7 +260,7 @@ export default function Isaiah46() {
           who are far from righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the transgressors of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7825866">
                   <span className="calibre_19">
@@ -286,7 +286,7 @@ export default function Isaiah46() {
           place Salvation in Zion for Israel My Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Salvation is found alone in Zion, i.e., in Christ; and it is
                 found in Him with eternal Glory [
                 <ScrollLink href="/timothy2-2" scrollToId="#filepos14344195">

@@ -18,7 +18,7 @@ export default function Hosea07() {
           robbers spoils without.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first seven{" "}
                 <ScrollLink href="/" scrollToId="#filepos10020218">
                   <span className="calibre_19">
@@ -59,7 +59,7 @@ export default function Hosea07() {
           them about; they are before My Face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evil conceived in the heart produces manifest fruits which are
                 seen by both God and man. And they consider not in their hearts
                 that I remember all their wickedness, proclaims these people as
@@ -76,7 +76,7 @@ export default function Hosea07() {
           wickedness, and the princes with their lies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wicked kings and princes welcome religious teachers who assure
                 them that there is no Wrath to come or Lake of Fire. These lies
                 make glad the hearers.)
@@ -92,7 +92,7 @@ export default function Hosea07() {
           dough, until it be leavened.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They are all adulterers, speaks of idol worship, i.e.,
                 spiritual adultery. This Verse in essence says, Sin, if left
                 unchecked, will, as leaven, corrupt the whole.)
@@ -108,7 +108,7 @@ export default function Hosea07() {
           with scorners.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the corruption and spiritual rot permeated the
                 whole of Israel from the Throne to the hovel. All were
                 leavened.)
@@ -124,7 +124,7 @@ export default function Hosea07() {
           night; in the morning it burns as a flaming fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the heart of the people is
                 compared to an oven, but with this difference: no baker was
                 needed to sit up all night to keep up its temperature, for it
@@ -150,7 +150,7 @@ export default function Hosea07() {
           them who calls unto Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is none among them who calls unto Me, means that amid the
                 horrid scenes of blood and violence, of disorder and anarchy,
                 there were none of these kings who realized the calamities of
@@ -171,7 +171,7 @@ export default function Hosea07() {
           the people; Ephraim is a cake not turned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ephraim, he has mixed himself among the people, refers to them
                 adopting the idolatries of the neighboring nations in addition
                 to their own semi-idolatry of the calves. The phrase, Ephraim is
@@ -191,7 +191,7 @@ export default function Hosea07() {
           he knows not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gray hairs signal the end of life and the approach of
                 death. Yet, Israel knows it not.)
               </span>
@@ -206,7 +206,7 @@ export default function Hosea07() {
           for all this.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they do not return to the LORD their God, nor seek Him for
                 all this, emphasizes their obstinate blindness and
                 perverseness.)
@@ -221,7 +221,7 @@ export default function Hosea07() {
           without heart: they call to Egypt, they go to Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Lord calls silly all those who refuse to seek
                 Him, or else do so improperly.)
               </span>
@@ -236,7 +236,7 @@ export default function Hosea07() {
           will chastise them, as their congregation has heard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The warnings in the Law and those given by the Prophets
                 repeatedly declared that Judgments would fall upon the
                 disobedient and rebellious [
@@ -276,7 +276,7 @@ export default function Hosea07() {
           Me: though I have redeemed them, yet they have spoken lies against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Spiritual declension is further marked by: 1. Turning away from
                 the Lord; 2. Transgressing against Him; 3. Speaking lies
                 respecting Him; and, 4. Rebellion against Him.)
@@ -292,7 +292,7 @@ export default function Hosea07() {
           themselves for corn and wine, and they rebel against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They cried with a voice but not with the heart. It was not the
                 soft sobbing of Repentance, but the howling with pain of a hurt
                 beast; in other words, a ritual, or an act, if you please!)
@@ -307,7 +307,7 @@ export default function Hosea07() {
           their arms, yet do they imagine mischief against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord helped Jeroboam II to win all his victories; yet his
                 response and that of his subjects was to imagine mischief
                 against that Gracious God, that is, they planned and kept on
@@ -333,7 +333,7 @@ export default function Hosea07() {
           the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They return, but not to the Most High, concerns them seeking
                 help from other sources. They are like a deceitful bow, refers
                 to a bow that warps so that to shoot straight is impossible. In

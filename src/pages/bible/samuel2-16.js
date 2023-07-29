@@ -33,7 +33,7 @@ export default function Samuel216() {
           masters son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking of Mephibosheth)</span>
+              <span className="explanation">(speaking of Mephibosheth)</span>
             </span>
           </span>
           ? And Ziba said unto the king, Behold, he abides at Jerusalem: for he
@@ -41,7 +41,9 @@ export default function Samuel216() {
           father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ziba lied about Mephibosheth)</span>
+              <span className="explanation">
+                (Ziba lied about Mephibosheth)
+              </span>
             </span>
           </span>
         </span>

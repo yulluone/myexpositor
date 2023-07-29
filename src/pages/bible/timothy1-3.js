@@ -43,7 +43,7 @@ export default function Timothy13() {
           <sup className="calibre7">2</sup>A Bishop{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastor)</span>
+              <span className="explanation">(Pastor)</span>
             </span>
           </span>{" "}
           then must be blameless{" "}
@@ -82,19 +82,21 @@ export default function Timothy13() {
           <sup className="calibre7">3</sup>Not given to wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to alcoholic beverage)</span>
+              <span className="explanation">
+                (refers to alcoholic beverage)
+              </span>
             </span>
           </span>
           , no striker{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not quarrelsome)</span>
+              <span className="explanation">(not quarrelsome)</span>
             </span>
           </span>
           , not greedy of filthy lucre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not money hungry)</span>
+              <span className="explanation">(not money hungry)</span>
             </span>
           </span>
           ; but patient, not a brawler, not covetous;
@@ -114,7 +116,7 @@ export default function Timothy13() {
           , having his children in subjection with all gravity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to obedience)</span>
+              <span className="explanation">(refers to obedience)</span>
             </span>
           </span>
           ;
@@ -259,13 +261,13 @@ export default function Timothy13() {
           <sup className="calibre7">10</sup>And let these also first be proved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mature Christians)</span>
+              <span className="explanation">(mature Christians)</span>
             </span>
           </span>
           ; then let them use the Office of a Deacon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(serve well)</span>
+              <span className="explanation">(serve well)</span>
             </span>
           </span>
           , being{" "}
@@ -324,7 +326,7 @@ export default function Timothy13() {
           one wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(identical to Verses 2, 4-5)</span>
+              <span className="explanation">(identical to Verses 2, 4-5)</span>
             </span>
           </span>
           , ruling their children and their own houses well.
@@ -363,7 +365,7 @@ export default function Timothy13() {
           hoping to come unto you shortly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hoping to meet Timothy soon)</span>
+              <span className="explanation">(hoping to meet Timothy soon)</span>
             </span>
           </span>
           :
@@ -503,7 +505,7 @@ export default function Timothy13() {
           , believed on in the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accepted by many)</span>
+              <span className="explanation">(accepted by many)</span>
             </span>
           </span>
           , received up into Glory.{" "}

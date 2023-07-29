@@ -227,7 +227,7 @@ export default function Judges11() {
           through his coast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>
           : but Sihon gathered all his people together, and pitched in Jahaz,
@@ -306,7 +306,7 @@ export default function Judges11() {
           you not recover them within that time?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Good question!)</span>
+              <span className="explanation">(Good question!)</span>
             </span>
           </span>
         </span>

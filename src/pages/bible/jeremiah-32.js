@@ -570,7 +570,7 @@ export default function Jeremiah32() {
           houses, upon whose roofs they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Israelites)</span>
+              <span className="explanation">(the Israelites)</span>
             </span>
           </span>{" "}
           have offered incense unto Baal, and poured out drink offerings unto

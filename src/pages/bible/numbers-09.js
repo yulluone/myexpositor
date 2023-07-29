@@ -160,7 +160,7 @@ export default function Numbers09() {
           in a journey, and forbears to keep the Passover{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(does not keep the Passover)</span>
+              <span className="explanation">(does not keep the Passover)</span>
             </span>
           </span>
           , even the same soul shall be cut off from among his people: because
@@ -185,7 +185,7 @@ export default function Numbers09() {
           shall he do: you shall have one Ordinance, both for the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , and for him who was born in the land{" "}
@@ -208,7 +208,7 @@ export default function Numbers09() {
           was reared up the cloud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Glory of the Lord)</span>
+              <span className="explanation">(Glory of the Lord)</span>
             </span>
           </span>{" "}
           covered the Tabernacle, namely, the tent of the Testimony: and at

@@ -20,7 +20,7 @@ export default function Ezekiel10() {
           a throne.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The departure of the Glory of God from the Temple is the Vision
                 of this Chapter. It retires unwillingly. Its Throne was the Most
                 Holy Place. This Chapter plus the next will show the God of
@@ -58,7 +58,7 @@ export default function Ezekiel10() {
           scatter them over the city. And He went in in my sight.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Righteousness is the foundation of Divine action, whether in
                 Redemption or Judgment. He Who in Grace set the mark upon the
                 redeemed also casts the burning fire upon the rebels. The
@@ -98,7 +98,7 @@ export default function Ezekiel10() {
           inner court.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And the cloud filled the inner court, was the same
                 cloud that filled the house over 400 years before when Solomon
                 dedicated the Temple [
@@ -125,7 +125,7 @@ export default function Ezekiel10() {
           brightness of the LORDs Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As He leaves the Temple, the Glory of the Lord pauses over the
                 threshold of the house, which is its entrance. It is as if He
                 does not want to go, but has no choice but to leave, because He
@@ -143,7 +143,7 @@ export default function Ezekiel10() {
           when He speaks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is beautiful and yet amazing that the Holy Spirit uses the
                 Name Almighty God respecting this event. In the Hebrew, it says
                 El Shaddai, which means The Breasted One, or The All-Sufficient
@@ -170,7 +170,7 @@ export default function Ezekiel10() {
           clothed with linen: Who took it, and went out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is similar to what John saw when he spoke of the Angel,
                 who took a censer and filled it with the fire of the Altar, and
                 cast it into the Earth [
@@ -193,7 +193,7 @@ export default function Ezekiel10() {
           the form of a mans hand under their wings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The detailed statement of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9125171">
                   <span className="calibre_19">
@@ -230,7 +230,7 @@ export default function Ezekiel10() {
           a beryl stone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The indication is that the wheels have to do with direction
                 because of the eyes [
                 <ScrollLink href="/" scrollToId="#filepos9127811">
@@ -252,7 +252,7 @@ export default function Ezekiel10() {
           four had one likeness, as if a wheel had been in the midst of a wheel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wheel in the middle of a wheel simulates constant activity,
                 referring to sure and certain direction.)
               </span>
@@ -267,7 +267,7 @@ export default function Ezekiel10() {
           head looked they followed it; they turned not as they went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wheels normally turn, but these do not: they turned not as they
                 went. But to the place whither the head looked they followed it,
                 refers to the chief or principal wheel, which it seems
@@ -298,7 +298,7 @@ export default function Ezekiel10() {
           eyes round about, even the wheels that they four had.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/ezekiel-01" scrollToId="#filepos9024630">
                   <span className="calibre_19">
@@ -322,7 +322,7 @@ export default function Ezekiel10() {
           them in my hearing, O wheel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (O wheel, should read, As for the wheels, it was cried unto each
                 one of them, Move! That is, each wheel was commanded to move in
                 order to execute the Divine purpose.)
@@ -339,7 +339,7 @@ export default function Ezekiel10() {
           an eagle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This description is slightly different from the first, inasmuch
                 as the Cherub was substituted for the ox [
                 <ScrollLink href="/ezekiel-01" scrollToId="#filepos9019704">
@@ -373,7 +373,7 @@ export default function Ezekiel10() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wheels and the wings of the Cherubims all move as by one
                 harmonious impulse.)
               </span>
@@ -388,7 +388,7 @@ export default function Ezekiel10() {
           Spirit of the Living Creature was in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the Spirit of the Living Creature was in them, implies the
                 Holy Spirit, as it does in{" "}
                 <ScrollLink href="/ezekiel-01" scrollToId="#filepos9025840">
@@ -410,7 +410,7 @@ export default function Ezekiel10() {
           from off the threshold of the house, and stood over the Cherubims.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays the Holy Spirit leaving the Temple in Jerusalem.
                 One is reminded of the wife of Phinehas, who, shortly before she
                 died, named the child Ichabod, saying, The Glory is departed
@@ -437,7 +437,7 @@ export default function Ezekiel10() {
           was over them above.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This describes the place of departure of the Glory of the Lord
                 and also of its return, as described in{" "}
                 <ScrollLink href="/ezekiel-43" scrollToId="#filepos9647182">
@@ -461,7 +461,7 @@ export default function Ezekiel10() {
           they were the Cherubims.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the Living Creature that I saw under the God of Israel,
                 refers to the Cherubim being a part of the Throne of God, which
                 is borne out by John the Beloved [
@@ -485,7 +485,7 @@ export default function Ezekiel10() {
           their wings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The difference in Johns description and Ezekiels is that Johns
                 has six wings, whereas Ezekiels has four wings [
                 <ScrollLink href="/revelation-04" scrollToId="#filepos14930013">
@@ -508,7 +508,7 @@ export default function Ezekiel10() {
           and themselves: they went every one straight forward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, They went every one straight forward, signifies
                 that with the Father of Lights there is no variableness, neither
                 shadow of turning [

@@ -17,7 +17,7 @@ export default function Chronicles112() {
           Kish: and they were among the mighty men, helpers of the war.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a glorious Chapter, as Israel finally begins to do Gods
                 Will. It begins with Davids darkest days. It closes with
                 unimaginable victory. The present need is helpers of the war,
@@ -70,7 +70,7 @@ export default function Chronicles112() {
           arrows out of a bow, even of Sauls brethren of Benjamin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though these were Benjamites, and consequently from Sauls
                 Tribe, still, they knew the anointing of God rested on David,
                 and not on Saul. How much faith did it take for these men to
@@ -124,13 +124,13 @@ export default function Chronicles112() {
           as the roes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deer)</span>
+              <span className="explanation">(deer)</span>
             </span>
           </span>{" "}
           upon the mountains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the spirit world, these men were so anointed by the Holy
                 Spirit that their faces looked like lions, and their swiftness
                 was as deer; what do we look like to the spirit world?)
@@ -184,7 +184,7 @@ export default function Chronicles112() {
           the west.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Bible says, back up in the Eighth Verse, that the Gadites
                 [from the Tribe of Gad] there separated themselves unto David.
                 There has to be a separation from mans way to Gods Way. There
@@ -202,7 +202,7 @@ export default function Chronicles112() {
           Benjamin and Judah to the hold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where David was camped)</span>
+              <span className="explanation">(where David was camped)</span>
             </span>
           </span>{" "}
           unto David.
@@ -222,7 +222,7 @@ export default function Chronicles112() {
           <sup className="calibre7">18</sup>Then the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           came upon Amasai, who was chief of the captains, and he said, Yours
@@ -231,7 +231,7 @@ export default function Chronicles112() {
           David received them, and made them captains of the band{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Yours are we, David, and on your side, must ever be
                 the statement of any Child of God concerning the Lord Jesus
                 Christ; as Amasai burned his bridges behind him, so to speak,
@@ -253,7 +253,7 @@ export default function Chronicles112() {
           of our heads{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some of Manasseh coming to David implies, at the same time,
                 that some did not come; regrettably, that seems to always be the
                 case!)
@@ -285,7 +285,7 @@ export default function Chronicles112() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was Gods time for Israel; David was His man; consequently,
                 all who were in the Will of God came to David; otherwise, they
                 were out of the Will of God)
@@ -302,7 +302,7 @@ export default function Chronicles112() {
           turn the kingdom of Saul to him, according to the Word of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were not coming to be armed; they were ready armed. So
                 many today in modern Christendom are not armed and, therefore,
                 are of no consequence to the Work of God.
@@ -378,7 +378,7 @@ export default function Chronicles112() {
           David king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these individuals were expressed by name, and wanted everyone
                 to know that they had come to make David king; they were not
                 ashamed of their mission; they wanted all to know their purpose;
@@ -397,7 +397,7 @@ export default function Chronicles112() {
           brethren were at their commandment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we follow the Holy Spirit like they were then doing, we
                 will, as well, have understanding of the times; only those who
                 truly follow the Lord will know what the Church ought to do)
@@ -414,7 +414,7 @@ export default function Chronicles112() {
           which could keep rank: they were not of double heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Far too many Christians cannot keep rank simply because their
                 hearts are divided between the world and the Lord Jesus Christ,
                 or else between denominational religion and the Lord Jesus
@@ -445,7 +445,7 @@ export default function Chronicles112() {
           and with them with shield and spear thirty and seven thousand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How is it that only 6,800 of Judah came [
                 <ScrollLink href="/" scrollToId="#filepos4493668">
                   <span className="calibre_19">
@@ -495,7 +495,7 @@ export default function Chronicles112() {
           David king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel, at this time, is finally marching in tune with the Holy
                 Spirit)
               </span>
@@ -519,7 +519,7 @@ export default function Chronicles112() {
           abundantly: for there was joy in Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now there is fellowship, there is plenty, and there is joy, all
                 because Israel is now in the Will of God. It should be noted
                 that in the entirety of this Chapter, the seven-and-a-half year

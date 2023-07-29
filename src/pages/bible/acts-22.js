@@ -15,7 +15,7 @@ export default function Acts22() {
           <sup className="calibre7">1</sup>Men, Brethren, and Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the beginning of Pauls final address to Israel, at
                 least which is recorded, which will culminate the next day with
                 the Sanhedrin)
@@ -31,7 +31,7 @@ export default function Acts22() {
           now unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents some of the greatest words they will ever hear; Paul
                 was the instrument, but the Holy Spirit was the Speaker)
               </span>
@@ -63,7 +63,7 @@ export default function Acts22() {
           in Cilicia, yet brought up in this city at the feet of Gamaliel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (automatically gave Paul credibility)
               </span>
             </span>
@@ -78,7 +78,7 @@ export default function Acts22() {
           was zealous toward God, as you all are this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this means Paul was a Scholar in the Mosaic Law)
               </span>
             </span>
@@ -91,7 +91,7 @@ export default function Acts22() {
           <sup className="calibre7">4</sup>And I persecuted this Way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Way of the Lord Jesus Christ)
               </span>
             </span>
@@ -99,7 +99,7 @@ export default function Acts22() {
           unto the death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his persecution of Believers had resulted in the death of some)
               </span>
             </span>
@@ -107,7 +107,7 @@ export default function Acts22() {
           , binding and delivering into prisons both men and women{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that he showed no mercy)
               </span>
             </span>
@@ -121,7 +121,7 @@ export default function Acts22() {
           witness, and all the estate of the Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though this happened some twenty-five years before, there,
                 no doubt, were some Jewish Leaders present who knew what he was
                 talking about)
@@ -131,7 +131,7 @@ export default function Acts22() {
           : from whom also I received letters unto the Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/acts-09" scrollToId="#filepos12914745">
                   <span className="calibre_19">
@@ -147,7 +147,7 @@ export default function Acts22() {
           , and went to Damascus, to bring them which were there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(followers of Christ)</span>
+              <span className="explanation">(followers of Christ)</span>
             </span>
           </span>{" "}
           bound unto Jerusalem, for to be punished.
@@ -162,7 +162,7 @@ export default function Acts22() {
           my journey, and was come near unto Damascus about noon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a day Paul would never forget)
               </span>
             </span>
@@ -170,7 +170,7 @@ export default function Acts22() {
           , suddenly there shone from Heaven a great light round about me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (would later be described by him as brighter than the noonday
                 Sun [
                 <ScrollLink href="/acts-26" scrollToId="#filepos13230554">
@@ -192,7 +192,7 @@ export default function Acts22() {
           <sup className="calibre7">7</sup>And I fell unto the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (knocked down by the Power of God)
               </span>
             </span>
@@ -201,7 +201,7 @@ export default function Acts22() {
           Me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When we oppose those who truly belong to the Lord, and I speak
                 of opposing their Righteousness, we are at the same time
                 opposing God.)
@@ -215,7 +215,7 @@ export default function Acts22() {
           <sup className="calibre7">8</sup>And I answered, Who are You, Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul knew that it was Deity to Whom he was speaking.)
               </span>
             </span>
@@ -223,7 +223,7 @@ export default function Acts22() {
           And He said unto me, I am Jesus of Nazareth, Whom you persecute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (describes the Lord using the very Name so hated by Paul)
               </span>
             </span>
@@ -237,7 +237,7 @@ export default function Acts22() {
           the light, and were afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that all of Pauls Testimony could be confirmed by
                 witnesses)
               </span>
@@ -246,7 +246,7 @@ export default function Acts22() {
           ; but they heard not the Voice of Him Who spoke to me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, they did not hear what the Voice
                 said, they only heard the sound)
               </span>
@@ -260,7 +260,7 @@ export default function Acts22() {
           <sup className="calibre7">10</sup>And I said, What shall I do, Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this moment, Paul accepted Christ as his Lord and Saviour.)
               </span>
             </span>
@@ -269,7 +269,7 @@ export default function Acts22() {
           shall be told you of all things which are appointed for you to do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Plan of God for Pauls life and Ministry)
               </span>
             </span>
@@ -283,7 +283,7 @@ export default function Acts22() {
           Glory of that Light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Light shining from Christ was so bright that it blinded
                 Paul)
               </span>
@@ -292,7 +292,7 @@ export default function Acts22() {
           , being led by the hand of them who were with me, I came into Damascus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul coming into the city in an entirely different
                 posture than he had heretofore reckoned)
               </span>
@@ -321,7 +321,7 @@ export default function Acts22() {
           unto me, Brother Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to him in this manner because Paul was already saved)
               </span>
             </span>
@@ -329,7 +329,7 @@ export default function Acts22() {
           , receive your sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was healed immediately, and it seems at that moment Baptized
                 with the Holy Spirit, with the evidence of speaking with other
                 Tongues [
@@ -347,7 +347,7 @@ export default function Acts22() {
           . And the same hour I looked up upon him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/acts-09" scrollToId="#filepos12924468">
                   <span className="calibre_19">
@@ -369,7 +369,7 @@ export default function Acts22() {
           has chosen you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was chosen by the Lord for a particular task)
               </span>
             </span>
@@ -377,7 +377,7 @@ export default function Acts22() {
           , that you should know His Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what the Lord wanted, not what Paul wanted)
               </span>
             </span>
@@ -385,7 +385,7 @@ export default function Acts22() {
           , and see that Just One{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus Christ was to be the focal point of all things)
               </span>
             </span>
@@ -393,7 +393,7 @@ export default function Acts22() {
           , and should hear the Voice of His Mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this made Paul a witness to His Resurrection on the same level
                 as those who saw Him alive before His Ascension)
               </span>
@@ -408,7 +408,7 @@ export default function Acts22() {
           all men of what you have seen and heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of his Great Commission to take the Gospel to the
                 world of that day)
               </span>
@@ -422,7 +422,7 @@ export default function Acts22() {
           <sup className="calibre7">16</sup>And now why do you tarry?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, this presents Ananias telling Paul that it is time
                 to begin.)
               </span>
@@ -431,7 +431,7 @@ export default function Acts22() {
           arise, and be Baptized, and wash away your sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a present action being done because of a past action;
                 he was being Baptized in water because his sins had already been
                 washed away by the Blood of Jesus)
@@ -441,7 +441,7 @@ export default function Acts22() {
           , calling on the Name of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (your sins were washed when you called on the Name of the Lord)
               </span>
             </span>
@@ -458,7 +458,7 @@ export default function Acts22() {
           was come again to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to{" "}
                 <ScrollLink href="/acts-09" scrollToId="#filepos12927759">
                   <span className="calibre_19">
@@ -474,7 +474,7 @@ export default function Acts22() {
           , even while I prayed in the Temple, I was in a trance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of his high regard for the Temple, and at the same time
                 refutes the accusation by some of the Jews that he would pollute
                 the Temple)
@@ -489,13 +489,13 @@ export default function Acts22() {
           <sup className="calibre7">18</sup>And saw Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           saying unto Me, Make haste, and get thee quickly out of Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Lord once more indicting this city, His city, but
                 now in total rebellion against Him)
               </span>
@@ -504,7 +504,7 @@ export default function Acts22() {
           : for they will not receive your testimony concerning Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they not only have rejected the Message of Christ, but would
                 kill Paul as well, if given the opportunity)
               </span>
@@ -525,7 +525,7 @@ export default function Acts22() {
           Stephen was shed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents this event which undoubtedly had a lasting effect on
                 Paul)
               </span>
@@ -535,7 +535,7 @@ export default function Acts22() {
           raiment of them who killed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this made Paul a party to the death of this man)
               </span>
             </span>
@@ -548,13 +548,13 @@ export default function Acts22() {
           <sup className="calibre7">21</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>
           said unto me, Depart: for I will send you far hence unto the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the particular calling of Paul, even as he had been
                 told by Ananias at the time of his conversion [
                 <ScrollLink href="/acts-09" scrollToId="#filepos12922322">
@@ -577,7 +577,7 @@ export default function Acts22() {
           word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the word Gentiles)</span>
+              <span className="explanation">(speaks of the word Gentiles)</span>
             </span>
           </span>
           , and{" "}
@@ -595,7 +595,7 @@ export default function Acts22() {
           from the earth: for it is not fit that he should live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents these people claiming they are Scriptural in their
                 demand for Pauls life)
               </span>
@@ -615,7 +615,7 @@ export default function Acts22() {
           clothes, and threw dust into the air{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(portrayed their anger)</span>
+              <span className="explanation">(portrayed their anger)</span>
             </span>
           </span>
           ,
@@ -628,7 +628,7 @@ export default function Acts22() {
           scourging{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a most terrible form of torture)
               </span>
             </span>
@@ -636,7 +636,7 @@ export default function Acts22() {
           ; that he might know where fore they cried so against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (considering that Paul was speaking in Hebrew, the Roman Captain
                 little knew what was taking place)
               </span>
@@ -653,7 +653,7 @@ export default function Acts22() {
           <sup className="calibre7">25</sup>And as they bound him with thongs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (getting him ready for the beating that would now be inflicted)
               </span>
             </span>
@@ -662,7 +662,7 @@ export default function Acts22() {
           scourge a man who is a Roman, and uncondemned?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul did not shrink from torture when it was directly connected
                 with the Name of Jesus, but he quietly and with much dignity
                 avoided it when ordered by official ignorance.)
@@ -683,7 +683,7 @@ export default function Acts22() {
           this man is a Roman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the rights of Roman citizens were guarded as something sacred
                 by Rome)
               </span>
@@ -698,7 +698,7 @@ export default function Acts22() {
           said unto him, Tell me, are you a Roman? He said, Yes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the Chief Captain had broken the Law even by binding
                 Paul)
               </span>
@@ -713,7 +713,7 @@ export default function Acts22() {
           a great sum obtained I this freedom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims one of the ways Roman citizenship could be gained)
               </span>
             </span>
@@ -727,7 +727,7 @@ export default function Acts22() {
           born{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was born a Roman citizen, either through some service
                 performed for Rome by his family, or else because of living in
                 the city of Tarsus)
@@ -742,13 +742,13 @@ export default function Acts22() {
           <sup className="calibre7">29</sup>Then straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           they departed from him which should have examined him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those who were going to scourge Paul quickly
                 retiring)
               </span>
@@ -771,7 +771,7 @@ export default function Acts22() {
           bands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was no longer restricted, but at the same time held in
                 custody that the Captain may hopefully gain some information)
               </span>
@@ -780,7 +780,7 @@ export default function Acts22() {
           , and commanded the Chief Priests and all their Council to appear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Jewish Sanhedrin, the highest Jewish Council, and ruling
                 Civil and Religious body)
               </span>

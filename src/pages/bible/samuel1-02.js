@@ -345,7 +345,7 @@ export default function Samuel102() {
           house. And the child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Samuel)</span>
+              <span className="explanation">(Samuel)</span>
             </span>
           </span>{" "}
           did minister unto the LORD before Eli the Priest{" "}
@@ -486,7 +486,7 @@ export default function Samuel102() {
           LORD, being a child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in his early teens)</span>
+              <span className="explanation">(in his early teens)</span>
             </span>
           </span>
           , girded with a linen Ephod{" "}
@@ -529,7 +529,7 @@ export default function Samuel102() {
           which is lent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(given)</span>
+              <span className="explanation">(given)</span>
             </span>
           </span>{" "}
           to the LORD. And they went unto their own home{" "}
@@ -685,7 +685,7 @@ export default function Samuel102() {
           <sup className="calibre7">28</sup>And did I choose him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Aaron)</span>
+              <span className="explanation">(Aaron)</span>
             </span>
           </span>{" "}
           out of all the Tribes of Israel to be My Priest, to offer upon My

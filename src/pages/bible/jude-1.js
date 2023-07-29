@@ -226,7 +226,7 @@ export default function Jude1() {
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           has reserved in everlasting chains under darkness unto the Judgment of
@@ -383,7 +383,7 @@ export default function Jude1() {
           , did not bring against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Satan)</span>
+              <span className="explanation">(against Satan)</span>
             </span>
           </span>{" "}
           a railing accusation, but said, The Lord rebuke you{" "}
@@ -404,7 +404,7 @@ export default function Jude1() {
           <sup className="calibre7">10</sup>But these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false teachers)</span>
+              <span className="explanation">(false teachers)</span>
             </span>
           </span>{" "}
           speak evil of those things which they know not{" "}
@@ -535,7 +535,7 @@ export default function Jude1() {
           <sup className="calibre7">12</sup>These are spots{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rocks)</span>
+              <span className="explanation">(rocks)</span>
             </span>
           </span>{" "}
           in your feasts of charity, when they feast with you{" "}
@@ -943,7 +943,7 @@ export default function Jude1() {
           out of the fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fire of destruction)</span>
+              <span className="explanation">(the fire of destruction)</span>
             </span>
           </span>
           ; hating even the garment spotted by the flesh{" "}
@@ -1017,7 +1017,7 @@ export default function Jude1() {
           <sup className="calibre7">25</sup>To the only wise God our Saviour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Cross)</span>
+              <span className="explanation">(speaks of the Cross)</span>
             </span>
           </span>
           ,{" "}

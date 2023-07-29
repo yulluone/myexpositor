@@ -17,7 +17,7 @@ export default function Ezekiel44() {
           was shut.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Inasmuch as the Messiah has entered His Palace, the Inner Gate
                 of the eastern entry shall be shut, thus giving a memorial of
                 the fact, and an assurance that He never again will forsake His
@@ -35,7 +35,7 @@ export default function Ezekiel44() {
           therefore it shall be shut.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehovah, the God of Israel, is the Messiah. The North and South
                 Gates will be the principal entry points of worshippers day and
                 night, who no doubt will come from all over the world, and
@@ -53,7 +53,7 @@ export default function Ezekiel44() {
           same.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Exactly who this Prince is, is not known! However, he is
                 probably the High Priest.)
               </span>
@@ -68,7 +68,7 @@ export default function Ezekiel44() {
           the LORD filled the House of the LORD: and I fell upon my face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The result of the Glory of the Lord filling the House was
                 Ezekiel falling on his face. Thus, is man humbled!)
               </span>
@@ -85,7 +85,7 @@ export default function Ezekiel44() {
           House, with every going forth of the Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Mark well, means sit the heart upon. The heart, the
                 eyes, and the ears are all to be engaged with Jehovahs House and
                 its Ordinances, Laws, and Statutes. On entering Gods Presence,
@@ -104,7 +104,7 @@ export default function Ezekiel44() {
           Israel, let it suffice you of all your abominations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, the Lord takes the Prophet back to the original
                 happenings at the North Gate, for this was the scene of the
                 abominations, which, at least in part, caused the original
@@ -135,7 +135,7 @@ export default function Ezekiel44() {
           Covenant because of all your abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who do not know the Lord profane a True Temple of Worship
                 by professing to be what they are not.)
               </span>
@@ -150,7 +150,7 @@ export default function Ezekiel44() {
           for yourselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is: in the Old Economy of God, the Levites, who
                 were supposed to attend to the duties of the Temple, grew weary
                 of this service, and engaged others, even Gentiles
@@ -179,7 +179,7 @@ export default function Ezekiel44() {
           My Sanctuary, or any stranger who is among the Children of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems from this Verse that in the coming Kingdom Age that
                 the Lord intends for Israel only to serve in the capacity of the
                 Temple, and even certain ones in Israel, the sons of Zadok, with
@@ -206,7 +206,7 @@ export default function Ezekiel44() {
           their idols; they shall even bear their iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the transgressions of the past, of which the Levites
                 were some of the leaders, they now cannot take part in the
                 sacred ministry of the Millennial Temple. However, they will be
@@ -232,7 +232,7 @@ export default function Ezekiel44() {
           Lord GOD, and they shall bear their iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Levites, appointed to teach the Law, turned from that Holy
                 Book and taught mans way of salvation. In this, they have many
                 modern imitators.)
@@ -249,7 +249,7 @@ export default function Ezekiel44() {
           shame, and their abominations which they have committed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Levites will be confined to the Court of the Priests and
                 not permitted to enter the Temple itself. Such will be their
                 punishment all through the Millennial Age.)
@@ -265,7 +265,7 @@ export default function Ezekiel44() {
           shall be done therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some may think it cruel that sentence be imposed on these
                 Levites, who had nothing to do with the sins committed by their
                 fathers many, many centuries in the past; however, the Lord is
@@ -289,7 +289,7 @@ export default function Ezekiel44() {
           the blood, says the Lord GOD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those sons of Zadok who had remained true to the Southern
                 Kingdom will have charge of the most holy services in the
                 Millennial Temple)
@@ -306,7 +306,7 @@ export default function Ezekiel44() {
           shall keep My Charge.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, these are the sons of Zadok [
                 <ScrollLink href="/kings1-02" scrollToId="#filepos3713245">
                   <span className="calibre_19">
@@ -329,7 +329,7 @@ export default function Ezekiel44() {
           minister in the Gates of the Inner Court, and within.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They shall be clothed with linen garments, suggests the
                 Righteousness of Christ, of which they were symbols. And no wool
                 shall come upon them, while they minister, pertains to that
@@ -355,7 +355,7 @@ export default function Ezekiel44() {
           shall not gird themselves with any thing that causes sweat.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Linen bonnets upon their heads, implies that they are to
                 understand, and understand fully, that their Righteousness is of
                 Christ, and not of themselves. As well, the linen breeches
@@ -376,7 +376,7 @@ export default function Ezekiel44() {
           sanctify the people with their garments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Not sanctifying the people with their garments is meant to make
                 a statement. Man is unholy, while Christ is Holy! As well, there
                 is nothing that man can do within himself to obtain holiness,
@@ -395,7 +395,7 @@ export default function Ezekiel44() {
           heads.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egyptian priests and Roman monks shaved the head and those of
                 the Greek Church wore their hair long. Gods Priests will follow
                 neither fashion.)
@@ -410,7 +410,7 @@ export default function Ezekiel44() {
           when they enter into the Inner Court.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The drinking of intoxicating beverages caused the deaths of
                 Nadab and Abihu, the sons of Aaron. They offered strange fire
                 before the Lord [
@@ -441,14 +441,14 @@ export default function Ezekiel44() {
           wives a widow, nor her who is put away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(divorced)</span>
+              <span className="explanation">(divorced)</span>
             </span>
           </span>
           : but they shall take maidens of the seed of the House of Israel, or a
           widow who had a Priest before.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Consequently, celibacy is not advised or sanctioned, except in
                 certain cases; hence, the celibacy of the Roman Catholic Priests
                 has occasioned untold problems for the Catholic Church, in that
@@ -465,7 +465,7 @@ export default function Ezekiel44() {
           between the unclean and the clean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This has always been the duty of the God-called Preacher of the
                 Gospel, whether as Priests under the Old Economy or Preachers
                 under the New Covenant [
@@ -490,7 +490,7 @@ export default function Ezekiel44() {
           shall hallow My Sabbaths.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This simply means that everything is to be judged according to
                 the Word of God.)
               </span>
@@ -506,7 +506,7 @@ export default function Ezekiel44() {
           husband, they may defile themselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Priests will not be allowed to touch any dead person, with
                 the exception of very close relatives. Death is symbolic of the
                 fruit of sin and, therefore, the prohibition [
@@ -529,7 +529,7 @@ export default function Ezekiel44() {
           reckon unto him seven days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even in touching the dead body of a close relative, the Priest
                 would have to go through a cleansing ceremony for seven days.)
               </span>
@@ -544,7 +544,7 @@ export default function Ezekiel44() {
           shall offer his Sin Offering, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Along with going through the seven days of ceremonial
                 cleansing, such a Priest would also be required to offer up a
                 Sin Offering. This did not mean that he had personally sinned,
@@ -562,7 +562,7 @@ export default function Ezekiel44() {
           possession in Israel: I am their possession.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage declares that during the Millennial Reign all
                 Priests should have Jehovah as their possession, and not any
                 territorial or tribal tract such as should be assigned to the
@@ -587,7 +587,7 @@ export default function Ezekiel44() {
           thing in Israel shall be theirs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of their sustenance will come from the Temple and its many
                 services.)
               </span>
@@ -604,7 +604,7 @@ export default function Ezekiel44() {
           your House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The firstfruits, probably one-tenth, of all the Tithes which
                 will go to the Temple belong to the Priests. The phrase, That he
                 may cause the Blessing to rest in your House, implies that if
@@ -621,7 +621,7 @@ export default function Ezekiel44() {
           thing that is dead of itself, or torn, whether it be fowl or beast.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: The animals brought for Sacrifice must not be
                 animals that have died of natural causes or been killed by
                 beasts, but instead the healthiest of the healthy. Calvary, of

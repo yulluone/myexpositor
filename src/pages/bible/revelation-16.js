@@ -48,13 +48,15 @@ export default function Revelation16() {
           <sup className="calibre7">2</sup>And the first{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Angel)</span>
+              <span className="explanation">(Angel)</span>
             </span>
           </span>{" "}
           went, and poured out his Vial upon the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(constitutes the first plague)</span>
+              <span className="explanation">
+                (constitutes the first plague)
+              </span>
             </span>
           </span>
           ; and there fell a noisome and grievous sore upon the men which had
@@ -84,7 +86,7 @@ export default function Revelation16() {
           Vial upon the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mediterranean)</span>
+              <span className="explanation">(the Mediterranean)</span>
             </span>
           </span>
           ; and it became as the blood of a dead{" "}
@@ -556,7 +558,9 @@ export default function Revelation16() {
           <sup className="calibre7">16</sup>And He gathered them together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the pronoun He refers to God)</span>
+              <span className="explanation">
+                (the pronoun He refers to God)
+              </span>
             </span>
           </span>{" "}
           into a place called in the Hebrew tongue Armageddon.{" "}
@@ -637,7 +641,7 @@ export default function Revelation16() {
           three parts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Jerusalem)</span>
+              <span className="explanation">(refers to Jerusalem)</span>
             </span>
           </span>
           , and the cities of the nations fell{" "}

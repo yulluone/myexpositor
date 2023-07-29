@@ -19,7 +19,7 @@ export default function Deuteronmy28() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the condition for all the Blessings which will be pronounced is
                 obedience)
               </span>
@@ -35,7 +35,7 @@ export default function Deuteronmy28() {
           your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessings will be so abundant that they will literally
                 chase down the people of God)
               </span>
@@ -50,7 +50,7 @@ export default function Deuteronmy28() {
           blessed shall you be in the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the location doesnt matter, the Blessings will come)
               </span>
             </span>
@@ -64,20 +64,20 @@ export default function Deuteronmy28() {
           body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the children)</span>
+              <span className="explanation">(the children)</span>
             </span>
           </span>
           , and the fruit of your ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(crops)</span>
+              <span className="explanation">(crops)</span>
             </span>
           </span>
           , a nd the fruit of your cattle, the increase of your kine, and the
           flocks of your sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(herds)</span>
+              <span className="explanation">(herds)</span>
             </span>
           </span>
         </span>
@@ -89,7 +89,9 @@ export default function Deuteronmy28() {
           store{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the storehouses will be full)</span>
+              <span className="explanation">
+                (the storehouses will be full)
+              </span>
             </span>
           </span>
         </span>
@@ -101,7 +103,7 @@ export default function Deuteronmy28() {
           in, and blessed shall you be when you go out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no time limit on the Blessings)
               </span>
             </span>
@@ -116,7 +118,7 @@ export default function Deuteronmy28() {
           out against you one way, and flee before you seven ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because the Lord will fight for Israel)
               </span>
             </span>
@@ -131,7 +133,7 @@ export default function Deuteronmy28() {
           and He shall bless you in the land which the LORD your God gives you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when the Command from the Lord is given, nothing can stop that
                 Command)
               </span>
@@ -147,7 +149,7 @@ export default function Deuteronmy28() {
           Commandments of the LORD your God, and walk in His Ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, the condition of obedience is put before the
                 people)
               </span>
@@ -163,7 +165,7 @@ export default function Deuteronmy28() {
           afraid of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fame of Israel, and her Blessings given by the Lord, will
                 be spread abroad, with all heathen nations afraid of attacking
                 her, because of her God)
@@ -181,7 +183,9 @@ export default function Deuteronmy28() {
           LORD swore unto your fathers to give you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(everything will be bountiful)</span>
+              <span className="explanation">
+                (everything will be bountiful)
+              </span>
             </span>
           </span>
         </span>
@@ -195,7 +199,7 @@ export default function Deuteronmy28() {
           unto many nations, and you shall not borrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the treasure-house of Heaven would be open to Israel)
               </span>
             </span>
@@ -211,7 +215,7 @@ export default function Deuteronmy28() {
           God, which I command you this day, to observe and to do them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again, obedience is set before Israel)
               </span>
             </span>
@@ -226,7 +230,7 @@ export default function Deuteronmy28() {
           the left, to go after other gods to serve them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was to faithfully obey the Law; as well, Believers under
                 the New Covenant can claim the same Promises, in fact, much more
                 easily than Israel of old, because of Christ and the Cross; as
@@ -258,7 +262,7 @@ export default function Deuteronmy28() {
           that all these curses shall come upon you, and overtake you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the curse thus appears as the exact counterpart of the
                 blessing, and because of disobedience)
               </span>
@@ -273,7 +277,7 @@ export default function Deuteronmy28() {
           cursed shall you be in the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the blessings were nationwide, the curse likewise shall be)
               </span>
             </span>
@@ -287,7 +291,7 @@ export default function Deuteronmy28() {
           store{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the storehouses will be empty)
               </span>
             </span>
@@ -302,7 +306,7 @@ export default function Deuteronmy28() {
           flocks of your sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the children will be sickly, and the herds will be few and
                 thin)
               </span>
@@ -317,7 +321,7 @@ export default function Deuteronmy28() {
           in, and cursed shall you be when you go out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing that is done will stop the curse)
               </span>
             </span>
@@ -333,7 +337,7 @@ export default function Deuteronmy28() {
           of the wickedness of your doings, whereby you have forsaken Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Blessings for obedience, destruction for disobedience; it is
                 the same presently)
               </span>
@@ -349,7 +353,7 @@ export default function Deuteronmy28() {
           you go to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sickness will be the lot of Israel)
               </span>
             </span>
@@ -365,7 +369,7 @@ export default function Deuteronmy28() {
           mildew; and they shall pursue you until you perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the Lord be against us, who can be for us?)
               </span>
             </span>
@@ -379,13 +383,15 @@ export default function Deuteronmy28() {
           head shall be brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prayers will not be answered)</span>
+              <span className="explanation">
+                (prayers will not be answered)
+              </span>
             </span>
           </span>
           , and the Earth that is under you shall be iron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will not yield crops)</span>
+              <span className="explanation">(will not yield crops)</span>
             </span>
           </span>
         </span>
@@ -397,13 +403,13 @@ export default function Deuteronmy28() {
           land powder and dust{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there will be no rain)</span>
+              <span className="explanation">(there will be no rain)</span>
             </span>
           </span>
           : from heaven shall it come down upon you, until you be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the curses shall come from heaven, because of disobedience)
               </span>
             </span>
@@ -419,7 +425,7 @@ export default function Deuteronmy28() {
           kingdoms of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this happened totally in A.D. 70, when Titus, the Roman
                 General, laid Jerusalem waste, with hundreds of thousands of
                 Jews sold all over the world as slaves, and they remained
@@ -437,7 +443,7 @@ export default function Deuteronmy28() {
           shall fray them away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(utter defeat in battle)</span>
+              <span className="explanation">(utter defeat in battle)</span>
             </span>
           </span>
         </span>
@@ -450,7 +456,7 @@ export default function Deuteronmy28() {
           itch, whereof you can not be healed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord controls diseases and sickness, as is obvious here)
               </span>
             </span>
@@ -464,7 +470,7 @@ export default function Deuteronmy28() {
           madness, and blindness, and astonishment of heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fear and insanity)</span>
+              <span className="explanation">(fear and insanity)</span>
             </span>
           </span>
           :
@@ -478,7 +484,7 @@ export default function Deuteronmy28() {
           save you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, if God be against us, who can be for us?)
               </span>
             </span>
@@ -494,7 +500,7 @@ export default function Deuteronmy28() {
           gather the grapes thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (plans and labor will be in vain)
               </span>
             </span>
@@ -511,7 +517,7 @@ export default function Deuteronmy28() {
           rescue them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (without God, Israel will be helpless before her enemies)
               </span>
             </span>
@@ -527,7 +533,7 @@ export default function Deuteronmy28() {
           hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel will be powerless)</span>
+              <span className="explanation">(Israel will be powerless)</span>
             </span>
           </span>
         </span>
@@ -540,7 +546,7 @@ export default function Deuteronmy28() {
           only oppressed and crushed always{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(labor will be wasted)</span>
+              <span className="explanation">(labor will be wasted)</span>
             </span>
           </span>
           :
@@ -552,7 +558,7 @@ export default function Deuteronmy28() {
           sight of your eyes which you shall see{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all that is seen is destruction)
               </span>
             </span>
@@ -567,7 +573,7 @@ export default function Deuteronmy28() {
           the sole of your foot unto the top of your head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord can heal, and the Lord can bring about disease)
               </span>
             </span>
@@ -583,7 +589,7 @@ export default function Deuteronmy28() {
           and stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and this is exactly what happened!)
               </span>
             </span>
@@ -598,7 +604,7 @@ export default function Deuteronmy28() {
           LORD shall lead you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this has been fulfilled to the letter, as well!)
               </span>
             </span>
@@ -613,7 +619,7 @@ export default function Deuteronmy28() {
           consume it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(efforts will be wasted)</span>
+              <span className="explanation">(efforts will be wasted)</span>
             </span>
           </span>
         </span>
@@ -633,7 +639,7 @@ export default function Deuteronmy28() {
           oil; for your olive shall cast his fruit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will not bring forth fruit)</span>
+              <span className="explanation">(will not bring forth fruit)</span>
             </span>
           </span>
         </span>
@@ -645,7 +651,7 @@ export default function Deuteronmy28() {
           but you shall not enjoy them; for they shall go into captivity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will be stolen as slaves by heathen tribes)
               </span>
             </span>
@@ -665,7 +671,7 @@ export default function Deuteronmy28() {
           shall get up above you very high; and you shall come down very low{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gentiles in Israel will prosper, but Israelites wont)
               </span>
             </span>
@@ -687,7 +693,7 @@ export default function Deuteronmy28() {
           God, to keep His Commandments and His Statutes which He commanded you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(disobedience)</span>
+              <span className="explanation">(disobedience)</span>
             </span>
           </span>
           :
@@ -699,7 +705,7 @@ export default function Deuteronmy28() {
           sign and for a wonder, and upon your seed for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this, though it may imply the final and utter rejection of
                 Israel as a Nation, does not, however, preclude the hope of
                 restoration; in fact, Israel will be restored, and fully [
@@ -724,7 +730,7 @@ export default function Deuteronmy28() {
           all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of these curses would come upon them, because they would
                 not serve God)
               </span>
@@ -741,7 +747,7 @@ export default function Deuteronmy28() {
           a yoke of iron upon your neck, until he have destroyed you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if Israel would not serve God, they would have to serve their
                 enemies)
               </span>
@@ -757,7 +763,7 @@ export default function Deuteronmy28() {
           flies; a nation whose tongue you shall not understand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and that happened, again and again)
               </span>
             </span>
@@ -772,7 +778,7 @@ export default function Deuteronmy28() {
           young{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and so are all nations which dont know God)
               </span>
             </span>
@@ -788,7 +794,7 @@ export default function Deuteronmy28() {
           kine, or flocks of your sheep, until he have destroyed you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(complete destruction)</span>
+              <span className="explanation">(complete destruction)</span>
             </span>
           </span>
         </span>
@@ -803,7 +809,7 @@ export default function Deuteronmy28() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these cities will be destroyed, which they were by the
                 Babylonians)
               </span>
@@ -820,7 +826,7 @@ export default function Deuteronmy28() {
           your enemies shall distress you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as predicted here, Israel ultimately resorted to
                 cannibalism [
                 <ScrollLink href="/kings2-06" scrollToId="#filepos4108846">
@@ -869,7 +875,7 @@ export default function Deuteronmy28() {
           which he shall leave{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there will be no love in the family, but only hatred)
               </span>
             </span>
@@ -885,7 +891,7 @@ export default function Deuteronmy28() {
           enemies shall distress you in all your gates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Israel could be reduced to such is beyond comprehension,
                 but they were; however, they couldnt say that they were not
                 warned)
@@ -912,7 +918,7 @@ export default function Deuteronmy28() {
           gates.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How could the greatest people on the face of the Earth, so
                 favored by God, fall so low? The answer is simple. When we
                 forsake God, and continue to do so despite continued warnings to
@@ -930,7 +936,7 @@ export default function Deuteronmy28() {
           this glorious and fearful name, THE LORD YOUR GOD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of the entirety of the Book of the Law)
               </span>
             </span>
@@ -959,7 +965,7 @@ export default function Deuteronmy28() {
           LORD bring upon you, until you be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we learn from this, as should be obvious, that God controls all
                 sickness and disease; he may use Satan as His instrument to
                 bring about such, but, still, it is the Lord Who is always in
@@ -977,7 +983,7 @@ export default function Deuteronmy28() {
           would not obey the Voice of the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, disobedience of the Word of the Lord is the cause)
               </span>
             </span>
@@ -993,7 +999,7 @@ export default function Deuteronmy28() {
           and you shall be plucked from off the land where you go to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord rejoices in doing good for those who obey Him, and
                 continues to rejoice over bringing evil on those who disobey
                 Him; the idea is, the Lord rejoices in stamping out evil, even
@@ -1012,7 +1018,7 @@ export default function Deuteronmy28() {
           have known, even wood and stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, if they wouldnt serve God, then they would have
                 to serve idols)
               </span>
@@ -1036,7 +1042,7 @@ export default function Deuteronmy28() {
           assurance of your life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a continued vexation of spirit)
               </span>
             </span>
@@ -1052,7 +1058,7 @@ export default function Deuteronmy28() {
           the sight of your eyes which you shall see{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the person of disobedience is plagued by fear constantly)
               </span>
             </span>
@@ -1068,7 +1074,7 @@ export default function Deuteronmy28() {
           for bondmen and bondwomen, and no man shall buy you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after the capture of Jerusalem by Titus, the Jews were in large
                 numbers carried into Egypt, and there subjected to the most
                 ignominious bondage, exactly as the Scripture foretold)

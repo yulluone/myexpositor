@@ -16,7 +16,7 @@ export default function Ezra01() {
           of Persia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the first year of Cyrus as King of Babylon which is
                 intended; it was 538 B.C.)
               </span>
@@ -26,7 +26,7 @@ export default function Ezra01() {
           fulfilled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah had prophesied not only the fact, but the date, of the
                 return, assigning to the captivity a duration of seventy years [
                 <ScrollLink href="/jeremiah-29" scrollToId="#filepos8553154">
@@ -45,7 +45,7 @@ export default function Ezra01() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this presents the Prophecy of Isaiah being fulfilled, which had
                 been given over 200 years before [
                 <ScrollLink href="/isaiah-44" scrollToId="#filepos7805116">
@@ -76,7 +76,7 @@ export default function Ezra01() {
           LORD God of Heaven has given me all the kingdoms of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the monarch giving praise to the Lord for his
                 position)
               </span>
@@ -85,13 +85,13 @@ export default function Ezra01() {
           ; and He has charged me to build Him an House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Temple)</span>
+              <span className="explanation">(Temple)</span>
             </span>
           </span>{" "}
           at Jerusalem, which is in Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt, his Godly mother Esther had exerted great influence
                 over him for good; as well, he had been shown the Prophecies by
                 Daniel, his aged Prime Minister, and thereby encouraged to
@@ -108,7 +108,7 @@ export default function Ezra01() {
           people?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Proclaims the monarch addressing himself to all the Tribes
                 equally.)
               </span>
@@ -119,7 +119,7 @@ export default function Ezra01() {
           which is in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this latter statement emphatically declares that Jehovah of
                 Israel is the One True God, beside Whom there is no other, which
                 is quite an admission from a heathen monarch)
@@ -137,7 +137,7 @@ export default function Ezra01() {
           offering for the House of God that is in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that he, from the kings treasury, is to give
                 money in order to help this effort)
               </span>
@@ -157,7 +157,7 @@ export default function Ezra01() {
           which is in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (their mission was laid out by the Lord, so there was no need
                 for misunderstanding)
               </span>
@@ -174,7 +174,7 @@ export default function Ezra01() {
           willingly offered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in excess of the offerings which came from the kingdom
                 treasury)
               </span>
@@ -190,7 +190,7 @@ export default function Ezra01() {
           forth out of Jerusalem, and had put them in the house of his gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Sacred Vessels which had been taken out of the
                 Temple in Jerusalem before it was destroyed)
               </span>
@@ -206,7 +206,7 @@ export default function Ezra01() {
           unto Sheshbazzar, the prince of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sheshbazzar is, in fact, Zerubbabel; if the Davidic dynasty had
                 continued, he would now be king; but because of the judgment
                 pronounced upon Jehoiachin [
@@ -246,7 +246,7 @@ export default function Ezra01() {
           unto Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The list of these vessels possess no interest for the natural
                 heart. But how often must our Lord, as man, have read and reread
                 these words! They were all precious to His Heart; and they are

@@ -16,7 +16,7 @@ export default function Jeremiah10() {
           speaks unto you, O House of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (House of Israel, is actually the Kingdom of Judah. It is called
                 such here because of being the only part of Israel that is left.
                 The LORD speaks unto you, is not only intended to address Israel
@@ -35,7 +35,7 @@ export default function Jeremiah10() {
           heathen are dismayed at them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The way of the heathen, actually refers to the religion of the
                 heathen. The signs of heaven, refers, in this case, to the
                 astrological calculations based upon extraordinary appearances
@@ -54,7 +54,7 @@ export default function Jeremiah10() {
           the workman, with the axe.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word customs refers to the images of wood, i.e., idols. The
                 word people refers to heathen nations. The vanity addressed
                 here, concerning the cutting of the tree out of the forest, is
@@ -72,7 +72,7 @@ export default function Jeremiah10() {
           gold; they fasten it with nails and with hammers, that it move not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This making of an idol is the same as described in{" "}
                 <ScrollLink href="/isaiah-41" scrollToId="#filepos7742258">
                   <span className="calibre_19">
@@ -122,7 +122,7 @@ export default function Jeremiah10() {
           them to do good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These absurd man-made idols, which speak not and which have to
                 be carried about because of having no mobility of their own, are
                 not something to be afraid of. They dont have the power to do
@@ -141,7 +141,7 @@ export default function Jeremiah10() {
           You, O LORD; You are great, and Your Name is great in might.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8285061">
                   <span className="calibre_19">
@@ -172,7 +172,7 @@ export default function Jeremiah10() {
           You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, Jeremiah enlarges on the Truth that God is God
                 not only of Israel, but rather the entirety of the world, i.e.,
                 King of nations.)
@@ -187,7 +187,7 @@ export default function Jeremiah10() {
           foolish: the stock is a doctrine of vanities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Doctrine of vanities, is the teaching that such an absurdity is
                 the true god of the nations, which could protect them, etc.)
               </span>
@@ -203,7 +203,7 @@ export default function Jeremiah10() {
           all the work of cunning men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that the maker of these gods had it
                 in mind that the more valuable the metal, such as silver and
                 gold, applied to the idol, and the more elaborate its
@@ -222,7 +222,7 @@ export default function Jeremiah10() {
           tremble, and the nations shall not be able to abide His Indignation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8286987">
                   <span className="calibre_19">
@@ -249,7 +249,7 @@ export default function Jeremiah10() {
           perish from the Earth, and from under these heavens.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse alone in the original Text is written in Chaldee. It
                 provided the Godly exiles with the reply that they were to make
                 to their Babylonian captors when pointing out the impotency and
@@ -266,7 +266,7 @@ export default function Jeremiah10() {
           heavens by His Discretion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Throughout the Bible, the Holy Spirit declares Jehovah as the
                 Creator of the Earth. His Almighty Power made the Earth and His
                 Wisdom established a set of fixed laws which govern its seasons,
@@ -290,7 +290,7 @@ export default function Jeremiah10() {
           brings forth the wind out of His treasures.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When He utters His Voice, emphasizes the Truth that these fixed
                 Laws which govern the Earth, concerning rain and the evaporation
                 process, vapors to ascend from the ends of the Earth, which in
@@ -320,7 +320,7 @@ export default function Jeremiah10() {
           molten image is falsehood, and there is no breath in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every man is brutish in his knowledge, emphasizes the point
                 that except for those who have been enlightened by Revelation
                 knowledge, i.e., the Lord, all others are without knowledge. In
@@ -337,7 +337,7 @@ export default function Jeremiah10() {
           errors: in the time of their visitation they shall perish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word vanity means empty nothings. Work of errors, refers to
                 the rewards of disappointment. In the time of their visitation,
                 refers mostly to coming Judgment. The sense of the Passage is
@@ -355,7 +355,7 @@ export default function Jeremiah10() {
           Inheritance: The LORD of Hosts is His Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The portion of Jacob was totally unlike the portion of the
                 heathen, who did not know God, and had not, as Israel,
                 experienced any Revelation from God. For He is the former of all
@@ -387,7 +387,7 @@ export default function Jeremiah10() {
           land, O inhabitant of the fortress.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The unhappy captives, when setting out for Babylonia from
                 Jerusalem, would be permitted to take nothing with them but what
                 they could carry by hand.)
@@ -403,7 +403,7 @@ export default function Jeremiah10() {
           distress them, that they may find it so.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passage refers to the violence of the expulsion!)
               </span>
             </span>
@@ -416,7 +416,7 @@ export default function Jeremiah10() {
           grievous: but I said, Truly this is a grief, and I must bear it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos8292678">
                   <span className="calibre_19">
@@ -441,7 +441,7 @@ export default function Jeremiah10() {
           Curtains.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All My cords are broken, refers to the Law and Sacrifices, that
                 even though adhered to outwardly, were not, in fact, adhered to
                 at all as far as God was concerned. Despite the presence of the
@@ -461,7 +461,7 @@ export default function Jeremiah10() {
           all their flocks shall be scattered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pastors or shepherds refer to Jehoiakim and the Princes.
                 And all their flocks shall be scattered, referred to him being
                 taken captive by Nebuchadnezzar to Babylon, which, no doubt,
@@ -478,7 +478,7 @@ export default function Jeremiah10() {
           cities of Judah desolate, and a den of dragons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Babylonians entered Israel from the north. Zion refused to
                 listen to the Voice of God, and so was compelled to listen to
                 the voice of the Chaldeans.)
@@ -493,7 +493,7 @@ export default function Jeremiah10() {
           is not in himself: it is not in man who walks to direct his steps.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man is a Spiritual Being, tied to his Creator, Who is God.
                 Without the direction that only God can give, man wanders
                 helplessly! However, man is loath to admit such.)
@@ -508,7 +508,7 @@ export default function Jeremiah10() {
           Judgment; not in Your Anger, lest You bring me to nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that if full and total correction
                 was given, Judah and Jerusalem would be totally destroyed. As
                 well, the idea presents itself that total destruction is what
@@ -526,7 +526,7 @@ export default function Jeremiah10() {
           made his habitation desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of the Passage is that even though Judah has sinned
                 and certainly deserved Judgment, still, these heathen
                 Babylonians must not be allowed to remain in their idolatry;

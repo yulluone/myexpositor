@@ -15,13 +15,13 @@ export default function Timothy16() {
           <sup className="calibre7">1</sup>Let as many servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>{" "}
           as are under the yoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the yoke of slavery)</span>
+              <span className="explanation">(the yoke of slavery)</span>
             </span>
           </span>{" "}
           count their own masters worthy of all honour{" "}
@@ -180,13 +180,13 @@ export default function Timothy16() {
           <sup className="calibre7">4</sup>He is proud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the false teacher)</span>
+              <span className="explanation">(the false teacher)</span>
             </span>
           </span>
           , knowing nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(despite his claims)</span>
+              <span className="explanation">(despite his claims)</span>
             </span>
           </span>
           , but doting about questions and strifes of words{" "}
@@ -264,7 +264,7 @@ export default function Timothy16() {
           is great gain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(true gain)</span>
+              <span className="explanation">(true gain)</span>
             </span>
           </span>
           .
@@ -426,7 +426,7 @@ export default function Timothy16() {
           , whereunto you are also Called{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Called to follow Christ)</span>
+              <span className="explanation">(Called to follow Christ)</span>
             </span>
           </span>
           , and have professed a good profession before many witnesses.{" "}
@@ -455,7 +455,7 @@ export default function Timothy16() {
           , who quickens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(makes alive)</span>
+              <span className="explanation">(makes alive)</span>
             </span>
           </span>{" "}
           all things{" "}
@@ -475,7 +475,7 @@ export default function Timothy16() {
           Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I charge you before Christ)</span>
+              <span className="explanation">(I charge you before Christ)</span>
             </span>
           </span>
           , who before Pontius Pilate witnessed a good confession{" "}
@@ -614,7 +614,7 @@ export default function Timothy16() {
           <sup className="calibre7">17</sup>Charge them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>{" "}
           who are rich in this world{" "}
@@ -629,7 +629,7 @@ export default function Timothy16() {
           , that they be not highminded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proud)</span>
+              <span className="explanation">(proud)</span>
             </span>
           </span>
           , nor trust in uncertain riches{" "}

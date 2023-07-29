@@ -25,7 +25,7 @@ export default function Revelation06() {
           , and I heard, as it were the noise of thunder, one of the four Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creatures)</span>
+              <span className="explanation">(living creatures)</span>
             </span>
           </span>{" "}
           saying, Come and see.{" "}
@@ -82,13 +82,13 @@ export default function Revelation06() {
           <sup className="calibre7">3</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           had opened the second Seal, I heard the second Beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Living Creature)</span>
+              <span className="explanation">(Living Creature)</span>
             </span>
           </span>{" "}
           say, Come and see.{" "}
@@ -127,7 +127,7 @@ export default function Revelation06() {
           was given to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           who sat thereon to take peace from the earth, and that they should
@@ -152,7 +152,7 @@ export default function Revelation06() {
           Seal, I heard the third Beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Living Creature)</span>
+              <span className="explanation">(Living Creature)</span>
             </span>
           </span>{" "}
           say, Come and see{" "}
@@ -238,7 +238,7 @@ export default function Revelation06() {
           <sup className="calibre7">8</sup>And I looked, and behold a pale horse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(symbolic of death)</span>
+              <span className="explanation">(symbolic of death)</span>
             </span>
           </span>
           : and his name that sat on him was Death, and Hell followed with him{" "}
@@ -269,7 +269,7 @@ export default function Revelation06() {
           <sup className="calibre7">9</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           had opened the fifth Seal{" "}
@@ -284,7 +284,7 @@ export default function Revelation06() {
           , I saw under the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Altar of Incense)</span>
+              <span className="explanation">(the Altar of Incense)</span>
             </span>
           </span>{" "}
           the souls of them who were slain{" "}
@@ -322,7 +322,7 @@ export default function Revelation06() {
           <sup className="calibre7">10</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the souls under the Altar)</span>
+              <span className="explanation">(the souls under the Altar)</span>
             </span>
           </span>{" "}
           cried with a loud voice, saying, How long, O Lord, Holy and True{" "}
@@ -400,13 +400,13 @@ export default function Revelation06() {
           <sup className="calibre7">12</sup>And I beheld when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           had open ed the sixth Seal, and, lo, there was a great earthquake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first of several)</span>
+              <span className="explanation">(the first of several)</span>
             </span>
           </span>
           ; and the sun became black as sackcloth of hair{" "}

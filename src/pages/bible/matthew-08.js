@@ -144,13 +144,15 @@ export default function Matthew08() {
           Capernaum{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Headquarters)</span>
+              <span className="explanation">(His Headquarters)</span>
             </span>
           </span>
           , there came unto Him a Centurion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Roman Captain over 100 men)</span>
+              <span className="explanation">
+                (a Roman Captain over 100 men)
+              </span>
             </span>
           </span>
           , beseeching Him{" "}
@@ -310,7 +312,7 @@ export default function Matthew08() {
           , That many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           shall come from the east and west, and shall sit down with Abraham,
@@ -346,7 +348,7 @@ export default function Matthew08() {
           <sup className="calibre7">12</sup>But the children of the Kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           shall be cast out into outer darkness: there shall be weeping and
@@ -368,7 +370,7 @@ export default function Matthew08() {
           Go your way; and as you have believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(believe, not doing)</span>
+              <span className="explanation">(believe, not doing)</span>
             </span>
           </span>
           ,{" "}
@@ -389,19 +391,19 @@ export default function Matthew08() {
           house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Capernaum)</span>
+              <span className="explanation">(in Capernaum)</span>
             </span>
           </span>
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           saw his wifes mother laid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peters mother-in-law)</span>
+              <span className="explanation">(Peters mother-in-law)</span>
             </span>
           </span>
           , and sick of a fever.
@@ -412,19 +414,19 @@ export default function Matthew08() {
           <sup className="calibre7">15</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           touched her hand, and the fever left her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>
           : and she arose, and ministered unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prepared a meal)</span>
+              <span className="explanation">(prepared a meal)</span>
             </span>
           </span>
           .
@@ -446,13 +448,13 @@ export default function Matthew08() {
           , they brought unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           many who were possessed with devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           : and He cast out the spirits with{" "}
@@ -509,7 +511,7 @@ export default function Matthew08() {
           about Him, He gave commandment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(instructions)</span>
+              <span className="explanation">(instructions)</span>
             </span>
           </span>{" "}
           to depart unto the other side{" "}
@@ -528,7 +530,7 @@ export default function Matthew08() {
           <sup className="calibre7">19</sup>And a certain Scribe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(expert in the Law of Moses)</span>
+              <span className="explanation">(expert in the Law of Moses)</span>
             </span>
           </span>{" "}
           came, and said unto Him, Master, I will follow You wherever You go.
@@ -567,7 +569,7 @@ export default function Matthew08() {
           <sup className="calibre7">21</sup>And another of His Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not one of the Twelve)</span>
+              <span className="explanation">(not one of the Twelve)</span>
             </span>
           </span>{" "}
           said unto Him, Lord, suffer me first to go and bury my father{" "}
@@ -586,7 +588,7 @@ export default function Matthew08() {
           <sup className="calibre7">22</sup>But Jesus said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tone of censure)</span>
+              <span className="explanation">(tone of censure)</span>
             </span>
           </span>
           , Follow Me{" "}
@@ -623,7 +625,7 @@ export default function Matthew08() {
           tempest in the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(great storm)</span>
+              <span className="explanation">(great storm)</span>
             </span>
           </span>
           , insomuch that the ship was covered with the waves: but He was
@@ -641,7 +643,7 @@ export default function Matthew08() {
           and awoke Him, saying, Lord, save us: we perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He Alone can save us)</span>
+              <span className="explanation">(He Alone can save us)</span>
             </span>
           </span>
           .
@@ -652,19 +654,21 @@ export default function Matthew08() {
           <sup className="calibre7">26</sup>And He said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the reason for their dilemma)</span>
+              <span className="explanation">
+                (the reason for their dilemma)
+              </span>
             </span>
           </span>
           , Why are you fearful, O you of little faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(misplaced faith)</span>
+              <span className="explanation">(misplaced faith)</span>
             </span>
           </span>
           ? Then He arose, and rebuked the winds and the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(great power)</span>
+              <span className="explanation">(great power)</span>
             </span>
           </span>
           ; and there was a great calm{" "}
@@ -715,7 +719,7 @@ export default function Matthew08() {
           <sup className="calibre7">27</sup>But the men marveled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(were astonished)</span>
+              <span className="explanation">(were astonished)</span>
             </span>
           </span>
           , saying, What manner of man is this, that even the winds and the sea
@@ -738,26 +742,26 @@ export default function Matthew08() {
           side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(eastern side of Galilee)</span>
+              <span className="explanation">(eastern side of Galilee)</span>
             </span>
           </span>{" "}
           into the country of the Gergesenes, there met Him two possessed with
           devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , coming out of the tombs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where they lived)</span>
+              <span className="explanation">(where they lived)</span>
             </span>
           </span>
           , exceeding fierce{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(maniacs)</span>
+              <span className="explanation">(maniacs)</span>
             </span>
           </span>
           , so that no man might pass by that way.
@@ -768,7 +772,7 @@ export default function Matthew08() {
           <sup className="calibre7">29</sup>And, behold, they cried out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking to Christ)</span>
+              <span className="explanation">(speaking to Christ)</span>
             </span>
           </span>
           , saying, What have we to do with You, Jesus, Thou Son of God?{" "}
@@ -807,7 +811,7 @@ export default function Matthew08() {
           them an herd of many swine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hogs)</span>
+              <span className="explanation">(hogs)</span>
             </span>
           </span>{" "}
           feeding.
@@ -818,13 +822,15 @@ export default function Matthew08() {
           <sup className="calibre7">31</sup>So the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           besought Him, saying, If You cast us out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since You are casting us out)</span>
+              <span className="explanation">
+                (since You are casting us out)
+              </span>
             </span>
           </span>
           , suffer us to go away into the herd of swine{" "}
@@ -843,7 +849,7 @@ export default function Matthew08() {
           <sup className="calibre7">32</sup>And He said unto them, Go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims His approval)</span>
+              <span className="explanation">(proclaims His approval)</span>
             </span>
           </span>
           . And when they were come out, they went into the herd of swine: and,
@@ -851,7 +857,7 @@ export default function Matthew08() {
           the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Sea of Galilee)</span>
+              <span className="explanation">(the Sea of Galilee)</span>
             </span>
           </span>
           , and perished in the waters.
@@ -862,14 +868,14 @@ export default function Matthew08() {
           <sup className="calibre7">33</sup>And they that kept them fled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(quickly)</span>
+              <span className="explanation">(quickly)</span>
             </span>
           </span>
           , and went their ways into the city, and told every thing, and what
           was befallen to the possessed of the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his complete deliverance)</span>
+              <span className="explanation">(his complete deliverance)</span>
             </span>
           </span>
           .
@@ -895,7 +901,7 @@ export default function Matthew08() {
           that he would depart out of their coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>
           .

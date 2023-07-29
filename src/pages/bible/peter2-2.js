@@ -44,7 +44,7 @@ export default function Peter22() {
           , even denying the Lord Who bought them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to denying the Cross)</span>
+              <span className="explanation">(refers to denying the Cross)</span>
             </span>
           </span>
           , and bring upon themselves swift destruction{" "}
@@ -65,7 +65,7 @@ export default function Peter22() {
           pernicious ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(actually most!)</span>
+              <span className="explanation">(actually most!)</span>
             </span>
           </span>
           ; by reason of whom the way of Truth shall be evil spoken of{" "}
@@ -201,7 +201,7 @@ export default function Peter22() {
           <sup className="calibre7">5</sup>And spared not the old world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the world before the Flood)</span>
+              <span className="explanation">(the world before the Flood)</span>
             </span>
           </span>
           , but saved Noah the eighth{" "}
@@ -296,7 +296,7 @@ export default function Peter22() {
           , vexed with the filthy conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
           </span>{" "}
           of the wicked{" "}
@@ -423,7 +423,7 @@ export default function Peter22() {
           selfwilled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to arrogance)</span>
+              <span className="explanation">(refers to arrogance)</span>
             </span>
           </span>
           , they are not afraid to speak evil of dignities.{" "}
@@ -443,7 +443,7 @@ export default function Peter22() {
           power and might{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greater than men)</span>
+              <span className="explanation">(greater than men)</span>
             </span>
           </span>
           , bring not railing accusation against them before the Lord.{" "}
@@ -463,7 +463,7 @@ export default function Peter22() {
           <sup className="calibre7">12</sup>But these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false teachers)</span>
+              <span className="explanation">(false teachers)</span>
             </span>
           </span>
           , as natural brute beasts{" "}
@@ -594,7 +594,7 @@ export default function Peter22() {
           : an heart they have exercised with covetous practices{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the love of money)</span>
+              <span className="explanation">(the love of money)</span>
             </span>
           </span>
           ; cursed children{" "}
@@ -637,7 +637,7 @@ export default function Peter22() {
           of Bosor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that way is money)</span>
+              <span className="explanation">(that way is money)</span>
             </span>
           </span>
           , who loved the wages of unrighteousness{" "}
@@ -657,7 +657,7 @@ export default function Peter22() {
           <sup className="calibre7">16</sup>But was rebuked for his iniquity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Balaam was sinning)</span>
+              <span className="explanation">(Balaam was sinning)</span>
             </span>
           </span>
           : the dumb ass speaking with mans voice forbad the madness of the

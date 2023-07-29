@@ -195,7 +195,7 @@ export default function Chronicles105() {
           of them; because they put their trust in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the simple words, put their trust in Him, is the key to all
                 victory)
               </span>
@@ -240,7 +240,7 @@ export default function Chronicles105() {
           of the land, whom God destroyed before them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel went into idolatry)</span>
+              <span className="explanation">(Israel went into idolatry)</span>
             </span>
           </span>
           .
@@ -255,7 +255,7 @@ export default function Chronicles105() {
           and Habor, and Hara, and to the river Gozan, unto this day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The heathen nation of Assyria was Gods rod of chastisement. As
                 it regards Gods people, the methods that God chooses may vary,
                 but it is still God.)

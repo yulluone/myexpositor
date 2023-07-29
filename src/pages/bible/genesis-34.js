@@ -18,7 +18,7 @@ export default function Genesis34() {
           she bore unto Jacob, went out to see the daughters of the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this seems very innocent; however, these daughters led to a
                 companionship with shame; the Christian has to be very careful
                 concerning the world and its ways)
@@ -35,7 +35,7 @@ export default function Genesis34() {
           and defiled her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pulpit says, Dinah paid the full penalty of her carelessness;
                 she suffered the fate which Satan had planned for Sarah and
                 Rebekah in the land of Pharaoh and Abimelech; she was seen and
@@ -54,7 +54,7 @@ export default function Genesis34() {
           damsel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably refers to marriage)</span>
+              <span className="explanation">(probably refers to marriage)</span>
             </span>
           </span>
         </span>
@@ -66,7 +66,7 @@ export default function Genesis34() {
           Hamor, saying, Get me this damsel to wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (marriages were arranged in those days, so Shechem asked his
                 father Hamor to work out the arrangements)
               </span>
@@ -88,7 +88,7 @@ export default function Genesis34() {
           out unto Jacob to commune with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (supposedly to make arrangements for the marriage)
               </span>
             </span>
@@ -103,14 +103,14 @@ export default function Genesis34() {
           angry, because he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Shechem)</span>
+              <span className="explanation">(Shechem)</span>
             </span>
           </span>{" "}
           had wrought folly in Israel in lying with Jacobs daughter: which thing
           ought not to be done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Verse, the word Israel is used for the first time to
                 designate Jacobs descendants, which actually became the great
                 nation of Israel; the phrase, folly in Israel, became a standing
@@ -130,7 +130,7 @@ export default function Genesis34() {
           her him to wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the special wickedness of Shechem consisted in dishonoring a
                 daughter of one who was the head of the theocratic line and,
                 therefore, under peculiar obligations to lead a holy life)
@@ -146,7 +146,7 @@ export default function Genesis34() {
           give your daughters unto us, and take our daughters unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the act of intermarriage, Satan will compromise and corrupt
                 the sacred lineage)
               </span>
@@ -162,7 +162,7 @@ export default function Genesis34() {
           possessions therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the end result of this plan, as fomented by Satan, was to
                 ultimately stop the Incarnation; the lineage must be kept pure)
               </span>
@@ -178,7 +178,7 @@ export default function Genesis34() {
           say unto me I will give{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, Shechem was saying that whatever they asked, as far
                 as monetary value was concerned, he would pay it)
               </span>
@@ -201,7 +201,7 @@ export default function Genesis34() {
           defiled Dinah their sister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sons of Jacob practice deceit in this situation, in which
                 Jacob had no part therein; however, God no more overlooks deceit
                 in His Own than He does in those outside the Covenant)
@@ -216,13 +216,13 @@ export default function Genesis34() {
           <sup className="calibre7">14</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the brothers of Dinah)</span>
+              <span className="explanation">(the brothers of Dinah)</span>
             </span>
           </span>{" "}
           said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Shechem and those with him)</span>
+              <span className="explanation">(Shechem and those with him)</span>
             </span>
           </span>
           , We cannot do this thing, to give our sister to one who is
@@ -242,7 +242,7 @@ export default function Genesis34() {
           you, and we will become one people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sons of Jacob are now beginning to show the traits which
                 will ultimately lead to their desire to murder Joseph)
               </span>
@@ -273,14 +273,14 @@ export default function Genesis34() {
           the thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(did not want to put it off)</span>
+              <span className="explanation">(did not want to put it off)</span>
             </span>
           </span>
           , because he had delight in Jacobs daughter: and he was more honorable
           than all the house of his father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, Shechem was sincere)
               </span>
             </span>
@@ -295,7 +295,7 @@ export default function Genesis34() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presented the proposal to them)
               </span>
             </span>
@@ -311,7 +311,7 @@ export default function Genesis34() {
           for wives, and let us give them our daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacobs sons were of the Semitic stock and, therefore, possessed
                 of high physical and mental endowments; and, as they were rich
                 in cattle and other wealth, their incorporation with the people
@@ -328,7 +328,7 @@ export default function Genesis34() {
           <sup className="calibre7">22</sup>Only herein will the men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacobs clan)</span>
+              <span className="explanation">(Jacobs clan)</span>
             </span>
           </span>{" "}
           consent unto us for to dwell with us, to be one people, if every male
@@ -342,7 +342,7 @@ export default function Genesis34() {
           them, and they will dwell with us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we find here that Hamor is practicing deceit as well; this was
                 not the idea of Shechem, he being more honorable than his
                 father, but it was the idea of his father and the other men of
@@ -360,7 +360,7 @@ export default function Genesis34() {
           was circumcised, all who went out of the gate of his city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in that Hamor agreed so readily, we must come to the conclusion
                 that circumcision was something not unknown to them and, as
                 well, something that they regarded as a small price to pay for
@@ -379,7 +379,7 @@ export default function Genesis34() {
           boldly, and killed all the men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is nothing that would justify what these men did)
               </span>
             </span>
@@ -400,7 +400,7 @@ export default function Genesis34() {
           slain, and spoiled the city, because they had defiled their sister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the annals of uncivilized warfare scarcely record a
                 more atrocious crime)
               </span>
@@ -423,7 +423,7 @@ export default function Genesis34() {
           that was in the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and we must understand, this was the Church of that day!)
               </span>
             </span>
@@ -440,7 +440,7 @@ export default function Genesis34() {
           and I shall be destroyed, I and my house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob readily sees the hand of Satan in all of this and, but
                 for the protection of the Lord, he was right)
               </span>

@@ -85,7 +85,7 @@ export default function Job29() {
           and the rock poured me out rivers of oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job had been very wealthy)</span>
+              <span className="explanation">(Job had been very wealthy)</span>
             </span>
           </span>
           ;
@@ -260,7 +260,7 @@ export default function Job29() {
           was renewed in my hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unfailing strength)</span>
+              <span className="explanation">(unfailing strength)</span>
             </span>
           </span>
         </span>

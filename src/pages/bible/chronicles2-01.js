@@ -17,7 +17,7 @@ export default function Chronicles201() {
           magnified him exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for a time, Solomon, as well, would magnify the Lord, and then
                 would close his life by magnifying himself)
               </span>
@@ -33,7 +33,7 @@ export default function Chronicles201() {
           to every governor in all Israel, the chief of the fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (rightly so; Solomon wanted the leaders of Israel to know and
                 realize that their prosperity was based solely on the Blood of
                 the Lamb, symbolized by the Sacrifices)
@@ -51,7 +51,7 @@ export default function Chronicles201() {
           LORD had made in the wilderness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Tabernacle was a type of the wilderness struggle; even
                 though the wilderness struggle was long and hard, still, the
                 Tabernacle remained; likewise, the Lord Jesus, of Which the
@@ -69,7 +69,7 @@ export default function Chronicles201() {
           for he had pitched a tent for it at Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Ark was a type of the land possessed; it represents the
                 Throne of God and victory in the inheritance. The Temple
                 represents the glorious Kingdom Age to come; therefore, both
@@ -95,7 +95,7 @@ export default function Chronicles201() {
           it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there all of the great Sacrifices were offered)
               </span>
             </span>
@@ -110,7 +110,7 @@ export default function Chronicles201() {
           congregation, and offered a thousand Burnt Offerings upon it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first instance of the Whole Burnt Offering is{" "}
                 <ScrollLink href="/genesis-08" scrollToId="#filepos123345">
                   <span className="calibre_19">
@@ -153,7 +153,7 @@ export default function Chronicles201() {
           Solomon, and said unto him, Ask what I shall give you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the night which followed the days of Sacrifices)
               </span>
             </span>
@@ -182,7 +182,7 @@ export default function Chronicles201() {
           this Your people, that is so great?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many criticize Solomon for making such a request, claiming that
                 he should have asked for other things.)
               </span>
@@ -197,7 +197,7 @@ export default function Chronicles201() {
           honor, nor the life of your enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to destroy enemies)</span>
+              <span className="explanation">(to destroy enemies)</span>
             </span>
           </span>
           , neither yet have asked long life; but have asked wisdom and
@@ -213,7 +213,7 @@ export default function Chronicles201() {
           any after you have the like.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this request,{" "}
                 <ScrollLink href="/kings1-03" scrollToId="#filepos3723878">
                   <span className="calibre_19">
@@ -256,7 +256,7 @@ export default function Chronicles201() {
           sycomore trees that are in the vale for abundance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a type of the coming Kingdom Age, when prosperity will
                 rule the Earth, completely ridding the world of all hunger and
                 want, because our Lord will be reigning supreme from Jerusalem)
@@ -281,7 +281,7 @@ export default function Chronicles201() {
           the kings of the Hittites, and for the kings of Syria, by their means{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit doesnt comment on these things, but merely
                 mentions them)
               </span>

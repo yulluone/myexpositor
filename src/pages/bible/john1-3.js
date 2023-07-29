@@ -66,13 +66,13 @@ export default function John13() {
           : but we know that, when He shall appear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture)</span>
+              <span className="explanation">(the Rapture)</span>
             </span>
           </span>
           , we shall be like Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of being glorified)</span>
+              <span className="explanation">(speaks of being glorified)</span>
             </span>
           </span>
           ; for we shall see Him as He is.{" "}
@@ -95,7 +95,7 @@ export default function John13() {
           Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>{" "}
           purifies himself{" "}
@@ -110,13 +110,15 @@ export default function John13() {
           , even as He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           is pure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(places Christ as our example)</span>
+              <span className="explanation">
+                (places Christ as our example)
+              </span>
             </span>
           </span>
           .
@@ -185,13 +187,13 @@ export default function John13() {
           <sup className="calibre7">6</sup>Whosoever abides in Him sins not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(does not practice sin)</span>
+              <span className="explanation">(does not practice sin)</span>
             </span>
           </span>
           : whosoever sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(practices sin)</span>
+              <span className="explanation">(practices sin)</span>
             </span>
           </span>{" "}
           has not seen Him, neither known Him.{" "}
@@ -260,7 +262,7 @@ export default function John13() {
           <sup className="calibre7">8</sup>He who commits sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(practices sin)</span>
+              <span className="explanation">(practices sin)</span>
             </span>
           </span>{" "}
           is of the Devil{" "}
@@ -305,13 +307,13 @@ export default function John13() {
           commit sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(does not practice sin)</span>
+              <span className="explanation">(does not practice sin)</span>
             </span>
           </span>
           ; for his seed remains in him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Word of God)</span>
+              <span className="explanation">(refers to the Word of God)</span>
             </span>
           </span>
           : and he cannot sin{" "}
@@ -574,13 +576,13 @@ export default function John13() {
           in word, neither in tongue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(let us not merely talk love)</span>
+              <span className="explanation">(let us not merely talk love)</span>
             </span>
           </span>
           ; but in deed and in truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(True love demands action.)</span>
+              <span className="explanation">(True love demands action.)</span>
             </span>
           </span>
         </span>
@@ -660,7 +662,7 @@ export default function John13() {
           have we confidence toward God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(implies no condemnation)</span>
+              <span className="explanation">(implies no condemnation)</span>
             </span>
           </span>
           .

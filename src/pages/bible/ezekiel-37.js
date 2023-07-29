@@ -17,7 +17,7 @@ export default function Ezekiel37() {
           of the valley which was full of bones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the last{" "}
                 <ScrollLink href="/" scrollToId="#filepos9547707">
                   <span className="calibre_19">
@@ -48,7 +48,7 @@ export default function Ezekiel37() {
           they were very dry.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The repetition of behold fastens the attention upon the two
                 facts that the bones were very many and very dry. Very dry,
                 speaks of a total absence of spirituality.)
@@ -63,7 +63,7 @@ export default function Ezekiel37() {
           these bones live? And I answered, O Lord GOD, You know.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiels answer to the question of the Lord, O Lord GOD, You
                 know, signifies that within the realm of human endeavor the task
                 was impossible!)
@@ -82,7 +82,7 @@ export default function Ezekiel37() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet is told to Prophesy upon these bones, meaning that
                 the Lord will give a Word which will guarantee their Restoration
                 and Revival; however, such could only be done according to the
@@ -99,7 +99,7 @@ export default function Ezekiel37() {
           live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the breath spoken of is the same breath as when God breathed
                 into his nostrils the breath of life, respecting Adam, and he
                 became a living soul [
@@ -146,7 +146,7 @@ export default function Ezekiel37() {
           in you, and you shall live; and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall live, i.e., you shall come to life again, so shall
                 you get to know that I am Jehovah. God demonstrates His
                 Existence and Power by raising the dead [
@@ -197,7 +197,7 @@ export default function Ezekiel37() {
           bones came together, bone to his bone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There was a noise, in the Hebrew actually says, a voice.)
               </span>
             </span>
@@ -211,7 +211,7 @@ export default function Ezekiel37() {
           there was no breath in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, national Israel began in 1948; however, the phrase,
                 But there was no breath in them, signifies the fact that
                 national Israel presently has no spiritual life.)
@@ -228,7 +228,7 @@ export default function Ezekiel37() {
           slain, that they may live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Prophesy unto the wind, actually says in the Hebrew, Prophesy
                 unto the Spirit. Come from the four winds, actually says in the
                 Hebrew, Come from the four breaths.
@@ -256,7 +256,7 @@ export default function Ezekiel37() {
           feet, an exceeding great army.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the preceding Verses spoke of Israels national identity, now
                 this Verse speaks of Israels Spiritual Identity, signifying
                 their Spiritual Revival, which will take place at the Second
@@ -293,7 +293,7 @@ export default function Ezekiel37() {
           are dried, and our hope is lost: we are cut off for our parts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The whole House of Israel, speaks of the entirety of the
                 thirteen Tribes. The latter part of this Verse, behold, they
                 say, refers to the latter half of the coming Great Tribulation.
@@ -322,7 +322,7 @@ export default function Ezekiel37() {
           into the Land of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Prophecy sometimes does, the previous Verse spoke of the
                 last few months or even weeks before the Coming of the Lord and,
                 therefore, the relief of Israel, whereas this Verse goes back
@@ -339,7 +339,7 @@ export default function Ezekiel37() {
           out of your graves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And brought you up out of your graves, has reference in
                 totality to the fact that Israel, and for all practical
                 purposes, in the Battle of Armageddon is all but totally
@@ -359,7 +359,7 @@ export default function Ezekiel37() {
           know that I the LORD have spoken it, and performed it, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage signals the great Revival that will take place in
                 Israel at the Coming of the Lord. Zechariah gave in greater
                 detail the happening of this great moving of the Holy Spirit [
@@ -403,7 +403,7 @@ export default function Ezekiel37() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now begins the second Prophecy predicting the unity of the
                 nation, and its happy settlement under the Government of the
                 Messiah)
@@ -422,7 +422,7 @@ export default function Ezekiel37() {
           companions{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two sticks represent the two Houses of Israel, the Northern
                 Confederation of Israel, sometimes called Ephraim or Samaria,
                 and the Southern Kingdom known as Judah. His companions, refers
@@ -440,7 +440,7 @@ export default function Ezekiel37() {
           one stick; and they shall become one in your hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse predicts that both Kingdoms will now become one
                 Kingdom, signifying one people, which can only be brought about
                 by the Hand of the Lord, which means that they will never again
@@ -457,7 +457,7 @@ export default function Ezekiel37() {
           these?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy, which incorporates the balance of the Chapter,
                 predicts the future union of the Tribes, their Restoration to
                 the Land of Israel, and their settlement there under One
@@ -483,7 +483,7 @@ export default function Ezekiel37() {
           shall be one in My Hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When God takes groups of His Servants and unites them, they
                 actually become one in His Hand. This means that not only is the
                 old division gone, but the cause of division has also been
@@ -499,7 +499,7 @@ export default function Ezekiel37() {
           shall be in your hand before their eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is amazing that the Lord would take something that simple,
                 such as sticks, to express and portray something of such vital
                 consequence [
@@ -527,7 +527,7 @@ export default function Ezekiel37() {
           bring them into their own land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the total fulfillment of this will take place in the coming
                 Kingdom Age)
               </span>
@@ -544,7 +544,7 @@ export default function Ezekiel37() {
           divided into two kingdoms any more at all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Land, refers to the Land of Israel, as promised to
                 Abraham [
                 <ScrollLink href="/genesis-12" scrollToId="#filepos161995">
@@ -572,7 +572,7 @@ export default function Ezekiel37() {
           shall they be My People, and I will be their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will take place almost immediately after the Second Coming
                 of Christ.)
               </span>
@@ -587,7 +587,7 @@ export default function Ezekiel37() {
           in My Judgments, and observe My Statutes, and do them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David was ever looked at as the example for all the kings of
                 Israel, and will consequently serve in this capacity under
                 Christ forever.)
@@ -605,7 +605,7 @@ export default function Ezekiel37() {
           their prince for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage goes back to the Messianic Promise of{" "}
                 <ScrollLink href="/samuel1-07" scrollToId="#filepos3098547">
                   <span className="calibre_19">
@@ -635,7 +635,7 @@ export default function Ezekiel37() {
           midst of them for evermore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The setting of the Divine Sanctuary in Jerusalem will cause the
                 heathen to know that God has especially chosen Israel for His
                 Peculiar Treasure. This Sanctuary is described in{" "}
@@ -658,7 +658,7 @@ export default function Ezekiel37() {
           them: yes, I will be their God, and they shall be My People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Tabernacle refers to an ozone type of covering, much
                 greater than presently, which will be during the Millennium,
                 when the light of the sun will be increased sevenfold and the
@@ -683,7 +683,7 @@ export default function Ezekiel37() {
           of them for evermore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Presence with Israel is the sign that He is with them and
                 that the world must, and in fact will, recognize this approval.)
               </span>

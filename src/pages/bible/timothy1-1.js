@@ -103,7 +103,7 @@ export default function Timothy11() {
           , when I went into Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(into Greece)</span>
+              <span className="explanation">(into Greece)</span>
             </span>
           </span>
           , that you might charge some that they teach no other doctrine{" "}
@@ -148,7 +148,7 @@ export default function Timothy11() {
               <span className="calibre_19">so do.</span>
             </span>
             <span>
-              <span className="calibre_19">(Dont leave the Cross.)</span>
+              <span className="explanation">(Dont leave the Cross.)</span>
             </span>
           </span>
         </span>
@@ -158,19 +158,21 @@ export default function Timothy11() {
           <sup className="calibre7">5</sup>Now the end of the Commandment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(charge)</span>
+              <span className="explanation">(charge)</span>
             </span>
           </span>{" "}
           is charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           out of a pure heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which alone can produce love)</span>
+              <span className="explanation">
+                (which alone can produce love)
+              </span>
             </span>
           </span>
           , and{" "}
@@ -212,7 +214,7 @@ export default function Timothy11() {
           unto vain jangling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(useless talk)</span>
+              <span className="explanation">(useless talk)</span>
             </span>
           </span>
           ;
@@ -307,19 +309,19 @@ export default function Timothy11() {
           defile themselves with mankind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(homosexuality)</span>
+              <span className="explanation">(homosexuality)</span>
             </span>
           </span>
           , for menstealers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slave traders)</span>
+              <span className="explanation">(slave traders)</span>
             </span>
           </span>
           , for liars, for perjured persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those who swear falsely)</span>
+              <span className="explanation">(those who swear falsely)</span>
             </span>
           </span>
           , and if there be any other thing that is contrary to sound Doctrine{" "}
@@ -338,7 +340,7 @@ export default function Timothy11() {
           <sup className="calibre7">11</sup>According to the Glorious Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to its moral Glory)</span>
+              <span className="explanation">(refers to its moral Glory)</span>
             </span>
           </span>{" "}
           of the Blessed God{" "}
@@ -540,13 +542,13 @@ export default function Timothy11() {
           , immortal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(imperishable)</span>
+              <span className="explanation">(imperishable)</span>
             </span>
           </span>
           , invisible{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as it regards His Glory)</span>
+              <span className="explanation">(as it regards His Glory)</span>
             </span>
           </span>
           , the only wise God{" "}
@@ -577,7 +579,7 @@ export default function Timothy11() {
           Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Truth)</span>
+              <span className="explanation">(Truth)</span>
             </span>
           </span>
           .

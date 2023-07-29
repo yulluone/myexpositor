@@ -18,7 +18,7 @@ export default function Genesis46() {
           that he had{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the Holy Spirit using here the name Israel, this tells us
                 that Jacob moves forward with a renewed confidence and Faith in
                 God, Who had originally changed his name; in other words, he is
@@ -30,7 +30,7 @@ export default function Genesis46() {
           , and came to Beer-sheba, and offered Sacrifices{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Sacrifices epitomized God, Who would become flesh and
                 dwell with men, and thereby go to the Cross, offering Himself up
                 as a Sacrifice, which alone could atone for the sin of man)
@@ -40,7 +40,7 @@ export default function Genesis46() {
           unto the God of his father Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this stipulates that what God had given to Abraham had been
                 passed down to Isaac, and now is passed down to Jacob; in other
                 words, the Vision is the same)
@@ -56,7 +56,7 @@ export default function Genesis46() {
           visions of the night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, by the use of the name Israel, such signifies Faith
                 on the part of Jacob)
               </span>
@@ -65,7 +65,7 @@ export default function Genesis46() {
           , and said, Jacob, Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (why the use of both names by the Lord of Israel and Jacob? When
                 we look at this Verse, we are looking at Sanctification in both
                 its positional and conditional form. The spiritual position of
@@ -82,7 +82,7 @@ export default function Genesis46() {
           . And he said, Here am I{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacobs Faith was now such that he could hear the Word of the
                 Lord)
               </span>
@@ -96,7 +96,7 @@ export default function Genesis46() {
           <sup className="calibre7">3</sup>And He said, I am God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Hebrew, I am the El, the Mighty One)
               </span>
             </span>
@@ -104,7 +104,7 @@ export default function Genesis46() {
           , the God of your father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the same Message that God gave to Isaac, He also gives to
                 Jacob; in brief, it refers to God becoming flesh, dwelling with
                 man, and dying on a Cross, in order that man might be redeemed;
@@ -203,7 +203,7 @@ export default function Genesis46() {
           : fear not to go down into Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob did fear to go down into Egypt, simply because his father
                 Isaac had been forbidden by God to go there)
               </span>
@@ -212,7 +212,7 @@ export default function Genesis46() {
           ; for I will there make of you a great nation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lords plans are far bigger than we can even dare to think;
                 He will now use Egypt to further His purposes)
               </span>
@@ -226,7 +226,7 @@ export default function Genesis46() {
           <sup className="calibre7">4</sup>I will go down with you into Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is not the idea of a local deity following them when they
                 changed their abodes, and thereby confined to the district in
                 which they happen, for the time being, to reside, but a
@@ -238,7 +238,7 @@ export default function Genesis46() {
           ; and I will also surely bring you up again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this has a twofold meaning, in that Jacob would be brought back
                 to Canaan for burial and, as well, that the nation which would
                 come from his loins would, as well, be brought back)
@@ -248,7 +248,7 @@ export default function Genesis46() {
           : and Joseph shall put his hand upon your eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he had never thought to see Joseph; however, the Lord here
                 assures him that he will not only see his son, but that Joseph
                 will be with him when he dies)
@@ -263,7 +263,7 @@ export default function Genesis46() {
           <sup className="calibre7">5</sup>And Jacob rose up from Beer-sheba{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob was 130 years old at the time, and this event was 215
                 years after the call of Abraham; Jacob now truly rises up in
                 Faith, and because he has heard from Heaven)
@@ -275,7 +275,7 @@ export default function Genesis46() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Israel is again used by the Holy Spirit, signifying
                 Jacobs Faith; the principle of Faith was the only commodity, so
                 to speak, which would propel Jacob nearer to the Lord)
@@ -292,7 +292,7 @@ export default function Genesis46() {
           Egypt, Jacob, and all his seed with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a spiritual threshold is now being crossed; even though it will
                 be some 255 years before Israel will actually possess the
                 Promise, as it regards the land of Canaan, great strides are now
@@ -319,7 +319,7 @@ export default function Genesis46() {
           Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit once again uses the Faith name of Jacob,
                 Israel)
               </span>
@@ -352,7 +352,7 @@ export default function Genesis46() {
           <sup className="calibre7">12</sup>And the sons of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Tribe from which our Lord would come [
                 <ScrollLink href="/genesis-49" scrollToId="#filepos654851">
                   <span className="calibre_19">
@@ -376,7 +376,7 @@ export default function Genesis46() {
           Phuvah, and Job{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the same Job of the Book which bears his name)
               </span>
             </span>
@@ -474,7 +474,7 @@ export default function Genesis46() {
           born him in Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but nevertheless were Israelites)
               </span>
             </span>
@@ -490,7 +490,7 @@ export default function Genesis46() {
           Goshen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we see here that the Tribe of Judah is taking the lead, the
                 Tribe, as stated, from which our Lord would come)
               </span>
@@ -509,7 +509,7 @@ export default function Genesis46() {
           himself unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the translation here tells us little; however, in the Hebrew
                 such terminology is commonly used of the appearance of God or
                 His Angels; it is employed here in this manner to indicate the
@@ -531,7 +531,7 @@ export default function Genesis46() {
           ; and he fell on his neck, and wept on his neck a good while{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, they were tears of joy, just as it will be at the
                 Second Coming, when Jesus and Jacob will meet in Grace)
               </span>
@@ -545,14 +545,14 @@ export default function Genesis46() {
           <sup className="calibre7">30</sup>And Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Faith)</span>
+              <span className="explanation">(Faith)</span>
             </span>
           </span>{" "}
           said unto Joseph, Now let me die, since I have seen your face, because
           you are yet alive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (national Israel doesnt yet know it or believe it, but Jesus is
                 yet alive)
               </span>
@@ -569,7 +569,7 @@ export default function Genesis46() {
           Canaan, are come unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one of the greatest moments in human history will be when
                 Israel finally comes to Christ)
               </span>
@@ -597,7 +597,7 @@ export default function Genesis46() {
           trade has been about cattle from our youth even until now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word cattle stood for heifers, oxen, sheep, goats, etc.)
               </span>
             </span>
@@ -606,7 +606,7 @@ export default function Genesis46() {
           Goshen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the most fertile part of Egypt, at least as it referred to the
                 grazing of cattle and sheep)
               </span>
@@ -615,7 +615,7 @@ export default function Genesis46() {
           ; for every shepherd is an abomination unto the Egyptians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word abomination, as used here, refers to the fact that
                 there was some type of religious connotation to the attitude of
                 Egyptians towards shepherds; at any rate, Joseph does not

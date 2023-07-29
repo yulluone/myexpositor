@@ -107,7 +107,7 @@ export default function Philemon1() {
           always in my prayers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of Philemon)</span>
+              <span className="explanation">(speaks of Philemon)</span>
             </span>
           </span>
           ,
@@ -403,7 +403,7 @@ export default function Philemon1() {
           <sup className="calibre7">16</sup>Not now as a servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no more as a slave)</span>
+              <span className="explanation">(no more as a slave)</span>
             </span>
           </span>
           , but above a servant, a Brother beloved{" "}
@@ -582,7 +582,7 @@ export default function Philemon1() {
           fellow-prisoner in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a native of Colosse)</span>
+              <span className="explanation">(a native of Colosse)</span>
             </span>
           </span>
           ;

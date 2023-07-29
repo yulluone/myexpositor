@@ -19,7 +19,7 @@ export default function Exodus04() {
           will say, The LORD has not appeared unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hesitating and timid Moses of Mount Horeb was the same
                 courageous and self-reliant Moses who smote the Egyptian dead!
                 His strength then unfitted him as a Divine instrument, and now
@@ -35,7 +35,7 @@ export default function Exodus04() {
           that in your hand? And he said, A rod.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The rod, within itself, was nothing!)
               </span>
             </span>
@@ -47,14 +47,14 @@ export default function Exodus04() {
           <sup className="calibre7">3</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           said, Cast it on the ground. And he cast it on the ground, and it
           became a serpent; and Moses fled from before it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By the rod turning to a serpent, a venomous one at that, Moses,
                 in essence, was being told that he was going to come up against
                 the powers of darkness. Egypt was actually ruled by demon
@@ -73,7 +73,7 @@ export default function Exodus04() {
           and caught it, and it became a rod in his hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this told Moses that he had power over Satan)
               </span>
             </span>
@@ -88,7 +88,7 @@ export default function Exodus04() {
           God of Jacob, has appeared unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord would help Moses, thereby letting the people know that
                 he was functioning within the boundaries of the same Promises
                 which God had given to the Patriarchs.)
@@ -104,7 +104,7 @@ export default function Exodus04() {
           bosom: and when he took it out, behold, his hand was leprous as snow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Putting his hand into his bosom showed him what man is, a
                 sinner, hence symbolized by leprosy.)
               </span>
@@ -119,7 +119,7 @@ export default function Exodus04() {
           out of his bosom, and, behold, it was turned again as his other flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus we see here, in this particular sign, that which Jesus
                 Christ can perform, as it regards the Salvation of the soul. He
                 can cleanse from all sin, and He Alone can cleanse from all sin.
@@ -137,7 +137,7 @@ export default function Exodus04() {
           that they will believe the voice of the latter sign.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only answer to the serpent, i.e., Satan, and the sin which
                 he causes, which is so hideous it can only be symbolized by the
                 dread disease of leprosy, is the Blood, the Precious Blood, of
@@ -156,7 +156,7 @@ export default function Exodus04() {
           become blood upon the dry land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only answer to sin is the shed blood of the Lord Jesus
                 Christ. The pronoun they refers to the Elders of the
                 Israelites.)
@@ -172,7 +172,7 @@ export default function Exodus04() {
           unto Your Servant: but I am slow of speech, and of a slow tongue.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos720951">
                   <span className="calibre_19">
@@ -195,7 +195,7 @@ export default function Exodus04() {
           blind? have not I the LORD?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God could and would have cured the defect in Moses speech,
                 whatever it was; could and would have added eloquence to his
                 other gifts, if he had even at this point yielded himself
@@ -218,7 +218,7 @@ export default function Exodus04() {
           you, by the hand of him whom you will send.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses would feel safer leaning on the arm of Aaron than leaning
                 on the arm of Jehovah! And yet Aaron was no real help to him,
                 but the contrary; Aaron made the golden calf.)
@@ -238,7 +238,7 @@ export default function Exodus04() {
           forth to meet you: and when he sees you, he will be glad in his heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nothing is more dishonoring to God, or more dangerous for us,
                 than a mock humility. When we refuse to occupy a position which
                 the Grace of God assigns us because of our not possessing
@@ -256,7 +256,7 @@ export default function Exodus04() {
           mouth, and will teach you what you shall do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord would give Moses the words to say, and it would be the
                 duty of Aaron to accept what Moses said as Divine.)
               </span>
@@ -271,7 +271,7 @@ export default function Exodus04() {
           mouth, and you shall be to him instead of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, Moses speaking to Aaron was the same as God
                 speaking to him.)
               </span>
@@ -285,7 +285,7 @@ export default function Exodus04() {
           hand, wherewith you shall do signs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Lord is telling Moses that He could use
                 anything, even a wooden stick. This should have made Moses very
                 ashamed!)
@@ -302,7 +302,7 @@ export default function Exodus04() {
           be yet alive. And Jethro said to Moses, Go in peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Had Moses left for Egypt without first notifying his
                 father-in-law, it would have been grossly discourteous, and even
                 the height of ingratitude. This act of Moses manifested his
@@ -323,7 +323,7 @@ export default function Exodus04() {
           your life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From the way the Lord commands Moses here, it would seem that
                 he was still reluctant to go. The Lord would reassure him by
                 telling him that all the men in Egypt who sought to kill him
@@ -342,7 +342,7 @@ export default function Exodus04() {
           and Moses took the rod of God in his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His sons were Gershom [
                 <ScrollLink href="/exodus-02" scrollToId="#filepos701765">
                   <span className="calibre_19">
@@ -398,7 +398,7 @@ export default function Exodus04() {
           that he shall not let the People go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hardening of Pharaohs heart doesnt mean that God tampered
                 with Pharaohs will, but rather, by foreknowledge, looked at the
                 heart of the Monarch, and thereby knew what Pharaoh would do.
@@ -414,7 +414,7 @@ export default function Exodus04() {
           sa ys the LORD, Israel is My son, even My firstborn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh would understand this terminology fully, for he,
                 himself, was called Son of Ra)
               </span>
@@ -430,7 +430,7 @@ export default function Exodus04() {
           kill your son, even your firstborn.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So, at the outset, Moses was to tell Pharaoh that if he didnt
                 let the Children of Israel go, his firstborn would die. So, the
                 Monarch was not without warning. At any point he could have
@@ -447,13 +447,13 @@ export default function Exodus04() {
           the inn, that the LORD met him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(met Moses)</span>
+              <span className="explanation">(met Moses)</span>
             </span>
           </span>
           , and sought to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (threatened to kill the child; this was Eliezer, the infant;
                 concerning this, Williams says: Moses was commanded to announce
                 to Pharaoh that Jehovah, the God of Israel, was about to slay
@@ -472,14 +472,14 @@ export default function Exodus04() {
           <sup className="calibre7">25</sup>Then Zipporah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wife of Moses)</span>
+              <span className="explanation">(the wife of Moses)</span>
             </span>
           </span>{" "}
           took a sharp stone, and cut off the foreskin of her son, and cast it
           at his feet, and said, Surely a bloody husband are you to me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We find here that the wife of Moses was not too very much in
                 sympathy with the things of God. So, Moses, not desiring to
                 create a family problem, had evidently acquiesced to his wife,
@@ -494,20 +494,20 @@ export default function Exodus04() {
           <sup className="calibre7">26</sup>So He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           let him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the child)</span>
+              <span className="explanation">(the child)</span>
             </span>
           </span>{" "}
           go: then she said, A bloody husband you are, because of the
           circumcision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Zipporah circumcised the child, she, with anger and
                 passion, declared that her husbands religion was a religion of
                 blood, i.e., of blood-stained rites. Thus, Moses had to learn
@@ -530,7 +530,7 @@ export default function Exodus04() {
           God, and kissed him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Aaron met Moses at Mount Sinai, perhaps very shortly after he
                 received the revelation of the burning bush, etc. The brothers
                 had been separated for some 40 years.)
@@ -546,7 +546,7 @@ export default function Exodus04() {
           him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And now Aaron is to find out that he is to be the spokesman for
                 Moses as it regards the tremendous confrontation, which would
                 take place quite a number of times, between Moses and the
@@ -562,7 +562,7 @@ export default function Exodus04() {
           gathered together all the Elders of the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Scripture is silent regarding the trip to Egypt; the
                 Scripture seems to indicate that Moses sent his wife and
                 children back to Jethro [
@@ -587,7 +587,7 @@ export default function Exodus04() {
           people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the serpent, the leprous hand, and the blood, all observed by
                 the Elders)
               </span>
@@ -604,7 +604,7 @@ export default function Exodus04() {
           worshipped.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses had said, The people will not believe me. But the
                 question was not as to whether they would believe him, but
                 whether they would believe God. Their faith reached out at this

@@ -18,7 +18,7 @@ export default function Ecclesiastes09() {
           all that is before them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The contrast between the Work of God in{" "}
                 <ScrollLink
                   href="/ecclesiastes-08"
@@ -59,7 +59,7 @@ export default function Ecclesiastes09() {
           as he who fears an oath.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The modern confession message has attempted to do away with all
                 the vicissitudes of life; it fails, as it must, because some
                 trials are the Will of God.)
@@ -76,7 +76,7 @@ export default function Ecclesiastes09() {
           heart while they live, and after that they go to the dead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The one event that Solomon is speaking of is death. It comes to
                 all, irrespective of their being rich, poor, great, or small.
                 Yet, despite this fact, mens hearts are filled with evil and
@@ -92,7 +92,7 @@ export default function Ecclesiastes09() {
           living there is hope: for a living dog is better than a dead lion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is hope for Salvation only while the individual is alive.
                 All opportunities for Salvation are on this side of the grave.)
               </span>
@@ -114,7 +114,7 @@ export default function Ecclesiastes09() {
           forever in anything that is done under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the life on this Earth is ended, the soul and the spirit,
                 whether of the wicked or the righteous dead, have no more
                 earthly involvement, at least at this time.)
@@ -133,7 +133,7 @@ export default function Ecclesiastes09() {
           works.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that in view of mans rebellion in
                 the Garden of Eden, God has designed this life and existence and
                 the hereafter accordingly. If man will understand that and give
@@ -151,7 +151,7 @@ export default function Ecclesiastes09() {
           and let your head lack no ointment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such can be done only in Christ!)
               </span>
             </span>
@@ -166,7 +166,7 @@ export default function Ecclesiastes09() {
           in this life, and in your labour which you take under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no profit in this life other than God. All else,
                 irrespective of its seeming glory, riches, or grandeur, is
                 vanity. Over and over again, Solomon comes back to the futility
@@ -183,7 +183,7 @@ export default function Ecclesiastes09() {
           nor wisdom, in the grave, where you go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word grave really speaks of Sheol or Hell. This means that
                 no earthly activity necessary to human life on this planet is
                 carried on in Hell. Our Christianity should not be just a part
@@ -202,7 +202,7 @@ export default function Ecclesiastes09() {
           all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, I returned, mean I resumed my investigations. The
                 moral is that the only sure thing is a life lived for God.)
               </span>
@@ -218,7 +218,7 @@ export default function Ecclesiastes09() {
           when it falls suddenly upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement of this Verse is that man is suddenly ensnared by
                 death, as birds and fish are by a net. This fact reveals his
                 ignorance and his helplessness. How uncertain life is without
@@ -237,7 +237,7 @@ export default function Ecclesiastes09() {
           the sun, and it seemed great unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wisdom of which he will now speak is from the Lord and
                 brings about great good; but yet, it will be little appreciated;
                 such is the Bible!)
@@ -261,7 +261,7 @@ export default function Ecclesiastes09() {
           remembered that same poor man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a perfect analogy of the Word of God and its Power to
                 deliver, and of the world, which quickly forgets that delivering
                 Power.)
@@ -277,7 +277,7 @@ export default function Ecclesiastes09() {
           are not heard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no true wisdom outside of God. But sadly, this wisdom
                 is despised, and its words are not heard.)
               </span>
@@ -291,7 +291,7 @@ export default function Ecclesiastes09() {
           quiet more than the cry of him who rules among fools.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord Jesus Christ, by His Wisdom, i.e., the Cross,
                 delivered man from the power of the great king [Satan], and yet
                 He is forgotten and despised by men.)
@@ -306,7 +306,7 @@ export default function Ecclesiastes09() {
           war: but one sinner destroys much good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wisdom addressed here is the Bible. It is better than
                 weapons of war.
               </span>

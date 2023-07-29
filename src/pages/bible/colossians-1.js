@@ -17,7 +17,7 @@ export default function Colossians1() {
           <sup className="calibre7">1</sup>Paul, a n Apostle of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is through the Apostle that the Holy Spirit leads the
                 Church, and does so according to the Message given him, which in
                 Pauls case was the Message of Grace)
@@ -27,7 +27,7 @@ export default function Colossians1() {
           by the Will of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only the Lord can set a person in the Office of the Apostle;
                 man cannot do such)
               </span>
@@ -47,7 +47,7 @@ export default function Colossians1() {
           <sup className="calibre7">2</sup>To the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the moment a person accepts Christ, they become a Saint)
               </span>
             </span>
@@ -55,7 +55,7 @@ export default function Colossians1() {
           and Faithful Brethren in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that some in Colosse were faithful to the
                 Gospel Paul had brought to them, but at the same time others, it
                 seems, were somewhat shaken in their allegiance)
@@ -65,7 +65,7 @@ export default function Colossians1() {
           which are at Colosse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was written from Rome by Paul, while he was in prison)
               </span>
             </span>
@@ -79,7 +79,7 @@ export default function Colossians1() {
           unto you, and peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           , from God our Father and the Lord Jesus Christ.
@@ -94,7 +94,7 @@ export default function Colossians1() {
           of our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thanksgiving presents a characteristic quality of the type of
                 prayer offered by Paul)
               </span>
@@ -103,7 +103,7 @@ export default function Colossians1() {
           , praying always for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a proper understanding of the Cross gives one a proper prayer
                 life)
               </span>
@@ -118,7 +118,7 @@ export default function Colossians1() {
           Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul did not found the Church at Colosse; in fact, it was
                 probably founded by Epaphras, who gave him the information
                 recorded here)
@@ -134,7 +134,7 @@ export default function Colossians1() {
           to all the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Agape Love)</span>
+              <span className="explanation">(Agape Love)</span>
             </span>
           </span>
           ,
@@ -146,7 +146,7 @@ export default function Colossians1() {
           in Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the last of the trilogy, Faith, Love, and Hope)
               </span>
             </span>
@@ -154,7 +154,7 @@ export default function Colossians1() {
           , whereof you heard before in the Word of the Truth of the Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to contrast the true Gospel of Epaphras with a false
                 gospel of false teachers)
               </span>
@@ -168,7 +168,7 @@ export default function Colossians1() {
           <sup className="calibre7">6</sup>Which is come unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meant to differentiate it from the false message of the
                 Gnostics)
               </span>
@@ -183,7 +183,7 @@ export default function Colossians1() {
           in all the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the True Gospel being the same the world over)
               </span>
             </span>
@@ -200,7 +200,7 @@ export default function Colossians1() {
               <span className="calibre_19">of it</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the True Gospel of Jesus Christ and Him Crucified will always
                 bring forth fruit in the capacity of changed lives),
               </span>
@@ -209,7 +209,7 @@ export default function Colossians1() {
           and knew the Grace of God in Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Grace of God cannot function accept in Truth, which is
                 Jesus Christ and Him Crucified)
               </span>
@@ -224,7 +224,7 @@ export default function Colossians1() {
           dear fellowservant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, he was a disciple of Paul)
               </span>
             </span>
@@ -232,7 +232,7 @@ export default function Colossians1() {
           , who is for you a faithful Minister of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (reflects the fact that Epaphras was the spiritual father of the
                 Colossian Saints)
               </span>
@@ -247,7 +247,7 @@ export default function Colossians1() {
           in the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was Love produced by the Spirit of God, made possible by the
                 Cross)
               </span>
@@ -271,7 +271,7 @@ export default function Colossians1() {
           do not ce+ase to pray for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the cause refers to the fruit they were bearing for Christ,
                 with prayer offered for them that this fruit would continue, and
                 not be stifled by a false message)
@@ -282,7 +282,7 @@ export default function Colossians1() {
           Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Will, and not that of others)
               </span>
             </span>
@@ -290,7 +290,7 @@ export default function Colossians1() {
           in all wisdom and spiritual understanding{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which proceeds only from the inspiration of the
                 Holy Spirit)
               </span>
@@ -305,7 +305,7 @@ export default function Colossians1() {
           Lord unto all pleasing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (walk refers to ones behavior and that it can be accomplished
                 only by making the Cross the Object of ones Faith, which gives
                 the Holy Spirit the latitude to perfect our walk)
@@ -315,7 +315,7 @@ export default function Colossians1() {
           , being fruitful in every good work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is guaranteed, if Faith is properly placed in the Cross)
               </span>
             </span>
@@ -323,7 +323,7 @@ export default function Colossians1() {
           , and increasing in the Knowledge of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the knowledge of the Cross, which pertains to the
                 Finished Work of Christ)
               </span>
@@ -338,7 +338,7 @@ export default function Colossians1() {
           according to His Glorious Power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (power to live a Holy life, which comes through Grace, with the
                 Cross as the means)
               </span>
@@ -347,7 +347,7 @@ export default function Colossians1() {
           , unto all patience and long-suffering with joyfulness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (joy, because proper Faith guarantees Victory)
               </span>
             </span>
@@ -360,7 +360,7 @@ export default function Colossians1() {
           <sup className="calibre7">12</sup>Giving thanks unto the Father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which all should do constantly)
               </span>
             </span>
@@ -368,13 +368,13 @@ export default function Colossians1() {
           , which has made us meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(qualified)</span>
+              <span className="explanation">(qualified)</span>
             </span>
           </span>{" "}
           to be partakers of the inheritance of the Saints in Light{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the standing of the Believer in Christ)
               </span>
             </span>
@@ -388,7 +388,7 @@ export default function Colossians1() {
           of darkness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to being rescued by His strong Arm as a mighty
                 conqueror, made possible by the Cross)
               </span>
@@ -403,7 +403,7 @@ export default function Colossians1() {
           into the Kingdom of His Dear Son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the Cross is not the Source [that being Christ] the Cross
                 is the means)
               </span>
@@ -421,7 +421,7 @@ export default function Colossians1() {
           His Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the price that was paid for our Salvation)
               </span>
             </span>
@@ -435,7 +435,7 @@ export default function Colossians1() {
           the forgiveness of sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the Cross, the Lord broke the power of sin, and took away
                 its guilt [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13350311">
@@ -458,7 +458,7 @@ export default function Colossians1() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Son is the exact reproduction of the Father; a derived
                 Image)
               </span>
@@ -467,7 +467,7 @@ export default function Colossians1() {
           , the Firstborn of every creature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means Jesus is the Creator of all things)
               </span>
             </span>
@@ -483,7 +483,7 @@ export default function Colossians1() {
           <sup className="calibre7">16</sup>For by Him were all things created{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Justification of the title given Christ in the
                 preceding Verse)
               </span>
@@ -492,7 +492,7 @@ export default function Colossians1() {
           , that are in Heaven, and that are in earth, visible and invisible{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(things seen and not seen)</span>
+              <span className="explanation">(things seen and not seen)</span>
             </span>
           </span>
           , whether{" "}
@@ -504,7 +504,7 @@ export default function Colossians1() {
           thrones, or dominions, or principalities, or powers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to both Holy and fallen Angels)
               </span>
             </span>
@@ -512,7 +512,7 @@ export default function Colossians1() {
           : all things were created by Him, and for Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the Creator of all [
                 <ScrollLink href="/john-01" scrollToId="#filepos12285524">
                   <span className="calibre_19">
@@ -536,13 +536,13 @@ export default function Colossians1() {
           <sup className="calibre7">17</sup>And He is before all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(preexistence)</span>
+              <span className="explanation">(preexistence)</span>
             </span>
           </span>
           , and by Him all things consist.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All things come to pass within this sphere of His Personality,
                 and are dependent upon it.)
               </span>
@@ -556,7 +556,7 @@ export default function Colossians1() {
           Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Creator of the world is also Head of the Church)
               </span>
             </span>
@@ -564,7 +564,7 @@ export default function Colossians1() {
           : Who is the Beginning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Christ as the Origin or Beginning of the Church)
               </span>
             </span>
@@ -572,7 +572,7 @@ export default function Colossians1() {
           , the firstborn from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to Jesus being Born-Again as some teach, but
                 rather that He was the first to be raised from the dead as it
                 regards the Resurrection, never to die again)
@@ -588,7 +588,7 @@ export default function Colossians1() {
           He might have the preeminence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is the First and Foremost as it relates to the Church.)
               </span>
             </span>
@@ -606,7 +606,7 @@ export default function Colossians1() {
           that in Him should all fulness dwell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this fullness denotes the sum total of the Divine Powers and
                 Attributes)
               </span>
@@ -623,13 +623,13 @@ export default function Colossians1() {
           <sup className="calibre7">20</sup>And, having made peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(justifying peace)</span>
+              <span className="explanation">(justifying peace)</span>
             </span>
           </span>{" "}
           through the Blood of His Cross{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents His Blood as being that which satisfied the just
                 demands of the broken Law)
               </span>
@@ -638,7 +638,7 @@ export default function Colossians1() {
           , by Him to reconcile all things unto Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the result of Faith in the Cross)
               </span>
             </span>
@@ -658,7 +658,7 @@ export default function Colossians1() {
           things in earth, or things in Heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross not only addressed the Fall of man, but as well the
                 Fall of Lucifer.)
               </span>
@@ -671,7 +671,7 @@ export default function Colossians1() {
           <sup className="calibre7">21</sup>And you, who were sometime{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in times past)</span>
+              <span className="explanation">(in times past)</span>
             </span>
           </span>{" "}
           alienated and enemies in{" "}
@@ -683,13 +683,13 @@ export default function Colossians1() {
           mind by wicked works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(total depravity)</span>
+              <span className="explanation">(total depravity)</span>
             </span>
           </span>
           , yet now has He reconciled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross).</span>
+              <span className="explanation">(made possible by the Cross).</span>
             </span>
           </span>
         </span>
@@ -699,7 +699,7 @@ export default function Colossians1() {
           <sup className="calibre7">22</sup>In the Body of His flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Incarnation, God becoming flesh)
               </span>
             </span>
@@ -707,7 +707,7 @@ export default function Colossians1() {
           through death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the reconciling act of Christ is not by
                 His Incarnation, but by His dying [
                 <ScrollLink
@@ -727,7 +727,7 @@ export default function Colossians1() {
           , to present you Holy and unblamable and unreprovable in His sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all made possible by the Cross)
               </span>
             </span>
@@ -743,7 +743,7 @@ export default function Colossians1() {
           <sup className="calibre7">23</sup>If you continue in the Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the same time says it is possible not to continue in the
                 Faith; the Faith is Christ and Him Crucified)
               </span>
@@ -752,7 +752,7 @@ export default function Colossians1() {
           grounded and settled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Foundation of the Faith, which Object must always be the
                 Cross)
               </span>
@@ -767,13 +767,13 @@ export default function Colossians1() {
           not moved away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(moved away from the Cross)</span>
+              <span className="explanation">(moved away from the Cross)</span>
             </span>
           </span>{" "}
           from the Hope of the Gospel, which you have heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the fact that they had been brought in right)
               </span>
             </span>
@@ -787,7 +787,7 @@ export default function Colossians1() {
           which was preached to every creature which is under Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Message of the Cross is the same for all)
               </span>
             </span>
@@ -795,7 +795,7 @@ export default function Colossians1() {
           ; whereof I Paul am made a Minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the meaning of the New Covenant was actually given to Paul,
                 which is the meaning of the Cross [
                 <ScrollLink href="/galatians-1" scrollToId="#filepos13916356">
@@ -818,7 +818,7 @@ export default function Colossians1() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was in prison when this Epistle was written)
               </span>
             </span>
@@ -827,7 +827,7 @@ export default function Colossians1() {
           flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (suffering for Righteousness sake)
               </span>
             </span>
@@ -835,7 +835,7 @@ export default function Colossians1() {
           for His Bodys sake, which is the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan opposes the Message of the Cross like nothing else)
               </span>
             </span>
@@ -848,7 +848,7 @@ export default function Colossians1() {
           <sup className="calibre7">25</sup>Whereof I am made a Minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (says plainly that he is a Minister and not a Mediator, which
                 some have attempted to read into the previous Verse)
               </span>
@@ -857,7 +857,7 @@ export default function Colossians1() {
           , according to the Dispensation of God which is given to me for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the way and manner of administrating the Work)
               </span>
             </span>
@@ -865,7 +865,7 @@ export default function Colossians1() {
           , to fulfil the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle not wanting to become sidetracked on some
                 minor issue that did not emphasize the centrality of the Gospel,
                 which is the Cross)
@@ -886,7 +886,7 @@ export default function Colossians1() {
           the Mystery which has been hid from ages and from generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Gentiles who would be partakers with the Jews of
                 the Gospel, and actually in the same Church)
               </span>
@@ -895,7 +895,7 @@ export default function Colossians1() {
           , but now is made manifest to His Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (manifested to Believers, but not to the world)
               </span>
             </span>
@@ -908,13 +908,13 @@ export default function Colossians1() {
           <sup className="calibre7">27</sup>To whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Saints)</span>
+              <span className="explanation">(the Saints)</span>
             </span>
           </span>{" "}
           God would make known{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(desire to make known)</span>
+              <span className="explanation">(desire to make known)</span>
             </span>
           </span>{" "}
           what{" "}
@@ -926,7 +926,7 @@ export default function Colossians1() {
           the riches of the glory of this mystery among the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the Cross is for all, and is not
                 limited by racial or national lines)
               </span>
@@ -935,13 +935,13 @@ export default function Colossians1() {
           ; which is Christ in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           , the Hope of Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the full realization will materialize at the coming
                 Resurrection)
               </span>
@@ -956,7 +956,7 @@ export default function Colossians1() {
           and teaching every man in all wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us the Bible is the only revealed Truth in the world and,
                 in fact, ever has been)
               </span>
@@ -965,13 +965,13 @@ export default function Colossians1() {
           ; that we may present every man perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mature)</span>
+              <span className="explanation">(mature)</span>
             </span>
           </span>{" "}
           in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Cross, and what He did there)
               </span>
             </span>
@@ -985,7 +985,7 @@ export default function Colossians1() {
           according to His working{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Christ working in Paul through the Might and Power of
                 the Holy Spirit)
               </span>
@@ -994,7 +994,7 @@ export default function Colossians1() {
           , which works in me mightily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which will work mightily in anyone, if the Object of Faith is
                 always the Cross)
               </span>

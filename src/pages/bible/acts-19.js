@@ -16,7 +16,7 @@ export default function Acts19() {
           Apollos was at Corinth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to{" "}
                 <ScrollLink href="/acts-18" scrollToId="#filepos13105438">
                   <span className="calibre_19">
@@ -32,7 +32,7 @@ export default function Acts19() {
           , Paul having passed through the upper coasts came to Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers back to{" "}
                 <ScrollLink href="/acts-18" scrollToId="#filepos13103227">
                   <span className="calibre_19">
@@ -54,7 +54,7 @@ export default function Acts19() {
           isciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were followers of Christ, but deficient in their
                 understanding)
               </span>
@@ -69,7 +69,7 @@ export default function Acts19() {
           the Holy Spirit since you believed?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the Greek, this is literally, having believed, did you
                 receive? We know these men were already Saved because every time
                 the word Disciples is used in the Book of Acts, it refers to
@@ -83,7 +83,7 @@ export default function Acts19() {
           any Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean that they didnt know of the existence of the Holy
                 Spirit, but they were not aware that the Age of the Spirit had
                 come, and that Believers could literally be baptized with Him;
@@ -110,7 +110,7 @@ export default function Acts19() {
           were you baptized?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After asking about the Holy Spirit Baptism, Paul was met with a
                 blank stare, so to speak.)
               </span>
@@ -119,7 +119,7 @@ export default function Acts19() {
           And they said, Unto Johns Baptism{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Baptism of Repentance)
               </span>
             </span>
@@ -133,7 +133,7 @@ export default function Acts19() {
           with the Baptism of Repentance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which, in effect, was all that could be done at that particular
                 time)
               </span>
@@ -143,7 +143,7 @@ export default function Acts19() {
           come after him, that is, on Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims John the Baptist lifting up Jesus as the Saviour of
                 mankind)
               </span>
@@ -167,7 +167,7 @@ export default function Acts19() {
           they were baptized in the name of the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means, by the authority of the Lord Jesus; the only Baptismal
                 formula in the Word of God is{" "}
                 <ScrollLink href="/matthew-28" scrollToId="#filepos11342214">
@@ -195,7 +195,7 @@ export default function Acts19() {
           hands upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (constitutes a Biblical principle [
                 <ScrollLink href="/acts-08" scrollToId="#filepos12902632">
                   <span className="calibre_19">
@@ -219,7 +219,7 @@ export default function Acts19() {
           , the Holy Spirit came on them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to them being baptized with the Holy Spirit)
               </span>
             </span>
@@ -227,7 +227,7 @@ export default function Acts19() {
           ; and they spoke with tongues, and prophesied{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Tongues as the initial physical evidence that one has
                 been baptized with the Holy Spirit; sometimes there is
                 prophesying at that time, and sometimes not [
@@ -266,7 +266,7 @@ export default function Acts19() {
           <sup className="calibre7">7</sup>And all the men were about twelve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that no women were involved at this particular time)
               </span>
             </span>
@@ -282,14 +282,14 @@ export default function Acts19() {
           <sup className="calibre7">8</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           went into the Synagogue, and spoke boldly for the space of three
           months{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that he lasted longer here than he had in most
                 Synagogues)
               </span>
@@ -298,7 +298,7 @@ export default function Acts19() {
           , disputing and persuading the things concerning the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he would have brought reasonable proofs from the Old Testament
                 Scriptures to show that the Kingdom [ruled authority] of God is
                 revealed in Jesus, Who is now Ascended to the Right Hand of the
@@ -326,7 +326,7 @@ export default function Acts19() {
           believed not, but spoke evil of that way before the multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they rebelled against the Gospel of Christ)
               </span>
             </span>
@@ -334,7 +334,7 @@ export default function Acts19() {
           , he departed from them, and separated the Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the break with the Synagogue)
               </span>
             </span>
@@ -342,7 +342,7 @@ export default function Acts19() {
           , disputing daily in the school of one Tyrannus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is thought to be the Lecture Hall of a Greek Philosopher)
               </span>
             </span>
@@ -356,7 +356,7 @@ export default function Acts19() {
           two years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably referred to most every night and, at times, during the
                 day as well; he spent a total of three years in Ephesus [
                 <ScrollLink href="/acts-20" scrollToId="#filepos13144198">
@@ -374,7 +374,7 @@ export default function Acts19() {
           Jesus, both Jews and Greeks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to every single person, but rather to people
                 from all walks of life, and from all surrounding areas)
               </span>
@@ -392,7 +392,7 @@ export default function Acts19() {
           the hands of Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord did these things, not Paul)
               </span>
             </span>
@@ -406,7 +406,7 @@ export default function Acts19() {
           unto the sick handkerchiefs or aprons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no indication in the Text that he purposely sent these
                 things out, although he definitely may have, but rather that
                 people on their own simply picked them up; they took them to the
@@ -419,7 +419,7 @@ export default function Acts19() {
           of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was not the pieces of cloth which did this, but rather the
                 Power of God using these cloths as a point of contact regarding
                 Faith)
@@ -435,7 +435,7 @@ export default function Acts19() {
           exorcists{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of individuals who practiced divination, and who were
                 not of God, but rather of Satan)
               </span>
@@ -445,7 +445,7 @@ export default function Acts19() {
           the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (apparently these people had heard Paul minister and observed
                 him praying for the sick and casting out demons; they evidently
                 noted that he used The Name of Jesus, which had a powerful
@@ -456,7 +456,7 @@ export default function Acts19() {
           , saying, We adjure you by Jesus Whom Paul preaches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to be their own formula or incantation they cooked up by
                 observing Paul)
               </span>
@@ -482,7 +482,7 @@ export default function Acts19() {
           Chief of the Priests, which did so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (infers that this man may have been a member of the Jewish
                 Council at Ephesus)
               </span>
@@ -497,7 +497,7 @@ export default function Acts19() {
           said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (points to a man who was demon-possessed, and that some or all
                 of these seven sons had been hired to exorcise this spirit)
               </span>
@@ -506,7 +506,7 @@ export default function Acts19() {
           , Jesus I know, and Paul I know; but who are you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This represents two different and distinct Greek verbs
                 regarding the word know. Referring to Jesus, it implied fear!
                 Referring to Paul, there was much less action.)
@@ -521,7 +521,7 @@ export default function Acts19() {
           was leaped on them, and overcame them, and prevailed against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably involved all seven sons being soundly whipped by the
                 demon-possessed man)
               </span>
@@ -530,7 +530,7 @@ export default function Acts19() {
           , so that they fled out of that house naked and wounded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek Text indicates that they suffered wounds severe
                 enough to effect them for a while)
               </span>
@@ -545,7 +545,7 @@ export default function Acts19() {
           and Greeks also dwelling at Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all does not mean every single person, but rather quite a
                 number)
               </span>
@@ -554,7 +554,7 @@ export default function Acts19() {
           ; and fear fell on them all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they now knew not to trifle with the Name of Jesus)
               </span>
             </span>
@@ -562,7 +562,7 @@ export default function Acts19() {
           , and the Name of the Lord Jesus was magnified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the constant idea of the Holy Spirit that Jesus will
                 always be Glorified [
                 <ScrollLink href="/john-16" scrollToId="#filepos12642793">
@@ -584,7 +584,7 @@ export default function Acts19() {
           <sup className="calibre7">18</sup>And many who believed came{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of those who had trusted the Lord for Salvation, but as
                 of yet had not given up particular sins)
               </span>
@@ -593,7 +593,7 @@ export default function Acts19() {
           , and confessed, and showed their deeds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the Holy Spirit now leading these Believers to
                 Holiness and Righteousness, even as He had led them to Salvation
                 previously)
@@ -640,7 +640,7 @@ export default function Acts19() {
           of silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it must have been many, many books, etc., for the amount in
                 2003 dollars would be approximately $2,000,000)
               </span>
@@ -655,7 +655,7 @@ export default function Acts19() {
           prevailed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it doesnt say that the Church grew mightily, but rather the
                 Word of God...)
               </span>
@@ -670,13 +670,13 @@ export default function Acts19() {
           purposed in the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Holy Spirit)</span>
+              <span className="explanation">(refers to the Holy Spirit)</span>
             </span>
           </span>
           , when he had passed through Macedonia and Achaia, to go to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he wanted to be there for the Feast of Pentecost [
                 <ScrollLink href="/acts-20" scrollToId="#filepos13136678">
                   <span className="calibre_19">
@@ -692,7 +692,7 @@ export default function Acts19() {
           , saying, After I have been there, I must also see Rome{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek Text indicates a Divine Hand laid upon Paul)
               </span>
             </span>
@@ -706,7 +706,7 @@ export default function Acts19() {
           them who ministered unto him, Timothy and Erastus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerned preparations they would make in the Churches for
                 Pauls visit a short time later)
               </span>
@@ -715,7 +715,7 @@ export default function Acts19() {
           ; but he himself stayed in Asia for a season{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (stayed in Ephesus a little longer, maybe two or three months)
               </span>
             </span>
@@ -732,7 +732,7 @@ export default function Acts19() {
           small stir about that Way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Way is the Pentecostal Way, which characterizes the
                 entirety of the Book of Acts)
               </span>
@@ -752,7 +752,7 @@ export default function Acts19() {
           named Demetrius, a silversmith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was probably the guild-master of the silversmith guild or
                 trade union)
               </span>
@@ -761,7 +761,7 @@ export default function Acts19() {
           , which made silver shrines for Diana{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of miniatures of the Temple of Diana with the goddess in
                 the middle of the Temple background)
               </span>
@@ -770,7 +770,7 @@ export default function Acts19() {
           , brought no small gain unto the craftsmen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of those who made their living by this particular craft)
               </span>
             </span>
@@ -784,7 +784,7 @@ export default function Acts19() {
           workmen of like occupation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whom Demetrius called together)
               </span>
             </span>
@@ -792,7 +792,7 @@ export default function Acts19() {
           , and said, Sirs, you know that by this craft we have our wealth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that their chief concern was not really the worship or
                 the honor of this goddess, but their own prosperity)
               </span>
@@ -807,7 +807,7 @@ export default function Acts19() {
           alone at Ephesus, but almost throughout all Asia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a powerful Testimony, from an enemy no less, to the
                 power and effectiveness of Pauls labors and his Message)
               </span>
@@ -817,7 +817,7 @@ export default function Acts19() {
           they be no gods, which are made with hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which Paul had preached, and which many people
                 had come to believe, and rightly so)
               </span>
@@ -832,7 +832,7 @@ export default function Acts19() {
           in danger to be set at nought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (follows the idea that it would fall in disrepute)
               </span>
             </span>
@@ -842,7 +842,7 @@ export default function Acts19() {
           the world worships{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was quite a bit of exaggeration here)
               </span>
             </span>
@@ -861,7 +861,7 @@ export default function Acts19() {
           they were full of wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the accusations of Demetrius had the desired effect)
               </span>
             </span>
@@ -875,7 +875,7 @@ export default function Acts19() {
           Diana of the Ephesians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, the great wealth and prominence of the city of
                 Ephesus were largely due to its great Temple of Diana, but it
                 was basically localized to that city)
@@ -891,14 +891,14 @@ export default function Acts19() {
           confusion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the mob is forming)</span>
+              <span className="explanation">(the mob is forming)</span>
             </span>
           </span>
           : and having caught Gaius and Aristarchus, men of Macedonia, Pauls
           companions in travel, they rushed with one accord into the theatre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (recognizing these two men as Pauls associates, they dragged
                 them into the amphitheater)
               </span>
@@ -913,7 +913,7 @@ export default function Acts19() {
           unto the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul was determined to go into the theater and address the mob)
               </span>
             </span>
@@ -921,7 +921,7 @@ export default function Acts19() {
           , the Disciples suffered him not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were the Believers who were a part of the Church at
                 Ephesus, and who knew the danger that awaited Paul)
               </span>
@@ -936,7 +936,7 @@ export default function Acts19() {
           which were his friends{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were men of high rank and great wealth, which presents
                 another striking proof of the enormous influence of Pauls
                 preaching in Asia)
@@ -952,7 +952,7 @@ export default function Acts19() {
           that he would not adventure himself into the theatre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to me that they sent Paul word, but did not come to him
                 in person)
               </span>
@@ -967,7 +967,7 @@ export default function Acts19() {
           some another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the actions and mannerisms of a mob)
               </span>
             </span>
@@ -976,7 +976,7 @@ export default function Acts19() {
           they were come together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that a few were agitating the many)
               </span>
             </span>
@@ -990,7 +990,7 @@ export default function Acts19() {
           multitude, the Jews putting him forward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as to who this Alexander was is not clear)
               </span>
             </span>
@@ -999,7 +999,7 @@ export default function Acts19() {
           defence unto the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which is to no avail)
               </span>
             </span>
@@ -1012,7 +1012,7 @@ export default function Acts19() {
           <sup className="calibre7">34</sup>But when they knew that he was a Jew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the reason for their outburst which followed)
               </span>
             </span>
@@ -1026,7 +1026,7 @@ export default function Acts19() {
           Diana of the Ephesians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite all of this, history records that the Gospel, which
                 Paul preached, had such an effect that the worshipers of the
                 goddess Diana came in ever fewer numbers, while the Church in
@@ -1043,7 +1043,7 @@ export default function Acts19() {
           the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents an office of influence)
               </span>
             </span>
@@ -1064,7 +1064,7 @@ export default function Acts19() {
           which fell down from Jupiter?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that Ephesus is the proud possessor of this
                 goddess, of which no other city in the world could boast.)
               </span>
@@ -1078,7 +1078,7 @@ export default function Acts19() {
           be spoken against{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (appeals to the pride of these individuals, as to Diana being so
                 great)
               </span>
@@ -1087,7 +1087,7 @@ export default function Acts19() {
           , you ought to be quiet, and to do nothing rashly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents good advice, although coming from a heathen)
               </span>
             </span>
@@ -1101,7 +1101,7 @@ export default function Acts19() {
           men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking of Gaius and Aristarchus)
               </span>
             </span>
@@ -1110,7 +1110,7 @@ export default function Acts19() {
           goddess{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Paul had not directed attention to this particular
                 idol, but had, no doubt, referred to idols made by mens hands [
                 <ScrollLink href="/" scrollToId="#filepos13121189">
@@ -1134,7 +1134,7 @@ export default function Acts19() {
           is open{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (reflects the common sense of the town clerk)
               </span>
             </span>
@@ -1142,7 +1142,7 @@ export default function Acts19() {
           , and there are deputies: let them implead one another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was saying that if Demetrius really had a case against Paul
                 and those with him, he should pursue it in open Court)
               </span>
@@ -1157,7 +1157,7 @@ export default function Acts19() {
           concerning other matters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, is saying, if there are other complaints against
                 Paul than that mentioned, it should be addressed correctly, and
                 not by mob action)
@@ -1167,7 +1167,7 @@ export default function Acts19() {
           , it shall be determined in a lawful assembly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(open Court)</span>
+              <span className="explanation">(open Court)</span>
             </span>
           </span>
           .
@@ -1179,7 +1179,7 @@ export default function Acts19() {
           question for this days uproar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Roman peace being disturbed for no good reason)
               </span>
             </span>
@@ -1188,7 +1188,7 @@ export default function Acts19() {
           concourse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the town clerk wondering how this mob action could be
                 explained to Roman authorities, if called to account)
               </span>
@@ -1203,7 +1203,7 @@ export default function Acts19() {
           dismissed the assembly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (common sense prevailed, and Gaius and Aristarchus were released
                 forthwith)
               </span>

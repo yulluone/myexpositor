@@ -15,7 +15,7 @@ export default function Acts20() {
           <sup className="calibre7">1</sup>And after the uproar was ceased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the mob had dispersed)</span>
+              <span className="explanation">(the mob had dispersed)</span>
             </span>
           </span>
           , Paul called unto{" "}
@@ -35,7 +35,7 @@ export default function Acts20() {
           and departed for to go into Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to his care for the Churches in that region)
               </span>
             </span>
@@ -48,7 +48,7 @@ export default function Acts20() {
           <sup className="calibre7">2</sup>And when he had gone over those parts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt included Philippi, Thessalonica, and Berea)
               </span>
             </span>
@@ -56,7 +56,7 @@ export default function Acts20() {
           , and had given them much exhortation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the teaching of the Word of God, as is obvious)
               </span>
             </span>
@@ -64,7 +64,7 @@ export default function Acts20() {
           , he came into Greece{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to a repeat visit to Athens, Corinth, and
                 Cenchrea, as well as other places)
               </span>
@@ -84,7 +84,7 @@ export default function Acts20() {
           abode three months{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he probably spent most of this time at Corinth [
                 <ScrollLink
                   href="/corinthians1-16"
@@ -104,7 +104,7 @@ export default function Acts20() {
           Syria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were most probably Jews from the Synagogue at Corinth,
                 who planned to kill him)
               </span>
@@ -113,7 +113,7 @@ export default function Acts20() {
           , he purposed to return through Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (basically presents the opposite direction, actually to
                 Philippi, from where he would then turn toward Syria)
               </span>
@@ -129,7 +129,7 @@ export default function Acts20() {
           and Gaius of Derbe, and Timothy; and of Asia, Tychicus and Trophimus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some expositors believe that some of these men where chosen by
                 various Churches to travel with Paul, and take their offerings
                 for the poor in Jerusalem [
@@ -191,7 +191,7 @@ export default function Acts20() {
           Troas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the use of the pronoun us, Luke indicates that he has once
                 again joined Paul and his party)
               </span>
@@ -209,13 +209,13 @@ export default function Acts20() {
           after the days of unleavened bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Passover Week)</span>
+              <span className="explanation">(speaks of the Passover Week)</span>
             </span>
           </span>
           , and came unto them to Troas in five days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently portrays the length of time it took to make the
                 voyage by ship)
               </span>
@@ -235,13 +235,13 @@ export default function Acts20() {
           of the week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sunday)</span>
+              <span className="explanation">(Sunday)</span>
             </span>
           </span>
           , when the Disciples came together to break bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sunday had become the main day of worship)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Acts20() {
           continued his speech until midnight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims him preaching possibly for several hours)
               </span>
             </span>
@@ -264,7 +264,7 @@ export default function Acts20() {
           upper chamber{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently spoke of a third story room, which would seat two or
                 three hundred people)
               </span>
@@ -273,7 +273,7 @@ export default function Acts20() {
           , where they were gathered together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the meeting place or Church in Troas)
               </span>
             </span>
@@ -289,7 +289,7 @@ export default function Acts20() {
           third loft, and was taken up dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Greek Text declares that he was a lifeless corpse; the fall
                 had killed him)
               </span>
@@ -310,7 +310,7 @@ export default function Acts20() {
           said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the example of Elijah in this, which is probably what
                 Paul intended [
                 <ScrollLink href="/kings1-17" scrollToId="#filepos3946136">
@@ -327,7 +327,7 @@ export default function Acts20() {
           , Trouble not yourselves; for his life is in him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not mean, as some claim, that the boy had merely been
                 knocked unconscious, but rather that he had been dead, and that
                 the Lord had infused life back into him; he was raised from the
@@ -343,14 +343,14 @@ export default function Acts20() {
           <sup className="calibre7">11</sup>When he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           therefore was come up again, and had broken bread, and eaten, and
           talked a long while, even till break of day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this all night Message was interrupted only by the raising of
                 the boy from the dead; he had much to tell them, and there was
                 much they needed to hear)
@@ -366,7 +366,7 @@ export default function Acts20() {
           alive, and were not a little comforted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a night it had been!)</span>
+              <span className="explanation">(what a night it had been!)</span>
             </span>
           </span>
           .
@@ -380,7 +380,7 @@ export default function Acts20() {
           <sup className="calibre7">13</sup>And we went before to ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Luke and the men of{" "}
                 <ScrollLink href="/" scrollToId="#filepos13130784">
                   <span className="calibre_19">
@@ -396,7 +396,7 @@ export default function Acts20() {
           , and sailed unto Assos{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a short distance of about forty miles around Cape Electum)
               </span>
             </span>
@@ -405,7 +405,7 @@ export default function Acts20() {
           himself to go afoot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by land it was about twenty miles; he would walk this distance
                 alone, no doubt desiring to be alone with the Lord in prayer)
               </span>
@@ -420,7 +420,7 @@ export default function Acts20() {
           took him in, and came to Mitylene{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presented another approximate forty miles by ship)
               </span>
             </span>
@@ -440,7 +440,7 @@ export default function Acts20() {
           over against Chios{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents another Island about the size of Lesbos; it lay due
                 west of both Smyrna and Ephesus, about a hundred miles in
                 distance);
@@ -468,13 +468,13 @@ export default function Acts20() {
           Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not stop there)</span>
+              <span className="explanation">(not stop there)</span>
             </span>
           </span>
           , because he would not spend the time in Asia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us, I think, he did not want to tarry, having settled
                 this thing with the Lord respecting this eventful trip)
               </span>
@@ -484,7 +484,7 @@ export default function Acts20() {
           Day of Pentecost{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit has warned him of the coming difficulties he
                 will face on this trip, and it is almost as if he must haste,
                 lest he draw back because of these coming difficulties)
@@ -503,7 +503,7 @@ export default function Acts20() {
           and called the Elders of the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was about thirty miles to Ephesus; he wanted the Elders to
                 come meet him at Melitus before he left)
               </span>
@@ -517,7 +517,7 @@ export default function Acts20() {
           <sup className="calibre7">18</sup>And when they were come to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably represents two or three days from the time the
                 Messenger was originally sent)
               </span>
@@ -527,7 +527,7 @@ export default function Acts20() {
           Asia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (takes them back to the very beginning of the Church at Ephesus)
               </span>
             </span>
@@ -535,7 +535,7 @@ export default function Acts20() {
           , after what manner I have been with you at all seasons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates him nurturing them with the Gospel of Jesus Christ)
               </span>
             </span>
@@ -549,7 +549,7 @@ export default function Acts20() {
           of mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which was the very opposite of the Judaizers and
                 other false teachers, who were attempting to draw a following
                 after themselves)
@@ -559,13 +559,13 @@ export default function Acts20() {
           , and with many tears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pauls emotions ran deep)</span>
+              <span className="explanation">(Pauls emotions ran deep)</span>
             </span>
           </span>
           , and temptations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a provocation to deal with a situation outside the Ways of the
                 Lord)
               </span>
@@ -574,7 +574,7 @@ export default function Acts20() {
           , which befell me by the lying in wait of the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the constant plots against Paul by the Jews were never ceasing)
               </span>
             </span>
@@ -603,13 +603,13 @@ export default function Acts20() {
           but have showed you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(explained the Scriptures)</span>
+              <span className="explanation">(explained the Scriptures)</span>
             </span>
           </span>
           , and have taught you publickly, and from house to house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (most Churches were then in houses)
               </span>
             </span>
@@ -623,7 +623,7 @@ export default function Acts20() {
           also to the Greeks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Gospel is the same for all)
               </span>
             </span>
@@ -631,7 +631,7 @@ export default function Acts20() {
           , repentance toward God, and Faith toward our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Gospel in the proverbial nutshell; Faith in Christ
                 pertains to Faith in what He did at the Cross)
               </span>
@@ -646,7 +646,7 @@ export default function Acts20() {
           spirit unto Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Holy Spirit, and the desire of the Spirit that
                 Paul take this trip, irrespective of the coming difficulties)
               </span>
@@ -655,7 +655,7 @@ export default function Acts20() {
           , not knowing the things that shall befall me there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit tells him to go to Jerusalem and that there
                 will be great problems, but doesnt tell him exactly what they
                 will be)
@@ -671,7 +671,7 @@ export default function Acts20() {
           in every city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that such happened, but gave no information about the
                 actual events)
               </span>
@@ -680,7 +680,7 @@ export default function Acts20() {
           , saying that bonds and afflictions abide me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit didnt tell Paul exactly how these things would
                 come about)
               </span>
@@ -694,7 +694,7 @@ export default function Acts20() {
           <sup className="calibre7">24</sup>But none of these things move me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Paul putting himself entirely in the hands of the
                 Lord)
               </span>
@@ -703,7 +703,7 @@ export default function Acts20() {
           , neither count I my life dear unto myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his life belonged to the Lord, and the Lord could do with it as
                 He so desired)
               </span>
@@ -712,14 +712,14 @@ export default function Acts20() {
           , so that I might finish my course with joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and that he ultimately did)</span>
+              <span className="explanation">(and that he ultimately did)</span>
             </span>
           </span>
           , and the ministry, which I have received of the Lord Jesus, to
           testify the Gospel of the Grace of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims basically what this course actually is; his Message
                 was Jesus Christ and Him Crucified)
               </span>
@@ -734,7 +734,7 @@ export default function Acts20() {
           all, among whom I have gone preaching the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he had faithfully preached the Message to these Ephesians)
               </span>
             </span>
@@ -742,7 +742,7 @@ export default function Acts20() {
           , shall see my face no more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he knew this would be the last time he would see them, and
                 therefore, the reason he had sent for them)
               </span>
@@ -757,7 +757,7 @@ export default function Acts20() {
           day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Heavenly record will show)
               </span>
             </span>
@@ -786,7 +786,7 @@ export default function Acts20() {
           unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the temptation was always there to trim
                 the Message)
               </span>
@@ -795,7 +795,7 @@ export default function Acts20() {
           all the Counsel of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the Word of God, holding back nothing)
               </span>
             </span>
@@ -809,7 +809,7 @@ export default function Acts20() {
           and to all the Flock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this word is directed to the Pastors who had come from Ephesus
                 to meet him)
               </span>
@@ -818,7 +818,7 @@ export default function Acts20() {
           , over the which the Holy Spirit has made you overseers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Elders, Bishops, Overseers, Shepherds, and Presbyters all mean
                 the same thing, Pastor)
               </span>
@@ -827,13 +827,13 @@ export default function Acts20() {
           , to feed the Church of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to tend as a Shepherd)</span>
+              <span className="explanation">(to tend as a Shepherd)</span>
             </span>
           </span>
           , which He has purchased with His Own Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ bought us at a great price)
               </span>
             </span>
@@ -848,7 +848,7 @@ export default function Acts20() {
           flock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a perfect description of those who merchandise the
                 Body of Christ, and in whatever way)
               </span>
@@ -863,7 +863,7 @@ export default function Acts20() {
           arise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will not come from the outside, but from the inside)
               </span>
             </span>
@@ -871,7 +871,7 @@ export default function Acts20() {
           , speaking perverse things, to draw away Disciples after them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not to Christ, but to themselves)
               </span>
             </span>
@@ -884,14 +884,14 @@ export default function Acts20() {
           <sup className="calibre7">31</sup>Therefore watch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be spiritually vigilant)</span>
+              <span className="explanation">(be spiritually vigilant)</span>
             </span>
           </span>
           , and remember, that by the space of three years I ceased not to warn
           every one night and day with tears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul not only preached the Truth of the Word, but warned of and
                 pointed out false doctrine and false apostles as well)
               </span>
@@ -906,7 +906,7 @@ export default function Acts20() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he has planted enough of the Gospel in them that they will not
                 turn from the Lord)
               </span>
@@ -915,13 +915,13 @@ export default function Acts20() {
           , and to the Word of His Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that Word is the Cross)</span>
+              <span className="explanation">(that Word is the Cross)</span>
             </span>
           </span>
           , which is able to build you up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Gospel of Grace alone can build one up)
               </span>
             </span>
@@ -929,7 +929,7 @@ export default function Acts20() {
           , and to give you an inheritance among all them which are Sanctified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Believer is Sanctified only by making the Cross the Object
                 of His Faith, which gives the Holy Spirit the latitude to carry
                 out this work within our hearts and lives; the Believer cannot
@@ -946,7 +946,7 @@ export default function Acts20() {
           gold, or apparel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was not after their money as were these grievous wolves of{" "}
                 <ScrollLink href="/" scrollToId="#filepos13143546">
                   <span className="calibre_19">
@@ -969,7 +969,7 @@ export default function Acts20() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Paul repairing tents to support himself [
                 <ScrollLink href="/acts-18" scrollToId="#filepos13092484">
                   <span className="calibre_19">
@@ -990,7 +990,7 @@ export default function Acts20() {
           <sup className="calibre7">35</sup>I have showed you all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that this particular aspect of unselfishness is to serve
                 as an example)
               </span>
@@ -999,7 +999,7 @@ export default function Acts20() {
           , how that so labouring you ought to support the weak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything the Believer does is to set a spiritual example)
               </span>
             </span>
@@ -1008,7 +1008,7 @@ export default function Acts20() {
           blessed to give than to receive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these words are not recorded in the Gospels; however, we know
                 that only a tiny part of what He said and did is recorded;
                 Peter, or one of the other Apostles who were with Jesus,
@@ -1024,7 +1024,7 @@ export default function Acts20() {
           <sup className="calibre7">36</sup>And when he had thus spoken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represented the last time they would ever hear him speak to
                 them)
               </span>
@@ -1033,7 +1033,7 @@ export default function Acts20() {
           , he kneeled down, and prayed with them all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well, concerns the last time he will pray with them, even
                 though he will continue to pray for them)
               </span>
@@ -1047,7 +1047,7 @@ export default function Acts20() {
           <sup className="calibre7">37</sup>And they all wept sore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns their great love for the Apostle)
               </span>
             </span>
@@ -1055,7 +1055,7 @@ export default function Acts20() {
           , and fell on Pauls neck, and kissed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his Message had brought them from death to life)
               </span>
             </span>
@@ -1069,7 +1069,7 @@ export default function Acts20() {
           which he spoke, that they should see his face no more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so far as is known, these Ephesians never saw the Apostle again
                 until they saw him in Glory)
               </span>
@@ -1078,7 +1078,7 @@ export default function Acts20() {
           . And they accompanied him unto the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was at the port of Melitus)
               </span>
             </span>

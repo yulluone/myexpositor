@@ -16,7 +16,7 @@ export default function Revelation11() {
           unto a rod: and the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           stood, saying, Rise, and measure the Temple of God, and the Altar, and
@@ -59,7 +59,7 @@ export default function Revelation11() {
           : and the Holy City{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>{" "}
           shall they tread under foot forty{" "}
@@ -416,7 +416,7 @@ export default function Revelation11() {
           , and the tenth part of the city fell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Jerusalem)</span>
+              <span className="explanation">(refers to Jerusalem)</span>
             </span>
           </span>
           , and in the earthquake were slain of men seven thousand: and the
@@ -521,7 +521,7 @@ export default function Revelation11() {
           which sat before God on their seats{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(thrones)</span>
+              <span className="explanation">(thrones)</span>
             </span>
           </span>
           , fell upon their faces, and worshipped God{" "}

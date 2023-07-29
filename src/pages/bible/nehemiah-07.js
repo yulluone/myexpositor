@@ -33,7 +33,7 @@ export default function Nehemiah07() {
           <sup className="calibre7">2</sup>That I gave my brother Hanani{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his personal blood brother)</span>
+              <span className="explanation">(his personal blood brother)</span>
             </span>
           </span>
           , and Hanani ah the ruler of the palace, charge over Jerusalem: for he
@@ -490,7 +490,7 @@ export default function Nehemiah07() {
           <sup className="calibre7">65</sup>And the Tirshatha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Governor)</span>
+              <span className="explanation">(Governor)</span>
             </span>
           </span>{" "}
           said unto them, that they should not eat of the most holy things{" "}

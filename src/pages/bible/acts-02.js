@@ -16,7 +16,7 @@ export default function Acts02() {
           fully come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Feast of Pentecost, one of the seven great Feasts ordained
                 by God and practiced by Israel yearly; it took place fifty days
                 after Passover)
@@ -26,7 +26,7 @@ export default function Acts02() {
           , they were all with one accord in one place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not the Upper Room where they had been previously meeting, but
                 rather the Temple [
                 <ScrollLink href="/luke-24" scrollToId="#filepos12282552">
@@ -57,7 +57,7 @@ export default function Acts02() {
           Heaven as of a rushing mighty wind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the coming of the Holy Spirit in a new dimension, all
                 made possible by the Cross)
               </span>
@@ -66,13 +66,13 @@ export default function Acts02() {
           , and it filled all the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Temple)</span>
+              <span className="explanation">(the Temple)</span>
             </span>
           </span>{" "}
           where they were sitting{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were probably in the Court of the Gentiles)
               </span>
             </span>
@@ -86,7 +86,7 @@ export default function Acts02() {
           tongues like as of fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only record of such in the New Testament, and was the
                 fulfillment of the Prophecy of John the Baptist concerning Jesus
                 [
@@ -104,7 +104,7 @@ export default function Acts02() {
           , and it sat upon each of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to all who were there, not just the Twelve Apostles; the
                 exact number is not known)
               </span>
@@ -119,7 +119,7 @@ export default function Acts02() {
           Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all were filled, not just the Apostles; due to the Cross, the
                 Holy Spirit could now come into the hearts and lives of all
                 Believers to abide permanently [
@@ -137,7 +137,7 @@ export default function Acts02() {
           , and began to speak with other Tongues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the initial physical evidence that one has been baptized with
                 the Spirit, and was predicted by the Prophet Isaiah [
                 <ScrollLink href="/isaiah-28" scrollToId="#filepos7558153">
@@ -178,7 +178,7 @@ export default function Acts02() {
           , as the Spirit gave them utterance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning they did not initiate this themselves, but that it was
                 initiated by the Spirit; as we shall see, these were languages
                 known somewhere in the world, but not by the speaker)
@@ -194,7 +194,7 @@ export default function Acts02() {
           Jews, devout men, out of every nation under Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jews were then scattered all over the Roman World, with
                 thousands coming in from every nation to keep the Feast)
               </span>
@@ -208,7 +208,7 @@ export default function Acts02() {
           <sup className="calibre7">6</sup>Now when this was noised abroad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (multitudes who were in the Temple heard and saw the
                 proceedings, and as well, began to tell others)
               </span>
@@ -217,7 +217,7 @@ export default function Acts02() {
           , the multitude came together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what was happening attracted a multitude)
               </span>
             </span>
@@ -226,7 +226,7 @@ export default function Acts02() {
           own language{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that these onlooking Jews heard these people speaking in
                 many different languages, in fact languages of the nations of
                 their residence, wherever that might have been, proving that
@@ -242,7 +242,7 @@ export default function Acts02() {
           <sup className="calibre7">7</sup>And they were all amazed and marveled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (mostly centered upon this speaking with other tongues)
               </span>
             </span>
@@ -251,7 +251,7 @@ export default function Acts02() {
           Galilaeans?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that the Galilaean accent was peculiar and
                 well-known [
                 <ScrollLink href="/mark-14" scrollToId="#filepos11645650">
@@ -281,7 +281,7 @@ export default function Acts02() {
           tongue, wherein we were born?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proves once again that this was not babble, mere chatter,
                 or gibberish, but rather a language known somewhere in the
                 world, but not by the speaker.)
@@ -310,7 +310,7 @@ export default function Acts02() {
           speak in our tongues the wonderful Works of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tells us what speaking in tongues actually is, a
                 recitation of the Wonderful Works of God)
               </span>
@@ -325,7 +325,7 @@ export default function Acts02() {
           in doubt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, and were perplexed; they had no
                 rational answer to their perplexity)
               </span>
@@ -334,7 +334,7 @@ export default function Acts02() {
           , saying one to another, What does this mean?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was asking more in wonder than demanding an answer.)
               </span>
             </span>
@@ -346,7 +346,7 @@ export default function Acts02() {
           <sup className="calibre7">13</sup>Others mocking said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they scoffed; whether by gesture or word, they jeered at the
                 Testimony of this given by the Holy Spirit)
               </span>
@@ -355,7 +355,7 @@ export default function Acts02() {
           , These men are full of new wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was actually an accusation that they were drunk, i.e.,
                 intoxicated; some were amazed and some mocked, which continues
                 to be done even unto this hour)
@@ -374,7 +374,7 @@ export default function Acts02() {
           Eleven, lifted up his voice, and said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter will now preach the inaugural Message of the Church on
                 that Day of Pentecost)
               </span>
@@ -384,7 +384,7 @@ export default function Acts02() {
           unto you, and hearken to my words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Message was probably delivered on Solomons Porch, a part of
                 the Court of the Gentiles; it was where debates and such like
                 were commonly conducted)
@@ -400,7 +400,7 @@ export default function Acts02() {
           suppose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says they are drunk, but not in the common manner)
               </span>
             </span>
@@ -414,7 +414,7 @@ export default function Acts02() {
           the third hour of the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 a.m.)</span>
+              <span className="explanation">(9 a.m.)</span>
             </span>
           </span>
           .
@@ -426,7 +426,7 @@ export default function Acts02() {
           the Prophet Joel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (please notice that Peter did not say, this fulfills that spoken
                 by the Prophet Joel, but rather, this is that... meaning that it
                 will continue)
@@ -442,7 +442,7 @@ export default function Acts02() {
           last days, saith God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims these last days as beginning on the Day of Pentecost,
                 and continuing through the coming Great Tribulation)
               </span>
@@ -451,7 +451,7 @@ export default function Acts02() {
           , I will pour out of My Spirit upon all flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of all people everywhere and, therefore, not limited to
                 some particular geographical location; as well, it is not
                 limited respecting race, color, or creed)
@@ -461,14 +461,14 @@ export default function Acts02() {
           : and your sons and your daughters shall Prophesy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(includes both genders)</span>
+              <span className="explanation">(includes both genders)</span>
             </span>
           </span>
           , and your young men shall see visions, and your old men shall dream
           dreams{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all given by the Holy Spirit; the Hebrew language insinuates,
                 both your young men and old men shall see visions, and both your
                 old men and young men shall dream dreams; it applies to both
@@ -485,7 +485,7 @@ export default function Acts02() {
           handmaidens I will pour out in those days of My Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant purposely to address two classes of people who had
                 been given very little status in the past, slaves and women)
               </span>
@@ -494,7 +494,7 @@ export default function Acts02() {
           ; and they shall Prophesy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to one of the Gifts of the Spirit [
                 <ScrollLink
                   href="/corinthians1-12"
@@ -520,7 +520,7 @@ export default function Acts02() {
           smoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the fact that these days of My Spirit will cover
                 the entirety of the Church Age, even into the coming Great
                 Tribulation; that time limit has now been nearly two thousand
@@ -537,7 +537,7 @@ export default function Acts02() {
           darkness, and the moon into blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not meant to be literal, but rather that the moon will look
                 blood red because of atmospheric conditions)
               </span>
@@ -546,7 +546,7 @@ export default function Acts02() {
           , before that great and notable Day of the Lord come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>
           :
@@ -563,7 +563,7 @@ export default function Acts02() {
           whosoever shall call on the Name of the Lord shall be saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/joel-2" scrollToId="#filepos10131408">
                   <span className="calibre_19">
@@ -585,7 +585,7 @@ export default function Acts02() {
           <sup className="calibre7">22</sup>You men of Israel, hear these words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the inaugural Message of the Church)
               </span>
             </span>
@@ -593,7 +593,7 @@ export default function Acts02() {
           ; Jesus of Nazareth, a Man approved of God among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus must ever be the theme of our Message; He was approved of
                 God, but not of men)
               </span>
@@ -603,7 +603,7 @@ export default function Acts02() {
           of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what Peter knew firsthand, because he was there)
               </span>
             </span>
@@ -611,7 +611,7 @@ export default function Acts02() {
           , as you yourselves also know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so many of these things were done that there was absolutely no
                 excuse for them not to know)
               </span>
@@ -626,7 +626,7 @@ export default function Acts02() {
           determinate counsel and foreknowledge of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was the Plan of God that Jesus would die on the Cross;
                 however, it was not the Plan of God for the religious leaders of
                 Israel to do this thing; that was of their own making and
@@ -637,7 +637,7 @@ export default function Acts02() {
           , you have taken, and by wicked hands have crucified and slain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a charge so serious it absolutely defies description!
                 but yet, if they will seek mercy and forgiveness, God will
                 forgive them, even as we shall see)
@@ -652,13 +652,13 @@ export default function Acts02() {
           <sup className="calibre7">24</sup>Whom God has raised up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerns the Resurrection)</span>
+              <span className="explanation">(concerns the Resurrection)</span>
             </span>
           </span>
           , having loosed the pains of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (death could not hold Him because He atoned for all sin, which
                 occasions death [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13362529">
@@ -675,7 +675,7 @@ export default function Acts02() {
           : because it was not possible that He should be held by it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (death would liked to have held Him in its grip, but it could
                 not because He had taken away its legal right; as stated, He
                 atoned for all sin, which defeated death, Satan, and all
@@ -699,7 +699,7 @@ export default function Acts02() {
           <sup className="calibre7">25</sup>For David speaks concerning Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/psalm-016" scrollToId="#filepos5735633">
                   <span className="calibre_19">
@@ -716,7 +716,7 @@ export default function Acts02() {
           Hand, that I should not be moved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (through the Cross, Christ would gain this position at the
                 Fathers Right Hand, which speaks of power and authority, all on
                 our behalf [
@@ -739,7 +739,7 @@ export default function Acts02() {
           <sup className="calibre7">26</sup>Therefore did My heart rejoice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns Christ rejoicing over His Fathers guarantee and
                 protection regarding His descent into the death world; He knew
                 that the Father would bring Him out)
@@ -749,7 +749,7 @@ export default function Acts02() {
           , and My tongue was glad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the things He said regarding His Resurrection [
                 <ScrollLink href="/matthew-16" scrollToId="#filepos11095374">
                   <span className="calibre_19">
@@ -789,7 +789,7 @@ export default function Acts02() {
           ; moreover also My flesh shall rest in hope{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to resting on the Promises of God relating to the
                 Resurrection)
               </span>
@@ -804,7 +804,7 @@ export default function Acts02() {
           in hell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was not the burning part of Hell [
                 <ScrollLink href="/luke-16" scrollToId="#filepos12079914">
                   <span className="calibre_19">
@@ -820,13 +820,13 @@ export default function Acts02() {
           , neither will You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           suffer Your Holy One to see corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His physical body, being sinless, saw no corruption, which
                 normally accompanies death; in fact, it was glorified and raised
                 from the dead)
@@ -842,7 +842,7 @@ export default function Acts02() {
           of Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Christ as the Pattern, and as well presents the
                 Resurrection not only of Himself, but all Believers)
               </span>
@@ -851,7 +851,7 @@ export default function Acts02() {
           ; You shall make Me full of joy with Your countenance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Face did shine upon Christ, and it shines upon us as well,
                 as we are in Christ)
               </span>
@@ -871,7 +871,7 @@ export default function Acts02() {
           Brethren, let me freely speak unto you of the Patriarch David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the only time David is referred to in Scripture as a
                 Patriarch)
               </span>
@@ -881,7 +881,7 @@ export default function Acts02() {
           this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is given here to dispel the erroneous notions held by the
                 Pharisees and religious leaders of Israel concerning the
                 Messiah)
@@ -896,7 +896,7 @@ export default function Acts02() {
           <sup className="calibre7">30</sup>Therefore being a Prophet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the many Prophecies given by David in the Psalms
                 regarding Christ)
               </span>
@@ -906,7 +906,7 @@ export default function Acts02() {
           fruit of his loins, according to the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-07" scrollToId="#filepos3456535">
                   <span className="calibre_19">
@@ -922,13 +922,13 @@ export default function Acts02() {
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           would raise up Christ to sit on his throne{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to sit on Davids Throne, which has not yet happened, but most
                 surely will in the coming Kingdom Age; all of this portrays the
                 Incarnation, God becoming Man and doing so through the lineage
@@ -944,13 +944,13 @@ export default function Acts02() {
           <sup className="calibre7">31</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           seeing this before spoke of the Resurrection of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells the religious leaders of Israel David plainly Prophesied
                 that Jesus would be raised from the dead [
                 <ScrollLink href="/psalm-016" scrollToId="#filepos5735633">
@@ -967,7 +967,7 @@ export default function Acts02() {
           , that His soul was not left in Hell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, He did not go to the burning side of Hell, but
                 rather into Paradise [Lk. 16], and as well to some particular
                 prisons in that infernal region [
@@ -985,7 +985,7 @@ export default function Acts02() {
           , neither did His flesh see corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was not tormented in Hell as some teach, neither was there
                 any decay in His physical Body; rather it was Glorified)
               </span>
@@ -999,13 +999,13 @@ export default function Acts02() {
           <sup className="calibre7">32</sup>This Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the One you Crucified)</span>
+              <span className="explanation">(the One you Crucified)</span>
             </span>
           </span>{" "}
           has God raised up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the physical Jesus and not some spirit)
               </span>
             </span>
@@ -1013,7 +1013,7 @@ export default function Acts02() {
           , whereof we all are witnesses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter is telling them that despite what they say, all of Israel
                 knows that Jesus was raised from the dead)
               </span>
@@ -1028,7 +1028,7 @@ export default function Acts02() {
           God exalted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is now exalted, not only as Creator, but as well as
                 Saviour, the latter made possible by the Cross)
               </span>
@@ -1037,7 +1037,7 @@ export default function Acts02() {
           , and having received of the Father the Promise of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proves that Jesus was accepted by the Father because the Holy
                 Spirit was sent back, even as Promised [
                 <ScrollLink href="/john-16" scrollToId="#filepos12638889">
@@ -1054,7 +1054,7 @@ export default function Acts02() {
           , He has shed forth this, which you now see and hear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they saw the people, and they heard them speak with tongues)
               </span>
             </span>
@@ -1068,7 +1068,7 @@ export default function Acts02() {
           Heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (given by Peter to prove that these Prophecies were not given to
                 David concerning himself, but rather the One Who was to come,
                 namely the Lord Jesus Christ; evidently, some of the religious
@@ -1081,7 +1081,7 @@ export default function Acts02() {
           : but he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
             <span>
               <span className="calibre_19">said</span>
@@ -1090,7 +1090,7 @@ export default function Acts02() {
           himself, The LORD said unto My Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God the Father said to God the Son)
               </span>
             </span>
@@ -1098,7 +1098,7 @@ export default function Acts02() {
           , Sit Thou on My Right Hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/psalm-110" scrollToId="#filepos6490391">
                   <span className="calibre_19">
@@ -1128,7 +1128,7 @@ export default function Acts02() {
           footstool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all made possible by the Cross [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
                   <span className="calibre_19">
@@ -1170,7 +1170,7 @@ export default function Acts02() {
           Israel know assuredly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is leveled by Peter directly toward the religious leadership of
                 Israel, and is inspired by the Holy Spirit)
               </span>
@@ -1180,7 +1180,7 @@ export default function Acts02() {
           Lord and Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus was and is Jehovah, and as well, Israels Messiah)
               </span>
             </span>
@@ -1202,7 +1202,7 @@ export default function Acts02() {
           they were pricked in their heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the convicting Power of the Holy Spirit)
               </span>
             </span>
@@ -1216,7 +1216,7 @@ export default function Acts02() {
           Brethren, what shall we do?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims these people, whomever they may have been,
                 desiring to get right with God.)
               </span>
@@ -1229,7 +1229,7 @@ export default function Acts02() {
           <sup className="calibre7">38</sup>Then Peter said unto them, Repent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (admit that God is right, and we are wrong)
               </span>
             </span>
@@ -1237,7 +1237,7 @@ export default function Acts02() {
           , and be baptized every one of you in the Name of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the authority of that Name; there is no baptismal formula
                 given in the Book of Acts; the only formula given was given by
                 Christ in{" "}
@@ -1255,7 +1255,7 @@ export default function Acts02() {
           for the Remission of sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, because of remission of sins; one
                 is Baptized in Water because ones sins have already been
                 remitted due to Faith in Christ, and not that sins should be
@@ -1266,7 +1266,7 @@ export default function Acts02() {
           , and you shall receive the Gift of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Repentance guarantees Salvation, which makes the Believer ready
                 to be Baptized with the Holy Spirit; one is not Baptized with
                 the Spirit automatically at conversion; it is an experience that
@@ -1307,7 +1307,7 @@ export default function Acts02() {
           <sup className="calibre7">39</sup>For the Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (of the Baptism with the Holy Spirit)
               </span>
             </span>
@@ -1315,7 +1315,7 @@ export default function Acts02() {
           is unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (directed toward the many Jews standing in the Temple listening
                 to Peter that day)
               </span>
@@ -1324,7 +1324,7 @@ export default function Acts02() {
           , and to your children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that this great outpouring did not stop with the initial
                 outpouring, but continues on)
               </span>
@@ -1333,7 +1333,7 @@ export default function Acts02() {
           , and to all who are afar off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that its not only for those in Jerusalem, but the
                 entirety of the world as well)
               </span>
@@ -1348,7 +1348,7 @@ export default function Acts02() {
           as many as the Lord our God shall call{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Call is whosoever will [
                 <ScrollLink href="/john-07" scrollToId="#filepos12449783">
                   <span className="calibre_19">
@@ -1378,7 +1378,7 @@ export default function Acts02() {
           testify and exhort{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that we only have a part of Peters Message here)
               </span>
             </span>
@@ -1386,7 +1386,7 @@ export default function Acts02() {
           , saying, Save yourselves from this untoward generation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it is a call to Repentance)</span>
+              <span className="explanation">(it is a call to Repentance)</span>
             </span>
           </span>
           .
@@ -1398,7 +1398,7 @@ export default function Acts02() {
           word were baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some believed what Peter said, gave their hearts to God, and
                 repented of their sins; they were then baptized in water)
               </span>
@@ -1413,7 +1413,7 @@ export default function Acts02() {
           about three thousand souls{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on the first Day of Pentecost, the Day the Law was given, some
                 three thousand men died [
                 <ScrollLink href="/exodus-32" scrollToId="#filepos1161830">
@@ -1440,7 +1440,7 @@ export default function Acts02() {
           Apostles Doctrine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Doctrine is found in{" "}
                 <ScrollLink href="/" scrollToId="#filepos12789346">
                   <span className="calibre_19">
@@ -1456,7 +1456,7 @@ export default function Acts02() {
           and fellowship, and in breaking of bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had to do with the celebration of the Lords Supper, which was
                 probably a much more informal setting than presently)
               </span>
@@ -1465,7 +1465,7 @@ export default function Acts02() {
           , and in prayers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (simply meant it was a praying Church)
               </span>
             </span>
@@ -1478,7 +1478,7 @@ export default function Acts02() {
           <sup className="calibre7">43</sup>And fear came upon every soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Moving and Operation of the Holy Spirit; seeing
                 the things that the Spirit was doing, all had a sense of awe,
                 wonder, and fear)
@@ -1488,7 +1488,7 @@ export default function Acts02() {
           : and many wonders and signs were done by the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit did this in order to give the Church a great
                 start; it continued, even as it is meant to continue, but on a
                 more limited basis, as the latter part of the Book of Acts bears
@@ -1504,7 +1504,7 @@ export default function Acts02() {
           <sup className="calibre7">44</sup>And all who believed were together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the great animosity of the Jews against the followers of
                 Christ, Believers had to band together)
               </span>
@@ -1513,7 +1513,7 @@ export default function Acts02() {
           , and had all things common{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to thousands losing their jobs because of persecution,
                 those who had material goods shared with those who didnt)
               </span>
@@ -1527,7 +1527,7 @@ export default function Acts02() {
           <sup className="calibre7">45</sup>And sold their possessions and goods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they sold things they did not absolutely need, in order that
                 they may be able to help those who were in great need)
               </span>
@@ -1542,7 +1542,7 @@ export default function Acts02() {
           as every man had need{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaimed a Christlike community because of the great
                 persecution at hand)
               </span>
@@ -1557,7 +1557,7 @@ export default function Acts02() {
           accord in the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, the Temple had been turned into a Church, which
                 must have been extremely irritating to the religious
                 authorities)
@@ -1567,7 +1567,7 @@ export default function Acts02() {
           , and breaking bread from house to house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the Church per se was actually ensconced in houses
                 all over Jerusalem)
               </span>
@@ -1576,7 +1576,7 @@ export default function Acts02() {
           , did eat their meat with gladness and singleness of heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had a joy that persecution could not hinder)
               </span>
             </span>
@@ -1590,7 +1590,7 @@ export default function Acts02() {
           all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem as a whole was favorably impressed by what they saw
                 respecting these followers of Christ)
               </span>
@@ -1599,7 +1599,9 @@ export default function Acts02() {
           . And the Lord added to the Church daily such as should be saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many were coming to the Lord)</span>
+              <span className="explanation">
+                (many were coming to the Lord)
+              </span>
             </span>
           </span>
           .

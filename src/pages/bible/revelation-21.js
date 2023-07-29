@@ -630,7 +630,9 @@ export default function Revelation21() {
           garnished with all manner of precious stones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(describes beauty upon beauty)</span>
+              <span className="explanation">
+                (describes beauty upon beauty)
+              </span>
             </span>
           </span>
           . The first foundation was jasper; the second, sapphire; the third, a

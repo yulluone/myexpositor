@@ -21,13 +21,15 @@ export default function Luke24() {
           of the week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sunday)</span>
+              <span className="explanation">(Sunday)</span>
             </span>
           </span>
           , very early in the morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before the rising of the sun)</span>
+              <span className="explanation">
+                (before the rising of the sun)
+              </span>
             </span>
           </span>
           , they came unto the sepulchre{" "}
@@ -66,7 +68,9 @@ export default function Luke24() {
           with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who they were, we arent told)</span>
+              <span className="explanation">
+                (who they were, we arent told)
+              </span>
             </span>
           </span>
           .
@@ -94,7 +98,7 @@ export default function Luke24() {
           <sup className="calibre7">3</sup>And they entered in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(entered the tomb)</span>
+              <span className="explanation">(entered the tomb)</span>
             </span>
           </span>
           , and found not the body of the Lord Jesus{" "}
@@ -281,7 +285,7 @@ export default function Luke24() {
           of James{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(James and John)</span>
+              <span className="explanation">(James and John)</span>
             </span>
           </span>
           , and other{" "}
@@ -399,7 +403,7 @@ export default function Luke24() {
           threescore furlongs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about seven miles)</span>
+              <span className="explanation">(about seven miles)</span>
             </span>
           </span>
           .
@@ -432,7 +436,7 @@ export default function Luke24() {
           and reasoned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they were deep in thought)</span>
+              <span className="explanation">(they were deep in thought)</span>
             </span>
           </span>
           , Jesus himself drew near, and went with them{" "}
@@ -538,7 +542,9 @@ export default function Luke24() {
           Rulers delivered Him to be condemned to death, and have crucified Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(organized religion did this!)</span>
+              <span className="explanation">
+                (organized religion did this!)
+              </span>
             </span>
           </span>
           .
@@ -597,7 +603,7 @@ export default function Luke24() {
           us went to the sepulchre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter and John)</span>
+              <span className="explanation">(Peter and John)</span>
             </span>
           </span>
           , and found{" "}
@@ -718,7 +724,7 @@ export default function Luke24() {
           whither they went{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Emmaus)</span>
+              <span className="explanation">(Emmaus)</span>
             </span>
           </span>
           : and He made as though He would have gone further{" "}
@@ -739,7 +745,9 @@ export default function Luke24() {
           Abide with us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they insisted, and strongly!)</span>
+              <span className="explanation">
+                (they insisted, and strongly!)
+              </span>
             </span>
           </span>
           : for it is toward evening, and the day is far spent. And He went in
@@ -881,7 +889,7 @@ export default function Luke24() {
           in the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an excited presentation)</span>
+              <span className="explanation">(an excited presentation)</span>
             </span>
           </span>
           , and how He was known of them in breaking of bread.

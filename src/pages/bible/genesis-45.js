@@ -20,7 +20,7 @@ export default function Genesis45() {
           himself known unto his brothers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zechariah the Prophet said, and speaking of a coming day: And
                 they shall look upon Me Whom they have pierced, of which this
                 scene of Joseph and his brothers is a type [
@@ -44,7 +44,7 @@ export default function Genesis45() {
           and the house of Pharaoh heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Egyptians, who had just left the room, could not help but
                 overhear his loud sobbing; they reported these happenings to
                 Pharaoh)
@@ -60,7 +60,7 @@ export default function Genesis45() {
           am Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the effect of this announcement can be better imagined than
                 described; hitherto he had been known to his brothers as
                 Zaphnath-paaneah; he evidently now speaks to them in Hebrew)
@@ -71,7 +71,7 @@ export default function Genesis45() {
           they were troubled at his presence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What will Israels reaction be when Christ says to them at the
                 Second Coming, I am Jesus?)
               </span>
@@ -86,7 +86,7 @@ export default function Genesis45() {
           Joseph your brother, whom you sold into Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Text indicates that they dont know what to do. Quite
                 possibly, he wondered if they understood when he first said, I
                 am Joseph. So now he identifies himself in such a way that there
@@ -104,7 +104,7 @@ export default function Genesis45() {
           before you to preserve life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephs heart beat true to God and to his brothers. He kept
                 pressing upon them that it was God Who had taken him out of the
                 pit and placed him upon the Throne. The way he says all of this
@@ -130,7 +130,7 @@ export default function Genesis45() {
           great deliverance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph attempts to lessen their grief and sorrow by showing
                 them that whatever it was they intended, God overruled it, and
                 turned it around for good. Only God can take that which is wrong
@@ -147,7 +147,7 @@ export default function Genesis45() {
           all his house, and a ruler throughout all the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, only God could have done this. Men rule, but God
                 overrules!)
               </span>
@@ -165,7 +165,7 @@ export default function Genesis45() {
           all Egypt: come down unto me, tarry not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now Joseph gives instructions as to his father Jacob; but with
                 that, the brothers now have another problem; theyre going to
                 have to confess to Jacob as to what happened with Joseph those
@@ -182,7 +182,7 @@ export default function Genesis45() {
           Goshen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the richest part of Egypt)</span>
+              <span className="explanation">(the richest part of Egypt)</span>
             </span>
           </span>
           , and you shall be near unto me, you, and your children, and your
@@ -197,7 +197,7 @@ export default function Genesis45() {
           all that you have, come to poverty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is typical of Israel in the coming Great Tribulation, when
                 God will sustain them [
                 <ScrollLink href="/revelation-12" scrollToId="#filepos15009136">
@@ -220,7 +220,7 @@ export default function Genesis45() {
           eyes of my brother Benjamin, that it is my mouth that speaks unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph is telling his brothers to inspect him closely, and they
                 will see, even beyond the shadow of a doubt, that it is truly
                 Joseph who is speaking to them)
@@ -237,7 +237,7 @@ export default function Genesis45() {
           and bring down my father hither{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a type of Israel, when, at a coming glad day, they
                 [Israel] shall declare My Glory [of Christ] among the Gentiles [
                 <ScrollLink href="/isaiah-66" scrollToId="#filepos8115749">
@@ -266,7 +266,7 @@ export default function Genesis45() {
           and wept upon them: and after that his brothers talked with him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This scene is typical of the coming day when Israel will
                 recognize Christ, which will be at the Second Coming [
                 <ScrollLink href="/zechariah-12" scrollToId="#filepos10713278">
@@ -307,7 +307,7 @@ export default function Genesis45() {
           of Egypt, and you shall eat the fat of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephs grace in covering up their sin before they confessed
                 it, in hiding it from Pharaoh, and in hasting to acknowledge
                 them before Pharaoh as his brothers, illustrate the richer Grace
@@ -339,7 +339,7 @@ export default function Genesis45() {
           good of all the land of Egypt is yours.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And so will it be that of Israel in a coming glad day, when
                 they finally accept the Lord Jesus Christ as their Saviour and
                 Messiah.)
@@ -356,7 +356,7 @@ export default function Genesis45() {
           <sup className="calibre7">21</sup>And the Children of Israel did so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit referring here to Jacob as Israel signifies the
                 fact that it is the Will of God for Jacob to come into Egypt)
               </span>
@@ -372,7 +372,7 @@ export default function Genesis45() {
           changes of raiment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spiritually speaking, Israel, in a coming glad day, will have a
                 change of raiment, i.e., the robe of Righteousness)
               </span>
@@ -382,7 +382,7 @@ export default function Genesis45() {
           changes of raiment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Silver speaks of Redemption and what will transpire with
                 Israel. Five speaks of Grace, and speaks of the fact that the
                 Grace of God will award Israel a robe of Righteousness, which,
@@ -408,13 +408,13 @@ export default function Genesis45() {
           asses loaded with corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           and bread and meat for his father by the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the famine will touch them no longer [
                 <ScrollLink href="/jeremiah-30" scrollToId="#filepos8569676">
                   <span className="calibre_19">
@@ -437,7 +437,7 @@ export default function Genesis45() {
           way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont be delayed)</span>
+              <span className="explanation">(dont be delayed)</span>
             </span>
           </span>
         </span>
@@ -449,7 +449,7 @@ export default function Genesis45() {
           came into the land of Canaan unto Jacob their father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the implication is, they will not only give him this most
                 wonderful news, the most wonderful that Jacob will have ever
                 heard, but, as well, they will have to tell him the truth
@@ -465,7 +465,7 @@ export default function Genesis45() {
           <sup className="calibre7">26</sup>And told him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that they told him everything)
               </span>
             </span>
@@ -473,7 +473,7 @@ export default function Genesis45() {
           , saying, Joseph is yet alive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for some 20 years, Jacob has suffered; the suffering is now
                 over; Joseph is yet alive; Christ is alive! What more can we
                 say!)
@@ -484,7 +484,7 @@ export default function Genesis45() {
           fainted, for he believed them not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The scene with Joseph revealing himself to his brothers was, in
                 fact, one of the most, if not the most, poignant in history;
                 then the scene with the brothers before their father Jacob had
@@ -501,7 +501,7 @@ export default function Genesis45() {
           Joseph had sent to carry him, the spirit of Jacob their father revived{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Patriarch knew that his sons personally had no way to
                 obtain such wagons; he now knows that they are telling him the
                 truth)
@@ -517,7 +517,7 @@ export default function Genesis45() {
           Joseph my son is yet alive: I will go and see him before I die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is noteworthy that Jacob is again referred to in this Verse
                 as Israel; it refers to his Faith, as feeble as it was, being
                 rewarded, and rewarded grandly, Joseph is yet alive!)

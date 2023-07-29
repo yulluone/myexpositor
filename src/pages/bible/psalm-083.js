@@ -30,7 +30,7 @@ export default function Psalm083() {
           <sup className="calibre7">2</sup>For, lo, your{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israels)</span>
+              <span className="explanation">(Israels)</span>
             </span>
           </span>{" "}
           enemies make a tumult: and they who hate you have lifted up the head.{" "}

@@ -17,7 +17,7 @@ export default function Daniel06() {
           kingdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number of princes fluctuated according to need. A short
                 time before, it was 127 [
                 <ScrollLink href="/esther-01" scrollToId="#filepos5267738">
@@ -41,7 +41,7 @@ export default function Daniel06() {
           and the king should have no damage.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays the fact that Daniel was the most powerful man in
                 the world after Darius.)
               </span>
@@ -56,7 +56,7 @@ export default function Daniel06() {
           and the king thought to set him over the whole realm.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This also gives the reason for the jealousy exhibited in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9824883">
                   <span className="calibre_19">
@@ -87,7 +87,7 @@ export default function Daniel06() {
           neither was there any error or fault found in him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this time, Daniel was upwards of eighty years of age. He was
                 just as faithful to Truth in his old age as when he was a young
                 man. His enemies no doubt hated him because of his determined
@@ -105,7 +105,7 @@ export default function Daniel06() {
           concerning the Law of his God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even his enemies could not find any occasion of fault in him.
                 What a testimony!)
               </span>
@@ -120,7 +120,7 @@ export default function Daniel06() {
           live for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, These presidents, refers to those other than
                 Daniel, i.e., the ones plotting against him. In fact, the entire
                 conspiracy is the work of Daniels co-presidents.)
@@ -139,7 +139,7 @@ export default function Daniel06() {
           lions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their plot was well conceived.)
               </span>
             </span>
@@ -153,7 +153,7 @@ export default function Daniel06() {
           the Medes and Persians, which alters not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king, no doubt, was perfectly agreeable with this,
                 especially considering that religion was so much a part of
                 national life and was the secret of his success, or so he
@@ -172,7 +172,7 @@ export default function Daniel06() {
           ing and the decree.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king would have signed this, giving little, if any, thought
                 to Daniel whatsoever. He probably reasoned that inasmuch as the
                 Temple in Jerusalem was in ruins and that Daniel did not pray to
@@ -195,7 +195,7 @@ export default function Daniel06() {
           aforetime.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And his windows being opened in his chamber toward Jerusalem,
                 implied that he prayed toward Jerusalem constantly. There was a
                 reason for this, which has nothing to do with the New Covenant.
@@ -212,7 +212,7 @@ export default function Daniel06() {
           Daniel praying and making supplication before his God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, Daniel was the very reason for the plot.)
               </span>
             </span>
@@ -229,7 +229,7 @@ export default function Daniel06() {
           law of the Medes and Persians, which alters not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The law of the Medes and the Persians, once enacted, was
                 supposed to be unalterable.)
               </span>
@@ -245,7 +245,7 @@ export default function Daniel06() {
           but makes his petition three times a day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now they lie about Daniel, claiming that he has no regard for
                 the king.)
               </span>
@@ -264,7 +264,7 @@ export default function Daniel06() {
           deliver him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His efforts were directed to find some way out of the
                 constitutional dilemma into which he had been entrapped. He
                 probably now full well realizes the extent of this trap set for
@@ -282,7 +282,7 @@ export default function Daniel06() {
           may be changed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While it was true that the king could not save Daniel, still,
                 the Lord could and did!)
               </span>
@@ -301,7 +301,7 @@ export default function Daniel06() {
           deliver you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are some who believe that this Darius was Astyages, who,
                 some years before, married Esther, choosing her as his Queen. If
                 that in fact was the case, Darius would have had some knowledge
@@ -319,7 +319,7 @@ export default function Daniel06() {
           changed concerning Daniel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king sealing the stone with his own signet would serve the
                 purpose of God. When Daniel was delivered, none could say a
                 trick had been played and Daniel escaped accordingly!)
@@ -338,7 +338,7 @@ export default function Daniel06() {
           brought before him: and his sleep went from him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the night descends, the king realizes what a foolhardy thing
                 he has allowed himself to be led into.)
               </span>
@@ -352,7 +352,7 @@ export default function Daniel06() {
           the morning, and went in haste unto the den of lions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The actions of the king portray graphically so his regard and
                 love for Daniel.)
               </span>
@@ -368,7 +368,7 @@ export default function Daniel06() {
           serve continually, able to deliver you from the lions?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is some indication that the king took with him these
                 presidents and others who had maneuvered him into signing this
                 decree. Thus, they all stand before the lions den in the early
@@ -384,7 +384,7 @@ export default function Daniel06() {
           king, live for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The trap is now sprung, but it is not on Daniel, but rather on
                 his enemies.)
               </span>
@@ -400,7 +400,7 @@ export default function Daniel06() {
           done no hurt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, My God has sent His Angel, insinuates that Daniel
                 saw the Angel sent to him.)
               </span>
@@ -419,7 +419,7 @@ export default function Daniel06() {
           upon him, because he believed in his God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because he believed in his God, is referred to in{" "}
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14573106">
                   <span className="calibre_19">
@@ -443,7 +443,7 @@ export default function Daniel06() {
           they came at the bottom of the den.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel had no more say regarding the kings command to cast
                 these men and their families into the lions den than he had had
                 over his own situation.)
@@ -462,7 +462,7 @@ export default function Daniel06() {
           multiplied unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Septuagint says: Then Darius wrote to all nations and
                 tongues and countries dwelling in all his land, saying, Let all
                 men who are in my kingdom stand and worship, and serve the God
@@ -484,7 +484,7 @@ export default function Daniel06() {
           end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His statement concerning His Kingdom and His Dominion and their
                 eternal consequence portrays a knowledge which could only be
                 acquired by careful observation.)
@@ -500,7 +500,7 @@ export default function Daniel06() {
           Daniel from the power of the lions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite the unbelief of religious dignitaries and the disavowal
                 of much of the Word of God, God still delivers and rescues; and
                 He will do it for any and all who will dare to believe Him.)
@@ -515,7 +515,7 @@ export default function Daniel06() {
           reign of Darius, and in the reign of Cyrus the Persian.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is every evidence that Cyrus the Persian was the son of
                 Darius and Esther, and was brought up in Jewish training and
                 taught about God and His Word.)

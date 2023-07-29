@@ -163,7 +163,7 @@ export default function Numbers21() {
           <sup className="calibre7">9</sup>And Moses made a serpent of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
           , and put it upon a pole and it came to pass, that if a serpent had
@@ -431,7 +431,7 @@ export default function Numbers21() {
           <sup className="calibre7">30</sup>We{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           have shot at them; Heshbon is perished even unto Dibon, and we have
@@ -504,7 +504,7 @@ export default function Numbers21() {
           all his people, until there was none left him alive: and they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           possessed his land.{" "}

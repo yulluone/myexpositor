@@ -15,7 +15,7 @@ export default function Corinthians109() {
           <sup className="calibre7">1</sup>Am I not an Apostle?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is not so much to defend his Apostleship, as it is to
                 show how he has abnegated his own rights in order to be a proper
                 example to others.)
@@ -25,7 +25,7 @@ export default function Corinthians109() {
           am I not free?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Being free, he has liberty, but he did not use that liberty in
                 every case, even as he will further discuss.)
               </span>
@@ -34,7 +34,7 @@ export default function Corinthians109() {
           have I not seen Jesus Christ our Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Vision on the Road to Damascus [
                 <ScrollLink href="/acts-09" scrollToId="#filepos12916494">
                   <span className="calibre_19">
@@ -66,7 +66,7 @@ export default function Corinthians109() {
           are not you my work in the Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The Fruit was abundant!)</span>
+              <span className="explanation">(The Fruit was abundant!)</span>
             </span>
           </span>
         </span>
@@ -76,7 +76,7 @@ export default function Corinthians109() {
           <sup className="calibre7">2</sup>If I be not an Apostle unto others{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that some in the Early Church did not regard Pauls
                 Apostleship)
               </span>
@@ -85,7 +85,7 @@ export default function Corinthians109() {
           , yet doubtless I am to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Corinthians knew, or at least should have known, he was an
                 Apostle)
               </span>
@@ -94,7 +94,7 @@ export default function Corinthians109() {
           : for the seal of my Apostleship are you in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul using an example which was undeniable)
               </span>
             </span>
@@ -111,7 +111,7 @@ export default function Corinthians109() {
           is this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who question his Ministry)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function Corinthians109() {
           drink?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He could have asked them for financial help. He had every right
                 to do so, but didnt, even though others who had no right did.)
               </span>
@@ -145,7 +145,7 @@ export default function Corinthians109() {
           the Brethren of the Lord, and Cephas?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Churches, it seems, helped other Apostles with expenses,
                 but Paul asked for none.)
               </span>
@@ -158,7 +158,7 @@ export default function Corinthians109() {
           <sup className="calibre7">6</sup>Or I only and Barnabas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul mentioning Barnabas after the quarrel [Acts,
                 Chpt.{" "}
                 <ScrollLink href="/acts-15" scrollToId="#filepos13029634">
@@ -175,7 +175,7 @@ export default function Corinthians109() {
           , have not we power to forbear working?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means to give up the manual labor by which he maintained
                 himself.)
               </span>
@@ -189,7 +189,7 @@ export default function Corinthians109() {
           own charges?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is if a soldier would expect to receive rations and
                 wages from the Government he is serving, a Minister of the
                 Gospel should expect the same.)
@@ -205,7 +205,7 @@ export default function Corinthians109() {
           <sup className="calibre7">8</sup>Say I these things as a man?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents Paul making the case that his statements are not
                 merely his own thoughts, but are rather of God.)
               </span>
@@ -214,7 +214,7 @@ export default function Corinthians109() {
           or saith not the Law the same also?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Law of Moses, and is given in the next
                 Verse.)
               </span>
@@ -230,7 +230,7 @@ export default function Corinthians109() {
           <sup className="calibre7">9</sup>For it is written in the Law of Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/deuteronmy-25" scrollToId="#filepos2356001">
                   <span className="calibre_19">
@@ -246,7 +246,7 @@ export default function Corinthians109() {
           , you shall not muzzle the mouth of the ox that treads out the corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents basically what Jesus said in{" "}
                 <ScrollLink href="/luke-10" scrollToId="#filepos11932503">
                   <span className="calibre_19">
@@ -262,7 +262,7 @@ export default function Corinthians109() {
           . Does God take care for oxen?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Lord cares for a lowly beast, and He certainly does,
                 would He not do much more for those who are taking His Gospel to
                 the world?!)
@@ -301,7 +301,7 @@ export default function Corinthians109() {
           a great thing if we shall reap your carnal things?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun we proclaims the fact that the argument applies not
                 only to Pauls own case, but as well to all Preachers of the
                 Gospel.)
@@ -327,7 +327,7 @@ export default function Corinthians109() {
           not we rather?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems these other Teachers, whomever they may have been,
                 were well paid, while Paul received nothing.)
               </span>
@@ -336,13 +336,13 @@ export default function Corinthians109() {
           Nevertheless we have not used this power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this privilege)</span>
+              <span className="explanation">(this privilege)</span>
             </span>
           </span>
           ; but suffer all things, lest we should hinder the Gospel of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that which should ever be foremost in the heart and mind of
                 every Preacher of the Gospel)
               </span>
@@ -366,7 +366,7 @@ export default function Corinthians109() {
           of the Temple?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the Old Economy of God, which Paul is using as
                 an example.)
               </span>
@@ -375,7 +375,7 @@ export default function Corinthians109() {
           and they which wait at the Altar are partakers with the Altar?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertained to certain portions of the Sacrifices given to
                 the Priests [
                 <ScrollLink href="/numbers-18" scrollToId="#filepos1912522">
@@ -405,7 +405,7 @@ export default function Corinthians109() {
           they which Preach the Gospel should live of the Gospel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea, as is obvious, is that those who Minister in
                 spiritual things should be supported financially by those to
                 whom they Minister.)
@@ -419,7 +419,7 @@ export default function Corinthians109() {
           <sup className="calibre7">15</sup>But I have used none of these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he had the right to be supported financially, but he never
                 exercised that right, except in a limited way)
               </span>
@@ -429,7 +429,7 @@ export default function Corinthians109() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well, hes not making these statements in order to spur the
                 people to send him offerings)
               </span>
@@ -444,7 +444,7 @@ export default function Corinthians109() {
           better for me to die, than that any man should make my glorying void.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, this says he would rather die than stoop to such a
                 level as that. To do such a thing would be manipulation, which
                 the Lord can never bless.)
@@ -459,7 +459,7 @@ export default function Corinthians109() {
           have nothing to glory of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (within himself; even though he is an Apostle, boasting of these
                 gifts is out)
               </span>
@@ -468,7 +468,7 @@ export default function Corinthians109() {
           : for necessity is laid upon me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Preaching of the Gospel is not merely a choice on his part,
                 but rather a Command from the Lord)
               </span>
@@ -477,7 +477,7 @@ export default function Corinthians109() {
           ; yes, woe is unto me, if I Preach not the Gospel!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims an overwhelming moral compulsion.)
               </span>
             </span>
@@ -490,7 +490,7 @@ export default function Corinthians109() {
           have a reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reward comes from the Lord)
               </span>
             </span>
@@ -504,7 +504,7 @@ export default function Corinthians109() {
           is committed unto me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word dispensation means administration or stewardship. It
                 actually refers back to the Parable of the Talents [
                 <ScrollLink href="/matthew-25" scrollToId="#filepos11245752">
@@ -527,7 +527,7 @@ export default function Corinthians109() {
           <sup className="calibre7">18</sup>What is my reward then?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is different than the reward of{" "}
                 <ScrollLink href="/" scrollToId="#filepos13642413">
                   <span className="calibre_19">
@@ -547,7 +547,7 @@ export default function Corinthians109() {
           without charge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a price must never be put on the Gospel)
               </span>
             </span>
@@ -555,7 +555,7 @@ export default function Corinthians109() {
           , that I abuse not my power in the Gospel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Preacher must make double certain that he does not exploit
                 the people, but rather that he edify the people.)
               </span>
@@ -574,7 +574,7 @@ export default function Corinthians109() {
               <span className="calibre_19">men</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is Lord and Master, not man),
               </span>
             </span>
@@ -582,7 +582,7 @@ export default function Corinthians109() {
           yet have I made myself servant unto all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a voluntary submission, which is the Way of the Spirit)
               </span>
             </span>
@@ -590,7 +590,7 @@ export default function Corinthians109() {
           , that I might gain the more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is Gods Way. Men rule, but the Lord serves! We must
                 emulate our Lord.)
               </span>
@@ -604,7 +604,7 @@ export default function Corinthians109() {
           that I might gain the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul describes here the innocent concessions which arise from
                 the harmless and generous condescension of a loving spirit)
               </span>
@@ -614,7 +614,7 @@ export default function Corinthians109() {
           them who are under the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (him having Timothy to be Circumcised is a perfect example [
                 <ScrollLink href="/acts-16" scrollToId="#filepos13052148">
                   <span className="calibre_19">
@@ -635,14 +635,14 @@ export default function Corinthians109() {
           <sup className="calibre7">21</sup>To them who are without Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>
           , as without Law, (being not without Law to God, but under the Law to
           Christ,){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (being under the Law to Christ satisfies every Law of God; it is
                 simple Faith in Christ and what He has done for us at the Cross)
               </span>
@@ -651,7 +651,7 @@ export default function Corinthians109() {
           that I might gain them who are without Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(gain the Gentiles)</span>
+              <span className="explanation">(gain the Gentiles)</span>
             </span>
           </span>
           .
@@ -663,7 +663,7 @@ export default function Corinthians109() {
           might gain the weak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Paul not availing himself of some of his Christian
                 Liberties simply because of the possibility of causing weak
                 Christians to stumble)
@@ -679,7 +679,7 @@ export default function Corinthians109() {
           that I might by all means save some.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, he is speaking of innocent concessions, never of
                 compromising the Gospel.)
               </span>
@@ -692,7 +692,7 @@ export default function Corinthians109() {
           <sup className="calibre7">23</sup>And this I do for the Gospels sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Gospel of Christ being the only means of Salvation, it must
                 take first place in all things)
               </span>
@@ -704,7 +704,7 @@ export default function Corinthians109() {
               <span className="calibre_19">you.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the love every Preacher ought to show.)
               </span>
             </span>
@@ -720,7 +720,7 @@ export default function Corinthians109() {
           race run all, but one receives the prize? So run, that you may obtain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In athletic events, only one receives the prize. However, all
                 who run for Christ, spiritually speaking, win the Crown. There
                 are no losers!)
@@ -735,7 +735,7 @@ export default function Corinthians109() {
           mastery is temperate in all things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle is saying we should let the athlete striving and
                 training to win a temporary crown be a lesson to us Christians
                 regarding diligence.)
@@ -751,7 +751,7 @@ export default function Corinthians109() {
           to obtain a corruptible crown; but we an incorruptible.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If they will do such for the corruptible, how much more should
                 we do the same for the incorruptible?)
               </span>
@@ -765,7 +765,7 @@ export default function Corinthians109() {
           uncertainly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all Believers who run and continue to run, spiritually
                 speaking, are certain of winning)
               </span>
@@ -774,7 +774,7 @@ export default function Corinthians109() {
           ; so fight I, not as one who beats the air{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle now switches from the metaphor of running a race to
                 boxing; he is not fighting uselessly, but rather the good fight
                 of Faith, which speaks of Faith anchored exclusively in the
@@ -797,7 +797,7 @@ export default function Corinthians109() {
           into subjection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which he does by understanding that all victory is in the
                 Cross)
               </span>
@@ -807,7 +807,7 @@ export default function Corinthians109() {
           should be a castaway.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that even if a man is a Preacher of the Gospel, if
                 he doesnt look to Christ and the Cross, and ever make the Cross
                 the emphasis, he will conclude as a castaway, i.e., disapproved.

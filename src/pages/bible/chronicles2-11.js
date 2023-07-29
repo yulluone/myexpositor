@@ -17,7 +17,7 @@ export default function Chronicles211() {
           and fourscore thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(180,000)</span>
+              <span className="explanation">(180,000)</span>
             </span>
           </span>{" "}
           chosen men, which were warriors, to fight against Israel, that he
@@ -127,7 +127,7 @@ export default function Chronicles211() {
           were in all Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the northern kingdom)</span>
+              <span className="explanation">(the northern kingdom)</span>
             </span>
           </span>{" "}
           resorted to him out of all their coasts{" "}

@@ -58,7 +58,7 @@ export default function Samuel101() {
           <sup className="calibre7">3</sup>And this man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elkanah)</span>
+              <span className="explanation">(Elkanah)</span>
             </span>
           </span>{" "}
           went up out of his city yearly to worship and to sacrifice unto the
@@ -73,7 +73,7 @@ export default function Samuel101() {
           And the two sons of Eli{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the High Priest)</span>
+              <span className="explanation">(the High Priest)</span>
             </span>
           </span>
           , Hophni and Phinehas, the Priests of the LORD, were there.{" "}
@@ -99,7 +99,7 @@ export default function Samuel101() {
           offered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(offered Sacrifices)</span>
+              <span className="explanation">(offered Sacrifices)</span>
             </span>
           </span>
           , he gave to Peninnah his wife, and to all her sons and her daughters,
@@ -136,7 +136,7 @@ export default function Samuel101() {
           shut up her womb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made fun of her!)</span>
+              <span className="explanation">(made fun of her!)</span>
             </span>
           </span>
         </span>
@@ -147,25 +147,25 @@ export default function Samuel101() {
           <sup className="calibre7">7</sup>And as he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elkanah)</span>
+              <span className="explanation">(Elkanah)</span>
             </span>
           </span>{" "}
           did so year by year, when she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hannah)</span>
+              <span className="explanation">(Hannah)</span>
             </span>
           </span>{" "}
           went up to the House of the LORD, so she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peninnah)</span>
+              <span className="explanation">(Peninnah)</span>
             </span>
           </span>{" "}
           provoked her; therefore she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hannah)</span>
+              <span className="explanation">(Hannah)</span>
             </span>
           </span>{" "}
           wept, and did not eat.{" "}
@@ -199,13 +199,13 @@ export default function Samuel101() {
           eaten in Shiloh, and after they had drunk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Peace Offering)</span>
+              <span className="explanation">(the Peace Offering)</span>
             </span>
           </span>
           . Now Eli the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(High Priest)</span>
+              <span className="explanation">(High Priest)</span>
             </span>
           </span>{" "}
           sat upon a seat by a post of the Temple of the LORD{" "}
@@ -224,7 +224,7 @@ export default function Samuel101() {
           <sup className="calibre7">10</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hannah)</span>
+              <span className="explanation">(Hannah)</span>
             </span>
           </span>{" "}
           was in bitterness of soul, and prayed unto the LORD, and wept sore{" "}
@@ -262,7 +262,7 @@ export default function Samuel101() {
           Your handmaid a man child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she wanted a little boy)</span>
+              <span className="explanation">(she wanted a little boy)</span>
             </span>
           </span>
           , then I will give him unto the LORD all the days of his life, and
@@ -298,7 +298,7 @@ export default function Samuel101() {
           only her lips moved, but her voice was not heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she was praying silently)</span>
+              <span className="explanation">(she was praying silently)</span>
             </span>
           </span>
           : therefore Eli thought she had been drunk.{" "}
@@ -321,7 +321,7 @@ export default function Samuel101() {
           you be drunk? put away your wine from you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this must have stung Hannah)</span>
+              <span className="explanation">(this must have stung Hannah)</span>
             </span>
           </span>
         </span>
@@ -350,7 +350,7 @@ export default function Samuel101() {
           daughter of Belial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthless)</span>
+              <span className="explanation">(worthless)</span>
             </span>
           </span>
           : for out of the abundance of my complaint and grief have I spoken
@@ -404,7 +404,7 @@ export default function Samuel101() {
           ; and the LORD remembered her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she became pregnant)</span>
+              <span className="explanation">(she became pregnant)</span>
             </span>
           </span>
         </span>
@@ -502,7 +502,7 @@ export default function Samuel101() {
           the LORD establish His Word. So the woman abode{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stayed home)</span>
+              <span className="explanation">(stayed home)</span>
             </span>
           </span>
           , and gave her son suck until she weaned him.
@@ -517,25 +517,25 @@ export default function Samuel101() {
           took him up with her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Tabernacle)</span>
+              <span className="explanation">(to the Tabernacle)</span>
             </span>
           </span>
           , with three bullocks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for Sacrifice)</span>
+              <span className="explanation">(for Sacrifice)</span>
             </span>
           </span>
           , and one ephah of flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Thank Offering)</span>
+              <span className="explanation">(a Thank Offering)</span>
             </span>
           </span>
           , and a bottle of wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Drink Offering)</span>
+              <span className="explanation">(a Drink Offering)</span>
             </span>
           </span>
           , and brought him unto the House of the LORD in Shiloh{" "}
@@ -591,13 +591,13 @@ export default function Samuel101() {
           ; as long as he lives he shall be lent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(given)</span>
+              <span className="explanation">(given)</span>
             </span>
           </span>{" "}
           to the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and he was)</span>
+              <span className="explanation">(and he was)</span>
             </span>
           </span>
           . And he{" "}

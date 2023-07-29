@@ -29,7 +29,7 @@ export default function John08() {
           again into the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of daybreak)</span>
+              <span className="explanation">(speaks of daybreak)</span>
             </span>
           </span>
           , and all the people came unto Him; and He sat down, and taught them{" "}
@@ -127,7 +127,7 @@ export default function John08() {
           they might have to accuse Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was a trap!)</span>
+              <span className="explanation">(it was a trap!)</span>
             </span>
           </span>
           . But Jesus stooped down, and with{" "}
@@ -373,7 +373,7 @@ export default function John08() {
           : for I know from where I came, and where I go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proclaims His Deity)</span>
+              <span className="explanation">(proclaims His Deity)</span>
             </span>
           </span>
           ; but you cannot tell from where I come, and where I go{" "}
@@ -632,7 +632,7 @@ export default function John08() {
           ; I am from above{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of Heaven)</span>
+              <span className="explanation">(speaks of Heaven)</span>
             </span>
           </span>
           : you are of this world; I am not of this world{" "}
@@ -732,7 +732,9 @@ export default function John08() {
           : but He Who sent Me is True{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as God is True, so is Christ)</span>
+              <span className="explanation">
+                (as God is True, so is Christ)
+              </span>
             </span>
           </span>
           ; and I speak to the world those things which I have heard of Him{" "}
@@ -768,7 +770,7 @@ export default function John08() {
           have lifted up the Son of Man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Cross)</span>
+              <span className="explanation">(speaks of the Cross)</span>
             </span>
           </span>
           , then shall you know that I am{" "}
@@ -1096,7 +1098,7 @@ export default function John08() {
           . Jesus said unto them, If you were Abrahams children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(spiritual children)</span>
+              <span className="explanation">(spiritual children)</span>
             </span>
           </span>
           , you would do the works of Abraham{" "}
@@ -1208,7 +1210,9 @@ export default function John08() {
           your Father, you would love Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Alone is the yardstick)</span>
+              <span className="explanation">
+                (Jesus Alone is the yardstick)
+              </span>
             </span>
           </span>
           : for I proceeded forth and came from God{" "}
@@ -1574,7 +1578,9 @@ export default function John08() {
           ; but I know Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as no one has ever known Him)</span>
+              <span className="explanation">
+                (as no one has ever known Him)
+              </span>
             </span>
           </span>
           : and if I should say, I know Him not, I shall be a liar like unto you{" "}

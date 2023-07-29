@@ -55,7 +55,7 @@ export default function Samuel207() {
           within curtains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was in a tent)</span>
+              <span className="explanation">(it was in a tent)</span>
             </span>
           </span>
         </span>
@@ -119,7 +119,7 @@ export default function Samuel207() {
           Tribes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judges)</span>
+              <span className="explanation">(Judges)</span>
             </span>
           </span>{" "}
           of Israel, whom I commanded to feed My people Israel, saying, Why

@@ -18,7 +18,7 @@ export default function Isaiah62() {
           thereof as a lamp that burns.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Speaker in this Chapter is the Messiah; in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8044455">
                   <span className="calibre_19">
@@ -67,7 +67,7 @@ export default function Isaiah62() {
           new name, which the mouth of the LORD shall name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the world, i.e., the Gentiles, shall easily see
                 your Righteousness. Instead of the kings rebelling against it,
                 they will rather accept it, and, thereby, rejoice in it! What
@@ -97,7 +97,7 @@ export default function Isaiah62() {
           the Hand of the LORD, and a royal diadem in the Hand of Your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Divine Priest can transform defiled and degraded sinners
                 into royal diadems and crowns of glory. In that day, the Lord
                 will exhibit Israel to an admiring world, as a man might exhibit
@@ -115,7 +115,7 @@ export default function Isaiah62() {
           and your land shall be married.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall no more be termed Forsaken, refers to the fact that
                 Judah had believed herself forsaken of God, and had actually
                 been, in a certain sense, forsaken for a small moment [
@@ -190,7 +190,7 @@ export default function Isaiah62() {
           bride, so shall your God rejoice over you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By changing the vowel points [which are not inspired] in the
                 Hebrew Text of the phrase, your sons, it would read your
                 builders, i.e., the plural of majesty for your Restorer. Thus,
@@ -209,7 +209,7 @@ export default function Isaiah62() {
           make mention of the LORD, keep not silence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the watchmen addressed here can refer to either Prophets or
                 Priests, or even Angelic Beings. They were to keep perpetual
                 watch, and not hold their peace, but continually cry out until
@@ -238,7 +238,7 @@ export default function Isaiah62() {
           establish, and till He make Jerusalem a praise in the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faithful watchmen upon the walls of an eastern city keep
                 calling out day and night all matters of interest or of danger.
                 The figure expresses the watchful love and care of Immanuel, and
@@ -269,7 +269,7 @@ export default function Isaiah62() {
           drink your wine, for the which you have laboured{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The LORD has sworn, is strong indeed! God solemnly binds
                 Himself by an oath to come to the relief of His People, to
                 restore them to their own land, and to give them the enjoyment
@@ -303,7 +303,7 @@ export default function Isaiah62() {
           shall drink it in the courts of My holiness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that the enemy will not eat it, but that the Child
                 of God will enjoy the increase of his labor. He will do it,
                 praising the LORD. This implies fellowship and communion
@@ -320,7 +320,7 @@ export default function Isaiah62() {
           gather out the stones; lift up a Standard for the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage, looking forward to the future, concerns itself
                 with the Second Coming of the Lord. The statement, Go through,
                 go through the gates, refers to Israel coming back to the Holy
@@ -356,7 +356,7 @@ export default function Isaiah62() {
           Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zions Salvation is Jehovah. He will return to her bringing both
                 rewards and recompenses with Him rewards for those who love Him,
                 and recompenses for those who hate Him [II Thess., Chpt.{" "}
@@ -383,7 +383,7 @@ export default function Isaiah62() {
           A city not forsaken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this speaks of the coming Kingdom Age, when Christ will
                 reign supreme, with Israel having accepted Him, not only as
                 their Saviour, but as their Messiah. As a result, all over the

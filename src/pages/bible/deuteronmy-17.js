@@ -17,7 +17,7 @@ export default function Deuteronmy17() {
           evilfavouredness: for that is an abomination unto the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sacrifices were meant to be Types of Christ; as such, they
                 had to be perfect; otherwise, they were an insult to God, as
                 would be obvious)
@@ -60,7 +60,7 @@ export default function Deuteronmy17() {
           till they die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the land must be kept free from all idolatry; regrettably,
                 Israel ultimately succumbed to this travesty)
               </span>
@@ -76,7 +76,7 @@ export default function Deuteronmy17() {
           at the mouth of one witness he shall not be put to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one eyewitness was not enough evidence, at least regarding the
                 Law of Moses, to condemn a person to death; there must be two or
                 three witnesses; an extremely high value was placed by the Lord
@@ -93,7 +93,7 @@ export default function Deuteronmy17() {
           first upon him to put him to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two or three witnesses were to throw the first stones)
               </span>
             </span>
@@ -121,7 +121,7 @@ export default function Deuteronmy17() {
           enquire; and they shall show you the sentence of judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a declaration of what was legally right)
               </span>
             </span>
@@ -137,7 +137,7 @@ export default function Deuteronmy17() {
           inform you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (matters of controversy were not to be decided independently of
                 God, but, on the contrary, in direct connection with Him)
               </span>
@@ -154,7 +154,7 @@ export default function Deuteronmy17() {
           which they shall show you, to the right hand, nor to the left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the law is to be observed)</span>
+              <span className="explanation">(the law is to be observed)</span>
             </span>
           </span>
         </span>
@@ -171,7 +171,7 @@ export default function Deuteronmy17() {
           man shall die: and you shall put away the evil from Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no one must take the law into their own hands)
               </span>
             </span>
@@ -202,7 +202,7 @@ export default function Deuteronmy17() {
           over you, whom the LORD your God shall choose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord must choose the king, not the people)
               </span>
             </span>
@@ -211,7 +211,7 @@ export default function Deuteronmy17() {
           not set a stranger over you, which is not your brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no one but a Jew could be king over Israel)
               </span>
             </span>
@@ -225,7 +225,7 @@ export default function Deuteronmy17() {
           himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, the strength of the army of Israel was to be
                 the Lord and not horses and chariots)
               </span>
@@ -235,7 +235,7 @@ export default function Deuteronmy17() {
           multiply horses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont look to Egypt, but look to the Lord)
               </span>
             </span>
@@ -244,7 +244,7 @@ export default function Deuteronmy17() {
           no more that way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was at least one of the great sins of Israel, which
                 occasioned their defeat at the hands of the Babylonians; they
                 trusted in Egypt instead of the Lord [
@@ -268,7 +268,7 @@ export default function Deuteronmy17() {
           himself, that his heart turn not away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, Solomon did not heed these words)
               </span>
             </span>
@@ -276,7 +276,7 @@ export default function Deuteronmy17() {
           : neither shall he greatly multiply to himself silver and gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (men who have great sums of money, or even nations, tend to
                 trust in the money instead of God)
               </span>
@@ -292,7 +292,7 @@ export default function Deuteronmy17() {
           in a book out of that which is before the Priests the Levites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should Israel desire a king, he was to obey the instructions of{" "}
                 <ScrollLink href="/" scrollToId="#filepos2287025">
                   <span className="calibre_19">
@@ -318,7 +318,7 @@ export default function Deuteronmy17() {
           Statutes, to do them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the modern Christian should heed these words, as well, making
                 the Bible a part of his everyday life and study)
               </span>

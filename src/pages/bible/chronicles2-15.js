@@ -334,7 +334,7 @@ export default function Chronicles215() {
           mother of Asa the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his grandmother)</span>
+              <span className="explanation">(his grandmother)</span>
             </span>
           </span>
           , he removed her from being queen, because she had made an idol in a

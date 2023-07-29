@@ -17,7 +17,7 @@ export default function Isaiah12() {
           turned away, and You comfort me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is saying that even though the Lord had been angry with
                 her because of her Crucifixion of Christ, nevertheless, Your
                 anger is turned away.)
@@ -33,7 +33,7 @@ export default function Isaiah12() {
           song; He also is become my Salvation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A part of this is from the Song of Moses [
                 <ScrollLink href="/exodus-15" scrollToId="#filepos892764">
                   <span className="calibre_19">
@@ -59,7 +59,7 @@ export default function Isaiah12() {
           water out of the wells of Salvation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wells of salvation speak of a constant, flowing,
                 never-ending source not a cistern for unfailing assurance,
                 consolation, hope, and victory.)
@@ -75,7 +75,7 @@ export default function Isaiah12() {
           make mention that His Name is exalted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Four things are listed here that Israel will then do, and which
                 Believers should do now: 1. Praise the Lord constantly; 2. Call
                 upon His Name constantly; 3. Declare His doings among the people
@@ -92,7 +92,7 @@ export default function Isaiah12() {
           excellent things: this is known in all the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the coming Kingdom Age, Christ will be the theme in all the
                 Earth.)
               </span>
@@ -106,7 +106,7 @@ export default function Isaiah12() {
           Zion: for great is the Holy One of Israel in the midst of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to a constant Campmeeting, when Christ finally
                 reigns upon this Earth.)
               </span>

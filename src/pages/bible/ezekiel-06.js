@@ -22,7 +22,7 @@ export default function Ezekiel06() {
           mountains of Israel, and prophesy against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while the prior Message attacked idolatry in the city of
                 Jerusalem, this Message attacks it in the Land of Judah. The
                 mountains of Israel are especially pointed out because of idol
@@ -45,7 +45,7 @@ export default function Ezekiel06() {
           your high places.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Just as the Prophet [
                 <ScrollLink href="/kings1-13" scrollToId="#filepos3881549">
                   <span className="calibre_19">
@@ -69,7 +69,7 @@ export default function Ezekiel06() {
           before your idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And your altars shall be desolate, refers to the
                 fact that these altars were theirs and not Gods. The Lord had
                 only one Altar, which represented Calvary and the Sacrifice of
@@ -87,7 +87,7 @@ export default function Ezekiel06() {
           bones round about your altars.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that God will not tolerate any other
                 altar than His Sacred Altar of Calvary. As it was true then, it
                 is most definitely true now!)
@@ -105,7 +105,7 @@ export default function Ezekiel06() {
           be abolished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse illustrates the expression, abomination of
                 desolation, which is the desolation brought on by the moral and
                 material result of idolatry. This fundamental moral principle,
@@ -136,7 +136,7 @@ export default function Ezekiel06() {
           of you, and you shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God can be known in Grace or in Wrath, in Salvation or in
                 Judgment. Israel proved Him by experience to be a Saviour when
                 He redeemed them out of Egypt [
@@ -165,7 +165,7 @@ export default function Ezekiel06() {
           shall be scattered through the countries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When you shall be scattered through the countries, occurred in
                 Ezekiels day, but occurred in earnest in A.D. 70, when Titus
                 destroyed Jerusalem, with over one million Jews dying in that
@@ -185,7 +185,7 @@ export default function Ezekiel06() {
           in all their abominations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Because I am broken with their whorish heart, could
                 be translated to mean that Gods heart was broken because of
                 Israels determined idolatry. And they shall loathe themselves
@@ -211,7 +211,7 @@ export default function Ezekiel06() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Someone has said that the greatest thing one can do regarding
                 the Lord is to simply believe His Word. Regrettably, most did
                 not then, and most do not now!)
@@ -239,7 +239,7 @@ export default function Ezekiel06() {
           accomplish My fury upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is amazing when one considers the continued Prophecies of
                 Jeremiah and Ezekiel proclaiming coming doom, and yet unheeded!)
               </span>
@@ -256,7 +256,7 @@ export default function Ezekiel06() {
           they did offer sweet savour to all their idols.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Then shall you know that I am the LORD, implies
                 that Judah little believed the predictions of the Prophet.)
               </span>
@@ -272,7 +272,7 @@ export default function Ezekiel06() {
           know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through the Prophet would not continue making
                 the statement, And they shall know that I am the LORD, if the
                 unbelief of Judah, Jerusalem, and the exiles had not been so

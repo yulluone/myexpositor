@@ -173,7 +173,7 @@ export default function Kings204() {
           <sup className="calibre7">10</sup>Let us make a little chamber{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(room)</span>
+              <span className="explanation">(room)</span>
             </span>
           </span>
           , I pray you, on the wall; and let us set for him there a bed, and a
@@ -269,7 +269,7 @@ export default function Kings204() {
           time of life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a miracle!)</span>
+              <span className="explanation">(a miracle!)</span>
             </span>
           </span>
           .
@@ -503,7 +503,9 @@ export default function Kings204() {
           door upon them twain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that he may not be disturbed)</span>
+              <span className="explanation">
+                (that he may not be disturbed)
+              </span>
             </span>
           </span>
           , and prayed unto the LORD.
@@ -645,7 +647,7 @@ export default function Kings204() {
           <sup className="calibre7">41</sup>But he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said, Then bring meal. And he cast it into the pot; and he said, Pour
@@ -674,7 +676,7 @@ export default function Kings204() {
           And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said, Give unto the people, that they may eat.

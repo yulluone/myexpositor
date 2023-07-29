@@ -278,7 +278,7 @@ export default function Leviticus17() {
           your souls: for it is the blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Blood of Christ)</span>
+              <span className="explanation">(the Blood of Christ)</span>
             </span>
           </span>{" "}
           that makes an Atonement for the soul.{" "}
@@ -367,7 +367,7 @@ export default function Leviticus17() {
           Children of Israel, or of the strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           who sojourn among you, which hunts and catches any beast or fowl that
@@ -405,7 +405,7 @@ export default function Leviticus17() {
           of your own country, or a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , he shall both wash his clothes, and bathe himself in water, and be

@@ -117,13 +117,13 @@ export default function Kings106() {
           , and the breadth thereof twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet wide)</span>
+              <span className="explanation">(30 feet wide)</span>
             </span>
           </span>
           , and the height thereof thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet high)</span>
+              <span className="explanation">(45 feet high)</span>
             </span>
           </span>
         </span>
@@ -135,14 +135,14 @@ export default function Kings106() {
           the House, twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet)</span>
+              <span className="explanation">(30 feet)</span>
             </span>
           </span>{" "}
           was the length thereof, according to the breadth of the House; and ten
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>{" "}
           was the breadth thereof before the House{" "}
@@ -170,7 +170,7 @@ export default function Kings106() {
           about, both of the Temple and of the Oracle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy of Holies)</span>
+              <span className="explanation">(Holy of Holies)</span>
             </span>
           </span>
           : and he made chambers round about{" "}
@@ -191,19 +191,19 @@ export default function Kings106() {
           cubits broad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>
           , and the middle was six cubits broad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 feet)</span>
+              <span className="explanation">(9 feet)</span>
             </span>
           </span>
           , and the third was seven cubits broad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(10 feet)</span>
+              <span className="explanation">(10 feet)</span>
             </span>
           </span>
           : for without in the wall of the House he made narrowed rests round
@@ -254,7 +254,7 @@ export default function Kings106() {
           into the middle chamber, and out of the middle into the third{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the third story)</span>
+              <span className="explanation">(the third story)</span>
             </span>
           </span>
         </span>
@@ -272,7 +272,7 @@ export default function Kings106() {
           all the House, five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>{" "}
           high: and they rested on the House with timber of cedar.
@@ -381,7 +381,7 @@ export default function Kings106() {
           <sup className="calibre7">16</sup>And he built twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet)</span>
+              <span className="explanation">(30 feet)</span>
             </span>
           </span>{" "}
           on the sides of the House, both the floor and the walls with boards of
@@ -405,7 +405,7 @@ export default function Kings106() {
           before it, was forty cubits long{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(60 feet)</span>
+              <span className="explanation">(60 feet)</span>
             </span>
           </span>
         </span>
@@ -439,7 +439,7 @@ export default function Kings106() {
           twenty cubits in length{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(30 feet)</span>
+              <span className="explanation">(30 feet)</span>
             </span>
           </span>
           , and twenty cubits in breadth, and twenty cubits in the height
@@ -498,7 +498,7 @@ export default function Kings106() {
           Cherubims of olive tree, each ten cubits high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet high)</span>
+              <span className="explanation">(15 feet high)</span>
             </span>
           </span>
         </span>
@@ -509,7 +509,7 @@ export default function Kings106() {
           <sup className="calibre7">24</sup>And five cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(7 feet)</span>
+              <span className="explanation">(7 feet)</span>
             </span>
           </span>{" "}
           was the one wing of the Cherub, and five cubits the other wing of the
@@ -517,7 +517,7 @@ export default function Kings106() {
           part of the other were ten cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>
         </span>
@@ -528,7 +528,7 @@ export default function Kings106() {
           <sup className="calibre7">25</sup>And the other Cherub was ten cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>
           : both the Cherubims were of one measure and one size{" "}
@@ -548,7 +548,7 @@ export default function Kings106() {
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>
           , and so was it of the other Cherub.
@@ -560,7 +560,7 @@ export default function Kings106() {
           Inner House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy of Holies)</span>
+              <span className="explanation">(the Holy of Holies)</span>
             </span>
           </span>
           : and they stretched forth the wings of the Cherubims, so that the
@@ -713,7 +713,7 @@ export default function Kings106() {
           foundation of the House of the LORD laid, in the month Zif{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our May)</span>
+              <span className="explanation">(our May)</span>
             </span>
           </span>
           :

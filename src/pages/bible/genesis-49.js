@@ -19,7 +19,7 @@ export default function Genesis49() {
           befall you in the last days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter forms one of the great dispensational prophecies
                 of the Word of God. It concerns the latter days, and the last
                 days. This is the first occurrence of this expression: the last
@@ -54,7 +54,7 @@ export default function Genesis49() {
           you sons of Jacob; and hearken unto Israel your father.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos648755">
                   <span className="calibre_19">
@@ -88,7 +88,7 @@ export default function Genesis49() {
           and the excellency of power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is what Reuben should have been)
               </span>
             </span>
@@ -102,7 +102,7 @@ export default function Genesis49() {
           excel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no Prophet, Ruler, or great man sprang out of Reuben)
               </span>
             </span>
@@ -111,7 +111,7 @@ export default function Genesis49() {
           went up to my couch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(35:22)</span>
+              <span className="explanation">(35:22)</span>
             </span>
           </span>
         </span>
@@ -122,13 +122,13 @@ export default function Genesis49() {
           <sup className="calibre7">5</sup>Simeon and Levi are brothers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(guilty of the same sin)</span>
+              <span className="explanation">(guilty of the same sin)</span>
             </span>
           </span>
           ; instruments of cruelty are in their habitations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-34" scrollToId="#filepos470148">
                   <span className="calibre_19">
@@ -150,7 +150,7 @@ export default function Genesis49() {
           secret{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (secret plottings to murder the Shechemites)
               </span>
             </span>
@@ -158,7 +158,7 @@ export default function Genesis49() {
           ; unto their assembly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (preparation for the slaughter)
               </span>
             </span>
@@ -166,7 +166,7 @@ export default function Genesis49() {
           , my honor, with them do not be united{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob had no part in the slaughter of the Shechemites)
               </span>
             </span>
@@ -175,7 +175,7 @@ export default function Genesis49() {
           down a wall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in their taking matters into their own hands, instead of
                 following the Lord, they greatly hindered the protective wall of
                 the Lord around Jacob)
@@ -192,7 +192,7 @@ export default function Genesis49() {
           Jacob, and scatter them in Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Tribe of Simeon, when coming into the Land of Israel
                 several centuries into the future, would have no inheritance,
                 but, in fact, would have their part in the inheritance of Judah.
@@ -211,7 +211,7 @@ export default function Genesis49() {
           shall praise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Judah means praise, and it is from this Tribe that the
                 Messiah would come)
               </span>
@@ -220,7 +220,7 @@ export default function Genesis49() {
           : Your hand shall be in the neck of Your enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the great victory that Christ would win over Satan
                 and all the powers of darkness at the Cross [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
@@ -237,7 +237,7 @@ export default function Genesis49() {
           ; your fathers children shall bow down before You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel will do this at the Second Coming)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Genesis49() {
           <sup className="calibre7">9</sup>Judah is a lions whelp{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a young lion, in the power of its youth, absolutely
                 invincible; this represented Christ in the flower of His
                 manhood, full of the Holy Spirit, healing the sick, casting out
@@ -262,7 +262,7 @@ export default function Genesis49() {
           : from the prey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the lion is always seeking the prey, never the prey seeking the
                 lion)
               </span>
@@ -271,13 +271,13 @@ export default function Genesis49() {
           , My Son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus is the Son of God)</span>
+              <span className="explanation">(Jesus is the Son of God)</span>
             </span>
           </span>
           , You are gone up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that Christ is always on the offensive)
               </span>
             </span>
@@ -285,7 +285,7 @@ export default function Genesis49() {
           : He stooped down, He couched as a lion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a rampant lion, standing on his hind feet, ready to pounce,
                 which, in fact, was the emblem of the Tribe of Judah)
               </span>
@@ -294,7 +294,7 @@ export default function Genesis49() {
           , and as an old lion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referring to one ripening into its full strength and ferocity)
               </span>
             </span>
@@ -302,7 +302,7 @@ export default function Genesis49() {
           ; who shall rouse Him up?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who would be so foolish as to contest the absolute
                 invincibility of Christ?)
               </span>
@@ -316,7 +316,7 @@ export default function Genesis49() {
           Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sceptre is defined as a staff of office and authority,
                 which pertains to Christ)
               </span>
@@ -325,7 +325,7 @@ export default function Genesis49() {
           , nor a Lawgiver from between His Feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Judah was meant to be a guardian of the
                 Law, which they were; the Temple was in Jerusalem, which was a
                 part of the Tribe of Judah, and which had to do with the Law)
@@ -335,7 +335,7 @@ export default function Genesis49() {
           , until Shiloh come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when Jesus came, typified by the name Shiloh, Who, in fact,
                 was, and is, the True Lawgiver, He fulfilled the Law in totality
                 by His Life and His Death, thereby satisfying all of its just
@@ -346,7 +346,7 @@ export default function Genesis49() {
           ; and unto Him shall the gathering of the people be{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only way to God the Father is through Christ the Son; the
                 only way to Christ the Son is through the Cross; the only way to
                 the Cross is through an abnegation of self [
@@ -369,7 +369,7 @@ export default function Genesis49() {
           <sup className="calibre7">11</sup>Binding his foal unto the vine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Vine speaks of fruit, and, in fact, the blood of grapes,
                 which speaks of what He did on the Cross in the shedding of His
                 Lifes Blood, in order to bring forth this fruit [
@@ -388,7 +388,7 @@ export default function Genesis49() {
           wine, and His clothes in the blood of grapes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this speaks of the Cross, and Him washing His Garments
                 in wine, i.e., in blood)
               </span>
@@ -402,7 +402,7 @@ export default function Genesis49() {
           <sup className="calibre7">12</sup>His Eyes shall be red with wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His eyes ever toward the Cross)
               </span>
             </span>
@@ -410,7 +410,7 @@ export default function Genesis49() {
           , and His Teeth white with milk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Righteousness of Christ; it is Righteousness
                 which He has always had, but now is made possible to us, due to
                 what He did in His Sufferings, i.e., the blood of grapes)
@@ -426,7 +426,7 @@ export default function Genesis49() {
           the sea; and he shall be for an haven of ships{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this portrayal of Zebulun is not so much geographical as it is
                 occupational; the closest that this Tribe came to the
                 Mediterranean was about 10 miles; however, the great trade
@@ -438,7 +438,7 @@ export default function Genesis49() {
           ; and his border shall be unto Zidon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, And his borders shall be towards
                 Zidon)
               </span>
@@ -458,14 +458,14 @@ export default function Genesis49() {
           <sup className="calibre7">15</sup>And he saw{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Issachar saw)</span>
+              <span className="explanation">(Issachar saw)</span>
             </span>
           </span>{" "}
           that rest was good, and the land that it was pleasant; and bowed his
           shoulder to bear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Tribe of Issachar bordered the Jordan River and, as a
                 result, favored some of the best agricultural areas in all of
                 Israel)
@@ -475,7 +475,7 @@ export default function Genesis49() {
           , and became a servant unto tribute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with agricultural pursuits, and not subjugation by
                 another nation)
               </span>
@@ -497,7 +497,7 @@ export default function Genesis49() {
           shall fall backward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Dan had the ability to bear rule, yet became a treacherous
                 serpent. It is certainly observable that the first introduction
                 of idolatry in Israel is ascribed to the Tribe of Dan [Judg.,
@@ -542,7 +542,7 @@ export default function Genesis49() {
           LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Second Coming)</span>
+              <span className="explanation">(speaks of the Second Coming)</span>
             </span>
           </span>
         </span>
@@ -554,7 +554,7 @@ export default function Genesis49() {
           he shall overcome at the last{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gad will be overcome by the Antichrist during the Great
                 Tribulation, but shall overcome at the last, which speaks of the
                 Second Coming)
@@ -570,7 +570,7 @@ export default function Genesis49() {
           and he shall yield royal dainties.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Asher could well be the first of the Tribes to welcome Christ
                 upon His Second Coming. The phrase, yield royal dainties,
                 pertains to an excellent presentation for the King. That King is
@@ -585,13 +585,13 @@ export default function Genesis49() {
           <sup className="calibre7">21</sup>Naphtali is a hind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a female deer)</span>
+              <span className="explanation">(a female deer)</span>
             </span>
           </span>{" "}
           let loose: he gives goodly words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Naphtali will have wonderful words for Christ upon His return.
                 They will be words of repentance [
                 <ScrollLink href="/zechariah-13" scrollToId="#filepos10718933">
@@ -613,7 +613,7 @@ export default function Genesis49() {
           fruitful bough by a well; whose branches run over the wall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph, as Judah, is a Type of Christ, hence the flowing and
                 glowing superlatives. Judah is portrayed as Christ in His
                 sufferings; while Joseph is portrayed as Christ in His
@@ -630,7 +630,7 @@ export default function Genesis49() {
           and shot at Him, and hated Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all speaks of what Israel did to Christ)
               </span>
             </span>
@@ -645,7 +645,7 @@ export default function Genesis49() {
           of Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ did, despite the opposition, what He came to do, which
                 refers to the Cross)
               </span>
@@ -654,7 +654,7 @@ export default function Genesis49() {
           ; (from thence is the Shepherd, the Stone of Israel:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is referred to here by two names, Shepherd and Stone of
                 Israel.)
               </span>
@@ -668,7 +668,7 @@ export default function Genesis49() {
           shall help You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is Christ Alone Who enjoys the Blessings of the Father; and
                 those Blessings come upon Him in every manner)
               </span>
@@ -679,7 +679,7 @@ export default function Genesis49() {
           and of the womb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we must understand that God does not bless man, per se, but
                 rather He blesses Christ; if one is in Christ, then one is
                 blessed)
@@ -695,13 +695,13 @@ export default function Genesis49() {
           prevailed above the blessings of my progenitors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ancestors)</span>
+              <span className="explanation">(ancestors)</span>
             </span>
           </span>{" "}
           unto the utmost bound of the everlasting hills{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as long as the hills last, the Blessings of God will last;
                 inasmuch as the hills are everlasting, this means that the
                 Blessings of God, through Christ, are everlasting, as well)
@@ -711,7 +711,7 @@ export default function Genesis49() {
           : they shall be on the head of Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessings will be upon Christ, of Whom Joseph was a Type)
               </span>
             </span>
@@ -720,7 +720,7 @@ export default function Genesis49() {
           Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Christ was a man, still, He was separate from all
                 other men, and because, as well, He was the Son of God)
               </span>
@@ -734,13 +734,13 @@ export default function Genesis49() {
           <sup className="calibre7">27</sup>Benjamin shall ravin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(something seized as prey)</span>
+              <span className="explanation">(something seized as prey)</span>
             </span>
           </span>{" "}
           as a wolf{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Tribe of Benjamin may very well be the leading Tribe to
                 oppose the Antichrist; it is plain by this that Jacob was guided
                 in what he said by the Spirit of Prophecy, and not by natural
@@ -753,7 +753,7 @@ export default function Genesis49() {
           divide the spoil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could well take place during the coming Great Tribulation, as
                 the Tribe of Benjamin fully opposes the Antichrist)
               </span>
@@ -769,7 +769,7 @@ export default function Genesis49() {
           them; every one according to his blessing he blessed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Reuben, Simeon, and Levi were under the marks of
                 their fathers displeasure, yet he is said to bless them, every
                 one according to his blessing; for none of them were rejected as
@@ -787,7 +787,7 @@ export default function Genesis49() {
           the cave that is in the field of Ephron the Hittite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the heart of the Patriarch was not set upon the wealth of his
                 luxurious bedchamber, but was far away in Gods chosen land; we,
                 as well, must ever remember that while we are in the world, we
@@ -806,7 +806,7 @@ export default function Genesis49() {
           buryingplace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great Patriarch never allowed all of the splendor of Egypt
                 and its ease to turn his Faith from its correct object; it was
                 ever in Christ and the Cross)
@@ -823,7 +823,7 @@ export default function Genesis49() {
           buried Leah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His demand that he be buried where Abraham and Isaac were
                 buried proclaimed, within itself, and made a statement, that all
                 of these were staking a claim to the entirety of the land. God
@@ -850,7 +850,7 @@ export default function Genesis49() {
           up the ghost, and was gathered unto his people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last hours of the great Patriarch were filled with
                 prophecies and predictions concerning the Twelve Tribes of
                 Israel, which would ultimately bring the Redeemer into the

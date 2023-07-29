@@ -329,7 +329,7 @@ export default function Kings118() {
           ; but Baals prophets are four hundred and fifty men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one man against 450)</span>
+              <span className="explanation">(one man against 450)</span>
             </span>
           </span>
         </span>
@@ -460,7 +460,7 @@ export default function Kings118() {
           evening sacrifice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 3 p.m.)</span>
+              <span className="explanation">(about 3 p.m.)</span>
             </span>
           </span>
           , that there was neither voice, nor any to answer, nor any who
@@ -514,7 +514,7 @@ export default function Kings118() {
           Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(repaired the Altar)</span>
+              <span className="explanation">(repaired the Altar)</span>
             </span>
           </span>{" "}
           in the Name of the LORD{" "}
@@ -552,7 +552,7 @@ export default function Kings118() {
           <sup className="calibre7">33</sup>And he put the wood in order{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typifying the Cross)</span>
+              <span className="explanation">(typifying the Cross)</span>
             </span>
           </span>
           , and cut the bullock in pieces{" "}
@@ -681,7 +681,7 @@ export default function Kings118() {
           He is the God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not Baal, but Jehovah)</span>
+              <span className="explanation">(not Baal, but Jehovah)</span>
             </span>
           </span>
         </span>

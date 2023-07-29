@@ -43,13 +43,13 @@ export default function Samuel120() {
           <sup className="calibre7">2</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jonathan)</span>
+              <span className="explanation">(Jonathan)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>
           , God forbid; you shall not die: behold, my father will do nothing
@@ -79,7 +79,7 @@ export default function Samuel120() {
           and death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David was right!)</span>
+              <span className="explanation">(David was right!)</span>
             </span>
           </span>
         </span>
@@ -316,7 +316,7 @@ export default function Samuel120() {
           Jesse to meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the meal)</span>
+              <span className="explanation">(to the meal)</span>
             </span>
           </span>
           , neither yesterday, nor today?
@@ -373,7 +373,7 @@ export default function Samuel120() {
           <sup className="calibre7">33</sup>And Saul cast a javelin at him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at Jonathan)</span>
+              <span className="explanation">(at Jonathan)</span>
             </span>
           </span>{" "}
           to smite him: whereby Jonathan knew that it was determined of his
@@ -387,7 +387,7 @@ export default function Samuel120() {
           was grieved for David, because his father had done him shame{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had done David shame!)</span>
+              <span className="explanation">(had done David shame!)</span>
             </span>
           </span>
         </span>
@@ -500,7 +500,7 @@ export default function Samuel120() {
           . And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David)</span>
+              <span className="explanation">(David)</span>
             </span>
           </span>{" "}
           arose and departed: and Jonathan went into the city.

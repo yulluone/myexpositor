@@ -406,13 +406,13 @@ export default function Timothy21() {
           <sup className="calibre7">11</sup>Whereunto I am appointed a Preacher{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Preach the Gospel)</span>
+              <span className="explanation">(to Preach the Gospel)</span>
             </span>
           </span>
           , and an Apostle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Grace)</span>
+              <span className="explanation">(of Grace)</span>
             </span>
           </span>
           , and a Teacher of the Gentiles.{" "}
@@ -432,13 +432,13 @@ export default function Timothy21() {
           <sup className="calibre7">12</sup>For the which cause{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to establish the Church)</span>
+              <span className="explanation">(to establish the Church)</span>
             </span>
           </span>{" "}
           I also suffer these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(imprisonment, etc.)</span>
+              <span className="explanation">(imprisonment, etc.)</span>
             </span>
           </span>
           : nevertheless I am not ashamed{" "}

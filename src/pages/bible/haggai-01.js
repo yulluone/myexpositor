@@ -22,7 +22,7 @@ export default function Haggai01() {
           High Priest, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ministry of Haggai was separated from the Prophet Zephaniah
                 by approximately 100 years. The exiles returned to the Holy Land
                 from Babylon in 536 B.C., fulfilling the seventy-year period of
@@ -137,7 +137,7 @@ export default function Haggai01() {
           House should be built.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Unbelief never fails of arguments, but always has this capital
                 defect of leaving God out. The religious argument at that time
                 was: the time, i.e., the seventy years of captivity, was not yet
@@ -163,7 +163,7 @@ export default function Haggai01() {
           Haggai the Prophet, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then came the Word of the LORD, is repetition by the Holy
                 Spirit, and by design. It is meant to impress upon the people
                 the severity of the situation and the depth of their sin)
@@ -179,7 +179,7 @@ export default function Haggai01() {
           in your cieled houses, and this house lie waste?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Is it time for you... ?, has the emphasis placed
                 on the pronoun you. It is used in derision, as the phrase This
                 people is used in{" "}
@@ -204,7 +204,7 @@ export default function Haggai01() {
           Hosts; Consider your ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word consider actually means set your heart upon.)
               </span>
             </span>
@@ -219,7 +219,7 @@ export default function Haggai01() {
           he who earns wages earns wages to put it into a bag with holes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Seldom does the Holy Spirit so clearly and plainly delineate
                 the cause of lack of progress as He does in this particular
                 Verse. Among other things, He shows us that to divert money from
@@ -240,7 +240,7 @@ export default function Haggai01() {
           your ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit prefaced{" "}
                 <ScrollLink href="/" scrollToId="#filepos10518504">
                   <span className="calibre_19">
@@ -263,7 +263,7 @@ export default function Haggai01() {
           be glorified, sa ys the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit quietly reminds them that the materials for
                 doing the job were just a short distance away. The implication
                 is: no costly offerings were required, only a willingness to
@@ -281,7 +281,7 @@ export default function Haggai01() {
           every man unto his own house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God first is the secret of Spiritual and temporal prosperity.
                 The phrase, You looked for much, and, lo, it came to little, is
                 one step further than the first phrase of{" "}
@@ -319,7 +319,7 @@ export default function Haggai01() {
           stayed from dew, and the Earth is stayed from her fruit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No doubt, the people ascribe the meagerness of their crops to
                 natural causes; they would not see the judicial nature of their
                 infliction. The phrase, And the Earth is stayed from her fruit,
@@ -338,7 +338,7 @@ export default function Haggai01() {
           and upon men, and upon cattle, and upon all the labour of the hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse portrays the Truth that every single thing in Judah
                 of that particular time, including the labor of the hands, was
                 cursed by God; consequently, and irrespective of the amount of
@@ -377,7 +377,7 @@ export default function Haggai01() {
           and the people did fear before the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zerubbabel was the Governor of Judah, no doubt appointed by the
                 King of Persia. Thankfully, the leadership of the nation, headed
                 up by Zerubbabel and Joshua the High Priest, led the way
@@ -396,7 +396,7 @@ export default function Haggai01() {
           says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The obedient heart of{" "}
                 <ScrollLink href="/" scrollToId="#filepos10523060">
                   <span className="calibre_19">
@@ -422,7 +422,7 @@ export default function Haggai01() {
           the LORD of Hosts, their God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is one of the few recorded instances of all rulers and
                 people stirred to obedience)
               </span>
@@ -437,7 +437,7 @@ export default function Haggai01() {
           sixth month, in the second year of Darius the king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that the Prophetic Message was delivered on the first
                 of the sixth month [
                 <ScrollLink href="/" scrollToId="#filepos10514214">

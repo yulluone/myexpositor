@@ -62,7 +62,7 @@ export default function Revelation10() {
           upon His Head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Peace and Mercy)</span>
+              <span className="explanation">(refers to Peace and Mercy)</span>
             </span>
           </span>
           , and His face{" "}
@@ -74,7 +74,9 @@ export default function Revelation10() {
           as it were the Sun{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerns the degree of Glory)</span>
+              <span className="explanation">
+                (concerns the degree of Glory)
+              </span>
             </span>
           </span>
           , and His feet as pillars of fire{" "}
@@ -159,7 +161,7 @@ export default function Revelation10() {
           a lion roars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signals power and victory)</span>
+              <span className="explanation">(signals power and victory)</span>
             </span>
           </span>
           : and when He had cried, seven thunders uttered their voices.{" "}
@@ -323,7 +325,7 @@ export default function Revelation10() {
           take the little Book which is open in the Hand of the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           which stands upon the Sea and upon the Earth.{" "}
@@ -342,7 +344,7 @@ export default function Revelation10() {
           <sup className="calibre7">9</sup>And I went unto the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>
           , and said unto Him, Give me the little Book{" "}
@@ -394,7 +396,7 @@ export default function Revelation10() {
           the Angels hand, and ate it up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he digested its contents)</span>
+              <span className="explanation">(he digested its contents)</span>
             </span>
           </span>
           ; and it was in my mouth sweet as honey: and as soon as I had eaten
@@ -415,7 +417,7 @@ export default function Revelation10() {
           <sup className="calibre7">11</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           said unto me, You must prophesy again before many peoples, and

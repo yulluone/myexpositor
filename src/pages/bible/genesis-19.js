@@ -17,7 +17,7 @@ export default function Genesis19() {
           <sup className="calibre7">1</sup>And there came two Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to previously as two men)
               </span>
             </span>
@@ -25,7 +25,7 @@ export default function Genesis19() {
           to Sodom at evening; and Lot sat in the gate of Sodom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lot sitting at the gate probably denoted position and
                 authority; he may have even been the mayor of Sodom)
               </span>
@@ -35,7 +35,7 @@ export default function Genesis19() {
           his face toward the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from this action, it is possible that the two Angels revealed
                 themselves and their mission to Lot at this time)
               </span>
@@ -51,7 +51,7 @@ export default function Genesis19() {
           and wash your feet, and you shall rise up early, and go on your ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as it regards Abraham and Lot, the Lord remained to commune
                 with the Patriarch, while he merely sent His two Angels to Sodom
                 as it regards Lot)
@@ -61,7 +61,7 @@ export default function Genesis19() {
           . And they said, No; but we will abide in the street all night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the Angels, as we see here, didnt even desire to enter
                 into the house of Lot; what a rebuke!)
               </span>
@@ -75,14 +75,14 @@ export default function Genesis19() {
           <sup className="calibre7">3</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lot)</span>
+              <span className="explanation">(Lot)</span>
             </span>
           </span>{" "}
           pressed upon them greatly; and they turned in unto him, and entered
           into his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Angels, on their part, had to be pressed to accept
                 hospitality from the nephew which they at once accepted from the
                 uncle; fellowship with the world hinders and limits communion
@@ -94,7 +94,7 @@ export default function Genesis19() {
           did eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the unleavened Bread speaks of Christ)
               </span>
             </span>
@@ -110,20 +110,20 @@ export default function Genesis19() {
           <sup className="calibre7">4</sup>But before they lay down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(retired for the night)</span>
+              <span className="explanation">(retired for the night)</span>
             </span>
           </span>
           , the men of the city, even the men of Sodom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(homosexuals)</span>
+              <span className="explanation">(homosexuals)</span>
             </span>
           </span>
           , compassed the house round, both old and young, all the people from
           every quarter:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The principle of evil, which the Bible calls sin, and which has
                 wrought such ruin in human nature, painfully appears in this
                 Chapter. Sodomy is the end result of the reprobate mind [
@@ -146,7 +146,7 @@ export default function Genesis19() {
           unto him, Where are the men who came in to you this night?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sin of homosexuality was the primary sin which occasioned
                 the destruction of Sodom and Gomorrah [Jude,{" "}
                 <ScrollLink href="/" scrollToId="#filepos242431">
@@ -163,7 +163,7 @@ export default function Genesis19() {
           bring them out unto us, that we may know them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words know them pertained to the loathsomeness of the
                 homosexual act)
               </span>
@@ -178,7 +178,7 @@ export default function Genesis19() {
           them, and shut the door after him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (locked the door to his house, so these depraved men could not
                 enter)
               </span>
@@ -193,7 +193,7 @@ export default function Genesis19() {
           not so wickedly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Text marks this sin as unspeakably vile, by telling us that
                 they commanded Lot to bring out his guests so that they could
                 seduce them publicly and in the sight of the whole population;
@@ -212,7 +212,7 @@ export default function Genesis19() {
           and do you to them as is good in your eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wisdom from the lukewarm Believer is always flawed, as is
                 evidenced here)
               </span>
@@ -222,7 +222,7 @@ export default function Genesis19() {
           shadow of my roof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we cannot profit by the world and, at the same time, bear
                 effectual testimony against its wickedness)
               </span>
@@ -238,7 +238,7 @@ export default function Genesis19() {
           judge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Lot, however, had spoken out against these things
                 so often that the men of Sodom accused him of wanting to play
                 the judge)
@@ -249,7 +249,7 @@ export default function Genesis19() {
           sore upon the man, even Lot, and came near to break the door.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to Abraham having rescued many Sodomites from Chedorlaomer,
                 evidently these homosexuals had declared Lot, the nephew of
                 Abraham, off limits. But now, due to Lots protection of the two
@@ -267,13 +267,13 @@ export default function Genesis19() {
           <sup className="calibre7">10</sup>But the Men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the two Angels)</span>
+              <span className="explanation">(the two Angels)</span>
             </span>
           </span>{" "}
           put forth Their hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (opened the door and grabbed Lot)
               </span>
             </span>
@@ -281,7 +281,7 @@ export default function Genesis19() {
           , and pulled Lot into the house to Them, and shut to the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (little did these perverts know as to who these men actually
                 were)
               </span>
@@ -297,7 +297,7 @@ export default function Genesis19() {
           they wearied themselves to find the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word in the Hebrew actually means that they were not
                 totally blind, but that they would not see properly)
               </span>
@@ -314,7 +314,7 @@ export default function Genesis19() {
           <sup className="calibre7">12</sup>And the Men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angels)</span>
+              <span className="explanation">(the Angels)</span>
             </span>
           </span>{" "}
           said unto Lot, Have you here any besides? son in law, and your sons,
@@ -322,7 +322,7 @@ export default function Genesis19() {
           out of this place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to attempt to reprove the worlds ways, while we profit by
                 association with it, is vanity; thus it was too with Lots
                 testimony to his sons-in-law)
@@ -337,7 +337,7 @@ export default function Genesis19() {
           <sup className="calibre7">13</sup>For We will destroy this place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has happened, no doubt, many times in many places in history
                 past)
               </span>
@@ -346,7 +346,7 @@ export default function Genesis19() {
           , because the cry of them is waxen great before the Face of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all sin is in Gods Face, which will ultimately, if not repented
                 of, end in judgment)
               </span>
@@ -364,14 +364,14 @@ export default function Genesis19() {
           sons in law, which married his daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which were to marry)</span>
+              <span className="explanation">(which were to marry)</span>
             </span>
           </span>
           , and said, Up, get you out of this place; for the LORD will destroy
           this city. But he seemed as one who mocked unto his sons in law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the nearer the world approaches the end, the more it laughs at
                 the Divine threats pronounced upon the wicked)
               </span>
@@ -391,7 +391,7 @@ export default function Genesis19() {
           city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Angels hastened Lot, likewise the Holy Spirit is
                 hastening the modern Church, as it regards the Rapture)
               </span>
@@ -405,13 +405,13 @@ export default function Genesis19() {
           <sup className="calibre7">16</sup>And while he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lot)</span>
+              <span className="explanation">(Lot)</span>
             </span>
           </span>{" "}
           lingered, the Men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the two Angels)</span>
+              <span className="explanation">(the two Angels)</span>
             </span>
           </span>{" "}
           laid hold upon his hand, and upon the hand of his wife, and upon the
@@ -419,7 +419,7 @@ export default function Genesis19() {
           brought him forth, and set him without the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the loving patience of the Angels with this unhappy
                 procrastinator was most touching; its cause is revealed in the
                 words, the LORD being merciful unto him)
@@ -434,20 +434,20 @@ export default function Genesis19() {
           <sup className="calibre7">17</sup>And it came to pass, when They{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the two Angels)</span>
+              <span className="explanation">(the two Angels)</span>
             </span>
           </span>{" "}
           had brought them forth abroad, that he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one of the Angels)</span>
+              <span className="explanation">(one of the Angels)</span>
             </span>
           </span>{" "}
           said, Escape for your life; look not behind you, neither stay you in
           all the plain; escape to the mountain, lest you be consumed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God demanded of them a total abandonment in heart and will of
                 the condemned cities)
               </span>
@@ -462,7 +462,7 @@ export default function Genesis19() {
           my LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that now Jehovah Himself, though not mentioned, has
                 now appeared upon the scene)
               </span>
@@ -479,7 +479,7 @@ export default function Genesis19() {
           lest some evil take me, and I die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the folly of Lot in lingering, and further in preferring his
                 own place of safety to that proposed by the Angels, illustrate
                 the deep unbelief of the heart)
@@ -496,7 +496,7 @@ export default function Genesis19() {
           not a little one?) and my soul shall live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (people do not do stupid things when they are in the Will of
                 God; its when they are attempting to function in the realm of
                 disobedience that they become foolish in their direction)
@@ -511,13 +511,13 @@ export default function Genesis19() {
           <sup className="calibre7">21</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto him, See, I have accepted you concerning this thing also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his request to go into this little city instead of the
                 mountain)
               </span>
@@ -526,7 +526,7 @@ export default function Genesis19() {
           , that I will not overthrow this city, for the which you have spoken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was a prayer that Lot would have wished had never been
                 answered in a positive way; the Believer must always be careful
                 to ask in the Will of God)
@@ -542,7 +542,7 @@ export default function Genesis19() {
           cannot do anything till you come out of Sodom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord had promised Abraham that Lot would be spared;
                 therefore, destruction could not come to Sodom and Gomorrah
                 until Lot was safely removed; in a sense, this typifies the
@@ -566,7 +566,7 @@ export default function Genesis19() {
           Therefore the name of the city was called Zoar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the city which the Lord allowed Lot to enter into)
               </span>
             </span>
@@ -589,7 +589,7 @@ export default function Genesis19() {
           upon Gomorrah brimstone and fire from the LORD out of heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord, Whom we now know as God the Son, called judgment from
                 the Lord out of heaven, Whom we now know as God the Father;
                 considering that the Holy Spirit inspired the writing of this,
@@ -607,7 +607,7 @@ export default function Genesis19() {
           grew upon the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the cities of the plain were destroyed, except Zoar; the
                 cause was supernatural, not natural; therefore, this wasnt an
                 earthquake, as some have claimed)
@@ -626,7 +626,7 @@ export default function Genesis19() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (disobeying the Word of the Lord [
                 <ScrollLink href="/" scrollToId="#filepos247959">
                   <span className="calibre_19">
@@ -644,7 +644,7 @@ export default function Genesis19() {
           , and she became a pillar of salt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus reminded the world of this episode by pointedly saying,
                 Remember Lots wife [
                 <ScrollLink href="/luke-17" scrollToId="#filepos12105642">
@@ -670,7 +670,7 @@ export default function Genesis19() {
           morning to the place where he stood before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that he was in prayer)
               </span>
             </span>
@@ -685,7 +685,7 @@ export default function Genesis19() {
           the smoke of the country went up as the smoke of a furnace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these cities were situated at the southern extremity of the
                 Dead Sea; the word furnace indicates that this was no ordinary
                 fire, but that the heat was so intense that everything melted,
@@ -704,7 +704,7 @@ export default function Genesis19() {
           cities in the which Lot dwelt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words, God remembered Abraham, proclaim the fact that
                 Abrahams intercessory petition did not go unanswered; in this
                 case, Abraham was a Type of Christ, serving as a mediator
@@ -725,7 +725,7 @@ export default function Genesis19() {
           to dwell in Zoar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (having disobeyed the Lord, Lot now lives in fear; he is fearful
                 that God will destroy Zoar as well, so he moves to a nearby
                 mountain)
@@ -735,7 +735,7 @@ export default function Genesis19() {
           : and he dwelt in a cave, he and his two daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his wealth had once been so great that he and Abraham could not
                 dwell together because of the size of their herds; but now he is
                 living in a cave, with this being his miserable home; wealth or
@@ -754,7 +754,7 @@ export default function Genesis19() {
           come in unto us after the manner of all the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the preservation of the family line was important in ancient
                 times; since Lot was old, and now poor, with all his belongings
                 destroyed along with Sodom, his daughters saw no prospect for
@@ -771,7 +771,7 @@ export default function Genesis19() {
           wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the second occasion in the Bible that the word wine is used
                 indicating intoxicating beverage, the first occasion being that
                 of Noah [
@@ -790,7 +790,7 @@ export default function Genesis19() {
           , and we will lie with him, that we may preserve seed of our father.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His own daughters make him drunk, and in his drunkenness, he
                 becomes the instrument of bringing into existence the Ammonites
                 and the Moabites the determined enemies of the people of God.
@@ -807,7 +807,7 @@ export default function Genesis19() {
           and he perceived not when she lay down, nor when she arose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was no drunken orgy, but still, it was a revolting sin;
                 the cause was a lack of faith, as the cause of all sin is a lack
                 of faith)
@@ -825,7 +825,7 @@ export default function Genesis19() {
           in, and lie with him, that we may preserve seed of our father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the details of this account clearly show that Lot, when he went
                 to the mountain cave, endeavored to escape from his problems,
                 not by carrying them to the Throne of God, where all Believers
@@ -843,7 +843,7 @@ export default function Genesis19() {
           perceived not when she lay down, nor when she arose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (considering that these girls had been raised in Sodom, at least
                 for a good part of their lives, it is not strange that the older
                 daughter suggested incest as the only way they could preserve
@@ -861,7 +861,7 @@ export default function Genesis19() {
           with child by their father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after this, Lot disappears from sacred history, not even his
                 death being recorded; even though there is no Biblical record,
                 it is believed that Abraham took Lot and his daughters into his
@@ -878,7 +878,7 @@ export default function Genesis19() {
           called his name Moab{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means from my father)</span>
+              <span className="explanation">(means from my father)</span>
             </span>
           </span>
           : the same is the father of the Moabites unto this day.
@@ -890,13 +890,13 @@ export default function Genesis19() {
           son, and called his name Ben-ammi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means son of my people)</span>
+              <span className="explanation">(means son of my people)</span>
             </span>
           </span>
           : the same is the father of the children of Ammon unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite their ignoble beginnings, the Lord showed a concern for
                 them as descendants of Lot [
                 <ScrollLink href="/deuteronmy-02" scrollToId="#filepos2136449">

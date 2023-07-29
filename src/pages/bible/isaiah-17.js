@@ -17,7 +17,7 @@ export default function Isaiah17() {
           heap.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The defeat of Rezin and the destruction of Damascus was
                 fulfilled by the Assyrians [
                 <ScrollLink href="/kings2-16" scrollToId="#filepos4229209">
@@ -40,7 +40,7 @@ export default function Isaiah17() {
           them afraid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The destruction of these cities was to be so complete that
                 cattle would pasture on their former sites; there would be no
                 man to drive them away.)
@@ -57,7 +57,7 @@ export default function Isaiah17() {
           Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy was that Ephraim was to be destroyed. Sargon did
                 not destroy Samaria on the occasion of his first capture, but he
                 says that he reduced it to a heap of ruins on the occasion of
@@ -86,7 +86,7 @@ export default function Isaiah17() {
           his flesh shall wax lean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit continues to speak of the destruction of the
                 Northern Kingdom of Israel.)
               </span>
@@ -101,7 +101,7 @@ export default function Isaiah17() {
           shall be as he who gathers ears in the valley of Rephaim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Death is the harvestman here and gathers the Israelites by
                 shocks or sheaves into his garner. It is a dire Prophecy.)
               </span>
@@ -117,7 +117,7 @@ export default function Isaiah17() {
           thereof, says the LORD God of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the great destruction by the Assyrians, the remnant of
                 Syria and Ephraim would be small.)
               </span>
@@ -131,7 +131,7 @@ export default function Isaiah17() {
           Maker, and his eyes shall have respect to the Holy One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After the terrible chastisement, the remnant left had a
                 tendency to look to the Lord instead of their idols. This took
                 place about 75 years after Isaiahs Prophecy.)
@@ -147,7 +147,7 @@ export default function Isaiah17() {
           have made, either the groves, or the images.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, we are told that Israel finally ceased their
                 idol-worship.)
               </span>
@@ -162,7 +162,7 @@ export default function Isaiah17() {
           because of the Children of Israel: and there shall be desolation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Normally the phrase, in that day, applies to the Endtime, and
                 especially the Millennium; however, it rather applied here to
                 the destruction by the Assyrians, which would take place not too
@@ -180,7 +180,7 @@ export default function Isaiah17() {
           with strange slips{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reasons are here given for the great chastisement of the
                 Northern Kingdom of Israel)
               </span>
@@ -197,7 +197,7 @@ export default function Isaiah17() {
           sorrow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again, the Holy Spirit speaks of this coming time when even the
                 crops would be destroyed.)
               </span>
@@ -212,7 +212,7 @@ export default function Isaiah17() {
           nations, that make a rushing like the rushing of mighty waters!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy, although continuing, no longer refers to Israels
                 present problems, but to a later time; actually,{" "}
                 <ScrollLink href="/" scrollToId="#filepos7454885">
@@ -244,7 +244,7 @@ export default function Isaiah17() {
           spoil us, and the lot of them who rob us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pictures the gathering of many nations against Israel at
                 the Battle of Armageddon. It will be at that time when God will
                 rebuke them and fight for Israel [Ezek., Chpts.{" "}

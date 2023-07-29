@@ -59,7 +59,7 @@ export default function Chronicles224() {
           and he begat sons and daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(took two wives for Joash)</span>
+              <span className="explanation">(took two wives for Joash)</span>
             </span>
           </span>
         </span>
@@ -223,7 +223,7 @@ export default function Chronicles224() {
           and the High Priests officer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an officer of Jehoiada)</span>
+              <span className="explanation">(an officer of Jehoiada)</span>
             </span>
           </span>{" "}
           came and emptied the chest, and took it, and carried it to his place
@@ -379,7 +379,7 @@ export default function Chronicles224() {
           <sup className="calibre7">19</sup>Yet He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           sent Prophets to them, to bring them again unto the LORD; and they
@@ -394,7 +394,7 @@ export default function Chronicles224() {
           : but they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the people and the princes)</span>
+              <span className="explanation">(the people and the princes)</span>
             </span>
           </span>{" "}
           would not give ear.
@@ -479,7 +479,7 @@ export default function Chronicles224() {
           the kindness which Jehoiada his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Zechariahs)</span>
+              <span className="explanation">(Zechariahs)</span>
             </span>
           </span>{" "}
           father had done to him, but killed his son. And when he died, he said,

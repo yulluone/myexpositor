@@ -437,7 +437,7 @@ export default function Psalm018() {
           troop; and by my God have I leaped over a wall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an euphemism for victory)</span>
+              <span className="explanation">(an euphemism for victory)</span>
             </span>
           </span>
           .
@@ -605,7 +605,9 @@ export default function Psalm018() {
           my enemies; that I might destroy them who hate me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and that He did at the Cross)</span>
+              <span className="explanation">
+                (and that He did at the Cross)
+              </span>
             </span>
           </span>
           .

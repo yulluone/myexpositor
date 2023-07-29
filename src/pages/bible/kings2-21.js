@@ -41,7 +41,7 @@ export default function Kings221() {
           Baal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fire-god)</span>
+              <span className="explanation">(the fire-god)</span>
             </span>
           </span>
           , and made a grove{" "}
@@ -58,7 +58,7 @@ export default function Kings221() {
           and served them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sun, moon, and stars)</span>
+              <span className="explanation">(the sun, moon, and stars)</span>
             </span>
           </span>
         </span>
@@ -101,14 +101,14 @@ export default function Kings221() {
           fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human sacrifice)</span>
+              <span className="explanation">(human sacrifice)</span>
             </span>
           </span>
           , and observed times, and used enchantments, and dealt with familiar
           spirits and wizards{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(witchcraft)</span>
+              <span className="explanation">(witchcraft)</span>
             </span>
           </span>
           : he wrought much wickedness in the sight of the LORD, to provoke Him
@@ -369,7 +369,9 @@ export default function Kings221() {
           against him, and killed the king in his own house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Scripture doesnt say why)</span>
+              <span className="explanation">
+                (the Scripture doesnt say why)
+              </span>
             </span>
           </span>
         </span>

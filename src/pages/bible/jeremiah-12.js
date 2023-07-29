@@ -18,7 +18,7 @@ export default function Jeremiah12() {
           deal very treacherously?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Righteous are You, O LORD, present the answer of
                 Jeremiah, as he hastens to vindicate God, even in the midst of
                 his sorrows and dangers. The Lord judged righteously and was
@@ -60,7 +60,7 @@ export default function Jeremiah12() {
           their mouth, and far from their reins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You have planted them, refers to{" "}
                 <ScrollLink href="/jeremiah-11" scrollToId="#filepos8306646">
                   <span className="calibre_19">
@@ -96,7 +96,7 @@ export default function Jeremiah12() {
           the slaughter, and prepare them for the day of slaughter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Scripture, we are delving into the innermost chamber of
                 the heart of Jeremiah. For such, the Lord will carefully and
                 patiently rebuke him.)
@@ -113,7 +113,7 @@ export default function Jeremiah12() {
           shall not see our last end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He shall not see our last end, refers to the Prophets enemies,
                 who were confident of a successful future for themselves and for
                 Jerusalem, but were determined that Jeremiah should not see
@@ -150,7 +150,7 @@ export default function Jeremiah12() {
           will you do in the swelling of Jordan?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah has been speaking in the first four Verses, with the
                 Lord now speaking in the remainder. Now comes the Lords gentle
                 rebuke to the Prophet. The footmen represent the men of
@@ -172,7 +172,7 @@ export default function Jeremiah12() {
           fair words unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Though they speak fair words unto you, seems to imply that the
                 Lord is imparting information to Jeremiah that he has not
                 previously had. He now informs him that in the plot to take his
@@ -206,7 +206,7 @@ export default function Jeremiah12() {
           of her enemies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now the Lord speaks His Heart, as Jeremiah has spoken his.
                 These Verses, beginning with the Seventh Verse on to the end of
                 the Chapter, apply to Judah and Jerusalem and are, therefore, to
@@ -246,7 +246,7 @@ export default function Jeremiah12() {
           the forest; it cries out against Me: therefore have I hated it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So degraded and hostile had idolatry made Judah that they are
                 compared in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8319150">
@@ -293,7 +293,7 @@ export default function Jeremiah12() {
           the beasts of the field, come to devour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My Heritage is unto Me as a speckled bird, refers to a bird of
                 beautiful bright plumage which arouses the animosity of its less
                 brilliant contemporaries, who gather around to pull it to
@@ -314,7 +314,7 @@ export default function Jeremiah12() {
           pleasant Portion a desolate wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pastors here are not as we normally think of such, but
                 rather civil rulers, even heathen rulers at that! Actually, the
                 Passage is speaking of Nebuchadnezzar and the leaders under him
@@ -331,7 +331,7 @@ export default function Jeremiah12() {
           because no man lays it to heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit, Who has been speaking in the future tense
                 since{" "}
                 <ScrollLink href="/" scrollToId="#filepos8318119">
@@ -357,7 +357,7 @@ export default function Jeremiah12() {
           flesh shall have peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The spoilers are definitely the Babylonians, with the sword of
                 the LORD, at least in this case, being Nebuchadnezzar. In other
                 words, Nebuchadnezzar, although unwitting, will be an instrument
@@ -375,7 +375,7 @@ export default function Jeremiah12() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is: Judah thought surely they were
                 sowing wheat, regarding their man-made religious worship. In
                 their minds, they were appeasing Jehovah, especially by
@@ -397,7 +397,7 @@ export default function Jeremiah12() {
           and pluck out the House of Judah from among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These evil neighbors are Egypt, Edom, Philistia, Ammon, Moab,
                 and Syria. Due to these nations seeking to take advantage of
                 Judahs problems, the Lord would bring Judgment upon them. All
@@ -422,7 +422,7 @@ export default function Jeremiah12() {
           man to his land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, this will take place in the coming Kingdom Age.)
               </span>
             </span>
@@ -437,7 +437,7 @@ export default function Jeremiah12() {
           be built in the midst of My People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ways of My People mean the Divine Way of Salvation revealed
                 and committed to Israel. To swear by My Name, saying Jehovah
                 lives, is to worship God through Jesus Christ; for Jesus is Gods
@@ -453,7 +453,7 @@ export default function Jeremiah12() {
           utterly pluck up and destroy that nation, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some of the nations mentioned in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8323421">
                   <span className="calibre_19">

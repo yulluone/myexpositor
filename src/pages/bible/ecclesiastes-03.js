@@ -16,7 +16,7 @@ export default function Ecclesiastes03() {
           a time to every purpose under the Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to misunderstand this Chapter is to misunderstand the purpose
                 of God)
               </span>
@@ -68,7 +68,7 @@ export default function Ecclesiastes03() {
           time of war, and a time of peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One can only know and understand these respective times, if one
                 properly walks after the Spirit [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13387535">
@@ -120,7 +120,7 @@ export default function Ecclesiastes03() {
           wherein he labours?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If, in fact, man labors only for this present world, there is
                 no profit. However, if mans labor is engaged to provide the
                 necessities of life and to do the Work of God to help take the
@@ -136,7 +136,7 @@ export default function Ecclesiastes03() {
           has given to the sons of men to be exercised in it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God has given labor to man as a discipline and not as an end.
                 Consequently, to make the actions of labor the chief end of life
                 is to seek a profitless object.)
@@ -152,7 +152,7 @@ export default function Ecclesiastes03() {
           find out the work that God makes from the beginning to the end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the word world should have been translated
                 eternity. God has made everything beautiful in its season and,
                 at the same time, given to man the consciousness of eternity.
@@ -171,7 +171,7 @@ export default function Ecclesiastes03() {
           but for a man to rejoice, and to do good in his life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man is meant to rejoice in Gods creation, as all of this was
                 created for the good of man.)
               </span>
@@ -186,7 +186,7 @@ export default function Ecclesiastes03() {
           God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The eating, drinking, and toiling, and the enjoyment resulting
                 from such, mean that legitimate labor is mans daily duty, but it
                 is not the end or purpose of his being.)
@@ -202,7 +202,7 @@ export default function Ecclesiastes03() {
           it: and God does it, that men should fear before Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The immutability and unchangeableness of Gods actions and
                 purposes awaken reverential fear, holy love, and worship in all
                 who are born of the Spirit.)
@@ -217,7 +217,7 @@ export default function Ecclesiastes03() {
           which is to be has already been; and God requires that which is past.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Passage is that Gods Word is immutable, and
                 that in the coming Judgment, whether at the Great White Throne
                 or at the Judgment Seat of Christ, God will require obedience to
@@ -234,7 +234,7 @@ export default function Ecclesiastes03() {
           righteousness, that iniquity was there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A difficulty is presented in this Verse, but answered in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7097320">
                   <span className="calibre_19">
@@ -260,7 +260,7 @@ export default function Ecclesiastes03() {
           purpose and for every work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word there means in the world beyond the grave, that is, in
                 the great day of future judgment. Two judgments are mentioned
                 here, the Judgment Seat of Christ [
@@ -317,7 +317,7 @@ export default function Ecclesiastes03() {
           might see that they themselves are beasts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon is not teaching evolution, but that men and beasts
                 alike have bodies that die and go back to dust.
               </span>
@@ -357,7 +357,7 @@ export default function Ecclesiastes03() {
           preeminence above a beast: for all is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both man and beast live and die; however, it was not originally
                 the Plan of God that man should die. This came about through the
                 Fall. It will be rectified in the coming Resurrection [I Cor.,
@@ -384,7 +384,7 @@ export default function Ecclesiastes03() {
           the dust, and all turn to dust again.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the body only, which is made of dust, and which
                 goes back to dust. It does not speak of the soul or spirit,
                 which are indestructible.
@@ -412,7 +412,7 @@ export default function Ecclesiastes03() {
           Earth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the previous Verse spoke of the body, this Verse speaks of
                 the spirit of both man and beast.
               </span>
@@ -459,7 +459,7 @@ export default function Ecclesiastes03() {
           after him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mans happiness is in making the best of the present and
                 cheerfully enjoying what the Lord offers without anxious care
                 for the future; nevertheless, only one who has made his peace

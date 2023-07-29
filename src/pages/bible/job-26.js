@@ -196,7 +196,7 @@ export default function Job26() {
           and by His understanding He smites through the proud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fixes the bounds of the sea)</span>
+              <span className="explanation">(fixes the bounds of the sea)</span>
             </span>
           </span>
         </span>

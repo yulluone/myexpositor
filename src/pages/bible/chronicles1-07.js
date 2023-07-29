@@ -123,7 +123,7 @@ export default function Chronicles107() {
           of the second was Zelophehad: and Zelophehad had daughters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, this man is mentioned, with his fame being derived
                 from the Faith of his daughters [
                 <ScrollLink href="/numbers-26" scrollToId="#filepos2007875">
@@ -307,7 +307,7 @@ export default function Chronicles107() {
           men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Quite often in the Text, the Writer refers to some of the men
                 of Israel being choice and mighty men of valor, etc. The might
                 and glory of Israel, when they were actually serving God, were

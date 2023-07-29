@@ -18,7 +18,7 @@ export default function Jeremiah06() {
           out of the north, and great destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (O you Children of Benjamin, refers to the Tribe of Benjamin,
                 which bordered the Tribe of Judah. Strangely enough, Jerusalem
                 was not locally a city of Judah, at all. In fact, it belonged,
@@ -46,7 +46,7 @@ export default function Jeremiah06() {
           to a comely and delicate woman.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord likened Israel, Jerusalem, Zion, and Judah unto a
                 woman. As such, she was called His Wife, and He, her Husband [
                 <ScrollLink href="/jeremiah-03" scrollToId="#filepos8160288">
@@ -94,7 +94,7 @@ export default function Jeremiah06() {
           they shall feed every one in his place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The shepherds and their flocks were the Babylonian generals and
                 their soldiers. They would surround Jerusalem, laying siege to
                 the city.)
@@ -110,7 +110,7 @@ export default function Jeremiah06() {
           shadows of the evening are stretched out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Babylonians are the speakers of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8221449">
                   <span className="calibre_19">
@@ -156,7 +156,7 @@ export default function Jeremiah06() {
           let us destroy her palaces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit would proclaim, a little more than 15 years
                 before the actual happening, the actual terminology of the
                 Babylonians and their intent.)
@@ -172,7 +172,7 @@ export default function Jeremiah06() {
           city to be visited; she is wholly oppression in the midst of her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the city to be visited, means punished. The reason for
                 this punishment is given in the words, she is wholly oppression
                 in the midst of her, referring to the oppression by the strong
@@ -189,7 +189,7 @@ export default function Jeremiah06() {
           before Me continually is grief and wounds.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The grief and wounds were afflicted on the poor by their rich
                 oppressors. The words, Before Me, mean rather before My Face.
                 God sees it, and is determined to take vengeance on the
@@ -206,7 +206,7 @@ export default function Jeremiah06() {
           inhabited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Be you instructed, O Jerusalem, actually mean Let
                 yourself be corrected. It means to accept the warning conveyed
                 in the Divine admonition.)
@@ -222,7 +222,7 @@ export default function Jeremiah06() {
           hand as a grapegatherer into the baskets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a grapegatherer keeps putting the grapes into his basket and
                 causes his hand to return to the basket until he has gleaned all
                 the grapes, so is it predicted here that Nebuchadnezzar would
@@ -241,7 +241,7 @@ export default function Jeremiah06() {
           reproach; they have no delight in it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Behold, their ear is uncircumcised, tell us the
                 reason for their Spiritual Impotence. They had forsaken the Word
                 of God.)
@@ -259,7 +259,7 @@ export default function Jeremiah06() {
           full of days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore I am full of the fury of the LORD, refers to Jeremiah
                 personally. I am weary with holding in, refers to Jeremiah
                 sincerely attempting to keep his personal feelings out of that
@@ -277,7 +277,7 @@ export default function Jeremiah06() {
           out My Hand upon the inhabitants of the land, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Judgment of this Verse was that predicted in{" "}
                 <ScrollLink href="/deuteronmy-28" scrollToId="#filepos2391002">
                   <span className="calibre_19">
@@ -299,7 +299,7 @@ export default function Jeremiah06() {
           Prophet even unto the Priest every one deals falsely.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This indictment by the Holy Spirit is severe indeed! The words,
                 given to covetousness, mean gaineth gain. However, the word
                 rendered here gain implies that it is unrighteous gain. The root
@@ -329,7 +329,7 @@ export default function Jeremiah06() {
           is no peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When an unconverted man is disquieted [hurt] about death and
                 the Judgment sure to follow [
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14569604">
@@ -356,7 +356,7 @@ export default function Jeremiah06() {
           the time that I visit them they shall be cast down, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore they shall fall among them who fall, refers to the
                 Prophets and Priests of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8226378">
@@ -395,7 +395,7 @@ export default function Jeremiah06() {
           We will not walk therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (True rest and healing is to be found in the old paths and the
                 good way, that is, the Gospel as taught in the Bible. Stand you
                 in the ways, refers to the ardent seeking of the Ways of God.)
@@ -411,7 +411,7 @@ export default function Jeremiah06() {
           not hearken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With the word watchmen, a metaphor is used by the Holy Spirit
                 describing the high watchtower [
                 <ScrollLink href="/habakkuk-2" scrollToId="#filepos10437765">
@@ -447,7 +447,7 @@ export default function Jeremiah06() {
           know, O congregation, what is among them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The nations surrounding Judah were to hear this Message, as
                 well!)
               </span>
@@ -462,7 +462,7 @@ export default function Jeremiah06() {
           have not hearkened unto My Words, nor to My Law, but rejected it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Behold, I will bring evil upon this people, is because of their
                 refusal and rejection of the Bible. The fruit of their thoughts,
                 is strong indeed! It refers to the determination of the people
@@ -479,7 +479,7 @@ export default function Jeremiah06() {
           offerings are not acceptable, nor your sacrifices sweet unto Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the Holy Scriptures are thrust aside, incense and burnt
                 offerings become abominable to God. Placing faith in the
                 ceremony instead of in what the ceremony represented, namely,
@@ -498,7 +498,7 @@ export default function Jeremiah06() {
           friend shall perish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Behold, I will lay stumblingblocks before this people, refers
                 to the coming invader, the Babylonians.)
               </span>
@@ -513,7 +513,7 @@ export default function Jeremiah06() {
           the sides of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Babylonians.)
               </span>
             </span>
@@ -528,7 +528,7 @@ export default function Jeremiah06() {
           you, O daughter of Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit in this Passage goes to great lengths to
                 explain to Judah and Jerusalem exactly as to the cruelty and
                 lack of mercy among the Babylonians.)
@@ -544,7 +544,7 @@ export default function Jeremiah06() {
           woman in travail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The horror will know no bounds!)
               </span>
             </span>
@@ -557,7 +557,7 @@ export default function Jeremiah06() {
           walk by the way; for the sword of the enemy and fear is on every side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When this time comes, if the people feel they can escape by
                 fleeing the city, this Passage proclaims the opposite!)
               </span>
@@ -573,7 +573,7 @@ export default function Jeremiah06() {
           suddenly come upon us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Yet again in this Verse, a love which calls these idolaters and
                 oppressors, My People, cries aloud to them to repent, but in
                 vain. The spoiler is Nebuchadnezzar.)
@@ -588,7 +588,7 @@ export default function Jeremiah06() {
           fortress among My People, that you may know and try their way.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos8233746">
                   <span className="calibre_19">
@@ -614,7 +614,7 @@ export default function Jeremiah06() {
           corrupters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They are all corrupters, refers to the fact that not only are
                 they corrupted, but they seek to corrupt all others, as well!)
               </span>
@@ -629,7 +629,7 @@ export default function Jeremiah06() {
           not plucked away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The assayer has spared no trouble, all the rules of his art
                 have been obeyed, but no silver appears as a result of the
                 process.)
@@ -644,7 +644,7 @@ export default function Jeremiah06() {
           them, because the LORD has rejected them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So was it with Israel! The furnace of affliction, though very
                 hot, failed to separate the dross, with the result that God
                 adjudged the nation as refuse-silver.)

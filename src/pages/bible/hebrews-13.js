@@ -15,7 +15,7 @@ export default function Hebrews13() {
           <sup className="calibre7">1</sup>Let brotherly love continue.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This type of love refers to our social actions, one might say,
                 toward our Brothers and Sisters in the Lord.)
               </span>
@@ -29,13 +29,13 @@ export default function Hebrews13() {
           strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hospitality)</span>
+              <span className="explanation">(hospitality)</span>
             </span>
           </span>
           : for thereby some have entertained Angels unawares{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (definitely would have a tendency to provide a positive
                 incentive)
               </span>
@@ -49,7 +49,7 @@ export default function Hebrews13() {
           <sup className="calibre7">3</sup>Remember them who are in bonds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Christians who were even then beginning to be
                 imprisoned for their Faith)
               </span>
@@ -58,7 +58,7 @@ export default function Hebrews13() {
           , as bound with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (become one with them, not forgetting to pray for them)
               </span>
             </span>
@@ -72,7 +72,7 @@ export default function Hebrews13() {
           them which suffer adversity, as being yourselves also in the Body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Refers to the Body of Christ, and that if one suffers, in a
                 sense all suffer.)
               </span>
@@ -91,7 +91,7 @@ export default function Hebrews13() {
           honourable in all, and the bed undefiled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (lawful sex between a husband and wife holds no defilement)
               </span>
             </span>
@@ -99,7 +99,7 @@ export default function Hebrews13() {
           : but whoremongers and adulterers God will judge.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims all sexual conduct outside of marriage to be
                 absolutely defiled.)
               </span>
@@ -118,7 +118,7 @@ export default function Hebrews13() {
           conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
             <span>
               <span className="calibre_19">be</span>
@@ -127,7 +127,7 @@ export default function Hebrews13() {
           without covetousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, covetousness is idolatry [
                 <ScrollLink href="/colossians-3" scrollToId="#filepos14167229">
                   <span className="calibre_19">
@@ -149,13 +149,13 @@ export default function Hebrews13() {
           content with such things as you have{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ-dependent)</span>
+              <span className="explanation">(Christ-dependent)</span>
             </span>
           </span>
           : for He has said, I will never leave you, nor forsake you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Greek actually says, He Himself has said, meaning the Lord
                 Jesus Himself has Personally made this Promise [
                 <ScrollLink href="/joshua-01" scrollToId="#filepos2472626">
@@ -190,7 +190,7 @@ export default function Hebrews13() {
           my helper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no higher authority and power [
                 <ScrollLink href="/psalm-118" scrollToId="#filepos6526619">
                   <span className="calibre_19">
@@ -206,7 +206,7 @@ export default function Hebrews13() {
           , and I will not fear what man shall do unto me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man can do no more to me than the Lord permits.)
               </span>
             </span>
@@ -222,7 +222,7 @@ export default function Hebrews13() {
           over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, Remember them which are your
                 leaders)
               </span>
@@ -231,7 +231,7 @@ export default function Hebrews13() {
           , who have spoken unto you the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to preaching and teaching)
               </span>
             </span>
@@ -239,7 +239,7 @@ export default function Hebrews13() {
           : whose faith follow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (providing its Faith that ever makes the Cross its Object)
               </span>
             </span>
@@ -253,7 +253,7 @@ export default function Hebrews13() {
           conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (lifestyle; proper Faith will always produce a proper lifestyle)
               </span>
             </span>
@@ -270,7 +270,7 @@ export default function Hebrews13() {
           today, and forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will never change, and this covers the entire range of
                 time.)
               </span>
@@ -284,7 +284,7 @@ export default function Hebrews13() {
           strange doctrines.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to anything that changes the Object of Faith from
                 the Cross to something else.)
               </span>
@@ -299,7 +299,7 @@ export default function Hebrews13() {
           a good thing that the heart be established with Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means this is the only way the heart can rightly be
                 established)
               </span>
@@ -308,7 +308,7 @@ export default function Hebrews13() {
           ; not with meats{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to refer to all types of religious ceremonies)
               </span>
             </span>
@@ -316,7 +316,7 @@ export default function Hebrews13() {
           , which have not profited them who have been occupied therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims everything other than simple Faith in Christ and
                 His Finished Work as having no value.)
               </span>
@@ -332,7 +332,7 @@ export default function Hebrews13() {
           <sup className="calibre7">10</sup>We have an Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is used in this sense by Paul to describe all Christ has done
                 at the Cross on behalf of lost humanity)
               </span>
@@ -341,7 +341,7 @@ export default function Hebrews13() {
           , whereof they have no right to eat which serve the Tabernacle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This bluntly and plainly says that one cannot serve Christ and
                 the Levitical Order at the same time. As well, one cannot
                 function in Law and Grace at the same time!)
@@ -355,7 +355,7 @@ export default function Hebrews13() {
           <sup className="calibre7">11</sup>For the bodies of those beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the animal Sacrifices of various kinds)
               </span>
             </span>
@@ -363,7 +363,7 @@ export default function Hebrews13() {
           , whose blood is brought into the Sanctuary by the High Priest for sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to this particular man bringing the blood of these
                 Sacrificed animals into the Holy of Holies on the Great Day of
                 Atonement, and applying it to the Mercy Seat and the Horns of
@@ -374,7 +374,7 @@ export default function Hebrews13() {
           , are burned without the camp.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The carcass of the animal was burned outside the camp, thus
                 symbolizing Gods Wrath against sin.)
               </span>
@@ -388,7 +388,7 @@ export default function Hebrews13() {
           sanctify the people with His Own Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the price that was paid so that man might be
                 Sanctified, i.e., set free from sin)
               </span>
@@ -397,7 +397,7 @@ export default function Hebrews13() {
           , suffered without the gate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sin-Offering was burned without the camp. Jesus, Who in all
                 other points fulfilled the Law of Atonement, fulfilled it in
                 this point also [
@@ -428,7 +428,7 @@ export default function Hebrews13() {
           without the camp{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Christ as the only bearer of Salvation)
               </span>
             </span>
@@ -436,7 +436,7 @@ export default function Hebrews13() {
           , bearing His reproach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to sharing in the rejection He has undergone)
               </span>
             </span>
@@ -449,7 +449,7 @@ export default function Hebrews13() {
           <sup className="calibre7">14</sup>For here have we no continuing city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays earthly Jerusalem as having finished its course, at
                 least at that particular time and as it referred to the Law,)
               </span>
@@ -458,7 +458,7 @@ export default function Hebrews13() {
           , but we seek one to come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hopes of mankind are now bound up with no abiding earthly
                 Sanctuary, but rather we seek after the Heavenly Jerusalem.)
               </span>
@@ -472,7 +472,7 @@ export default function Hebrews13() {
           Sacrifice of Praise to God continually{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we must understand that we are able to praise God and He is
                 able to accept our praises due to the Cross, hence Praise being
                 linked to Sacrifice; as well, the word continually proclaims the
@@ -490,7 +490,7 @@ export default function Hebrews13() {
           lips giving thanks to His Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Name is Jesus, which means Saviour, and speaks of His
                 Sacrificial Offering of Himself on the Cross.)
               </span>
@@ -504,7 +504,7 @@ export default function Hebrews13() {
           forget not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is saying here that our obligations to the Lord are not
                 exhausted with Praise; good deeds must also be included)
               </span>
@@ -513,7 +513,7 @@ export default function Hebrews13() {
           : for with such Sacrifices God is well pleased.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such action and attitude symbolizes the Cross.)
               </span>
             </span>
@@ -525,7 +525,7 @@ export default function Hebrews13() {
           <sup className="calibre7">17</sup>Obey them who have the rule over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to Pastors; however, the emphasis is not on the
                 Pastor, but rather on the Gospel he Preaches)
               </span>
@@ -534,7 +534,7 @@ export default function Hebrews13() {
           , and submit yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to submitting to the True Gospel that is being Preached
                 by True Pastors)
               </span>
@@ -543,7 +543,7 @@ export default function Hebrews13() {
           : for they watch for your souls{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Preachers who truly have the spiritual welfare of the
                 people at heart)
               </span>
@@ -553,7 +553,7 @@ export default function Hebrews13() {
           not with grief{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every Preacher will give account to God for His Ministry)
               </span>
             </span>
@@ -567,7 +567,7 @@ export default function Hebrews13() {
           unprofitable for you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If people will not heed the true Gospel being Preached, the
                 Gospel will be of no profit to these particular individuals,
                 whomever they might be, no matter how profitable it is to
@@ -585,7 +585,7 @@ export default function Hebrews13() {
           <sup className="calibre7">18</sup>Pray for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a common request by Paul [
                 <ScrollLink href="/romans-15" scrollToId="#filepos13519823">
                   <span className="calibre_19">
@@ -639,7 +639,7 @@ export default function Hebrews13() {
           : for we trust we have a good conscience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns all things; however, I personally think the Apostle is
                 speaking here of the way he has handled the Law of Moses
                 regarding this Epistle to the Hebrews)
@@ -649,7 +649,7 @@ export default function Hebrews13() {
           , in all things willing to live honestly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to his daily living for the Lord.)
               </span>
             </span>
@@ -667,7 +667,7 @@ export default function Hebrews13() {
           the rather to do this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers back to His request that they pray for him)
               </span>
             </span>
@@ -675,7 +675,7 @@ export default function Hebrews13() {
           , that I may be restored to you the sooner.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This lends credence to the thought that Paul may have been in
                 prison when this Epistle to the Hebrews was written.)
               </span>
@@ -691,7 +691,7 @@ export default function Hebrews13() {
           <sup className="calibre7">20</sup>Now the God of Peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that Peace has been made between God and fallen man,
                 and done so through what Jesus did on the Cross on mans behalf)
               </span>
@@ -700,7 +700,7 @@ export default function Hebrews13() {
           , that brought again from the dead our Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the only mention of the Resurrection of Christ in this
                 Epistle to the Hebrews)
               </span>
@@ -709,7 +709,7 @@ export default function Hebrews13() {
           , that Great Shepherd of the sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the One Who died for us, and Whom God raised from the
                 dead)
               </span>
@@ -718,7 +718,7 @@ export default function Hebrews13() {
           , through the Blood of the Everlasting Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (points to the Cross and proclaims the fact that this Covenant,
                 being perfect, is Eternal)
               </span>
@@ -733,7 +733,7 @@ export default function Hebrews13() {
           to do His Will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to that which the Holy Spirit has been sent to do, and
                 Who will do such through Christ)
               </span>
@@ -743,7 +743,7 @@ export default function Hebrews13() {
           Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that men can do what is acceptable to God
                 only through Jesus Christ)
               </span>
@@ -758,7 +758,7 @@ export default function Hebrews13() {
           Glory forever and ever. Amen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is because of what He did at the Cross.)
               </span>
             </span>
@@ -771,7 +771,7 @@ export default function Hebrews13() {
           the word of exhortation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the arguments and counsels in this entire
                 Epistle)
               </span>
@@ -780,7 +780,7 @@ export default function Hebrews13() {
           : for I have written a Letter unto you in few words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Considering the subject matter, the Letter is short.)
               </span>
             </span>
@@ -798,7 +798,7 @@ export default function Hebrews13() {
           Brother Timothy is set at liberty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents another strong proof that Paul wrote this Epistle)
               </span>
             </span>
@@ -806,7 +806,7 @@ export default function Hebrews13() {
           ; with whom, if he come shortly, I will see you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This phrase gives no clue whatsoever if this actually
                 happened.)
               </span>
@@ -819,13 +819,13 @@ export default function Hebrews13() {
           <sup className="calibre7">24</sup>Salute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greet)</span>
+              <span className="explanation">(greet)</span>
             </span>
           </span>{" "}
           all them who have the rule over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (more than likely refers to their Pastors and other Saints in
                 that particular Church or Churches)
               </span>
@@ -834,7 +834,7 @@ export default function Hebrews13() {
           , and all the Saints. They of Italy salute you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proves this Epistle was written from Italy, and more than
                 likely Rome. As well, the manner of this Benediction is Pauls
                 style. Also, whoever wrote the Epistle to the Hebrews had to

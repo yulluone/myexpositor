@@ -156,7 +156,7 @@ export default function Mark03() {
           , and straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           took counsel with the Herodians{" "}
@@ -297,7 +297,7 @@ export default function Mark03() {
           <sup className="calibre7">12</sup>And He straitly charged them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a military command)</span>
+              <span className="explanation">(a military command)</span>
             </span>
           </span>{" "}
           that they should not make Him known{" "}
@@ -340,7 +340,7 @@ export default function Mark03() {
           <sup className="calibre7">14</sup>And He ordained{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(appointed)</span>
+              <span className="explanation">(appointed)</span>
             </span>
           </span>{" "}
           Twelve{" "}
@@ -354,7 +354,7 @@ export default function Mark03() {
           , that they should be with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the secret of all power)</span>
+              <span className="explanation">(the secret of all power)</span>
             </span>
           </span>
           , and that He might send them forth to preach,
@@ -373,7 +373,7 @@ export default function Mark03() {
           to heal sicknesses, and to cast out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           :
@@ -384,7 +384,7 @@ export default function Mark03() {
           <sup className="calibre7">16</sup>And Simon He surnamed Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a stone)</span>
+              <span className="explanation">(a stone)</span>
             </span>
           </span>
           ;
@@ -423,7 +423,7 @@ export default function Mark03() {
           of Alphaeus, and Thaddaeus, and Simon the Canaanite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Simon the Zealot)</span>
+              <span className="explanation">(Simon the Zealot)</span>
             </span>
           </span>
           ,
@@ -556,7 +556,7 @@ export default function Mark03() {
               <span className="calibre_19">unto Him</span>
             </span>
             <span>
-              <span className="calibre_19">(the Scribes),</span>
+              <span className="explanation">(the Scribes),</span>
             </span>
           </span>{" "}
           and said unto them in Parables, How can Satan cast out Satan?{" "}
@@ -618,7 +618,7 @@ export default function Mark03() {
           , and spoil his goods, except he will first bind the strong man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus overthrew Satan)</span>
+              <span className="explanation">(Jesus overthrew Satan)</span>
             </span>
           </span>
           ; and then he will spoil his house{" "}
@@ -703,7 +703,7 @@ export default function Mark03() {
           spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(most serious)</span>
+              <span className="explanation">(most serious)</span>
             </span>
           </span>
           .
@@ -733,7 +733,7 @@ export default function Mark03() {
           and his mother, and, standing without{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(outside of the house)</span>
+              <span className="explanation">(outside of the house)</span>
             </span>
           </span>
           , sent unto Him, calling Him{" "}

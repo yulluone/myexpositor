@@ -17,7 +17,7 @@ export default function Ezekiel04() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tile was the manner in which records were kept in ancient
                 times. They were all sizes, which the average being about two
                 feet long and one foot wide. They were covered with very small
@@ -49,7 +49,7 @@ export default function Ezekiel04() {
           against it, and set battering rams against it round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was taking place in Babylonia approximately four years
                 before Jerusalem would be destroyed by Nebuchadnezzar;
                 therefore, the time of destruction is drawing near, which the
@@ -96,7 +96,7 @@ export default function Ezekiel04() {
           siege against it. This shall be a sign to the House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The iron pan signified a wall of iron surrounding the city in
                 question, or at least from the side of the siege, portraying the
                 power of the army of the Babylonians.)
@@ -119,7 +119,7 @@ export default function Ezekiel04() {
           iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord will now use another type of symbolism, that of
                 Ezekiel physically lying on his left side 390 days, and then on
                 his right side for 40 days. This was to be done for a few
@@ -149,7 +149,7 @@ export default function Ezekiel04() {
           ninety days: so shall you bear the iniquity of the House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The 390 days was to represent the 390 years of their iniquity,
                 counting both the Northern and the Southern Kingdoms. The Lord
                 showed extreme displeasure with the Northern Kingdom as a result
@@ -187,7 +187,7 @@ export default function Ezekiel04() {
           House of Judah forty days: I have appointed you each day for a year.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Northern Kingdom had been symbolized, likewise, the
                 Southern Kingdom of Judah would be symbolized by the 40 days of
                 Ezekiel lying on his right side. This was not to be 40 days
@@ -211,7 +211,7 @@ export default function Ezekiel04() {
           you shall prophesy against it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel lying on his left side and then on his right side was
                 possibly immediately before the symbolism of the tile. He was to
                 face this model of the siege, with one arm uncovered. This was
@@ -241,7 +241,7 @@ export default function Ezekiel04() {
           days shall you eat thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The 390 days did not mean that the siege would last for this
                 period of time; in fact, it lasted about 2 years. Rather, it was
                 meant to imply that the destruction of Jerusalem and Judah
@@ -260,7 +260,7 @@ export default function Ezekiel04() {
           eat it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The twenty shekels a day would buy about ten ounces, which was
                 to be consumed each day. As Ezekiel went through this regimen
                 each day, the sameness of the procedure could not help but have
@@ -277,7 +277,7 @@ export default function Ezekiel04() {
           measure, the sixth part of an hin: from time to time shall you drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sixth part of an hin would be about a half pint. This was,
                 as the food, to be doled out once a day. To drink also water by
                 measure showed that water would be at a premium, as food, in the
@@ -294,7 +294,7 @@ export default function Ezekiel04() {
           sight.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication of the Lord is that fuel to heat the stoves
                 would be in such short supply that the population would be
                 forced to use the dried contents of the cesspools of Jerusalem
@@ -311,7 +311,7 @@ export default function Ezekiel04() {
           whither I will drive them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Under the ceremonial Law of Moses, bread cooked by the fuel of
                 human dung was defiled. This was to serve as a symbolism of the
                 banishment of the Jews among the Gentiles, whom the Jews called
@@ -330,7 +330,7 @@ export default function Ezekiel04() {
           came there abominable flesh into my mouth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel, as a Priest, had faithfully followed the Law of Moses,
                 and had done his best to keep himself from any kind of
                 defilement. That of which he speaks is noted in{" "}
@@ -378,7 +378,7 @@ export default function Ezekiel04() {
           therewith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In response to the plea of the Prophet, the Lord would allow
                 Ezekiel to use cows dung rather than mans dung. However, this
                 also was more than likely ceremonially unclean, but at least not
@@ -398,7 +398,7 @@ export default function Ezekiel04() {
           by measure, and with astonishment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this pertained to the terrible famine which ensued as a result
                 of the siege of Jerusalem, and which was also described by
                 Jeremiah upon its fulfillment [
@@ -422,7 +422,7 @@ export default function Ezekiel04() {
           and be astonied one with another, and consume away for their iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To the horror of the famine and its physical privation, there
                 was to be added the consciousness that it was caused by their
                 own sins.)

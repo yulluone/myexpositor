@@ -228,7 +228,7 @@ export default function Kings202() {
           <sup className="calibre7">13</sup>He took up also the mantle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the outer garment)</span>
+              <span className="explanation">(the outer garment)</span>
             </span>
           </span>{" "}
           of Elijah that fell from him, and went back, and stood by the bank of
@@ -340,7 +340,7 @@ export default function Kings202() {
           my lord sees: but the water is naught{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(poisoned)</span>
+              <span className="explanation">(poisoned)</span>
             </span>
           </span>
           , and the ground barren{" "}
@@ -467,7 +467,7 @@ export default function Kings202() {
           them, and cursed them in the Name of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(placed a curse on them)</span>
+              <span className="explanation">(placed a curse on them)</span>
             </span>
           </span>
           . And there came forth two she bears out of the wood, and tore forty

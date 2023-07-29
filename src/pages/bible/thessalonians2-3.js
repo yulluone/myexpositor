@@ -336,7 +336,7 @@ export default function Thessalonians23() {
           busybodies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sponging off others)</span>
+              <span className="explanation">(sponging off others)</span>
             </span>
           </span>
           .
@@ -503,7 +503,7 @@ export default function Thessalonians23() {
           with you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           . Amen.

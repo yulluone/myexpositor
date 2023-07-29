@@ -75,7 +75,7 @@ export default function Judges08() {
           pursuing them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pursuing the enemy)</span>
+              <span className="explanation">(pursuing the enemy)</span>
             </span>
           </span>
         </span>
@@ -197,7 +197,7 @@ export default function Judges08() {
           the host: for the host was secure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(or thought they were)</span>
+              <span className="explanation">(or thought they were)</span>
             </span>
           </span>
         </span>
@@ -233,7 +233,7 @@ export default function Judges08() {
           Succoth, and the elders thereof, even threescore and seventeen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(77)</span>
+              <span className="explanation">(77)</span>
             </span>
           </span>{" "}
           men.
@@ -365,7 +365,7 @@ export default function Judges08() {
           rule over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gideon answered correctly)</span>
+              <span className="explanation">(Gideon answered correctly)</span>
             </span>
           </span>
         </span>
@@ -451,7 +451,7 @@ export default function Judges08() {
           <sup className="calibre7">29</sup>And Jerub-baal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gideon)</span>
+              <span className="explanation">(Gideon)</span>
             </span>
           </span>{" "}
           the son of Joash went and dwelt in his own house.
@@ -463,7 +463,7 @@ export default function Judges08() {
           sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70 sons)</span>
+              <span className="explanation">(70 sons)</span>
             </span>
           </span>{" "}
           of his body begotten: for he had many wives.

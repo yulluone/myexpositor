@@ -15,13 +15,13 @@ export default function Kings212() {
           <sup className="calibre7">1</sup>In the seventh year of Jehu{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who was king of Israel)</span>
+              <span className="explanation">(who was king of Israel)</span>
             </span>
           </span>{" "}
           Jehoash{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joash)</span>
+              <span className="explanation">(Joash)</span>
             </span>
           </span>{" "}
           began to reign{" "}
@@ -188,7 +188,7 @@ export default function Kings212() {
           and bored a hole in the lid of it, and set it beside the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brazen Altar)</span>
+              <span className="explanation">(the Brazen Altar)</span>
             </span>
           </span>
           , on the right side as one comes into the House of the LORD: and the

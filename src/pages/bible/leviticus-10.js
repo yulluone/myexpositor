@@ -18,7 +18,7 @@ export default function Leviticus10() {
           Aaron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they were Priests)</span>
+              <span className="explanation">(they were Priests)</span>
             </span>
           </span>
           , took either of them his censer, and put fire therein, and put
@@ -117,7 +117,7 @@ export default function Leviticus10() {
           Eleazar and unto Ithamar, his sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the only two left to Aaron)</span>
+              <span className="explanation">(the only two left to Aaron)</span>
             </span>
           </span>
           , Uncover not your heads, neither rend your clothes; lest you die, and

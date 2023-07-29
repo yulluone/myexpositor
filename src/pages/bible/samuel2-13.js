@@ -76,13 +76,13 @@ export default function Samuel213() {
           <sup className="calibre7">4</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jonadab)</span>
+              <span className="explanation">(Jonadab)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Amnon)</span>
+              <span className="explanation">(Amnon)</span>
             </span>
           </span>
           , Why are you, being the kings son, lean from day to day? will you not
@@ -114,7 +114,7 @@ export default function Samuel213() {
           sick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made as if he was sick)</span>
+              <span className="explanation">(made as if he was sick)</span>
             </span>
           </span>
           : and when the king was come to see him, Amnon said unto the king, I
@@ -127,7 +127,7 @@ export default function Samuel213() {
           <sup className="calibre7">7</sup>Then David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(suspecting nothing)</span>
+              <span className="explanation">(suspecting nothing)</span>
             </span>
           </span>{" "}
           sent home to Tamar, saying, Go now to your brother Amnons house, and
@@ -254,7 +254,9 @@ export default function Samuel213() {
           her voice: but, being stronger than she, forced her, and lay with her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in other words, he raped her)</span>
+              <span className="explanation">
+                (in other words, he raped her)
+              </span>
             </span>
           </span>
         </span>
@@ -354,7 +356,7 @@ export default function Samuel213() {
           these things, he was very wroth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(angry)</span>
+              <span className="explanation">(angry)</span>
             </span>
           </span>
         </span>
@@ -378,7 +380,7 @@ export default function Samuel213() {
           : for Absalom hated Amnon, because he had forced his sister Tamar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had raped her)</span>
+              <span className="explanation">(had raped her)</span>
             </span>
           </span>
         </span>
@@ -390,7 +392,7 @@ export default function Samuel213() {
           years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Absalom did bide his time)</span>
+              <span className="explanation">(Absalom did bide his time)</span>
             </span>
           </span>
           , that Absalom had sheepshearers in Baal-hazor, which is beside
@@ -420,7 +422,7 @@ export default function Samuel213() {
           pressed him: howbeit he would not go, but blessed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(David would not himself go)</span>
+              <span className="explanation">(David would not himself go)</span>
             </span>
           </span>
         </span>
@@ -619,7 +621,7 @@ export default function Samuel213() {
           go forth unto Absalom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(longed to have him return)</span>
+              <span className="explanation">(longed to have him return)</span>
             </span>
           </span>
           : for he was comforted concerning Amnon, seeing he was dead.

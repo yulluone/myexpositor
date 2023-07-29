@@ -24,7 +24,7 @@ export default function James5() {
               <span className="calibre_19">you.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This warning is to the wealthy who have gained their riches by
                 fraud and deceit.)
               </span>
@@ -38,7 +38,7 @@ export default function James5() {
           garments are motheaten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These types of riches will do no one any good, and above all,
                 the person who has such.)
               </span>
@@ -51,7 +51,7 @@ export default function James5() {
           <sup className="calibre7">3</sup>Your gold and silver is cankered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is gold and silver laid up and not put to any use that
                 is good)
               </span>
@@ -61,7 +61,7 @@ export default function James5() {
           your flesh as it were fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The having of money is not wrong. The question is what are we
                 doing with this which God has given us? If we do not use it for
                 His Glory, making certain that it is for His Glory, the Lord
@@ -72,7 +72,7 @@ export default function James5() {
           You have heaped treasure together for the last days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which means the treasure is not being laid up in Heaven [
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10911180">
                   <span className="calibre_19">
@@ -95,7 +95,7 @@ export default function James5() {
           cries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage tells us, and rightly so, that far too much
                 treasure is heaped up at the expense of others)
               </span>
@@ -105,7 +105,7 @@ export default function James5() {
           the Lord of Sabaoth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord of Hosts)</span>
+              <span className="explanation">(the Lord of Hosts)</span>
             </span>
           </span>
           .
@@ -117,7 +117,7 @@ export default function James5() {
           earth, and been wanton{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (luxury and self-indulgence at the expense of others is a great
                 sin in Gods eyes)
               </span>
@@ -126,7 +126,7 @@ export default function James5() {
           ; you have nourished your hearts, as in a day of slaughter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (James uses graphic imagery to indicate that the wicked rich,
                 who have gained their riches at the expense of others, are
                 always on the brink of Judgment.)
@@ -152,7 +152,7 @@ export default function James5() {
           he does not resist you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In hoarding such gain, some of the Righteous are victims. The
                 Lord takes careful note of this, and especially of their
                 helplessness.)
@@ -170,7 +170,7 @@ export default function James5() {
           the Coming of the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us the cure and, in fact, the only cure for the
                 injustices in this world. It is the Coming of the Lord.)
               </span>
@@ -180,7 +180,7 @@ export default function James5() {
           has long patience for it, until he receive the early and latter rain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit, through James, tells us in a few words that
                 the Coming of the Lord will take place shortly after the Latter
                 Rain, which in fact the world is now experiencing. This means
@@ -198,7 +198,7 @@ export default function James5() {
           hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (draw close to the Lord, which can only be done by making the
                 Cross the Object of our Faith)
               </span>
@@ -207,7 +207,7 @@ export default function James5() {
           : for the Coming of the Lord draws near.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Rapture of the Church should ever be in our minds.)
               </span>
             </span>
@@ -220,7 +220,7 @@ export default function James5() {
           Brethren, lest you be condemned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the unjust Judgment of fellow Christians is sometimes more
                 painful than the hatred of unbelievers)
               </span>
@@ -229,7 +229,7 @@ export default function James5() {
           : behold, the Judge stands before the door.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Lord Jesus and His readiness to avenge all
                 wrong)
               </span>
@@ -245,7 +245,7 @@ export default function James5() {
           affliction, and of patience.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though they were Prophets, which means they stood in a
                 high and holy Office, they were not exempt from affliction.)
               </span>
@@ -259,7 +259,7 @@ export default function James5() {
           endure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word endure refers to the fact that the test or trial may
                 last for some time.)
               </span>
@@ -269,7 +269,7 @@ export default function James5() {
           Lord; that the Lord is very pitiful, and of tender mercy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is meant to proclaim the fact that whatever the Lord
                 allows is meant for our good. We should understand that, and
                 seek to learn the lesson desired to be taught.)
@@ -288,7 +288,7 @@ export default function James5() {
           other oath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the Lord is guiding every Believer,
                 even in times of trial, and correspondingly we must not lose
                 Faith, thereby, taking matters into our own hands)
@@ -304,7 +304,7 @@ export default function James5() {
           no, no; lest you fall into condemnation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though we do not understand the reason for the situation,
                 whatever it might be, we arent to question the Lord!)
               </span>
@@ -321,7 +321,7 @@ export default function James5() {
           pray.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Prayer is the recommendation of the Holy Spirit concerning
                 affliction. But how many Christians take advantage of this
                 privilege?)
@@ -331,7 +331,7 @@ export default function James5() {
           Is any merry? let him sing Psalms.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, refers to singing as a form of prayer, which it
                 actually is, that is if we sing songs that rightly glorify the
                 Lord.)
@@ -345,7 +345,7 @@ export default function James5() {
           <sup className="calibre7">14</sup>Is any sick among you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to physical or emotional illness of any nature.)
               </span>
             </span>
@@ -353,13 +353,13 @@ export default function James5() {
           let him call for the Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastors)</span>
+              <span className="explanation">(Pastors)</span>
             </span>
           </span>{" "}
           of the Church; and let them pray over him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to asking the Lord for healing regarding the need)
               </span>
             </span>
@@ -367,7 +367,7 @@ export default function James5() {
           , anointing him with oil in the Name of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the oil has no medicinal purpose, but is rather meant to
                 symbolize the Holy Spirit, and is used as a point of contact
                 concerning our Faith; prayer is to be offered in the Name of
@@ -395,7 +395,7 @@ export default function James5() {
           the sick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the prayer of Faith is simply the belief that God hears and
                 answers prayer)
               </span>
@@ -404,7 +404,7 @@ export default function James5() {
           , and the Lord shall raise him up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Lord as the Healer, as is obvious, with the Cross
                 being the means of all this; it is the Holy Spirit Who carries
                 it out)
@@ -414,7 +414,7 @@ export default function James5() {
           ; and if he have committed sins, they shall be forgiven him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The conditional clause, if he has sinned, makes it clear that
                 not all sickness is the result of sin, but some definitely is.
                 That being the case, the Lord will both heal and forgive upon
@@ -435,7 +435,7 @@ export default function James5() {
           faults one to another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to being quick to admit fault, if such be the case)
               </span>
             </span>
@@ -443,7 +443,7 @@ export default function James5() {
           , and pray one for another, that you may be healed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit, through James, broadens the aspect of prayer
                 for the sick as applicable to any Believer.)
               </span>
@@ -452,7 +452,7 @@ export default function James5() {
           The effectual fervent prayer of a Righteous man avails much{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from any Righteous man, Preacher or otherwise; Righteousness
                 pertains to the fact that the Faith of the individual is
                 strictly in Christ and the Cross, and not in other things)
@@ -468,7 +468,7 @@ export default function James5() {
           passions as we are{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is said in this manner because the Holy Spirit wants us to know
                 that what is in the reach of one is as well in the reach of the
                 other)
@@ -479,7 +479,7 @@ export default function James5() {
           the earth by the space of three years and six months{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (showing us the power of prayer, that is if we pray in the Will
                 of God)
               </span>
@@ -494,7 +494,7 @@ export default function James5() {
           gave rain, and the earth brought forth her fruit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the effect of one mans prayers)
               </span>
             </span>
@@ -511,7 +511,7 @@ export default function James5() {
           the Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (James is speaking here of Believers, and of them straying from
                 the Truth of the Cross)
               </span>
@@ -520,7 +520,7 @@ export default function James5() {
           , and one convert him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to strengthening the individual, turning him back to the
                 right way of Truth, which is back to Christ and the Cross)
               </span>
@@ -535,7 +535,7 @@ export default function James5() {
           converts the sinner from the error of his way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (bluntly proclaims any way other than the Cross as the way of
                 sin, which then makes the one traveling such a way a sinner)
               </span>
@@ -544,7 +544,7 @@ export default function James5() {
           shall save a soul from death, and shall hide a multitude of sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that if the Believer leaves the Cross,
                 thereby transferring his Faith to something else, and such an
                 erring way is continued, it will result in the loss of the soul.

@@ -22,7 +22,7 @@ export default function Ezekiel17() {
           speak a parable unto the House of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Put forth a riddle, speaks of an enigma a dark saying. It was
                 also a parable, that is, the comparison of one thing to another)
               </span>
@@ -39,7 +39,7 @@ export default function Ezekiel17() {
           cedar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A great eagle with great wings, speaks of Nebuchadnezzar. Came
                 unto Lebanon, actually speaks of Jerusalem; the houses therein
                 were built of cedar from Lebanon. The phrase, And took the
@@ -74,7 +74,7 @@ export default function Ezekiel17() {
           merchants.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the more eminent citizens of Jerusalem also
                 being taken captive along with Jehoiachin.)
               </span>
@@ -89,7 +89,7 @@ export default function Ezekiel17() {
           set it as a willow tree.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He took also of the seed of the land, refers to Nebuchadnezzar
                 making Zedekiah king of Judah. And planted it in a fruitful
                 field, refers to the possibility of Zedekiahs reign being
@@ -109,7 +109,7 @@ export default function Ezekiel17() {
           branches, and shot forth sprigs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And it grew, refers to prosperity under Zedekiah, at least for
                 a short time.)
               </span>
@@ -128,7 +128,7 @@ export default function Ezekiel17() {
           might water it by the furrows of her plantation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The one referred to as another great eagle with great wings and
                 many feathers was Pharaoh-Hophra, king of Egypt.)
               </span>
@@ -143,7 +143,7 @@ export default function Ezekiel17() {
           bear fruit, that it might be a goodly vine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that if Zedekiah had obeyed the
                 Prophet of the Lord, placing himself and Judah under the domain
                 of Nebuchadnezzar, then Judah would have had a fair measure of
@@ -165,7 +165,7 @@ export default function Ezekiel17() {
           by the roots thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Thus says the Lord GOD; Shall it prosper?, refers
                 to this alliance between Zedekiah and Pharaoh. The answer is:
                 No. For he, Nebuchadnezzar, would uproot Zedekiah and destroy
@@ -182,7 +182,7 @@ export default function Ezekiel17() {
           it? it shall wither in the furrows where it grew.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, It shall wither in the furrows where it grew, means
                 that this alliance with Egypt will die aborning, and will
                 infuriate Nebuchadnezzar, with awful results.)
@@ -208,7 +208,7 @@ export default function Ezekiel17() {
           princes thereof, and led them with him to Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the same as{" "}
                 <ScrollLink href="/" scrollToId="#filepos9232913">
                   <span className="calibre_19">
@@ -240,7 +240,7 @@ export default function Ezekiel17() {
           taken the mighty of the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the kings seed was Zedekiah, whom he made king of Judah. And
                 made a covenant with him, and has taken an oath of him, refers
                 to the fact that Zedekiah did this in the Name of Jehovah, and
@@ -258,7 +258,7 @@ export default function Ezekiel17() {
           might stand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It might stand, refers to Gods loving purpose, which was the
                 peace and prosperity of His People in subjection to the
                 Gentiles, at least at this time; and that they should be a
@@ -283,7 +283,7 @@ export default function Ezekiel17() {
           things? or shall he break the covenant, and be delivered?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Zedekiah actively seeking an alliance with the
                 Egyptians, which was totally opposed to the Will of God, and
                 which would bring ruin to Judah.)
@@ -300,7 +300,7 @@ export default function Ezekiel17() {
           Babylon he shall die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zedekiah was taken captive by Nebuchadnezzar, blinded, and then
                 sent to Babylon, where he died. So much for the alliance with
                 Egypt. This Prophecy was probably written when the hopes of
@@ -328,7 +328,7 @@ export default function Ezekiel17() {
           mounts, and building forts, to cut off many persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pharaoh coming against Nebuchadnezzar proved to be more blow
                 and bluster than anything else. Egypt was quickly neutralized)
               </span>
@@ -344,7 +344,7 @@ export default function Ezekiel17() {
           all these things, he shall not escape.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, when Zedekiah broke the covenant with
                 Nebuchadnezzar, it was the same as breaking it with the Lord.)
               </span>
@@ -359,7 +359,7 @@ export default function Ezekiel17() {
           has broken, even it will I recompense upon his own head.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zedekiah freely agreed by covenant to rule Judah under
                 Nebuchadnezzar. He took an oath to obey him, but rebelled after
                 serving for several years. He turned to Egypt for help. For
@@ -377,7 +377,7 @@ export default function Ezekiel17() {
           against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, And will plead with him there, along with{" "}
                 <ScrollLink href="/jeremiah-32" scrollToId="#filepos8613459">
                   <span className="calibre_19">
@@ -410,7 +410,7 @@ export default function Ezekiel17() {
           toward all winds: and you shall know that I the LORD have spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage refers to the terrible carnage which developed
                 when Jerusalem fell to the Babylonians.)
               </span>
@@ -431,7 +431,7 @@ export default function Ezekiel17() {
           it upon an high mountain and eminent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Kingdom predicted in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9243085">
                   <span className="calibre_19">
@@ -456,7 +456,7 @@ export default function Ezekiel17() {
           every wing; in the shadow of the branches thereof shall they dwell.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Kingdom of the Messiah will have no end. At that time, all
                 the nations of the world will look to Christ for all prosperity.
                 They will not be disappointed!)
@@ -473,7 +473,7 @@ export default function Ezekiel17() {
           flourish: I the LORD have spoken and have done it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrases, high tree and green tree, both refer to mans proud
                 dominion, which will be brought down and dried up. The low tree
                 and dry tree refer to Israel, which will then be made to

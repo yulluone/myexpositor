@@ -55,7 +55,9 @@ export default function Numbers24() {
           said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(meaning that he saw a vision)</span>
+              <span className="explanation">
+                (meaning that he saw a vision)
+              </span>
             </span>
           </span>
           :
@@ -113,7 +115,7 @@ export default function Numbers24() {
           , and His King{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>{" "}
           shall be higher than Agag, and His Kingdom shall be exalted{" "}
@@ -299,7 +301,7 @@ export default function Numbers24() {
           have dominion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           , and shall destroy him who remains of the city{" "}

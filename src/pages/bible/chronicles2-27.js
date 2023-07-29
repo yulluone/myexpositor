@@ -23,13 +23,15 @@ export default function Chronicles227() {
           the sight of the LORD, according to all that his father Uzziah did{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first ways of his father)</span>
+              <span className="explanation">
+                (the first ways of his father)
+              </span>
             </span>
           </span>
           : howbeit he entered not into the Temple of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, This probably means that, terrified by the fate
                 of his father, he did not associate with the Temple at all. If
                 this be so, then Uzziah, Jotham, and Ahaz illustrate how
@@ -42,7 +44,7 @@ export default function Chronicles227() {
           And the people did yet corruptly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this speaks of idol-worship)</span>
+              <span className="explanation">(this speaks of idol-worship)</span>
             </span>
           </span>
         </span>
@@ -60,7 +62,7 @@ export default function Chronicles227() {
           mountains of Judah, and in the forests he built castles and towers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if, instead of building these things, he had broken down the
                 high places at which the people did corruptly, quite possibly it
                 would have brought revival to Judah; regrettably, there has
@@ -91,7 +93,7 @@ export default function Chronicles227() {
           prepared his ways before the LORD his God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a beautiful statement!)</span>
+              <span className="explanation">(what a beautiful statement!)</span>
             </span>
           </span>
         </span>
@@ -113,7 +115,7 @@ export default function Chronicles227() {
           he began to reign, and reigned sixteen years in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, he was 41 when he died)
               </span>
             </span>

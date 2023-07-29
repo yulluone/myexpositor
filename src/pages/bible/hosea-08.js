@@ -17,7 +17,7 @@ export default function Hosea08() {
           have transgressed My Covenant, and trespassed against My Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The one king trusted the Assyrians; the other, a defenced city.
                 Neither sought help from God. Thus, there is no difference
                 between the flesh of an idolater and the flesh of a nominal
@@ -46,7 +46,7 @@ export default function Hosea08() {
           know You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their profession of the knowledge of God and of attachment to
                 Him was false [
                 <ScrollLink href="/matthew-07" scrollToId="#filepos10930848">
@@ -76,7 +76,7 @@ export default function Hosea08() {
           good: the enemy shall pursue him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The good which Israel rejected is God, the One Good; Jehovah,
                 the Greatest Good; the Law, which was good; and also all the
                 goodness which the Lord bestowed on such as keep His Covenant.)
@@ -92,7 +92,7 @@ export default function Hosea08() {
           their gold have they made them idols, that they may be cut off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Not by Me, means that these kings were not sanctioned by the
                 Lord. As well, they took their prosperity, i.e., the silver and
                 the gold, and made idols with it.)
@@ -108,7 +108,7 @@ export default function Hosea08() {
           attain to innocency?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The actual meaning of this Verse is that idol worship had been
                 the cause of their rejection. The question, How long will it be
                 ere they attain to innocency?, only shows their hypocrisy.)
@@ -124,7 +124,7 @@ export default function Hosea08() {
           shall be broken in pieces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, For from Israel was it also, refers to the people
                 inventing the calf. It was broken in pieces by the Assyrians and
                 thus was demonstrated its impotency to save. Regrettably,
@@ -146,7 +146,7 @@ export default function Hosea08() {
           meal: if so be it yield, the strangers shall swallow it up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The analogy drawn by the Holy Spirit is of a man attempting to
                 sow seed in the face of a strong wind. Obviously, the seed will
                 be blown away, with the harvest reaping only that which the
@@ -162,7 +162,7 @@ export default function Hosea08() {
           they be among the Gentiles as a vessel wherein is no pleasure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Assyrian swallowed up the Ten Tribes, and they have been
                 thrown aside as a despised vessel ever since.)
               </span>
@@ -179,7 +179,7 @@ export default function Hosea08() {
           wild ass alone by himself: Ephraim has hired lovers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For they are gone up to Assyria, portrays them seeking help
                 from the very ones who would destroy them. A wild ass alone by
                 himself, portrays the nature of such an animal who stands alone
@@ -209,7 +209,7 @@ export default function Hosea08() {
           for the burden of the king of princes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Assyria would demand great tribute, throwing a tremendous
                 hardship on the people. Excavations at about the turn of the
                 Twentieth Century at Nineveh show Menahems name [King of Israel]
@@ -225,7 +225,7 @@ export default function Hosea08() {
           to sin, altars shall be unto him to sin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: to him who wills to sin, God wills further sin!)
               </span>
             </span>
@@ -238,7 +238,7 @@ export default function Hosea08() {
           things of My Law, but they were counted as a strange thing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The strange thing was a matter with which they had no concern,
                 speaking of the Bible. As then, so now! The Bible today is
                 accounted as outside of and unconnected with personal, family,
@@ -256,7 +256,7 @@ export default function Hosea08() {
           return to Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They shall return to Egypt, did not mean a literal return to
                 Egypt, but that their captivity in Assyria would be, in its
                 nature, as the Egyptian bondage.)
@@ -272,7 +272,7 @@ export default function Hosea08() {
           send a fire upon his cities, and it shall devour the palaces thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, For Israel has forgotten his Maker, and built
                 temples, refers to Israel building shrines to idol gods on high
                 places. As well, the phrase, Judah has multiplied fenced cities,

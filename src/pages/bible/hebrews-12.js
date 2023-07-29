@@ -16,7 +16,7 @@ export default function Hebrews12() {
           compassed about with so great a cloud of witnesses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Old Testament Saints who looked forward to the
                 coming Promise, Who is the Lord Jesus Christ, and what He would
                 do at the Cross to Redeem mankind)
@@ -30,7 +30,7 @@ export default function Hebrews12() {
               <span className="calibre_19">us</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we can do this only as we understand that all things come to us
                 through the Cross, and that the Cross must ever be the Object of
                 our Faith, which then gives the Holy Spirit latitude to work
@@ -41,7 +41,7 @@ export default function Hebrews12() {
           and let us run with patience the race that is set before us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only weight God will allow in the running of this race is
                 our taking up and bearing the Cross, and doing so constantly [
                 <ScrollLink href="/luke-09" scrollToId="#filepos11907007">
@@ -70,7 +70,7 @@ export default function Hebrews12() {
           Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus will carry us through till the end, for this is what the
                 word Finisher means, providing we keep our eyes on Him and what
                 He did at the Cross; He is the Source, while the Cross is the
@@ -82,7 +82,7 @@ export default function Hebrews12() {
           the shame{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but the Cross was necessary, that is if man was to be redeemed)
               </span>
             </span>
@@ -90,7 +90,7 @@ export default function Hebrews12() {
           , and is set down at the Right Hand of the Throne of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Him being set down refers to His Work at the Cross being a
                 Finished Work, and the fact that He is set down at the Throne of
                 God means God has fully accepted His Sacrifice.)
@@ -105,7 +105,7 @@ export default function Hebrews12() {
           contradiction of sinners against Himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means to consider by way of comparison; it speaks primarily of
                 Israels religious leaders who bitterly opposed Him)
               </span>
@@ -114,7 +114,7 @@ export default function Hebrews12() {
           , lest you be wearied and faint in your minds.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Consider Him instead of yourself, and there will be victory!)
               </span>
             </span>
@@ -127,7 +127,7 @@ export default function Hebrews12() {
           striving against sin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord doesnt call upon Believers to go to the Cross and shed
                 their blood, regarding the resistance of sin. Jesus has already
                 done that for us.)
@@ -145,7 +145,7 @@ export default function Hebrews12() {
           exhortation which speaks unto you as unto children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostles objective in introducing this here is to show that
                 afflictions are designed, on the part of God, to produce
                 positive effects in the lives of His People)
@@ -156,7 +156,7 @@ export default function Hebrews12() {
           you are rebuked of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything that happens to a Believer is either caused or
                 allowed by the Lord; consequently, we should learn the lesson
                 desired to be taught)
@@ -171,7 +171,7 @@ export default function Hebrews12() {
           <sup className="calibre7">6</sup>For whom the Lord loves He chastens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God disciplines those He loves, not those to whom He is
                 indifferent)
               </span>
@@ -180,7 +180,7 @@ export default function Hebrews12() {
           , and scourges every son whom He receives.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to all who truly belong to Him.)
               </span>
             </span>
@@ -193,7 +193,7 @@ export default function Hebrews12() {
           with you as with sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (chastening from the Lord guarantees the fact that one is a
                 Child of God)
               </span>
@@ -202,7 +202,7 @@ export default function Hebrews12() {
           ; for what son is he whom the father chastens not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If an earthly father truly cares for his son, he will use
                 whatever measures necessary to bring the boy into line. If an
                 earthly father will do this, how much more will our Heavenly
@@ -218,13 +218,13 @@ export default function Hebrews12() {
           whereof all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all true Believers)</span>
+              <span className="explanation">(all true Believers)</span>
             </span>
           </span>{" "}
           are partakers, then are you bastards, and not sons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many claim to be Believers while continuing in sin, but the
                 Lord never chastises them. Such shows they are illegitimate
                 sons, meaning they are claiming faith on a basis other than the
@@ -252,14 +252,14 @@ export default function Hebrews12() {
           reverence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(earthly parents)</span>
+              <span className="explanation">(earthly parents)</span>
             </span>
           </span>
           : shall we not much rather be in subjection unto the Father of
           Spirits, and live?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Father of Spirits is contrasted to fathers of the flesh. The
                 latter concerns our earthly parents. Their relation to us is
                 limited. His is universal and eternal.)
@@ -280,7 +280,7 @@ export default function Hebrews12() {
           after their own pleasure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the use of the word pleasure indicates that the chastening may
                 or may not have been proper, as it regards our earthly parents)
               </span>
@@ -295,7 +295,7 @@ export default function Hebrews12() {
           profit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the difference between human liability of error and
                 the perfect knowledge of our Heavenly Father; He seeks our
                 profit, and cannot err in the means He employs)
@@ -311,7 +311,7 @@ export default function Hebrews12() {
           might be partakers of His Holiness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the objective of the chastening and correction of
                 God.)
               </span>
@@ -325,7 +325,7 @@ export default function Hebrews12() {
           seems to be joyous, but grievous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that the trials we are at times exposed to do
                 not give joy at that moment, and are often hard indeed to bear)
               </span>
@@ -335,7 +335,7 @@ export default function Hebrews12() {
           Righteousness unto them which are exercised thereby.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this is carried out by the Holy Spirit for a specific
                 purpose [
                 <ScrollLink href="/john-15" scrollToId="#filepos12618943">
@@ -360,13 +360,13 @@ export default function Hebrews12() {
           hang down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stop being discouraged)</span>
+              <span className="explanation">(stop being discouraged)</span>
             </span>
           </span>
           , and the feeble knees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the knees, which speak of our walk and direction, are feeble
                 because of discouragement)
               </span>
@@ -381,7 +381,7 @@ export default function Hebrews12() {
           feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the right path, which the chastisement designed by
                 the Lord desires to bring about)
               </span>
@@ -390,7 +390,7 @@ export default function Hebrews12() {
           , lest that which is lame be turned out of the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be spiritually lame, which refers to our Faith being in
                 something other than the Cross)
               </span>
@@ -399,7 +399,7 @@ export default function Hebrews12() {
           ; but let it rather be healed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which will be done when the Believers Faith is once again
                 anchored in the Cross)
               </span>
@@ -419,7 +419,7 @@ export default function Hebrews12() {
           and Holiness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every effort must be made to live peacefully with all men, but
                 not at the expense of Holiness, i.e., the compromising of the
                 Word)
@@ -429,7 +429,7 @@ export default function Hebrews12() {
           , without which no man shall see the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Holiness cannot be brought about by Law; it can only be brought
                 about by Grace, which is made possible by the Cross)
               </span>
@@ -444,7 +444,7 @@ export default function Hebrews12() {
           of the Grace of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we frustrate the Grace of God, and can even fall from Grace, if
                 we function outside the Cross [
                 <ScrollLink href="/galatians-2" scrollToId="#filepos13933223">
@@ -472,7 +472,7 @@ export default function Hebrews12() {
               <span className="calibre_19">you</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to try to live for God outside of His prescribed order, which
                 is the Cross, will bring nothing but failure, thereby, providing
                 fertile ground for roots of bitterness),
@@ -482,7 +482,7 @@ export default function Hebrews12() {
           and thereby many be defiled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of works of the flesh [
                 <ScrollLink href="/galatians-5" scrollToId="#filepos13977016">
                   <span className="calibre_19">
@@ -509,7 +509,7 @@ export default function Hebrews12() {
           any fornicator, or profane person, as Esau{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was profane because he rejected Gods Way, i.e., the Cross,
                 and which results are inevitable)
               </span>
@@ -518,7 +518,7 @@ export default function Hebrews12() {
           , who for one morsel of meat sold his birthright.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was in the Family of God, but was not of the Family of God,
                 which characterizes untold millions presently.)
               </span>
@@ -532,7 +532,7 @@ export default function Hebrews12() {
           when he would have inherited the Blessing, he was rejected{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Esau, as millions, desiring the Blessing without the
                 Blesser)
               </span>
@@ -541,13 +541,13 @@ export default function Hebrews12() {
           : for he found no place of repentance, though he sought it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Blessing)</span>
+              <span className="explanation">(the Blessing)</span>
             </span>
           </span>{" "}
           carefully with tears.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He wanted the Blessing, but did not want to repent of placing
                 his Faith in things other than Christ.)
               </span>
@@ -561,7 +561,7 @@ export default function Hebrews12() {
           that might be touched{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, is saying to these Christian Jews, you had better
                 carefully consider the Law you are proposing once again to
                 embrace)
@@ -572,7 +572,7 @@ export default function Hebrews12() {
           tempest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is that we can face God respecting His Law according
                 to the symbols given here, or we can face Him through the Blood
                 of His Son and our Saviour, the Lord Jesus Christ)
@@ -588,7 +588,7 @@ export default function Hebrews12() {
           voice of words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that which accompanied the giving of the Law on Mt. Sinai [
                 <ScrollLink href="/exodus-20" scrollToId="#filepos970028">
                   <span className="calibre_19">
@@ -611,7 +611,7 @@ export default function Hebrews12() {
           any more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (relates the fact that the Voice of God sounded with such power
                 it could not be stood by the people [
                 <ScrollLink href="/exodus-20" scrollToId="#filepos970028">
@@ -642,14 +642,14 @@ export default function Hebrews12() {
           which was commanded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they feared they would die)</span>
+              <span className="explanation">(they feared they would die)</span>
             </span>
           </span>
           , And if so much as a beast touch the mountain, it shall be stoned, or
           thrust through with a dart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this portrays the Holiness of God)
               </span>
             </span>
@@ -668,7 +668,7 @@ export default function Hebrews12() {
           Moses said, I exceedingly fear and quake:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims in the strongest language possible that no
                 lasting blessing can come to fallen man through the Law.)
               </span>
@@ -682,7 +682,7 @@ export default function Hebrews12() {
           and unto the city of the Living God, the Heavenly Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no one has ever reached this city by Law, but only by Grace)
               </span>
             </span>
@@ -690,7 +690,7 @@ export default function Hebrews12() {
           , and to an in numerable company of Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it refers to countless numbers)
               </span>
             </span>
@@ -704,7 +704,7 @@ export default function Hebrews12() {
           of the Firstborn, which are written in Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to every Born-Again Believer from the time of Abel up
                 to the Second Coming; the price was the Cross!)
               </span>
@@ -713,7 +713,7 @@ export default function Hebrews12() {
           , and to God the Judge of all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God has judged all who are in the Church of the First Born as
                 perfectly justified in His sight)
               </span>
@@ -722,7 +722,7 @@ export default function Hebrews12() {
           , and to the spirits of just men made perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Justification by Faith)</span>
+              <span className="explanation">(Justification by Faith)</span>
             </span>
           </span>
           ,
@@ -734,7 +734,7 @@ export default function Hebrews12() {
           Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which was made possible by the Cross)
               </span>
             </span>
@@ -742,7 +742,7 @@ export default function Hebrews12() {
           , and to the blood of sprinkling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the Mediator of the New Covenant, through the
                 shedding of His Blood; it was typified by the Blood of the Old
                 Covenant with which Moses sprinkled all the people [
@@ -774,7 +774,7 @@ export default function Hebrews12() {
           Abel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Abels animal Sacrifice as recorded in Gen.,
                 Chpt.{" "}
                 <ScrollLink href="/genesis-04" scrollToId="#filepos62716">
@@ -796,7 +796,7 @@ export default function Hebrews12() {
           speaks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers implicitly to Christ and what He did at the Cross.)
               </span>
             </span>
@@ -804,7 +804,7 @@ export default function Hebrews12() {
           For if they escaped not who refused Him Who spoke on earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to God giving the Law on Mt. Sinai)
               </span>
             </span>
@@ -830,7 +830,7 @@ export default function Hebrews12() {
           from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we reject Christ and the Cross, Judgment is sure!)
               </span>
             </span>
@@ -843,7 +843,7 @@ export default function Hebrews12() {
           <sup className="calibre7">26</sup>Whose Voice then shook the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Voice of God at Mt. Sinai was meant to impress upon Israel
                 the solemnity of the moment)
               </span>
@@ -853,7 +853,7 @@ export default function Hebrews12() {
           only, but also Heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This phrase refers to the First Advent of Christ, Whose Death
                 on the Cross shook both Heaven and Earth. His Death, because it
                 atoned for all sin, broke the legal claim of Satan on humanity.)
@@ -870,7 +870,7 @@ export default function Hebrews12() {
               <span className="calibre_19">Word</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Word of the Cross [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -890,7 +890,7 @@ export default function Hebrews12() {
           as of things that are made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Act of God transferring this present universe
                 which is under the curse of Adams sin to a new basis; that new
                 basis being a new and perfect universe, which will ultimately
@@ -901,7 +901,7 @@ export default function Hebrews12() {
           , that those things which cannot be shaken may remain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to all Jesus paid for at the Cross. Only Faith in
                 Christ and the Cross cannot be shaken. It will remain!)
               </span>
@@ -915,7 +915,7 @@ export default function Hebrews12() {
           which cannot be moved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to our entrance into this Kingdom, all made possible by
                 the Cross)
               </span>
@@ -925,7 +925,7 @@ export default function Hebrews12() {
           reverence and Godly fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one can serve God only by the means of Grace, which Source is
                 Christ and which means is the Cross)
               </span>
@@ -945,7 +945,7 @@ export default function Hebrews12() {
           a consuming fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fire of God will consume everything that is not Faith in
                 Christ and the Cross [
                 <ScrollLink

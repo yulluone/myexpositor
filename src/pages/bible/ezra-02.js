@@ -21,7 +21,7 @@ export default function Ezra02() {
           his city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many, if not most, of these had been born in captivity)
               </span>
             </span>
@@ -35,7 +35,7 @@ export default function Ezra02() {
           Nehemiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not the same man who wrote the Book which bears that name)
               </span>
             </span>
@@ -43,7 +43,7 @@ export default function Ezra02() {
           , Seraiah, Reelaiah, Mordecai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (may very well have been the same man of the Book of Esther;
                 actually, he was the cousin of Esther; since some came back who
                 had seen the first Temple [
@@ -415,7 +415,7 @@ export default function Ezra02() {
           children of Tobiah, the children of Nekoda, six hundred fifty and two.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The total number returning from Babylon to Israel was 49,897.
                 This included the servants and the singers, but not all are
                 listed here.)
@@ -441,7 +441,7 @@ export default function Ezra02() {
           those who were reckoned by genealogy, but they were not found{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were not found in the genealogy)
               </span>
             </span>
@@ -449,7 +449,7 @@ export default function Ezra02() {
           : therefore were they, as polluted, put from the Priesthood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some of those who claimed to be descendants of Aaron and,
                 therefore, Priests, had also lost the evidence of their descent;
                 this loss was held to disqualify them from the exercise of the
@@ -465,14 +465,14 @@ export default function Ezra02() {
           <sup className="calibre7">63</sup>And the Tirshatha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Governor)</span>
+              <span className="explanation">(Governor)</span>
             </span>
           </span>{" "}
           said unto them, that they should not eat of the most holy things, till
           there stood up a Priest with Urim and with Thummim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zerubbabels expectation was disappointed; the gift of Urim and
                 Thummim, forfeited by disobedience, was never recovered)
               </span>

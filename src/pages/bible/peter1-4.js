@@ -184,13 +184,13 @@ export default function Peter14() {
           to Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Christ)</span>
+              <span className="explanation">(refers to Christ)</span>
             </span>
           </span>{" "}
           Who is ready to judge the quick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living)</span>
+              <span className="explanation">(living)</span>
             </span>
           </span>{" "}
           and the dead.{" "}
@@ -264,13 +264,13 @@ export default function Peter14() {
           charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           among yourselves: for charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           shall cover the multitude of sins.{" "}
@@ -422,7 +422,7 @@ export default function Peter14() {
           <sup className="calibre7">13</sup>But rejoice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(despite the trial)</span>
+              <span className="explanation">(despite the trial)</span>
             </span>
           </span>
           , inasmuch as you are partakers of Christs sufferings{" "}
@@ -436,7 +436,7 @@ export default function Peter14() {
           ; that, when His Glory shall be revealed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to His Second Coming)</span>
+              <span className="explanation">(refers to His Second Coming)</span>
             </span>
           </span>
           , you may be glad also with exceeding joy.{" "}
@@ -467,7 +467,7 @@ export default function Peter14() {
           for the Spirit of Glory and of God rests upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Holy Spirit)</span>
+              <span className="explanation">(refers to the Holy Spirit)</span>
             </span>
           </span>
           : on their part He is evil spoken of, but on your part He is

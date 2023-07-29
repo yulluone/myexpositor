@@ -351,7 +351,7 @@ export default function Kings110() {
           beaten gold; three pounds of gold went to one shield{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about $20,000 each)</span>
+              <span className="explanation">(about $20,000 each)</span>
             </span>
           </span>
           : and the king put them in the house of the forest of Lebanon{" "}

@@ -238,7 +238,7 @@ export default function Psalm045() {
           within: her clothing is of wrought gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(glorious Israel!)</span>
+              <span className="explanation">(glorious Israel!)</span>
             </span>
           </span>
           .

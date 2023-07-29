@@ -42,7 +42,7 @@ export default function Numbers26() {
           <sup className="calibre7">3</sup>And Moses and Eleazar the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(High Priest)</span>
+              <span className="explanation">(High Priest)</span>
             </span>
           </span>{" "}
           spoke with them in the plains of Moab by Jordan near Jericho, saying,
@@ -98,7 +98,7 @@ export default function Numbers26() {
           <sup className="calibre7">5</sup>Reuben, the oldest son of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>
           : the Children of Reuben; Hanoch, of whom comes the family of the

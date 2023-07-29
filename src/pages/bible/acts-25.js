@@ -16,7 +16,7 @@ export default function Acts25() {
           Province{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him taking the position of Governor at Caesarea)
               </span>
             </span>
@@ -24,7 +24,7 @@ export default function Acts25() {
           , after three days he ascended from Caesarea to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to topography, he ascended; but according to
                 geography, he descended; Jerusalem is about 2,500 feet above sea
                 level, while Caesarea, situated on the coast, is just a few feet
@@ -41,7 +41,7 @@ export default function Acts25() {
           the Jews informed him against Paul, and besought him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they began to besiege Festus with repeated accusations against
                 Paul)
               </span>
@@ -56,7 +56,7 @@ export default function Acts25() {
           he would send for him to Jerusalem, laying wait in the way to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the idea, as thought by some, that this was to be
                 done by the same forty men who had originally made the vow to
                 kill Paul [
@@ -101,7 +101,7 @@ export default function Acts25() {
           and accuse this man, if there be any wickedness in him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, he is saying Paul is a Roman citizen and must be
                 treated as such)
               </span>
@@ -117,7 +117,7 @@ export default function Acts25() {
           sitting on the judgment seat commanded Paul to be brought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this meant the Governor was calling for a new official trial;
                 Festus could do this because Felix had never officially handed
                 down a decision)
@@ -133,7 +133,7 @@ export default function Acts25() {
           came down from Jerusalem stood round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently some Jews from Jerusalem had immediately come to
                 Caesarea in order to testify against Paul)
               </span>
@@ -143,7 +143,7 @@ export default function Acts25() {
           not prove{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (undoubtedly proclaims the same complaints they had registered
                 some two years before; they charged that Paul had indeed
                 violated Roman Law in some manner at which in the next Verse
@@ -161,7 +161,7 @@ export default function Acts25() {
           yet against Caesar, have I offended any thing at all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems they were claiming that Paul had instigated a new
                 religion, which, if true, would have been against Roman Law)
               </span>
@@ -176,7 +176,7 @@ export default function Acts25() {
           pleasure, answered Paul, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Festus feared these Jewish leaders, knowing that if they were
                 willing to bring these types of false charges against Paul, they
                 would not hesitate to do the same against him to Rome)
@@ -187,7 +187,7 @@ export default function Acts25() {
           before me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents the compromise of the Governor.)
               </span>
             </span>
@@ -203,7 +203,7 @@ export default function Acts25() {
           judgment seat, where I ought to be judged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostle seeing through this ploy, knowing that if
                 he went to Jerusalem the Jews would find some way to kill him)
               </span>
@@ -212,7 +212,7 @@ export default function Acts25() {
           : to the Jews have I done no wrong, as you very well know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which is true, and which Paul hammers home, and
                 rightly so!)
               </span>
@@ -227,7 +227,7 @@ export default function Acts25() {
           committed any thing worthy of death, I refuse not to die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, Paul is attempting not so much to save his life, but
                 rather to declare his innocence)
               </span>
@@ -237,7 +237,7 @@ export default function Acts25() {
           may deliver me unto them. I appeal unto Caesar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means it is the Will of God for him to stand before Caesar, not
                 the Jews)
               </span>
@@ -252,7 +252,7 @@ export default function Acts25() {
           with the Council, answered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the legal advisory Council of the Governor, which
                 evidently advised Festus that he acquiesce to Paul because of
                 Roman Law)
@@ -270,7 +270,7 @@ export default function Acts25() {
           <sup className="calibre7">13</sup>And after certain days king Agrippa{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the second son of Herod Agrippa who is mentioned in{" "}
                 <ScrollLink href="/acts-12" scrollToId="#filepos12973976">
                   <span className="calibre_19">
@@ -286,13 +286,13 @@ export default function Acts25() {
           and Bernice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she was Agrippas sister)</span>
+              <span className="explanation">(she was Agrippas sister)</span>
             </span>
           </span>{" "}
           came unto Caesarea to salute Festus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to pay their respects to the new Governor)
               </span>
             </span>
@@ -306,7 +306,7 @@ export default function Acts25() {
           days, Festus declared Pauls cause unto the king, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Festus thought Herod had a better understanding of Jewish Law
                 than he did, which was true)
               </span>
@@ -315,7 +315,7 @@ export default function Acts25() {
           , There is a certain man left in bonds by Felix{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of Paul)</span>
+              <span className="explanation">(speaks of Paul)</span>
             </span>
           </span>
           :
@@ -339,7 +339,7 @@ export default function Acts25() {
           judgment against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the Jews did not really want another trial for Paul,
                 but rather that Festus accept their accusations at face value
                 and pronounce the death sentence on Paul without any further
@@ -357,7 +357,7 @@ export default function Acts25() {
           is accused have the accusers face to face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents this heathen as having a better sense of justice than
                 the Religious Jews who, of all people, should have known better)
               </span>
@@ -367,7 +367,7 @@ export default function Acts25() {
           against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the justice of the heathen Government of Rome, with
                 Israel, who was supposed to be Gods chosen, having no justice
                 whatsoever)
@@ -383,7 +383,7 @@ export default function Acts25() {
           hither, without any delay on the morrow I sat on the judgment seat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims, as is obvious, the recounting of this episode to
                 King Agrippa by Festus)
               </span>
@@ -398,7 +398,7 @@ export default function Acts25() {
           up, they brought none accusation of such things as I supposed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he really didnt understand their accusations)
               </span>
             </span>
@@ -412,7 +412,7 @@ export default function Acts25() {
           him of their own superstition{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was actually saying, against him of their own religion)
               </span>
             </span>
@@ -420,7 +420,7 @@ export default function Acts25() {
           , and of One Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shows that Paul, in his defense, readily preached Jesus to the
                 Governor and these Jewish Leaders; in this account as given by
                 Luke, we only have a capsule sketch)
@@ -430,7 +430,7 @@ export default function Acts25() {
           , which was dead, Whom Paul affirmed to be alive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Resurrection which, in its manner, was the most
                 astounding Miracle the world had ever known; Jesus had been
                 Crucified; the Roman records could show this, and Festus could
@@ -448,7 +448,7 @@ export default function Acts25() {
           of questions{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was at a loss as to how to decide such questions)
               </span>
             </span>
@@ -469,7 +469,7 @@ export default function Acts25() {
           reserved unto the hearing of Augustus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nero)</span>
+              <span className="explanation">(Nero)</span>
             </span>
           </span>
           , I commanded him to be kept till I might send him to Caesar.
@@ -481,7 +481,7 @@ export default function Acts25() {
           would also hear the man myself. To morrow, said he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Festus)</span>
+              <span className="explanation">(Festus)</span>
             </span>
           </span>
           , you shall hear him.
@@ -494,7 +494,7 @@ export default function Acts25() {
           hearing, with the Chief Captains, and principal men of the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the King and his sister took this opportunity to let the city
                 of Caesarea see their glory)
               </span>
@@ -503,7 +503,7 @@ export default function Acts25() {
           , at Festus commandment Paul was brought forth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is suggested that Luke was in attendance this particular day
                 as well, and was a witness of all the proceedings)
               </span>
@@ -539,7 +539,7 @@ export default function Acts25() {
           write unto my lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again refers to Nero; the Governor is complaining that he
                 is going to send a man to Caesar for a trial, but he has no idea
                 what to tell the Emperor he has done)
@@ -551,7 +551,7 @@ export default function Acts25() {
           somewhat to write{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he hopes the King, being a Jew, might be able to define the
                 charges a little better)
               </span>
@@ -572,7 +572,7 @@ export default function Acts25() {
           against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Roman world found no fault in Paul, even as Pilate found no
                 fault in Jesus; but the world of religion did, as the world of
                 religion always does!)

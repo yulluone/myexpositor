@@ -17,7 +17,7 @@ export default function Ezekiel24() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again in the ninth year, in the tenth month, in the tenth day
                 of the month, refers to the very day that Nebuchadnezzar came
                 against Jerusalem to destroy it completely. The siege lasted
@@ -35,7 +35,7 @@ export default function Ezekiel24() {
           Jerusalem this same day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For some 38 years, Jeremiah had been prophesying of this time,
                 and Ezekiel about 4 years. Tragically, even with Nebuchadnezzar
                 at their door, and no one allowed to go in or come out of the
@@ -55,7 +55,7 @@ export default function Ezekiel24() {
           pot, set it on, and also pour water into it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jerusalem was the pot, and the fire under it represented the
                 Babylonians, who were besieging the city)
               </span>
@@ -71,7 +71,7 @@ export default function Ezekiel24() {
           choice bones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The expressions, every good piece and choice bones, represented
                 the Nobles and chief men of the people. The intent of the
                 statement is that these would suffer the same fate as the common
@@ -88,7 +88,7 @@ export default function Ezekiel24() {
           seethe the bones of it therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And make it boil well, refers to the agony of this time not
                 being short, but instead protracted and exceedingly painful.)
               </span>
@@ -104,7 +104,7 @@ export default function Ezekiel24() {
           upon it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And whose scum is not gone out of it, refers to the
                 entirety of the pot being scum, which is how the Lord
                 characterized Jerusalem.)
@@ -120,7 +120,7 @@ export default function Ezekiel24() {
           to cover it with dust{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this refers to the Law as commanded in{" "}
                 <ScrollLink href="/leviticus-17" scrollToId="#filepos1522943">
                   <span className="calibre_19">
@@ -146,7 +146,7 @@ export default function Ezekiel24() {
           it should not be covered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I have set her blood upon the top of a rock, that it should not
                 be covered, in its simplest form means that if they would not
                 allow Christ to cover their sins, their sins and the resultant
@@ -162,7 +162,7 @@ export default function Ezekiel24() {
           to the bloody city! I will even make the pile for fire great.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, and about Jerusalem, we have the words which Nahum
                 had used of Nineveh because of its terrible cruelty.)
               </span>
@@ -176,7 +176,7 @@ export default function Ezekiel24() {
           consume the flesh, and spice it well, and let the bones be burned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse expresses the severity of the Judgment that has
                 already begun.)
               </span>
@@ -192,7 +192,7 @@ export default function Ezekiel24() {
           consumed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Scum pictures idolatry, as the people had become like that
                 which they worshipped; they were, therefore, to be consumed.)
               </span>
@@ -207,7 +207,7 @@ export default function Ezekiel24() {
           fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (She has wearied herself with lies, refers to all that which was
                 not the Word of God. Jerusalem chose to believe the lie instead
                 of believing the truth.)
@@ -224,7 +224,7 @@ export default function Ezekiel24() {
           rest upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Filthiness must be purged by Calvary, or else it will be purged
                 by Judgment, but purged it shall be!)
               </span>
@@ -240,7 +240,7 @@ export default function Ezekiel24() {
           your doings, shall they judge you, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The gist of this Verse is that Judah had gone so far down the
                 road of wickedness that even Repentance would not spare the
                 nation, although it would save their souls.)
@@ -267,7 +267,7 @@ export default function Ezekiel24() {
           nor weep, neither shall your tears run down.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By the words, The desire of your eyes, we know that the
                 relationship of this husband and wife was very close. His love
                 for her was excelled only by his love for God. The death of the
@@ -284,7 +284,7 @@ export default function Ezekiel24() {
           upon your feet, and cover not your lips, and eat not the bread of men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A son of Aaron, as Ezekiel was, was permitted to remove his
                 turban as a sign of grief [
                 <ScrollLink href="/leviticus-10" scrollToId="#filepos1408189">
@@ -324,7 +324,7 @@ export default function Ezekiel24() {
           was commanded.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel, knowing that his wife had but hours left to live, yet
                 obeyed the Lord in conducting a service in the morning. The Text
                 simply says: And at evening my wife died. When she expired, he,
@@ -342,7 +342,7 @@ export default function Ezekiel24() {
           you not tell us what these things are to us, that you do so?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no way that one can know the sorrow that filled
                 Ezekiels heart that eventful night. And yet, his strange
                 demeanor, which the Lord demanded of him, had the effect it was
@@ -358,7 +358,7 @@ export default function Ezekiel24() {
           the LORD came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that the Lord had given Ezekiel little reason as to
                 why his wife was to be taken. But now, almost immediately after
                 her death, the explanation will be given)
@@ -377,7 +377,7 @@ export default function Ezekiel24() {
           by the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiels wife was a symbol of the Temple, the desire of the
                 eyes of Israel. As his wife died, so the Temple would die. And
                 there is no way that one could properly explain what the loss of
@@ -398,7 +398,7 @@ export default function Ezekiel24() {
           shall not cover your lips, nor eat the bread of men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a sign to these hapless Exiles, Ezekiel had not been allowed
                 by the Lord to weep or mourn over the passing of his wife.
                 Likewise, the Exiles were not to weep over the plight of their
@@ -416,7 +416,7 @@ export default function Ezekiel24() {
           another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea, as presented by the Lord, is that national calamity
                 is going to be so severe that personal grief would be swallowed
                 up in that sorrow. As well, the people were to understand that
@@ -433,7 +433,7 @@ export default function Ezekiel24() {
           you shall know that I am the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And when this comes, refers to the destruction of Jerusalem
                 being yet future, but only months away.)
               </span>
@@ -449,7 +449,7 @@ export default function Ezekiel24() {
           minds, their sons and their daughters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when I take from them their strength, refers to the Temple,
                 which will be destroyed, and which is their strength; in fact,
                 they had ceased to understand what the Temple really
@@ -466,7 +466,7 @@ export default function Ezekiel24() {
           shall come unto you, to cause you to hear it with your ears?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that Jeremiah and Ezekiel had prophesied, which the people
                 had refused to believe, now they would hear it with their ears.)
               </span>
@@ -482,7 +482,7 @@ export default function Ezekiel24() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After this message, it seems that the Prophet was to speak no
                 more to his people, but was instead to be dumb until the arrival
                 some months later of the messengers announcing the fall of

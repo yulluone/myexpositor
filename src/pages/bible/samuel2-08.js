@@ -56,7 +56,7 @@ export default function Samuel208() {
           . And so the Moabites became Davids servants, and brought gifts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they paid an annual tribute)</span>
+              <span className="explanation">(they paid an annual tribute)</span>
             </span>
           </span>
         </span>

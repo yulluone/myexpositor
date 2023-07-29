@@ -16,13 +16,13 @@ export default function Psalm020() {
           <sup className="calibre7">1</sup>The LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will)</span>
+              <span className="explanation">(will)</span>
             </span>
           </span>{" "}
           hear you in the day of trouble; the Name of the God of Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will)</span>
+              <span className="explanation">(will)</span>
             </span>
           </span>{" "}
           defend you{" "}
@@ -118,7 +118,7 @@ export default function Psalm020() {
           Anointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>
           ; He will hear Him from His Holy Heaven with the saving strength of

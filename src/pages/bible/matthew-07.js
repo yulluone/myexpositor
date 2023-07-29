@@ -501,7 +501,7 @@ export default function Matthew07() {
           know them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the acid test)</span>
+              <span className="explanation">(the acid test)</span>
             </span>
           </span>
           .

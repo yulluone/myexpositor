@@ -19,7 +19,7 @@ export default function Genesis20() {
           sojourned in Gerar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sin and misery that resulted years before from journeying
                 toward the south country should have taught him never again to
                 move in that direction. But man, as such, never learns nor can
@@ -39,7 +39,7 @@ export default function Genesis20() {
           She is my sister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham once more forsakes the path of Faith; and, in denying
                 his wife, sinks to a depth of moral degradation that is
                 contemptible in the extreme; we find here that an old sin is an
@@ -50,7 +50,7 @@ export default function Genesis20() {
           : and Abimelech king of Gerar sent, and took Sarah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His fall on this occasion was deeper than the prior one; for he
                 now had the Divine Promise that, within that very year, Sarah
                 should become the mother of a miraculous child. So long as the
@@ -69,7 +69,7 @@ export default function Genesis20() {
           woman which you have taken; for she is a mans wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If God had not intervened, Abrahams sin would have been
                 disastrous. If it is to be noticed, Sarah is again referred to
                 by the Holy Spirit as Abrahams wife. The sister thing was
@@ -87,7 +87,7 @@ export default function Genesis20() {
           and he said, LORD, will You slay also a righteous nation?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Philistine Prince, already knowing of the destruction of
                 Sodom and Gomorrah, fears that he and his people are in the same
                 destruction, unless the Lord is pacified quickly.)
@@ -103,7 +103,7 @@ export default function Genesis20() {
           integrity of my heart and innocency of my hands have I done this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the man was innocent; it was Abraham and Sarah who had
                 done wrong)
               </span>
@@ -128,7 +128,7 @@ export default function Genesis20() {
           you, and all who are yours.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these facts reveal the unsparing truth, and make it
                 plain, that Abraham, by natural disposition and character, was
                 cowardly and false. He was only noble when energized by faith.)
@@ -144,7 +144,7 @@ export default function Genesis20() {
           their ears: and the men were sore afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is emphasized in this Chapter that natural goodness and
                 integrity, as in the case of Abimelech, do not necessarily make
                 a man a Child of God and, on the other hand, a temporary moral
@@ -164,7 +164,7 @@ export default function Genesis20() {
           have done deeds unto me that ought not to be done.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is interesting that this heathen king understood the word
                 sin, which means that he had some knowledge of God, which was
                 greatly increased after the dream which he had. On the path of
@@ -181,7 +181,7 @@ export default function Genesis20() {
           What did you see, that caused you to do this thing?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How guilty all of us are in this respect. We as Believers are
                 recipients and projectors of His Light. But how so often what we
                 in fact project is not entirely that which we have received.)
@@ -197,7 +197,7 @@ export default function Genesis20() {
           my wifes sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once the path of faith is abandoned, the judgment of the Child
                 of God becomes faulty)
               </span>
@@ -213,7 +213,7 @@ export default function Genesis20() {
           she became my wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, Abraham dwells on the fact that Sarah is indeed his
                 half-sister, while the Holy Spirit emphasizes the fact of the
                 lady being his wife [
@@ -239,7 +239,7 @@ export default function Genesis20() {
           come, say of me, He is my brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this scheme, formulated by Abraham at the very beginning, was
                 not of God, but rather out of his own mind and, therefore, a
                 work of the flesh, which direction always brings trouble,
@@ -257,7 +257,7 @@ export default function Genesis20() {
           restored him Sarah his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite the wrongdoing on the part of Abraham, the Lord blessed
                 the Patriarch; he does the same with us oftentimes)
               </span>
@@ -272,7 +272,7 @@ export default function Genesis20() {
           is before you: dwell where it pleases you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech had sense enough to realize that the Blessings of God
                 were upon Abraham; consequently, he offers him a place in his
                 land; he no doubt, experienced great Blessings from God because
@@ -289,7 +289,7 @@ export default function Genesis20() {
           have given your brother a thousand pieces of silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by referring to Abraham as her brother, in effect, this heathen
                 prince is telling her, Dont do that again; it doesnt become you)
               </span>
@@ -299,7 +299,7 @@ export default function Genesis20() {
           you, and with all other: thus she was reproved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech, in effect, is saying, If you openly claim Abraham as
                 your husband, this, to be sure, will be protection enough for
                 you and, in fact, for the entirety of your clan. It is sad when
@@ -330,7 +330,7 @@ export default function Genesis20() {
           the wombs of the house of Abimelech, because of Sarah Abrahams wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The closing{" "}
                 <ScrollLink href="/" scrollToId="#filepos268574">
                   <span className="calibre_19">

@@ -17,7 +17,7 @@ export default function Jeremiah17() {
           table of their heart, and upon the horns of your altars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Written with a pen of iron, and with the point of a diamond,
                 signifies that the heart has become so hard that it takes a pen
                 made of iron, with its tip made of diamond, one of the hardest
@@ -47,7 +47,7 @@ export default function Jeremiah17() {
           altars and their groves by the green trees upon the high hills.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The children remembered other children who had been offered as
                 human sacrifice to these horrible and hideous idols. Such would
                 create a horror in the minds of these children, as they wondered
@@ -67,7 +67,7 @@ export default function Jeremiah17() {
           places for sin, throughout all your borders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (O My mountain in the field, refers to Mount Zion, the site of
                 the Temple. Your substance and your treasures refer to the holy
                 utensils, such as the Brazen Altar, the Brazen Laver, and the
@@ -88,7 +88,7 @@ export default function Jeremiah17() {
           kindled a fire in My anger, which shall burn forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will cause you to serve your enemies, refers to being
                 taken to Babylon and serving Nebuchadnezzar. They now revert to
                 the slavery from which they were delivered when they came out of
@@ -132,7 +132,7 @@ export default function Jeremiah17() {
           from the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people of Judah at this time proposed an alliance with the
                 Egyptians as a protection from the Chaldeans. The folly of
                 trusting them and not Jehovah and the wisdom of trusting Jehovah
@@ -175,7 +175,7 @@ export default function Jeremiah17() {
           parched places in the wilderness, in a salt land and not inhabited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The heath is insensible and fruitless. Such is the Christless
                 man insensible of good, fruitless in life, and a stranger to
                 real fellowship. The sense of this Verse is that inasmuch as the
@@ -193,7 +193,7 @@ export default function Jeremiah17() {
           LORD, and whose hope the LORD is.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8386829">
                   <span className="calibre_19">
@@ -219,7 +219,7 @@ export default function Jeremiah17() {
           fruit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To trust in the Lord gives one the Fruit of the Spirit. To
                 trust man is to be cursed by the Lord. The modern Church should
                 note this in her acceptance of humanistic psychology in place of
@@ -235,7 +235,7 @@ export default function Jeremiah17() {
           things, and desperately wicked: who can know it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God knows the hopeless corruption of the natural heart, and so
                 He said to Nicodemus that no one, however cultured and moral,
                 can either see or enter into the Kingdom of God. There must be a
@@ -252,7 +252,7 @@ export default function Jeremiah17() {
           to the fruit of his doings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I the LORD search the heart, refers to the fact that only God
                 knows the heart. I try the reins, refers to the Lord allowing
                 certain particulars to take place, according to the disposition
@@ -280,7 +280,7 @@ export default function Jeremiah17() {
           them in the midst of his days, and at his end shall be a fool.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that whoever trusts in wealth is a
                 fool. To trust man [
                 <ScrollLink href="/" scrollToId="#filepos8386829">
@@ -318,7 +318,7 @@ export default function Jeremiah17() {
           beginning is the place of Our Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos8391824">
                   <span className="calibre_19">
@@ -347,7 +347,7 @@ export default function Jeremiah17() {
           Fountain of Living Waters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Fountain of Life, which ever flows forth, in
                 contrast to the parched places of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8387784">
@@ -369,7 +369,7 @@ export default function Jeremiah17() {
           healed; save me, and I shall be saved: for You are my praise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the Prophet, pleading on behalf of the people as
                 their representative and identifying himself with them, prays
                 that their incurably sick hearts may be healed. How can a wicked
@@ -386,7 +386,7 @@ export default function Jeremiah17() {
           the Word of the LORD? let it come now.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people for whom Jeremiah prayed ridiculed the Divine
                 Judgment which the Prophet announced, and, with skeptical
                 contempt, demanded an immediate demonstration of it.)
@@ -402,7 +402,7 @@ export default function Jeremiah17() {
           You know: that which came out of my lips was right before You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah, like a true Minister of the Gospel, did not in
                 self-will choose to be a Preacher, nor, when bravely and
                 faithfully announcing the coming Day of Judgment, did he desire
@@ -419,7 +419,7 @@ export default function Jeremiah17() {
           hope in the day of evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Be not a terror unto me, refer to the possibility
                 that the Lord could forsake him, as threatened in{" "}
                 <ScrollLink href="/jeremiah-01" scrollToId="#filepos8134416">
@@ -443,7 +443,7 @@ export default function Jeremiah17() {
           double destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah now sees the necessity of such destruction and, in
                 effect, sees as God sees!)
               </span>
@@ -462,7 +462,7 @@ export default function Jeremiah17() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was to be done so that everyone would hear and so no one
                 would be able to say, I did not know)
               </span>
@@ -478,7 +478,7 @@ export default function Jeremiah17() {
           inhabitants of Jerusalem, who enter in by these gates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one can well imagine Jeremiah standing first at one gate and
                 then the next, and possibly holding up a Scroll of the
                 Pentateuch, saying, Hear you the Word of the Lord. His Message,
@@ -497,7 +497,7 @@ export default function Jeremiah17() {
           the gates of Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the people have evidently claimed that they had already
                 repented, or else they needed no repentance. At any rate, one
                 test of professed Repentance was proposed to them, the
@@ -515,7 +515,7 @@ export default function Jeremiah17() {
           you the sabbath day, as I commanded your fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The length of the captivity 70 years was made to correspond
                 with each seventh year, which was supposed to be kept as a
                 Sabbath for the entire year, which they had defiled during the
@@ -549,7 +549,7 @@ export default function Jeremiah17() {
           hear, nor receive instruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All God has ever required is obedience. But made their neck
                 stiff, refers to an unbowing [unbending], which manifests itself
                 in the average sinner of all races in all ages. Nor receive
@@ -568,7 +568,7 @@ export default function Jeremiah17() {
           sabbath day, to do no work therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which means to use the day not only to rest, but to understand
                 that it is God Who has given this for the good of man and,
                 therefore, that He be praised)
@@ -587,7 +587,7 @@ export default function Jeremiah17() {
           forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy was given no doubt several times, and to as many
                 Kings. Sadly, it was rejected! And yet Grace outlined a picture
                 of glory and happiness for them; for God in His longsuffering,
@@ -608,7 +608,7 @@ export default function Jeremiah17() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8399327">
                   <span className="calibre_19">
@@ -649,7 +649,7 @@ export default function Jeremiah17() {
           Jerusalem, and it shall not be quenched.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is Gods Sabbath. To burden that Sabbath with
                 sacerdotalism and its ceremonies and doctrines is to desecrate
                 and destroy it. In other words, under the New Covenant, serving

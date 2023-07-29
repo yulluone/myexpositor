@@ -24,7 +24,7 @@ export default function Ecclesiastes06() {
           eats it: this is vanity, and it is an evil disease.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word common should read heavy, for the misery described in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7120739">
                   <span className="calibre_19">
@@ -80,7 +80,7 @@ export default function Ecclesiastes06() {
           that an untimely birth is better than he.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The moral of this is that only God can make life what it ought
                 to be.)
               </span>
@@ -100,7 +100,7 @@ export default function Ecclesiastes06() {
           known any thing: this has more rest than the other.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Three things are said in these two Verses: 1. Man comes in with
                 vanity, which is a result of the Fall; 2. And departs in
                 darkness, that is, if he doesnt know the Lord; and, 3. And his
@@ -117,7 +117,7 @@ export default function Ecclesiastes06() {
           twice told, yet has he seen no good: do not all go to one place?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Passage is that irrespective of the length of
                 life, without God, this will only point to wasted opportunities.
                 He will go to the same place where every Christ-rejecter has
@@ -133,7 +133,7 @@ export default function Ecclesiastes06() {
           mouth, and yet the appetite is not filled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man without God is never satisfied because all that he seeks to
                 obtain cannot satisfy. Only Jesus can satisfy the soul [
                 <ScrollLink href="/john-04" scrollToId="#filepos12349611">
@@ -155,7 +155,7 @@ export default function Ecclesiastes06() {
           fool? what has the poor, who knows to walk before the living?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In both cases, the word advantage should be supplied after the
                 word what. The wise is one who knows the Lord, so his advantage
                 is great, to say the least!)
@@ -171,7 +171,7 @@ export default function Ecclesiastes06() {
           spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The unspiritual heart is never satisfied and is, therefore,
                 ever the victim of the wandering of the desire. He keeps
                 thinking that if such-and-such can be obtained, then
@@ -188,7 +188,7 @@ export default function Ecclesiastes06() {
           him who is mightier than he.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse can be paraphrased: Whatsoever he be, whether rich
                 or poor, his name was given him long ago, and is known to be
                 Adam [a morsel of red dust]. So how can such a one contend with
@@ -204,7 +204,7 @@ export default function Ecclesiastes06() {
           increase vanity, what is man the better?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Irrespective of the fact that man uses many words in
                 disputation with his Maker, such words only increase vanity and
                 fail to better him.)
@@ -220,7 +220,7 @@ export default function Ecclesiastes06() {
           shadow? for who can tell a man what shall be after him under the sun?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord Alone can supply such answers; otherwise, there is no
                 answer.)
               </span>

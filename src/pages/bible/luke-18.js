@@ -59,7 +59,7 @@ export default function Luke18() {
           and she came unto him, saying, Avenge me of my adversary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(do me justice)</span>
+              <span className="explanation">(do me justice)</span>
             </span>
           </span>
           .
@@ -125,7 +125,7 @@ export default function Luke18() {
           , which cry day and night unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(keep on praying)</span>
+              <span className="explanation">(keep on praying)</span>
             </span>
           </span>
           , though He bear long with them?{" "}
@@ -174,7 +174,7 @@ export default function Luke18() {
           certain which trusted in themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-righteousness)</span>
+              <span className="explanation">(self-righteousness)</span>
             </span>
           </span>{" "}
           that they were righteous, and despised others{" "}
@@ -351,7 +351,7 @@ export default function Luke18() {
           : for every one who exalts himself shall be abased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rejected)</span>
+              <span className="explanation">(rejected)</span>
             </span>
           </span>
           ; and he who humbles himself shall be exalted{" "}
@@ -625,7 +625,7 @@ export default function Luke18() {
           is easier for a camel to go through a needles eye{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means a literal needle)</span>
+              <span className="explanation">(means a literal needle)</span>
             </span>
           </span>
           , than for a rich man to enter into the Kingdom of God{" "}
@@ -701,7 +701,9 @@ export default function Luke18() {
           or wife, or children, for the Kingdom of Gods sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God will owe no man anything)</span>
+              <span className="explanation">
+                (God will owe no man anything)
+              </span>
             </span>
           </span>
           ,
@@ -712,13 +714,13 @@ export default function Luke18() {
           <sup className="calibre7">30</sup>Who shall not receive manifold more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many times more)</span>
+              <span className="explanation">(many times more)</span>
             </span>
           </span>{" "}
           in this present time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before Heaven)</span>
+              <span className="explanation">(before Heaven)</span>
             </span>
           </span>
           , and in the world to come life everlasting{" "}
@@ -797,13 +799,13 @@ export default function Luke18() {
           and put Him to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Crucifixion)</span>
+              <span className="explanation">(the Crucifixion)</span>
             </span>
           </span>
           : and the third day He shall rise again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Resurrection)</span>
+              <span className="explanation">(His Resurrection)</span>
             </span>
           </span>
           .
@@ -945,7 +947,7 @@ export default function Luke18() {
           : but he cried so much the more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he doubled his efforts)</span>
+              <span className="explanation">(he doubled his efforts)</span>
             </span>
           </span>
           ,{" "}
@@ -970,7 +972,7 @@ export default function Luke18() {
           <sup className="calibre7">40</sup>And Jesus stood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stood still)</span>
+              <span className="explanation">(stood still)</span>
             </span>
           </span>
           , and commanded him to be brought unto Him{" "}
@@ -990,7 +992,7 @@ export default function Luke18() {
           do unto you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What a question!)</span>
+              <span className="explanation">(What a question!)</span>
             </span>
           </span>{" "}
           And he said, Lord, that I may receive my sight{" "}

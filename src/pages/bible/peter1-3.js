@@ -40,13 +40,13 @@ export default function Peter13() {
           , they also may without the Word be won by the conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lifestyle)</span>
+              <span className="explanation">(lifestyle)</span>
             </span>
           </span>{" "}
           of the wives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proper Christian behavior)</span>
+              <span className="explanation">(proper Christian behavior)</span>
             </span>
           </span>
           ;
@@ -58,7 +58,7 @@ export default function Peter13() {
           conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Godly behavior)</span>
+              <span className="explanation">(a Godly behavior)</span>
             </span>
             <span>
               <span className="calibre_19">coupled</span>
@@ -154,7 +154,7 @@ export default function Peter13() {
           <sup className="calibre7">5</sup>For after this manner in the old time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Old Testament Times)</span>
+              <span className="explanation">(Old Testament Times)</span>
             </span>
           </span>{" "}
           the Holy women also, who trusted in God{" "}
@@ -300,7 +300,7 @@ export default function Peter13() {
           , love as Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(carries the idea of family)</span>
+              <span className="explanation">(carries the idea of family)</span>
             </span>
           </span>
           ,{" "}
@@ -312,7 +312,7 @@ export default function Peter13() {
           pitiful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tender-hearted)</span>
+              <span className="explanation">(tender-hearted)</span>
             </span>
           </span>
           ,{" "}
@@ -324,7 +324,7 @@ export default function Peter13() {
           courteous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(friendly-minded, kind)</span>
+              <span className="explanation">(friendly-minded, kind)</span>
             </span>
           </span>
           :
@@ -404,7 +404,7 @@ export default function Peter13() {
           <sup className="calibre7">11</sup>Let him eschew evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(turn aside from such)</span>
+              <span className="explanation">(turn aside from such)</span>
             </span>
           </span>
           , and do good{" "}
@@ -582,7 +582,7 @@ export default function Peter13() {
           who falsely accuse your good conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Godly lifestyle)</span>
+              <span className="explanation">(Godly lifestyle)</span>
             </span>
           </span>{" "}
           in Christ.{" "}
@@ -708,7 +708,7 @@ export default function Peter13() {
           and preached{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(announced something)</span>
+              <span className="explanation">(announced something)</span>
             </span>
           </span>{" "}
           unto the spirits in prison{" "}
@@ -747,7 +747,7 @@ export default function Peter13() {
           <sup className="calibre7">20</sup>Which sometime{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in times past)</span>
+              <span className="explanation">(in times past)</span>
             </span>
           </span>{" "}
           were disobedient{" "}
@@ -872,13 +872,13 @@ export default function Peter13() {
           <sup className="calibre7">22</sup>Who{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Christ)</span>
+              <span className="explanation">(Jesus Christ)</span>
             </span>
           </span>{" "}
           is gone into Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Mission is complete)</span>
+              <span className="explanation">(His Mission is complete)</span>
             </span>
           </span>
           , and is on the Right Hand of God{" "}

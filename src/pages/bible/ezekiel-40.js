@@ -20,7 +20,7 @@ export default function Ezekiel40() {
           selfsame day the hand of the LORD was upon me, and brought me thither.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the five and twentieth year of our captivity, concerns
                 itself with the first invasion of Jerusalem by Babylon, which
                 occurred in 605 B.C. During this invasion, the city was partly
@@ -39,7 +39,7 @@ export default function Ezekiel40() {
           which was as the frame of a city on the south.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The events of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9593525">
                   <span className="calibre_19">
@@ -64,7 +64,7 @@ export default function Ezekiel40() {
           stood in the Gate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we compare the descriptions given in{" "}
                 <ScrollLink href="/ezekiel-01" scrollToId="#filepos9029354">
                   <span className="calibre_19">
@@ -122,7 +122,7 @@ export default function Ezekiel40() {
           House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Son of man, behold with your eyes, and hear with your ears,
                 portrays the Truth that all given concerning dimensions,
                 portrayals, and specifications have a Spiritual reference, with
@@ -162,7 +162,7 @@ export default function Ezekiel40() {
           breadth of the building, one reed; and the height, one reed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A reed represents nine feet. It is interesting that the
                 Tabernacle had no wall, nor did the Temple, or at least no wall
                 that was an essential part of the Sacred Structure. Here,
@@ -183,7 +183,7 @@ export default function Ezekiel40() {
           threshold of the Gate, which was one reed broad.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the construction of these three Places of Worship, nothing
                 is left to mans taste or imagination. Everything, even in the
                 matter of measurements, was commanded by God, and, as stated,
@@ -243,7 +243,7 @@ export default function Ezekiel40() {
           was one reed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These are actually guard-chambers intended for the Levite
                 sentinels who stood guard over the House. It is not that guards
                 are needed; they are for decorative purposes only! Nevertheless,
@@ -275,7 +275,7 @@ export default function Ezekiel40() {
           of the Gate was inward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the One Who measures; as the Lord of Glory, He is
                 Perfect in His design.)
               </span>
@@ -298,7 +298,7 @@ export default function Ezekiel40() {
           cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the Eastern Gate to the Temple; it is nearly twenty
                 feet high.)
               </span>
@@ -314,7 +314,7 @@ export default function Ezekiel40() {
           six cubits on that side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This area or space immediately before the little Chambers most
                 likely was to enable the guardsman, by stepping beyond his cell,
                 to observe the happenings in the Gate without interrupting those
@@ -334,7 +334,7 @@ export default function Ezekiel40() {
           five and twenty cubits, door against door.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Guard Chambers are scrutinized this closely, as to
                 measurement and direction, then the significance should not be
                 lost upon us. To guard our mind, which is the doorway to our
@@ -418,7 +418,7 @@ export default function Ezekiel40() {
           cubits, even unto the post of the Court round about the Gate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These posts are ninety feet high, and are different than the
                 little short posts mentioned in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9600456">
@@ -452,7 +452,7 @@ export default function Ezekiel40() {
           cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fifty cubits are seventy-five feet. This comprised the
                 whole length of the Eastern Gate, from the outer entrance to the
                 inner exit.)
@@ -469,7 +469,7 @@ export default function Ezekiel40() {
           each post were palm trees.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Similar windows existed in the Temple of Solomon [
                 <ScrollLink href="/kings1-06" scrollToId="#filepos3754935">
                   <span className="calibre_19">
@@ -509,7 +509,7 @@ export default function Ezekiel40() {
           without, an hundred cubits eastward and northward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Hebrew word for pavement suggests ornamental pavement. The
                 pavement of the Outer Court was called the lower pavement to
                 distinguish it from that laid in the Inner Court, which stood at
@@ -546,7 +546,7 @@ export default function Ezekiel40() {
           arches thereof were before them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There will be no West Gate, for the Messiah, when seated on His
                 Throne within the Temple, will face the East; the worshippers
                 will enter by the North and South Gates and stand before Him;
@@ -576,7 +576,7 @@ export default function Ezekiel40() {
           measured from Gate to Gate an hundred cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The distance is identical from the north, east, and south: 150
                 feet.)
               </span>
@@ -608,7 +608,7 @@ export default function Ezekiel40() {
           one on this side, and another on that side, upon the posts thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All three Gates, east, north, and south, have seven steps
                 leading up from the outside of the outer wall. Actually, the
                 design of the Temple area is very simple, forming a square, with
@@ -663,7 +663,7 @@ export default function Ezekiel40() {
           going up to it had eight steps.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There were eight steps that led to the South Inner Gate,
                 whereas there were seven that led to the North Outer Gate. Gods
                 Number, which is seven, cannot be improved upon, and is not
@@ -869,7 +869,7 @@ export default function Ezekiel40() {
           side, and on that side: and the going up to it had eight steps.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The same minute specifications are again repeated, as if to
                 show that all parts in this Divinely-fashioned edifice are of
                 equal moment and, therefore, symbolize Christ.)
@@ -885,7 +885,7 @@ export default function Ezekiel40() {
           Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sacrifices included the Whole Burnt Offering, which spoke
                 of Christ giving His all.)
               </span>
@@ -933,7 +933,7 @@ export default function Ezekiel40() {
           offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Actually, three types of Offerings would be offered here, the
                 Burnt Offering, the Sin Offering, and Trespass Offering. There
                 were twelve tables in all, eight on which the Sacrifices were
@@ -993,7 +993,7 @@ export default function Ezekiel40() {
           side of the east Gate having the prospect toward the north.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The singers, whose worship will accompany the Sacrifices,
                 portray the Truth that the great price paid at Calvary brought
                 eternal joy to the human heart, and is ever to be expressed
@@ -1025,7 +1025,7 @@ export default function Ezekiel40() {
           the charge of the house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The indication is that this Chamber is exclusively for the
                 Priests.)
               </span>
@@ -1041,7 +1041,7 @@ export default function Ezekiel40() {
           near to the LORD to minister unto Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two Chambers mentioned in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9618337">
                   <span className="calibre_19">
@@ -1083,7 +1083,7 @@ export default function Ezekiel40() {
           that was before the House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cubit was about 18 inches long. The Great Altar was
                 situated in the very center of the four squares, and is 18 feet
                 square. The Revelation of all of this testifies to the interest
@@ -1121,7 +1121,7 @@ export default function Ezekiel40() {
           on this side, and another on that side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Most Holy Place, specified in{" "}
                 <ScrollLink href="/ezekiel-41" scrollToId="#filepos9624774">
                   <span className="calibre_19">

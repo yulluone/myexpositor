@@ -16,13 +16,13 @@ export default function Judges15() {
           after, in the time of wheat harvest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(late May or early June)</span>
+              <span className="explanation">(late May or early June)</span>
             </span>
           </span>
           , that Samson visited his wife with a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a small lamb)</span>
+              <span className="explanation">(a small lamb)</span>
             </span>
           </span>
           ; and he said, I will go in to my wife into the chamber. But her
@@ -83,14 +83,14 @@ export default function Judges15() {
           fire, he let them go into the standing corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wheat)</span>
+              <span className="explanation">(wheat)</span>
             </span>
           </span>{" "}
           of the Philistines, and burnt up both the shocks, and also the
           standing corn, with the vineyards and olives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(considerable damage!)</span>
+              <span className="explanation">(considerable damage!)</span>
             </span>
           </span>
         </span>
@@ -288,7 +288,7 @@ export default function Judges15() {
           <sup className="calibre7">15</sup>And he found a new jawbone of an ass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the skeleton)</span>
+              <span className="explanation">(the skeleton)</span>
             </span>
           </span>
           , and put forth his hand, and took it, and killed a thousand men
@@ -335,7 +335,7 @@ export default function Judges15() {
           thousand men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a song of sorts)</span>
+              <span className="explanation">(a song of sorts)</span>
             </span>
           </span>
         </span>
@@ -381,7 +381,7 @@ export default function Judges15() {
           <sup className="calibre7">19</sup>But God clave an hollow place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(possibly even in a rock)</span>
+              <span className="explanation">(possibly even in a rock)</span>
             </span>
           </span>{" "}
           that was in the jaw{" "}

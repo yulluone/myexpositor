@@ -19,7 +19,7 @@ export default function Genesis38() {
           Adullamite, whose name was Hirah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is a parenthesis introduced here as an actual
                 picture of the sin, darkness, corruption, and self-will of
                 Josephs brethren during the whole period of his absence from
@@ -38,7 +38,7 @@ export default function Genesis38() {
           unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah marrying a Canaanite sinned with his eyes open, for he
                 must have known the Will of God in that matter [
                 <ScrollLink href="/genesis-24" scrollToId="#filepos308840">
@@ -98,7 +98,7 @@ export default function Genesis38() {
           him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Chronologically, it is believed by some that{" "}
                 <ScrollLink href="/" scrollToId="#filepos512033">
                   <span className="calibre_19">
@@ -127,7 +127,7 @@ export default function Genesis38() {
           firstborn, whose name was Tamar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is also placed here in order to show the
                 connection between Christ and His predecessor, Judah.{" "}
                 <ScrollLink href="/genesis-01" scrollToId="#filepos10813">
@@ -154,7 +154,7 @@ export default function Genesis38() {
           in the sight of the LORD, and the LORD killed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as to how this happened, we arent told; it probably
                 means that he became grossly involved in Canaanite idolatry)
               </span>
@@ -175,14 +175,14 @@ export default function Genesis38() {
           not be his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he didnt want it to be his)</span>
+              <span className="explanation">(he didnt want it to be his)</span>
             </span>
           </span>
           ; and it came to pass, when he went in unto his brothers wife, that he
           spilled it on the ground, lest that he should give seed to his brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah demanded this in order that the lineage would continue;
                 however, Onan, in essence, was saying by his actions that he
                 cared nothing about a Redeemer coming into the world; he didnt
@@ -200,7 +200,7 @@ export default function Genesis38() {
           displeased the LORD: wherefore He killed him also.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again, in what manner the Lord did this, we arent told. The
                 major reason all of this was so grievous in the sight of the
                 Lord was because it had to do with the lineage of the coming
@@ -243,7 +243,7 @@ export default function Genesis38() {
           Shelah was grown, and she was not given unto him to wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It does not follow that Judah blamed Tamar for the deaths of
                 his two sons; however, the loss of these two in succession must
                 have frightened him, for he made no move to give his third son,
@@ -267,7 +267,7 @@ export default function Genesis38() {
           me, that you may come in unto me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The conduct of Tamar, though in every way reprehensible, is not
                 to be attributed to mere lust, or inordinate desire for
                 children, but was most probably to assert her right to a place
@@ -288,13 +288,13 @@ export default function Genesis38() {
           from the flock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a baby lamb)</span>
+              <span className="explanation">(a baby lamb)</span>
             </span>
           </span>
           . And she said, Will you give me a pledge, till you send it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Something she could hold that was personally his, until she
                 received the animal)
               </span>
@@ -311,7 +311,7 @@ export default function Genesis38() {
           her, and she conceived by him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is what she had planned; the pledge she demanded would
                 incriminate Judah. His problem was lust, while hers was
                 commitment.)
@@ -331,7 +331,7 @@ export default function Genesis38() {
           <sup className="calibre7">20</sup>And Judah sent the kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(baby lamb)</span>
+              <span className="explanation">(baby lamb)</span>
             </span>
           </span>{" "}
           by the hand of his friend the Adullamite, to receive his pledge from
@@ -358,7 +358,7 @@ export default function Genesis38() {
           her, lest we be shamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she had the items of his pledge with her)
               </span>
             </span>
@@ -366,7 +366,7 @@ export default function Genesis38() {
           : behold, I sent this kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(baby lamb)</span>
+              <span className="explanation">(baby lamb)</span>
             </span>
           </span>
           , and you have not found her.
@@ -380,7 +380,7 @@ export default function Genesis38() {
           whoredom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while she was with child, it was not by whoredom; how so quick
                 we are to judge)
               </span>
@@ -389,7 +389,7 @@ export default function Genesis38() {
           . And Judah said, Bring her forth, and let her be burned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah was quick to condemn her, when, in reality, he was just
                 as guilty, even much more so)
               </span>
@@ -413,7 +413,7 @@ export default function Genesis38() {
           to Shelah my son. And he knew her again no more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But still, the sons were his, and Tamar was now an ancestress
                 of the Patriarchal family.)
               </span>
@@ -437,7 +437,7 @@ export default function Genesis38() {
           bound upon his hand a scarlet thread, saying, This came out first.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this had to do with the coming Redeemer.)
               </span>
             </span>
@@ -452,7 +452,7 @@ export default function Genesis38() {
           called Pharez{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this one was in the lineage of Christ, because he was the
                 firstborn)
               </span>
@@ -468,7 +468,7 @@ export default function Genesis38() {
           Zarah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Luther asks why such things were placed in Scripture. He
                 answers: 1. That no one should be self-righteous; 2. That no one
                 should despair. There is forgiveness for all who will humbly

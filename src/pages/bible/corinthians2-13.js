@@ -27,14 +27,14 @@ export default function Corinthians213() {
           I am coming to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a proposed visit)</span>
+              <span className="explanation">(a proposed visit)</span>
             </span>
           </span>
           . In the mouth of two or three witnesses shall every word be
           established{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/deuteronmy-19" scrollToId="#filepos2304032">
                   <span className="calibre_19">
@@ -56,7 +56,7 @@ export default function Corinthians213() {
           as if I were present, the second time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I told you these things on my second visit to you)
               </span>
             </span>
@@ -64,13 +64,15 @@ export default function Corinthians213() {
           ; and being absent now I write to them which heretofore have sinned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he is telling them to repent)</span>
+              <span className="explanation">
+                (he is telling them to repent)
+              </span>
             </span>
           </span>
           , and to all other, that, if I come again, I will not spare{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if his counsel is ignored, which in reality is the Counsel of
                 God, Judgment will come)
               </span>
@@ -85,7 +87,7 @@ export default function Corinthians213() {
           speaking in me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his Apostleship was being questioned)
               </span>
             </span>
@@ -93,7 +95,7 @@ export default function Corinthians213() {
           , which to you-ward is not weak, but is mighty in you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Gospel Paul preached had changed their lives. That was
                 proof enough!)
               </span>
@@ -107,7 +109,7 @@ export default function Corinthians213() {
           weakness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ purposely did not use His Power)
               </span>
             </span>
@@ -115,7 +117,7 @@ export default function Corinthians213() {
           , yet He lived by the Power of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was Resurrected; we have this power at our disposal as well [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13396155">
                   <span className="calibre_19">
@@ -131,7 +133,7 @@ export default function Corinthians213() {
           . For we also are weak in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regarding our personal strength and ability)
               </span>
             </span>
@@ -139,7 +141,7 @@ export default function Corinthians213() {
           , but we shall live with Him by the Power of God toward you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to our everyday life and living, which we do by
                 constant Faith in the Cross. This gives the Holy Spirit latitude
                 to work mightily in our lives.)
@@ -157,7 +159,7 @@ export default function Corinthians213() {
           the Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words, the Faith, refer to Christ and Him Crucified, with
                 the Cross ever being the Object of our Faith)
               </span>
@@ -166,7 +168,7 @@ export default function Corinthians213() {
           ; prove your own selves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Make certain your Faith is actually in the Cross, and not other
                 things.)
               </span>
@@ -175,7 +177,7 @@ export default function Corinthians213() {
           Know you not your own selves, how that Jesus Christ is in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which He can only be by our Faith expressed in His Sacrifice)
               </span>
             </span>
@@ -183,7 +185,7 @@ export default function Corinthians213() {
           , except you be reprobates?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Rejected.)</span>
+              <span className="explanation">(Rejected.)</span>
             </span>
           </span>
         </span>
@@ -194,7 +196,7 @@ export default function Corinthians213() {
           we are not reprobates.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If he was a reprobate, as his skeptics claimed, then they were
                 as well, which of course is preposterous.)
               </span>
@@ -207,7 +209,7 @@ export default function Corinthians213() {
           <sup className="calibre7">7</sup>Now I pray to God that you do no evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is speaking specifically about the Corinthians siding with
                 the opponents who claimed him to be a reprobate)
               </span>
@@ -216,7 +218,7 @@ export default function Corinthians213() {
           ; not that we should appear approved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Apostle is saying he is not interested in whether people
                 approve of him or not, but that he be approved of Christ)
               </span>
@@ -225,7 +227,7 @@ export default function Corinthians213() {
           , but that you should do that which is honest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Corinthians must follow correct Doctrine)
               </span>
             </span>
@@ -233,7 +235,7 @@ export default function Corinthians213() {
           , though we be as reprobates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (irrespective that some may think we are reprobates)
               </span>
             </span>
@@ -247,7 +249,7 @@ export default function Corinthians213() {
           Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will not shade the Truth of the Cross in order to appease some)
               </span>
             </span>
@@ -255,7 +257,7 @@ export default function Corinthians213() {
           , but for the Truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We must stand firm for the Truth.)
               </span>
             </span>
@@ -268,7 +270,7 @@ export default function Corinthians213() {
           and you are strong{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his recognized weakness caused him to depend on the Lord,
                 meaning he trusted in the Cross and was able to impart this
                 knowledge of the Cross to the Corinthians, which made them
@@ -285,7 +287,7 @@ export default function Corinthians213() {
           your perfection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(maturity)</span>
+              <span className="explanation">(maturity)</span>
             </span>
           </span>
           .
@@ -297,7 +299,7 @@ export default function Corinthians213() {
           absent, lest being present I should use sharpness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when he comes to Corinth, he doesnt want to have to use
                 sharpness, believing the problems will have been solved)
               </span>
@@ -307,7 +309,7 @@ export default function Corinthians213() {
           and not to destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If they accept that which the Lord gave him, they would be
                 edified. If not, destruction would be the result.)
               </span>
@@ -324,14 +326,14 @@ export default function Corinthians213() {
           perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mature)</span>
+              <span className="explanation">(mature)</span>
             </span>
           </span>
           , be of good comfort, be of one mind, live in peace; and the God of
           Love and Peace shall be with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this can be done by constant Faith evidenced in the
                 Cross of Christ.)
               </span>
@@ -344,7 +346,7 @@ export default function Corinthians213() {
           <sup className="calibre7">12</sup>Greet one another with an holy kiss{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the custom at that time)</span>
+              <span className="explanation">(the custom at that time)</span>
             </span>
           </span>
           .
@@ -355,13 +357,13 @@ export default function Corinthians213() {
           <sup className="calibre7">13</sup>All the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably those in Philippi)</span>
+              <span className="explanation">(probably those in Philippi)</span>
             </span>
           </span>{" "}
           salute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(greet)</span>
+              <span className="explanation">(greet)</span>
             </span>
           </span>{" "}
           you.
@@ -372,13 +374,13 @@ export default function Corinthians213() {
           <sup className="calibre7">14</sup>The Grace of our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>
           , and the Love of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shown by the fact of the Cross)
               </span>
             </span>
@@ -386,7 +388,7 @@ export default function Corinthians213() {
           , and the Communion of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which we can constantly have by continually exhibiting Faith in
                 the Cross)
               </span>

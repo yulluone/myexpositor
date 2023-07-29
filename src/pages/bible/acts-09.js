@@ -16,7 +16,7 @@ export default function Acts09() {
           threatening and slaughter against the Disciples of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul as the Leader of the persecution against the
                 Early Church)
               </span>
@@ -25,7 +25,7 @@ export default function Acts09() {
           , went unto the High Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it was A.D. 35, Caiaphas was the High Priest; once again, we
                 see the evil of religion)
               </span>
@@ -40,7 +40,7 @@ export default function Acts09() {
           Damascus to the Synagogues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the persecution led by Paul branching out to other
                 cities)
               </span>
@@ -49,7 +49,7 @@ export default function Acts09() {
           , that if he found any of this way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the description of the Early Church [
                 <ScrollLink href="/john-14" scrollToId="#filepos12603646">
                   <span className="calibre_19">
@@ -114,7 +114,7 @@ export default function Acts09() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to them appearing before the Sanhedrin, the same group
                 that Crucified Christ)
               </span>
@@ -129,7 +129,7 @@ export default function Acts09() {
           Damascus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (approximately 175 miles from Jerusalem)
               </span>
             </span>
@@ -137,7 +137,7 @@ export default function Acts09() {
           : and suddenly there shined round about him a light from Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the appearance of Christ in His Glory)
               </span>
             </span>
@@ -150,7 +150,7 @@ export default function Acts09() {
           <sup className="calibre7">4</sup>And he fell to the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that the Power of God knocked him down)
               </span>
             </span>
@@ -159,7 +159,7 @@ export default function Acts09() {
           Me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To touch one who belongs to the Lord in a negative way is to
                 touch the Lord!)
               </span>
@@ -172,7 +172,7 @@ export default function Acts09() {
           <sup className="calibre7">5</sup>And he said, Who are You, Lord?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul uses this in the realm of Deity, not merely as respect as
                 some have claimed.)
               </span>
@@ -181,7 +181,7 @@ export default function Acts09() {
           And the Lord said, I am Jesus Whom you persecute{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Lord using the Name that Paul hated)
               </span>
             </span>
@@ -195,7 +195,7 @@ export default function Acts09() {
           hard for you to kick against the pricks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to sharp goads, which were placed immediately
                 behind the oxen and were attached to the plow; to kick against
                 it, would cause sharp pain)
@@ -210,7 +210,7 @@ export default function Acts09() {
           <sup className="calibre7">6</sup>And he trembling and astonished said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was stupefied and astounded)
               </span>
             </span>
@@ -218,7 +218,7 @@ export default function Acts09() {
           , Lord, what will You have me to do?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This constitutes the moment that Paul was saved.)
               </span>
             </span>
@@ -233,7 +233,7 @@ export default function Acts09() {
           you must do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Plan of God for Paul, which, in effect, would
                 change the world)
               </span>
@@ -248,7 +248,7 @@ export default function Acts09() {
           stood speechless{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were very much aware that something had happened, but they
                 did not know exactly what)
               </span>
@@ -257,7 +257,7 @@ export default function Acts09() {
           , hearing a voice, but seeing no man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but Paul saw the man, and that man was Christ)
               </span>
             </span>
@@ -274,7 +274,7 @@ export default function Acts09() {
           when his eyes were opened, he saw no man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that his eyes had been blinded by the Glory of the
                 Lord)
               </span>
@@ -289,7 +289,7 @@ export default function Acts09() {
           into Damascus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul, the champion of the persecutors, is now led like the
                 blind man he temporarily is)
               </span>
@@ -303,7 +303,7 @@ export default function Acts09() {
           <sup className="calibre7">9</sup>And he was three days without sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks only of the physical sense; in fact, for the very first
                 time he was now able to see)
               </span>
@@ -312,7 +312,7 @@ export default function Acts09() {
           , and neither did eat nor drink{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents him fasting three days and nights)
               </span>
             </span>
@@ -329,7 +329,7 @@ export default function Acts09() {
           Damascus, named Ananias{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word Disciple, as used without exception in the Book of
                 Acts, refers to followers of Christ)
               </span>
@@ -338,7 +338,7 @@ export default function Acts09() {
           ; and to him said the Lord in a vision, Ananias{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he actually saw the Lord, but in Vision form)
               </span>
             </span>
@@ -352,7 +352,7 @@ export default function Acts09() {
           Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims an extensive familiarity with the Lord, far beyond
                 the normal)
               </span>
@@ -372,7 +372,7 @@ export default function Acts09() {
           unto him, Arise, and go into the street which is called Straight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the street, which still exists even after nearly two
                 thousand years)
               </span>
@@ -387,7 +387,7 @@ export default function Acts09() {
           called Saul of Tarsus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (expresses the name of the man who was the most notorious
                 scourge of the followers of Christ in the world of that time)
               </span>
@@ -396,7 +396,7 @@ export default function Acts09() {
           : for, behold, he prays{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul had much to pray about)</span>
+              <span className="explanation">(Paul had much to pray about)</span>
             </span>
           </span>
           ,
@@ -408,7 +408,7 @@ export default function Acts09() {
           Ananias coming in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the second Vision that Paul had in a very short
                 period of time)
               </span>
@@ -429,7 +429,7 @@ export default function Acts09() {
           heard by many of this man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (how empty our fears often are! how ignorant we are of where our
                 chief good lies hid! but God knows; let us trust Him)
               </span>
@@ -438,7 +438,7 @@ export default function Acts09() {
           , how much evil he has done to Your Saints at Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but yet, the Lord has changed this man, and he will become the
                 greatest blessing to the Saints of anyone in history)
               </span>
@@ -453,7 +453,7 @@ export default function Acts09() {
           Chief Priests to bind all who call on Your Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pauls evil intentions had preceded him; but the Lord invaded
                 those intentions, completely changing them)
               </span>
@@ -468,7 +468,7 @@ export default function Acts09() {
           way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents an urgency which demands instant obedience by Ananias)
               </span>
             </span>
@@ -476,14 +476,14 @@ export default function Acts09() {
           : for he is a chosen vessel unto Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it means, Divine Selection)</span>
+              <span className="explanation">(it means, Divine Selection)</span>
             </span>
           </span>
           , to bear My Name before the Gentiles, and Kings, and the Children of
           Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gentiles are placed first; that was Pauls principal calling)
               </span>
             </span>
@@ -497,7 +497,7 @@ export default function Acts09() {
           he must suffer for My Names sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is altogether different from much of the modern Gospel,
                 which, in fact, is no Gospel at all!)
               </span>
@@ -515,7 +515,7 @@ export default function Acts09() {
           entered into the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he obeyed the Command of the Lord)
               </span>
             </span>
@@ -523,13 +523,13 @@ export default function Acts09() {
           ; and putting his hands on him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on Paul)</span>
+              <span className="explanation">(on Paul)</span>
             </span>
           </span>{" "}
           said, Brother Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he addressed Paul in this manner because Paul was already
                 Saved, and had been so for the last three days and nights)
               </span>
@@ -545,7 +545,7 @@ export default function Acts09() {
           you might receive your sight, and be filled with the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proclaims the fact that one is not baptized with the Holy
                 Spirit at conversion, as many teach; in fact, the Baptism with
                 the Holy Spirit is a separate work of Grace, which takes place
@@ -587,7 +587,7 @@ export default function Acts09() {
           arose, and was baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was baptized with water, after he was baptized with the Holy
                 Spirit)
               </span>
@@ -605,7 +605,7 @@ export default function Acts09() {
           was strengthened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him ending his three-day fast)
               </span>
             </span>
@@ -613,7 +613,7 @@ export default function Acts09() {
           . Then was Saul certain days with the Disciples which were at Damascus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably means that Ananias introduced him to these followers
                 of Christ; he had come to arrest them, and now he joins them;
                 what a mighty God we serve!)
@@ -628,13 +628,13 @@ export default function Acts09() {
           <sup className="calibre7">20</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           he preached Christ in the Synagogues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were the very Synagogues to which letters of the High
                 Priest were addressed, empowering Paul to arrest any Jewish
                 Believers who called upon the Name of Jesus)
@@ -644,7 +644,7 @@ export default function Acts09() {
           , that He is the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first time in Acts that Jesus is referred to by this title)
               </span>
             </span>
@@ -665,7 +665,7 @@ export default function Acts09() {
           might bring them bound unto the Chief Priests?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that those in the Synagogues had been expecting him,
                 but not what he is now saying.)
               </span>
@@ -679,7 +679,7 @@ export default function Acts09() {
           strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to his greater understanding of the Word of God as the
                 days wore on; in fact, for the first time, he understands the
                 Word)
@@ -690,7 +690,7 @@ export default function Acts09() {
           is very Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proving from the Word of God that, Jesus, was the Messiah)
               </span>
             </span>
@@ -707,7 +707,7 @@ export default function Acts09() {
           fulfilled, the Jews took counsel to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the persecutor is now persecuted)
               </span>
             </span>
@@ -721,7 +721,7 @@ export default function Acts09() {
           Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Believers informing him of the proposed action of the
                 Jews)
               </span>
@@ -730,7 +730,7 @@ export default function Acts09() {
           . And they watched the gates day and night to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which he was informed of as well; therefore, he will escape by
                 a different route)
               </span>
@@ -744,7 +744,7 @@ export default function Acts09() {
           <sup className="calibre7">25</sup>Then the Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(followers of Christ)</span>
+              <span className="explanation">(followers of Christ)</span>
             </span>
           </span>{" "}
           took him by night, and let{" "}
@@ -764,7 +764,7 @@ export default function Acts09() {
           <sup className="calibre7">26</sup>And when Saul was come to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents his first visit there after his conversion)
               </span>
             </span>
@@ -773,7 +773,7 @@ export default function Acts09() {
           afraid of him, and believed not that he was a Disciple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they thought it was a ploy!)</span>
+              <span className="explanation">(they thought it was a ploy!)</span>
             </span>
           </span>
           .
@@ -784,7 +784,7 @@ export default function Acts09() {
           <sup className="calibre7">27</sup>But Barnabas took him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the same one mentioned in{" "}
                 <ScrollLink href="/acts-04" scrollToId="#filepos12826350">
                   <span className="calibre_19">
@@ -806,7 +806,7 @@ export default function Acts09() {
           to the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually only refers to Peter and James, the Lords brother [
                 <ScrollLink href="/galatians-1" scrollToId="#filepos13920225">
                   <span className="calibre_19">
@@ -822,13 +822,13 @@ export default function Acts09() {
           , and declared unto them how he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           had seen the Lord in the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Vision on the road to Damascus)
               </span>
             </span>
@@ -836,14 +836,14 @@ export default function Acts09() {
           , and that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           had spoken to him, and how he had preached boldly at Damascus in the
           Name of Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Barnabas had heard this report, and now testifies to its
                 veracity)
               </span>
@@ -857,19 +857,19 @@ export default function Acts09() {
           <sup className="calibre7">28</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           was with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Apostles)</span>
+              <span className="explanation">(the Apostles)</span>
             </span>
           </span>{" "}
           coming in and going out at Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to the approximate fifteen days he spent there,
                 most of it with Simon Peter [
                 <ScrollLink href="/galatians-1" scrollToId="#filepos13919824">
@@ -892,7 +892,7 @@ export default function Acts09() {
           the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he did this, as is obvious, in the very center or core of Jesus
                 hate)
               </span>
@@ -901,7 +901,7 @@ export default function Acts09() {
           , and disputed against the Grecians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he disputed with the Grecian Jews, probably preaching in the
                 very Synagogues in which he had heard Stephen, and maybe even
                 had debated him)
@@ -911,7 +911,7 @@ export default function Acts09() {
           : but they went about to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the same spirit now against him that he had presented
                 against Stephen)
               </span>
@@ -931,7 +931,7 @@ export default function Acts09() {
           when the brethren knew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (knew about the efforts to kill him)
               </span>
             </span>
@@ -939,7 +939,7 @@ export default function Acts09() {
           , they brought him down to Caesarea, and sent him forth to Tarsus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of his home; as a result, we hear no more of Paul until{" "}
                 <ScrollLink href="/acts-11" scrollToId="#filepos12970961">
                   <span className="calibre_19">
@@ -961,7 +961,7 @@ export default function Acts09() {
           throughout all Judaea and Galilee and Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the attention of the Jews was diverted at this time from the
                 Believers to other things, thereby giving the Churches rest from
                 persecution, at least for a while)
@@ -971,7 +971,7 @@ export default function Acts09() {
           , and were edified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (without interruption, the Lord now builds His house)
               </span>
             </span>
@@ -980,7 +980,7 @@ export default function Acts09() {
           Spirit, were multiplied{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many people were saved)</span>
+              <span className="explanation">(many people were saved)</span>
             </span>
           </span>
           .
@@ -998,7 +998,7 @@ export default function Acts09() {
               <span className="calibre_19">quarters</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now shifts the attention to this Apostle, and for a reason),
               </span>
             </span>
@@ -1006,7 +1006,7 @@ export default function Acts09() {
           he came down also to the Saints which dwelt at Lydda{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a town about thirty miles west of Jerusalem)
               </span>
             </span>
@@ -1021,7 +1021,7 @@ export default function Acts09() {
           palsy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays, as is obvious, his helplessness)
               </span>
             </span>
@@ -1035,7 +1035,7 @@ export default function Acts09() {
           Jesus Christ makes you whole{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Peter staunchly giving Christ the credit for these
                 Miracles)
               </span>
@@ -1044,7 +1044,7 @@ export default function Acts09() {
           : arise, and make your bed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as a token of his Miraculous Cure)
               </span>
             </span>
@@ -1052,7 +1052,7 @@ export default function Acts09() {
           . And he arose immediately{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was healed instantly, and healed completely)
               </span>
             </span>
@@ -1066,7 +1066,7 @@ export default function Acts09() {
           saw him, and turned to the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word all, as it is given in the original Greek, does not
                 necessarily mean every single person in these areas, but rather
                 to those who saw him, which no doubt numbered many)
@@ -1085,7 +1085,7 @@ export default function Acts09() {
           Disciple named Tabitha, which by interpretation is called Dorcas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was Tabitha in Syrian and Dorcas in the Greek; both names
                 mean a gazelle)
               </span>
@@ -1094,7 +1094,7 @@ export default function Acts09() {
           : this woman was full of good works and almsdeeds which she did{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she was a lady of fine reputation and love for God)
               </span>
             </span>
@@ -1108,7 +1108,7 @@ export default function Acts09() {
           that she was sick, and died{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the days in which Peter was at Lydda; her death was
                 unexpected)
               </span>
@@ -1123,7 +1123,7 @@ export default function Acts09() {
           in an upper chamber{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it means that they laid her out for viewing)
               </span>
             </span>
@@ -1137,13 +1137,13 @@ export default function Acts09() {
           Joppa, and the Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(followers of Christ)</span>
+              <span className="explanation">(followers of Christ)</span>
             </span>
           </span>{" "}
           had heard that Peter was there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that there was a Church in Joppa)
               </span>
             </span>
@@ -1157,7 +1157,7 @@ export default function Acts09() {
           that he would not delay to come to them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that they were expecting a Miracle, irrespective that
                 the woman was dead)
               </span>
@@ -1171,7 +1171,7 @@ export default function Acts09() {
           <sup className="calibre7">39</sup>Then Peter arose and went with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that he was led by the Lord to do so)
               </span>
             </span>
@@ -1181,7 +1181,7 @@ export default function Acts09() {
           which Dorcas made, while she was with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to indicate that Dorcas was a widow as well!)
               </span>
             </span>
@@ -1201,7 +1201,7 @@ export default function Acts09() {
           to the body said, Tabitha, arise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly the same as that said by Jesus when He raised the
                 daughter of Jairus from the dead [
                 <ScrollLink href="/mark-05" scrollToId="#filepos11430424">
@@ -1218,7 +1218,7 @@ export default function Acts09() {
           . And she opened her eyes: and when she saw Peter, she sat up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the first person being raised from the dead in the
                 Early Church)
               </span>
@@ -1238,13 +1238,13 @@ export default function Acts09() {
           hand, and lifted her up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a common courtesy)</span>
+              <span className="explanation">(a common courtesy)</span>
             </span>
           </span>
           , and when he had called the Saints and widows, presented her alive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she is one of few in human history who has actually died, and
                 then come back to tell the story; all who did so were connected
                 with the Lord)
@@ -1260,7 +1260,7 @@ export default function Acts09() {
           Joppa{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one can well imagine the impact this Miracle had)
               </span>
             </span>
@@ -1274,7 +1274,7 @@ export default function Acts09() {
           many days in Joppa with one Simon a tanner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably referred to several months; about eight years had
                 passed now since Pentecost, during which time the Gospel had
                 been preached only to the Jews; that is about to change)

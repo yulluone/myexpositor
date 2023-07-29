@@ -301,7 +301,7 @@ export default function Psalm049() {
           rich, when the glory of his house is increased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this speaks of the wicked)</span>
+              <span className="explanation">(this speaks of the wicked)</span>
             </span>
           </span>
           ;

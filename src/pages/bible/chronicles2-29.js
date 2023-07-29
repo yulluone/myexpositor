@@ -23,7 +23,7 @@ export default function Chronicles229() {
           the sight of the LORD, according to all that David his father had done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David was always used as the yardstick or example; that which
                 is right in the sight of God is all that matters; unfortunately,
                 the Church all too often cares little about what is right in
@@ -44,7 +44,7 @@ export default function Chronicles229() {
           repaired them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Immediately upon becoming king, Hezekiah began to institute
                 reform. He wasted no time! Under his evil father Ahaz, the doors
                 to the House of the Lord had been closed, meaning that this
@@ -79,7 +79,7 @@ export default function Chronicles229() {
           place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word sanctify [or Sanctification] simply means in this case
                 to set apart for the exclusive use of God. In doing this, the
                 filthiness would be carried out of the Holy Place.
@@ -121,7 +121,7 @@ export default function Chronicles229() {
           the LORD, and turned their backs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Repentance alone can reverse this situation; this means turning
                 back to the Cross, for the Cross alone can address sin [
                 <ScrollLink href="/hebrews-10" scrollToId="#filepos14540318">
@@ -144,13 +144,13 @@ export default function Chronicles229() {
           the porch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus is the Door)</span>
+              <span className="explanation">(Jesus is the Door)</span>
             </span>
           </span>
           , and put out the lamps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Golden Lampstand situated in the Holy Place, which typified
                 Christ as the Light of the world)
               </span>
@@ -159,7 +159,7 @@ export default function Chronicles229() {
           , and have not burned Incense{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the Intercession of Christ, all on our behalf)
               </span>
             </span>
@@ -167,7 +167,7 @@ export default function Chronicles229() {
           nor offered Burnt Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typifying the Cross, where the perfection of Christ is given to
                 the believing sinner)
               </span>
@@ -183,7 +183,7 @@ export default function Chronicles229() {
           astonishment, and to hissing, as you see with your eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The judgment was obvious! Because the Temple was symbolic of
                 Christ and the Cross, when Christ and the Cross are forsaken,
                 judgment is inevitable! There can be no other way.)
@@ -199,7 +199,7 @@ export default function Chronicles229() {
           captivity for this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sin puts people in captivity and it kills)
               </span>
             </span>
@@ -214,7 +214,7 @@ export default function Chronicles229() {
           away from us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that Covenant would simply be to obey the Word of God)
               </span>
             </span>
@@ -229,7 +229,7 @@ export default function Chronicles229() {
           you should minister unto Him, and burn Incense{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah is saying these things to the Priests and the Levites)
               </span>
             </span>
@@ -263,7 +263,7 @@ export default function Chronicles229() {
           and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the names of these fourteen Levites have no interest for the
                 historians of this world, but such an interest for the Holy
                 Spirit that they are all set out here, and they have been read
@@ -282,7 +282,7 @@ export default function Chronicles229() {
           the king, by the Words of the LORD, to cleanse the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Words or Commands of the Lord are such as are written in{" "}
                 <ScrollLink href="/exodus-19" scrollToId="#filepos959982">
                   <span className="calibre_19">
@@ -316,7 +316,7 @@ export default function Chronicles229() {
           abroad into the brook Kidron.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Only the Priests could enter the Temple, while the Levites
                 sphere of work and service lay in the courts and round about the
                 Temple.
@@ -356,7 +356,7 @@ export default function Chronicles229() {
           Shewbread Table, with all the vessels thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first thing that happens when Revival begins to take place
                 is that things are cleaned up)
               </span>
@@ -391,7 +391,7 @@ export default function Chronicles229() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After the cleansing of the Temple, which made it serviceable,
                 the first thing that is now done, in essence, is that Judah went
                 back to the Cross. I must believe that the Holy Spirit urged
@@ -420,7 +420,7 @@ export default function Chronicles229() {
           Priests received the blood, and sprinkled it on the Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sprinkling of the blood marked the expiation of sin [
                 <ScrollLink href="/leviticus-04" scrollToId="#filepos1310285">
                   <span className="calibre_19">
@@ -493,7 +493,7 @@ export default function Chronicles229() {
           laid their hands upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the laying of the hands on the head of the animal signified the
                 transferring of the sins of the person offering the Sacrifice
                 and, in this case, the entirety of the people of Judah, to the
@@ -527,7 +527,7 @@ export default function Chronicles229() {
           <sup className="calibre7">24</sup>And the Priests killed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the animals, by slitting their throats)
               </span>
             </span>
@@ -535,13 +535,13 @@ export default function Chronicles229() {
           , and they made reconciliation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Sin Offering)</span>
+              <span className="explanation">(a Sin Offering)</span>
             </span>
           </span>{" "}
           with their blood upon the Altar, to make an Atonement{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a type of what Christ would do at the Cross)
               </span>
             </span>
@@ -550,7 +550,7 @@ export default function Chronicles229() {
           Sin Offering should be made for all Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Burnt Offering typified Christ giving His Perfection to the
                 sinner; the Sin Offering typified the sinner giving his sin to
                 Christ; He gives His Perfection to us; we give our sin to Him)
@@ -568,7 +568,7 @@ export default function Chronicles229() {
           Prophet: for so was the Commandment of the LORD by His Prophets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Music and joy always accompany proper Faith in the Cross,
                 because all sins have been washed away.
               </span>
@@ -618,7 +618,7 @@ export default function Chronicles229() {
           instruments ordained by David king of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Faith is properly placed in Christ and the Cross, worship
                 always follows, as it regards music and singing. Little Cross,
                 little worship! Much Cross, much worship!)
@@ -648,7 +648,7 @@ export default function Chronicles229() {
           words of David, and of Asaph the Seer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Psalms)</span>
+              <span className="explanation">(the Psalms)</span>
             </span>
           </span>
           . And they sang praises with gladness, and they bowed their heads and
@@ -662,7 +662,7 @@ export default function Chronicles229() {
           Sacrifices and Thank Offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Meat Offerings)</span>
+              <span className="explanation">(Meat Offerings)</span>
             </span>
           </span>{" "}
           into the House of the LORD. And the congregation brought in Sacrifices
@@ -684,7 +684,7 @@ export default function Chronicles229() {
           hundred oxen and three thousand sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dedicated to the Lord)</span>
+              <span className="explanation">(dedicated to the Lord)</span>
             </span>
           </span>
         </span>
@@ -696,7 +696,7 @@ export default function Chronicles229() {
           that they could not flay{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prepare properly)</span>
+              <span className="explanation">(prepare properly)</span>
             </span>
           </span>{" "}
           all the Burnt Offerings: wherefore their brethren the Levites did help
@@ -705,7 +705,7 @@ export default function Chronicles229() {
           sanctify themselves than the Priests{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (went about these duties with a greater consecration)
               </span>
             </span>
@@ -720,7 +720,7 @@ export default function Chronicles229() {
           Offerings for every Burnt Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the grape juice poured out on the Altar signified Christ
                 pouring out His Life on the Cross)
               </span>
@@ -736,7 +736,7 @@ export default function Chronicles229() {
           suddenly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/hebrews-04" scrollToId="#filepos14451568">
                   <span className="calibre_19">

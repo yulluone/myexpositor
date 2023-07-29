@@ -58,7 +58,7 @@ export default function Jeremiah41() {
           after he had killed Gedaliah, and no man knew it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no one knew who had done it)</span>
+              <span className="explanation">(no one knew who had done it)</span>
             </span>
           </span>
           ,

@@ -213,19 +213,19 @@ export default function Thessalonians14() {
           <sup className="calibre7">8</sup>But let us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Believers)</span>
+              <span className="explanation">(Believers)</span>
             </span>
           </span>
           , who are of the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who have spiritual light)</span>
+              <span className="explanation">(who have spiritual light)</span>
             </span>
           </span>
           , be sober{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of assurance)</span>
+              <span className="explanation">(speaks of assurance)</span>
             </span>
           </span>
           , putting on the breastplate of Faith and Love{" "}
@@ -418,7 +418,7 @@ export default function Thessalonians14() {
               <span className="calibre_19">men</span>
             </span>
             <span>
-              <span className="calibre_19">(even to our enemies)</span>
+              <span className="explanation">(even to our enemies)</span>
             </span>
           </span>
           .
@@ -607,7 +607,7 @@ export default function Thessalonians14() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(will Sanctify us wholly)</span>
+              <span className="explanation">(will Sanctify us wholly)</span>
             </span>
           </span>
           .

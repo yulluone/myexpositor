@@ -21,7 +21,7 @@ export default function Chronicles120() {
           And Joab smote Rabbah, and destroyed it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter coincides with II Sam., Chpt.{" "}
                 <ScrollLink href="/samuel2-11" scrollToId="#filepos3487495">
                   <span className="calibre_19">
@@ -85,14 +85,14 @@ export default function Chronicles120() {
           king from off his head, and found it to weigh a talent of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 75 pounds)</span>
+              <span className="explanation">(about 75 pounds)</span>
             </span>
           </span>
           , and there were precious stones in it; and it was set upon Davids
           head: and he brought also exceeding much spoil out of the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at Calvary, Jesus defeated Satan, and took the crown from his
                 head; this victory is now ours [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
@@ -116,7 +116,7 @@ export default function Chronicles120() {
           axes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (would have been better translated, appointed them certain
                 tasks, because the Hebrew word for cut is sur, and does not
                 literally mean to cut with something material)
@@ -126,7 +126,7 @@ export default function Chronicles120() {
           . Even so dealt David with all the cities of the children of Ammon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (put them into submission to himself)
               </span>
             </span>
@@ -134,7 +134,7 @@ export default function Chronicles120() {
           . And David and all the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(army)</span>
+              <span className="explanation">(army)</span>
             </span>
           </span>{" "}
           returned to Jerusalem.
@@ -151,7 +151,7 @@ export default function Chronicles120() {
           and they were subdued{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-21" scrollToId="#filepos3624314">
                   <span className="calibre_19">
@@ -174,7 +174,7 @@ export default function Chronicles120() {
           Goliath the Gittite, whose spear staff was like a weavers beam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-21" scrollToId="#filepos3624629">
                   <span className="calibre_19">
@@ -198,7 +198,7 @@ export default function Chronicles120() {
           son of the giant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-21" scrollToId="#filepos3624898">
                   <span className="calibre_19">
@@ -227,7 +227,7 @@ export default function Chronicles120() {
           servants.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In I Sam., Chpt.{" "}
                 <ScrollLink href="/samuel1-17" scrollToId="#filepos3222727">
                   <span className="calibre_19">

@@ -80,13 +80,13 @@ export default function Psalm012() {
           <sup className="calibre7">5</sup>For the oppression of the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>
           , for the sighing of the needy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>
           , now will I arise, says the LORD; I will set him in safety from him

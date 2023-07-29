@@ -42,7 +42,7 @@ export default function Titus2() {
           temperate, sound in Faith, in charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>
           , in patience.{" "}
@@ -95,7 +95,7 @@ export default function Titus2() {
           to be sober{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by their example)</span>
+              <span className="explanation">(by their example)</span>
             </span>
           </span>
           , to love their husbands, to love their children,
@@ -113,7 +113,7 @@ export default function Titus2() {
           husbands, that the Word of God be not blasphemed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not mocked)</span>
+              <span className="explanation">(not mocked)</span>
             </span>
           </span>
           .
@@ -128,7 +128,7 @@ export default function Titus2() {
           minded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(exercise self-control)</span>
+              <span className="explanation">(exercise self-control)</span>
             </span>
           </span>
           .
@@ -183,7 +183,7 @@ export default function Titus2() {
           servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>{" "}
           to be obedient unto their own masters,{" "}
@@ -270,7 +270,9 @@ export default function Titus2() {
           ungodliness and worldly lusts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tells us that it can be done)</span>
+              <span className="explanation">
+                (tells us that it can be done)
+              </span>
             </span>
           </span>
           , we should live soberly, Righteously, and Godly, in this present
@@ -325,7 +327,7 @@ export default function Titus2() {
           <sup className="calibre7">14</sup>Who gave Himself for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on the Cross)</span>
+              <span className="explanation">(on the Cross)</span>
             </span>
           </span>
           , that He might redeem us from all iniquity{" "}

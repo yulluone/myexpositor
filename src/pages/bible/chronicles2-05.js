@@ -19,7 +19,7 @@ export default function Chronicles205() {
           of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon was seven years in building the Temple [
                 <ScrollLink href="/kings1-06" scrollToId="#filepos3768516">
                   <span className="calibre_19">
@@ -52,7 +52,7 @@ export default function Chronicles205() {
           seventh month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Feast of Tabernacles, which convened in October [
                 <ScrollLink href="/leviticus-23" scrollToId="#filepos1604143">
                   <span className="calibre_19">
@@ -77,7 +77,7 @@ export default function Chronicles205() {
           and the Levites took up the Ark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were Priests, who also were Levites, who were the only
                 ones who could carry the Ark; they were Types of Christ, Who
                 Alone is the Door to the Throne of God, of which the Ark was a
@@ -95,7 +95,7 @@ export default function Chronicles205() {
           the Tabernacle, these did the Priests and the Levites bring up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of these holy vessels were by now a little over 600 years
                 old; they, no doubt, were put among the treasures of the House
                 of God in a separate chamber)
@@ -113,7 +113,7 @@ export default function Chronicles205() {
           multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the gold and precious stones in this magnificent Temple
                 could not redeem one precious soul; only the Blood of Jesus
                 could do such; consequently, the thousands of animals
@@ -146,7 +146,7 @@ export default function Chronicles205() {
           Oracle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that it was to be moved no more)
               </span>
             </span>
@@ -154,7 +154,7 @@ export default function Chronicles205() {
           ; but they were not seen without. And there it is unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proves that this section of II Chronicles was written
                 before the destruction of the Temple)
               </span>
@@ -169,14 +169,14 @@ export default function Chronicles205() {
           the two tables{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ten Commandments)</span>
+              <span className="explanation">(Ten Commandments)</span>
             </span>
           </span>{" "}
           which Moses put therein at Horeb, when the LORD made a Covenant with
           the Children of Israel, when they came out of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when Paul, in{" "}
                 <ScrollLink href="/hebrews-09" scrollToId="#filepos14513499">
                   <span className="calibre_19">
@@ -250,7 +250,7 @@ export default function Chronicles205() {
           then the House was filled with a Cloud, even the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Glory and the Power of God)
               </span>
             </span>
@@ -264,7 +264,7 @@ export default function Chronicles205() {
           to minister by reason of the Cloud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that their knees buckled under them, and they fell to
                 the floor, because of the magnitude of the Power of God being
                 manifested)
@@ -274,7 +274,7 @@ export default function Chronicles205() {
           : for the Glory of the LORD had filled the House of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul says that now we are the Temple of God [
                 <ScrollLink
                   href="/corinthians1-03"

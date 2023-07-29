@@ -19,7 +19,7 @@ export default function Daniel02() {
           was troubled, and his sleep broke from him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The second year of this Verse concerns his reign as sole king.
                 Actually, he had reigned as co-regent with his father for
                 several years, in which some or all of the three-year time
@@ -38,7 +38,7 @@ export default function Daniel02() {
           king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The kings action in consulting priests and mediums is one of
                 the many proofs of the accuracy of this history, for in their
                 difficulties unconverted men seek help in every direction other
@@ -64,7 +64,7 @@ export default function Daniel02() {
           we will show the interpretation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Had the dream been told unto them, the interpretation they
                 would have given would have been something made up out of their
                 own minds, and would not have been the true interpretation.)
@@ -81,7 +81,7 @@ export default function Daniel02() {
           pieces, and your houses shall be made a dunghill.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord directed this scenario that Nebuchadnezzar couldnt
                 even remember his dream, much less its meaning.)
               </span>
@@ -97,7 +97,7 @@ export default function Daniel02() {
           thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Nebuchadnezzar had threatened these magicians and
                 astrologers with death upon their lack of ability, now he
                 promises them great riches if they will but only live up to
@@ -121,7 +121,7 @@ export default function Daniel02() {
           gone from me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their answer to him has the very opposite effect than they had
                 hoped.)
               </span>
@@ -138,7 +138,7 @@ export default function Daniel02() {
           interpretation thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king now knows that their silence was due to their
                 inability to answer.)
               </span>
@@ -157,7 +157,7 @@ export default function Daniel02() {
           such things at any magician, or astrologer, or Chaldean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were wrong! There was at least one man who could, but only
                 because he knew the Lord. His name was Daniel.)
               </span>
@@ -172,7 +172,7 @@ export default function Daniel02() {
           except the gods, whose dwelling is not with flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king was wrong in using the word gods. There were no gods,
                 only One God, Jehovah. The king would soon learn about Jehovah!)
               </span>
@@ -190,7 +190,7 @@ export default function Daniel02() {
           Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: he had lost faith, at least to some degree, in his
                 gods, Nebo and Bel, whom his wise men represented.)
               </span>
@@ -224,7 +224,7 @@ export default function Daniel02() {
           made the thing known to Daniel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims Arioch, who is spoken of favorably by the Holy
                 Spirit, seeking to find a way out of this dilemma.)
               </span>
@@ -239,7 +239,7 @@ export default function Daniel02() {
           the interpretation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And that he would show the king the interpretation, shows an
                 assurance on Daniels part that the Lord would reveal such to
                 him. Gods Plan was being brought about exactly as designed by
@@ -263,7 +263,7 @@ export default function Daniel02() {
           should not perish with the rest of the wise men of Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They called a prayer meeting!)
               </span>
             </span>
@@ -279,7 +279,7 @@ export default function Daniel02() {
           Daniel in a night vision. Then Daniel blessed the God of Heaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage means that the same dream that was given to
                 Nebuchadnezzar was now given to Daniel, and no doubt that very
                 night.)
@@ -294,7 +294,7 @@ export default function Daniel02() {
           the Name of God for ever and ever: for wisdom and might are His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this and the following Passages, we are given an account of
                 the total and absolute rulership and control by the Lord of all
                 His Creation)
@@ -311,7 +311,7 @@ export default function Daniel02() {
           wise, and knowledge to them who know understanding{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He changes the times and the seasons, has reference to the
                 successive Empires, as allowed by the Lord and seen by Daniel in
                 the vision of the night)
@@ -328,7 +328,7 @@ export default function Daniel02() {
           him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is not only the God of nature, of providence, and of man,
                 but also of Revelation. He can make known to man what otherwise
                 man could never know. He is the very Source of all light and
@@ -354,7 +354,7 @@ export default function Daniel02() {
           unto us the kings matter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel now particularizes his reasons for praise and
                 thanksgiving. He addresses God as the God of his fathers. He
                 appeals to Him as the Covenant God of Israel, Who had led their
@@ -386,7 +386,7 @@ export default function Daniel02() {
           interpretation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How much that Daniel had revealed unto Arioch, if anything, we
                 arent told.)
               </span>
@@ -409,7 +409,7 @@ export default function Daniel02() {
           the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is a shade of rebuke to the king implied in Daniels
                 answer. He asks this question, no doubt, at the instigation of
                 the Holy Spirit)
@@ -427,7 +427,7 @@ export default function Daniel02() {
           your bed, are these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What shall be in the latter days, is revealing indeed! Those
                 who claim that Daniels Prophecies have no reference to the last
                 days, but instead were fulfilled at the time of Christ,
@@ -445,7 +445,7 @@ export default function Daniel02() {
           and He Who reveals secrets makes known to you what shall come to pass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of Daniels statement is to let the king know that this
                 dream and its interpretation is of tremendous import, hence, the
                 reason for the king being so troubled as to know what it was and
@@ -463,7 +463,7 @@ export default function Daniel02() {
           and that you might know the thoughts of your heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel gave all glory to the Lord! As well, in all of this the
                 Lord took pity on these heathen sages! Such is God, and such is
                 His Mercy!
@@ -493,7 +493,7 @@ export default function Daniel02() {
           you; and the form thereof was terrible.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two words, excellent and terrible, both characterize the
                 history of Gentile powers from the days of Nebuchadnezzar and
                 continuing on to the coming of Christ with His Saints. Excellent
@@ -529,7 +529,7 @@ export default function Daniel02() {
           iron and part of clay.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit outlines the successive kingdoms by a
                 representation of precious metals, iron, and clay.)
               </span>
@@ -544,7 +544,7 @@ export default function Daniel02() {
           iron and clay, and broke them to pieces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Stone is the Lord Jesus Christ, and symbolizes His Second
                 Coming. Without hands, is an expression emphasizing the absence
                 of all human instrumentality and the act of God alone. This
@@ -577,7 +577,7 @@ export default function Daniel02() {
           the image became a great mountain, and filled the whole Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays the Second Coming of the Lord and the destruction
                 of all Gentile powers, meaning that never again will Gentile
                 power hold sway, for that time is forever ended.
@@ -619,7 +619,7 @@ export default function Daniel02() {
           and glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This confirms the statement of Daniel in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9759145">
                   <span className="calibre_19">
@@ -642,7 +642,7 @@ export default function Daniel02() {
           this head of gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This head of gold represented the Babylonian Empire, which was
                 the grandest of all, at least as far as splendor and glory were
                 concerned.)
@@ -664,7 +664,7 @@ export default function Daniel02() {
           shall bear rule over all the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first kingdom [after Babylon] is the Medo-Persian Empire,
                 which would replace the Babylonian Empire, and which would come
                 up in a few years. It would be inferior only in grandness and
@@ -688,7 +688,7 @@ export default function Daniel02() {
           and bruise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This fourth kingdom is the Roman Empire, and is represented by
                 the legs of iron. It would be the strongest of all!)
               </span>
@@ -709,7 +709,7 @@ export default function Daniel02() {
           forasmuch as you saw the iron mixed with miry clay.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All that we have previously studied represents Empires that
                 have come and gone; however, the feet and toes of this statue of
                 iron and clay represent that which is yet to come.)
@@ -725,7 +725,7 @@ export default function Daniel02() {
           and partly broken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse represents the ten-nation confederation, with the
                 toes of the feet symbolic of this confederation, which will
                 greatly oppose Israel in the very near future.)
@@ -741,7 +741,7 @@ export default function Daniel02() {
           shall not cleave one to another, even as iron is not mixed with clay.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their confederation will not succeed, because of the miry clay,
                 which expresses that some of the kingdoms are weak. As stated,
                 this will take place in the near future.)
@@ -763,7 +763,7 @@ export default function Daniel02() {
           in pieces and consume all these kingdoms, and it shall stand for ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is basically the same as{" "}
                 <ScrollLink href="/" scrollToId="#filepos9765091">
                   <span className="calibre_19">
@@ -796,7 +796,7 @@ export default function Daniel02() {
           dream is certain, and the interpretation thereof sure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Inasmuch as the king has seen all of this in his dream, he
                 consequently now has no excuse to continue worshipping his dead
                 idols; he should rather worship the Great God Who has made known
@@ -816,7 +816,7 @@ export default function Daniel02() {
           offer an oblation and sweet odours unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no indication that Daniel accepted this worship.)
               </span>
             </span>
@@ -830,7 +830,7 @@ export default function Daniel02() {
           kings, and a revealer of secrets, seeing you could reveal this secret.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word answered supports the conviction that Daniel refused
                 Divine honors and directed the king away from himself to God. In
                 his statement, Nebuchadnezzar concedes that Jehovah is the
@@ -848,7 +848,7 @@ export default function Daniel02() {
           of Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore, next to the king, Daniel was the most powerful man
                 in the world. He was also looked at as the wisest man in the
                 world, and rightly so!)
@@ -864,7 +864,7 @@ export default function Daniel02() {
           province of Babylon: but Daniel sat in the gate of the king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But Daniel sat in the gate of the king, means he was appointed
                 Prime Minister, the most powerful position in the world of that
                 day other than the king himself. The gate means the door to the

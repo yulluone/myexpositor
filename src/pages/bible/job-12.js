@@ -140,7 +140,9 @@ export default function Job12() {
           mouth taste his meat?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The Lord made them that way.)</span>
+              <span className="explanation">
+                (The Lord made them that way.)
+              </span>
             </span>
           </span>
         </span>

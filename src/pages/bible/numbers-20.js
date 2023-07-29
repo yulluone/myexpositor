@@ -257,7 +257,7 @@ export default function Numbers20() {
           <sup className="calibre7">13</sup>This is the water of Meribah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(strife)</span>
+              <span className="explanation">(strife)</span>
             </span>
           </span>
           ; because the Children of Israel strove with the LORD, and He was
@@ -317,7 +317,7 @@ export default function Numbers20() {
           Egypt, and we have dwelt in Egypt a long time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(215 years)</span>
+              <span className="explanation">(215 years)</span>
             </span>
           </span>
           ; and the Egyptians vexed us, and our fathers{" "}
@@ -339,7 +339,7 @@ export default function Numbers20() {
           border{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(close to your border)</span>
+              <span className="explanation">(close to your border)</span>
             </span>
           </span>
           :

@@ -219,7 +219,7 @@ export default function Leviticus05() {
           <sup className="calibre7">10</sup>And he shall offer the second{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(second Offering)</span>
+              <span className="explanation">(second Offering)</span>
             </span>
           </span>{" "}
           for a Burnt Offering, according to the manner: and the Priest shall
@@ -245,7 +245,7 @@ export default function Leviticus05() {
           his Offering the tenth part of an ephah of fine flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about two double handfuls)</span>
+              <span className="explanation">(about two double handfuls)</span>
             </span>
           </span>{" "}
           for a Sin Offering; he shall put no oil upon it{" "}

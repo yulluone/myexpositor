@@ -16,7 +16,7 @@ export default function Chronicles234() {
           began to reign, and he reigned in Jerusalem one and thirty years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josiah will be one of the most Godly; and yet, Judahs sun is
                 beginning to set)
               </span>
@@ -32,7 +32,7 @@ export default function Chronicles234() {
           declined neither to the right hand, nor to the left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a beautiful statement!)</span>
+              <span className="explanation">(what a beautiful statement!)</span>
             </span>
           </span>
         </span>
@@ -47,13 +47,13 @@ export default function Chronicles234() {
           while he was yet young{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(16 years old)</span>
+              <span className="explanation">(16 years old)</span>
             </span>
           </span>
           , he began to seek after the God of David his father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, he was converted at 16)
               </span>
             </span>
@@ -61,14 +61,14 @@ export default function Chronicles234() {
           : and in the twelfth year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when he was 20 years old)</span>
+              <span className="explanation">(when he was 20 years old)</span>
             </span>
           </span>{" "}
           he began to purge Judah and Jerusalem from the high places, and the
           groves, and the carved images, and the molten images{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit, no doubt, dealt with him greatly and inspired
                 him to carry forth this great work)
               </span>
@@ -83,7 +83,7 @@ export default function Chronicles234() {
           Baalim in his presence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that he personally saw to their destruction)
               </span>
             </span>
@@ -100,7 +100,7 @@ export default function Chronicles234() {
           upon their altars, and cleansed Judah and Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is speaking of the ungodly priests who had burned incense
                 on the altar at Bethel nearly 350 years before. A Prophet, at
                 that time, came out of Judah and cried against the Altar. He
@@ -129,7 +129,7 @@ export default function Chronicles234() {
           mattocks round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he extended this effort even into what had been the northern
                 kingdom)
               </span>
@@ -146,7 +146,7 @@ export default function Chronicles234() {
           returned to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which once again states that he attended to this task
                 personally)
               </span>
@@ -164,13 +164,13 @@ export default function Chronicles234() {
           reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when he was 26 years old)</span>
+              <span className="explanation">(when he was 26 years old)</span>
             </span>
           </span>
           , when he had purged the land, and the House{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Temple)</span>
+              <span className="explanation">(the Temple)</span>
             </span>
           </span>
           , he sent Shaphan the son of Azaliah, and Maaseiah the governor of the
@@ -178,7 +178,7 @@ export default function Chronicles234() {
           the LORD his God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was five or six years after Jeremiah began to prophesy [
                 <ScrollLink href="/jeremiah-02" scrollToId="#filepos8136389">
                   <span className="calibre_19">
@@ -205,7 +205,7 @@ export default function Chronicles234() {
           Judah and Benjamin; and they returned to Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Levites had come back from the area occupied by the Tribes
                 of Manasseh and Ephraim)
               </span>
@@ -229,7 +229,7 @@ export default function Chronicles234() {
           floor the houses which the kings of Judah had destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there had been much negligence of the Temple, and even outright
                 destruction)
               </span>
@@ -247,7 +247,7 @@ export default function Chronicles234() {
           skill of instruments of music{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems from this that the Levites played instruments and sang
                 praises unto the Lord while the work on the Temple was being
                 done)
@@ -265,7 +265,7 @@ export default function Chronicles234() {
           porters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Levites had the general oversight of all the work, and
                 thereby filled the offices mentioned here)
               </span>
@@ -284,7 +284,7 @@ export default function Chronicles234() {
           a Book of the Law of the LORD given by Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was no doubt the original Book of the Pentateuch the one
                 actually personally written by Moses [
                 <ScrollLink href="/kings2-22" scrollToId="#filepos4321911">
@@ -333,7 +333,7 @@ export default function Chronicles234() {
           it before the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(or read a portion of it)</span>
+              <span className="explanation">(or read a portion of it)</span>
             </span>
           </span>
         </span>
@@ -345,7 +345,7 @@ export default function Chronicles234() {
           had heard the words of the Law, that he rent his clothes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The king rent his clothes in grief, because the practice of the
                 nation had diverged so terribly from the ever-to-be-venerated
                 Law. Learning from it how defective his reformation was, he
@@ -384,7 +384,7 @@ export default function Chronicles234() {
           LORD, to do after all that is written in this Book{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words of the Book convicted Josiah)
               </span>
             </span>
@@ -408,7 +408,7 @@ export default function Chronicles234() {
           :) and they spoke to her to that effect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Jeremiah was serving in the office of the Prophet
                 at that time, the Holy Spirit had the High Priest go to a woman,
                 Huldah the Prophetess; in Christ, there is neither male nor
@@ -441,7 +441,7 @@ export default function Chronicles234() {
           the king of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Deut., Chpt.{" "}
                 <ScrollLink href="/deuteronmy-28" scrollToId="#filepos2381116">
                   <span className="calibre_19">
@@ -465,7 +465,7 @@ export default function Chronicles234() {
           poured out upon this place, and shall not be quenched{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Judgment would come in a few years)
               </span>
             </span>
@@ -478,7 +478,7 @@ export default function Chronicles234() {
           <sup className="calibre7">26</sup>And as for the king of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Josiah)</span>
+              <span className="explanation">(Josiah)</span>
             </span>
           </span>
           , who sent you to enquire of the LORD, so shall you say unto him, Thus
@@ -503,7 +503,7 @@ export default function Chronicles234() {
           again.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems from the pronouncement by the Lord against Judah that
                 Josiahs reforms merely delayed the coming judgment. It did not
                 halt it. In effect, the Lord told the monarch that it would not
@@ -531,7 +531,7 @@ export default function Chronicles234() {
           and small{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they gathered in the Court in front of the Temple)
               </span>
             </span>
@@ -540,7 +540,7 @@ export default function Chronicles234() {
           that was found in the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Priests did read [
                 <ScrollLink href="/deuteronmy-31" scrollToId="#filepos2426640">
                   <span className="calibre_19">
@@ -582,7 +582,7 @@ export default function Chronicles234() {
           following the LORD, the God of their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every true revival is always, and without exception, based on
                 the Word of God; the Bible is the only revealed Truth in the
                 world and, in fact, ever has been; there is not a spiritual

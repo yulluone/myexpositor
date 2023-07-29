@@ -15,7 +15,7 @@ export default function Esther05() {
           <sup className="calibre7">1</sup>Now it came to pass on the third day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the third day of the fast)</span>
+              <span className="explanation">(the third day of the fast)</span>
             </span>
           </span>
           , that Esther put on her royal apparel, and stood in the inner court
@@ -24,7 +24,9 @@ export default function Esther05() {
           house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where the king could see her)</span>
+              <span className="explanation">
+                (where the king could see her)
+              </span>
             </span>
           </span>
           .
@@ -38,7 +40,7 @@ export default function Esther05() {
           in his hand. So Esther drew near, and touched the top of the sceptre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was, no doubt, the customary act by which the kings grace
                 was, as it were, accepted and appropriated)
               </span>
@@ -61,7 +63,7 @@ export default function Esther05() {
           that I have prepared for him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Williams says, Esthers intelligence and tact
                 were admirable. Her life and that of her people hung on a
                 thread. She was playing with edged tools, and the slightest
@@ -91,7 +93,7 @@ export default function Esther05() {
           performed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the king sensed that Esther had something more in mind than
                 what was now being done; he knew that she must have a request, a
                 real favor that she wants him to grant; therefore, he repeats
@@ -116,7 +118,7 @@ export default function Esther05() {
           shall prepare for them, and I will do tomorrow as the king has said.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will make known tomorrow my actual request. The repetition of
                 her invitation showed extraordinary wisdom. At the first
                 banquet, the king rightly divined that some important matter lay
@@ -144,7 +146,7 @@ export default function Esther05() {
           against Mordecai{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mordecai showed his utter contempt for Haman by not even
                 acknowledging his presence; such infuriated Haman!)
               </span>
@@ -160,7 +162,7 @@ export default function Esther05() {
           and Zeresh his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was a plot to know what to do with Mordecai; in other words,
                 killing would not be enough; he wanted his death to be a
                 spectacle)
@@ -195,7 +197,7 @@ export default function Esther05() {
           long as I see Mordecai the Jew sitting at the kings gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he will find his wife holds the solution to his problem, or so
                 he thinks!)
               </span>
@@ -210,20 +212,22 @@ export default function Esther05() {
           his friends unto him, Let a gallows be made of fifty cubits high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(75 feet)</span>
+              <span className="explanation">(75 feet)</span>
             </span>
           </span>
           , and tomorrow speak you unto the king that Mordecai may be hanged
           thereon: then go you in merrily with the king unto the banquet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(your problem has been solved)</span>
+              <span className="explanation">
+                (your problem has been solved)
+              </span>
             </span>
           </span>
           . And the thing pleased Haman; and he caused the gallows to be made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was very sure of himself)</span>
+              <span className="explanation">(he was very sure of himself)</span>
             </span>
           </span>
           .

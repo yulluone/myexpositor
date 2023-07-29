@@ -72,7 +72,7 @@ export default function Leviticus14() {
           , and cedar wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of the Cross)</span>
+              <span className="explanation">(a Type of the Cross)</span>
             </span>
           </span>
           , and scarlet{" "}
@@ -330,7 +330,7 @@ export default function Leviticus14() {
           , and upon the thumb of his right hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(now he would do right)</span>
+              <span className="explanation">(now he would do right)</span>
             </span>
           </span>
           , and upon the great toe of his right foot{" "}

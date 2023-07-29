@@ -81,7 +81,7 @@ export default function Samuel110() {
           you three men going up to God to Beth-el, one carrying three kids{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(baby lambs)</span>
+              <span className="explanation">(baby lambs)</span>
             </span>
           </span>
           , and another carrying three loaves of bread, and another carrying a
@@ -511,7 +511,7 @@ export default function Samuel110() {
           <sup className="calibre7">27</sup>But the children of Belial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthless ones)</span>
+              <span className="explanation">(worthless ones)</span>
             </span>
           </span>{" "}
           said, How shall this man save us? And they despised him, and brought

@@ -621,7 +621,7 @@ export default function Revelation18() {
           all in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the merriment has ended)</span>
+              <span className="explanation">(the merriment has ended)</span>
             </span>
           </span>
           ; and no craftsman, of whatsoever craft{" "}

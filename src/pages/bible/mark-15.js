@@ -15,7 +15,7 @@ export default function Mark15() {
           <sup className="calibre7">1</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           in the morning the Chief Priests held a consultation with the Elders
@@ -124,19 +124,19 @@ export default function Mark15() {
           feast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Passover)</span>
+              <span className="explanation">(Passover)</span>
             </span>
           </span>{" "}
           he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pilate)</span>
+              <span className="explanation">(Pilate)</span>
             </span>
           </span>{" "}
           released unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           one prisoner, whomsoever they desired{" "}
@@ -370,7 +370,7 @@ export default function Mark15() {
           ; and they call together the whole band{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they would now mock Him)</span>
+              <span className="explanation">(they would now mock Him)</span>
             </span>
           </span>
           .
@@ -435,7 +435,7 @@ export default function Mark15() {
           knees worshipped Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but in mockery)</span>
+              <span className="explanation">(but in mockery)</span>
             </span>
           </span>
           .
@@ -588,7 +588,7 @@ export default function Mark15() {
           accusation was written over{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(over the Cross)</span>
+              <span className="explanation">(over the Cross)</span>
             </span>
           </span>
           , THE KING OF THE JEWS{" "}
@@ -629,7 +629,7 @@ export default function Mark15() {
           thieves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(robbers)</span>
+              <span className="explanation">(robbers)</span>
             </span>
           </span>
           ; the one on His right hand, and the other on His left.
@@ -745,7 +745,7 @@ export default function Mark15() {
           descend now from the Cross{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said in mockery)</span>
+              <span className="explanation">(said in mockery)</span>
             </span>
           </span>
           , that we may see and believe{" "}
@@ -777,7 +777,7 @@ export default function Mark15() {
           <sup className="calibre7">33</sup>And when the sixth hour was come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(12 noon)</span>
+              <span className="explanation">(12 noon)</span>
             </span>
           </span>
           , there was darkness over the whole land until the ninth hour{" "}
@@ -810,7 +810,7 @@ export default function Mark15() {
           <sup className="calibre7">34</sup>And at the ninth hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3 p.m.)</span>
+              <span className="explanation">(3 p.m.)</span>
             </span>
           </span>{" "}
           Jesus cried with a loud voice{" "}
@@ -932,7 +932,7 @@ export default function Mark15() {
           down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sarcasm!)</span>
+              <span className="explanation">(sarcasm!)</span>
             </span>
           </span>
           .
@@ -1001,7 +1001,7 @@ export default function Mark15() {
           , which stood over against Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(beside Christ)</span>
+              <span className="explanation">(beside Christ)</span>
             </span>
           </span>
           , saw that He so cried out, and gave up the ghost, he said, Truly this
@@ -1048,13 +1048,15 @@ export default function Mark15() {
           followed Him, and ministered unto Him;){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(did what they could to help)</span>
+              <span className="explanation">(did what they could to help)</span>
             </span>
           </span>{" "}
           and many other women which came up with Him unto Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who they were, we arent told)</span>
+              <span className="explanation">
+                (who they were, we arent told)
+              </span>
             </span>
           </span>
           .
@@ -1159,7 +1161,7 @@ export default function Mark15() {
           <sup className="calibre7">44</sup>And Pilate marvelled if He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           were already dead{" "}
@@ -1181,7 +1183,7 @@ export default function Mark15() {
           the centurion, he asked him whether He had been any while dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(how long He had been dead)</span>
+              <span className="explanation">(how long He had been dead)</span>
             </span>
           </span>
           .
@@ -1219,7 +1221,7 @@ export default function Mark15() {
           <sup className="calibre7">46</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joseph)</span>
+              <span className="explanation">(Joseph)</span>
             </span>
           </span>{" "}
           bought fine linen{" "}
@@ -1234,7 +1236,9 @@ export default function Mark15() {
           , and took Him down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(took Him down from the Cross)</span>
+              <span className="explanation">
+                (took Him down from the Cross)
+              </span>
             </span>
           </span>
           , and wrapped Him in the linen, and laid Him in a sepulchre which was

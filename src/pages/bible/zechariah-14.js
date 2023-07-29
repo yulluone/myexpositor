@@ -166,7 +166,7 @@ export default function Zechariah14() {
           fight against those nations, as when He fought in the day of battle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Then is the key word!</span>
+              <span className="explanation">(Then is the key word!</span>
             </span>
           </span>
         </span>

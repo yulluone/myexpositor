@@ -231,7 +231,7 @@ export default function Revelation12() {
           <sup className="calibre7">5</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           brought forth a manchild{" "}

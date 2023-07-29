@@ -17,7 +17,7 @@ export default function Ezra07() {
           <sup className="calibre7">1</sup>Now after these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (over 50 years have passed between the happenings of the
                 previous{" "}
                 <ScrollLink href="/ezra-06" scrollToId="#filepos5077703">
@@ -34,7 +34,7 @@ export default function Ezra07() {
           , in the reign of Artaxerxes king of Persia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was Artaxerxes Longimanus, who is different than the
                 Artaxerxes of{" "}
                 <ScrollLink href="/ezra-04" scrollToId="#filepos5066216">
@@ -75,7 +75,7 @@ export default function Ezra07() {
           Phinehas, the son of Eleazar, the son of Aaron the Chief Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra, as proclaimed here, was a member of the High Priests
                 family, probably a third cousin to the existing High Priest,
                 Eliashib)
@@ -93,7 +93,7 @@ export default function Ezra07() {
           to the hand of the LORD his God upon him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra now comes from Babylon to Jerusalem; he was a student of
                 the Law of Moses, in effect, a Scholar; tradition says he was
                 the president of the Great Synagogue, who settled the question
@@ -113,7 +113,7 @@ export default function Ezra07() {
           seventh year of Artaxerxes the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra came to Jerusalem in 458 B.C.)
               </span>
             </span>
@@ -135,7 +135,7 @@ export default function Ezra07() {
           God upon him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the journey from Babylon to Jerusalem by Ezra and his party
                 took exactly four months, and the Lord was with him)
               </span>
@@ -151,7 +151,7 @@ export default function Ezra07() {
           Statutes and Judgments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to teach Statutes and Judgments is to inculcate both the
                 ceremonial and the moral precepts of the Law; Ezra was a teacher
                 of Righteousness [
@@ -188,7 +188,7 @@ export default function Ezra07() {
           Statutes to Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the letter given by king Artaxerxes to Ezra gave him tremendous
                 latitude regarding government, in fact, guaranteeing the might
                 of the Persian Empire to back him up; actually, Ezra was
@@ -207,7 +207,7 @@ export default function Ezra07() {
           and at such a time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, perfect peace, and at such a time, is meant to
                 proclaim the fact that any obstruction or opposition to this
                 letter which would destroy the peace, would, at the same time,
@@ -235,7 +235,7 @@ export default function Ezra07() {
           Jerusalem, according to the Law of your God which is in your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the latter phrase proclaims the fact that Ezra was not ashamed
                 to stand before the king, Bible in hand, and make known to him
                 the Word of God)
@@ -260,7 +260,7 @@ export default function Ezra07() {
           their God which is in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many Jews at that time did not desire to go back to Jerusalem;
                 still, they gave freely of their means to supplement what was
                 being given by the Persians)
@@ -278,7 +278,7 @@ export default function Ezra07() {
           which is in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the king seemed to have quite a bit of knowledge concerning the
                 manner of worship of the Jews regarding their Sacrifices;
                 evidently, Ezra had witnessed to him in depth)
@@ -295,7 +295,7 @@ export default function Ezra07() {
           gold, that do after the will of your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the confidence vested in Ezra by the Persian king is
                 exceptional, to say the least!)
               </span>
@@ -311,7 +311,7 @@ export default function Ezra07() {
           God of Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these vessels do not appear to be the Sacred Vessels, which had
                 already been taken by Zerubbabel)
               </span>
@@ -342,7 +342,7 @@ export default function Ezra07() {
           and to an hundred baths of oil, and salt without prescribing how much{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the limit as to how much Ezra could take from the
                 treasury of Persia)
               </span>
@@ -359,7 +359,7 @@ export default function Ezra07() {
           and his sons?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This heathen monarch had more fear of God even than most
                 Believers; he was actually afraid not to do all that lay within
                 his power and service toward the Temple and the worship of God.)
@@ -376,7 +376,7 @@ export default function Ezra07() {
           tribute, or custom, upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all persons attached to the Temple service were to be exempt
                 from taxation)
               </span>
@@ -393,7 +393,7 @@ export default function Ezra07() {
           Laws of your God; and teach you them who know them not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra was given the authority to appoint Magistrates and Judges)
               </span>
             </span>
@@ -409,7 +409,7 @@ export default function Ezra07() {
           confiscation of goods, or to imprisonment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, Ezra is given here the authority to act as the head
                 of all civil government of the Jewish people, with power to
                 fine, imprison, banish, or even to put to death offenders, as he
@@ -430,7 +430,7 @@ export default function Ezra07() {
           beautify the House of the LORD which is in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra doesnt credit the king with this largesse, but rather the
                 LORD God)
               </span>
@@ -448,7 +448,7 @@ export default function Ezra07() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there were some leading Jews in Babylon who would go to
                 Jerusalem with Ezra)
               </span>

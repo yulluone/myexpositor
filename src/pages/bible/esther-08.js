@@ -16,7 +16,7 @@ export default function Esther08() {
           give the house of Haman the Jews enemy unto Esther the queen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be sure, it was considerable, because Haman had been one of
                 the richest men in the empire; now it all belongs to Esther, and
                 Haman is dead, all orchestrated by the Lord)
@@ -27,7 +27,7 @@ export default function Esther08() {
           unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(her uncle)</span>
+              <span className="explanation">(her uncle)</span>
             </span>
           </span>
           .
@@ -40,7 +40,7 @@ export default function Esther08() {
           Mordecai over the house of Haman.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the king made Mordecai his Prime Minister. Joseph
                 and Daniel were also Prime Ministers to heathen princes.
               </span>
@@ -81,7 +81,7 @@ export default function Esther08() {
           sceptre toward Esther. So Esther arose, and stood before the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the golden scepter was held out simply to express a readiness
                 to do as Esther desired)
               </span>
@@ -106,7 +106,7 @@ export default function Esther08() {
           destruction of my kindred?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The laws of the Medes and Persians being irrevocable, the king
                 could not recall his decree; but he could issue a fresh one
                 authorizing Esthers people to defend themselves against all who
@@ -129,7 +129,7 @@ export default function Esther08() {
           he laid his hand upon the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mordecai is now included in the kings response)
               </span>
             </span>
@@ -145,7 +145,7 @@ export default function Esther08() {
           kings ring, may no man reverse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, he is saying to Mordecai, Surely you can devise
                 something which will save your people without calling on me to
                 retract my own words, which would break a great principle of
@@ -162,7 +162,7 @@ export default function Esther08() {
           the time in the third month, that is, the month Sivan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(June)</span>
+              <span className="explanation">(June)</span>
             </span>
           </span>
           , on the three and twentieth day thereof; and it was written according
@@ -174,7 +174,7 @@ export default function Esther08() {
           their language{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that copies of the former edict had not been sent
                 especially to the Jews; they had been left to learn their danger
                 indirectly from the people among whom they dwelt; but Mordecai
@@ -192,13 +192,13 @@ export default function Esther08() {
           name, and sealed it with the kings ring, and sent letters by posts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(messengers)</span>
+              <span className="explanation">(messengers)</span>
             </span>
           </span>{" "}
           on horseback, and riders on mules, camels, and young dromedaries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that the older Manuscripts do not contain the words
                 mules, camels, etc., but rather thoroughbred horses exclusively,
                 which no doubt is correct; that would be the fastest mode of
@@ -218,7 +218,7 @@ export default function Esther08() {
           ones and women, and to take the spoil of them for a prey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the earlier edict had given permission to the Jews enemies to
                 kill and to take; the new law, while not forbidding the former,
                 as well gives the Jews the same privilege, and in every respect)
@@ -235,7 +235,7 @@ export default function Esther08() {
           which is the month Adar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the month of March; this was the day designated by the former
                 edict to be carried out; now, on this day, the Jews have been
                 given the freedom to protect themselves; so that day, which was
@@ -260,13 +260,13 @@ export default function Esther08() {
           <sup className="calibre7">14</sup>So the posts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(messengers)</span>
+              <span className="explanation">(messengers)</span>
             </span>
           </span>{" "}
           who rode upon mules and camels went out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated royal studs, in other words, the
                 very fastest horses in the kingdom)
               </span>
@@ -287,7 +287,7 @@ export default function Esther08() {
           the city of Shushan rejoiced and was glad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the capital city had been perplexed at the first, concerning
                 the original edict, they now rejoiced at the second)
               </span>
@@ -310,7 +310,7 @@ export default function Esther08() {
           people of the land became Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proselyte Jews, which means they adopted the Mosaic Law, and
                 thereby the worship of Jehovah as the One True God)
               </span>
@@ -319,7 +319,7 @@ export default function Esther08() {
           ; for the fear of the Jews fell upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of all that had happened!)
               </span>
             </span>

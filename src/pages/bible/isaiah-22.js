@@ -16,7 +16,7 @@ export default function Isaiah22() {
           What ails you now, that you are wholly gone up to the housetops?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The valley of vision is Jerusalem. Just as Babylon, her great
                 rival, is pictured in the prior Chapter as the wilderness of the
                 sea, so Jerusalem is named here the valley of vision. Mans city
@@ -47,7 +47,7 @@ export default function Isaiah22() {
           sword, nor dead in battle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah is revealed in this episode as sincere in his
                 Repentance and Faith; however, his people, as revealed in this
                 Prophecy, were insincere.
@@ -75,7 +75,7 @@ export default function Isaiah22() {
           together, which have fled from far.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse expresses the idea that the people in Jerusalem were
                 benumbed by fear, and were helpless against the great army of
                 the Assyrians, which demanded surrendered.)
@@ -91,7 +91,7 @@ export default function Isaiah22() {
           spoiling of the daughter of my people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The burden that Isaiah expresses is the true burden that comes
                 only to Godly men, and to those who understand the gravity of
                 the situation. Isaiah will weep bitterly.)
@@ -108,7 +108,7 @@ export default function Isaiah22() {
           mountains.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah proclaims the fact that the Lord GOD of Hosts is
                 allowing such to happen to Judah because of sin.
               </span>
@@ -135,7 +135,7 @@ export default function Isaiah22() {
           chariots of men and horsemen, and Kir uncovered the shield.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse indicates that the Medes and the Persians
                 accompanied the Assyrian army.)
               </span>
@@ -150,7 +150,7 @@ export default function Isaiah22() {
           themselves in array at the gate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At times, the Lord allows Satan certain latitude against us,
                 making the situation so hopeless that we will be forced to turn
                 to the Lord. It is a shame that Gods People have to be brought
@@ -168,7 +168,7 @@ export default function Isaiah22() {
           forest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The covering of Judah refers to that which hid their weakness
                 either from themselves or from the enemy probably the former.
                 God drew this aside, and they suddenly saw their danger and
@@ -186,7 +186,7 @@ export default function Isaiah22() {
           waters of the lower pool.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays Hezekiah attempting to repair any place in the
                 wall that might afford any type of advantage for the enemy.)
               </span>
@@ -200,7 +200,7 @@ export default function Isaiah22() {
           Jerusalem, and the houses have you broken down to fortify the wall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Certain houses in Jerusalem, built of stone and no doubt
                 luxurious and beautiful, were marked for destruction in order
                 that the stones could be used to repair the walls.)
@@ -217,7 +217,7 @@ export default function Isaiah22() {
           ago.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun Him refers to Jehovah. However intelligent
                 Hezekiahs efforts may have been, the people did not really lean
                 upon God for Deliverance, nor did they recognize that this
@@ -235,7 +235,7 @@ export default function Isaiah22() {
           girding with sackcloth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though the Message is from Isaiah, it is actually sent by
                 the Lord GOD of Hosts; He calls the people to Repentance)
               </span>
@@ -251,7 +251,7 @@ export default function Isaiah22() {
           and drink; for tomorrow we shall die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God called them to weeping and mourning for their sins, but
                 instead He received merriment, revelry, joking, and partying.)
               </span>
@@ -266,7 +266,7 @@ export default function Isaiah22() {
           till you die, says the Lord GOD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people mocked, it seems, the Spirit of God, hence the
                 fearful doom pronounced in this Verse.)
               </span>
@@ -284,7 +284,7 @@ export default function Isaiah22() {
           house, and say{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Shebna, the appointed treasurer of the nation
                 and, therefore, in Hezekiahs cabinet, was himself a stranger to
                 the Grace of God; the people held fast to their sins and
@@ -303,7 +303,7 @@ export default function Isaiah22() {
           in a rock?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Shebna had made great preparations for his burial. He was to be
                 disappointed. He would be taken captive and buried in a foreign
                 land.)
@@ -318,7 +318,7 @@ export default function Isaiah22() {
           with a mighty captivity, and will surely cover you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, cover you, seem to indicate that Shebna had scoffed
                 at the appeal by the Lord for Repentance.)
               </span>
@@ -334,7 +334,7 @@ export default function Isaiah22() {
           house.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your Lord refers to Hezekiah, but more so to the Lord of Glory.
                 This man would be the shame of Hezekiahs governmental cabinet.)
               </span>
@@ -348,7 +348,7 @@ export default function Isaiah22() {
           station, and from your state shall he pull you down.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun he refers to Hezekiah. It seems that Hezekiah, upon
                 the advice of Isaiah, dispossessed Shebna from public office.)
               </span>
@@ -365,7 +365,7 @@ export default function Isaiah22() {
           day, that I will call My servant Eliakim the son of Hilkiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the office of treasurer and of prefect of the palace was taken
                 from Shebna and given to My servant Eliakim; no higher honor
                 could God pay any man that to give him the simple title of My
@@ -384,7 +384,7 @@ export default function Isaiah22() {
           of Jerusalem, and to the house of Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such terminology could only describe Gods Son and our Saviour.
                 Whereas Judah had been plagued with Shebnas, she will now, at
                 long last, be led by My Servant. Then the government shall be
@@ -409,7 +409,7 @@ export default function Isaiah22() {
           and He shall shut, and none shall open.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The spiritual key of the house of David had to do with the
                 Promise that God made to David concerning the coming of the
                 Messiah, and that the Messiah would come through his family [II
@@ -447,7 +447,7 @@ export default function Isaiah22() {
           House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is Jehovahs sure Nail, fastened in a sure place, i.e.,
                 the heavenlies; no one who is suspended upon Him shall ever be
                 confounded, but, on the contrary, shall be ennobled.)
@@ -464,7 +464,7 @@ export default function Isaiah22() {
           of flagons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Multiple millions can say that upon that Nail they have hung
                 their eternal hopes for a golden tomorrow and blissful future.
                 None will be disappointed!)
@@ -481,7 +481,7 @@ export default function Isaiah22() {
           for the LORD has spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Nail in the sure place is Christ. At His Crucifixion, He
                 was cut down, but not for Himself, but rather for lost humanity
                 [

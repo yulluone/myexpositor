@@ -21,7 +21,7 @@ export default function Amos9() {
           he who escapes of them shall not be delivered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to Amos actually and literally seeing
                 the Lord, as He stood upon the Brazen Altar in front of the
                 Temple in Jerusalem. Even though the pronouncement of judgment
@@ -62,7 +62,7 @@ export default function Amos9() {
           bring them down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit, upon reading the minds of the people as they
                 heard the words of Amos, proclaims to them the folly of their
                 thoughts of escape. Men presently, and for all time, have dug
@@ -86,7 +86,7 @@ export default function Amos9() {
           command the serpent, and he shall bite them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is: there will be no escaping this coming judgment!)
               </span>
             </span>
@@ -102,7 +102,7 @@ export default function Amos9() {
           good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the Lord to do such a thing means that countless
                 opportunities for Repentance have been spurned, with every plea
                 by the Holy Spirit rejected.)
@@ -122,7 +122,7 @@ export default function Amos9() {
           as by the flood of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The title, Lord GOD of Hosts, in the Hebrew is Jehovah Elohim
                 Zebaoth, and represents God not only as ruler of the heavenly
                 bodies, but as the Monarch of a multitude of Heavenly Spirits,
@@ -153,7 +153,7 @@ export default function Amos9() {
           The LORD is His Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is He Who builds His Stories in the Heaven, refers to Gods
                 Headquarters on Planet Heaven. And has founded His Troop in the
                 Earth, seems, in the original language, to have the idea of
@@ -185,7 +185,7 @@ export default function Amos9() {
           Caphtor, and the Syrians from Kir?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The proud boast of the Israelites, namely, that they were Gods
                 peculiar People and that their Redemption from Egypt
                 demonstrated that they were His Favorites, was a fleshly boast,
@@ -227,7 +227,7 @@ export default function Amos9() {
           says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will destroy it from off the face of the Earth, refers to
                 both Israel and ultimately Judah ceasing as independent nations.
                 The Ten-Tribe Kingdom was destroyed by the Assyrians a few years
@@ -261,7 +261,7 @@ export default function Amos9() {
           a sieve, yet shall not the least grain fall upon the earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos10233857">
                   <span className="calibre_19">
@@ -297,7 +297,7 @@ export default function Amos9() {
           us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the Lord calls them My People, still, He also calls
                 them sinners; barring Repentance, these sinners will die by the
                 sword. As well, they will lose their souls!)
@@ -319,7 +319,7 @@ export default function Amos9() {
           old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that day, refers to the future day of Restoration, which
                 will follow the present night of desolation. As well, it is the
                 Tabernacle of David which is to be raised up, and not of
@@ -347,7 +347,7 @@ export default function Amos9() {
           LORD Who does this.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That they may possess the remnant of Edom, and of all the
                 heathen, actually refers to Adam, that is, all of mankind. The
                 new-born Israel, after the Second Coming of the Lord, will take
@@ -375,7 +375,7 @@ export default function Amos9() {
           all the hills shall melt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Behold, the days come, says the LORD, pertains to the certitude
                 of this action. As the day of Judgment was sure to come,
                 likewise, the day of Blessing is sure to come, as well!
@@ -405,7 +405,7 @@ export default function Amos9() {
           thereof; they shall also make gardens, and eat the fruit of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos10237954">
                   <span className="calibre_19">
@@ -444,7 +444,7 @@ export default function Amos9() {
           have given them, says the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus, Amos closes his great Book with the words, says the LORD
                 your God, which seal the Predictions and Promises.)
               </span>

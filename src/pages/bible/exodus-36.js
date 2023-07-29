@@ -20,7 +20,7 @@ export default function Exodus36() {
           of the Sanctuary, according to all that the LORD had commanded.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is a volume of instruction in all of this. We are too
                 prone to regard the Word of God as insufficient for the minute
                 details connected with His worship and service. This is a great
@@ -39,7 +39,7 @@ export default function Exodus36() {
           to do it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the Word of God furnishes a man thoroughly unto all good
                 works [
                 <ScrollLink href="/timothy2-3" scrollToId="#filepos14363760">
@@ -65,7 +65,7 @@ export default function Exodus36() {
           him free offerings every morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (such giving will always bring about great blessing)
               </span>
             </span>
@@ -87,7 +87,7 @@ export default function Exodus36() {
           which the LORD commanded to make.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning all of this, Williams says, The minute repetition in
                 these Chapters of the materials used in the construction of the
                 Tabernacle, and of the vessels and furniture of that place of
@@ -116,7 +116,7 @@ export default function Exodus36() {
           for all the work to make it, and too much.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We find in these Passages a beautiful picture of the devotion
                 that the people gave to the Work of the Lord, as it involved the
                 Sanctuary. It needed no effort to move the hearts of the people
@@ -142,7 +142,7 @@ export default function Exodus36() {
           Twined Linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portraying the Righteousness of Christ)
               </span>
             </span>
@@ -150,7 +150,7 @@ export default function Exodus36() {
           , and Blue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying Christ came from Heaven)
               </span>
             </span>
@@ -158,7 +158,7 @@ export default function Exodus36() {
           , and Purple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying His Royalty as a King)
               </span>
             </span>
@@ -166,7 +166,7 @@ export default function Exodus36() {
           , and Scarlet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying His shed Blood on the Cross of Calvary)
               </span>
             </span>
@@ -174,13 +174,13 @@ export default function Exodus36() {
           : with Cherubims of cunning work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(beautiful, exact work)</span>
+              <span className="explanation">(beautiful, exact work)</span>
             </span>
           </span>{" "}
           made he them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying the Holiness of Christ)
               </span>
             </span>
@@ -194,19 +194,19 @@ export default function Exodus36() {
           and eight cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(42 feet)</span>
+              <span className="explanation">(42 feet)</span>
             </span>
           </span>
           , and the breadth of one curtain four cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>
           : the curtains were all of one size.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the covering that was seen on the inside of the
                 Tabernacle at the ceiling. The curtains symbolized the
                 Righteousness of Christ.)
@@ -221,7 +221,7 @@ export default function Exodus36() {
           unto another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(five signifies Grace)</span>
+              <span className="explanation">(five signifies Grace)</span>
             </span>
           </span>
           : and the other Five curtains he coupled one unto another.
@@ -247,14 +247,14 @@ export default function Exodus36() {
           <sup className="calibre7">13</sup>And he made fifty taches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(knobs)</span>
+              <span className="explanation">(knobs)</span>
             </span>
           </span>{" "}
           of gold, and coupled the curtains one unto another with the taches: so
           it became one Tabernacle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this signifies that the Body of Christ is one, made that
                 way by Christ and what He has done for us at the Cross.)
               </span>
@@ -271,7 +271,7 @@ export default function Exodus36() {
           for the tent over the Tabernacle: eleven curtains he made them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was placed on the backside of the curtain of linen, which
                 means it could not be seen. It signified the Prophetic Office of
                 Christ.)
@@ -286,19 +286,19 @@ export default function Exodus36() {
           cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet)</span>
+              <span className="explanation">(45 feet)</span>
             </span>
           </span>
           , and four cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>{" "}
           was the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           of one curtain: the eleven curtains were of one size.
@@ -323,7 +323,7 @@ export default function Exodus36() {
           couple the tent together, that it might be one.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(We are one in Christ.)</span>
+              <span className="explanation">(We are one in Christ.)</span>
             </span>
           </span>
         </span>
@@ -337,13 +337,13 @@ export default function Exodus36() {
           of Rams Skins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signified Christ as King)</span>
+              <span className="explanation">(signified Christ as King)</span>
             </span>
           </span>{" "}
           dyed Red{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying that a King would Die on the Cross, thereby shedding
                 His Lifes Blood)
               </span>
@@ -352,7 +352,7 @@ export default function Exodus36() {
           , and a covering of Badgers Skins above that{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the last and final covering, actually the covering
                 seen by all the people; this signified Christ as the High Priest
                 of His people)
@@ -371,7 +371,7 @@ export default function Exodus36() {
           Tabernacle of Shittim Wood, standing up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were for the sides of the Tabernacle; the shittim wood
                 was also referred to as indestructible wood, which means that it
                 was a Type of the Humanity of Christ)
@@ -386,19 +386,19 @@ export default function Exodus36() {
           <sup className="calibre7">21</sup>The length of a board was ten cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>
           , and the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           of a board one cubit and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>
         </span>
@@ -409,7 +409,7 @@ export default function Exodus36() {
           <sup className="calibre7">22</sup>One board had two tenons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hands)</span>
+              <span className="explanation">(hands)</span>
             </span>
           </span>
           , equally distant one from another: thus did he make for all the
@@ -427,7 +427,7 @@ export default function Exodus36() {
           <sup className="calibre7">24</sup>And forty sockets of Silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Redemption is symbolized in the Old Testament by silver)
               </span>
             </span>
@@ -454,7 +454,7 @@ export default function Exodus36() {
           westward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the rear)</span>
+              <span className="explanation">(the rear)</span>
             </span>
           </span>{" "}
           he made six boards.
@@ -473,7 +473,7 @@ export default function Exodus36() {
           of them in both the corners.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All Believers are coupled to Christ, Who is Head.)
               </span>
             </span>
@@ -509,7 +509,7 @@ export default function Exodus36() {
           through the boards from the one end to the other.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As should by now be overly obvious, the Lord gave to Moses
                 minute instructions concerning the design of the Tabernacle.
                 Everything was planned by God, down to the minutest detail,
@@ -527,7 +527,7 @@ export default function Exodus36() {
           <sup className="calibre7">34</sup>And he overlaid the boards with Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying the Deity of Christ)
               </span>
             </span>
@@ -536,7 +536,7 @@ export default function Exodus36() {
           the bars with gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The bars held the boards in place and, as well, signified the
                 one purpose of Christ, to which He was confined, which was the
                 Cross [
@@ -562,7 +562,7 @@ export default function Exodus36() {
           purple, and scarlet, and fine twined linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it is to be noticed, these colors did not vary)
               </span>
             </span>
@@ -570,7 +570,7 @@ export default function Exodus36() {
           : with Cherubims{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying the Holiness of Christ)
               </span>
             </span>
@@ -584,20 +584,20 @@ export default function Exodus36() {
           of Shittim Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Humanity of Christ)</span>
+              <span className="explanation">(the Humanity of Christ)</span>
             </span>
           </span>
           , and overlaid them with Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Deity of Christ)</span>
+              <span className="explanation">(the Deity of Christ)</span>
             </span>
           </span>
           : their hooks were of gold; and he cast for them four sockets of
           Silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the latter represented Redemption; however, due to the fact
                 that Jesus was God, hence the gold, He would have to become a
                 man, The Man Christ Jesus, in order to die on a Cross, thereby
@@ -629,7 +629,7 @@ export default function Exodus36() {
           gold: but their five sockets were of Brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Five in Biblical numerology specifies Grace. Jesus had five
                 names [
                 <ScrollLink href="/isaiah-09" scrollToId="#filepos7366780">

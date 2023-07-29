@@ -15,14 +15,14 @@ export default function Deuteronmy16() {
           <sup className="calibre7">1</sup>Observe the month of Abib{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our April)</span>
+              <span className="explanation">(our April)</span>
             </span>
           </span>
           , and keep the Passover unto the LORD your God: for in the month of
           Abib the LORD your God brought you forth out of Egypt by night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passover was to remind Israel and future generations of the
                 great deliverance from Egypt, and that they were to never forget
                 it)
@@ -39,7 +39,7 @@ export default function Deuteronmy16() {
           place which the LORD shall choose to place His Name there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the greatest reason for the Passover was that it would serve as
                 a Type of the coming Redeemer, Who would die on a Cross on this
                 very day; in effect, Jesus was the Passover)
@@ -61,7 +61,7 @@ export default function Deuteronmy16() {
           land of Egypt all the days of your life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Feast of Unleavened Bread began the day after Passover, and
                 lasted seven days. Whatever it meant to the Jews then, its total
                 meaning had reference to Christ and His Perfection, symbolized
@@ -108,7 +108,7 @@ export default function Deuteronmy16() {
           your God: you shall do no work therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (symbolizing the fact that Salvation is by Grace through Faith,
                 and not of works [
                 <ScrollLink href="/ephesians-2" scrollToId="#filepos14010259">
@@ -135,7 +135,7 @@ export default function Deuteronmy16() {
           put the sickle to the corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wheat; there was no corn there as we think of such now; the
                 Feast of Pentecost took place exactly 50 days after the
                 Passover)
@@ -153,7 +153,7 @@ export default function Deuteronmy16() {
           the LORD your God has blessed you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing is specifically prescribed; each was to give of his own
                 freewill, as the Lord had prospered him)
               </span>
@@ -172,7 +172,7 @@ export default function Deuteronmy16() {
           His Name there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As to the Feasts, Williams says, God surrounded Himself with
                 joy, He invited His people to share that joy, and He urged them
                 to bring the stranger and the needy into that joy. Christ and
@@ -213,7 +213,7 @@ export default function Deuteronmy16() {
           your wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a type of the coming Kingdom Age, when Christ will
                 reign supreme over the entirety of the world)
               </span>
@@ -245,25 +245,25 @@ export default function Deuteronmy16() {
           choose; in the Feast of Unleavened Bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(April)</span>
+              <span className="explanation">(April)</span>
             </span>
           </span>
           , and in the Feast of Weeks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first days of June)</span>
+              <span className="explanation">(the first days of June)</span>
             </span>
           </span>
           , and in the Feast of Tabernacles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(October)</span>
+              <span className="explanation">(October)</span>
             </span>
           </span>
           : and they shall not appear before the LORD empty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(must bring Sacrifices)</span>
+              <span className="explanation">(must bring Sacrifices)</span>
             </span>
           </span>
           :
@@ -285,7 +285,7 @@ export default function Deuteronmy16() {
           your Tribes: and they shall judge the people with just judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no instruction is given as to the number of Judges and
                 Officers, or as to the mode of appointing them)
               </span>
@@ -299,7 +299,7 @@ export default function Deuteronmy16() {
           <sup className="calibre7">19</sup>You shall not wrest judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (do not render dishonest judgment)
               </span>
             </span>
@@ -307,13 +307,13 @@ export default function Deuteronmy16() {
           ; you shall not respect persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(whether rich or poor)</span>
+              <span className="explanation">(whether rich or poor)</span>
             </span>
           </span>
           , neither take a gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no bribery)</span>
+              <span className="explanation">(no bribery)</span>
             </span>
           </span>
           : for a gift does blind the eyes of the wise, and pervert the words of
@@ -334,7 +334,7 @@ export default function Deuteronmy16() {
           make thee.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was not the planting of trees, as we think of such, but
                 rather the erecting of the asherah. This was an idol of wood in
                 the form of a pillar, usually placed by the side of the altars
@@ -352,7 +352,7 @@ export default function Deuteronmy16() {
           which the LORD your God hates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there must be nothing that lends toward idolatry)
               </span>
             </span>

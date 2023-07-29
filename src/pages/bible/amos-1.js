@@ -20,7 +20,7 @@ export default function Amos1() {
           Israel, two years before the earthquake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words of Amos, who was among the herdmen of Tekoa,
                 specifies him as a shepherd. The phrase, Which he saw concerning
                 Israel, could very well have been a vision. Mans words cannot be
@@ -62,7 +62,7 @@ export default function Amos1() {
           shepherds shall mourn, and the top of Carmel shall wither.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The LORD will roar from Zion, portrays Jerusalem. Here was
                 Jehovahs Throne. The kings of the nations uttered their feeble
                 voices from their governmental centers, but Jehovah roared as a
@@ -97,7 +97,7 @@ export default function Amos1() {
           instruments of iron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For three transgressions of Damascus, and for four, portrays an
                 abrupt change by the Holy Spirit from His pronouncement of
                 Judgment on Israel to the proclamation of punishment on
@@ -115,7 +115,7 @@ export default function Amos1() {
           of Hazael, which shall devour the palaces of Ben-hadad.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This probably referred to Ben-hadad III, the son of Hazael, who
                 was a Monarch of small ability; under his sway, Syria sank into
                 insignificance [II Ki., Chpt.{" "}
@@ -141,7 +141,7 @@ export default function Amos1() {
           shall go into captivity unto Kir, sa ys the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And the people of Syria shall go into captivity unto Kir, says
                 the LORD, no doubt, pertains to the invasion some 50 years later
                 of the Assyrian, Tiglath-Pileser, who killed Rezon and sacked
@@ -163,7 +163,7 @@ export default function Amos1() {
           captivity, to deliver them up to Edom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Three transgressions... and for four, is a Hebrew
                 idiom expressive of many. The phrase, To deliver them up to
                 Edom, speaks of the Philistines handing over the captive
@@ -182,7 +182,7 @@ export default function Amos1() {
           Gaza, which shall devour the palaces thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gaza is used here as the representative of the five cities of
                 the Philistines)
               </span>
@@ -199,7 +199,7 @@ export default function Amos1() {
           perish, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Exactly as prophesied, there is no trace of Philistines left at
                 this time, with part of this area presently occupied by the
                 modern Palestinians, who are Egyptians, Syrians, Jordanians,
@@ -220,7 +220,7 @@ export default function Amos1() {
           Edom, and remembered not the brotherly covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently, to warrant this judgment, Tyre, in some way, had
                 gotten its hands on some Israelitish prisoners, whom they
                 delivered over to the Edomites. This cruel conduct was quite
@@ -290,7 +290,7 @@ export default function Amos1() {
           of Tyrus, which shall devour the palaces thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The punishments by Sargon of Assyria, and later by
                 Nebuchadnezzar, who besieged the city for thirteen years, as
                 well as its capture and destruction by Alexander the Great, are
@@ -312,7 +312,7 @@ export default function Amos1() {
           kept his wrath for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now, the Prophet commences his denouncements against the three
                 nations that were more kindred to Israel: Edom, Ammon, and Moab.
                 And he kept his wrath forever, refers to Edoms relentless
@@ -342,7 +342,7 @@ export default function Amos1() {
           with child of Gilead, that they might enlarge their border{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ammon was connected with Israel by being an offspring of Lot,
                 which Moab was, as well! That they might enlarge their border,
                 concerns their greed for more territory, especially in later
@@ -370,7 +370,7 @@ export default function Amos1() {
           the day of battle, with a tempest in the day of the whirlwind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rabbah was the capital of Ammon, about 25 miles northeast of
                 the Dead Sea, and is the same as present-day Ammon, Jordan)
               </span>
@@ -385,7 +385,7 @@ export default function Amos1() {
           captivity, he and his princes together, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All these judgments were occasioned by the persecution
                 inflicted by these heathen nations on Gods People, Israel.)
               </span>

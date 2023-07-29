@@ -54,7 +54,7 @@ export default function Matthew20() {
           <sup className="calibre7">3</sup>And he went out about the third hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(9 a.m. in the morning)</span>
+              <span className="explanation">(9 a.m. in the morning)</span>
             </span>
           </span>
           , and saw others standing idle in the marketplace,
@@ -94,7 +94,7 @@ export default function Matthew20() {
           <sup className="calibre7">6</sup>And about the eleventh hour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(5 oclock in the afternoon)</span>
+              <span className="explanation">(5 oclock in the afternoon)</span>
             </span>
           </span>{" "}
           he went out, and found others standing idle, and said unto them, Why
@@ -127,7 +127,7 @@ export default function Matthew20() {
           <sup className="calibre7">8</sup>So when evening was come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 6 p.m.)</span>
+              <span className="explanation">(about 6 p.m.)</span>
             </span>
           </span>
           , the lord of the vineyard said unto his steward, Call the labourers,
@@ -173,14 +173,14 @@ export default function Matthew20() {
           <sup className="calibre7">10</sup>But when the first came{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the first ones hired)</span>
+              <span className="explanation">(the first ones hired)</span>
             </span>
           </span>
           , they supposed that they should have received more; and they likewise
           received every man a penny{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(forty dollars)</span>
+              <span className="explanation">(forty dollars)</span>
             </span>
           </span>
           .
@@ -202,7 +202,7 @@ export default function Matthew20() {
           <sup className="calibre7">12</sup>Saying, These last have wrought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worked) but</span>
+              <span className="explanation">(worked) but</span>
             </span>
           </span>{" "}
           one hour, and you have made them equal unto us, which have borne the
@@ -307,7 +307,7 @@ export default function Matthew20() {
           took the twelve Disciples apart in the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(privately)</span>
+              <span className="explanation">(privately)</span>
             </span>
           </span>
           , and said unto them,
@@ -326,13 +326,13 @@ export default function Matthew20() {
           Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Romans)</span>
+              <span className="explanation">(the Romans)</span>
             </span>
           </span>{" "}
           to mock, and to scourge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to beat Him)</span>
+              <span className="explanation">(to beat Him)</span>
             </span>
           </span>
           , and to crucify{" "}
@@ -361,13 +361,13 @@ export default function Matthew20() {
           Zebedees children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Salome)</span>
+              <span className="explanation">(Salome)</span>
             </span>
           </span>{" "}
           with her sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(James and John)</span>
+              <span className="explanation">(James and John)</span>
             </span>
           </span>
           , worshipping{" "}
@@ -402,7 +402,7 @@ export default function Matthew20() {
           want? She said unto Him, Grant that these my two sons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(James and John)</span>
+              <span className="explanation">(James and John)</span>
             </span>
           </span>{" "}
           may sit, the one on your right hand, and the other on the left, in
@@ -433,7 +433,7 @@ export default function Matthew20() {
           . Are you able to drink of the cup that I shall drink of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the cup of suffering)</span>
+              <span className="explanation">(the cup of suffering)</span>
             </span>
           </span>
           , and to be baptized with the baptism that I am baptized with?{" "}
@@ -497,7 +497,7 @@ export default function Matthew20() {
           <sup className="calibre7">24</sup>And when the ten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(remaining Disciples)</span>
+              <span className="explanation">(remaining Disciples)</span>
             </span>
           </span>{" "}
           heard{" "}
@@ -519,7 +519,7 @@ export default function Matthew20() {
           against the two brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(James and John)</span>
+              <span className="explanation">(James and John)</span>
             </span>
           </span>
           .
@@ -530,7 +530,7 @@ export default function Matthew20() {
           <sup className="calibre7">25</sup>But Jesus called them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all twelve) unto Him,</span>
+              <span className="explanation">(all twelve) unto Him,</span>
             </span>
           </span>{" "}
           and said, you know that the princes of the Gentiles exercise dominion
@@ -559,7 +559,7 @@ export default function Matthew20() {
           : but whosoever will be great among you, let him be your minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(servant)</span>
+              <span className="explanation">(servant)</span>
             </span>
           </span>
           ;
@@ -594,13 +594,13 @@ export default function Matthew20() {
           , but to minister{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to serve others)</span>
+              <span className="explanation">(to serve others)</span>
             </span>
           </span>
           , and to give His life a ransom for many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which He did on the Cross)</span>
+              <span className="explanation">(which He did on the Cross)</span>
             </span>
           </span>
           .
@@ -657,7 +657,7 @@ export default function Matthew20() {
           because they should hold their peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demanded that they be quiet)</span>
+              <span className="explanation">(demanded that they be quiet)</span>
             </span>
           </span>
           : but they cried the more, saying, Have mercy on us, O Lord,{" "}

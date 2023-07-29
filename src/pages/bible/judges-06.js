@@ -56,7 +56,7 @@ export default function Judges06() {
           <sup className="calibre7">3</sup>And so it was, when Israel had sown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sowed the seed for crops)</span>
+              <span className="explanation">(sowed the seed for crops)</span>
             </span>
           </span>
           , that the Midianites came up, and the Amalekites, and the children of
@@ -84,7 +84,7 @@ export default function Judges06() {
           <sup className="calibre7">5</sup>For they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the enemy)</span>
+              <span className="explanation">(the enemy)</span>
             </span>
           </span>{" "}
           came up with their cattle and their tents, and they came as
@@ -270,7 +270,7 @@ export default function Judges06() {
           wherewith shall I save Israel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(A note of sarcasm!)</span>
+              <span className="explanation">(A note of sarcasm!)</span>
             </span>
           </span>{" "}
           behold, my family is poor in Manasseh, and I am the least in my
@@ -330,13 +330,13 @@ export default function Judges06() {
           I come unto You, and bring forth my present{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Sacrificial Offering)</span>
+              <span className="explanation">(a Sacrificial Offering)</span>
             </span>
           </span>
           , and set it before You. And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, I will tarry until you come again{" "}
@@ -356,13 +356,13 @@ export default function Judges06() {
           kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a young lamb for Sacrifice)</span>
+              <span className="explanation">(a young lamb for Sacrifice)</span>
             </span>
           </span>
           , and unleavened cakes of an ephah of flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Thanksgiving Offering)</span>
+              <span className="explanation">(the Thanksgiving Offering)</span>
             </span>
           </span>
           ; the flesh he put in a basket, and he put the broth in a pot, and
@@ -393,7 +393,7 @@ export default function Judges06() {
           and pour out the broth. And he did so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rock became an Altar)</span>
+              <span className="explanation">(the Rock became an Altar)</span>
             </span>
           </span>
         </span>
@@ -453,7 +453,7 @@ export default function Judges06() {
           unto the LORD, and called it Jehovah-shalom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord is peace)</span>
+              <span className="explanation">(the Lord is peace)</span>
             </span>
           </span>
           : unto this day it is yet in Ophrah of the Abiezrites.
@@ -533,7 +533,7 @@ export default function Judges06() {
           upon the Altar that was built{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Altar to the Lord)</span>
+              <span className="explanation">(the Altar to the Lord)</span>
             </span>
           </span>
         </span>
@@ -590,19 +590,19 @@ export default function Judges06() {
           <sup className="calibre7">32</sup>Therefore on that day he called him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(called Gideon)</span>
+              <span className="explanation">(called Gideon)</span>
             </span>
           </span>{" "}
           Jerub-baal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is an idol anything?)</span>
+              <span className="explanation">(is an idol anything?)</span>
             </span>
           </span>
           , saying, Let Baal plead against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Gideon)</span>
+              <span className="explanation">(against Gideon)</span>
             </span>
           </span>
           , because he has thrown down his altar{" "}
@@ -657,7 +657,7 @@ export default function Judges06() {
           unto Asher, and unto Zebulun, and unto Naphtali{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(various Tribes)</span>
+              <span className="explanation">(various Tribes)</span>
             </span>
           </span>
           ; and they came up to meet them.

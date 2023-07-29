@@ -143,7 +143,7 @@ export default function Psalm003() {
           <sup className="calibre7">8</sup>Salvation belongs unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He Alone can save)</span>
+              <span className="explanation">(He Alone can save)</span>
             </span>
           </span>
           : Your Blessing is upon Your People. Selah.{" "}

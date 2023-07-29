@@ -19,7 +19,7 @@ export default function Ezra06() {
           were laid up in Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that the application made to Darius received his
                 immediate attention)
               </span>
@@ -75,7 +75,7 @@ export default function Ezra06() {
           this House of God in his place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the trumpet had given no uncertain note, the Persian
                 officials, Tatnai and Shethar-boznai, whatever their wishes may
                 have been, had no choice as to their line of action; the kings
@@ -95,7 +95,7 @@ export default function Ezra06() {
           forthwith expenses be given unto these men, that they be not hindered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not only was permission given to continue the work, but, as
                 well, the workmen on the Temple were to be paid out of the royal
                 revenue, as well as the expenses of the Sacrifices; the money
@@ -138,7 +138,7 @@ export default function Ezra06() {
           I Darius have made a decree; let it be done with speed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Darius left absolutely no doubt as to what he was saying as it
                 regards the building of the Temple; as well, he left absolutely
                 no doubt as it regards the punishment that was to be inflicted
@@ -159,7 +159,7 @@ export default function Ezra06() {
           which Darius the king had sent, so they did speedily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Persian authorities who dealt directly with the Jews showed
                 no reluctance to obey)
               </span>
@@ -184,7 +184,7 @@ export default function Ezra06() {
           of Darius the king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prophesying of both Haggai and Zechariah contributed much
                 toward the finishing of this edifice. The Temple had been
                 approximately twenty-one years in building. Fifteen years of
@@ -206,7 +206,7 @@ export default function Ezra06() {
           captivity, kept the dedication of this House of God with joy,{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is to be noticed, Ezra is careful to present the returned
                 exiles as Israel, and not merely Judah. This indicates that some
                 of all the Tribes of Israel had returned. As well, by the use of
@@ -226,7 +226,7 @@ export default function Ezra06() {
           according to the number of the Tribes of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all this proclaims the fact that Israel now rested on the
                 foundation of the shed Blood of the Sacrifices, which pointed to
                 the One Who was to come; the Cross of Christ is likewise the
@@ -245,7 +245,7 @@ export default function Ezra06() {
           which is at Jerusalem; as it is written in the Book of Moses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the respective Offices of these two orders, the Priests and the
                 Levites, are given in{" "}
                 <ScrollLink href="/numbers-03" scrollToId="#filepos1704768">
@@ -279,7 +279,7 @@ export default function Ezra06() {
           kept the Passover upon the fourteenth day of the first month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-12" scrollToId="#filepos826406">
                   <span className="calibre_19">
@@ -303,7 +303,7 @@ export default function Ezra06() {
           and for themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first Passover mentioned in all the 21 years of the
                 returned exiles; possibly they conducted other Passovers, but
                 the Scripture does not say)
@@ -329,7 +329,7 @@ export default function Ezra06() {
           hands in the work of the House of God, the God of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as is obvious here, when Israel set about to carry out the Work
                 of God, then the Lord began to work for them; He will do the
                 same presently!)

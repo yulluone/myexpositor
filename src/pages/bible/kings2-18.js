@@ -416,7 +416,7 @@ export default function Kings218() {
           that was found in the House of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Temple)</span>
+              <span className="explanation">(the Temple)</span>
             </span>
           </span>
           , and in the treasures of the kings house.
@@ -536,7 +536,7 @@ export default function Kings218() {
           you now to Hezekiah, Thus says the great king, the king of Assyria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sennacherib)</span>
+              <span className="explanation">(Sennacherib)</span>
             </span>
           </span>
           , What confidence is this wherein you trust?{" "}
@@ -598,7 +598,7 @@ export default function Kings218() {
           pledges to my lord the king of Assyria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(so says Rab-shakeh)</span>
+              <span className="explanation">(so says Rab-shakeh)</span>
             </span>
           </span>
           , and I will deliver you two thousand horses, if you be able on your
@@ -668,7 +668,7 @@ export default function Kings218() {
           their own dung, and drink their own urine with you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The contempt continues!)</span>
+              <span className="explanation">(The contempt continues!)</span>
             </span>
           </span>
         </span>

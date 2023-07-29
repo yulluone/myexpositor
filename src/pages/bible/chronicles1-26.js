@@ -18,7 +18,7 @@ export default function Chronicles126() {
           porters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there were 4,000 porters [
                 <ScrollLink href="/chronicles1-23" scrollToId="#filepos4600720">
                   <span className="calibre_19">
@@ -37,7 +37,7 @@ export default function Chronicles126() {
           Asaph.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were the descendants of Korah, who had led the rebellion
                 against Moses, over 500 years before [Num., Chpt.{" "}
                 <ScrollLink href="/numbers-16" scrollToId="#filepos1880266">
@@ -105,7 +105,7 @@ export default function Chronicles126() {
           service, were threescore and two of Obed-edom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is remarkable that the Holy Spirit will mention Obed-edoms
                 name some 20 times throughout the Word of God, and it was all
                 because of his love for the things of God [
@@ -254,7 +254,7 @@ export default function Chronicles126() {
           they dedicate to maintain the House of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage recalls the oft-forgotten lesson that the
                 Spiritual Temple of Jehovah must be built up with spoils won in
                 battle. There must be labor and prayer, battling with wicked
@@ -274,7 +274,7 @@ export default function Chronicles126() {
           under the hand of the Shelomith, and of his brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the doorkeepers were to exclude evil, and treasure-keepers were
                 to guard the Spiritual Wealth; this implies warfare; Paul told
                 Timothy to war a good warfare; he was a doorkeeper and a
@@ -328,7 +328,7 @@ export default function Chronicles126() {
           Manasseh, for every matter pertaining to God, and affairs of the king.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Terms such as mighty men of valor and men of valor were used in
                 connection with the appointment of these officers by David, as
                 it regarded the administrative offices of the kingdom. This

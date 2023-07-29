@@ -459,7 +459,7 @@ export default function Psalm022() {
           : they pierced My hands and My feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(nailing Him to the Cross)</span>
+              <span className="explanation">(nailing Him to the Cross)</span>
             </span>
           </span>
           .
@@ -591,7 +591,7 @@ export default function Psalm022() {
           darling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(My soul)</span>
+              <span className="explanation">(My soul)</span>
             </span>
           </span>{" "}
           from the power of the dog{" "}
@@ -610,7 +610,7 @@ export default function Psalm022() {
           <sup className="calibre7">21</sup>Save Me from the lions mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(religious leaders of Israel)</span>
+              <span className="explanation">(religious leaders of Israel)</span>
             </span>
           </span>
           : for You have heard Me from the horns of the unicorns{" "}
@@ -676,19 +676,19 @@ export default function Psalm022() {
           <sup className="calibre7">24</sup>For He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>{" "}
           has not despised nor abhorred the affliction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(suffering)</span>
+              <span className="explanation">(suffering)</span>
             </span>
           </span>{" "}
           of the Afflicted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(His Only Begotten Son)</span>
+              <span className="explanation">(His Only Begotten Son)</span>
             </span>
           </span>
           ; neither has He hid His face from Him{" "}
@@ -702,13 +702,13 @@ export default function Psalm022() {
           ; but when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our Saviour)</span>
+              <span className="explanation">(our Saviour)</span>
             </span>
           </span>{" "}
           cried unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>
           , He heard{" "}
@@ -738,7 +738,7 @@ export default function Psalm022() {
           : I will pay My vows{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(devotions)</span>
+              <span className="explanation">(devotions)</span>
             </span>
           </span>{" "}
           before them who fear Him.

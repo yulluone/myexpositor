@@ -20,7 +20,7 @@ export default function Isaiah26() {
           appoint for walls and bulwarks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of this Chapter is a Millennial song to be sung by
                 Judah as a song of triumph in that coming Glad Day.
               </span>
@@ -86,7 +86,7 @@ export default function Isaiah26() {
           righteous nation which keeps the Truth may enter in.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel has never fully kept the Truth, but now will do so. The
                 Truth is the Word of God.)
               </span>
@@ -100,7 +100,7 @@ export default function Isaiah26() {
           whose mind is stayed on You: because he trusts in You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The keynote of this Passage is Peace. It speaks of the coming
                 Glad Day of the Millennium, when Christ, the Prince of Peace,
                 reigns supremely on Earth.
@@ -129,7 +129,7 @@ export default function Isaiah26() {
           in the LORD JEHOVAH is everlasting strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehovah is the Rock of Ages, the Undefeatable One, the Eternal
                 Strong One. The implication of this Verse is that whereas men,
                 even faithful men, will sometimes prove unfaithful, the Lord can
@@ -148,7 +148,7 @@ export default function Isaiah26() {
           ground; He brings it even to the dust.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lofty city is Babylon. It speaks of Satans efforts through
                 man from the beginning, and it will never rise again.
                 Immediately before or at the Second Coming, the Lord will lay it
@@ -164,7 +164,7 @@ export default function Isaiah26() {
           the feet of the poor, and the steps of the needy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The poor and needy constitute Israel. Now, energized by Christ,
                 she shall tread down the glory and power of the enemy.)
               </span>
@@ -181,7 +181,7 @@ export default function Isaiah26() {
           You, Most Upright, do weigh the path of the just.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The way of the just can be described with one word uprightness.
                 The Most Upright is Christ. He is the One Who makes level the
                 path of the just. As well, one can be just only in Christ and
@@ -198,7 +198,7 @@ export default function Isaiah26() {
           and to the remembrance of You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The righteous nation and the righteous person do not follow the
                 judgments of their own wisdom, but walk in the way of Divine
                 Judgments, and in the energy of true affection for the absent
@@ -216,7 +216,7 @@ export default function Isaiah26() {
           will learn righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is similar to a portion of the Lords Prayer, Your Will be
                 done on Earth as it is in Heaven [
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10906080">
@@ -243,7 +243,7 @@ export default function Isaiah26() {
           he deal unjustly, and will not behold the majesty of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse foretells the present dispensation of Grace and
                 predicts mans rejection of it.{" "}
                 <ScrollLink href="/" scrollToId="#filepos7536868">
@@ -276,7 +276,7 @@ export default function Isaiah26() {
           at the people; yes, the fire of Your enemies shall devour them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse may be thus understood: Lord, Your Hand is lifted up
                 in indignation in defense of Your People, Israel; yet the wicked
                 nations do not recognize it; but they shall see Your Zeal for
@@ -308,7 +308,7 @@ export default function Isaiah26() {
           for You also have wrought all our works in us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As it is with Israel, so it is with Believers; our Salvation is
                 ordained and accomplished by God Alone.)
               </span>
@@ -323,7 +323,7 @@ export default function Isaiah26() {
           Your Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The other lords were the oppressors of the past. But it is the
                 Lord Alone Who holds the answers.)
               </span>
@@ -338,7 +338,7 @@ export default function Isaiah26() {
           destroyed them, and made all their memory to perish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who oppressed Israel, Isaiah says, are dead and deceased,
                 and shall not rise and live in the First Resurrection [
                 <ScrollLink href="/revelation-20" scrollToId="#filepos15124941">
@@ -371,7 +371,7 @@ export default function Isaiah26() {
           removed it far unto all the ends of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord increased Israel, and then removed it, because of
                 rebellion against Righteousness. But Israel will be restored.)
               </span>
@@ -385,7 +385,7 @@ export default function Isaiah26() {
           You, they poured out a prayer when Your chastening was upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel has done this many times in the past, but will do it
                 even in a greater way during the last half of the Great
                 Tribulation. At that time, they will truly be in trouble [
@@ -425,7 +425,7 @@ export default function Isaiah26() {
           pangs; so have we been in Your sight, O LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul alluded to this in{" "}
                 <ScrollLink
                   href="/thessalonians1-4"
@@ -462,7 +462,7 @@ export default function Isaiah26() {
           the world fallen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Holy Spirit is saying through Isaiah that Israel
                 has brought forth nothing in the world but wind. They did not
                 bring any deliverance to the Earth, as God intended, because
@@ -495,7 +495,7 @@ export default function Isaiah26() {
           out the dead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit in this Passage declares the Truth of the
                 coming Resurrection of Life [
                 <ScrollLink
@@ -532,7 +532,7 @@ export default function Isaiah26() {
           a little moment, until the indignation be overpast.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the latter half of the Great Tribulation, and
                 comprises about three and a half years. At this time, when
                 Israel is invaded by the Antichrist, she will flee to Petra,
@@ -551,7 +551,7 @@ export default function Isaiah26() {
           dead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the Wrath of God being poured out upon the Earth
                 in the coming Great Tribulation. It refers, as well, to the
                 Battle of Armageddon, which will take place at the very

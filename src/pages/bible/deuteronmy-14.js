@@ -17,7 +17,7 @@ export default function Deuteronmy14() {
           eyes for the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the heathen did this)</span>
+              <span className="explanation">(the heathen did this)</span>
             </span>
           </span>
         </span>
@@ -30,7 +30,7 @@ export default function Deuteronmy14() {
           unto Himself, above all the nations that are upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was to receive the Word of the Lord from Jehovah and
                 give it to the world; as well, they were to be the womb of the
                 Messiah, hence all the restrictions and all the restrictions
@@ -60,13 +60,13 @@ export default function Deuteronmy14() {
           fallow deer, and the wild goat, and the pygarg{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(antelope)</span>
+              <span className="explanation">(antelope)</span>
             </span>
           </span>
           , and the wild ox, and the chamois{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wild sheep)</span>
+              <span className="explanation">(wild sheep)</span>
             </span>
           </span>
         </span>
@@ -92,7 +92,7 @@ export default function Deuteronmy14() {
           <sup className="calibre7">8</sup>And the swine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hogs)</span>
+              <span className="explanation">(hogs)</span>
             </span>
           </span>
           , because it divides the hoof, yet chews not the cud, it is unclean
@@ -176,20 +176,20 @@ export default function Deuteronmy14() {
           gates, that he may eat it; or you may sell it unto an alien{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           : for you are an holy people unto the LORD your God. You shall not
           seethe a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a baby lamb)</span>
+              <span className="explanation">(a baby lamb)</span>
             </span>
           </span>{" "}
           in his mothers milk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for the reason that the lamb was more typical of Christ than
                 any other of the animal kingdom [
                 <ScrollLink href="/john-01" scrollToId="#filepos12298674">
@@ -224,7 +224,7 @@ export default function Deuteronmy14() {
           increase of your seed, that the field brings forth year by year.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tithing means to give a tenth. The foundation for tithing was
                 not given in the Law, but rather some 400 years earlier with
                 Abraham. He paid tithe to Melchizedek, who was a Type of Christ
@@ -286,7 +286,7 @@ export default function Deuteronmy14() {
           the LORD your God shall choose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the Israelite lived a long distance from the Tabernacle or
                 Temple, which means that he could not drive animals that
                 distance, or take great amounts of wheat, etc., he was to sell
@@ -304,7 +304,7 @@ export default function Deuteronmy14() {
           whatsoever your soul lusts after{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(desires)</span>
+              <span className="explanation">(desires)</span>
             </span>
           </span>
           , for oxen, or for sheep, or for wine, or for strong drink, or for
@@ -335,7 +335,7 @@ export default function Deuteronmy14() {
           of your hand which you do.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning of the third year is as follows: the tithe of the
                 first and second years was to be eaten before the Lord at the
                 Sanctuary. What was not used, and they only used a small part,

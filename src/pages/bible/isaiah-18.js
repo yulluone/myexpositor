@@ -16,7 +16,7 @@ export default function Isaiah18() {
           which is beyond the rivers of Ethiopia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word, Woe, is used here of judgment; the Prophecy given
                 here regarding Ethiopia does not concern Israels present
                 judgments during the time of Isaiah, but rather the latter days,
@@ -44,7 +44,7 @@ export default function Isaiah18() {
           whose land the rivers have spoiled!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some Scholars contend that the entirety of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7457403">
                   <span className="calibre_19">
@@ -70,7 +70,7 @@ export default function Isaiah18() {
           mountains; and when He blows a trumpet, hear you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of the world is called to attention regarding that
                 which the Lord will do at the Battle of Armageddon. The pronoun
                 He refers to Jehovah. The Ensign that He will lift up is the
@@ -126,7 +126,7 @@ export default function Isaiah18() {
           heat upon herbs, and like a cloud of dew in the heat of harvest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The action of the Messiah during the entire period of Israels
                 rejection and up to the time of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7461142">
@@ -174,7 +174,7 @@ export default function Isaiah18() {
           the branches.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is the Divine Vine-Dresser, the Messiah. His instrument will
                 be the Antichrist.)
               </span>
@@ -190,7 +190,7 @@ export default function Isaiah18() {
           upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If Israels faithful Redeemer likens His People to a Vine, so
                 does He liken their enemies to ravenous vultures and wild
                 beasts.)
@@ -211,7 +211,7 @@ export default function Isaiah18() {
           place of the Name of the LORD of Hosts, the Mount Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that time refers to the Antichrists armies, which will be
                 destroyed in the Battle of Armageddon. Then the Millennium will
                 begin. Israel, at that time, will offer herself as a present to

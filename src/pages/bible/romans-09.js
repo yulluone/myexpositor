@@ -63,7 +63,7 @@ export default function Romans09() {
           , my kinsmen according to the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews)</span>
+              <span className="explanation">(Jews)</span>
             </span>
           </span>
           :
@@ -186,7 +186,7 @@ export default function Romans09() {
           , and the giving of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mosaic Law)</span>
+              <span className="explanation">(the Mosaic Law)</span>
             </span>
           </span>
           , and the service{" "}
@@ -203,7 +203,7 @@ export default function Romans09() {
           and the Promises{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Messianic Promises)</span>
+              <span className="explanation">(the Messianic Promises)</span>
             </span>
           </span>
           ;
@@ -231,7 +231,7 @@ export default function Romans09() {
               <span className="calibre_19">came</span>
             </span>
             <span>
-              <span className="calibre_19">(through the Jews),</span>
+              <span className="explanation">(through the Jews),</span>
             </span>
           </span>{" "}
           Who is over all{" "}
@@ -254,7 +254,7 @@ export default function Romans09() {
           . Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Truth)</span>
+              <span className="explanation">(Truth)</span>
             </span>
           </span>
           .
@@ -361,7 +361,9 @@ export default function Romans09() {
           the Word of Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pertains to Faith, not works)</span>
+              <span className="explanation">
+                (pertains to Faith, not works)
+              </span>
             </span>
           </span>
           , At this time will I come, and Sarah shall have a son{" "}
@@ -427,7 +429,9 @@ export default function Romans09() {
           , that the purpose of God according to election might stand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of Gods foreknowledge)</span>
+              <span className="explanation">
+                (speaks of Gods foreknowledge)
+              </span>
             </span>
           </span>
           , not of works, but of Him Who calls;){" "}
@@ -690,7 +694,7 @@ export default function Romans09() {
           replies against God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Man finds fault with God!)</span>
+              <span className="explanation">(Man finds fault with God!)</span>
             </span>
           </span>{" "}
           Shall the thing formed say to Him Who formed{" "}
@@ -715,7 +719,7 @@ export default function Romans09() {
           clay{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God is likened to a Potter)</span>
+              <span className="explanation">(God is likened to a Potter)</span>
             </span>
           </span>
           , of the same lump to make one vessel unto honour, and another unto
@@ -930,7 +934,7 @@ export default function Romans09() {
           <sup className="calibre7">28</sup>For He will finish the work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which</span>
+              <span className="explanation">(which</span>
             </span>
             <span>
               <span className="calibre_19">He did at the Cross)</span>
@@ -984,19 +988,19 @@ export default function Romans09() {
           , Except the Lord of Sabaoth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord of Hosts)</span>
+              <span className="explanation">(the Lord of Hosts)</span>
             </span>
           </span>{" "}
           had left us a seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Remnant)</span>
+              <span className="explanation">(the Remnant)</span>
             </span>
           </span>
           , we had been as Sodom, and been made like unto Gomorrha{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(completely destroyed)</span>
+              <span className="explanation">(completely destroyed)</span>
             </span>
           </span>
           .
@@ -1026,7 +1030,9 @@ export default function Romans09() {
           , have attained to Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because they accepted Christ)</span>
+              <span className="explanation">
+                (because they accepted Christ)
+              </span>
             </span>
           </span>
           , even the Righteousness which is of Faith{" "}
@@ -1069,7 +1075,7 @@ export default function Romans09() {
           <sup className="calibre7">32</sup>Wherefore?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Why?)</span>
+              <span className="explanation">(Why?)</span>
             </span>
           </span>{" "}
           Because{" "}
@@ -1131,7 +1137,7 @@ export default function Romans09() {
           , Behold, I lay in Sion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           a stumblingstone and rock of offence{" "}

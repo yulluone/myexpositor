@@ -423,7 +423,7 @@ export default function Kings101() {
           Solomon, has he not called{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this speaks volumes!)</span>
+              <span className="explanation">(this speaks volumes!)</span>
             </span>
           </span>
         </span>
@@ -483,7 +483,7 @@ export default function Kings101() {
           <sup className="calibre7">30</sup>Even as I swore unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Bath-sheba)</span>
+              <span className="explanation">(Bath-sheba)</span>
             </span>
           </span>{" "}
           by the LORD God of Israel, saying, Assuredly Solomon your son shall
@@ -645,7 +645,7 @@ export default function Kings101() {
           <sup className="calibre7">38</sup>So Zadok the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(High Priest)</span>
+              <span className="explanation">(High Priest)</span>
             </span>
           </span>
           , and Nathan the Prophet, and Benaiah the son of Jehoiada, and the

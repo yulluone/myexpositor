@@ -193,13 +193,13 @@ export default function Timothy22() {
           seed of David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Incarnation)</span>
+              <span className="explanation">(the Incarnation)</span>
             </span>
           </span>{" "}
           was raised from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(out from among the dead)</span>
+              <span className="explanation">(out from among the dead)</span>
             </span>
           </span>{" "}
           according to my Gospel{" "}
@@ -688,7 +688,7 @@ export default function Timothy22() {
           , he shall be a ves sel unto honour, Sanctified, and meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(qualified)</span>
+              <span className="explanation">(qualified)</span>
             </span>
           </span>{" "}
           for the Masters use,{" "}
@@ -715,7 +715,7 @@ export default function Timothy22() {
           : but follow Righteousness, Faith, Charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Love)</span>
+              <span className="explanation">(Love)</span>
             </span>
           </span>
           , Peace, with them who call on the Lord out of a pure heart{" "}
@@ -786,7 +786,7 @@ export default function Timothy22() {
           apt to teach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(teach correct Doctrine)</span>
+              <span className="explanation">(teach correct Doctrine)</span>
             </span>
           </span>
           , patient{" "}

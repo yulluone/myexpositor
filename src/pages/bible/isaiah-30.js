@@ -19,7 +19,7 @@ export default function Isaiah30() {
           covering, but not of My Spirit, that they may add sin to sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the preceding Chapter, the design of the Jewish rulers to
                 seek the alliance of Egypt was covertly looked at and condemned;
                 now it is openly declared and rebuked.
@@ -75,7 +75,7 @@ export default function Isaiah30() {
           of Pharaoh, and to trust in the shadow of Egypt!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt symbolized the world. The words, who walk, insinuate that
                 either the Jewish ambassadors had already started for Egypt or
                 the Prophet sees them as if starting.
@@ -112,7 +112,7 @@ export default function Isaiah30() {
           confusion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is a shame for Gods People to place their trust in man and
                 not in God. The confusion is obvious. Gods People are supposed
                 to only seek the Lord for help and not the ways of the world,
@@ -128,7 +128,7 @@ export default function Isaiah30() {
           ambassadors came to Hanes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Zoan was one of the principal cities of ancient Egypt, and it
                 was probably the same as Tanis. Hanes was probably not very far
                 from Zoan. To this place came Hezekiahs ambassadors. They would
@@ -146,7 +146,7 @@ export default function Isaiah30() {
           also a reproach.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From this proposed alliance, Judah would be put to shame and
                 become also a reproach, which will always be the case for those
                 who turn to the world instead of to the Lord.)
@@ -172,7 +172,7 @@ export default function Isaiah30() {
           strength is to sit still.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The intent of the Holy Spirit is to portray the great efforts
                 being made by Judah to appeal to Egypt, even to going through
                 the howling desert; they would not so much as seek the Lord,
@@ -192,7 +192,7 @@ export default function Isaiah30() {
           forever and ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah was told to write an account of this happening in a
                 Book. It was to be a warning to others, and so it was! As well,
                 it became a part of the Bible)
@@ -208,7 +208,7 @@ export default function Isaiah30() {
           lying children, children who will not hear the Law of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the leaders of Judah were both rebels and liars. Not being a
                 fashionable Preacher like many today, Isaiah did not hesitate to
                 tell them so. How they must have hated him! They were rebels,
@@ -227,7 +227,7 @@ export default function Isaiah30() {
           smooth things, prophesy deceits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the lips of the false prophets did not use the words of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7592025">
                   <span className="calibre_19">
@@ -263,7 +263,7 @@ export default function Isaiah30() {
           out of the path, cause the Holy One of Israel to cease from before us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The irreligious Jews were weary of this constant iteration and
                 wished to hear no more concerning the Holy One, Whose very
                 Holiness was a reproach to them.)
@@ -279,7 +279,7 @@ export default function Isaiah30() {
           perverseness, and stay thereon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Word was the Word of God given by the Prophet; the people
                 despised it!; He plainly told them that looking to Egypt was in
                 vain; it was a message they did not want to hear)
@@ -296,7 +296,7 @@ export default function Isaiah30() {
           breaking comes suddenly at an instant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit told them through Isaiah that they were
                 building a wall [lack of trust in God] which looked strong on
                 the outside, but would suddenly break at an instant.)
@@ -313,7 +313,7 @@ export default function Isaiah30() {
           to take fire from the hearth, or to take water withal out of the pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is that the destruction would be so complete
                 that there wouldnt be left even a piece large enough to carry
                 water from a pit. The ruin would be total.)
@@ -329,7 +329,7 @@ export default function Isaiah30() {
           and in confidence shall be your strength: and you would not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In returning and rest refers to their turning back from their
                 proposed embassage to Egypt and their resting in the Promises of
                 God. This would result in Deliverance.
@@ -357,7 +357,7 @@ export default function Isaiah30() {
           swift; therefore shall they who pursue you be swift.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rather than come to God and allow Him to have His Way in their
                 lives, they would rather allow Jerusalem to be destroyed and
                 themselves rendered homeless. Their flippant answer was, We will
@@ -374,7 +374,7 @@ export default function Isaiah30() {
           as a beacon upon the top of a mountain, and as an ensign on an hill.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A pole upon the top of a mountain and a flagstaff on a hill are
                 duplicated figures expressing loneliness and depopulation.)
               </span>
@@ -395,7 +395,7 @@ export default function Isaiah30() {
           blessed are all they who wait for Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7596198">
                   <span className="calibre_19">
@@ -436,7 +436,7 @@ export default function Isaiah30() {
           you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This has to do with the Battle of Armageddon, when Israel will
                 cry to the Lord, and also to the Millennium; however, it also
                 applies to any and all, and for all time, who will cry unto
@@ -454,7 +454,7 @@ export default function Isaiah30() {
           your teachers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the teachers being removed into a corner referred to the
                 Prophets who were sent by the Lord to Israel, but who were so
                 maltreated that they had to hide in a corner, i.e., flee for
@@ -474,7 +474,7 @@ export default function Isaiah30() {
           the right hand, and when you turn to the left.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the coming Kingdom Age, when Israel will
                 finally be led by the Lord, and in totality!)
               </span>
@@ -490,7 +490,7 @@ export default function Isaiah30() {
           shall say unto it, Get you hence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the Holy Spirit has His Way, He will cleanse our lives of
                 all graven images of self-will and rebellion. Once He begins to
                 speak to us and deal with us, we will then begin to see sin and
@@ -508,7 +508,7 @@ export default function Isaiah30() {
           your cattle feed in large pastures.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will take place with Israel in the coming Kingdom Age, but
                 it can take place even now in the heart and life of every
                 Christian who will dare to follow the Lord and do things His
@@ -533,7 +533,7 @@ export default function Isaiah30() {
           winnowed with the shovel and with the fan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passage speaks of victory!)
               </span>
             </span>
@@ -547,7 +547,7 @@ export default function Isaiah30() {
           the day of the great slaughter, when the towers fall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This exhibition of Amazing Grace will synchronize with an
                 exhibition of appalling judgment. It will be the day of
                 destruction of the Antichrist, symbolized by the slaughter and
@@ -574,7 +574,7 @@ export default function Isaiah30() {
           up the breach of His People, and heals the stroke of their wound.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will be literal, and will take place in the coming Kingdom
                 Age. The extended light of the moon and of the sun speaks of
                 healing, for light heals. Such will heal not only Israel, but
@@ -594,7 +594,7 @@ export default function Isaiah30() {
           lips are full of indignation, and His tongue as a devouring fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a description of the Second Coming, when the Lord will
                 completely destroy the Antichrist and the totality of his army
                 [Ezek., Chpts.{" "}
@@ -620,7 +620,7 @@ export default function Isaiah30() {
           people, causing them to err.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This statement is a metaphor describing the fierceness of Gods
                 Judgment. It will reach to the midst of the neck, meaning that
                 it will be so deep that men cannot walk against it.
@@ -653,7 +653,7 @@ export default function Isaiah30() {
           Mighty One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After the defeat of the Antichrist, Israel will now sing. Their
                 song will be to the Mighty One of Israel. At His First Advent,
                 they crucified Him; at His Second Advent, they will sing to
@@ -671,7 +671,7 @@ export default function Isaiah30() {
           devouring fire, with scattering, and tempest, and hailstones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was prophesied by Ezekiel, as well [
                 <ScrollLink href="/ezekiel-38" scrollToId="#filepos9573697">
                   <span className="calibre_19">
@@ -693,7 +693,7 @@ export default function Isaiah30() {
           shall the Assyrian be beaten down, which smote with a rod.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Assyrian refers to Sennacherib, as well as to the coming
                 Antichrist. The glorious voice of the Messiah was not heard when
                 He first came; however, it will very well now be heard.)
@@ -710,7 +710,7 @@ export default function Isaiah30() {
           with it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord snatches certain victory out of certain defeat, as
                 the tide instantly turns in favor of His People [the Second
                 Coming], and as the strokes of the Divine Rod smite that wicked
@@ -729,7 +729,7 @@ export default function Isaiah30() {
           of brimstone, does kindle it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage speaks of the instant defeat of the Antichrist, a
                 defeat so total that it will be absolutely complete.)
               </span>

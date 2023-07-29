@@ -117,7 +117,7 @@ export default function Peter21() {
           : that by these{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Promises)</span>
+              <span className="explanation">(Promises)</span>
             </span>
           </span>{" "}
           you might be partakers of the Divine Nature{" "}
@@ -149,7 +149,7 @@ export default function Peter21() {
           <sup className="calibre7">5</sup>And beside this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Salvation)</span>
+              <span className="explanation">(Salvation)</span>
             </span>
           </span>
           , giving all diligence{" "}
@@ -186,7 +186,7 @@ export default function Peter21() {
           <sup className="calibre7">6</sup>And to knowledge temperance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-control)</span>
+              <span className="explanation">(self-control)</span>
             </span>
           </span>
           ; and to temperance patience{" "}
@@ -201,7 +201,7 @@ export default function Peter21() {
           ; and to patience godliness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(being like God)</span>
+              <span className="explanation">(being like God)</span>
             </span>
           </span>
           ;
@@ -221,7 +221,7 @@ export default function Peter21() {
           ; and to brotherly kindness charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>
           .
@@ -233,7 +233,7 @@ export default function Peter21() {
           abound{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(continue to expand)</span>
+              <span className="explanation">(continue to expand)</span>
             </span>
           </span>
           , they make{" "}
@@ -404,13 +404,13 @@ export default function Peter21() {
           <sup className="calibre7">13</sup>Yes, I think it meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(necessary)</span>
+              <span className="explanation">(necessary)</span>
             </span>
           </span>
           , as long as I am in this tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the physical body)</span>
+              <span className="explanation">(refers to the physical body)</span>
             </span>
           </span>
           , to stir you up by putting{" "}
@@ -577,7 +577,7 @@ export default function Peter21() {
           <sup className="calibre7">17</sup>For He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           received from God the Father Honour and Glory{" "}
@@ -592,7 +592,7 @@ export default function Peter21() {
           , when there came such a Voice to Him from the excellent Glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Voice of God)</span>
+              <span className="explanation">(refers to the Voice of God)</span>
             </span>
           </span>
           , This is My beloved Son, in Whom I am well pleased.{" "}
@@ -690,7 +690,7 @@ export default function Peter21() {
           came not in old time by the will of man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(did not originate with man)</span>
+              <span className="explanation">(did not originate with man)</span>
             </span>
           </span>
           : but Holy men of God spoke{" "}

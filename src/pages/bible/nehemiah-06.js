@@ -80,7 +80,7 @@ export default function Nehemiah06() {
           according to these words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all of this was a lie!)</span>
+              <span className="explanation">(all of this was a lie!)</span>
             </span>
           </span>
           .
@@ -115,14 +115,14 @@ export default function Nehemiah06() {
           <sup className="calibre7">9</sup>For they all made us afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sought to make us afraid)</span>
+              <span className="explanation">(sought to make us afraid)</span>
             </span>
           </span>
           , saying, Their hands shall be weakened from the work, that it be not
           done. Now therefore, O God, strengthen my hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which the Lord did)</span>
+              <span className="explanation">(which the Lord did)</span>
             </span>
           </span>
           .
@@ -173,7 +173,9 @@ export default function Nehemiah06() {
           not sent him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this Jew was a false prophet)</span>
+              <span className="explanation">
+                (this Jew was a false prophet)
+              </span>
             </span>
           </span>
           ; but that he pronounced this prophecy against me: for Tobiah and
@@ -247,7 +249,7 @@ export default function Nehemiah06() {
           twenty and fifth day of the month Elul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(September)</span>
+              <span className="explanation">(September)</span>
             </span>
           </span>
           , in fifty and two days.

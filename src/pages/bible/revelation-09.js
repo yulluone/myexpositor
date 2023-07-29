@@ -60,7 +60,7 @@ export default function Revelation09() {
           <sup className="calibre7">2</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           opened the bottomless pit; and there arose a smoke out of the pit, as
@@ -153,7 +153,7 @@ export default function Revelation09() {
           as the torment of a scorpion, when he strikes a man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pain and swelling)</span>
+              <span className="explanation">(pain and swelling)</span>
             </span>
           </span>
           .
@@ -366,7 +366,7 @@ export default function Revelation09() {
           <sup className="calibre7">13</sup>And the sixth Angel sounded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the second woe)</span>
+              <span className="explanation">(this is the second woe)</span>
             </span>
           </span>
           , and I heard a voice from the four horns of the Golden Altar which is
@@ -452,7 +452,7 @@ export default function Revelation09() {
           two hundred thousand thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(200 million)</span>
+              <span className="explanation">(200 million)</span>
             </span>
           </span>
           : and I heard the number of them.{" "}
@@ -472,7 +472,7 @@ export default function Revelation09() {
           vision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon horses)</span>
+              <span className="explanation">(demon horses)</span>
             </span>
           </span>
           , and them that sat on them, having breastplates of fire, and of

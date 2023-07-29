@@ -171,7 +171,7 @@ export default function Revelation14() {
           <sup className="calibre7">5</sup>And in their mouth was found no guile{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no hypocrisy)</span>
+              <span className="explanation">(no hypocrisy)</span>
             </span>
           </span>
           : for they are without fault before the Throne of God.{" "}
@@ -534,7 +534,7 @@ export default function Revelation14() {
           , having on His Head a golden crown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the victors crown)</span>
+              <span className="explanation">(presents the victors crown)</span>
             </span>
           </span>
           , and in His Hand a sharp sickle{" "}

@@ -234,7 +234,7 @@ export default function Kings220() {
           thing for the shadow to go down ten degrees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(forward)</span>
+              <span className="explanation">(forward)</span>
             </span>
           </span>
           : no, but let the shadow return backward ten degrees{" "}

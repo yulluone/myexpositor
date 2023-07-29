@@ -16,7 +16,7 @@ export default function Corinthians102() {
           came not with excellency of speech or of wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he depended not on oratorical abilities, nor did he
                 delve into philosophy, which was all the rage of that particular
                 day)
@@ -26,7 +26,7 @@ export default function Corinthians102() {
           , declaring unto you the Testimony of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is Christ and Him Crucified)
               </span>
             </span>
@@ -40,7 +40,7 @@ export default function Corinthians102() {
           thing among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with purpose and design, Paul did not resort to the knowledge
                 or philosophy of the world regarding the preaching of the
                 Gospel)
@@ -50,7 +50,7 @@ export default function Corinthians102() {
           , save Jesus Christ, and Him Crucified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that and that alone is the Message, which will save the sinner,
                 set the captive free, and give the Believer perpetual Victory)
               </span>
@@ -64,13 +64,13 @@ export default function Corinthians102() {
           <sup className="calibre7">3</sup>And I was with you in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(personal)</span>
+              <span className="explanation">(personal)</span>
             </span>
           </span>{" "}
           weakness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (an expression of utter dependence on God)
               </span>
             </span>
@@ -78,7 +78,7 @@ export default function Corinthians102() {
           , and in fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (fear that he might not properly Preach the Cross)
               </span>
             </span>
@@ -86,7 +86,7 @@ export default function Corinthians102() {
           , and in much trembling.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He realized the significance of what he was Preaching, and his
                 inadequacy regarding his own person.)
               </span>
@@ -105,7 +105,7 @@ export default function Corinthians102() {
           not with enticing words of mans wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he knew that would not set anyone free; the modern Church
                 should take a lesson from this)
               </span>
@@ -114,7 +114,7 @@ export default function Corinthians102() {
           , but in demonstration of the Spirit and of power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which speaks of what the Holy Spirit can do in the hearts and
                 lives of Believers, if the Cross is properly Preached)
               </span>
@@ -129,7 +129,7 @@ export default function Corinthians102() {
           the wisdom of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of any proposed way other than the Cross)
               </span>
             </span>
@@ -137,7 +137,7 @@ export default function Corinthians102() {
           , but in the Power of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (made possible only by the Cross)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Corinthians102() {
           who are perfect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only the spiritually mature can understand the Wisdom of God,
                 which is the Cross)
               </span>
@@ -160,7 +160,7 @@ export default function Corinthians102() {
           : yet not the wisdom of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Wisdom of God pertaining to Salvation has absolutely no
                 relationship whatsoever to the wisdom of this world)
               </span>
@@ -169,7 +169,7 @@ export default function Corinthians102() {
           , nor of the princes of this world, that come to nought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great Sages and Philosophers of the world contributed
                 nothing to Paul, nor do they to us as well)
               </span>
@@ -193,7 +193,7 @@ export default function Corinthians102() {
               <span className="calibre_19">wisdom</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Wisdom leads sinful men to the great Sacrifice of history,
                 the offering up of Jesus on the Cross of Calvary, which paid the
                 terrible sin debt of man, at least for all who will believe),
@@ -203,7 +203,7 @@ export default function Corinthians102() {
           which God ordained before the world unto our glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Mind of God, Christ was offered up on the Cross even
                 before the foundation of the world [
                 <ScrollLink href="/peter1-1" scrollToId="#filepos14682045">
@@ -226,7 +226,7 @@ export default function Corinthians102() {
           world knew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to their ignorance being a willful ignorance, which
                 was their judgment for rejecting Christ [
                 <ScrollLink href="/acts-03" scrollToId="#filepos12803498">
@@ -254,13 +254,13 @@ export default function Corinthians102() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(had they desired to know),</span>
+              <span className="explanation">(had they desired to know),</span>
             </span>
           </span>{" "}
           they would not have Crucified the Lord of Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These words bring in juxtaposition the lowest humiliation and
                 the most splendid exaltation.)
               </span>
@@ -276,7 +276,7 @@ export default function Corinthians102() {
           <sup className="calibre7">9</sup>But as it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-64" scrollToId="#filepos8071720">
                   <span className="calibre_19">
@@ -293,7 +293,7 @@ export default function Corinthians102() {
           of man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the purpose is to show that we cannot come to a knowledge of
                 God through these normal ways of learning)
               </span>
@@ -313,7 +313,7 @@ export default function Corinthians102() {
           unto us by His Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us the manner of impartation of spiritual knowledge,
                 which is Revelation)
               </span>
@@ -322,7 +322,7 @@ export default function Corinthians102() {
           : for the Spirit searches all things, yes, the deep things of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is the only One amply qualified to reveal God
                 because He is God, and He is the member of the Godhead Who deals
                 directly with man.)
@@ -337,7 +337,7 @@ export default function Corinthians102() {
           man, save the spirit of man which is in him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The spirit of a man can know some things about another man, but
                 within itself cannot know anything about God.)
               </span>
@@ -346,7 +346,7 @@ export default function Corinthians102() {
           even so the things of God knows no man, but the Spirit of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Men cannot learn about God through scientific investigation or
                 human reasoning, but only as the Spirit of God reveals such to
                 the Believer.)
@@ -361,13 +361,13 @@ export default function Corinthians102() {
           of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which is of Satan)</span>
+              <span className="explanation">(which is of Satan)</span>
             </span>
           </span>
           , but the Spirit which is of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (upon conversion, the Believer receives the Spirit of God)
               </span>
             </span>
@@ -375,7 +375,7 @@ export default function Corinthians102() {
           ; that we might know the things that are freely given to us of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only way we can truly know)
               </span>
             </span>
@@ -389,13 +389,13 @@ export default function Corinthians102() {
           the words which mans wisdom teaches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(corrupted wisdom)</span>
+              <span className="explanation">(corrupted wisdom)</span>
             </span>
           </span>
           , but which the Holy Spirit teaches{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which is an understanding of the Word of God)
               </span>
             </span>
@@ -403,7 +403,7 @@ export default function Corinthians102() {
           ; comparing spiritual things with spiritual{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (communicating Spiritual Truths to Spiritual men by the Spirit)
               </span>
             </span>
@@ -417,7 +417,7 @@ export default function Corinthians102() {
           things of the Spirit of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the individual who is not Born-Again)
               </span>
             </span>
@@ -425,7 +425,7 @@ export default function Corinthians102() {
           : for they are foolishness unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a lack of understanding)</span>
+              <span className="explanation">(a lack of understanding)</span>
             </span>
           </span>
           : neither can he know{" "}
@@ -434,7 +434,7 @@ export default function Corinthians102() {
               <span className="calibre_19">them</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (fallen man cannot understand Spiritual Truths),
               </span>
             </span>
@@ -442,7 +442,7 @@ export default function Corinthians102() {
           because they are spiritually discerned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only the Regenerated spirit of man can understand the things of
                 the Spirit)
               </span>
@@ -457,7 +457,7 @@ export default function Corinthians102() {
           things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays only the spiritual person as capable of proper
                 judgment)
               </span>
@@ -466,7 +466,7 @@ export default function Corinthians102() {
           , yet he himself is judged of no man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to judgment which God will accept)
               </span>
             </span>
@@ -480,7 +480,7 @@ export default function Corinthians102() {
           Lord, that he may instruct him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The answer is no one! [
                 <ScrollLink href="/isaiah-40" scrollToId="#filepos7728256">
                   <span className="calibre_19">
@@ -496,7 +496,7 @@ export default function Corinthians102() {
           But we have the Mind of Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They who have the Mind of Christ see things as God sees them.)
               </span>
             </span>

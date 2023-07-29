@@ -19,7 +19,7 @@ export default function Ezekiel47() {
           side of the House, at the south side of the Altar.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first twelve Verses portray the River of the Sanctuary,
                 with the remainder portraying the Borders of the Land. The Door
                 of the House speaks of the Sanctuary from which the waters will
@@ -82,7 +82,7 @@ export default function Ezekiel47() {
           on the right side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then brought He me out of the way of the Gate northward, simply
                 means that the East Inner Gate was shut, and the East Outer Gate
                 was shut as well; therefore, the Lord led him outside of the
@@ -122,7 +122,7 @@ export default function Ezekiel47() {
           brought me through the waters; the waters were to the ankles.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Man is Christ! As the waters issue out from under the
                 threshold of the Sanctuary, and as they flow eastward, the
                 channel begins to widen. At this first stage, it is about 1,500
@@ -142,7 +142,7 @@ export default function Ezekiel47() {
           loins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Knees signify prayer and a total dependence on the Lord, those
                 things being done by the Power of the Holy Spirit instead of the
                 flesh. So, the knees also portray the Baptism with the Holy
@@ -192,7 +192,7 @@ export default function Ezekiel47() {
           waters to swim in, a River that could not be passed over.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The stream has widened, until it is now a River that could not
                 be passed over. This River represents the last progression, with
                 itself open-ended, which symbolizes the whole Gospel for the
@@ -210,7 +210,7 @@ export default function Ezekiel47() {
           brink of the River.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ will now turn the attention of Ezekiel from the Course
                 of the River to the Force of the River. Therefore, in this
                 scenario, one has the Source, which is the Sanctuary, the
@@ -228,7 +228,7 @@ export default function Ezekiel47() {
           other.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Very many trees signify much fruit [
                 <ScrollLink href="/john-15" scrollToId="#filepos12622242">
                   <span className="calibre_19">
@@ -251,7 +251,7 @@ export default function Ezekiel47() {
           be healed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the River is to bring life to the desert, as the
                 Holy Spirit Alone through Christ can bring life to unregenerate
                 man, who is dead in trespasses and sins. Literally, this speaks
@@ -280,7 +280,7 @@ export default function Ezekiel47() {
           thing shall live whither the River comes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Rivers signifies two great Rivers. As this River flows
                 eastward out from the Sanctuary, it will then turn south toward
                 the Dead Sea. At some point on the southern journey, it will
@@ -323,7 +323,7 @@ export default function Ezekiel47() {
           to their kinds, as the fish of the great sea, exceeding many.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is speaking of the Dead Sea, which is no longer dead, but
                 teeming with life. It speaks of many different kinds of fish,
                 exceeding many. This speaks of the harvest, in which the Holy
@@ -339,7 +339,7 @@ export default function Ezekiel47() {
           marishes thereof shall not be healed; they shall be given to salt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason these places arent healed is because imperfection
                 will continue to exist during the Millennium, for man will still
                 be under trial. He will have freedom of choice. If he accepts
@@ -390,7 +390,7 @@ export default function Ezekiel47() {
           thereof shall be for meat, and the leaf thereof for medicine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now Ezekiel is shown the purpose of these miracle Trees which
                 grow on either side of these Rivers. These Trees shall
                 perpetually bring forth new fruit because they are nourished by
@@ -429,7 +429,7 @@ export default function Ezekiel47() {
           twelve Tribes of Israel: Joseph shall have two portions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In Joshua, the Land was divided from south to north. In the
                 coming day of Restoration, it will be apportioned from north to
                 south. Joseph shall have two portions, is because he personally
@@ -447,7 +447,7 @@ export default function Ezekiel47() {
           unto your fathers: and this land shall fall unto you for inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And you shall inherit it, one as well as another, refers to
                 each Tribe, irrespective of their size, receiving equal
                 portions. The latter phrase proclaims the certitude of this
@@ -478,7 +478,7 @@ export default function Ezekiel47() {
           border of Hamath. And this is the north side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Northern Border of the Promised Land, at least in that day,
                 will begin on the Mediterranean Sea and go to the other side of
                 Damascus, which will take in all of modern Syria.)
@@ -495,7 +495,7 @@ export default function Ezekiel47() {
           east side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Eastern Border of the Promised Land in that day will take
                 in all of modern Jordan, for Gilead is that area. The East Sea
                 probably speaks of the Persian Gulf.)
@@ -511,7 +511,7 @@ export default function Ezekiel47() {
           sea. And this is the south side southward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Southern Border will extend down into the Sinai, for this
                 is where Kadesh is located. Actually, this does not include the
                 whole South of the Promised Land; that will take in all the
@@ -572,7 +572,7 @@ export default function Ezekiel47() {
           is the west side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Western Border is easily defined: the Mediterranean Sea.)
               </span>
             </span>
@@ -602,7 +602,7 @@ export default function Ezekiel47() {
           inheritance, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word strangers refers to Gentiles. Inheritance to the
                 Gentiles was forbidden under Law; but, in the Millennium, it
                 will be fully granted. Then will Gods Original Purpose be

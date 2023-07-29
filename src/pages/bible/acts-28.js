@@ -16,7 +16,7 @@ export default function Acts28() {
           knew that the island was called Melita{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is now called Malta, and is about fifty miles south of
                 Sicily in the Mediterranean)
               </span>
@@ -31,7 +31,7 @@ export default function Acts28() {
           little kindness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not meant by Luke to be an insult; it just referred to
                 people who were not influenced by Greek culture)
               </span>
@@ -57,7 +57,7 @@ export default function Acts28() {
           hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Satan, having been unsuccessful in killing Paul with a
                 storm, now trying another tactic)
               </span>
@@ -79,7 +79,7 @@ export default function Acts28() {
           suffers not to live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they knew that the poison of this particular type of viper
                 would kill any man)
               </span>
@@ -94,7 +94,7 @@ export default function Acts28() {
           fire, and felt no harm{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean that he did not feel the pain of the bite, but
                 rather did not begin to swell, as instantly was the case
                 normally!)
@@ -110,7 +110,7 @@ export default function Acts28() {
           have swollen, or fallen down dead suddenly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had personally seen the snake bite Paul, even hanging on
                 his hand; so, they knew the reptile had bitten full force)
               </span>
@@ -120,7 +120,7 @@ export default function Acts28() {
           him, they changed their minds, and said that he was a god{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably referred to Hercules; he was one of the gods of the
                 Phoenicians and was worshiped on Malta under the title of
                 dispeller of evil)
@@ -136,7 +136,7 @@ export default function Acts28() {
           of the Chief man of the island, whose name was Publius{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this man had a Roman name, so it probably means he was the
                 Roman official on this Island)
               </span>
@@ -154,7 +154,7 @@ export default function Acts28() {
           of Publius lay sick of a fever and of a bloody flux{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a medical term which Luke would have used, being a
                 Physician; the man had a reoccurring fever and dysentery)
               </span>
@@ -164,7 +164,9 @@ export default function Acts28() {
           healed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord is still the Healer)</span>
+              <span className="explanation">
+                (the Lord is still the Healer)
+              </span>
             </span>
           </span>
           .
@@ -182,7 +184,7 @@ export default function Acts28() {
           honours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently indicates material things such as clothing, food, and
                 even gifts of money, etc.)
               </span>
@@ -197,7 +199,7 @@ export default function Acts28() {
           with such things as were necessary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt, refers to the entirety of the 276 people who had been
                 shipwrecked)
               </span>
@@ -213,7 +215,7 @@ export default function Acts28() {
           was Castor and Pollux{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently portrayed another grain ship from the same city where
                 the wrecked ship had been based [
                 <ScrollLink href="/acts-27" scrollToId="#filepos13243797">
@@ -244,7 +246,7 @@ export default function Acts28() {
           three days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Syracuse was the capitol of Sicily, about eighty miles north of
                 Malta)
               </span>
@@ -258,14 +260,14 @@ export default function Acts28() {
           <sup className="calibre7">13</sup>And from thence we fetched a compass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(took a heading)</span>
+              <span className="explanation">(took a heading)</span>
             </span>
           </span>
           , and came to Rhegium: and after one day the south wind blew, and we
           came the next day to Puteoli{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Puteoli was the chief port on the Bay of Naples)
               </span>
             </span>
@@ -278,7 +280,7 @@ export default function Acts28() {
           <sup className="calibre7">14</sup>Where we found Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who were followers of Christ)
               </span>
             </span>
@@ -286,7 +288,7 @@ export default function Acts28() {
           , and were desired to tarry with them seven days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Centurion allowed Paul to remain with these Brethren and,
                 no doubt, preach the Gospel to them for this length of time)
               </span>
@@ -295,7 +297,7 @@ export default function Acts28() {
           : and so we went toward Rome{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (finds them finishing this perilous journey on foot)
               </span>
             </span>
@@ -308,14 +310,14 @@ export default function Acts28() {
           <sup className="calibre7">15</sup>And from thence, when the Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Rome)</span>
+              <span className="explanation">(from Rome)</span>
             </span>
           </span>{" "}
           heard of us, they came to meet us as far as Appii forum, and The Three
           Taverns{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a runner evidently went to the Capitol informing the Brethren
                 that Paul was coming; consequently, it seems a group went to
                 meet Paul)
@@ -325,7 +327,7 @@ export default function Acts28() {
           : whom when Paul saw, he thanked God, and took courage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fellowship the Apostle and those with him greatly
                 enjoyed)
               </span>
@@ -343,7 +345,7 @@ export default function Acts28() {
           Centurion delivered the prisoners to the Captain of the Guard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the Commander of Neros Praetorian Guard)
               </span>
             </span>
@@ -352,7 +354,7 @@ export default function Acts28() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (obviously means Paul was treated differently from the other
                 prisoners; he was evidently granted special favors)
               </span>
@@ -367,7 +369,7 @@ export default function Acts28() {
           three days Paul called the Chief of the Jews together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not only refers to the main Jewish Leader in Rome, but the
                 other leaders as well)
               </span>
@@ -382,7 +384,7 @@ export default function Acts28() {
           Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the following account seems to indicate that the Brethren of{" "}
                 <ScrollLink href="/" scrollToId="#filepos13264689">
                   <span className="calibre_19">
@@ -400,7 +402,7 @@ export default function Acts28() {
           hands of the Romans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostle relating the situation exactly as it had
                 happened)
               </span>
@@ -421,7 +423,7 @@ export default function Acts28() {
           go, because there was no cause of death in me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the Romans, not the Jews, as the next Verse
                 explains)
               </span>
@@ -441,7 +443,7 @@ export default function Acts28() {
           I was constrained to appeal unto Caesar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostle having done this in order to save his
                 life)
               </span>
@@ -450,7 +452,7 @@ export default function Acts28() {
           ; not that I had ought to accuse my nation of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was in no way in Rome to bring charges against the Jews or
                 to cause them problems in any manner)
               </span>
@@ -477,7 +479,7 @@ export default function Acts28() {
           because that for the hope of Israel I am bound with this chain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, he is saying that all of this is because of his
                 proclamation of Christ as the Messiah of Israel, and the Saviour
                 of the world)
@@ -497,7 +499,7 @@ export default function Acts28() {
           Brethren who came showed or spoke any harm of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably pertained to the fact that Roman Law punished
                 unsuccessful prosecutors of Roman citizens; it is difficult to
                 comprehend that these Jewish Leaders in Rome had never heard of
@@ -515,7 +517,7 @@ export default function Acts28() {
           you think{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a great opportunity now presented to Paul)
               </span>
             </span>
@@ -523,13 +525,13 @@ export default function Acts28() {
           : for as concerning this sect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christianity)</span>
+              <span className="explanation">(Christianity)</span>
             </span>
           </span>
           , we know that everywhere it is spoken against{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (true Bible Christianity continues to be everywhere spoken
                 against)
               </span>
@@ -550,7 +552,7 @@ export default function Acts28() {
           lodging{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that he was allowed to rent a house, and there
                 abide during his stay in Rome)
               </span>
@@ -566,7 +568,7 @@ export default function Acts28() {
           the Prophets, from morning till evening{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they heard the Word as they had never heard the Word before;
                 above all, they heard about Jesus, to Whom the Word pointed)
               </span>
@@ -581,7 +583,7 @@ export default function Acts28() {
           were spoken, and some believed not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some embraced Christ as Lord, Messiah, and Saviour, and some
                 did not)
               </span>
@@ -600,7 +602,7 @@ export default function Acts28() {
           spoke the Holy Spirit by Isaiah the Prophet unto our Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the instrument as Isaiah, but the Speaker as the Holy
                 Spirit)
               </span>
@@ -616,7 +618,7 @@ export default function Acts28() {
           shall see, and not perceive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-06" scrollToId="#filepos7330623">
                   <span className="calibre_19">
@@ -714,7 +716,7 @@ export default function Acts28() {
           heart, and should be converted, and I should heal them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a willful rejection of Truth, which brings about a
                 willful judgment of the hardening of the heart)
               </span>
@@ -735,7 +737,7 @@ export default function Acts28() {
           they will hear it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Pauls last statement to the Jewish leadership of Rome
                 that day; in effect, he says that the Salvation of God is found
                 only in Jesus)
@@ -751,7 +753,7 @@ export default function Acts28() {
           the Jews departed, and had great reasoning among themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (discussing greatly what he had said)
               </span>
             </span>
@@ -768,13 +770,13 @@ export default function Acts28() {
           his own hired house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rented house)</span>
+              <span className="explanation">(rented house)</span>
             </span>
           </span>
           , and received all who came in unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt, strengthened the Church mightily in Rome)
               </span>
             </span>
@@ -787,7 +789,7 @@ export default function Acts28() {
           <sup className="calibre7">31</sup>Preaching the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Rule of God in the human heart and life)
               </span>
             </span>
@@ -796,7 +798,7 @@ export default function Acts28() {
           all confidence, no man forbidding him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is said that even some from Caesars household were converted
                 [
                 <ScrollLink href="/philippians-4" scrollToId="#filepos14133656">

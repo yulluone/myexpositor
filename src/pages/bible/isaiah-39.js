@@ -17,7 +17,7 @@ export default function Isaiah39() {
           Hezekiah: for he had heard that he had been sick, and was recovered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, at that time, refer to the time after the healing of
                 Hezekiah, probably within the year. The Babylonian Empire was
                 just now beginning to flex its muscles and was, therefore,
@@ -60,7 +60,7 @@ export default function Isaiah39() {
           in his house, nor in all his dominion, that Hezekiah showed them not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, and and his, occur each five times in this Verse.
                 They call attention to, and emphasize, Hezekiahs childish
                 ostentation in directing attention to the wonders of his palace
@@ -82,7 +82,7 @@ export default function Isaiah39() {
           country unto me, even from Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah was not sent for! He came unbidden to rebuke the king.
                 This bold attitude was one which Prophets were entitled to take
                 by virtue of their office, which called upon them to bear
@@ -111,7 +111,7 @@ export default function Isaiah39() {
           seen: there is nothing among my treasures that I have not shown them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah does not withhold from him the information, because he
                 is not ashamed of the act, but rather glories in it. Once again,
                 pride is the culprit. He desires that the envoy from Babylon see
@@ -139,7 +139,7 @@ export default function Isaiah39() {
           the Word of the LORD of Hosts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no indication that the Lord punished Hezekiah for this
                 deed, even though the sin was great; however,{" "}
                 <ScrollLink href="/chronicles2-32" scrollToId="#filepos4986322">
@@ -164,7 +164,7 @@ export default function Isaiah39() {
           says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah was a true and brave servant of the Gospel; he did not
                 fear to warn even kings of the Wrath of God.)
               </span>
@@ -179,7 +179,7 @@ export default function Isaiah39() {
           eunuchs in the palace of the king of Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Isaiah said this, Hezekiah had no sons. Manasseh was born
                 about three years later [
                 <ScrollLink href="/kings2-20" scrollToId="#filepos4307165">
@@ -263,7 +263,7 @@ export default function Isaiah39() {
           there shall be peace and truth in my days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/chronicles2-32" scrollToId="#filepos4984697">
                   <span className="calibre_19">

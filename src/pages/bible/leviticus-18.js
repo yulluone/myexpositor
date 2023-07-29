@@ -93,7 +93,7 @@ export default function Leviticus18() {
           is near of kin to him, to uncover their nakedness: I am the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(incest is forbidden)</span>
+              <span className="explanation">(incest is forbidden)</span>
             </span>
           </span>
         </span>
@@ -436,7 +436,7 @@ export default function Leviticus18() {
           and My Judgments, and shall not commit any of these abominations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(obey the Word of the Lord)</span>
+              <span className="explanation">(obey the Word of the Lord)</span>
             </span>
           </span>
           ; neither any of your own nation, nor any stranger who sojourns among
@@ -492,7 +492,7 @@ export default function Leviticus18() {
           from among their people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the warning is given)</span>
+              <span className="explanation">(the warning is given)</span>
             </span>
           </span>
         </span>

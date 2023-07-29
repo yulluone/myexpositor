@@ -392,7 +392,7 @@ export default function Samuel211() {
           Jerubbesheth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gideon)</span>
+              <span className="explanation">(Gideon)</span>
             </span>
           </span>
           ? did not a woman cast a piece of a millstone upon him from the wall,
@@ -422,7 +422,7 @@ export default function Samuel211() {
           field, and we were upon them even unto the entering of the gate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(chased after them)</span>
+              <span className="explanation">(chased after them)</span>
             </span>
           </span>
         </span>

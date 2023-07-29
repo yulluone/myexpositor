@@ -17,7 +17,7 @@ export default function Isaiah43() {
           have redeemed you, I have called you by your name; you are Mine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Chapter, the Holy Spirit through Isaiah portrays two
                 things: Israels purpose and Gods greatness! The last Verse of
                 the previous Chapter portrays Israels refusal to repent. Set
@@ -36,7 +36,7 @@ export default function Isaiah43() {
           the flame kindle upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels past history affords striking proofs of the
                 truthfulness of this Verse. The future will reveal yet more
                 striking proofs of its truth. Such Prophecies not only apply to
@@ -53,7 +53,7 @@ export default function Isaiah43() {
           and Seba for you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Particular countries which would have destroyed Israel were
                 instead destroyed by the Lord, which is referred to as your
                 ransom. As well, the Lord paid the ransom on the Cross, which
@@ -79,7 +79,7 @@ export default function Isaiah43() {
           men for you, and people for your life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel became precious from the time that the Promise was given
                 to Jacob that in his seed all the nations of the Earth should be
                 blessed [
@@ -116,7 +116,7 @@ export default function Isaiah43() {
           bring your seed from the east, and gather you from the west{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7771959">
                   <span className="calibre_19">
@@ -148,7 +148,7 @@ export default function Isaiah43() {
           from the ends of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, this will take place on a worldwide scale
                 immediately after the Second Coming, because Israel will have
                 then made Christ her Saviour and her Lord)
@@ -165,7 +165,7 @@ export default function Isaiah43() {
           have made him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The very name of Israel means Prince of God or Soldier of God,
                 and thus every Israelite was called by Gods Name.)
               </span>
@@ -179,7 +179,7 @@ export default function Isaiah43() {
           eyes, and the deaf who have ears.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is described here as blind people who have eyes; in
                 other words, a people long blind, who have now, to some extent,
                 recovered their sight and are ready to witness for God. As
@@ -197,7 +197,7 @@ export default function Isaiah43() {
           that they may be justified: or let them hear, and say, It is truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This of which the Lord will do, and we speak of the Restoration
                 of Israel, will be of such magnitude that the Lord will gather
                 the nations of the world that they may observe and say, It is
@@ -218,7 +218,7 @@ export default function Isaiah43() {
           neither shall there be after Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As in the previous Verse, the nations are invited to come
                 together and challenged once more to vindicate their idols by
                 fulfilled Prophecy. But it is in vain that they will seek for
@@ -237,7 +237,7 @@ export default function Isaiah43() {
           Me there is no Saviour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (None but God can save men. Man cannot make atonement for his
                 followers. In this Passage is found the telling point of the
                 Gospel, and the contention arousing Satans anger. Emphatically,
@@ -255,7 +255,7 @@ export default function Isaiah43() {
           are My witnesses, says the LORD, that I am God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It could be translated, I did what the idol-gods cannot do
                 announced Deliverance and effected it, and further proclaimed
                 [or published] it at the time when you Israelites had no
@@ -276,7 +276,7 @@ export default function Isaiah43() {
           shall let it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first part of this Verse, before the day was I am He,
                 refers to the Truth that God was just as powerful before He
                 delivered Judah from Sennacherib as He was at the time of their
@@ -295,7 +295,7 @@ export default function Isaiah43() {
           ships.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now the Prophecy is given concerning the coming destruction of
                 Babylon. It would happen approximately 170 years in the future.
               </span>
@@ -335,7 +335,7 @@ export default function Isaiah43() {
           creator of Israel, your King.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, we are told that the LORD is the only One Who
                 can make such predictions as are outlined in the previous Verse
                 and unfailingly make them come to pass. He tells them here that
@@ -360,7 +360,7 @@ export default function Isaiah43() {
           in the sea, and a path in the mighty waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this has reference to Gods Deliverance of Israel out of Egypt
                 by the way in the sea; these mighty waters would be pushed back,
                 with a path made through them for Israels safe crossing)
@@ -377,7 +377,7 @@ export default function Isaiah43() {
           shall not rise: they are extinct, they are quenched as tow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Chaldeans were to perish as completely as the Egyptians did
                 in the Red Sea. The words, quenched as tow, refer to the wick
                 that was made of flax; it was very flimsy and, thereby, easily
@@ -394,7 +394,7 @@ export default function Isaiah43() {
           neither consider the things of old.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is saying that the old Deliverance will be as
                 nothing compared with the new. Israel must cast its eye
                 forwards, not backwards.)
@@ -410,7 +410,7 @@ export default function Isaiah43() {
           in the wilderness, and rivers in the desert.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Millennial Reign, when Christ will reign
                 supreme from Jerusalem, and Israel, at long last, will accept
                 Him as Lord and Saviour.)
@@ -426,7 +426,7 @@ export default function Isaiah43() {
           and rivers in the desert, to give drink to My People, My Chosen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These wild beasts and fowls of this Verse may possibly figure
                 the Gentile nations. Many will come to Christ, because of His
                 Power to save.)
@@ -441,7 +441,7 @@ export default function Isaiah43() {
           Myself; they shall show forth My praise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Finally, and at long last, this people, i.e., Israel, shall
                 show forth My praise.)
               </span>
@@ -455,7 +455,7 @@ export default function Isaiah43() {
           Jacob; but you have been weary of Me, O Is rael.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Constantly, the Holy Spirit contrasts Jacob and Israel. He
                 attempts to make them into Israel, the Prince of God, while they
                 insist upon being Jacob, the schemer and supplanter.)
@@ -472,7 +472,7 @@ export default function Isaiah43() {
           wearied you with Incense.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In these Passages, we are witnessing a loving parent pleading
                 with his children; and with pity, compassion, love, and
                 tenderness!)
@@ -489,7 +489,7 @@ export default function Isaiah43() {
           wearied Me with your iniquities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is actually sweet calamus referred to here by the Lord using
                 the term sweet cane. It was used in the Incense that was poured
                 on the Golden Altar [
@@ -548,7 +548,7 @@ export default function Isaiah43() {
           transgressions for My Own sake, and will not remember your sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The recital of Israels contempt of and disobedience to the Law
                 is cleft in two and seemingly disjointed and interrupted by the
                 declaration of this Verse. Such is the heart of God! When sin
@@ -581,7 +581,7 @@ export default function Isaiah43() {
           together: declare you, that you may be justified.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The answer is: I cannot produce any defense. When man is
                 brought to this consciousness, he listens with wonder to the
                 glad tidings offering him a spotless Righteousness in and
@@ -597,7 +597,7 @@ export default function Isaiah43() {
           your teachers have transgressed against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first father refers to Abraham. Your teachers refer to the
                 Priests and Levites of the Sanctuary, who also sinned! The idea
                 of this Passage is that Israel cannot fall back upon merit.)
@@ -613,7 +613,7 @@ export default function Isaiah43() {
           Israel to reproaches.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The profaning of the princes of the Sanctuary refers to the
                 captivity, when the Babylonians took Jerusalem and destroyed the
                 Temple. It refers to the principal members of the Priesthood who

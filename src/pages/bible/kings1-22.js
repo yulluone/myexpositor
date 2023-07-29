@@ -282,7 +282,7 @@ export default function Kings122() {
           <sup className="calibre7">17</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Micaiah)</span>
+              <span className="explanation">(Micaiah)</span>
             </span>
           </span>{" "}
           said, I saw all Israel scattered upon the hills, as sheep that have
@@ -319,7 +319,7 @@ export default function Kings122() {
           <sup className="calibre7">19</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Micaiah)</span>
+              <span className="explanation">(Micaiah)</span>
             </span>
           </span>{" "}
           said, Hear you therefore the Word of the LORD: I saw the LORD sitting
@@ -359,7 +359,7 @@ export default function Kings122() {
           <sup className="calibre7">21</sup>And there came forth a spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an evil spirit)</span>
+              <span className="explanation">(an evil spirit)</span>
             </span>
           </span>
           , and stood before the LORD, and said, I will persuade him.{" "}

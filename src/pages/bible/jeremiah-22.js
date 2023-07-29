@@ -25,7 +25,7 @@ export default function Jeremiah22() {
           servants, and your people who enter in by these gates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Chapter and the prior one, the four kings who hastened
                 and presided at the ruin of their people is contrasted with the
                 Righteous King, Who will restore and bless His People [
@@ -69,7 +69,7 @@ export default function Jeremiah22() {
           fatherless, nor the widow, neither shed innocent blood in this place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Message from the Lord was simple, to the point, with
                 absolutely no reason that it be misunderstood.)
               </span>
@@ -85,7 +85,7 @@ export default function Jeremiah22() {
           servants, and his people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Promise is almost identical to the same Promise given
                 previously [
                 <ScrollLink href="/jeremiah-17" scrollToId="#filepos8398681">
@@ -108,7 +108,7 @@ export default function Jeremiah22() {
           desolation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I swear by Myself, says the LORD, is a solemn oath synonymous
                 with the expression, As I live, says Jehovah, and refers to the
                 certitude of the Word being carried out.)
@@ -125,7 +125,7 @@ export default function Jeremiah22() {
           inhabited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You are Gilead unto Me, and the head of Lebanon, refers to the
                 beauty of Judah. Yet surely I will make you a wilderness, and
                 cities which are not inhabited, has a terrible significance. It
@@ -142,7 +142,7 @@ export default function Jeremiah22() {
           cedars, and cast them into the fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The destroyers were the Chaldeans. The choice cedars actually
                 referred to the palaces erected by the king and his nobles. They
                 were built of cedar. As well, they were burned by the
@@ -159,7 +159,7 @@ export default function Jeremiah22() {
           the LORD done thus unto this great city?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nebuchadnezzar no doubt thought that it was his military power
                 that did this unto this great city, Jerusalem; however, he was
                 only an instrument in the Hands of the LORD.)
@@ -175,7 +175,7 @@ export default function Jeremiah22() {
           gods, and served them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people of Judah traded the LORD their God for other gods.
                 The Covenant was the Bible, and it was forsaken.)
               </span>
@@ -193,7 +193,7 @@ export default function Jeremiah22() {
           no more, nor see his native country.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Weep you not for the dead, neither bemoan him, refers to Josiah
                 [
                 <ScrollLink href="/chronicles2-35" scrollToId="#filepos5022856">
@@ -237,7 +237,7 @@ export default function Jeremiah22() {
           thither any more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Shallum [Jehoahaz], although younger, was
                 preferred above his brother Jehoiakim. Pharaoh-Neco preferred
                 his brother to him; therefore, after only a three-month reign,
@@ -256,7 +256,7 @@ export default function Jeremiah22() {
           whither they have led him captive, and shall see this land no more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehoahaz was two years younger than his brother Jehoiakim, and
                 by right should not have had the throne after the death of his
                 father Josiah. However, it seems from{" "}
@@ -285,7 +285,7 @@ export default function Jeremiah22() {
           service without wages, and gives him not for his work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of Jehoiakim, who took the place of Jehoahaz, and
                 to whom Jeremiah was sent by the Lord, recorded at the beginning
                 of this Chapter. He reigned for eleven years and was marked by
@@ -303,7 +303,7 @@ export default function Jeremiah22() {
           with cedar, and painted with vermilion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is but one example of palatial excellence being built at
                 the expense of the poor, fatherless, and widowed.)
               </span>
@@ -318,7 +318,7 @@ export default function Jeremiah22() {
           and justice, and then it was well with him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The way this palace was built by Jehoiakim violated{" "}
                 <ScrollLink href="/leviticus-19" scrollToId="#filepos1544087">
                   <span className="calibre_19">
@@ -358,14 +358,14 @@ export default function Jeremiah22() {
           <sup className="calibre7">16</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Josiah)</span>
+              <span className="explanation">(Josiah)</span>
             </span>
           </span>{" "}
           judged the cause of the poor and needy; then it was well with him: was
           not this to know Me? says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Because Josiah did these things, the Holy Spirit says, and two
                 times at that, Then it was well with him. What he did pleased
                 the Lord; therefore, he had the Blessings of God.)
@@ -381,7 +381,7 @@ export default function Jeremiah22() {
           oppression, and for violence, to do it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, we see that Jehoiakim was the total opposite
                 of his father Josiah!)
               </span>
@@ -397,7 +397,7 @@ export default function Jeremiah22() {
           lament for him, saying, Ah lord! or, Ah his glory!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is noteworthy that{" "}
                 <ScrollLink href="/kings2-24" scrollToId="#filepos4350703">
                   <span className="calibre_19">
@@ -437,7 +437,7 @@ export default function Jeremiah22() {
           of an ass, drawn and cast forth beyond the gates of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is strange that the man, even the king, would hear this type
                 of Prophecy, knowing that it was speaking of him, and in no
                 uncertain terms, and still reject it!)
@@ -458,7 +458,7 @@ export default function Jeremiah22() {
           lovers are destroyed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Nineteenth Verse finished with Jehoiakim, this Verse
                 deals with his son and successor, Jehoiachin. Your lovers are
                 destroyed, refers to the nations to which Judah looked, but
@@ -475,7 +475,7 @@ export default function Jeremiah22() {
           youth, that you obeyed not My voice.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Jehoiachin [Coniah] will be addressed momentarily,
                 at this point the Holy Spirit is speaking directly to Judah.)
               </span>
@@ -490,7 +490,7 @@ export default function Jeremiah22() {
           you be ashamed and confounded for all your wickedness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Pastors referred to here actually speak of rulers of all
                 kinds. It does not refer to Pastors of Churches, as we know such
                 today! The wind spoken of is the armed force of Nebuchadnezzar,
@@ -508,7 +508,7 @@ export default function Jeremiah22() {
           upon you, the pain as of a woman in travail!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though it seems as if Jeremiah is speaking of Lebanon, he
                 actually is speaking of the nobles of Jerusalem, who built their
                 homes out of the great cedar trees of Lebanon.)
@@ -524,7 +524,7 @@ export default function Jeremiah22() {
           Right Hand, yet would I pluck you thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, due to him being the king of Judah, and, thereby, the
                 leader of Gods chosen People, he, in effect, was the signet upon
                 Gods Right Hand. However, the Lord had disowned him, i.e., yet
@@ -552,7 +552,7 @@ export default function Jeremiah22() {
           and there shall you die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehoiachin [Coniah] and his mother Nehushta died in Babylon.
                 The mentioning of her, and by the Holy Spirit at that, shows
                 that she was rather influential and had no doubt encouraged
@@ -568,7 +568,7 @@ export default function Jeremiah22() {
           desire to return, thither shall they not return.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, they desire to return, no doubt indicate that their
                 stay in Babylon was not a happy one; furthermore, they would
                 never again see the land given to them by God, which had been
@@ -585,7 +585,7 @@ export default function Jeremiah22() {
           out, he and his seed, and are cast into a land which they know not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Is this man Coniah a despised broken idol?, is
                 strong indeed! The word idol means a despised earthen vessel;
                 the potter has no pleasure in it and, therefore, breaks it.)
@@ -600,7 +600,7 @@ export default function Jeremiah22() {
           of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The declaration of this Verse is solemn! With the fall of
                 Judah, there would be no nation left in the world who knew
                 anything about Jehovah; consequently, the entirety of the world
@@ -618,7 +618,7 @@ export default function Jeremiah22() {
           any more in Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And so it came to pass! Though Coniah had descendents, not one
                 of them ever sat upon the throne at Jerusalem. Great attention
                 is given to this king, even though he reigned only a very short

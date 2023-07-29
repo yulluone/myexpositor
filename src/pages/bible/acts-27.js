@@ -15,13 +15,13 @@ export default function Acts27() {
           <sup className="calibre7">1</sup>And when it was determined that we{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Luke is still with Paul)</span>
+              <span className="explanation">(Luke is still with Paul)</span>
             </span>
           </span>{" "}
           should sail into Italy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the time has now arrived when Paul will now go to Rome)
               </span>
             </span>
@@ -35,7 +35,7 @@ export default function Acts27() {
           named Julius, a centurion of Augustus band{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was an elite band directly responsible to the Emperor)
               </span>
             </span>
@@ -55,7 +55,7 @@ export default function Acts27() {
           Aristarchus, a Macedonian of Thessalonica, being with us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims another of Pauls converts being with him along with
                 Luke; consequently, Festus allowed Paul two traveling associates
                 [
@@ -84,7 +84,7 @@ export default function Acts27() {
           we touched at Sidon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a port about seventy miles north of Caesarea)
               </span>
             </span>
@@ -98,7 +98,7 @@ export default function Acts27() {
           liberty to go unto his friends to refresh himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul and his associates were allowed to stay with these people
                 in Sidon until the ship sailed; this shows how much trust the
                 Centurion placed in Paul)
@@ -113,7 +113,7 @@ export default function Acts27() {
           <sup className="calibre7">4</sup>And when we had launched from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Sidon)</span>
+              <span className="explanation">(from Sidon)</span>
             </span>
           </span>
           , we sailed under Cyprus, because the winds were contrary.
@@ -137,7 +137,7 @@ export default function Acts27() {
           of Alexandria sailing into Italy; and he put us therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they changed ships)</span>
+              <span className="explanation">(they changed ships)</span>
             </span>
           </span>
           .
@@ -150,7 +150,7 @@ export default function Acts27() {
           us, we sailed under Crete, over against Salmone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the winds were not favorable, so they were not making good
                 time)
               </span>
@@ -171,7 +171,7 @@ export default function Acts27() {
           Lasea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was no town at Fair Havens for them to replenish their
                 stores, with Lasea being about five miles distant)
               </span>
@@ -185,7 +185,7 @@ export default function Acts27() {
           <sup className="calibre7">9</sup>Now when much time was spent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spoke of several days with still no favorable winds)
               </span>
             </span>
@@ -193,7 +193,7 @@ export default function Acts27() {
           , and when sailing was now dangerous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to any time after September 14 th)
               </span>
             </span>
@@ -216,13 +216,13 @@ export default function Acts27() {
           lading{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cargo)</span>
+              <span className="explanation">(cargo)</span>
             </span>
           </span>{" "}
           and ship, but also of our lives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which the Lord had evidently already related to
                 Paul)
               </span>
@@ -238,7 +238,7 @@ export default function Acts27() {
           were spoken by Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they would find to their chagrin that they had chosen wrong)
               </span>
             </span>
@@ -251,7 +251,7 @@ export default function Acts27() {
           <sup className="calibre7">12</sup>And because the haven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Fair Havens)</span>
+              <span className="explanation">(Fair Havens)</span>
             </span>
           </span>{" "}
           was not commodious to winter in, the more part advised to depart
@@ -270,7 +270,7 @@ export default function Acts27() {
           an haven of Crete, and lies toward the southwest and northwest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to a harbor which, in fact, was commodious, and where
                 some imperial grain ships actually did tie up for the winter; it
                 was about fifty miles west of Fair Havens)
@@ -298,7 +298,7 @@ export default function Acts27() {
           they sailed close by Crete{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to a wind direction for which they had been waiting)
               </span>
             </span>
@@ -315,7 +315,7 @@ export default function Acts27() {
           against it a tempestuous wind, called Euroclydon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was a hurricane)</span>
+              <span className="explanation">(this was a hurricane)</span>
             </span>
           </span>
           .
@@ -333,7 +333,7 @@ export default function Acts27() {
           drive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the helmsman simply could not hold the wheel for the
                 force of the wind; so he could do nothing but let the ship drive
                 toward whatever the direction the wind wanted it to go)
@@ -349,7 +349,7 @@ export default function Acts27() {
           which is called Clauda, we had much work to come by the boat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the boat of which Luke speaks was a little skiff they were
                 pulling, which was the custom then and remained so for many
                 centuries; due to the storm, they had great difficulty getting
@@ -366,7 +366,7 @@ export default function Acts27() {
           used helps, undergirding the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were large ropes which were pulled under the ship and
                 made sure, helping to hold the vessel together in the storm);
               </span>
@@ -376,7 +376,7 @@ export default function Acts27() {
           and so were driven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this way they would be driven by the wind, but with few or no
                 sails stretched at all; hopefully the wind would change before
                 they were driven onto the rocks)
@@ -398,7 +398,7 @@ export default function Acts27() {
           they lightened the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had to throw certain things overboard)
               </span>
             </span>
@@ -417,7 +417,7 @@ export default function Acts27() {
           we cast out with our own hands the tackling of the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the third day after leaving Clauda; they now threw
                 overboard ship equipment, even that which was desperately
                 needed)
@@ -439,7 +439,7 @@ export default function Acts27() {
           all hope that we should be saved was then taken away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now all on-board knew that they should have listened to Paul)
               </span>
             </span>
@@ -455,7 +455,7 @@ export default function Acts27() {
           <sup className="calibre7">21</sup>But after long abstinence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer to a fast as some claim, but rather that they
                 hadnt had a prepared meal for some days)
               </span>
@@ -466,7 +466,7 @@ export default function Acts27() {
           this harm and loss{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not really meant as a reprimand by the Apostle, but rather
                 to give foundation to what he is about to say)
               </span>
@@ -487,7 +487,7 @@ export default function Acts27() {
           life among you, but of the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (plainly tells us that the ship will be lost with its cargo of
                 wheat, but not a person will lose their life)
               </span>
@@ -502,7 +502,7 @@ export default function Acts27() {
           Angel of God, Whose I am, and Whom I serve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the statements Whose I am, Whom I serve, and I believe God [
                 <ScrollLink href="/" scrollToId="#filepos13251803">
                   <span className="calibre_19">
@@ -523,7 +523,7 @@ export default function Acts27() {
           <sup className="calibre7">24</sup>Saying, Fear not, Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (said in this manner because there had been fear in Pauls heart,
                 as well as everyone else on-board)
               </span>
@@ -532,7 +532,7 @@ export default function Acts27() {
           ; you must be brought before Caesar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not because of Pauls appeal to Caesar, or because of the
                 charges brought against him by the Jews, but rather because of
                 the Divine Plan)
@@ -542,7 +542,7 @@ export default function Acts27() {
           : and, lo, God has given you all them who sail with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every Saint had better know as to what Preacher he is with)
               </span>
             </span>
@@ -556,7 +556,7 @@ export default function Acts27() {
           for I believe God, that it shall be even as it was told me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (insinuates that possibly some did not believe what Paul was
                 saying)
               </span>
@@ -571,7 +571,7 @@ export default function Acts27() {
           certain island{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Angel evidently did not tell Paul what Island!)
               </span>
             </span>
@@ -588,7 +588,7 @@ export default function Acts27() {
           come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the length of time after leaving Fair Havens; so
                 the storm had lasted now for about two weeks)
               </span>
@@ -598,7 +598,7 @@ export default function Acts27() {
           deemed that they drew near to some country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they could hear waves breaking on the beach, or rocks, at some
                 distance)
               </span>
@@ -618,7 +618,7 @@ export default function Acts27() {
           twenty fathoms{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a depth of about 120 feet)</span>
+              <span className="explanation">(a depth of about 120 feet)</span>
             </span>
           </span>
           : and when they had gone a little further, they sounded again, and
@@ -638,7 +638,7 @@ export default function Acts27() {
           for the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were anxious for the night to be over, so they could see where
                 they were)
               </span>
@@ -653,7 +653,7 @@ export default function Acts27() {
           flee out of the ship, when they had let down the boat into the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays some, if not all, of the ships crew about to take the
                 only small boat they had and attempt to escape to shore, in
                 effect, deserting the ship)
@@ -664,7 +664,7 @@ export default function Acts27() {
           foreship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents their deception, but Paul was watching)
               </span>
             </span>
@@ -678,7 +678,7 @@ export default function Acts27() {
           the soldiers, Except these abide in the ship, you cannot be saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to obtain Gods Promises, we must abide by His Conditions)
               </span>
             </span>
@@ -692,7 +692,7 @@ export default function Acts27() {
           of the boat, and let her fall off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Centurion now believes Paul)
               </span>
             </span>
@@ -713,7 +713,7 @@ export default function Acts27() {
           tarried and continued fasting, having taken nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing! the Greek word used here means they had eaten no
                 regular meal)
               </span>
@@ -733,7 +733,7 @@ export default function Acts27() {
           meat: for this is for your health{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they should attempt to force at least some food down,
                 irrespective of their seasickness, which, no doubt, some of them
                 still had)
@@ -743,7 +743,7 @@ export default function Acts27() {
           : for there shall not an hair fall from the head of any of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that is, if you will do what I say)
               </span>
             </span>
@@ -757,7 +757,7 @@ export default function Acts27() {
           bread, and gave thanks to God in presence of them all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which every Believer should do at every meal, as well)
               </span>
             </span>
@@ -783,7 +783,7 @@ export default function Acts27() {
           meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(some food)</span>
+              <span className="explanation">(some food)</span>
             </span>
           </span>
           .
@@ -795,7 +795,7 @@ export default function Acts27() {
           hundred threescore and sixteen souls{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (276 people on-board, which meant the ship was quite large)
               </span>
             </span>
@@ -809,7 +809,7 @@ export default function Acts27() {
           lightened the ship, and cast out the wheat into the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what was left of the cargo still on-board)
               </span>
             </span>
@@ -823,7 +823,7 @@ export default function Acts27() {
           the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did not know where they were)
               </span>
             </span>
@@ -832,7 +832,7 @@ export default function Acts27() {
           they were minded, if it were possible, to thrust in the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they wanted to take the ship as close to the shore as possible)
               </span>
             </span>
@@ -853,7 +853,7 @@ export default function Acts27() {
           to the wind, and made toward shore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, trying to get as close as possible!)
               </span>
             </span>
@@ -869,7 +869,7 @@ export default function Acts27() {
           of the waves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had not gotten in as close as they desired)
               </span>
             </span>
@@ -883,7 +883,7 @@ export default function Acts27() {
           the prisoners, lest any of them should swim out, and escape{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason for this is that Roman Law condemned guards to death
                 if prisoners escaped under their watch)
               </span>
@@ -904,7 +904,7 @@ export default function Acts27() {
           purpose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents this man now knowing Paul was not just another
                 prisoner)
               </span>
@@ -938,7 +938,7 @@ export default function Acts27() {
           land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (fulfilled exactly that which the Angel had conveyed to Paul)
               </span>
             </span>

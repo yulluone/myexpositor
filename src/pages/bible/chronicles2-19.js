@@ -16,7 +16,7 @@ export default function Chronicles219() {
           returned to his house in peace to Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter proclaims rebuke and Repentance. Jehoshaphat
                 returned in peace, only because the Lord was merciful to him.
                 The two kings, Ahab and Jehoshaphat, are perfect examples of
@@ -35,7 +35,7 @@ export default function Chronicles219() {
           you from before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord was very displeased with Jehoshaphats alliance with
                 Ahab, and there would be repercussions, even as the word wrath
                 proclaims, and which we shall see; sin must never be taken
@@ -61,13 +61,13 @@ export default function Chronicles219() {
           found in you, in that you have taken away the groves out of the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idol worship)</span>
+              <span className="explanation">(idol worship)</span>
             </span>
           </span>
           , and have pre pared your heart to seek God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and it is the heart to which the Lord looks)
               </span>
             </span>
@@ -85,7 +85,7 @@ export default function Chronicles219() {
           Ephraim, and brought them back unto the LORD God of their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word again, as used here, speaks of Repentance on the part
                 of Jehoshaphat and, as well, the second revival of teaching the
                 Law of Moses and bringing the people back to God; the Word must
@@ -109,7 +109,7 @@ export default function Chronicles219() {
           you in the judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (civil duties were to be carried out strictly according to the
                 Word of the Lord)
               </span>
@@ -125,7 +125,7 @@ export default function Chronicles219() {
           the LORD our God, nor respect of persons, nor taking of gifts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the latter speaks of bribery; honest judgment by these Judges
                 must be in the Name of the Lord, and all, as stated, according
                 to Gods Word)
@@ -143,7 +143,7 @@ export default function Chronicles219() {
           controversies, when they returned to Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerned cases appealed to the higher court, actually the
                 highest in Israel. There must be justice for the poor, and the
                 rich must not be able to buy their way out of wrongdoing. All of
@@ -204,7 +204,7 @@ export default function Chronicles219() {
           trespass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pure and simple, Jehoshaphat warns these Judges that if they do
                 not abide by the Word of the Lord, they will be committing sin,
                 and the Wrath of God will be the result)
@@ -220,26 +220,26 @@ export default function Chronicles219() {
           Priest is over you in all matters of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the spiritual)</span>
+              <span className="explanation">(the spiritual)</span>
             </span>
           </span>
           ; and Zebadiah the son of Ishmael, the ruler of the House of Judah,
           for all the kings matters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Civil duties)</span>
+              <span className="explanation">(Civil duties)</span>
             </span>
           </span>
           : also the Levites shall be officers before you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law)</span>
+              <span className="explanation">(the Law)</span>
             </span>
           </span>
           . Deal courageously, and the LORD shall be with the good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the same time, the latter phrase is stating that the Lord
                 cannot be with the bad)
               </span>

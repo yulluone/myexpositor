@@ -17,7 +17,7 @@ export default function Chronicles115() {
           a tent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this particular time, the Lord had not told David to do
                 otherwise regarding the Ark; that would come later)
               </span>
@@ -33,7 +33,7 @@ export default function Chronicles115() {
           the Ark of God, and to minister unto Him for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David searched the Scriptures and learned how the Ark should be
                 carried [
                 <ScrollLink href="/numbers-04" scrollToId="#filepos1724301">
@@ -123,7 +123,7 @@ export default function Chronicles115() {
           not after the due order{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse speaks of David admitting his sin of some three
                 months earlier; he was speaking of the manner in which the Ark
                 of God was to be transported)
@@ -159,7 +159,7 @@ export default function Chronicles115() {
           the voice with joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this time it will not be an empty profession; the joy will be
                 real, because they are now abiding by the Word of God)
               </span>
@@ -174,7 +174,7 @@ export default function Chronicles115() {
           son of Joel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Samuels grandson)</span>
+              <span className="explanation">(Samuels grandson)</span>
             </span>
           </span>
           ; and of his brethren, Asaph the son of Berechiah; and of the sons of
@@ -229,7 +229,7 @@ export default function Chronicles115() {
           Obed-edom and Jehiah were doorkeepers for the Ark.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great processional that will go into Jerusalem with the Ark
                 of God in its midst will be designed by the Holy Spirit. David
                 seemingly wrote Psalm 68 to commemorate this great event. There
@@ -299,7 +299,7 @@ export default function Chronicles115() {
           Covenant of the LORD out of the house of Obed-edom with joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (without proper leadership, such could never have been brought
                 to pass)
               </span>
@@ -315,7 +315,7 @@ export default function Chronicles115() {
           offered seven bullocks and seven rams{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sacrifices typified that all were based upon the shed Blood
                 of the Lamb)
               </span>
@@ -332,7 +332,7 @@ export default function Chronicles115() {
           him an ephod of linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the linen represents the Righteousness of the Saints, and, once
                 again, a Righteousness that did not come from the merit of
                 David, but from the merit of the slain Lamb hence, the
@@ -351,7 +351,7 @@ export default function Chronicles115() {
           psalteries and harps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we find here, as is obvious, all types of musical instruments,
                 and all used for the Glory of God; in fact, the Book of Psalms
                 is the longest Book in the Bible, showing us the emphasis that
@@ -374,7 +374,7 @@ export default function Chronicles115() {
           playing: and she despised him in her heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the flesh can never understand things of the Spirit; actually,
                 the flesh despises all that which is of the Spirit;{" "}
                 <ScrollLink href="/samuel2-06" scrollToId="#filepos3449568">

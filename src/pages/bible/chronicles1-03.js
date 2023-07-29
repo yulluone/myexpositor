@@ -17,7 +17,7 @@ export default function Chronicles103() {
           the Jezreelitess; the second Daniel, of Abigail the Carmelitess{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the whole of this Chapter is occupied with the descendants of
                 David, because through his family the Messiah would ultimately
                 be born [II Sam., Chpt.{" "}
@@ -55,7 +55,7 @@ export default function Chronicles103() {
           Jerusalem he reigned thirty and three years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (David reigned over the Tribe of Judah for seven and a half
                 years, and over the entirety of Israel for thirty-three years,
                 making a total of a little bit more than forty years)
@@ -71,7 +71,7 @@ export default function Chronicles103() {
           Jerusalem; Shimea, and Shobab, and Nathan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was Marys family line [
                 <ScrollLink href="/luke-03" scrollToId="#filepos11759641">
                   <span className="calibre_19">
@@ -87,7 +87,7 @@ export default function Chronicles103() {
           , and Solomon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph, Marys husband, was of the kingly line through Solomon;
                 so, the lineage of Christ was perfect, as it regards Him being
                 the Son of David, for both Mary and Joseph went back to David in
@@ -98,7 +98,7 @@ export default function Chronicles103() {
           , four, of Bath-shua{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Bath-sheba)</span>
+              <span className="explanation">(Bath-sheba)</span>
             </span>
           </span>{" "}
           the daughter of Ammiel:
@@ -136,7 +136,7 @@ export default function Chronicles103() {
           his son, Asa his son, Jehoshaphat his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there were 21 royal descendants of David through Solomon who
                 occupied the throne of Judah)
               </span>
@@ -187,7 +187,7 @@ export default function Chronicles103() {
           Salathiel his son,{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He was also called Jehoiachin or Coniah. Though Jehoiachin had
                 eight sons, not one of them, nor any descendant of any one of
                 them, could ever sit on the throne of David and rule in

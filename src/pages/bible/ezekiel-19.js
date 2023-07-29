@@ -18,7 +18,7 @@ export default function Ezekiel19() {
           for the princes of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word lamentation is used referring to the woe upon the
                 nation of Judah by the ungodly action of two of its kings,
                 Jehoahaz and Jehoiakim. The mourner is Immanuel)
@@ -35,7 +35,7 @@ export default function Ezekiel19() {
           young lions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, What is your mother?, refers to Jerusalem as the
                 great lion, and in a good sense [
                 <ScrollLink href="/isaiah-29" scrollToId="#filepos7572036">
@@ -75,7 +75,7 @@ export default function Ezekiel19() {
           men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One of her whelps, points to Jehoahaz, who became like the
                 heathen princes in the surrounding countries.)
               </span>
@@ -90,7 +90,7 @@ export default function Ezekiel19() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jehoahaz was taken prisoner by Pharaoh-Necho and brought in
                 chains to Egypt.)
               </span>
@@ -108,7 +108,7 @@ export default function Ezekiel19() {
           him a young lion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This relates to Jehoiakim, who reigned eleven years and was
                 made king in the place of his brother, Jehoahaz.)
               </span>
@@ -123,7 +123,7 @@ export default function Ezekiel19() {
           devoured men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he went up and down among the lions, refers to him
                 associating with the heathen nations, exactly as did his
                 brother, Jehoahaz. Josephus, the Jewish Historian, says: He was
@@ -141,7 +141,7 @@ export default function Ezekiel19() {
           fullness thereof, by the noise of his roaring.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he knew their desolate palaces, means that he plundered the
                 nation in order to pay Egypt and to build his costly edifices.
                 And the fullness thereof, by the noise of his roaring, refers to
@@ -158,7 +158,7 @@ export default function Ezekiel19() {
           taken in their pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this dallying with Egypt, he angered the Babylonians, and
                 they set against him on every side.)
               </span>
@@ -173,7 +173,7 @@ export default function Ezekiel19() {
           that his voice should no more be heard upon the mountains of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And brought him to the king of Babylon, does not mean that he
                 was taken to Babylon, but that he was taken before
                 Nebuchadnezzar. Even though the Scripture does not say how he
@@ -195,7 +195,7 @@ export default function Ezekiel19() {
           reason of many waters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your mother is like a vine, is referred to in{" "}
                 <ScrollLink href="/ezekiel-17" scrollToId="#filepos9234712">
                   <span className="calibre_19">
@@ -221,7 +221,7 @@ export default function Ezekiel19() {
           her branches.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And she had strong rods for the scepters of them who bore rule,
                 refers to the kingly line of David, which was God-appointed, and
                 thereby blessed, actually becoming the greatest among nations.)
@@ -237,7 +237,7 @@ export default function Ezekiel19() {
           strong rods were broken and withered; the fire consumed them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But she was plucked up in fury, refers to the Judgment of God
                 which came upon her because of her great sin. The Judgment was
                 not light, but did come in stages.)
@@ -252,7 +252,7 @@ export default function Ezekiel19() {
           wilderness, in a dry and thirsty ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whereas she had once been planted by the waters, i.e., the
                 Blessings of God, now she is in a dry and thirsty ground, i.e.,
                 with no spiritual sustenance whatsoever, because of her
@@ -270,7 +270,7 @@ export default function Ezekiel19() {
           lamentation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And fire is gone out of a rod of her branches, refers to the
                 evil capacity of her kings after Josiah, and the Judgment of God
                 which was swiftly coming upon them. As such, all the glory

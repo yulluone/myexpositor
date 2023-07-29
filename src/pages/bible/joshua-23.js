@@ -47,7 +47,7 @@ export default function Joshua23() {
           Great Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mediterranean)</span>
+              <span className="explanation">(the Mediterranean)</span>
             </span>
           </span>{" "}
           westward.
@@ -178,7 +178,7 @@ export default function Joshua23() {
           has promised you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What a Promise!)</span>
+              <span className="explanation">(What a Promise!)</span>
             </span>
           </span>
         </span>

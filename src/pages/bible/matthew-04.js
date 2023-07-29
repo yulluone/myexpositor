@@ -23,19 +23,19 @@ export default function Matthew04() {
           was Jesus led up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(urgently led)</span>
+              <span className="explanation">(urgently led)</span>
             </span>
           </span>{" "}
           of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           into the wilderness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably close to Jericho)</span>
+              <span className="explanation">(probably close to Jericho)</span>
             </span>
           </span>{" "}
           to be tempted of the Devil{" "}
@@ -166,13 +166,15 @@ export default function Matthew04() {
           <sup className="calibre7">3</sup>And when the tempter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           came to Him, he said, If You be the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since You are the Son of God)</span>
+              <span className="explanation">
+                (since You are the Son of God)
+              </span>
             </span>
           </span>
           , command that these stones be made bread{" "}
@@ -220,13 +222,13 @@ export default function Matthew04() {
           <sup className="calibre7">5</sup>Then the Devil took Him up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a powerful force)</span>
+              <span className="explanation">(a powerful force)</span>
             </span>
           </span>{" "}
           into the Holy City{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>
           , and set Him on a pinnacle of the Temple{" "}
@@ -247,13 +249,15 @@ export default function Matthew04() {
           of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since You are the Son of God)</span>
+              <span className="explanation">
+                (since You are the Son of God)
+              </span>
             </span>
           </span>
           , cast Yourself down{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(literally spoken)</span>
+              <span className="explanation">(literally spoken)</span>
             </span>
           </span>
           : for it is written, He shall give His Angels charge concerning You:
@@ -310,7 +314,7 @@ export default function Matthew04() {
           <sup className="calibre7">8</sup>Again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the third temptation)</span>
+              <span className="explanation">(the third temptation)</span>
             </span>
           </span>
           , the Devil took Him up into an exceeding high mountain{" "}
@@ -426,7 +430,7 @@ export default function Matthew04() {
           , He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           departed into Galilee{" "}
@@ -469,7 +473,9 @@ export default function Matthew04() {
           , which is upon the sea coast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Sea of Galilee)</span>
+              <span className="explanation">
+                (refers to the Sea of Galilee)
+              </span>
             </span>
           </span>
           , in the borders of Zabulon and Nephthalim{" "}
@@ -509,13 +515,13 @@ export default function Matthew04() {
           the way of the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>
           , beyond Jordan, Galilee of the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the great Roman Road</span>
+              <span className="explanation">(the great Roman Road</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -572,7 +578,7 @@ export default function Matthew04() {
           <sup className="calibre7">17</sup>From that time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the move to Capernaum)</span>
+              <span className="explanation">(the move to Capernaum)</span>
             </span>
           </span>{" "}
           Jesus began to preach{" "}
@@ -637,7 +643,7 @@ export default function Matthew04() {
           , and I will make you fishers of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the greatest call of all)</span>
+              <span className="explanation">(the greatest call of all)</span>
             </span>
           </span>
           .
@@ -648,7 +654,7 @@ export default function Matthew04() {
           <sup className="calibre7">20</sup>And they straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           left{" "}
@@ -660,7 +666,7 @@ export default function Matthew04() {
           nets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(their fishing business)</span>
+              <span className="explanation">(their fishing business)</span>
             </span>
           </span>
           , and followed Him.
@@ -762,13 +768,13 @@ export default function Matthew04() {
           : and they brought unto Him all sick people who were taken with divers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(different kinds)</span>
+              <span className="explanation">(different kinds)</span>
             </span>
           </span>{" "}
           diseases and torments, and those which were possessed with devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , and those which were lunatic{" "}
@@ -782,7 +788,7 @@ export default function Matthew04() {
           , and those who had the palsy, and He healed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He turned no one away)</span>
+              <span className="explanation">(He turned no one away)</span>
             </span>
           </span>
           .

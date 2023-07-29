@@ -15,13 +15,13 @@ export default function Hebrews04() {
           <sup className="calibre7">1</sup>Let us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(modern Believers)</span>
+              <span className="explanation">(modern Believers)</span>
             </span>
           </span>{" "}
           therefore fear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Salvation can be lost if the Believer
                 ceases to believe)
               </span>
@@ -36,13 +36,13 @@ export default function Hebrews04() {
           of entering into His rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Promise of Salvation)</span>
+              <span className="explanation">(the Promise of Salvation)</span>
             </span>
           </span>
           , any of you should seem to come short of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proves it is possible for such to be done, which means the
                 loss of the soul.)
               </span>
@@ -56,7 +56,7 @@ export default function Hebrews04() {
           as well as unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is only one Gospel, and that is Jesus Christ and Him
                 Crucified)
               </span>
@@ -65,7 +65,7 @@ export default function Hebrews04() {
           : but the Word preached did not profit them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the Cross is abandoned as the Object of Faith, Christ will
                 profit no one anything [
                 <ScrollLink href="/galatians-5" scrollToId="#filepos13967785">
@@ -85,7 +85,7 @@ export default function Hebrews04() {
               <span className="calibre_19">it.</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Israelites had Faith, but not in the right object. It must
                 be Faith in Christ and the Cross, or its not valid Faith.)
               </span>
@@ -99,7 +99,7 @@ export default function Hebrews04() {
           into rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims unequivocally that Faith is the key, but let it be
                 understood that its Faith in Christ and the Cross)
               </span>
@@ -109,13 +109,13 @@ export default function Hebrews04() {
           rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the condition is Faith)</span>
+              <span className="explanation">(the condition is Faith)</span>
             </span>
           </span>
           : although the works were finished from the foundation of the world.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to this great Plan of Salvation through Christ and
                 the Cross having been formulated even before the world was
                 created [
@@ -137,7 +137,7 @@ export default function Hebrews04() {
           <sup className="calibre7">4</sup>For He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           spoke in a certain place of the seventh{" "}
@@ -149,7 +149,7 @@ export default function Hebrews04() {
           on this wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-02" scrollToId="#filepos29752">
                   <span className="calibre_19">
@@ -165,7 +165,7 @@ export default function Hebrews04() {
           , And God did rest the seventh day from all His Works.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God ceased from the Work of Creation simply because the
                 Creation was finished.)
               </span>
@@ -184,7 +184,7 @@ export default function Hebrews04() {
           again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/psalm-095" scrollToId="#filepos6353406">
                   <span className="calibre_19">
@@ -200,7 +200,7 @@ export default function Hebrews04() {
           , If they shall enter into My rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(conditions are to be met)</span>
+              <span className="explanation">(conditions are to be met)</span>
             </span>
           </span>
           .
@@ -212,7 +212,7 @@ export default function Hebrews04() {
           must enter therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the New Covenant and the Church)
               </span>
             </span>
@@ -221,7 +221,7 @@ export default function Hebrews04() {
           unbelief{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims from{" "}
                 <ScrollLink href="/" scrollToId="#filepos14448468">
                   <span className="calibre_19">
@@ -243,13 +243,13 @@ export default function Hebrews04() {
           <sup className="calibre7">7</sup>Again, He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           limited a certain day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims in no uncertain terms that even though the Call of
                 God is unlimited, the opportunity to accept that Call is
                 definitely limited)
@@ -259,7 +259,7 @@ export default function Hebrews04() {
           , saying in David, Today, after so long a time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit said today then, and He is continuing to say
                 today at present, referring to the fact that tomorrow may be too
                 late)
@@ -270,7 +270,7 @@ export default function Hebrews04() {
           hearts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again refers to unbelief)
               </span>
             </span>
@@ -283,7 +283,7 @@ export default function Hebrews04() {
           <sup className="calibre7">8</sup>For if Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, Joshua)
               </span>
             </span>
@@ -291,7 +291,7 @@ export default function Hebrews04() {
           had given them Rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that even though Joshua was able to lead
                 Israel into the land of Canaan by the Power of the Holy Spirit,
                 this was only a symbol of the True Rest which was to come,
@@ -302,13 +302,13 @@ export default function Hebrews04() {
           , then would He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           not afterward have spoken of another day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning the Law could not bring about what was desired, but
                 definitely did point to that which was to come, namely the Lord
                 Jesus Christ)
@@ -323,7 +323,7 @@ export default function Hebrews04() {
           <sup className="calibre7">9</sup>There remains{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what the Law couldnt do, Christ would do)
               </span>
             </span>
@@ -331,7 +331,7 @@ export default function Hebrews04() {
           therefore a Rest to the People of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is found only in Christ and through what He did at the
                 Cross, to which everything in the Old Testament pointed.)
               </span>
@@ -344,13 +344,13 @@ export default function Hebrews04() {
           <sup className="calibre7">10</sup>For he who is entered into His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods)</span>
+              <span className="explanation">(Gods)</span>
             </span>
           </span>{" "}
           Rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to what Christ did at the Cross, anyone can enter into this
                 Rest)
               </span>
@@ -359,7 +359,7 @@ export default function Hebrews04() {
           , he also has ceased from his own works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we enter in by Faith, which refers to Faith in Christ and what
                 He did at the Cross)
               </span>
@@ -374,7 +374,7 @@ export default function Hebrews04() {
           from His.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God rested on the seventh day when Creation was finished. And
                 we can Rest in Christ because the Plan of Redemption is
                 finished, of which Gods Rest was a type.)
@@ -389,7 +389,7 @@ export default function Hebrews04() {
           into that Rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, let us hasten therefore to enter into that
                 Rest)
               </span>
@@ -398,7 +398,7 @@ export default function Hebrews04() {
           , lest any man fall after the same example of unbelief.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us that the root cause of the fall of any Believer
                 is unbelief, and it refers to unbelief in the Cross, which was
                 the True Mission of Christ.)
@@ -418,19 +418,19 @@ export default function Hebrews04() {
           quick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(alive)</span>
+              <span className="explanation">(alive)</span>
             </span>
           </span>
           , and powerful{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(active, energizing)</span>
+              <span className="explanation">(active, energizing)</span>
             </span>
           </span>
           , and sharper than any two-edged sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the ability of the Word of God to probe)
               </span>
             </span>
@@ -439,7 +439,7 @@ export default function Hebrews04() {
           joints and marrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean the dividing asunder of soul from spirit or joints
                 from marrow, but rather that the Word of God pierces the soul
                 and the spirit, adequately proclaiming what man ought to be and
@@ -475,7 +475,7 @@ export default function Hebrews04() {
           a discerner of the thoughts and intents of the heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carries the idea of sifting out and analyzing evidence)
               </span>
             </span>
@@ -489,7 +489,7 @@ export default function Hebrews04() {
           is not manifest in His sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to God as the Creator of all things)
               </span>
             </span>
@@ -503,7 +503,9 @@ export default function Hebrews04() {
           naked and opened unto the eyes of Him with Whom we have to do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Whom we must give account)</span>
+              <span className="explanation">
+                (to Whom we must give account)
+              </span>
             </span>
           </span>
           .
@@ -518,7 +520,7 @@ export default function Hebrews04() {
           High Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ acts on our behalf to God)
               </span>
             </span>
@@ -526,7 +528,7 @@ export default function Hebrews04() {
           , Who is passed into the Heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with a legal process)
               </span>
             </span>
@@ -534,7 +536,7 @@ export default function Hebrews04() {
           , Jesus the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that Jesus is not only man, but is God as
                 well)
               </span>
@@ -549,7 +551,7 @@ export default function Hebrews04() {
           profession.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let us hold fast to Christ and the Cross, which was necessary
                 for our Lord to be our High Priest.)
               </span>
@@ -563,7 +565,7 @@ export default function Hebrews04() {
           cannot be touched with the feeling of our infirmities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (being Very Man as well as Very God, He can do such)
               </span>
             </span>
@@ -577,7 +579,7 @@ export default function Hebrews04() {
           without sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His temptation, and ours as well, was to leave the prescribed
                 Will of God, which is the Word of God; but He never did, not
                 even one time.)
@@ -592,7 +594,7 @@ export default function Hebrews04() {
           the Throne of Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Seat of Divine Power, and yet the Source of
                 boundless Grace)
               </span>
@@ -601,7 +603,7 @@ export default function Hebrews04() {
           , that we may obtain Mercy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which we want first)
               </span>
             </span>
@@ -609,7 +611,7 @@ export default function Hebrews04() {
           , and find Grace to help in time of need{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Goodness of God extended to all who come, and
                 during any time of need; all made possible by the Cross)
               </span>

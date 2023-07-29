@@ -14,7 +14,7 @@ export default function Psalm029() {
           <sup className="calibre7">1</sup>Give unto the LORD, O you mighty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the mightiest Angels)</span>
+              <span className="explanation">(the mightiest Angels)</span>
             </span>
           </span>
           , give unto the LORD glory and strength.{" "}
@@ -124,7 +124,7 @@ export default function Psalm029() {
           <sup className="calibre7">10</sup>The LORD sits upon the flood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Noahs flood)</span>
+              <span className="explanation">(Noahs flood)</span>
             </span>
           </span>
           ; yes, the LORD sits King for ever.{" "}

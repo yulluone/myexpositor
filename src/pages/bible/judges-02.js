@@ -90,7 +90,7 @@ export default function Judges02() {
           place Bochim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means weeping)</span>
+              <span className="explanation">(means weeping)</span>
             </span>
           </span>
           : and they sacrificed there unto the LORD.{" "}

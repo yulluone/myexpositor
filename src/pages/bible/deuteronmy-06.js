@@ -18,7 +18,7 @@ export default function Deuteronmy06() {
           it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the prosperity of Israel, and the Blessings of the Lord upon
                 the land, and in every capacity, had to do with Israel
                 understanding and obeying the Law; it is the same with us
@@ -37,7 +37,7 @@ export default function Deuteronmy06() {
           and that your days may be prolonged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fear mentioned here is not a slavish fear, but rather a
                 fear of the Lord in respect to disobeying Him, and of that to
                 which such disobedience would lead)
@@ -55,7 +55,7 @@ export default function Deuteronmy06() {
           land that flows with milk and honey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to do the best they could to obey the Law; the Lord promised
                 that it would go well with them, and that they would be greatly
                 blessed; the word blessing actually refers to increase; so
@@ -72,7 +72,7 @@ export default function Deuteronmy06() {
           one LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there are two Hebrew words for the English word one; the first
                 means a single or only one; the second, a compound unity; it is
                 the second that is used in this Verse; so this Verse implies the
@@ -89,7 +89,7 @@ export default function Deuteronmy06() {
           with all your heart, and with all your soul, and with all your might{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus quoted this Verse in{" "}
                 <ScrollLink href="/matthew-22" scrollToId="#filepos11196432">
                   <span className="calibre_19">
@@ -114,7 +114,7 @@ export default function Deuteronmy06() {
           this day, shall be in your heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Alexander says, Where true love to God exists in the heart, it
                 will manifest itself in a regard to His Will, and in the
                 diligent keeping of His Commandments; the Believer can keep the
@@ -136,7 +136,7 @@ export default function Deuteronmy06() {
           up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word of God must be the criteria for all things; the
                 command given then has not changed, it is the same presently)
               </span>
@@ -151,7 +151,7 @@ export default function Deuteronmy06() {
           upon your hand, and they shall be as frontlets between your eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Israelites took this literally, and made phylacteries,
                 putting them on their foreheads and their wrists; it was a small
                 boxlike affair, containing a thin piece of leather on which were
@@ -178,7 +178,7 @@ export default function Deuteronmy06() {
           posts of your house, and on your gates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word of God was to ever be before Israel, and in every
                 capacity)
               </span>
@@ -213,7 +213,7 @@ export default function Deuteronmy06() {
           of bondage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prosperity often occasions forgetfulness of God)
               </span>
             </span>
@@ -227,7 +227,7 @@ export default function Deuteronmy06() {
           and serve Him, and shall swear by His Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to worship)</span>
+              <span className="explanation">(refers to worship)</span>
             </span>
           </span>
         </span>
@@ -239,7 +239,7 @@ export default function Deuteronmy06() {
           of the gods of the people which are round about you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the command still holds for modern Believers [
                 <ScrollLink
                   href="/corinthians2-06"
@@ -265,7 +265,7 @@ export default function Deuteronmy06() {
           you, and destroy you from off the face of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God cannot abide sin in His Own, any more than in the world; in
                 fact, He can abide it, much less in His Own; He is jealous of
                 anything in the life of any Believer which is not wholly
@@ -282,7 +282,7 @@ export default function Deuteronmy06() {
           God, as you tempted Him in Massah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord quoted this Verse to Satan in the temptation in the
                 Wilderness)
               </span>
@@ -298,7 +298,7 @@ export default function Deuteronmy06() {
           Statutes, which He has commanded you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus said the same thing in{" "}
                 <ScrollLink href="/john-14" scrollToId="#filepos12608159">
                   <span className="calibre_19">
@@ -356,7 +356,7 @@ export default function Deuteronmy06() {
           before you, as the LORD has spoken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord working thusly for Israel was predicated solely upon
                 them keeping the Law. Being unable to do so, they were at least
                 to try, and then fall back on the Sacrificial System, which
@@ -407,7 +407,7 @@ export default function Deuteronmy06() {
           fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was to be told repeatedly and, as well, so is our
                 conversion to be told repeatedly.)
               </span>
@@ -429,7 +429,7 @@ export default function Deuteronmy06() {
           He has commanded us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, Israel had to try; however, no man except Christ was
                 fully able to keep the Law; consequently, they were to fall back
                 on the Sacrificial System, and what it represented, namely

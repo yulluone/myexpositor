@@ -16,13 +16,13 @@ export default function Samuel103() {
           the LORD before Eli{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(served in the Tabernacle)</span>
+              <span className="explanation">(served in the Tabernacle)</span>
             </span>
           </span>
           . And the Word of the LORD was precious{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rare)</span>
+              <span className="explanation">(rare)</span>
             </span>
           </span>{" "}
           in those days; there was no open vision.{" "}
@@ -81,7 +81,7 @@ export default function Samuel103() {
           , and Samuel was laid down to sleep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as stated, it was night)</span>
+              <span className="explanation">(as stated, it was night)</span>
             </span>
           </span>
           ;
@@ -108,7 +108,7 @@ export default function Samuel103() {
           am I; for you called me. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eli)</span>
+              <span className="explanation">(Eli)</span>
             </span>
           </span>{" "}
           said, I called not; lie down again. And he went and lay down.
@@ -177,7 +177,7 @@ export default function Samuel103() {
           called as at other times{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the last three times)</span>
+              <span className="explanation">(the last three times)</span>
             </span>
           </span>
           , Samuel, Samuel{" "}
@@ -318,7 +318,7 @@ export default function Samuel103() {
           <sup className="calibre7">19</sup>And Samuel grew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Samuel is now a young man)</span>
+              <span className="explanation">(Samuel is now a young man)</span>
             </span>
           </span>
           , and the LORD was with him, and did let none of his words fall to the

@@ -551,7 +551,7 @@ export default function Kings209() {
           Jezebel heard of it; and she painted her face, and tired{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tiered)</span>
+              <span className="explanation">(tiered)</span>
             </span>
           </span>{" "}
           her head, and looked out at a window{" "}
@@ -586,7 +586,7 @@ export default function Kings209() {
           <sup className="calibre7">32</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehu)</span>
+              <span className="explanation">(Jehu)</span>
             </span>
           </span>{" "}
           lifted up his face to the window, and said, Who is on my side? who?

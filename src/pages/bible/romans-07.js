@@ -164,7 +164,7 @@ export default function Romans07() {
           ; that you should be married to another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking of Christ)</span>
+              <span className="explanation">(speaking of Christ)</span>
             </span>
           </span>
           ,{" "}
@@ -384,7 +384,7 @@ export default function Romans07() {
           <sup className="calibre7">8</sup>But sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>
           , taking occasion by the Commandment, wrought in me all manner of
@@ -509,7 +509,7 @@ export default function Romans07() {
           <sup className="calibre7">11</sup>For sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>
           , taking occasion by the Commandment{" "}
@@ -591,7 +591,7 @@ export default function Romans07() {
           . But sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>
           , that it might appear sin{" "}
@@ -617,7 +617,7 @@ export default function Romans07() {
           ; that sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>{" "}
           by the Commandment might become exceeding sinful{" "}
@@ -666,7 +666,7 @@ export default function Romans07() {
           <sup className="calibre7">15</sup>For that which I do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the failure)</span>
+              <span className="explanation">(the failure)</span>
             </span>
           </span>{" "}
           I allow not{" "}
@@ -769,7 +769,7 @@ export default function Romans07() {
           , but sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>{" "}
           that dwells in me{" "}
@@ -849,7 +849,7 @@ export default function Romans07() {
           : but the evi l which I would not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dont want to do)</span>
+              <span className="explanation">(dont want to do)</span>
             </span>
           </span>
           , that I do{" "}
@@ -887,7 +887,7 @@ export default function Romans07() {
           , it is no more I that do it, but sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>{" "}
           that dwells in me{" "}
@@ -954,7 +954,7 @@ export default function Romans07() {
           , that, when I would do good, evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the evil nature)</span>
+              <span className="explanation">(the evil nature)</span>
             </span>
           </span>{" "}
           is present with me{" "}
@@ -1018,7 +1018,7 @@ export default function Romans07() {
           , and bringing me into captivity to the Law of sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of sin and death)</span>
+              <span className="explanation">(the Law of sin and death)</span>
             </span>
           </span>{" "}
           which is in my members{" "}

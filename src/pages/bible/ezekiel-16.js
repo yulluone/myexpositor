@@ -285,7 +285,7 @@ export default function Ezekiel16() {
           and I put bracelets upon your hands, and a chain on your neck.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(More gifts:</span>
+              <span className="explanation">(More gifts:</span>
             </span>
           </span>
         </span>
@@ -332,7 +332,7 @@ export default function Ezekiel16() {
           and earrings in your ears, and a beautiful crown upon your head.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gifts continue:</span>
+              <span className="explanation">(Gifts continue:</span>
             </span>
           </span>
         </span>
@@ -381,7 +381,7 @@ export default function Ezekiel16() {
           exceeding beautiful, and you did prosper into a kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The blessings continue:</span>
+              <span className="explanation">(The blessings continue:</span>
             </span>
           </span>
         </span>

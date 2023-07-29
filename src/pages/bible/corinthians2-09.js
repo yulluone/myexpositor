@@ -16,7 +16,7 @@ export default function Corinthians209() {
           the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul continues to address himself to the Offering which is to
                 be received for the poor Saints in Jerusalem)
               </span>
@@ -25,7 +25,7 @@ export default function Corinthians209() {
           , it is superfluous for me to write to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he means he believes the Corinthians are already very much
                 aware of their obligations)
               </span>
@@ -40,19 +40,19 @@ export default function Corinthians209() {
           mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(eagerness to help)</span>
+              <span className="explanation">(eagerness to help)</span>
             </span>
           </span>
           , for which I boast of you to them of Macedonia, that Achaia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Corinth)</span>
+              <span className="explanation">(Corinth)</span>
             </span>
           </span>{" "}
           was ready a year ago{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (problems in the Church that hindered, which is what Satan
                 desires to do)
               </span>
@@ -61,7 +61,7 @@ export default function Corinthians209() {
           ; and your zeal has provoked very many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(excited others to give)</span>
+              <span className="explanation">(excited others to give)</span>
             </span>
           </span>
           .
@@ -72,7 +72,7 @@ export default function Corinthians209() {
           <sup className="calibre7">3</sup>Yet have I sent the Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those mentioned in{" "}
                 <ScrollLink
                   href="/corinthians2-08"
@@ -102,7 +102,7 @@ export default function Corinthians209() {
           , lest our boasting of you should be in vain in thi s behalf{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means he believes they will finish what they had grandly
                 started)
               </span>
@@ -111,7 +111,7 @@ export default function Corinthians209() {
           that, as I said, you may be ready{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that should be asked of every Believer, are you ready?)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function Corinthians209() {
           with me, and find you unprepared{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit is here teaching preparation)
               </span>
             </span>
@@ -134,7 +134,7 @@ export default function Corinthians209() {
           boasting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, the Apostle says, lest perhaps we be put to shame,
                 not to say you.)
               </span>
@@ -148,7 +148,7 @@ export default function Corinthians209() {
           exhort the Brethren, that they would go before unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the three Brethren which included Titus)
               </span>
             </span>
@@ -156,7 +156,7 @@ export default function Corinthians209() {
           , and make up beforehand your bounty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Offering)</span>
+              <span className="explanation">(Offering)</span>
             </span>
           </span>
           , whereof you had notice before, that the same might be ready, as{" "}
@@ -168,7 +168,7 @@ export default function Corinthians209() {
           bounty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Corinthians were to understand that not only would their
                 Offering be a Blessing to the poor Saints in Jerusalem, but to
                 the giver as well)
@@ -184,7 +184,7 @@ export default function Corinthians209() {
           covetousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Although God abundantly blesses the giver, our giving should
                 always be to prove the sincerity of our love, and not as a
                 matter of greed.)
@@ -207,7 +207,7 @@ export default function Corinthians209() {
           He which sows sparingly shall reap also sparingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we give little to the Lord, He will bless little)
               </span>
             </span>
@@ -215,7 +215,7 @@ export default function Corinthians209() {
           ; and he which sows bountifully shall reap also bountifully.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we give bountifully, He will bless bountifully. This is a
                 Promise of the Lord.)
               </span>
@@ -232,13 +232,13 @@ export default function Corinthians209() {
               <span className="calibre_19">so let him give</span>
             </span>
             <span>
-              <span className="calibre_19">(without compulsion);</span>
+              <span className="explanation">(without compulsion);</span>
             </span>
           </span>{" "}
           not grudgingly, or of necessity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it is not willing giving, it is not really Christian
                 Giving!)
               </span>
@@ -247,7 +247,7 @@ export default function Corinthians209() {
           : for God loves a cheerful giver.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This actually means a hilarious giver.)
               </span>
             </span>
@@ -265,7 +265,7 @@ export default function Corinthians209() {
           able to make all Grace abound toward you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the ability of God)</span>
+              <span className="explanation">(presents the ability of God)</span>
             </span>
           </span>
           ; that you, always having all sufficiency in all{" "}
@@ -274,7 +274,7 @@ export default function Corinthians209() {
               <span className="calibre_19">things</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (mental, physical, economical, and spiritual),
               </span>
             </span>
@@ -282,7 +282,7 @@ export default function Corinthians209() {
           may abound to every good work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (using Gods Blessings for the good of others)
               </span>
             </span>
@@ -295,7 +295,7 @@ export default function Corinthians209() {
           <sup className="calibre7">9</sup>(As it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/psalm-112" scrollToId="#filepos6501057">
                   <span className="calibre_19">
@@ -311,7 +311,7 @@ export default function Corinthians209() {
           , He has dispersed abroad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Promises of God apply to all of mankind, at least all who
                 will believe)
               </span>
@@ -320,7 +320,7 @@ export default function Corinthians209() {
           ; He has given to the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus is the only hope for the poor)
               </span>
             </span>
@@ -328,7 +328,7 @@ export default function Corinthians209() {
           : his Righteousness remains forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Righteousness of Christ.)
               </span>
             </span>
@@ -341,7 +341,7 @@ export default function Corinthians209() {
           sower{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of the Lord)</span>
+              <span className="explanation">(speaks of the Lord)</span>
             </span>
           </span>{" "}
           both Minister bread for{" "}
@@ -353,19 +353,19 @@ export default function Corinthians209() {
           food{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(both natural and spiritual)</span>
+              <span className="explanation">(both natural and spiritual)</span>
             </span>
           </span>
           , and multiply your seed sown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the harvest)</span>
+              <span className="explanation">(presents the harvest)</span>
             </span>
           </span>
           , and increase the fruits of your Righ teousness;){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Giving to the Work of the Lord is the Fruit of Righteousness,
                 unless its done through covetousness.)
               </span>
@@ -379,7 +379,7 @@ export default function Corinthians209() {
           bountifulness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessings of God include everything regarding life and
                 Godliness)
               </span>
@@ -388,7 +388,7 @@ export default function Corinthians209() {
           , which causes through us thanksgiving to God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are to constantly thank the Lord for His Blessings.)
               </span>
             </span>
@@ -401,7 +401,7 @@ export default function Corinthians209() {
           service not only supplies the want of the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the poor Saints in Jerusalem)
               </span>
             </span>
@@ -409,7 +409,7 @@ export default function Corinthians209() {
           , but is abundant also by many thanksgivings unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Giver is to constantly thank God as well, that God has
                 supplied his giving in the first place)
               </span>
@@ -425,7 +425,7 @@ export default function Corinthians209() {
           Gospel of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the thanksgiving which will come from the Saints in Jerusalem
                 will be for more than the mere gift, but rather for the
                 consecration of the Corinthians which made the gift possible)
@@ -444,7 +444,7 @@ export default function Corinthians209() {
               <span className="calibre_19">men</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is saying that what Corinth is doing will be an example to
                 all the Churches);
               </span>
@@ -457,7 +457,7 @@ export default function Corinthians209() {
           <sup className="calibre7">14</sup>And by their prayer for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Saints in Jerusalem will now greatly pray for the
                 Corinthians, which they should)
               </span>
@@ -466,7 +466,7 @@ export default function Corinthians209() {
           , which long after you for the exceeding Grace of God in you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those in Jerusalem will know the Corinthians have done this
                 thing because of the Grace of God.)
               </span>
@@ -485,7 +485,7 @@ export default function Corinthians209() {
           unto God for His unspeakable gift.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While we may give, it is God Who has given the most in His
                 Giving of the Lord Jesus Christ to the whole of humanity.)
               </span>

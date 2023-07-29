@@ -18,7 +18,7 @@ export default function Genesis03() {
           any beast of the field which the LORD God had made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word subtle, as used here, is not negative, but rather
                 positive; everything that God made before the Fall was positive;
                 it describes qualities such as quickness of sight, swiftness of
@@ -30,7 +30,7 @@ export default function Genesis03() {
           . And he said unto the woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not a fable; the serpent before the Fall had the ability of
                 limited speech; Eve did not seem surprised when he spoke to
                 her!)
@@ -40,7 +40,7 @@ export default function Genesis03() {
           , Yes, has God said, You shall not eat of every tree of the Garden?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The serpent evidently lent its faculties to Satan, even though
                 the Evil One is not mentioned. That being the case, Satan spoke
                 through the serpent, and questioned the Word of God.)
@@ -54,7 +54,7 @@ export default function Genesis03() {
           <sup className="calibre7">2</sup>And the woman said unto the serpent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Satan leveling his attack against Eve, instead of
                 Adam; his use of Eve was only a means to get to Adam)
               </span>
@@ -63,7 +63,7 @@ export default function Genesis03() {
           , We may eat of the fruit of the trees of the Garden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the trial of our first parents was ordained by God, because
                 probation was essential to their spiritual development and
                 self-determination; but as He did not desire that they should be
@@ -83,7 +83,7 @@ export default function Genesis03() {
           neither shall you touch it, lest you die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Eve quoted what the Lord had said about the prohibition, but
                 then added, neither shall you touch it)
               </span>
@@ -98,7 +98,7 @@ export default function Genesis03() {
           You shall not surely die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims an outright denial of the Word of God; as God had
                 preached to Adam, Satan now preaches to Eve; Jesus called Satan
                 a liar, which probably refers to this very moment [
@@ -122,7 +122,7 @@ export default function Genesis03() {
           eat thereof, then your eyes shall be opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (suggests the attainment of higher wisdom)
               </span>
             </span>
@@ -130,7 +130,7 @@ export default function Genesis03() {
           , and you shall be as gods, knowing good and evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect says, You shall be Elohim. It was a promise of
                 Divinity. God is Omniscient, meaning that His knowledge of evil
                 is thorough, but not by personal experience. By His very Nature,
@@ -151,7 +151,7 @@ export default function Genesis03() {
           was good for food{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the lust of the eyes)
               </span>
             </span>
@@ -159,25 +159,25 @@ export default function Genesis03() {
           , and that it was pleasant to the eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the lust of the flesh)</span>
+              <span className="explanation">(the lust of the flesh)</span>
             </span>
           </span>
           , and a tree to be desired to make one wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the pride of life)</span>
+              <span className="explanation">(the pride of life)</span>
             </span>
           </span>
           , she took of the fruit thereof, and did eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(constitutes the Fall)</span>
+              <span className="explanation">(constitutes the Fall)</span>
             </span>
           </span>
           , and gave also unto her husband with her; and he did eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that evidently Adam was an observer to all
                 these proceedings; some claim that he ate of the forbidden fruit
                 which she offered him out of love for her; however, no one ever
@@ -221,7 +221,7 @@ export default function Genesis03() {
           <sup className="calibre7">7</sup>And the eyes of them both were opened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the consciousness of guilt as a result of their sin)
               </span>
             </span>
@@ -229,7 +229,7 @@ export default function Genesis03() {
           , and they knew that they were naked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that they had lost the enswathing light of
                 purity, which previously had clothed their bodies)
               </span>
@@ -238,7 +238,7 @@ export default function Genesis03() {
           ; and they sewed fig leaves together, and made themselves aprons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sinners clothe themselves with morality, sacraments, and
                 religious ceremonies; they are as worthless as Adams apron of
                 fig leaves)
@@ -254,7 +254,7 @@ export default function Genesis03() {
           God walking in the Garden in the cool of the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Voice of the Lord had once been a welcome sound; it is now
                 a dreaded sound, because of their sin; it is not that the Voice
                 of the Lord had changed, for it hadnt; it was the same Voice
@@ -267,7 +267,7 @@ export default function Genesis03() {
           God amongst the trees of the Garden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (here is the dawn of a new era in the history of humanity; the
                 eye of a guilty conscience is now opened for the first time, and
                 God and the universe appear in new and terrible forms)
@@ -283,7 +283,7 @@ export default function Genesis03() {
           and said unto him, Where are you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first question in the Old Testament. Where is he?
                 is the first question in the New Testament [
                 <ScrollLink href="/matthew-02" scrollToId="#filepos10844377">
@@ -305,13 +305,13 @@ export default function Genesis03() {
           <sup className="calibre7">10</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Adam)</span>
+              <span className="explanation">(Adam)</span>
             </span>
           </span>{" "}
           said, I heard Your Voice in the Garden, and I was afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (fear is the first reaction of fallen man; Adams consciousness
                 of the effects of sin was keener than his sense of the sin
                 itself)
@@ -321,7 +321,7 @@ export default function Genesis03() {
           , because I was naked; and I hid myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was naked to the Judgment of God, because of sin, which must
                 be judged; he tried to hide himself from God, even as untold
                 millions have, but never with any success; God wanted Adam to
@@ -339,7 +339,7 @@ export default function Genesis03() {
           were naked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carries Adams mind from the effect to the sin that had caused
                 it; as long as a man feels sorrow only for the results of his
                 action, there is no Repentance, and no wish to return to the
@@ -351,7 +351,7 @@ export default function Genesis03() {
           not eat?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The way the question is framed removes the pretext of
                 ignorance, and also points to the fact that the sin had been
                 carried out in direct violation of the Divine prohibition
@@ -367,7 +367,7 @@ export default function Genesis03() {
           gave to be with me, she gave me of the tree, and I did eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adam first of all blamed God, and then blamed Eve; he
                 recapitulates the history, as if, in his view, it was a matter
                 of course that he should act as he had done; man has been doing
@@ -384,7 +384,7 @@ export default function Genesis03() {
           woman, What is this that you have done?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two questions, Where are you? and What is this that you
                 have done? comprise the human problem.)
               </span>
@@ -393,7 +393,7 @@ export default function Genesis03() {
           And the woman said, The serpent beguiled me, and I did eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Eve blaming the serpent; in a sense, she was blaming
                 God as well, simply because God had made the serpent)
               </span>
@@ -411,7 +411,7 @@ export default function Genesis03() {
           serpent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as we shall see, presents no question or interrogation being
                 posed toward the serpent at all; God judges him, and it is in
                 listening to this judgment that the guilty pair hear the first
@@ -423,7 +423,7 @@ export default function Genesis03() {
           above every beast of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to this animal being reduced from possibly the highest
                 place and position in the animal kingdom to the lowest)
               </span>
@@ -433,7 +433,7 @@ export default function Genesis03() {
           your life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if in fact the serpent was an unwitting tool in the hand of
                 Satan, then I think that the Lord would not have placed a curse
                 upon this animal)
@@ -448,13 +448,13 @@ export default function Genesis03() {
           <sup className="calibre7">15</sup>And I will put enmity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(animosity)</span>
+              <span className="explanation">(animosity)</span>
             </span>
           </span>{" "}
           between you and the woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Lord now actually speaking to Satan, who had used
                 the serpent; in effect, the Lord is saying to Satan, You used
                 the woman to bring down the human race, and I will use the woman
@@ -466,25 +466,25 @@ export default function Genesis03() {
           , and between your seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mankind which follows Satan)</span>
+              <span className="explanation">(mankind which follows Satan)</span>
             </span>
           </span>{" "}
           and her Seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           ; it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           shall bruise your head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Victory that Jesus won at the Cross [
                 <ScrollLink href="/colossians-2" scrollToId="#filepos14158995">
                   <span className="calibre_19">
@@ -500,7 +500,7 @@ export default function Genesis03() {
           , and you shall bruise His Heel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sufferings of the Cross)</span>
+              <span className="explanation">(the sufferings of the Cross)</span>
             </span>
           </span>
         </span>
@@ -512,7 +512,7 @@ export default function Genesis03() {
           greatly multiply your sorrow and your conception{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the original Plan of God was that husband and wife would bring
                 sons and daughters of God into the world; due to the Fall, they
                 can only bring sons and daughters into the world in the likeness
@@ -531,7 +531,7 @@ export default function Genesis03() {
           ; in sorrow you shall bring forth children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as a result of the Fall, children would be born into a world of
                 sorrow)
               </span>
@@ -540,7 +540,7 @@ export default function Genesis03() {
           ; and your desire shall be to your husband, and he shall rule over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (her husband, instead of God, would now rule over her)
               </span>
             </span>
@@ -554,7 +554,7 @@ export default function Genesis03() {
           have hearkened unto the voice of your wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adam hearkened unto his wife instead of God)
               </span>
             </span>
@@ -563,7 +563,7 @@ export default function Genesis03() {
           shall not eat of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the tree itself contained no evil properties in the fruit; the
                 Fall, as stated, was caused rather by disobedience to the Word
                 of God)
@@ -574,7 +574,7 @@ export default function Genesis03() {
           all the days of your life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Earth was originally intended to be a paradise, but now it will
                 give up its largesse reluctantly; as well, the phrase, all the
                 days of your life, proclaims the death sentence, which means
@@ -592,7 +592,7 @@ export default function Genesis03() {
           bring forth to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thorns and thistles were not originally in the creation of God,
                 this being a result of the curse, which is a result of the sin
                 of man)
@@ -602,7 +602,7 @@ export default function Genesis03() {
           ; and you shall eat the herb of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would not now grow freely, as originally intended, but
                 only now with great care and great labor)
               </span>
@@ -617,7 +617,7 @@ export default function Genesis03() {
           eat bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (food will be obtained by hard labor)
               </span>
             </span>
@@ -625,7 +625,7 @@ export default function Genesis03() {
           , till you return unto the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the life-source, which was formerly in God, is now in food, and
                 which is woefully insufficient)
               </span>
@@ -635,7 +635,7 @@ export default function Genesis03() {
           you return{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Power of God alone could keep the dust alive; that being
                 gone, to dust man returns)
               </span>
@@ -650,7 +650,7 @@ export default function Genesis03() {
           because she was the mother of all living.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God named the man, and called him Adam, which means red earth.
                 Adam named the woman, and called her Eve, which means life. Adam
                 bears the name of the dying body, Eve of the living soul.)
@@ -665,7 +665,7 @@ export default function Genesis03() {
           the LORD God make coats of skins, and clothed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the making of coats of skins, God, in effect, was telling
                 Adam and Eve that their fig leaves were insufficient; as well,
                 He was teaching them that without the shedding of blood, which
@@ -693,7 +693,7 @@ export default function Genesis03() {
           man is become as one of Us, to know good and evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord knew evil, not by personal experience, but rather
                 through Omniscience; man now knows evil by becoming evil, which
                 is the fountainhead of all sorrow in the world; the pronoun Us
@@ -706,7 +706,7 @@ export default function Genesis03() {
           Life, and eat, and live forever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would have been the worst thing of all, to have an Adolf
                 Hitler to live forever, etc.)
               </span>
@@ -721,7 +721,7 @@ export default function Genesis03() {
           forth from the Garden of Eden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, this was an act of mercy; man is expelled from the
                 Garden, lest by eating the Tree of Life he should perpetuate his
                 misery; but Gods Love for him, though fallen and guilty, is so
@@ -737,7 +737,7 @@ export default function Genesis03() {
           , to till the ground from whence he was taken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a place of toil, not to a place of torment)
               </span>
             </span>
@@ -750,13 +750,13 @@ export default function Genesis03() {
           <sup className="calibre7">24</sup>So He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           drove out the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies the idea of force and displeasure)
               </span>
             </span>
@@ -764,7 +764,7 @@ export default function Genesis03() {
           ; and He placed at the east of the Garden of Eden Cherubims{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Cherubims signified the Holiness of God, which man had
                 now forfeited)
               </span>
@@ -774,7 +774,7 @@ export default function Genesis03() {
           Tree of Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the flaming sword was emblematic of the Divine Glory in its
                 attitude towards sin)
               </span>

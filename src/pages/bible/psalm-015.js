@@ -69,7 +69,7 @@ export default function Psalm015() {
           contemned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(condemned)</span>
+              <span className="explanation">(condemned)</span>
             </span>
           </span>
           ; but He honours them who fear the LORD. He who swears to His own

@@ -16,7 +16,7 @@ export default function Daniel05() {
           feast to a thousand of his lords, and drank wine before the thousand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Timewise, this Chapter follows{" "}
                 <ScrollLink href="/daniel-08" scrollToId="#filepos9859429">
                   <span className="calibre_19">
@@ -43,7 +43,7 @@ export default function Daniel05() {
           drink therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The contempt shown by this man was double: A. To use these
                 Sacred Vessels at all; and, B. To use them as a sacrifice to
                 heathen gods.)
@@ -60,7 +60,7 @@ export default function Daniel05() {
           concubines, drank in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The bringing of the Golden Vessels was by design. Inasmuch as
                 Bel had given them the victory over the Judeans, or so they
                 thought, this would afford an occasion for praising Bel, who
@@ -77,7 +77,7 @@ export default function Daniel05() {
           of gold, and of silver, of brass, of iron, of wood, and of stone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These gods which they praised were more than likely the gods of
                 the nations which they had conquered. Therefore, they insulted
                 Jehovah and praised these monstrosities.)
@@ -97,7 +97,7 @@ export default function Daniel05() {
           the hand that wrote.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the same hand which inscribed the Ten Commandments on
                 two tables of stone, and which wrote on the ground concerning a
                 poor, accused woman [
@@ -129,7 +129,7 @@ export default function Daniel05() {
           loins were loosed, and his knees smote one against another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And his knees smote one against another, shows him now to be
                 dead sober, but stricken with fear.)
               </span>
@@ -147,7 +147,7 @@ export default function Daniel05() {
           third ruler in the kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Third ruler in the kingdom, means that Belshazzar was only the
                 second ruler in the kingdom, with Nabonidus, his father, being
                 first.)
@@ -163,7 +163,7 @@ export default function Daniel05() {
           interpretation thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Astrologers, Chaldeans, and soothsayers will do him no
                 more good than they had done his grandfather, Nebuchadnezzar.
                 Whosoever shall read this writing, seems to prove that the
@@ -181,7 +181,7 @@ export default function Daniel05() {
           astonied.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word astonied refers to tremendous fear, resulting in
                 uncontrolled trembling of the body, with possibly even the loss
                 of bodily functions.)
@@ -201,7 +201,7 @@ export default function Daniel05() {
           you, nor let your countenance be changed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that the Queen was not present during the revelry, but
                 only came into the banquet house upon hearing of this strange
                 phenomenon)
@@ -221,7 +221,7 @@ export default function Daniel05() {
           Chaldeans, and soothsayers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this signifies that the Queen, Belshazzars mother, knew Daniel;
                 however, it seems that Belshazzar did not know him, only having
                 heard of him. At this time, Daniel was probably between seventy
@@ -241,7 +241,7 @@ export default function Daniel05() {
           and he will show the interpretation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Forasmuch as an excellent spirit, proves that she possibly had
                 spent considerable time being taught by Daniel, and had been
                 greatly impressed by the Christlike Spirit radiating from him.
@@ -263,7 +263,7 @@ export default function Daniel05() {
           king my father brought out of Jewry?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then was Daniel brought in, shows the king, true to fallen mans
                 unchanging action, seeking help from God as a last resource, and
                 not as the first. But even then the great big pompous fool
@@ -290,7 +290,7 @@ export default function Daniel05() {
           excellent wisdom is found in you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And yet, he had never consulted him!)
               </span>
             </span>
@@ -305,7 +305,7 @@ export default function Daniel05() {
           they could not show the interpretation of the thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no, they would not show the interpretation of the thing, and
                 neither can the modern prognosticators! Actually, the
                 handwriting on the wall is presently obvious and apparent in all
@@ -326,7 +326,7 @@ export default function Daniel05() {
           shall be the third ruler in the kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is sad, but the modern Church, as Belshazzar, is promising
                 the same thing.)
               </span>
@@ -360,7 +360,7 @@ export default function Daniel05() {
           he would he set up; and whom he would he put down.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel emphatically states that the might, majesty, splendor,
                 glory, and greatness of the Babylonian Empire were all because
                 of The Most High God, and not these foolish idols.)
@@ -376,7 +376,7 @@ export default function Daniel05() {
           and they took his glory from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel is telling this king that his grandfathers pride caused
                 him to be deposed from his kingly throne and, likewise, the same
                 is about to happen to Belshazzar. However, Nebuchadnezzar
@@ -399,7 +399,7 @@ export default function Daniel05() {
           will.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel, with words of burning power, thrust the Sword of the
                 Spirit into the kings heart and conscience.)
               </span>
@@ -413,7 +413,7 @@ export default function Daniel05() {
           not humbled your heart, though you knew all this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the peculiarity of the Chaldee, the phrase, his son, is
                 literally his grandson)
               </span>
@@ -433,7 +433,7 @@ export default function Daniel05() {
           ways, have you not glorified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the sins of Belshazzar and his lords and ladies could be
                 summed up in the last line of this Verse, concerning the Lord of
                 Glory, of Whom it was said, have you not glorified)
@@ -449,7 +449,7 @@ export default function Daniel05() {
           from him; and this writing was written.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that the fingers of a hand were still on the wall,
                 poised in mid-air, which would have been a fearful sight. And
                 this writing was written, signifies such that cannot be changed!
@@ -465,7 +465,7 @@ export default function Daniel05() {
           written, MENE, MENE, TEKEL, UPHAR-SIN.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The repetition of the word MENE announced the immediateness of
                 the doom.)
               </span>
@@ -482,7 +482,7 @@ export default function Daniel05() {
           thing: MENE; God has numbered your kingdom, and finished it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Actually, the word MENE being repeated twice means numbered,
                 numbered; the repetition was for the sake of emphasis and to
                 declare, as stated, the immediate fulfillment, which did occur!)
@@ -497,7 +497,7 @@ export default function Daniel05() {
           balances, and are found wanting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word TEKEL means weighed.)
               </span>
             </span>
@@ -510,7 +510,7 @@ export default function Daniel05() {
           given to the Medes and Persians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no contradiction in the Scripture. The word UPHAR-SIN
                 or PHARSIN is the plural of PERES, meaning division. So it means
                 that the great Babylonian Empire will be split up and given to
@@ -541,7 +541,7 @@ export default function Daniel05() {
           ruler in the kingdom.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Belshazzar did treat Daniel with kindness and
                 respect, there is no evidence that he repented, even in the face
                 of impending doom.)
@@ -559,7 +559,7 @@ export default function Daniel05() {
           king of the Chaldeans slain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that night, refers to the very night of the drunken feast
                 and the handwriting on the wall.)
               </span>
@@ -573,7 +573,7 @@ export default function Daniel05() {
           kingdom, being about threescore and two years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(62 years old)</span>
+              <span className="explanation">(62 years old)</span>
             </span>
           </span>
           .

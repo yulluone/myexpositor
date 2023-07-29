@@ -17,7 +17,7 @@ export default function Isaiah55() {
           come, buy wine and milk without money and without price.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With{" "}
                 <ScrollLink href="/isaiah-53" scrollToId="#filepos7909290">
                   <span className="calibre_19">
@@ -135,7 +135,7 @@ export default function Isaiah55() {
           your soul delight itself in fatness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Accepting the Spirits invitation through the Prophet will
                 satisfy fully. As someone has well said, The soul of man is so
                 big that only God can fill it up.)
@@ -151,7 +151,7 @@ export default function Isaiah55() {
           Covenant with you, even the sure mercies of David.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Incline your ear, refers to the Words given by Christ, when He
                 said, he who has ears to here, let him hear [
                 <ScrollLink href="/mark-04" scrollToId="#filepos11398111">
@@ -202,7 +202,7 @@ export default function Isaiah55() {
           witness to the people, a leader and commander to the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun Him refers to Christ. He Alone is the witness to
                 the people. He came to bear witness to the Truth [
                 <ScrollLink href="/john-18" scrollToId="#filepos12688409">
@@ -267,7 +267,7 @@ export default function Isaiah55() {
           glorified You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to the calling and Salvation of the
                 Gentiles, which Christ afforded by what He did at the Cross [
                 <ScrollLink href="/matthew-21" scrollToId="#filepos11171643">
@@ -340,7 +340,7 @@ export default function Isaiah55() {
           found, call you upon Him while He is near{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of this Verse, as given by the Holy Spirit, has
                 rather a tone of reproach. Israel, as well as all, must seek the
                 Lord without delay, or the opportunity will be past. Therefore,
@@ -361,7 +361,7 @@ export default function Isaiah55() {
           abundantly pardon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A general promise of forgiveness of sin upon Repentance and
                 amendment of life was implied by the Lord from the very
                 beginning [
@@ -410,7 +410,7 @@ export default function Isaiah55() {
           thoughts, neither are your ways My Ways, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that the thoughts of God and the
                 Ways of God are so far above the comprehension of man, that man
                 must take these statements by Faith. However,{" "}
@@ -436,7 +436,7 @@ export default function Isaiah55() {
           your thoughts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through the Word of God we are given some of the thoughts and
                 Ways of God; however, so few Believers actually take advantage
                 of this treasure trove of wisdom.)
@@ -453,7 +453,7 @@ export default function Isaiah55() {
           bread to the eater{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sense of this Passage is not in its direction, but in its
                 mission)
               </span>
@@ -470,7 +470,7 @@ export default function Isaiah55() {
           whereto I sent it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Word is creative. With the utterance, the result is
                 achieved. It is given not for just a special time, but for the
                 benefit of the people of God in all ages.)
@@ -490,7 +490,7 @@ export default function Isaiah55() {
           their hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the captives of Jacob will
                 ultimately be led forth from captivity by the Leader and
                 Commander of{" "}
@@ -525,7 +525,7 @@ export default function Isaiah55() {
           shall not be cut off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sinful man is born morally a thorn and a brier. But the Messiah
                 and Saviour can recreate him as a fir tree and a myrtle.
               </span>

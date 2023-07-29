@@ -17,7 +17,7 @@ export default function Deuteronmy29() {
           the land of Moab, beside the Covenant which He made with them in Horeb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was not a new Covenant in addition to that made at Sinai,
                 but simply a renewal and reaffirmation of that Covenant)
               </span>
@@ -34,7 +34,7 @@ export default function Deuteronmy29() {
           all his land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, what the Lord had just said He will render for
                 disobedience, He is able to do; remember Egypt!)
               </span>
@@ -49,7 +49,7 @@ export default function Deuteronmy29() {
           have seen, the signs, and those great miracles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so they knew what God could do)
               </span>
             </span>
@@ -63,7 +63,7 @@ export default function Deuteronmy29() {
           heart to perceive, and eyes to see, and ears to hear, unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord gave you a heart in order that you might perceive, and
                 eyes that you might see, and ears that you might hear, so that
                 you are without excuse)
@@ -80,7 +80,7 @@ export default function Deuteronmy29() {
           not waxed old upon your foot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even the very clothing they wore constituted a miracle, in that
                 it did not wear out in all of the forty years of wandering in
                 that awful wilderness)
@@ -97,7 +97,7 @@ export default function Deuteronmy29() {
           LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whatever they had in the wilderness, God gave it to them, in
                 order that they might know)
               </span>
@@ -120,7 +120,7 @@ export default function Deuteronmy29() {
           half Tribe of Manasseh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord helped us to do this)
               </span>
             </span>
@@ -137,7 +137,7 @@ export default function Deuteronmy29() {
           Covenant, and do them, that you may prosper in all that you do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (prosperity has always followed a true obedience of the Word of
                 the Lord)
               </span>
@@ -167,7 +167,7 @@ export default function Deuteronmy29() {
           makes with you this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Covenant was to include all, then and in the future)
               </span>
             </span>
@@ -183,7 +183,7 @@ export default function Deuteronmy29() {
           Isaac, and to Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the Promises the Lord made to the Patriarchs, He will carry
                 out, that is, if the people will only serve Him with an obedient
                 heart)
@@ -206,7 +206,7 @@ export default function Deuteronmy29() {
           with us this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Covenant was not only with Abraham, Isaac, and Jacob, but
                 all who were present that day, and all Israelites who would be
                 born thereafter, at least until the Messiah came, Who would
@@ -259,7 +259,7 @@ export default function Deuteronmy29() {
           there should be among you a root that bears gall and wormwood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a striking image of the destructive fruit borne by idolatry;
                 and let the Reader understand, idolatry, even in Christendom,
                 isnt dead; any worship that is centered up in anything except
@@ -287,7 +287,7 @@ export default function Deuteronmy29() {
           drunkenness to thirst{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is, for the individual who functions in disobedience,
                 let him not think that because he seems to be doing well at the
                 moment, that Judgment is not forthcoming; it will come!)
@@ -305,7 +305,7 @@ export default function Deuteronmy29() {
           him, and the LORD shall blot out his name from under Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will remove his name out of the Book of Life, which means he
                 will be eternally lost, that is, if no true Repentance is
                 forthcoming)
@@ -322,7 +322,7 @@ export default function Deuteronmy29() {
           the Covenant that are written in this Book of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the entirety of the Tribe is living for God except one man,
                 the righteousness of the entirety of the Tribe will not cover
                 the one man; the Lord will seek him out, and he will answer for
@@ -386,7 +386,7 @@ export default function Deuteronmy29() {
           them into another land, as it is this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the whole world will know why they were dispelled, and so it
                 is!)
               </span>
@@ -402,7 +402,7 @@ export default function Deuteronmy29() {
           to our children for ever, that we may do all the words of this Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, This Verse is much misunderstood. It does not
                 mean that the secret things belong to God, and the revealed
                 things to His People; but it does mean that Gods Purposes,

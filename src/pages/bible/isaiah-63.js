@@ -20,7 +20,7 @@ export default function Isaiah63() {
           Righteousness, mighty to save.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Who is this Who comes from Edom? refers to
                 Christ. This pertains to the Second Coming, with the description
                 in{" "}
@@ -58,7 +58,7 @@ export default function Isaiah63() {
           apparel, and Your garments like him who treads in the winefat?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And Your garments like him who treads in the winefat, has to do
                 with one in olden times who treaded down grapes, and, therefore,
                 had his garments splattered with the juice. Such typifies what
@@ -76,7 +76,7 @@ export default function Isaiah63() {
           upon My garments, and I will stain all My raiment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The winepress speaks of the terrible carnage and bloodletting
                 at Armageddon. Quite possibly millions will die at this
                 particular time.
@@ -106,7 +106,7 @@ export default function Isaiah63() {
           heart, and the year of My redeemed is come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the time that the Lord will once again, as Zechariah
                 prophesied, fight against those nations as when He fought in the
                 day of battle [
@@ -130,7 +130,7 @@ export default function Isaiah63() {
           arm brought Salvation unto Me; and My fury, it upheld Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who had no helper and no upholder are the sons of Jacob,
                 who, at the time of Messiahs Second Coming, will be suffering
                 most cruel persecution. However, the Lord will come back in
@@ -149,7 +149,7 @@ export default function Isaiah63() {
           strength to the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people, should have been translated the nations. The
                 destruction is to be so complete that it will be absolutely and
                 utterly overwhelming. There will be no recovery for the
@@ -174,7 +174,7 @@ export default function Isaiah63() {
           according to the multitude of His lovingkindnesses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As praise for present blessings followed the First Advent [
                 <ScrollLink href="/isaiah-61" scrollToId="#filepos8031080">
                   <span className="calibre_19">
@@ -203,7 +203,7 @@ export default function Isaiah63() {
           People, children who will not lie: so He was their Saviour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This harks back to the deliverance of the Children of Israel
                 from Egyptian bondage. The Lord at that time was their Saviour.)
               </span>
@@ -219,7 +219,7 @@ export default function Isaiah63() {
           the days of old.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Angel of His Presence, occurs nowhere but in this place. It
                 is probably equivalent to the Angel of God [
                 <ScrollLink href="/exodus-19" scrollToId="#filepos958946">
@@ -272,7 +272,7 @@ export default function Isaiah63() {
           against them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Any rebellion against the Lord or His Word always, and without
                 fail, vexes the Holy Spirit, without Whom we simply cannot
                 succeed or survive.
@@ -304,7 +304,7 @@ export default function Isaiah63() {
           Spirit within him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The scene now changes from the ancient deliverance of Israel to
                 the coming Battle of Armageddon. Then the Lord will remember the
                 days of old. He will remember His Covenants and deal with them
@@ -337,7 +337,7 @@ export default function Isaiah63() {
           Himself an Everlasting Name?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the mighty miracle of the opening of the Red
                 Sea, which the Lord now once again calls to account.
               </span>
@@ -372,7 +372,7 @@ export default function Isaiah63() {
           horse in the wilderness, that they should not stumble?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What a sight this must have been! Some 5 to 6 million people
                 coming through this created path, with a wall of water standing
                 up on either side of them, and the way so smooth that not one of
@@ -389,7 +389,7 @@ export default function Isaiah63() {
           Your People, to make Yourself a glorious Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Glory of all these past blessings is ascribed not to
                 Israel, but to Israels Great Shepherd all to make Himself a
                 Glorious Name, not for egotistical or selfish purposes, but that
@@ -411,7 +411,7 @@ export default function Isaiah63() {
           mercies toward me? are they restrained?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This prayer, in effect, will be prayed by Israel, or rather the
                 Believing Remnant of Israel, prior to the Second Coming.
               </span>
@@ -444,7 +444,7 @@ export default function Isaiah63() {
           are our Father, our Redeemer; Your Name is from everlasting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Pharisee based his expectation of Salvation upon his
                 relation to Abraham, but the spiritual Israelite bases his upon
                 his relation to God. When facing Christ at His First Advent,
@@ -498,7 +498,7 @@ export default function Isaiah63() {
           servants sake, the tribes of Your inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse should read: O Jehovah, why have You suffered us to
                 err from Your Ways? And why have You let us harden our hearts to
                 Your fear? Thus, true Repentance confesses that God justly gives
@@ -543,7 +543,7 @@ export default function Isaiah63() {
           Your Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great inheritance that God gave unto His People was
                 possessed by them only a little while. As a result of their sin,
                 our adversaries have trodden down Your Sanctuary. They are
@@ -570,7 +570,7 @@ export default function Isaiah63() {
           over them; they were not called by Your Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no Thine [Yours] in the original, and so important a
                 word could not possibly be supplied from without. Therefore, the
                 translation should read, We are as those over whom You have not

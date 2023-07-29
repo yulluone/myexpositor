@@ -293,7 +293,7 @@ export default function Numbers27() {
           : at his word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the word of Joshua)</span>
+              <span className="explanation">(the word of Joshua)</span>
             </span>
           </span>{" "}
           shall they go out, and at his word they shall come in, both he, and

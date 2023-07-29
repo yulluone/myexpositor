@@ -20,7 +20,7 @@ export default function Chronicles216() {
           king of Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tens of thousands of people from the northern kingdom of Israel
                 were coming down to Judah, as stated, that they might worship
                 God at the Temple. Baasha, king of Israel, was attempting to
@@ -52,7 +52,7 @@ export default function Chronicles216() {
           and sent to Ben-hadad king of Syria, who dwelt at Damascus, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (rather than trust God to help him regarding Baasha, he hired
                 the king of Syria. Asas plan would succeed militarily, but fail
                 spiritually. The success of self-made plans is always a
@@ -84,7 +84,7 @@ export default function Chronicles216() {
           that he may depart from me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Believers are never to join with unbelievers [
                 <ScrollLink
                   href="/corinthians2-06"
@@ -137,7 +137,7 @@ export default function Chronicles216() {
           the host of the king of Syria escaped out of your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is it possible that God makes plans for us which speak of great
                 victory, and we forfeit those plans by our faithlessness? Rather
                 than trusting Him, we trust man)
@@ -154,7 +154,7 @@ export default function Chronicles216() {
           you did rely on the LORD, He delivered them into your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (why did Asa rely on the Lord then, and not rely on Him now? As
                 stated, yesterdays faith will not suffice for today!)
               </span>
@@ -171,7 +171,7 @@ export default function Chronicles216() {
           foolishly: therefore from henceforth you shall have wars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when one considers that the Lord is ardently looking for
                 individuals who will believe Him, so that He might show Himself
                 strong on their behalf, such should give us a very positive
@@ -191,7 +191,7 @@ export default function Chronicles216() {
           of this thing. And Asa oppressed some of the people the same time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the same Asa who instituted the great Revival of{" "}
                 <ScrollLink href="/chronicles2-15" scrollToId="#filepos4797175">
                   <span className="calibre_19">
@@ -222,7 +222,7 @@ export default function Chronicles216() {
           and last{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the statement, first and last, signifies that there was a
                 difference in Asa in his last years)
               </span>
@@ -242,7 +242,7 @@ export default function Chronicles216() {
           physicians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord permitted this disease as a result of Asas actions. I
                 wonder how many presently fall into the same category.
               </span>
@@ -283,7 +283,7 @@ export default function Chronicles216() {
           died in the one and fortieth year of his reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because of his faithlessness, Asa no doubt cut his life short!)
               </span>
             </span>
@@ -300,7 +300,7 @@ export default function Chronicles216() {
           great burning for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the burning of spices)</span>
+              <span className="explanation">(the burning of spices)</span>
             </span>
           </span>
           .

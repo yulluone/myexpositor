@@ -16,13 +16,13 @@ export default function Acts14() {
           they went both together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul and Barnabas)</span>
+              <span className="explanation">(Paul and Barnabas)</span>
             </span>
           </span>{" "}
           into the Synagogue of the Jews, and so spoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents them continuing with their custom of going to the Jews
                 first)
               </span>
@@ -32,7 +32,7 @@ export default function Acts14() {
           believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they accepted Christ)</span>
+              <span className="explanation">(they accepted Christ)</span>
             </span>
           </span>
           .
@@ -43,7 +43,7 @@ export default function Acts14() {
           <sup className="calibre7">2</sup>But the unbelieving Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as obvious, some of the Jews didnt believe)
               </span>
             </span>
@@ -51,7 +51,7 @@ export default function Acts14() {
           stirred up the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that these Gentiles were not of the ruling class)
               </span>
             </span>
@@ -59,7 +59,7 @@ export default function Acts14() {
           , and made their minds evil af fected against the brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the unbelieving Jews used any lie they could tell)
               </span>
             </span>
@@ -73,7 +73,7 @@ export default function Acts14() {
           speaking boldly in the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the unbelieving Gentiles who were stirred up by the unbelieving
                 Jews did not have immediate sway, as those Gentiles in the
                 previous city; so Paul and Barnabas were able to minister there
@@ -84,7 +84,7 @@ export default function Acts14() {
           , which gave testimony unto the Word of His Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Grace speaks of Gods unmerited favor in sending Jesus to
                 save us from our sins)
               </span>
@@ -93,7 +93,7 @@ export default function Acts14() {
           , and granted signs and wonders to be done by their hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (healings, miracles, and deliverances)
               </span>
             </span>
@@ -107,7 +107,7 @@ export default function Acts14() {
           divided{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (though Grace be its keynote, the Message causes dissension and
                 disrupts families, communities and nations)
               </span>
@@ -116,7 +116,7 @@ export default function Acts14() {
           : and part held with the Jews, and part with the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the extent of this division)
               </span>
             </span>
@@ -136,7 +136,7 @@ export default function Acts14() {
           despitefully, and to stone them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (constitutes their plan, but with Paul and Barnabas leaving
                 before it was put into motion)
               </span>
@@ -153,7 +153,7 @@ export default function Acts14() {
           <sup className="calibre7">6</sup>They were ware{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made aware)</span>
+              <span className="explanation">(made aware)</span>
             </span>
           </span>{" "}
           of{" "}
@@ -166,7 +166,7 @@ export default function Acts14() {
           region that lies round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean that Paul and Barnabas were afraid, but that these
                 were the instructions of the Lord)
               </span>
@@ -180,13 +180,13 @@ export default function Acts14() {
           <sup className="calibre7">7</sup>And there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lystra and Derbe)</span>
+              <span className="explanation">(Lystra and Derbe)</span>
             </span>
           </span>{" "}
           they preached the Gospel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (preaching is the method chosen by God to reach people,
                 irrespective of their locality or circumstances)
               </span>
@@ -207,7 +207,7 @@ export default function Acts14() {
           <sup className="calibre7">9</sup>The same heard Paul speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems that Paul was preaching in the town square)
               </span>
             </span>
@@ -216,7 +216,7 @@ export default function Acts14() {
           healed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul being drawn to this man by the Holy Spirit,
                 because the man apparently believed what he heard Paul saying
                 about Christ; evidently Paul referred to Christ in his Message,
@@ -232,13 +232,13 @@ export default function Acts14() {
           <sup className="calibre7">10</sup>Said with a loud voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul spoke loudly)</span>
+              <span className="explanation">(Paul spoke loudly)</span>
             </span>
           </span>
           , Stand upright on your feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was no doubt in front of a great crowd)
               </span>
             </span>
@@ -246,7 +246,7 @@ export default function Acts14() {
           . And he leap ed and walked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims him being healed immediately)
               </span>
             </span>
@@ -261,7 +261,7 @@ export default function Acts14() {
           Lycaonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents their native language)
               </span>
             </span>
@@ -269,7 +269,7 @@ export default function Acts14() {
           , The gods are come down to us in the likeness of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Greek Mythology pointed to many gods, and their coming down to
                 Earth in human form)
               </span>
@@ -284,7 +284,7 @@ export default function Acts14() {
           and Paul, Mercurius{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents their two principal gods)
               </span>
             </span>
@@ -292,7 +292,7 @@ export default function Acts14() {
           , because he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           was the chief speaker.
@@ -304,7 +304,7 @@ export default function Acts14() {
           was before their city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the temple of Jupiter, which was constructed just
                 outside the gates)
               </span>
@@ -314,7 +314,7 @@ export default function Acts14() {
           sacrifice with the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spoke of offering up the animals and actually worshiping Paul
                 and Barnabas)
               </span>
@@ -337,7 +337,7 @@ export default function Acts14() {
               <span className="calibre_19">of</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably means the people were speaking in their native
                 language, so the Apostles at first did not know what was
                 happening),
@@ -347,7 +347,7 @@ export default function Acts14() {
           they rent their clothes, and ran in among the people, crying out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was to show their disapproval of what was happening)
               </span>
             </span>
@@ -361,7 +361,7 @@ export default function Acts14() {
           things?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Why do people in India bathe in the filth of the Ganges River,
                 thinking that such will guarantee them some type of eternal
                 life? Why do many in Africa smear cow dung over their bodies,
@@ -372,7 +372,7 @@ export default function Acts14() {
           We also are men of like passions with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul and Barnabas disavowed the ridiculous claims of these
                 people that they are gods)
               </span>
@@ -382,7 +382,7 @@ export default function Acts14() {
           the living God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (other than the Living God Who can only be found through Jesus
                 Christ, all is vanity)
               </span>
@@ -397,13 +397,13 @@ export default function Acts14() {
           <sup className="calibre7">16</sup>Who in times past{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before the Cross)</span>
+              <span className="explanation">(before the Cross)</span>
             </span>
           </span>{" "}
           suffered all nations to walk in their own ways{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that He did not destroy them despite their evil ways, as
                 abominable as they were)
               </span>
@@ -419,7 +419,7 @@ export default function Acts14() {
           and fruitful seasons, filling our hearts with food and gladness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however powerful Creation may be as a witness, it is not a
                 Saviour; while it could point men toward God, it within itself
                 could not save men; despite that witness, they died eternally
@@ -436,7 +436,7 @@ export default function Acts14() {
           restrained they the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the people were still somewhat fearful of not heeding Paul and
                 Barnabas)
               </span>
@@ -445,7 +445,7 @@ export default function Acts14() {
           , that they had not done sacrifice unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the people were restrained at the last moment)
               </span>
             </span>
@@ -467,7 +467,7 @@ export default function Acts14() {
           Jews from Antioch and Iconium, who persuaded the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this evidently took place some days after the situation
                 concerning the proposed Sacrifice; these Jews persuaded the
                 people to turn against Paul and Barnabas)
@@ -483,7 +483,7 @@ export default function Acts14() {
           out of the city, supposing he had been dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they considered Paul to be the leader, with Barnabas, it seems,
                 being spared from the stoning; Paul was near death)
               </span>
@@ -498,7 +498,7 @@ export default function Acts14() {
           round about him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of those who had come to Christ in the last few days or
                 weeks)
               </span>
@@ -507,7 +507,7 @@ export default function Acts14() {
           , he rose up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that however serious the situation was, he was
                 instantly healed)
               </span>
@@ -516,7 +516,7 @@ export default function Acts14() {
           , and came into the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Pauls detractors had now left, thinking he was dead)
               </span>
             </span>
@@ -524,7 +524,7 @@ export default function Acts14() {
           : and the next day he departed with Barnabas to Derbe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a distance of about forty miles)
               </span>
             </span>
@@ -538,7 +538,7 @@ export default function Acts14() {
           Gospel to that city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims their Evangelism not slowing at all despite the
                 persecution)
               </span>
@@ -547,7 +547,7 @@ export default function Acts14() {
           , and had taught many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (preaching had brought them to Christ, and now they needed to be
                 taught)
               </span>
@@ -562,7 +562,7 @@ export default function Acts14() {
           Iconium, and Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were led by the Holy Spirit to go back to these places of
                 their persecution; as such, Satan would not be able to kill
                 them)
@@ -578,7 +578,7 @@ export default function Acts14() {
           Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained to the new converts in these areas)
               </span>
             </span>
@@ -592,7 +592,7 @@ export default function Acts14() {
           exhorting them to continue in the Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is not he who begins, but he who finishes)
               </span>
             </span>
@@ -601,7 +601,7 @@ export default function Acts14() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (quite a different Message than that being presently proposed)
               </span>
             </span>
@@ -615,13 +615,13 @@ export default function Acts14() {
           Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Preachers)</span>
+              <span className="explanation">(Preachers)</span>
             </span>
           </span>{" "}
           in every Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the help of the Holy Spirit, a Pastor from the local
                 congregation was selected to lead the local flock)
               </span>
@@ -630,7 +630,7 @@ export default function Acts14() {
           , and had prayed with fasting{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Paul, Barnabas, and others sought the Lord earnestly
                 as to His Will in these matters)
               </span>
@@ -639,7 +639,7 @@ export default function Acts14() {
           , they commend ed them to the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seeking the Lords Blessings on them after the appointment)
               </span>
             </span>
@@ -647,7 +647,7 @@ export default function Acts14() {
           , on Whom they believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (believing that He would lead and guide them, which He did!)
               </span>
             </span>
@@ -664,7 +664,7 @@ export default function Acts14() {
           Pisidia, they came to Pamphylia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pamphylia is southwest of Pisidia)
               </span>
             </span>
@@ -678,7 +678,7 @@ export default function Acts14() {
           in Perga, they went down into Attalia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no record that they ministered in Attalia)
               </span>
             </span>
@@ -691,14 +691,14 @@ export default function Acts14() {
           <sup className="calibre7">26</sup>And thence sailed to Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the home Church)</span>
+              <span className="explanation">(the home Church)</span>
             </span>
           </span>
           , from whence they had been recommended to the Grace of God for the
           work which they fulfilled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit says here that Paul and Barnabas did exactly
                 what the Lord wanted them to do regarding this Missionary
                 journey)
@@ -717,13 +717,13 @@ export default function Acts14() {
           gathered the Church together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at Antioch)</span>
+              <span className="explanation">(at Antioch)</span>
             </span>
           </span>
           , they rehearsed all that God had done with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (related it all to the congregation)
               </span>
             </span>
@@ -731,7 +731,7 @@ export default function Acts14() {
           , and how He had opened the door of Faith unto the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (how receptive the Gentiles were)
               </span>
             </span>
@@ -744,13 +744,13 @@ export default function Acts14() {
           <sup className="calibre7">28</sup>And there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Antioch, Syria)</span>
+              <span className="explanation">(Antioch, Syria)</span>
             </span>
           </span>{" "}
           they abode long time with the Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with the congregation, possibly as long as two years)
               </span>
             </span>

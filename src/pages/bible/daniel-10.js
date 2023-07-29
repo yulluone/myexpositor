@@ -21,7 +21,7 @@ export default function Daniel10() {
           and he understood the thing, and had understanding of the Vision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And the thing was true, but the time appointed was long, has
                 reference to the fulfillment of this Vision being in the far
                 distant future, at least from Daniels day. In fact, it will be
@@ -37,7 +37,7 @@ export default function Daniel10() {
           three full weeks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is thought that this Vision was given about five years after
                 the Vision of the seventy weeks of the previous Chapter.)
               </span>
@@ -52,7 +52,7 @@ export default function Daniel10() {
           three whole weeks were fulfilled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are some who argue that Daniel was on a total fast, in
                 other words, abstaining from any food whatsoever; however, the
                 phrase, No pleasant bread, seems to indicate otherwise, meaning
@@ -102,7 +102,7 @@ export default function Daniel10() {
           Hiddekel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hiddekel is the modern Tigris River)
               </span>
             </span>
@@ -120,7 +120,7 @@ export default function Daniel10() {
           with fine gold of Uphaz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the similarity of the apparition in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9902896">
                   <span className="calibre_19">
@@ -168,7 +168,7 @@ export default function Daniel10() {
           the Voice of His Words like the voice of a multitude.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I think there is no doubt that this is a pre-incarnate
                 appearance of Christ.)
               </span>
@@ -186,7 +186,7 @@ export default function Daniel10() {
           fell upon them, so that they fled to hide themselves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though these companions saw not the Vision, still they
                 greatly felt the Power of the Presence, for a great quaking fell
                 upon them. This means they were terrified!)
@@ -203,7 +203,7 @@ export default function Daniel10() {
           strength.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, For my comeliness was turned in me into corruption,
                 underlies the true meaning of this Passage. When our
                 Righteousness is compared with that of Christs, there truly is
@@ -220,7 +220,7 @@ export default function Daniel10() {
           my face, and my face toward the ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the same reaction that Daniel had upon the appearance
                 of Gabriel, concerning the Vision of{" "}
                 <ScrollLink href="/daniel-08" scrollToId="#filepos9859429">
@@ -243,7 +243,7 @@ export default function Daniel10() {
           which set me upon my knees and upon the palms of my hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the Scripture is unclear, it seems that the hand
                 that touched Daniel was not necessarily the Hand of Christ, of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9902896">
@@ -275,7 +275,7 @@ export default function Daniel10() {
           unto me, I stood trembling.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The message that Gabriel is about to give Daniel will be the
                 concluding Vision, and will actually tie all the other Visions
                 together.)
@@ -297,7 +297,7 @@ export default function Daniel10() {
           heard, and I am come for your words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For from the first day, speaks of his petition to God and his
                 effort to understand Gods Purpose concerning His People. Then
                 God commissioned Gabriel to come to him.)
@@ -314,7 +314,7 @@ export default function Daniel10() {
           Persia.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prince of the kingdom of Persia, refers to an evil angel
                 appointed by Satan to control the Persian Government, which, of
                 course, was done without the knowledge of its earthly king. This
@@ -366,7 +366,7 @@ export default function Daniel10() {
           is for many days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What shall befall your people, refers solely to the Jews [
                 <ScrollLink href="/daniel-09" scrollToId="#filepos9894199">
                   <span className="calibre_19">
@@ -398,7 +398,7 @@ export default function Daniel10() {
           unto me, I set my face toward the ground, and I became dumb.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Quite possibly, the many times mentioned concerning the Vision
                 being fulfilled in the latter days is because Daniel may have
                 thought that these things would happen shortly, with Israel
@@ -417,7 +417,7 @@ export default function Daniel10() {
           sorrows are turned upon me, and I have retained no strength.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Quite possibly, this was Christ, because Daniel addressed Him
                 as O my Lord!)
               </span>
@@ -432,7 +432,7 @@ export default function Daniel10() {
           no strength in me, neither is there breath left in me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is that it is not the Vision alone causing the
                 physical weakness, but rather the very Presence of Christ.)
               </span>
@@ -454,7 +454,7 @@ export default function Daniel10() {
           for You have strengthened me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that this is the Lord, in a pre-incarnate appearance,
                 actually speaking to Daniel.)
               </span>
@@ -472,7 +472,7 @@ export default function Daniel10() {
           Persia: and when I am gone forth, lo, the prince of Grecia shall come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that now Gabriel once again picks up the conversation.
                 And now will I return to fight with the prince of Persia, did
                 not mean that he would leave immediately, but, when the Vision
@@ -552,7 +552,7 @@ export default function Daniel10() {
           in these things, but Michael your prince.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Scripture of Truth refers to the dream originally given to
                 Nebuchadnezzar [
                 <ScrollLink href="/daniel-02" scrollToId="#filepos9768057">

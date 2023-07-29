@@ -18,7 +18,7 @@ export default function Jeremiah08() {
           and the bones of the inhabitants of Jerusalem, out of their graves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At that time, refers to the sack of Jerusalem by the Chaldeans.
                 The repetition of the word bones is important. Not only are the
                 objects of their idolatrous worship designated, but also the
@@ -51,7 +51,7 @@ export default function Jeremiah08() {
           Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they shall spread them..., refers to the Babylonians
                 leaving the bones on the ground before the planetary bodies
                 which Israel had worshipped. They shall be for dung on the face
@@ -72,7 +72,7 @@ export default function Jeremiah08() {
           Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So great would be the misery of the living in their captivity
                 that they would prefer to die.)
               </span>
@@ -90,7 +90,7 @@ export default function Jeremiah08() {
           away, and not return?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this prophetic utterance, the anguish of the speaker reveals
                 the love of God to rebellious man; and the rejection of the
                 Message proves the hatred of rebellious man to God.)
@@ -106,7 +106,7 @@ export default function Jeremiah08() {
           refuse to return.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, perpetual backsliding, refer to a continuous
                 backsliding, ever going deeper into sin. There was no halting of
                 their spiritual decline. Not once did they make an attempt to
@@ -124,7 +124,7 @@ export default function Jeremiah08() {
           battle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, They spoke not aright, refer to their expression of
                 repentance not being sincere, for no man questioned the
                 character of his actions, but continued to rush toward evil.)
@@ -141,7 +141,7 @@ export default function Jeremiah08() {
           of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Migratory birds have more intelligence than unconverted men.
                 They obey the migratory instinct, and so escape famine and
                 death. Man disobeys his conscience and the Word of God, and so
@@ -158,7 +158,7 @@ export default function Jeremiah08() {
           of the Scribes is in vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question posed by Jeremiah, How do you say, We are wise?,
                 is directed toward the Priests and the Prophets, whom he so
                 constantly described as among the chief causes of Judahs ruin,
@@ -199,7 +199,7 @@ export default function Jeremiah08() {
           what wisdom is in them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wise men are ashamed, actually looks forward to the coming
                 calamity and says, the wise men will be ashamed.)
               </span>
@@ -219,7 +219,7 @@ export default function Jeremiah08() {
           falsely.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8259267">
                   <span className="calibre_19">
@@ -246,7 +246,7 @@ export default function Jeremiah08() {
           peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit says, There is no peace, and yet they choose to
                 believe liars and their lies rather than the Holy Spirit and His
                 Truth.)
@@ -263,7 +263,7 @@ export default function Jeremiah08() {
           of their visitation they shall be cast down, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel had had a time of visitation of Righteousness under
                 Josiah, but had rejected it. Now they will have a time of
                 visitation of Judgment.)
@@ -280,7 +280,7 @@ export default function Jeremiah08() {
           shall pass away from them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel in the Scriptures is presented as a vine, as a fig tree,
                 and as an olive tree. These express Divine relationships. Judah
                 is compared to a vine with bad grapes [
@@ -336,7 +336,7 @@ export default function Jeremiah08() {
           water of gall to drink, because we have sinned against the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the LORD our God has put us to silence, refers to being
                 decreed to utter destruction. The word silent means that there
                 is no defense! And give us water of gall to drink, is a
@@ -365,7 +365,7 @@ export default function Jeremiah08() {
           came; and for a time of health, and behold trouble!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet enters into the minds of the people, expressing
                 their thoughts when this time of terror comes! We looked for
                 peace, but no good came, refers back to{" "}
@@ -393,7 +393,7 @@ export default function Jeremiah08() {
           that is in it; the city, and those who dwell therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture pictures the coming invasion of the Babylonians,
                 which also symbolizes the yet future Antichrist, who will come
                 from the same direction, and who will devour the land in the
@@ -410,7 +410,7 @@ export default function Jeremiah08() {
           you, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Chaldeans will be so terrible that they are compared to
                 serpents and adders, and so fierce that to placate them would be
                 impossible.)
@@ -428,7 +428,7 @@ export default function Jeremiah08() {
           sorrow, my heart is faint in me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The obvious consternation of Jeremiah is expressed in this
                 Passage!)
               </span>
@@ -444,7 +444,7 @@ export default function Jeremiah08() {
           Me to anger with their graven images, and with strange vanities?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Almost as if in answer to Jeremiahs great sorrow, the Voice of
                 the Lord explains His Own sadness. The expression, The daughter
                 of My People, applied to this nation of idolaters, liars, and
@@ -462,7 +462,7 @@ export default function Jeremiah08() {
           ended, and we are not saved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This statement is projected into the future, at the time of the
                 siege of Jerusalem by the Babylonians, and presents the cry, or
                 rather the forlorn expression, of the people. The summer is
@@ -481,7 +481,7 @@ export default function Jeremiah08() {
           People am I hurt; I am black; astonishment has taken hold on Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I am black, refers to mourning in sackcloth and ashes, and does
                 not mean the color of his skin. Astonishment has taken hold on
                 me, refers to the horror that is even greater than he had
@@ -498,7 +498,7 @@ export default function Jeremiah08() {
           People recovered?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The questions asked by the Lord are meant to receive a negative
                 answer. No earthly physician could recover the health of the
                 people of Judah. Just as no earthly mortal can recover the

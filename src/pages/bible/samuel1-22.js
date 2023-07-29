@@ -84,7 +84,7 @@ export default function Samuel122() {
           <sup className="calibre7">4</sup>And he brought them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his parents)</span>
+              <span className="explanation">(his parents)</span>
             </span>
           </span>{" "}
           before the king of Moab: and they dwelt with him all the while that
@@ -132,7 +132,7 @@ export default function Samuel122() {
           discovered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(back in Judah)</span>
+              <span className="explanation">(back in Judah)</span>
             </span>
           </span>
           , and the men who were with him, (now Saul abode in Gibeah under a
@@ -290,7 +290,7 @@ export default function Samuel122() {
           fell upon the Priests, and killed on that day fourscore and five{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(85)</span>
+              <span className="explanation">(85)</span>
             </span>
           </span>{" "}
           persons who did wear a linen Ephod.{" "}

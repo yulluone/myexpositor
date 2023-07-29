@@ -33,7 +33,7 @@ export default function Job01() {
           eschewed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hated)</span>
+              <span className="explanation">(hated)</span>
             </span>
           </span>{" "}
           evil.{" "}
@@ -108,7 +108,7 @@ export default function Job01() {
           their houses, every one his day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(every one on his birthday)</span>
+              <span className="explanation">(every one on his birthday)</span>
             </span>
           </span>
           ; and sent and called for their three sisters to eat and to drink with
@@ -121,7 +121,7 @@ export default function Job01() {
           feasting were gone about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(came around)</span>
+              <span className="explanation">(came around)</span>
             </span>
           </span>
           , that Job sent and sanctified them, and rose up early in the morning,
@@ -278,7 +278,7 @@ export default function Job01() {
           Earth, a perfect and an upright man, one who fears God, and eschews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hates)</span>
+              <span className="explanation">(hates)</span>
             </span>
           </span>{" "}
           evil?{" "}
@@ -521,7 +521,7 @@ export default function Job01() {
           mothers womb, and naked shall I return thither{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(return unto the earth)</span>
+              <span className="explanation">(return unto the earth)</span>
             </span>
           </span>
           : the LORD gave, and the LORD has taken away; blessed be the Name of

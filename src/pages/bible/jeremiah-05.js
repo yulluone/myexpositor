@@ -18,7 +18,7 @@ export default function Jeremiah05() {
           judgment, who seeks the Truth; and I will pardon it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Other than Jeremiahs little flock, there seemed to be no one in
                 Jerusalem, be they Priest or Prophet, who executed judgment and
                 sought the Truth. Jerusalem was that far gone, and yet precious
@@ -46,7 +46,7 @@ export default function Jeremiah05() {
           surely they swear falsely.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, swear falsely, mean to worship insincerely. Their
                 worship was false, and they even associated idols with the
                 Lord.)
@@ -63,7 +63,7 @@ export default function Jeremiah05() {
           made their faces harder than a rock; they have refused to return.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (O LORD, are not Your Eyes upon the Truth?, refers to the Bible.
                 Judah had forsaken the Truth, and would not receive correction.)
               </span>
@@ -78,7 +78,7 @@ export default function Jeremiah05() {
           Judgment of their God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, surely these are poor, refer to Jerusalem being
                 poverty-stricken in a spiritual sense, while very wealthy in a
                 material sense. How much such mirrors the modern Church!)
@@ -95,7 +95,7 @@ export default function Jeremiah05() {
           burst the bonds.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The yoke and bonds refer to the Bible. These great men rejected
                 the Law of God as a binding authority, as corrupt Christendom
                 does today.)
@@ -113,7 +113,7 @@ export default function Jeremiah05() {
           their backslidings are increased.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Foreign powers are given the names of wild animals, which would
                 overrun and destroy Jerusalem. Because the sin was great, the
                 Lord would not protect Judah from these enemies. The Lord Alone
@@ -132,7 +132,7 @@ export default function Jeremiah05() {
           themselves by troops in the harlots houses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, When I had fed them to the full, refer to the Lord
                 giving a full Revelation in the Pentateuch, and yet Israel
                 practiced idolatry in response; they assembled themselves by
@@ -150,7 +150,7 @@ export default function Jeremiah05() {
           morning: every one neighed after his neighbours wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse could read: They were as fed [lustful] horses
                 roaming at large, every one seeking his neighbors god. The
                 implication in these Verses does not pertain to literal
@@ -169,7 +169,7 @@ export default function Jeremiah05() {
           this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the Lord is speaking of the idol worship of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8204453">
                   <span className="calibre_19">
@@ -199,7 +199,7 @@ export default function Jeremiah05() {
           are not the LORDs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But make not a full end, refers to Judahs degenerate members,
                 who were to be removed, but the vine-stock, i.e., the believing
                 kernel of the nation was to be left. It is the keynote of that
@@ -227,7 +227,7 @@ export default function Jeremiah05() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here the Lord speaks of both Israel and Judah, even though
                 Israel had been completely destroyed a little over 100 years
                 before. He concluded both to have committed spiritual high
@@ -245,7 +245,7 @@ export default function Jeremiah05() {
           sword nor famine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is not He, refers to the fact that Judah denied that God was
                 speaking through Jeremiah.
               </span>
@@ -272,7 +272,7 @@ export default function Jeremiah05() {
           and the Word is not in them: thus shall it be done unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8207315">
                   <span className="calibre_19">
@@ -321,7 +321,7 @@ export default function Jeremiah05() {
           your mouth fire, and this people wood, and it shall devour them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fire that would devour them would be the anointing of the
                 Holy Spirit upon Jeremiah. Yet for all this, Judah would not
                 turn.)
@@ -338,7 +338,7 @@ export default function Jeremiah05() {
           understand what they say.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This nation speaks of the mighty Babylonian Empire.)
               </span>
             </span>
@@ -351,7 +351,7 @@ export default function Jeremiah05() {
           they are all mighty men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage, as given by the Holy Spirit, is to
                 portray the cruelty and the power of the Babylonian invader, all
                 used as the instruments of the Lord.)
@@ -369,7 +369,7 @@ export default function Jeremiah05() {
           you trusted, with the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Which your sons and your daughters should eat, in the original
                 Hebrew actually says, They shall eat your sons and your
                 daughters, meaning they would be killed!)
@@ -384,7 +384,7 @@ export default function Jeremiah05() {
           LORD, I will not make a full end with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods tender pity for guilty men is revealed in the sentences: I
                 will pardon her [
                 <ScrollLink href="/" scrollToId="#filepos8201246">
@@ -425,7 +425,7 @@ export default function Jeremiah05() {
           is not yours.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The intent of this Passage is that inasmuch as the Jews served
                 foreign gods in Jehovahs Land, they shall become the slaves of
                 foreigners in a land that is not theirs.)
@@ -445,7 +445,7 @@ export default function Jeremiah05() {
           and publish it in Judah, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah is told to proclaim this Message to the people of
                 Judah. It is to be published, meaning to be proliferated among
                 the people)
@@ -462,7 +462,7 @@ export default function Jeremiah05() {
           hear not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (without understanding, actually means without heart; it means
                 that the people have no heart toward God; they have set a course
                 of deliberate sin, which always perverts a mans moral
@@ -495,7 +495,7 @@ export default function Jeremiah05() {
           though they roar, yet can they not pass over it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of the Passage is that the sands of the seashore obey
                 God, but His People disobey Him. They disobey Him because they
                 have no fear of Him!)
@@ -510,7 +510,7 @@ export default function Jeremiah05() {
           a rebellious heart; they are revolted and gone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The heart is the center of the moral and Spiritual Life,
                 virtually equivalent to the will. A rebellious heart, refers to
                 actively defying and opposing the Lord. A revolting heart refers
@@ -528,7 +528,7 @@ export default function Jeremiah05() {
           harvest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, we have another perpetual decree, as outlined in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8213083">
                   <span className="calibre_19">
@@ -592,7 +592,7 @@ export default function Jeremiah05() {
           these things, and your sins have withheld good things from you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let the reader understand that as sin withheld good things from
                 Judah, likewise, sin withholds good things from any and all.)
               </span>
@@ -607,7 +607,7 @@ export default function Jeremiah05() {
           men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who are these wicked men? They are the Priests, Pastors, and
                 Prophets of{" "}
                 <ScrollLink href="/jeremiah-02" scrollToId="#filepos8141427">
@@ -633,7 +633,7 @@ export default function Jeremiah05() {
           waxed rich.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse could be paraphrased: As a cage is full of birds
                 caught in traps, so their houses are full of riches secured by
                 deceit. God is not opposed to greatness or riches as such, but
@@ -652,7 +652,7 @@ export default function Jeremiah05() {
           do they not judge.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Yea, they overpass the deeds of the wicked, literally means
                 they overpass the common measure of wickedness. This was the sin
                 that opposed Christ, the sin of the Pharisees.
@@ -680,7 +680,7 @@ export default function Jeremiah05() {
           sa ys the LORD: shall not My Soul be avenged on such a nation as this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is a repetition of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8205639">
                   <span className="calibre_19">
@@ -710,7 +710,7 @@ export default function Jeremiah05() {
           committed in the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the words, wonderful and horrible, could have been translated
                 appalling and horrible. The word appalling means stupefying)
               </span>
@@ -726,7 +726,7 @@ export default function Jeremiah05() {
           so: and what will you do in the end thereof?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Priests were appointed to teach the Law. They failed to do
                 so! God then raised up the Prophets to teach the people, but
                 Satan sent out false prophets to oppose and confuse the Truth,

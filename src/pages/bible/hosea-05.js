@@ -18,7 +18,7 @@ export default function Hosea05() {
           and a net spread upon Tabor.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Neither the kings nor priests of the Northern Kingdom were
                 legitimate, but they claimed to be kings and priests, and God
                 met them on their own ground, and in Grace warned them of the
@@ -48,7 +48,7 @@ export default function Hosea05() {
           make slaughter, though I have been a rebuker of them all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse may be better translated, And the apostates are
                 deeply resolved to slaughter victims in sacrifice, but I will be
                 a rebuker of them all. The idea of the Verse is that despite the
@@ -68,7 +68,7 @@ export default function Hosea05() {
           defiled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ephraim was the largest Tribe; consequently, the entirety of
                 the Northern Kingdom went by that name. Similarly, Judah became
                 the name of the Southern Kingdom, because of it being the ruling
@@ -98,7 +98,7 @@ export default function Hosea05() {
           them, and they have not known the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In these Prophecies, the term, to know the LORD, means in
                 Hebrew to know experientially rather than from a mere
                 intellectual stance.
@@ -141,7 +141,7 @@ export default function Hosea05() {
           iniquity; Judah also shall fall with them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And the pride of Israel does testify to His Face, means that
                 this pride, as all pride, was in the very Face of God, and
                 consequently was an unending stench in His Nostrils. Now, Hosea
@@ -158,7 +158,7 @@ export default function Hosea05() {
           withdrawn Himself from them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that in the not-too-distant future,
                 Israel would see the calamity of Assyria coming upon them, and
                 would then try to bargain with God, but too late.
@@ -210,7 +210,7 @@ export default function Hosea05() {
           devour them with their portions.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They have dealt treacherously against the LORD, presents the
                 reason their sacrifices were not accepted. For they have
                 begotten strange children, refers to those who were not really
@@ -252,7 +252,7 @@ export default function Hosea05() {
           the trumpet in Ramah: cry aloud at Beth-aven, after you, O Benjamin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These areas seem to be the line of march of the Assyrians
                 coming into the Northern Kingdom. Even though it would be some
                 50-60 years into the future, still, the Holy Spirit outlines it
@@ -271,7 +271,7 @@ export default function Hosea05() {
           shall surely be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to Ephraims present prosperity but that
                 which shall surely end. Among the Tribes of Israel have I made
                 known that which shall surely be, proclaims the fact that the
@@ -289,7 +289,7 @@ export default function Hosea05() {
           like water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Princes of Judah, like those of Israel, removed the bound,
                 i.e., broke away from the Bible [
                 <ScrollLink href="/deuteronmy-19" scrollToId="#filepos2303541">
@@ -340,7 +340,7 @@ export default function Hosea05() {
           judgment, because he willingly walked after the commandment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (walked after the commandment of men rather than after the
                 Commandment of the Lord)
               </span>
@@ -355,7 +355,7 @@ export default function Hosea05() {
           a moth, and to the house of Judah as rottenness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Ways of the Lord are followed, it means blessing;
                 however, if the Ways of the Lord are rejected, it means
                 Judgment.)
@@ -371,7 +371,7 @@ export default function Hosea05() {
           king Jareb: yet could he not heal you, nor cure you of your wound.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Judah should be supplied before sent to king Jareb.
                 Jareb was king of Assyria and his name numerically spells 666.
                 Concerning this Verse, Calvin says, Here God declares that
@@ -391,7 +391,7 @@ export default function Hosea05() {
           and go away; I will take away, and none shall rescue him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If no Repentance was forthcoming, which it was not, then the
                 pressure would become fierce, as it did!)
               </span>
@@ -406,7 +406,7 @@ export default function Hosea05() {
           affliction they will seek Me early.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will go and return to My Place, refers to the Lord having
                 carried out His Purpose and Design; He now withdraws His
                 Presence and Spirit from the offending people.

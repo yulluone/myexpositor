@@ -339,7 +339,7 @@ export default function Kings213() {
           shall smite the Syrians in Aphek, till you have consumed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a promise!)</span>
+              <span className="explanation">(what a promise!)</span>
             </span>
           </span>
           .
@@ -350,7 +350,7 @@ export default function Kings213() {
           <sup className="calibre7">18</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said, Take the arrows. And he took them. And he said unto the king of
@@ -365,7 +365,7 @@ export default function Kings213() {
           . And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the king of Israel)</span>
+              <span className="explanation">(the king of Israel)</span>
             </span>
           </span>{" "}
           smote thrice, and stayed.
@@ -415,14 +415,14 @@ export default function Kings213() {
           <sup className="calibre7">21</sup>And it came to pass, as they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Moabites)</span>
+              <span className="explanation">(the Moabites)</span>
             </span>
           </span>{" "}
           were burying a man, that, behold, they spied a band of men; and they
           cast the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the corpse)</span>
+              <span className="explanation">(the corpse)</span>
             </span>
           </span>{" "}
           into the sepulchre of Elisha: and when the man was let down, and
@@ -471,7 +471,7 @@ export default function Kings213() {
           <sup className="calibre7">23</sup>And the LORD was gracious unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Israel)</span>
+              <span className="explanation">(unto Israel)</span>
             </span>
           </span>
           , and had compassion on them, and had respect unto them, because of

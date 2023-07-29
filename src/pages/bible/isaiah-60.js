@@ -16,7 +16,7 @@ export default function Isaiah60() {
           and the Glory of the LORD is risen upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Speaker here is the Holy Spirit; the person spoken to is
                 Israel. The words, Arise, shine, refer not necessarily to
                 Israels light, for she has no light; rather she reflects the
@@ -54,7 +54,7 @@ export default function Isaiah60() {
           upon you, and His Glory shall be seen upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The darkness mentioned here speaks of the Great Tribulation,
                 when the Church will have been Raptured away, thereby leaving
                 the world without Light [
@@ -84,7 +84,7 @@ export default function Isaiah60() {
           light, and kings to the brightness of your rising.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your light, does not mean that such originated with Israel, but
                 is to be poured upon her. Because of this, and it being overly
                 obvious, the nations of the world will come to Israel; however,
@@ -101,7 +101,7 @@ export default function Isaiah60() {
           shall come from far, and your daughters shall be nursed at your side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your sons and your daughters refer to Israelites still
                 scattered among the nations, and then being gathered back to
                 Judah. As stated, this will take place at the beginning of the
@@ -135,7 +135,7 @@ export default function Isaiah60() {
           Gentiles shall come unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word fear should have been translated rejoice or tremble,
                 i.e., tremble with holy joy.{" "}
                 <ScrollLink href="/" scrollToId="#filepos8017254">
@@ -173,7 +173,7 @@ export default function Isaiah60() {
           praises of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Multitude of camels, refers to a continual stream of caravans,
                 implying that Jerusalem is not only the center of spiritual
                 Glory, but also of economic power.
@@ -202,7 +202,7 @@ export default function Isaiah60() {
           glorify the house of My Glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will glorify the house of My Glory, should read I will
                 beautify My beautiful house, that is, the palace at Jerusalem,
                 which is to be built. It will be beautiful beyond words!)
@@ -217,7 +217,7 @@ export default function Isaiah60() {
           as the doves to their windows?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to ships coming from all over the world to Israel,
                 which, as stated, will take place in the coming Kingdom Age.)
               </span>
@@ -233,7 +233,7 @@ export default function Isaiah60() {
           and to the Holy One of Israel, because He has glorified you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Surely the isles [maritime countries] shall wait for Me, refers
                 to Christ being the focal point of all that is done. Once again,
                 Israels blessing is totally dependent upon the Lord, as in fact
@@ -253,7 +253,7 @@ export default function Isaiah60() {
           My wrath I smote you, but in My favour have I had mercy on you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sons of strangers refer to the allegiance of the Gentiles
                 concerning their favor toward Israel. The words, In My wrath I
                 smote you, refer to Titus, who in A.D. 70 destroyed Jerusalem,
@@ -284,7 +284,7 @@ export default function Isaiah60() {
           brought.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The forces of the Gentiles speak of the wealth of the Gentiles.
                 And that their kings may be brought, refers to the leaders of
                 nations coming to Israel and actually being forced to come by
@@ -304,7 +304,7 @@ export default function Isaiah60() {
           wasted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication is that some nations and kingdoms possibly will
                 not desire to serve the Lord; however, there will be no
                 opportunity for them to respond. They shall perish and be
@@ -324,7 +324,7 @@ export default function Isaiah60() {
           glorious.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will make the place of My feet glorious, refers to Christ
                 literally walking on Earth, and in this beautiful capital
                 building, which will be befitting of His Presence [
@@ -357,7 +357,7 @@ export default function Isaiah60() {
           you, The city of the LORD, The Zion of the Holy One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of them who afflicted you, concerns the nations of the world
                 that have grandly opposed Israel; however, those nations shall
                 come bending unto you. At the soles of your feet, guarantees
@@ -390,7 +390,7 @@ export default function Isaiah60() {
           excellency, a joy of many generations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel has been hated from her very beginning in the days of
                 Abraham, because of animosity against the Lord. Tragically, the
                 True Israel, i.e., Christ, was hated upon His First Advent;
@@ -407,7 +407,7 @@ export default function Isaiah60() {
           I the LORD am your Saviour and your Redeemer, the Mighty One of Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Suck the milk of the Gentiles, refers to a continual stream of
                 material sustenance to help in the restoration of Jerusalem and
                 all of Israel, and to carry on the universal missionary program
@@ -445,7 +445,7 @@ export default function Isaiah60() {
           will also make your officers peace, and your exactors righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The material splendor throughout the whole description is, no
                 doubt, typical in the main of spiritual glories and
                 excellencies, as well.
@@ -475,7 +475,7 @@ export default function Isaiah60() {
           call your walls Salvation, and your gates Praise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entire cessation of war and violence is one of the most
                 characteristic features of the Kingdom Age, when swords shall be
                 beaten into plowshares and spears into pruninghooks. The Prince
@@ -521,7 +521,7 @@ export default function Isaiah60() {
           glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The splendor of such will make Jerusalem the joy of the whole
                 world. While the sun and moon will continue to shine as always,
                 still, the Glory of the Lord will be of such magnificence that
@@ -538,7 +538,7 @@ export default function Isaiah60() {
           Everlasting Light, and the days of your mourning shall be ended.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Your sun shall no more go down, does not mean that
                 the rotation of the Earth will cease, but rather that its rising
                 and its setting will not be noticed at all, due to the Glory of
@@ -568,7 +568,7 @@ export default function Isaiah60() {
           planting, the work of My Hands, that I may be glorified.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason for the suffering being ended is because your people
                 also shall be all righteous. Now, the Land that was promised to
                 Abraham in the beginning will be theirs forever. It is called
@@ -599,7 +599,7 @@ export default function Isaiah60() {
           in His time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The little one refers to the little flock who will ultimately
                 inherit the Kingdom [
                 <ScrollLink href="/luke-12" scrollToId="#filepos11992300">

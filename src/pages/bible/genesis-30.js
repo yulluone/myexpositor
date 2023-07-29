@@ -19,7 +19,7 @@ export default function Genesis30() {
           me children, or else I die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rachel pictures Israel; Leah, the Church; Rachel is first
                 loved, but not possessed sorrowful and childless; Leah, blessed
                 with children and triumphant; Paul, in a sense, addressed this
@@ -47,7 +47,7 @@ export default function Genesis30() {
           fruit of the womb?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob directs Rachel to the Lord.)
               </span>
             </span>
@@ -61,7 +61,7 @@ export default function Genesis30() {
           children by her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this shows precious little Faith in God; while it seems
                 that both Rachel and Leah understood somewhat the significance
                 of them having children, their understanding was only partial,
@@ -78,7 +78,7 @@ export default function Genesis30() {
           to wife: and Jacob went in unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the custom in those days; the child that Bilhah would
                 have would be looked at as that of Rachel, but only in a sense;
                 the Holy Spirit plainly proclaims the actual mother)
@@ -97,7 +97,7 @@ export default function Genesis30() {
           a son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Calvin says, So, God often strives to overcome
                 mens wickedness through kindness, and pursues the unworthy with
                 His Grace.)
@@ -113,7 +113,7 @@ export default function Genesis30() {
           she his name Dan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name means judging. Whether Jacob understood such or not is
                 open to question; however, he must have 13 sons in order to
                 found the Nation of Israel. Twelve would be for the regular
@@ -137,7 +137,7 @@ export default function Genesis30() {
           she called his name Naphtali{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his name means wrestling)</span>
+              <span className="explanation">(his name means wrestling)</span>
             </span>
           </span>
         </span>
@@ -149,7 +149,7 @@ export default function Genesis30() {
           bearing, she took Zilpah her maid, and gave her Jacob to wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(resorts to the flesh)</span>
+              <span className="explanation">(resorts to the flesh)</span>
             </span>
           </span>
         </span>
@@ -167,7 +167,7 @@ export default function Genesis30() {
           she called his name Gad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gad means, good fortune)</span>
+              <span className="explanation">(Gad means, good fortune)</span>
             </span>
           </span>
         </span>
@@ -185,7 +185,7 @@ export default function Genesis30() {
           daughters will call me blessed: and she called his name Asher{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means happy)</span>
+              <span className="explanation">(means happy)</span>
             </span>
           </span>
         </span>
@@ -199,7 +199,7 @@ export default function Genesis30() {
           sons mandrakes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages present a perfect picture of prayer mixed with
                 superstition. According to Oriental superstition, the mandrake
                 possessed the virtue of promoting fruitfulness and fertility. It
@@ -217,7 +217,7 @@ export default function Genesis30() {
           tonight for your sons mandrakes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rachel makes a bargain with Leah)
               </span>
             </span>
@@ -239,7 +239,7 @@ export default function Genesis30() {
           conceived, and bore Jacob the fifth son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From this Verse, we know that Leah sought the Lord as it
                 regards her conceiving another son, which she did. The Lord
                 heard and answered her prayer, and this despite the fact that
@@ -257,7 +257,7 @@ export default function Genesis30() {
           name Issachar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means, reward)</span>
+              <span className="explanation">(means, reward)</span>
             </span>
           </span>
         </span>
@@ -276,7 +276,7 @@ export default function Genesis30() {
           born him six sons: and she called his name Zebulun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Means dwelling. So, in the six sons of Leah, we have the
                 totality of the Plan of God. A son is born; he hears the Gospel;
                 he is joined to Christ; he praises the Lord; he is rewarded; and
@@ -300,7 +300,7 @@ export default function Genesis30() {
           <sup className="calibre7">22</sup>And God remembered Rachel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that the mandrakes could not remove sterility, the Lord
                 demonstrated by allowing Rachels barrenness to continue at least
                 two years longer, though she had made use of this supposed
@@ -313,7 +313,7 @@ export default function Genesis30() {
           , and God hearkened to her, and opened her womb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Rachel finally resorted strictly to the Lord)
               </span>
             </span>
@@ -327,7 +327,7 @@ export default function Genesis30() {
           and said, God has taken away my reproach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God Alone can take away the reproach)
               </span>
             </span>
@@ -341,7 +341,7 @@ export default function Genesis30() {
           said, The LORD shall add to me another son.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephs name means adding. So, Rachel prophesies that the Lord
                 will give her another son. As well, all of these sons are Types
                 of Christ. Reuben: Jesus is the Son of God. Simeon: through
@@ -388,7 +388,7 @@ export default function Genesis30() {
           which I have done you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, For whom I have served you, and let me go, proves
                 that both Leah and Rachel became his wives immediately and then
                 he served the fourteen years for them.)
@@ -404,7 +404,7 @@ export default function Genesis30() {
           experience that the LORD has blessed me for your sake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban did not really serve the Lord; however, he did know that
                 Jehovah was real, and that the Blessings of God were definitely
                 upon Jacob. So, for material benefits alone, he desires that the
@@ -421,7 +421,7 @@ export default function Genesis30() {
           <sup className="calibre7">28</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Laban)</span>
+              <span className="explanation">(Laban)</span>
             </span>
           </span>{" "}
           said, Appoint me your wages, and I will give it.
@@ -432,13 +432,13 @@ export default function Genesis30() {
           <sup className="calibre7">29</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Laban)</span>
+              <span className="explanation">(unto Laban)</span>
             </span>
           </span>
           , You know how I have served you, and how your cattle was with me.
@@ -457,7 +457,7 @@ export default function Genesis30() {
           <sup className="calibre7">31</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Laban)</span>
+              <span className="explanation">(Laban)</span>
             </span>
           </span>{" "}
           said, What shall I give you? And Jacob said, You shall not give me any
@@ -479,7 +479,7 @@ export default function Genesis30() {
           me in time to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God will bless me)</span>
+              <span className="explanation">(God will bless me)</span>
             </span>
           </span>
           , when it shall come for my hire before your face: every one that is
@@ -487,7 +487,7 @@ export default function Genesis30() {
           that shall be counted stolen with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all that are speckled, spotted, or brown shall be mine)
               </span>
             </span>
@@ -501,7 +501,7 @@ export default function Genesis30() {
           might be according to your word.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some have criticized Jacob, as it regards this particular
                 agreement. They have attributed such to devious ways, trickery,
                 and even dishonesty; however, it would appear that he acted
@@ -522,7 +522,7 @@ export default function Genesis30() {
           the brown among the sheep, and gave them into the hand of his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacobs)</span>
+              <span className="explanation">(Jacobs)</span>
             </span>
           </span>{" "}
           sons.
@@ -533,14 +533,14 @@ export default function Genesis30() {
           <sup className="calibre7">36</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Laban)</span>
+              <span className="explanation">(Laban)</span>
             </span>
           </span>{" "}
           set three days journey between himself and Jacob: and Jacob fed the
           rest of Labans flocks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban required that there should be an interval of between 30
                 and 40 miles between himself, that is, his flocks, and those of
                 Jacob. His wealth in sheep and goats must have been enormous to
@@ -569,7 +569,7 @@ export default function Genesis30() {
           in them, and made the white appear which was in the rods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whenever Jacob proposed his plan, which would give him all of
                 the spotted and mingled sheep and goats, Laban reasoned, and
                 rightly so under normal circumstances, that the number of
@@ -606,7 +606,7 @@ export default function Genesis30() {
           and put them not unto Labans cattle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Incidentally, the term cattle, as used in the Old Testament,
                 can refer to all domestic animals, such as lambs, goats, oxen,
                 or heifers. In the Passages of our study, it seems to refer to
@@ -634,14 +634,14 @@ export default function Genesis30() {
           <sup className="calibre7">43</sup>And the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           increased exceedingly, and had much cattle, and maidservants, and
           menservants, and camels, and asses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We must conclude that the proposal of such a singular condition
                 on the part of Jacob was an act, not of folly, but of faith,
                 being tantamount to a committal of his cause to God instead of

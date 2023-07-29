@@ -65,7 +65,7 @@ export default function Samuel128() {
           wizards, out of the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which he should have done!)</span>
+              <span className="explanation">(which he should have done!)</span>
             </span>
           </span>
         </span>
@@ -194,7 +194,7 @@ export default function Samuel128() {
           you deceived me? for you are Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(now she recognizes the king)</span>
+              <span className="explanation">(now she recognizes the king)</span>
             </span>
           </span>
         </span>
@@ -264,7 +264,7 @@ export default function Samuel128() {
           you and your sons be with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shall be dead)</span>
+              <span className="explanation">(shall be dead)</span>
             </span>
           </span>
           : the LORD also shall deliver the host of Israel into the hand of the

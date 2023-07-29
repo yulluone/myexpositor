@@ -16,7 +16,7 @@ export default function Mark08() {
           very great{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(numbering thousands)</span>
+              <span className="explanation">(numbering thousands)</span>
             </span>
           </span>{" "}
           and having nothing to eat{" "}
@@ -67,7 +67,7 @@ export default function Mark08() {
           their own houses, they will faint by the way: for divers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many)</span>
+              <span className="explanation">(many)</span>
             </span>
           </span>{" "}
           of them came from far.
@@ -156,7 +156,7 @@ export default function Mark08() {
           <sup className="calibre7">7</sup>And they had a few small fishes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(did not give the number)</span>
+              <span className="explanation">(did not give the number)</span>
             </span>
           </span>
           : and He blessed, and commanded to set them also before{" "}
@@ -176,7 +176,7 @@ export default function Mark08() {
               <span className="calibre_19">meat</span>
             </span>
             <span>
-              <span className="calibre_19">(bread)</span>
+              <span className="explanation">(bread)</span>
             </span>
           </span>{" "}
           that was left seven baskets.
@@ -213,7 +213,7 @@ export default function Mark08() {
           <sup className="calibre7">10</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
             <span>
               <span className="calibre_19">He</span>
@@ -262,7 +262,7 @@ export default function Mark08() {
           , seeking of Him a sign from Heaven, tempting Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and these</span>
+              <span className="explanation">(and these</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -318,7 +318,7 @@ export default function Mark08() {
           , and entering into the ship again departed to the other side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the northeastern shore)</span>
+              <span className="explanation">(the northeastern shore)</span>
             </span>
           </span>
           .
@@ -361,7 +361,7 @@ export default function Mark08() {
           , saying, Take heed, beware of the leaven of the Pharisees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(false doctrine)</span>
+              <span className="explanation">(false doctrine)</span>
             </span>
           </span>
           , and{" "}
@@ -731,7 +731,7 @@ export default function Mark08() {
           <sup className="calibre7">30</sup>And He charged them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(commanded them)</span>
+              <span className="explanation">(commanded them)</span>
             </span>
           </span>{" "}
           that they should tell no man of Him{" "}
@@ -792,7 +792,7 @@ export default function Mark08() {
           , and be killed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Crucifixion)</span>
+              <span className="explanation">(the Crucifixion)</span>
             </span>
           </span>
           , and after three days rise again{" "}
@@ -812,7 +812,9 @@ export default function Mark08() {
           <sup className="calibre7">32</sup>And He spoke that saying openly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means that He kept saying it)</span>
+              <span className="explanation">
+                (means that He kept saying it)
+              </span>
             </span>
           </span>
           . And Peter took Him{" "}
@@ -859,7 +861,7 @@ export default function Mark08() {
           : for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(now speaks to Peter)</span>
+              <span className="explanation">(now speaks to Peter)</span>
             </span>
           </span>{" "}
           savor not the things that be of God, but the things that be of men{" "}
@@ -1004,7 +1006,7 @@ export default function Mark08() {
           , when He comes in the Glory of His Father with the Holy Angels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Second Coming)</span>
+              <span className="explanation">(the Second Coming)</span>
             </span>
           </span>
           .

@@ -294,19 +294,19 @@ export default function Luke16() {
           ; that, when ye fail{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when you die)</span>
+              <span className="explanation">(when you die)</span>
             </span>
           </span>
           , they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angels)</span>
+              <span className="explanation">(the Angels)</span>
             </span>
           </span>{" "}
           may receive you into everlasting habitations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Heaven)</span>
+              <span className="explanation">(Heaven)</span>
             </span>
           </span>
           .
@@ -883,7 +883,7 @@ export default function Luke16() {
           father, that you would send him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(send Lazarus)</span>
+              <span className="explanation">(send Lazarus)</span>
             </span>
           </span>{" "}
           to my fathers house{" "}

@@ -20,7 +20,7 @@ export default function Ezekiel46() {
           the new moon it shall be opened.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter opens with Thus says the Lord GOD, emphasizing the
                 seriousness of these Commands inasmuch as obeying them
                 guarantees the prosperity, both spiritually and economically, of
@@ -47,7 +47,7 @@ export default function Ezekiel46() {
           shall go forth; but the Gate shall not be shut until the evening.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prince will provide the Offerings and the Priests will
                 present them. The Offerings of the Sabbath will number seven,
                 denoting the Perfection of Christ, but there will be no wine. In
@@ -64,7 +64,7 @@ export default function Ezekiel46() {
           in the new moons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason the Prince has greater access, even unto the Porch,
                 is because he is a Type of Christ. However, even he cannot go
                 beyond the inner door. The Sabbath signifies the rest afforded
@@ -90,7 +90,7 @@ export default function Ezekiel46() {
           able to give, and an hin of oil to an ephah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Divine foundation being laid the blood and the oil the
                 heart is given freedom to express its joy and its communion in
                 the Meal Offering, i.e., fellowship with God in the enjoyment of
@@ -124,7 +124,7 @@ export default function Ezekiel46() {
           ephah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Offerings of the Feasts of the New Moon number nine without
                 wine; this stands in contrast with the nineteen of Leviticus
                 with wine.)
@@ -140,7 +140,7 @@ export default function Ezekiel46() {
           forth by the way thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prince is the High Priest, and, as a Type of Christ, shall
                 enter the Sanctuary by the way of the Eastern Gate.)
               </span>
@@ -158,7 +158,7 @@ export default function Ezekiel46() {
           whereby he came in, but shall go forth over against it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is, one must partake of all of Christ and not just
                 part of Christ. To go all the way through, irrespective of what
                 side one came in, signifies the partaking of all [
@@ -181,7 +181,7 @@ export default function Ezekiel46() {
           when they go in, shall go in; and when they go forth, shall go forth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse seems to imply that in such times of worship, the
                 Prince will stand on a level with the people, and both enter and
                 retire by the same door. This signifies Christ, Who became One
@@ -205,7 +205,7 @@ export default function Ezekiel46() {
           oil to an ephah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The amounts stipulated here differ from the Law of Moses in
                 that they are increased [
                 <ScrollLink href="/numbers-15" scrollToId="#filepos1866831">
@@ -232,7 +232,7 @@ export default function Ezekiel46() {
           shall shut the Gate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As repeatedly stated, all the Offerings typify Christ, and will
                 be done as a memorial of what He did at Calvary. Thus, this
                 momentous occasion, which happened so long ago, will never lose
@@ -255,7 +255,7 @@ export default function Ezekiel46() {
           <sup className="calibre7">14</sup>And you shall prepare a Meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Meal)</span>
+              <span className="explanation">(Meal)</span>
             </span>
           </span>{" "}
           Offering for it every morning, the sixth part of an ephah, and the
@@ -270,7 +270,7 @@ export default function Ezekiel46() {
           Burnt Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Under the Law of Moses, there was the Morning and Evening
                 Sacrifice, but under perfected Righteousness, which
                 characterizes the Millennium, there will be only the Morning
@@ -298,7 +298,7 @@ export default function Ezekiel46() {
           shall be his sons for them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Unlike gifts to his sons, which are forever, that given to
                 servants will be theirs only until the Year of Liberty, i.e.,
                 Year of Jubilee, which comes every 50 years. At this time, the
@@ -317,7 +317,7 @@ export default function Ezekiel46() {
           possession.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods hatred of robbery, oppression, and injustice appears in
                 the legislation of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9702785">
@@ -361,7 +361,7 @@ export default function Ezekiel46() {
           not out into the Utter Court, to sanctify the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is a Ministry to God only, typified in this Verse,
                 whereas there is a ministry to man, as is typified in{" "}
                 <ScrollLink href="/" scrollToId="#filepos9706572">
@@ -401,7 +401,7 @@ export default function Ezekiel46() {
           and, behold, in every corner of the Court there was a Court.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse signifies that in all four corners of the Outer
                 Court these places were located in order that the Priests may
                 prepare Sacrifices for themselves.)
@@ -431,7 +431,7 @@ export default function Ezekiel46() {
           the sacrifice of the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sacrifices were to be prepared in a certain way, and these
                 places were designated for that preparation.)
               </span>

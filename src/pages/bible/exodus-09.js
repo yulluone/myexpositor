@@ -19,7 +19,7 @@ export default function Exodus09() {
           My People go, that they may serve Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter portrays the plagues of God deepening in their
                 intensity. When they are concluded, mighty Egypt will be
                 seriously affected. The Lord God of Heaven was not ashamed to
@@ -36,7 +36,7 @@ export default function Exodus09() {
           will hold them still{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a people still amid the defilements and abominations of Egypt
                 could not have been a witness for the Holy One; nor can anyone
                 now, while mixed up with the defilements of a corrupt, worldly
@@ -54,7 +54,7 @@ export default function Exodus09() {
           your cattle which is in the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (did not include those in stalls, etc.)
               </span>
             </span>
@@ -63,7 +63,7 @@ export default function Exodus09() {
           upon the sheep: there shall be a very grievous murrain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (their three popular gods were the bull, the cow, and the ram;
                 murrain means a plague that kills)
               </span>
@@ -78,7 +78,7 @@ export default function Exodus09() {
           cattle of Israel and the cattle of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word cattle stood for all type of domestic animals)
               </span>
             </span>
@@ -86,7 +86,7 @@ export default function Exodus09() {
           : and there shall nothing die of all that is the Childrens of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this affords a striking demonstration of the absolute
                 rulership of God. He completely controls every creature He has
                 made. The herds of the Egyptians might be dying all around them,
@@ -141,7 +141,7 @@ export default function Exodus09() {
           saying, Tomorrow the LORD shall do this thing in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is to be noticed, the Lord gave time to Pharaoh to
                 repent, in other words, to obey in allowing Israel to leave
                 before He brought this other plague on the land. But all were to
@@ -157,7 +157,7 @@ export default function Exodus09() {
           morrow, and all the cattle of Egypt died{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all domestic animals)</span>
+              <span className="explanation">(all domestic animals)</span>
             </span>
           </span>
           : but of the cattle of the Children of Israel died not one.
@@ -170,7 +170,7 @@ export default function Exodus09() {
           Pharaoh was hardened, and he did not let the people go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cross of Christ has not only put away the Believers sins,
                 but also dissolved forever our connection with the world; and,
                 on the ground of this, we are privileged to regard the world as
@@ -201,7 +201,7 @@ export default function Exodus09() {
           sprinkle it toward the Heaven in the sight of Pharaoh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The furnace mentioned here was probably the furnace where human
                 victims to the god Typhon were offered in sacrifice. These
                 victims were offered in order to avert plagues.)
@@ -217,7 +217,7 @@ export default function Exodus09() {
           man, and upon beast, throughout all the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the sacrifices of human victims among the Egyptians were
                 offered to avert plagues, the ashes which Moses was ordered by
                 the Lord to scatter instead of doing so brought a fresh plague,
@@ -234,7 +234,7 @@ export default function Exodus09() {
           it became a boil breaking forth with blains upon man, and upon beast.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the sixth plague, and was brought about without any
                 notice. It was also, like the third, a plague which inflicted
                 direct injury upon the person. As well, this plague proclaims
@@ -254,7 +254,7 @@ export default function Exodus09() {
           magicians, and upon all the Egyptians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The magicians made no attempt to exert their so-called magical
                 powers, and for all the obvious reasons. The boils were upon
                 Pharaoh as well. But, instead of it causing him to humble
@@ -271,7 +271,7 @@ export default function Exodus09() {
           Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Lord provided the means for Pharaoh to harden
                 his own heart. The Lord did not tamper with the will of the
                 Monarch in all of this. In other words, Pharaoh was not forced
@@ -293,7 +293,7 @@ export default function Exodus09() {
           serve Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In all of this, we learn that Satan does not let Gods people go
                 easily. In other words, when the Believer first begins to hear
                 the Message of the Cross, and this great truth is made real to
@@ -340,7 +340,7 @@ export default function Exodus09() {
           that you may know that there is none like Me in all the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With Pharaoh failing to respond to Mercy and Grace, the Lord
                 resorts to judgment, i.e., plagues, and first of all for the
                 purpose that Egypt, and all the other surrounding nations, might
@@ -359,7 +359,7 @@ export default function Exodus09() {
           cut off from the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God will further show Pharaoh that He is the Supreme One over
                 the elements, and that they, under His Will and Command, can be
                 either instruments of blessing or destruction. Actually, this
@@ -376,7 +376,7 @@ export default function Exodus09() {
           declared throughout all the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Up until now, Jehovah was known only to the descendants of
                 Abraham. But now, and because of the obstinacy of Pharaoh, all
                 the nations in that vicinity would learn Who Jehovah was, and
@@ -392,7 +392,7 @@ export default function Exodus09() {
           People, that you will not let them go?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, Satan does not give up easily; however, if the
                 Believer will keep his Faith in Christ and the Cross, to be
                 sure, ultimately victory will be his [I{" "}
@@ -416,7 +416,7 @@ export default function Exodus09() {
           Egypt since the foundation thereof even until now.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord gives warning as to when the next plague was going to
                 come tomorrow. Once again, this is Grace.)
               </span>
@@ -439,7 +439,7 @@ export default function Exodus09() {
           into the houses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who believed the Word of the Lord, and feared it, would
                 get under shelter; he who did not regard the Word of the Lord
                 would ignore the shelter but to their peril; it is the same
@@ -457,7 +457,7 @@ export default function Exodus09() {
           the LORD left his servants and his cattle in the field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It would seem strange, and considering the miracles of the
                 recent past, that anyone in Egypt would still be in a state of
                 unbelief; however, this Passage plainly tells us that such
@@ -475,7 +475,7 @@ export default function Exodus09() {
           the field, throughout the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whatever crops there were in Egypt at that time were totally
                 and completely destroyed, along with all cattle and sheep which
                 were left unattended.)
@@ -492,7 +492,7 @@ export default function Exodus09() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This hail was mingled with fire, such as Egypt, and no doubt
                 the world, had never seen.)
               </span>
@@ -507,7 +507,7 @@ export default function Exodus09() {
           the land of Egypt since it became a nation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the boils were physical portrayals of the spiritual morality
                 of unredeemed man, likewise, this judgment was expressive of the
                 wrath of a Holy and sin-hating God.)
@@ -524,7 +524,7 @@ export default function Exodus09() {
           field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This plague of thunder, hail, and fire was directed against
                 Isis and Osiris, the gods of light, health, fertility, arts, and
                 agriculture. Water, fire, earth, and air were all objects of
@@ -543,7 +543,7 @@ export default function Exodus09() {
           the Children of Israel were, was there no hail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only thing that stands between man and Hellfire is the
                 Cross of Christ.)
               </span>
@@ -558,7 +558,7 @@ export default function Exodus09() {
           is righteous, and I and my people are wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the right words were said, it was an insincere
                 repentance. He was only admitting what was obviously the truth.
                 He didnt intend to change his ways. True Repentance is a turning
@@ -577,7 +577,7 @@ export default function Exodus09() {
           go, and you shall stay no longer.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His words were hollow, and because his repentance was
                 insincere.)
               </span>
@@ -593,7 +593,7 @@ export default function Exodus09() {
           hail; that you may know how that the Earth is the LORDs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Pharaoh would not admit that the Earth is the Lords, neither
                 will modern man.)
               </span>
@@ -607,7 +607,7 @@ export default function Exodus09() {
           know that you will not yet fear the LORD God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses knew that the repentance of Pharaoh was surface only.)
               </span>
             </span>
@@ -620,7 +620,7 @@ export default function Exodus09() {
           smitten: for the barley was in the ear, and the flax was bolled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the flax and the barley harvests were lost, which no doubt
                 caused great hardship in Egypt)
               </span>
@@ -635,7 +635,7 @@ export default function Exodus09() {
           smitten: for they were not grown up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were not yet planted; the previous two Verses tell us that the
                 entirety of the time frame of the ten plagues probably was about
                 three to four months in duration)
@@ -652,7 +652,7 @@ export default function Exodus09() {
           and hail ceased, and the rain was not poured upon the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses and Aaron evidently had some type of shelter over their
                 heads to protect them as they left the palace, or else the Lord
                 withheld the hail and rain from them wherever they went, which
@@ -669,7 +669,7 @@ export default function Exodus09() {
           hardened his heart, he and his servants.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Such is the state of many. They repent at the threat of
                 judgment or its actual advent, but when it is lifted, they
                 renege on their promise.)
@@ -685,7 +685,7 @@ export default function Exodus09() {
           had spoken by Moses.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A few days ago, I was praying for particular individuals,
                 asking the Lord to warn them. He spoke to my heart, telling me,
                 I am warning them constantly, and in many and varied ways, but

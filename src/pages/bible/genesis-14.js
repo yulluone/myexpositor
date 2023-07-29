@@ -19,7 +19,7 @@ export default function Genesis14() {
           Elam, and Tidal king of nations;{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is to be noticed, the Spirit of God occupies Himself with
                 the movements of kings and their armies only when such movements
                 are in any wise connected with the people of God; otherwise,
@@ -48,7 +48,7 @@ export default function Genesis14() {
           Chedorlaomer, and in the thirteenth year they rebelled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These five kings had been ruled by Chedorlaomer for some twelve
                 years, and now they rebel.)
               </span>
@@ -70,7 +70,7 @@ export default function Genesis14() {
           unto El-paran, which is by the wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the names Rephaims, Zuzims, and Emims, and possibly even the
                 Horites, we have, once again, the entrance of the giants, which
                 were a product of the union of fallen angels and women [
@@ -109,7 +109,7 @@ export default function Genesis14() {
           Arioch king of Ellasar; four kings with five.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We have in{" "}
                 <ScrollLink href="/" scrollToId="#filepos179627">
                   <span className="calibre_19">
@@ -152,7 +152,7 @@ export default function Genesis14() {
           son, who dwelt in Sodom, and his goods, and departed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lot, in his compromised position, could neither deliver Sodom
                 nor himself. The only way to help and bless the world is to live
                 apart from it, in fellowship with God.)
@@ -190,7 +190,7 @@ export default function Genesis14() {
           also, and the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham had little interest in the happenings, had it not been
                 for Lot. He hears that Lot has been taken captive, and sets
                 about to rescue him. Concerning this, Mackintosh says: The
@@ -213,14 +213,14 @@ export default function Genesis14() {
           meet him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           after his return from the slaughter of Chedorlaomer, and of the kings
           who were with him, at the valley of Shaveh, which is the kings dale.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As we shall see here, there is no time so dangerous to the
                 Christian as the morrow after a great spiritual victory.)
               </span>
@@ -233,7 +233,7 @@ export default function Genesis14() {
           <sup className="calibre7">18</sup>And Melchizedek{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this man appears on the scene, who is a King and a Priest and,
                 above all, who is a Type of Christ [
                 <ScrollLink href="/psalm-110" scrollToId="#filepos6492116">
@@ -270,13 +270,13 @@ export default function Genesis14() {
           king of Salem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>{" "}
           brought forth bread and wine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the bread and wine symbolize the broken Body and shed Blood of
                 our Lord, which was necessary for the Salvation of mankind [
                 <ScrollLink href="/matthew-26" scrollToId="#filepos11269806">
@@ -317,7 +317,7 @@ export default function Genesis14() {
           : and he was the Priest of the Most High God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Melchizedek, as a Priest, symbolized the coming Christ, Who is
                 our Great High Priest [
                 <ScrollLink href="/hebrews-07" scrollToId="#filepos14492309">
@@ -349,20 +349,20 @@ export default function Genesis14() {
           <sup className="calibre7">19</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Melchizedek)</span>
+              <span className="explanation">(Melchizedek)</span>
             </span>
           </span>{" "}
           blessed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>
           , and said, Blessed be Abram of the Most High God, Possessor of heaven
           and Earth:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Melchizedek blessing Abraham means that the standing of
                 Melchizedek was greater than that of Abraham. The reason?
                 Melchizedek was a Type of Christ [
@@ -393,7 +393,7 @@ export default function Genesis14() {
           Who has delivered your enemies into your hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We find here that Melchizedek did not come forth when Abraham
                 was in pursuit of Chedorlaomer, but when the king of Sodom was
                 in pursuit of Abraham. This makes a great moral difference.
@@ -405,7 +405,7 @@ export default function Genesis14() {
           And he gave him tithes of all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first time that tithes are mentioned in Scripture.
                 It refers to a tenth part. Abraham paid tithe to Melchizedek,
                 who was a Type of Christ; consequently, Abrahams children, which
@@ -425,7 +425,7 @@ export default function Genesis14() {
           Abram, Give me the persons, and take the goods to yourself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan will now use the king of Sodom, endeavoring to draw
                 Abraham into his web. He will use money to do so.)
               </span>
@@ -440,7 +440,7 @@ export default function Genesis14() {
           of heaven and Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the king of Sodom may have proposed an amalgamation of sorts
                 with Abraham; but the Patriarch proclaims to all concerned that
                 his allegiance is totally and completely to the LORD, the Most
@@ -464,7 +464,7 @@ export default function Genesis14() {
           yours, lest you should say, I have made Abram rich{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the temptation is strong, and in more ways than one; however,
                 the Patriarch passes the test with flying colors)
               </span>
@@ -480,7 +480,7 @@ export default function Genesis14() {
           Eshcol, and Mamre; let them take their portion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham was held to a much higher standard than those with him.
                 While it was no problem for them to take some of the goods, he
                 could not take even as much as a shoelatchet. The man of God

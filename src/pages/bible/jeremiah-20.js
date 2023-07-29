@@ -17,7 +17,7 @@ export default function Jeremiah20() {
           that Jeremiah prophesied these things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As evil as this man was, he was still chief governor in the
                 House of the LORD. Too much and too often the religious
                 hierarchy, typified by Pashur, persecutes the true followers of
@@ -35,7 +35,7 @@ export default function Jeremiah20() {
           Benjamin, which was by the House of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pashur, the chief officer of the Temple, scourged Jeremiah, as
                 the Apostle Paul afterwards was scourged, and then, without any
                 Scriptural warrant, condemned him, for about twenty-four hours,
@@ -69,7 +69,7 @@ export default function Jeremiah20() {
           Magor-missabib.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pashur means security on every side, while Magor-missabib means
                 terror on every side. The words of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8425106">
@@ -96,7 +96,7 @@ export default function Jeremiah20() {
           the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will make you a terror to yourself, and to all your friends,
                 refers to the coming Judgment heaped upon those who listen to
                 Pashur rather than to Jeremiah.)
@@ -114,7 +114,7 @@ export default function Jeremiah20() {
           and take them, and carry them to Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The strength and labor pertain to the wealth obtained by the
                 people of Judah and Jerusalem. It would all be forfeited to the
                 king of Babylon. Therefore, they would now lose all the things
@@ -133,7 +133,7 @@ export default function Jeremiah20() {
           friends, to whom you have prophesied lies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The terrible punishment inflicted upon Jeremiah by Pashur
                 little quenched the ardor of the Prophet. His Message is as
                 straightforward now as it was before, and even more so, if
@@ -154,7 +154,7 @@ export default function Jeremiah20() {
           derision daily, every one mocks me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The twice-used word deceived, in the Hebrew, is patha, which
                 would have been better translated persuaded, as it was in{" "}
                 <ScrollLink href="/proverbs-25" scrollToId="#filepos6993708">
@@ -178,7 +178,7 @@ export default function Jeremiah20() {
           reproach unto me, and a derision, daily.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The subject of his preaching is expressed in the two words,
                 violence and spoil. This oppression and robbery of the poor so
                 deeply stirred him that he shouted aloud against it, but the
@@ -197,7 +197,7 @@ export default function Jeremiah20() {
           forbearing, and I could not stay.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In view of the terrible opposition, even bodily harm, the
                 Prophet actually stopped preaching, at least for a while. The
                 cause of the opposition was Him and His Name.
@@ -228,7 +228,7 @@ export default function Jeremiah20() {
           revenge on him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The defaming and fear have relation to the Prophet. Denounce
                 and we will denounce him are the words of his enemies
                 encouraging one another and his pretended friends to entice him
@@ -248,7 +248,7 @@ export default function Jeremiah20() {
           prosper: their everlasting confusion shall never be forgotten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the persecution of Jeremiah by
                 his enemies hastened their destruction and deepened their
                 punishment. As such, the Holy Spirit says it shall never be
@@ -265,7 +265,7 @@ export default function Jeremiah20() {
           on them: for unto You have I opened my cause.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, You try the righteous, and see the reins and the
                 heart, refer back to his severe persecutions and why they were
                 allowed to take place. This phraseology proves that Jeremiah
@@ -283,7 +283,7 @@ export default function Jeremiah20() {
           evildoers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here, Faith gives the victory, foresees the judgment, and
                 sings.)
               </span>
@@ -297,7 +297,7 @@ export default function Jeremiah20() {
           born: let not the day wherein my mother bore me be blessed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8431832">
                   <span className="calibre_19">
@@ -335,7 +335,7 @@ export default function Jeremiah20() {
           in the morning, and the shouting at noontide{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah is quoting from{" "}
                 <ScrollLink href="/jeremiah-03" scrollToId="#filepos8164002">
                   <span className="calibre_19">
@@ -397,7 +397,7 @@ export default function Jeremiah20() {
           always great with me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that inasmuch as they were going to kill him
                 anyhow, it would be better, or so he thought, had he died in the
                 womb. As stated, this was no doubt said while he was in the
@@ -425,7 +425,7 @@ export default function Jeremiah20() {
           shame?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is not a statement but rather a question, and it is
                 answered in the Thirteenth Verse.)
               </span>

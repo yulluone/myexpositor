@@ -194,7 +194,7 @@ export default function Numbers30() {
           his peace at her in the day that he heard them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(did not disallow the vows)</span>
+              <span className="explanation">(did not disallow the vows)</span>
             </span>
           </span>
         </span>

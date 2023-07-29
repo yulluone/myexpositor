@@ -15,7 +15,7 @@ export default function Revelation02() {
           <sup className="calibre7">1</sup>Unto the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pastor)</span>
+              <span className="explanation">(pastor)</span>
             </span>
           </span>{" "}
           of the Church of Ephesus write{" "}
@@ -166,7 +166,7 @@ export default function Revelation02() {
           , and repent, and do the first works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(go back to the Cross)</span>
+              <span className="explanation">(go back to the Cross)</span>
             </span>
           </span>
           ; or else I will come unto you quickly, and will remove your
@@ -325,7 +325,7 @@ export default function Revelation02() {
           : be thou faithful unto death, and I will give you a Crown of life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(many paid with their lives)</span>
+              <span className="explanation">(many paid with their lives)</span>
             </span>
           </span>
           .
@@ -369,7 +369,7 @@ export default function Revelation02() {
           <sup className="calibre7">12</sup>And to the Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastor)</span>
+              <span className="explanation">(Pastor)</span>
             </span>
           </span>{" "}
           of the Church in Pergamos write{" "}
@@ -385,7 +385,9 @@ export default function Revelation02() {
           ; These things said He which has the sharp sword with two edges{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a symbol for the Word of God)</span>
+              <span className="explanation">
+                (a symbol for the Word of God)
+              </span>
             </span>
           </span>
           ;
@@ -397,7 +399,7 @@ export default function Revelation02() {
           dwell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dwell spiritually)</span>
+              <span className="explanation">(dwell spiritually)</span>
             </span>
           </span>
           ,{" "}
@@ -479,7 +481,7 @@ export default function Revelation02() {
           <sup className="calibre7">16</sup>Repent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(come back to the Cross)</span>
+              <span className="explanation">(come back to the Cross)</span>
             </span>
           </span>
           ; or else I will come unto you quickly, and will fight against them
@@ -649,7 +651,7 @@ export default function Revelation02() {
           death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of spiritual death)</span>
+              <span className="explanation">(speaks of spiritual death)</span>
             </span>
           </span>
           ; and all the Churches shall know that I am He which searches the
@@ -726,7 +728,7 @@ export default function Revelation02() {
           till I come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture of the Church)</span>
+              <span className="explanation">(the Rapture of the Church)</span>
             </span>
           </span>
           .

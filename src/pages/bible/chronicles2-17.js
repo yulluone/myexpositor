@@ -80,7 +80,7 @@ export default function Chronicles217() {
           Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(idolatry)</span>
+              <span className="explanation">(idolatry)</span>
             </span>
           </span>
           .
@@ -93,7 +93,7 @@ export default function Chronicles217() {
           and he had riches and honour in abundance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(blessings follow obedience!)</span>
+              <span className="explanation">(blessings follow obedience!)</span>
             </span>
           </span>
           .
@@ -130,7 +130,7 @@ export default function Chronicles217() {
           Zechariah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not the Prophet)</span>
+              <span className="explanation">(not the Prophet)</span>
             </span>
           </span>
           , and to Nethaneel, and to Michaiah, to teach in the cities of Judah{" "}
@@ -221,7 +221,7 @@ export default function Chronicles217() {
           <sup className="calibre7">13</sup>And he had much business{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(substance)</span>
+              <span className="explanation">(substance)</span>
             </span>
           </span>{" "}
           in the cities of Judah: and the men of war, mighty men of valour, were

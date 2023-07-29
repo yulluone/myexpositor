@@ -63,7 +63,7 @@ export default function Mark05() {
           dwelling among the tombs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wages of sin is death)</span>
+              <span className="explanation">(the wages of sin is death)</span>
             </span>
           </span>
           ; and no man could bind him, no, not with chains{" "}
@@ -220,7 +220,7 @@ export default function Mark05() {
           <sup className="calibre7">9</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           asked him, What{" "}
@@ -261,7 +261,7 @@ export default function Mark05() {
           <sup className="calibre7">10</sup>And he besought him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(besought Christ)</span>
+              <span className="explanation">(besought Christ)</span>
             </span>
           </span>{" "}
           much that He would not send them away out of the country{" "}
@@ -297,7 +297,7 @@ export default function Mark05() {
           <sup className="calibre7">12</sup>And all the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           besought Him, saying, Send us into the swine, that we may enter into
@@ -355,7 +355,7 @@ export default function Mark05() {
           that was done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a great multitude)</span>
+              <span className="explanation">(a great multitude)</span>
             </span>
           </span>
           .
@@ -443,7 +443,7 @@ export default function Mark05() {
           <sup className="calibre7">17</sup>And they began to pray Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           to depart out of their coasts{" "}
@@ -464,7 +464,7 @@ export default function Mark05() {
           <sup className="calibre7">18</sup>And when He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           was come into the ship, he who had been possessed with the devil
@@ -510,7 +510,7 @@ export default function Mark05() {
           how great things Jesus had done for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he became an Evangelist)</span>
+              <span className="explanation">(he became an Evangelist)</span>
             </span>
           </span>
           : and all{" "}
@@ -571,13 +571,13 @@ export default function Mark05() {
           ; and when he saw Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>
           , he fell at His feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a posture of worship)</span>
+              <span className="explanation">(a posture of worship)</span>
             </span>
           </span>
           ,
@@ -588,7 +588,7 @@ export default function Mark05() {
           <sup className="calibre7">23</sup>And besought Him greatly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an impassioned plea)</span>
+              <span className="explanation">(an impassioned plea)</span>
             </span>
           </span>
           , saying, My little daughter lies at the point of death{" "}
@@ -629,7 +629,7 @@ export default function Mark05() {
           went with him; and much people followed Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>
           , and thronged Him.
@@ -703,7 +703,7 @@ export default function Mark05() {
           , came in the press behind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the great crowd of people)</span>
+              <span className="explanation">(the great crowd of people)</span>
             </span>
           </span>
           , and touched His garment{" "}
@@ -750,7 +750,7 @@ export default function Mark05() {
           , If I may touch but His clothes, I shall be whole{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerns her level of faith)</span>
+              <span className="explanation">(concerns her level of faith)</span>
             </span>
           </span>
           .
@@ -761,7 +761,7 @@ export default function Mark05() {
           <sup className="calibre7">29</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           the fountain of her blood was dried up; and she felt in{" "}
@@ -773,7 +773,7 @@ export default function Mark05() {
           body that she was healed of that plague{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(she knew she was healed)</span>
+              <span className="explanation">(she knew she was healed)</span>
             </span>
           </span>
           .
@@ -785,13 +785,13 @@ export default function Mark05() {
           Himself that virtue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(power)</span>
+              <span className="explanation">(power)</span>
             </span>
           </span>{" "}
           had gone out of Him, turned Him about in the press{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(crowd)</span>
+              <span className="explanation">(crowd)</span>
             </span>
           </span>
           , and said, Who touched My clothes?{" "}
@@ -878,7 +878,7 @@ export default function Mark05() {
           <sup className="calibre7">35</sup>While He yet spoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was speaking to the woman)</span>
+              <span className="explanation">(was speaking to the woman)</span>
             </span>
           </span>
           , there came from the ruler of the Synagogues{" "}
@@ -887,7 +887,7 @@ export default function Mark05() {
               <span className="calibre_19">house certain</span>
             </span>
             <span>
-              <span className="calibre_19">(a certain one)</span>
+              <span className="explanation">(a certain one)</span>
             </span>
           </span>{" "}
           which said, Your daughter is dead: why troublest thou the Master any
@@ -958,7 +958,7 @@ export default function Mark05() {
           <sup className="calibre7">39</sup>And when He was come in{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(into the home of Jairus)</span>
+              <span className="explanation">(into the home of Jairus)</span>
             </span>
           </span>
           , He said unto them, Why{" "}
@@ -997,7 +997,7 @@ export default function Mark05() {
           <sup className="calibre7">40</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the paid mourners)</span>
+              <span className="explanation">(the paid mourners)</span>
             </span>
           </span>{" "}
           laughed Him to scorn{" "}
@@ -1011,14 +1011,14 @@ export default function Mark05() {
           . But when He had put them all out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demanded that they leave)</span>
+              <span className="explanation">(demanded that they leave)</span>
             </span>
           </span>
           , He took the father and the mother of the damsel, and them who were
           with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter, James, and John)</span>
+              <span className="explanation">(Peter, James, and John)</span>
             </span>
           </span>
           , and entered in where the damsel was lying{" "}
@@ -1040,7 +1040,7 @@ export default function Mark05() {
           <sup className="calibre7">41</sup>And He took the damsel by the hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to a strong grip)</span>
+              <span className="explanation">(refers to a strong grip)</span>
             </span>
           </span>
           , and said unto her, Talitha cumi; which is, being interpreted,
@@ -1065,7 +1065,7 @@ export default function Mark05() {
           <sup className="calibre7">42</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           the damsel arose, and walked; for she was{" "}
@@ -1091,7 +1091,7 @@ export default function Mark05() {
           <sup className="calibre7">43</sup>And He charged them straitly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(commanded them)</span>
+              <span className="explanation">(commanded them)</span>
             </span>
           </span>{" "}
           that no man should know it{" "}

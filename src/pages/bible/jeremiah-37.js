@@ -56,7 +56,7 @@ export default function Jeremiah37() {
           <sup className="calibre7">2</sup>But neither he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Zedekiah)</span>
+              <span className="explanation">(Zedekiah)</span>
             </span>
           </span>
           , nor his servants, nor the people of the land, did hearken unto the

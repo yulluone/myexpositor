@@ -15,7 +15,7 @@ export default function Numbers12() {
           <sup className="calibre7">1</sup>And Miriam{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses sister)</span>
+              <span className="explanation">(Moses sister)</span>
             </span>
           </span>{" "}
           and Aaron spoke against Moses because of the Ethiopian woman whom he
@@ -106,7 +106,7 @@ export default function Numbers12() {
           , Come out you three{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from the camp)</span>
+              <span className="explanation">(from the camp)</span>
             </span>
           </span>{" "}
           unto the Tabernacle of the congregation. And they three came out.
@@ -200,7 +200,7 @@ export default function Numbers12() {
           against them; and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           departed.{" "}
@@ -269,7 +269,7 @@ export default function Numbers12() {
           <sup className="calibre7">12</sup>Let her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Miriam)</span>
+              <span className="explanation">(Miriam)</span>
             </span>
           </span>{" "}
           not be as one dead, of whom the flesh is half consumed when he comes

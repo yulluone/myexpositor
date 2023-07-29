@@ -85,7 +85,7 @@ export default function Psalm087() {
           city of God. Selah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(This speaks of Jerusalem.)</span>
+              <span className="explanation">(This speaks of Jerusalem.)</span>
             </span>
           </span>
         </span>

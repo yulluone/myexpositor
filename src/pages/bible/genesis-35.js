@@ -18,7 +18,7 @@ export default function Genesis35() {
           to Beth-el, and dwell there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, this is what the Lord had told Jacob to do when he
                 first came back to Canaan; to be out of the Will of God, as was
                 Jacob, always invites disaster!)
@@ -29,7 +29,7 @@ export default function Genesis35() {
           fled from the face of Esau your brother.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nearly ten years had passed since Jacob had come back to the
                 Land of Promise. At that time, those ten years ago, the Lord had
                 said to Jacob, Return unto your Land, I am the God of Bethel.
@@ -47,7 +47,7 @@ export default function Genesis35() {
           you, and be clean, and change your garments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when Jacob learns that he is to meet God publicly at Bethel, he
                 at once feels that idols cannot be brought into fellowship with
                 that House and, accordingly, he commands the surrender of all
@@ -68,7 +68,7 @@ export default function Genesis35() {
           Beth-el{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now at last he goes up unto Bethel; physically, and morally, it
                 was indeed a going-up; but how slow he had been the last ten
                 years to obey this command! Had he gone swiftly to Bethel, when
@@ -81,7 +81,7 @@ export default function Genesis35() {
           of my distress, and was with me in the way which I went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Altar was a Type of Christ and the death He would die on
                 the Cross in order to redeem fallen humanity. It was the
                 centerpiece of mans relationship with God in Old Testament
@@ -179,7 +179,7 @@ export default function Genesis35() {
           Shechem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At Shechem Jacob kept his Saviour and his Salvation to himself,
                 and permitted his family and household to retain their idols.
                 But this cannot be suffered if God is to be recognized and
@@ -197,7 +197,7 @@ export default function Genesis35() {
           pursue after the sons of Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord protected them, or else they would have been
                 slaughtered by surrounding enemies)
               </span>
@@ -219,14 +219,14 @@ export default function Genesis35() {
           called the place El-beth-el{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the God of the House of God)</span>
+              <span className="explanation">(the God of the House of God)</span>
             </span>
           </span>
           : because there God appeared unto him, when he fled from the face of
           his brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(some thirty years before)</span>
+              <span className="explanation">(some thirty years before)</span>
             </span>
           </span>
         </span>
@@ -239,7 +239,7 @@ export default function Genesis35() {
           called Allon-bachuth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the oak of weeping; Rebekah was Jacobs mother; no doubt, he was
                 attached to Deborah, who had been a servant of his mother for
                 many years; he would miss her greatly)
@@ -255,7 +255,7 @@ export default function Genesis35() {
           when he came out of Padan-aram, and blessed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which was done some ten years before, when Jacob wrestled with
                 the Lord; it should be noted that the Lord did not appear to
                 Jacob while he was at Succoth, except to speak to him and tell
@@ -275,13 +275,13 @@ export default function Genesis35() {
           be your name: and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           called his name Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the renewal of the name given to Jacob some ten years earlier
                 at Peniel was most possibly done because the Patriarch feared
                 that he had forfeited the Blessing; but the Gifts and Calling of
@@ -298,7 +298,7 @@ export default function Genesis35() {
           Almighty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (El-Shaddai, the all sufficient One)
               </span>
             </span>
@@ -306,7 +306,7 @@ export default function Genesis35() {
           : be fruitful and multiply{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which can only be done with the Blessings of the Lord)
               </span>
             </span>
@@ -315,7 +315,7 @@ export default function Genesis35() {
           come out of your loins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and so they did)</span>
+              <span className="explanation">(and so they did)</span>
             </span>
           </span>
           ;
@@ -328,7 +328,7 @@ export default function Genesis35() {
           give the Land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan has fought this from then until now. The latest in the
                 long line of opposers are the Palestinians; however, let it be
                 known, that what God says will happen, will happen. In the
@@ -351,13 +351,13 @@ export default function Genesis35() {
           place where he talked with him, even a pillar of stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Type of Christ)</span>
+              <span className="explanation">(a Type of Christ)</span>
             </span>
           </span>
           : and he poured a Drink Offering thereon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first mention of a Drink Offering in Scripture)
               </span>
             </span>
@@ -365,7 +365,7 @@ export default function Genesis35() {
           , and he poured oil thereon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Stone figures Christ the Rock of Ages, anointed with the
                 Holy Spirit, typified by the oil, and filled with the joy of
                 God, typified by the Drink Offering.)
@@ -380,7 +380,7 @@ export default function Genesis35() {
           place where God spoke with him, Beth-el{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(House of God)</span>
+              <span className="explanation">(House of God)</span>
             </span>
           </span>
         </span>
@@ -403,7 +403,7 @@ export default function Genesis35() {
           this son also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the midwife is speaking of the prophecy given to Rachel when
                 Joseph was born, that the Lord shall add to me another son [
                 <ScrollLink href="/genesis-30" scrollToId="#filepos412522">
@@ -427,7 +427,7 @@ export default function Genesis35() {
           father called him Benjamin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sorrowing nature calls him Ben-oni, i.e., child of my sorrow.
                 Faith calls him Benjamin, i.e., son of the right hand. Prophetic
                 picture of Him Who was to be at first the Man of Sorrows, and
@@ -443,7 +443,7 @@ export default function Genesis35() {
           the way to Ephrath, which is Beth-lehem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she was buried where the Son of God, some 1,700 years later,
                 would be born)
               </span>
@@ -463,7 +463,7 @@ export default function Genesis35() {
           <sup className="calibre7">21</sup>And Israel journeyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (throughout the Chapter, the Patriarch is called Jacob, except
                 in{" "}
                 <ScrollLink href="/" scrollToId="#filepos482272">
@@ -502,7 +502,7 @@ export default function Genesis35() {
           concubine: and Israel heard it. Now the sons of Jacob were twelve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with this sin, Reuben, the firstborn, forfeited the birthright;
                 Jesus would not be born through that line, but rather through
                 the Tribe of Judah)
@@ -537,7 +537,7 @@ export default function Genesis35() {
           to him in Padan-aram.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The twelve sons of Jacob are listed here, who would head up the
                 Tribes of Israel, with Manasseh and Ephraim taking the place of
                 Joseph, making the total thirteen. There would actually be
@@ -563,7 +563,7 @@ export default function Genesis35() {
           hundred and fourscore years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(180 years)</span>
+              <span className="explanation">(180 years)</span>
             </span>
           </span>
         </span>
@@ -576,7 +576,7 @@ export default function Genesis35() {
           and his sons Esau and Jacob buried him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They laid Isaac beside his ancestral greats in the family
                 burying-place of Machpelah, where already slept the lifeless
                 bodies of Abraham and Sarah, awaiting the Resurrection, while

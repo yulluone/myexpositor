@@ -49,7 +49,7 @@ export default function Ruth02() {
           Naomi, Let me now go to the field, and glean ears of corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           after him in whose sight I shall find grace. And she said unto her,
@@ -151,13 +151,13 @@ export default function Ruth02() {
           <sup className="calibre7">7</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ruth)</span>
+              <span className="explanation">(Ruth)</span>
             </span>
           </span>{" "}
           said, I pray you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking to the servant)</span>
+              <span className="explanation">(speaking to the servant)</span>
             </span>
           </span>
           , let me glean and gather after the reapers among the sheaves: so she
@@ -196,7 +196,7 @@ export default function Ruth02() {
           they do reap, and go thou after them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after the maidens)</span>
+              <span className="explanation">(after the maidens)</span>
             </span>
           </span>
           : have I not charged the young men that they shall not touch you? and
@@ -294,7 +294,7 @@ export default function Ruth02() {
           corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>
           , and she did eat and was sufficed, and left{" "}
@@ -340,7 +340,7 @@ export default function Ruth02() {
           of barley{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about a bushel)</span>
+              <span className="explanation">(about a bushel)</span>
             </span>
           </span>
         </span>
@@ -374,13 +374,13 @@ export default function Ruth02() {
           whom she had wrought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worked)</span>
+              <span className="explanation">(worked)</span>
             </span>
           </span>
           , and said, The mans name with whom I wrought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worked)</span>
+              <span className="explanation">(worked)</span>
             </span>
           </span>{" "}
           today is Boaz.{" "}
@@ -402,7 +402,9 @@ export default function Ruth02() {
           the living and to the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(her husband and her two sons)</span>
+              <span className="explanation">
+                (her husband and her two sons)
+              </span>
             </span>
           </span>
           . And Naomi said unto her, The man is near of kin unto us, one of our

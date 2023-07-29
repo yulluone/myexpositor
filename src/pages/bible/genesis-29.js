@@ -18,7 +18,7 @@ export default function Genesis29() {
           came into the land of the people of the east{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this journey would last for some twenty years)
               </span>
             </span>
@@ -53,7 +53,7 @@ export default function Genesis29() {
           Laban the son of Nahor? And they said, We know him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban is Jacobs mothers brother)
               </span>
             </span>
@@ -68,7 +68,7 @@ export default function Genesis29() {
           the sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first mention of Rachel in the Bible; she will
                 figure very prominently in the great Plan of God, being the
                 mother of both Joseph and Benjamin; she was the ancestress of
@@ -94,7 +94,7 @@ export default function Genesis29() {
           wells mouth; then we water the sheep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason probably was that Laban owned the well, and the
                 other flocks could not be watered until Rachel first of all had
                 watered her flock)
@@ -109,14 +109,14 @@ export default function Genesis29() {
           <sup className="calibre7">9</sup>And while he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           yet spoke with them, Rachel came with her fathers sheep: for she kept
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we readily see the Hand of the Lord working in this situation
                 regarding the meeting of Jacob with Rachel)
               </span>
@@ -134,7 +134,7 @@ export default function Genesis29() {
           brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (three times the Holy Spirit has Moses, when writing this
                 account, to repeat the term, his mothers brother; it is not done
                 unintentionally; the idea is, Jacob has met with his own
@@ -151,7 +151,7 @@ export default function Genesis29() {
           up his voice, and wept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Patriarch is overcome with emotion, and I think mostly at
                 the joy of seeing the Hand of God working in his life)
               </span>
@@ -167,7 +167,7 @@ export default function Genesis29() {
           told her father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob was actually the nephew of Laban)
               </span>
             </span>
@@ -182,13 +182,13 @@ export default function Genesis29() {
           and embraced him, and kissed him, and brought him to his house. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jacob)</span>
+              <span className="explanation">(Jacob)</span>
             </span>
           </span>{" "}
           told Laban all these things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban would no doubt have been well over 100 years of age at
                 this time, possibly even as much as 120; Laban did now almost
                 exactly what he had done those many years before, when he was
@@ -213,7 +213,7 @@ export default function Genesis29() {
           are my bone and my flesh. And he abode with him the space of a month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after this, he went out and obtained his own place)
               </span>
             </span>
@@ -231,7 +231,7 @@ export default function Genesis29() {
           what shall your wages be?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob the dealer meets now with Laban the dealer, and they are
                 both seen, as it were, straining every nerve to outwit each
                 other.)
@@ -258,7 +258,7 @@ export default function Genesis29() {
           will serve you seven years for Rachel your younger daughter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob is now about to begin to reap the bitter fruit of his
                 sin)
               </span>
@@ -281,7 +281,7 @@ export default function Genesis29() {
           to her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is a popular mistake to suppose that Jacob did not marry
                 Rachel till the end of the seven years, or even the second seven
                 years; every evidence is that he took her immediately for his
@@ -301,7 +301,7 @@ export default function Genesis29() {
           my wife, for my days are fulfilled, that I may go in unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his days being fulfilled simply means that the contract had
                 been agreed upon, that he was to serve Laban seven years for
                 Rachel; this is proven by{" "}
@@ -332,7 +332,7 @@ export default function Genesis29() {
           unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (when Leah went in to Jacob, she no doubt was wearing a veil
                 and, as well, the room was probably dark; Jacob thought it was
                 Rachel)
@@ -355,13 +355,13 @@ export default function Genesis29() {
           have done unto me? did I not serve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(agree)</span>
+              <span className="explanation">(agree)</span>
             </span>
           </span>{" "}
           with you for Rachel? wherefore then have you beguiled me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The deception that Jacob practiced upon Isaac cost him at least
                 14 years of servitude.)
               </span>
@@ -375,7 +375,7 @@ export default function Genesis29() {
           done in our country, to give the younger before the firstborn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a custom that Laban had concocted on his own; there is
                 no evidence of such in that part of the world)
               </span>
@@ -389,7 +389,7 @@ export default function Genesis29() {
           <sup className="calibre7">27</sup>Fulfill her week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (serve me seven years for Leah)
               </span>
             </span>
@@ -397,7 +397,7 @@ export default function Genesis29() {
           , and we will give you this also for the service{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(give him Rachel)</span>
+              <span className="explanation">(give him Rachel)</span>
             </span>
           </span>{" "}
           which you shall serve with me yet seven other years.
@@ -412,7 +412,7 @@ export default function Genesis29() {
           week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he agreed to the transaction of seven more years, making a
                 total of fourteen)
               </span>
@@ -434,7 +434,7 @@ export default function Genesis29() {
           other years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in all of this we find that the Lord is chastising Jacob; the
                 Lord doesnt actually punish his children, but He definitely does
                 chastise his children; chastisement is designed to teach us
@@ -456,7 +456,7 @@ export default function Genesis29() {
           hated{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word hated here means loved less)
               </span>
             </span>
@@ -464,7 +464,7 @@ export default function Genesis29() {
           , he opened her womb: but Rachel was barren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no indication that Jacob mistreated Leah, but there is
                 indication that Rachel did; the Lord saw all of this and, as a
                 result, He made Leah fruitful and, at the same time, He made
@@ -484,7 +484,7 @@ export default function Genesis29() {
           and she called his name Reuben{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name actually means, See, a son)
               </span>
             </span>
@@ -493,7 +493,7 @@ export default function Genesis29() {
           therefore my husband will love me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Leah was not to blame in all of this situation, so Rachel, her
                 sister, shouldnt have taken the situation out on her; as noted,
                 the Lord didnt take kindly to what was happening)
@@ -510,7 +510,7 @@ export default function Genesis29() {
           therefore given me this son also: and she called his name Simeon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his name means hearing; she is functioning from the position
                 that the Lord has heard her petition)
               </span>
@@ -526,7 +526,7 @@ export default function Genesis29() {
           because I have born him three sons: therefore was his name called Levi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his name means joined)</span>
+              <span className="explanation">(his name means joined)</span>
             </span>
           </span>
         </span>
@@ -539,7 +539,7 @@ export default function Genesis29() {
           his name Judah; and left bearing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah means praise. So, in these four sons we have a symbol of
                 the entirety of the Plan of Redemption. The son is born, it
                 hears the Gospel, it is joined to the Lord, and it praises the

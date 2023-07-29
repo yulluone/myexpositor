@@ -16,7 +16,7 @@ export default function Jeremiah01() {
           Hilkiah, of the Priests who were in Anathoth in the land of Benjamin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Jeremiah means Jehovah is high, Jehovah raises up or
                 launches out. As we shall see, the Ministry of Jeremiah was, in
                 many ways, typical of the Ministry of Christ)
@@ -33,7 +33,7 @@ export default function Jeremiah01() {
           year of his reign.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From that time to the fall of Jerusalem was approximately 40
                 years. No doubt, Jeremiah was greatly encouraged at the
                 beginning of his ministry, in view of the fact that Josiah was
@@ -68,7 +68,7 @@ export default function Jeremiah01() {
           Jerusalem captive in the fifth month.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, we have the fulfillment of the Prophecies of
                 Moses, as well as others [
                 <ScrollLink href="/deuteronmy-28" scrollToId="#filepos2392849">
@@ -128,7 +128,7 @@ export default function Jeremiah01() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first Prophecy that is given in this Book, and
                 concerns itself with the call of Jeremiah)
               </span>
@@ -144,7 +144,7 @@ export default function Jeremiah01() {
           and I ordained you a Prophet unto the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this, one can easily see the doctrine of predestination. But
                 only that the Lord through foreknowledge knew what kind of man
                 that Jeremiah would be, and not that Jeremiah had been denied
@@ -186,7 +186,7 @@ export default function Jeremiah01() {
           cannot speak: for I am a child.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This does not speak of a preteen child, but a young man ranging
                 from that of a teenager to twenty-five or thirty years of age.)
               </span>
@@ -201,7 +201,7 @@ export default function Jeremiah01() {
           whatsoever I command you you shall speak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Almost immediately upon Gods Commands, the flesh, lacking
                 faith, withdraws. So did Moses and Jonah. The call demanded
                 absolute leading and absolute obedience!)
@@ -216,7 +216,7 @@ export default function Jeremiah01() {
           am with you to deliver you, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse implies, and by the Lord at that, that Jeremiah will
                 face great opposition; however, he had the Promise of the Lord
                 to deliver him, but only if Jeremiah fully obeyed.)
@@ -232,7 +232,7 @@ export default function Jeremiah01() {
           Words in your mouth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I have put My Words in your mouth, explains Inspiration. The
                 mouth was Jeremiahs, the Words were Gods [
                 <ScrollLink href="/acts-03" scrollToId="#filepos12805641">
@@ -271,7 +271,7 @@ export default function Jeremiah01() {
           to destroy, and to throw down, to build, and to plant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As there is so much more threat than promise in Jeremiahs
                 writings, the destructive side of his activity is expressed by
                 four verbs; the constructive, only by two.)
@@ -290,7 +290,7 @@ export default function Jeremiah01() {
           an almond tree.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The almond tree is, in the east, the first to awake after the
                 sleep of winter. It, therefore, symbolized the nearness of the
                 predicted event.)
@@ -305,7 +305,7 @@ export default function Jeremiah01() {
           well seen: for I will hasten My Word to perform it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The urgency was impressed upon Jeremiah that inasmuch as his
                 Call was given, that the Prophecies must begin, because the time
                 of their fulfillment was at hand! It would be some thirty-five
@@ -327,7 +327,7 @@ export default function Jeremiah01() {
           seething pot; and the face thereof is toward the north.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The seething pot symbolized the eruption of the Babylonians
                 into Judah.)
               </span>
@@ -342,7 +342,7 @@ export default function Jeremiah01() {
           land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Out of the north, refers to the invasion route. Actually,
                 Babylon was due east of Judah. However, the caravan road which
                 the Chaldean armies had to take entered Judah at Dan, which was
@@ -373,7 +373,7 @@ export default function Jeremiah01() {
           against all the cities of Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was fulfilled approximately thirty-five years later. The
                 word against occurs eight times in this Chapter. This emphasizes
                 the fact that man is estranged from God. Scriptural teaching is,
@@ -423,14 +423,14 @@ export default function Jeremiah01() {
           against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Judah)</span>
+              <span className="explanation">(against Judah)</span>
             </span>
           </span>{" "}
           touching all their wickedness, who have forsaken Me, and have burned
           incense unto other gods, and worshipped the works of their own hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God always makes clear the reasons for His Judgments in time
                 for men to avoid them, if they will only listen. Jeremiah did
                 not go into the detail as did Isaiah concerning these idol gods.
@@ -450,7 +450,7 @@ export default function Jeremiah01() {
           at their faces, lest I confound you before them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A Promise and a warning is given in this Verse. The Promise is
                 that God would give him the Words that he is to say. The warning
                 is that if there is a want of confidence on Jeremiahs part, his
@@ -468,7 +468,7 @@ export default function Jeremiah01() {
           against the Priests thereof, and against the people of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord would give Jeremiah the strength to stand against the
                 king, the Priesthood, and the people of the land, but only if he
                 stood strong.)
@@ -484,7 +484,7 @@ export default function Jeremiah01() {
           LORD, to deliver you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The opposition of the land was predicted. To be sure, the
                 opposition by the modern Church against true prophetic utterance
                 is almost always the case; however, the Promise of Deliverance

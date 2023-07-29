@@ -18,7 +18,7 @@ export default function Genesis26() {
           beside the first famine that was in the days of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is not so difficult for Satan to break down the faith of a
                 Believer; so small a matter as a famine is sufficient)
               </span>
@@ -27,7 +27,7 @@ export default function Genesis26() {
           . And Isaac went unto Abimelech king of the Philistines unto Gerar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech is a title, somewhat like President or Pharaoh; so
                 this was not the same man who dealt with Abraham, a time of some
                 80 or more years having now passed)
@@ -44,7 +44,7 @@ export default function Genesis26() {
           of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it is disastrous to the Spiritual Life for the Christian to
                 go down into Egypt, it is dangerous to go down unto Gerar, for
                 it is a halfway house to Egypt)
@@ -59,13 +59,13 @@ export default function Genesis26() {
           <sup className="calibre7">3</sup>Sojourn in this land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Land of Promise)</span>
+              <span className="explanation">(the Land of Promise)</span>
             </span>
           </span>
           , and I will be with you, and will bless you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Blessing was conditional on staying in the Promised Land,
                 as the same Blessing is conditional presently in the spiritual
                 sense)
@@ -76,7 +76,7 @@ export default function Genesis26() {
           and I will perform the oath which I swore unto Abraham your father;{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Horton says: The reason Isaac could inherit the Promise and
                 enjoy Gods Presence and Blessing was because Abraham obeyed God,
                 fulfilled the obligations of God put on him, kept the
@@ -97,7 +97,7 @@ export default function Genesis26() {
           blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (basically, the Lord reaffirms the Promise He had already made
                 to Abraham, and which He now makes to Isaac)
               </span>
@@ -112,7 +112,7 @@ export default function Genesis26() {
           and kept My Charge, My Commandments, My Statutes, and My Laws.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, the Lord is telling Isaac that if he wants to
                 continue to enjoy Gods Blessings, he must continue in the same
                 sort of faith and obedience as did his father Abraham.
@@ -131,7 +131,7 @@ export default function Genesis26() {
           <sup className="calibre7">6</sup>And Isaac dwelt in Gerar:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is no indication that the Lord told Isaac to go to Gerar.
                 The indication is that he went there according to his own
                 leading and direction. Events prove that.)
@@ -146,7 +146,7 @@ export default function Genesis26() {
           his wife; and he said, She is my sister:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Patriarch practices deception here exactly as did his
                 father Abraham. It is positive that Isaac knew in detail of his
                 fathers episode in Egypt, and the wrongness of the act. So why
@@ -158,7 +158,7 @@ export default function Genesis26() {
           place should kill me for Rebekah; because she was fair to look upon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Child of God must never act out of fear, but always from
                 the position of faith.)
               </span>
@@ -174,7 +174,7 @@ export default function Genesis26() {
           wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His deception is found out. The Lord always leaves a window.)
               </span>
             </span>
@@ -188,7 +188,7 @@ export default function Genesis26() {
           sister? And Isaac said unto him, Because I said, Lest I die for her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, Gods primary emissary on Earth is humiliated. In
                 fact, sin always humiliates.)
               </span>
@@ -203,7 +203,7 @@ export default function Genesis26() {
           wife, and you should have brought guiltiness upon us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Matthew Henry said: There is nothing in Isaacs denial of his
                 wife to be imitated, or even excused. The impartiality of the
                 sacred historian records it for our warning, and to show that
@@ -220,7 +220,7 @@ export default function Genesis26() {
           put to death.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sin of Isaac was greater than the sin of his father
                 Abraham. While no sin is to be excused, Isaac had this unsavory
                 example before him, so there was no excuse for what he did.)
@@ -235,7 +235,7 @@ export default function Genesis26() {
           received in the same year an hundredfold: and the LORD blessed him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We find here that God blessed Isaac materially, but we also
                 find that there is a vast difference between material blessings
                 and Spiritual Blessings.)
@@ -250,7 +250,7 @@ export default function Genesis26() {
           forward, and grew until he became very great{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we can never judge that a persons condition with the Lord is
                 right because of prosperous circumstances)
               </span>
@@ -266,7 +266,7 @@ export default function Genesis26() {
           envied him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A man may, like Isaac, become rich in Gerar, but it is not
                 recorded that Jehovah appeared to Isaac in Gerar. He appeared to
                 him before he went there [in Lahai-roi] and, in fact, the very
@@ -283,7 +283,7 @@ export default function Genesis26() {
           had stopped them, and filled them with earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(did so after Isaac arrived)</span>
+              <span className="explanation">(did so after Isaac arrived)</span>
             </span>
           </span>
         </span>
@@ -304,7 +304,7 @@ export default function Genesis26() {
           pitched his tent in the valley of Gerar, and dwelt there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We find that Isaac still wasnt in the place where the Lord
                 wanted him, as far as him dwelling in the Land was concerned. He
                 is still in Gerar, which is Philistine country. How many do we
@@ -322,7 +322,7 @@ export default function Genesis26() {
           Philistines had stopped them after the death of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these wells had been stopped for some time)
               </span>
             </span>
@@ -331,7 +331,7 @@ export default function Genesis26() {
           called them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (wells in that part of the world, then and now, are extremely
                 important)
               </span>
@@ -351,20 +351,20 @@ export default function Genesis26() {
           <sup className="calibre7">20</sup>And the herdmen of Gerar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Philistines)</span>
+              <span className="explanation">(Philistines)</span>
             </span>
           </span>{" "}
           did strive with Isaacs herdmen, saying, The water is ours: and he
           called the name of the well Esek{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(contention)</span>
+              <span className="explanation">(contention)</span>
             </span>
           </span>
           ; because they did strive with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many times the opposition we receive, while definitely wrong on
                 the part of the one who is doing the opposing, still, the Lord
                 uses these things, at times, to further His Cause in our lives)
@@ -380,7 +380,7 @@ export default function Genesis26() {
           strive for that also: and he called the name of it Sitnah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hatred)</span>
+              <span className="explanation">(hatred)</span>
             </span>
           </span>
         </span>
@@ -393,14 +393,14 @@ export default function Genesis26() {
           of it Rehoboth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there is room)</span>
+              <span className="explanation">(there is room)</span>
             </span>
           </span>
           ; and he said, For now the LORD has made room for us, and we shall be
           fruitful in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite the fact that there is no contention for this
                 particular well, Isaac seems to now understand that he still
                 isnt exactly where God wants him to be.)
@@ -415,7 +415,7 @@ export default function Genesis26() {
           Beer-sheba.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Several years of strife and contention could have been avoided
                 had Isaac earnestly sought the Lord in the beginning as it
                 regarded his dwelling place. The Lord wanted the Patriarch in
@@ -431,7 +431,7 @@ export default function Genesis26() {
           same night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (immediately when Isaac left Gerar and went to Beer-sheba, which
                 was where the Lord wanted him, The Lord appeared unto him the
                 same night)
@@ -443,7 +443,7 @@ export default function Genesis26() {
           Abrahams sake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord intends for Isaac to emulate his father, hence, Him
                 holding up Abraham as an example. As well, Abraham is spoken of,
                 although dead, but not as one who has ceased to be. In fact,
@@ -459,7 +459,7 @@ export default function Genesis26() {
           <sup className="calibre7">25</sup>And he built an Altar there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this typified Christ and the price He would pay; in fact, Jesus
                 Christ and Him Crucified was what it was all about, and is what
                 its all about; Isaac built no Altar in Gerar, because the Cross
@@ -470,7 +470,7 @@ export default function Genesis26() {
           , and called upon the Name of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is a difference in calling on the Name of the Lord when
                 one is outside the Will of God than when one is in the center of
                 Gods Will; this calling is anchored in faith and victory, and
@@ -481,13 +481,13 @@ export default function Genesis26() {
           , and pitched his tent there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because the Lord was there)</span>
+              <span className="explanation">(because the Lord was there)</span>
             </span>
           </span>
           : and there Isaacs servants dug a well{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hebrew word used here means that they opened the well,
                 which had been stopped or closed by violence or neglect)
               </span>
@@ -506,7 +506,7 @@ export default function Genesis26() {
           of his army{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech now seeks peace with Isaac, because the fear of the
                 Lord is on Isaac)
               </span>
@@ -521,7 +521,7 @@ export default function Genesis26() {
           come to me, seeing you hate me, and have sent me away from you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, It is when Isaac definitely separates himself
                 from the men of Gerar that they come to him seeking blessing
                 through him from God. All the time that he dwelt among them, it
@@ -539,7 +539,7 @@ export default function Genesis26() {
           the LORD was with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hand of the Lord is now on Isaac for power and protection,
                 which had not previously been; it was obvious even to the
                 enemies of the Patriarch)
@@ -550,7 +550,7 @@ export default function Genesis26() {
           and you, and let us make a covenant with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a covenant to settle the strife)
               </span>
             </span>
@@ -565,7 +565,7 @@ export default function Genesis26() {
           and have sent you away in peace: you are now the blessed of the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abimelech had enough sense to recognize that Isaac was now
                 blessed of the Lord, and that he must act accordingly.
                 Regrettably, many in the modern Church do not seemingly have
@@ -582,7 +582,7 @@ export default function Genesis26() {
           did eat and drink{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the covenant was made)</span>
+              <span className="explanation">(the covenant was made)</span>
             </span>
           </span>
         </span>
@@ -602,7 +602,7 @@ export default function Genesis26() {
           had dug, and said unto him, We have found water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The water here is symbolic of the Water of Life which would be
                 afforded by the Lord Jesus Christ, the Seed of Abraham, Isaac
                 and Jacob.)
@@ -616,7 +616,7 @@ export default function Genesis26() {
           <sup className="calibre7">33</sup>And he called it Shebah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which means the well of the oath; it was symbolic of the
                 Covenant made by the Lord with Abraham concerning Redemption)
               </span>
@@ -635,7 +635,7 @@ export default function Genesis26() {
           the daughter of Elon the Hittite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these girls were in the line of Ham and Canaan, which was
                 cursed [
                 <ScrollLink href="/genesis-09" scrollToId="#filepos134154">

@@ -26,13 +26,13 @@ export default function Luke06() {
           , that He went through the corn fields{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(barley or wheat)</span>
+              <span className="explanation">(barley or wheat)</span>
             </span>
           </span>
           ; and His Disciples plucked the ears of corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>
           , and did eat, rubbing{" "}
@@ -260,7 +260,7 @@ export default function Luke06() {
           , He said unto the man, Stretch forth your hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the withered hand)</span>
+              <span className="explanation">(the withered hand)</span>
             </span>
           </span>
           . And he did so: and his hand was restored whole as the other{" "}
@@ -279,7 +279,7 @@ export default function Luke06() {
           <sup className="calibre7">11</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Scribes and Pharisees)</span>
+              <span className="explanation">(Scribes and Pharisees)</span>
             </span>
           </span>{" "}
           were filled with madness{" "}
@@ -389,7 +389,7 @@ export default function Luke06() {
           of Alphaeus, and Simon called Zelotes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Zealot)</span>
+              <span className="explanation">(the Zealot)</span>
             </span>
           </span>
           ,
@@ -432,7 +432,7 @@ export default function Luke06() {
           <sup className="calibre7">17</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           came down with them, and stood in the plain{" "}
@@ -480,7 +480,7 @@ export default function Luke06() {
           touch Him: for there went virtue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(power)</span>
+              <span className="explanation">(power)</span>
             </span>
           </span>{" "}
           out of Him, and healed{" "}
@@ -598,7 +598,7 @@ export default function Luke06() {
           <sup className="calibre7">22</sup>Blessed are you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(happy are you)</span>
+              <span className="explanation">(happy are you)</span>
             </span>
           </span>
           , when men shall hate you, and when they shall separate you{" "}
@@ -712,13 +712,13 @@ export default function Luke06() {
           <sup className="calibre7">25</sup>Woe unto you who are full!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Things of the world.)</span>
+              <span className="explanation">(Things of the world.)</span>
             </span>
           </span>{" "}
           for you shall hunger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they will not satisfy)</span>
+              <span className="explanation">(they will not satisfy)</span>
             </span>
           </span>
           . Woe unto you who laugh now!{" "}
@@ -789,7 +789,7 @@ export default function Luke06() {
           <sup className="calibre7">28</sup>Bless them who curse you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speak well of)</span>
+              <span className="explanation">(speak well of)</span>
             </span>
           </span>
           , and pray for them which despitefully use you{" "}
@@ -1008,7 +1008,7 @@ export default function Luke06() {
           the evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what we should do as well)</span>
+              <span className="explanation">(what we should do as well)</span>
             </span>
           </span>
           .
@@ -1037,7 +1037,7 @@ export default function Luke06() {
           <sup className="calibre7">37</sup>Judge not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(do not judge ones motives)</span>
+              <span className="explanation">(do not judge ones motives)</span>
             </span>
           </span>
           , and you shall not be judged{" "}
@@ -1052,7 +1052,7 @@ export default function Luke06() {
           : condemn not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(do not pass sentence)</span>
+              <span className="explanation">(do not pass sentence)</span>
             </span>
           </span>
           , and you shall not be condemned{" "}
@@ -1315,13 +1315,13 @@ export default function Luke06() {
           <sup className="calibre7">47</sup>Whosoever comes to Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(truly accepts Christ)</span>
+              <span className="explanation">(truly accepts Christ)</span>
             </span>
           </span>
           , and hears My sayings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Word of God)</span>
+              <span className="explanation">(the Word of God)</span>
             </span>
           </span>
           , and does them{" "}
@@ -1335,7 +1335,7 @@ export default function Luke06() {
           , I will show you to whom he is like{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the end result)</span>
+              <span className="explanation">(the end result)</span>
             </span>
           </span>
           :
@@ -1355,7 +1355,7 @@ export default function Luke06() {
           , and digged deep{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deep into the Word)</span>
+              <span className="explanation">(deep into the Word)</span>
             </span>
           </span>
           , and laid the foundation on a rock{" "}
@@ -1380,7 +1380,7 @@ export default function Luke06() {
           : and when the flood arose{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(problems will arise)</span>
+              <span className="explanation">(problems will arise)</span>
             </span>
           </span>
           , the stream beat vehemently upon that house{" "}
@@ -1408,7 +1408,7 @@ export default function Luke06() {
           <sup className="calibre7">49</sup>But he who hears, and does not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(doesnt obey the Word)</span>
+              <span className="explanation">(doesnt obey the Word)</span>
             </span>
           </span>
           , is like a man that without a foundation{" "}

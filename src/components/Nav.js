@@ -59,32 +59,7 @@ const Nav = ({ children }) => {
               menuIsOpen ? "" : "hidden"
             } divide-gray-100 rounded-lg bg-gray-800 shadow `}
           >
-            <ul className="py-2 text-sm flex flex-col items-center justify-center bg-gray-800 cursor-pointer">
-              <li>
-                <Link
-                  href=" "
-                  className="block text-white px-4 py-2 hover:bg-gray-100 dark:hover:text-white cursor-pointer "
-                >
-                  Dashboard
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href=" "
-                  className="block text-white px-4 py-2 hover:bg-gray-100 dark:hover:text-white cursor-pointer"
-                >
-                  Settings
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href=" "
-                  className="block text-white px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                >
-                  Earnings
-                </Link>
-              </li>
-            </ul>
+           
           </div>
         </div>
       </aside>

@@ -149,13 +149,13 @@ export default function Thessalonians1() {
           word only{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the New Covenant)</span>
+              <span className="explanation">(refers to the New Covenant)</span>
             </span>
           </span>
           , but also in power, and in the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tells us where the power is)</span>
+              <span className="explanation">(tells us where the power is)</span>
             </span>
           </span>
           , and in much assurance{" "}

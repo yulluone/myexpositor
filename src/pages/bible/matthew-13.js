@@ -24,13 +24,13 @@ export default function Matthew13() {
           went Jesus out of the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably Peters house)</span>
+              <span className="explanation">(probably Peters house)</span>
             </span>
           </span>
           , and sat by the sea side{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>
           .
@@ -89,13 +89,13 @@ export default function Matthew13() {
               <span className="calibre_19">seeds</span>
             </span>
             <span>
-              <span className="calibre_19">(Word of God)</span>
+              <span className="explanation">(Word of God)</span>
             </span>
           </span>{" "}
           fell by the way side, and the fowls{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon spirits)</span>
+              <span className="explanation">(demon spirits)</span>
             </span>
           </span>{" "}
           came and devoured them up:
@@ -106,14 +106,14 @@ export default function Matthew13() {
           <sup className="calibre7">5</sup>Some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seed)</span>
+              <span className="explanation">(seed)</span>
             </span>
           </span>{" "}
           fell upon stony places, for they had not much earth: and forthwith
           they sprung up, because they had no deepness of earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no depth)</span>
+              <span className="explanation">(no depth)</span>
             </span>
           </span>
           :
@@ -141,7 +141,7 @@ export default function Matthew13() {
           <sup className="calibre7">7</sup>And some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seed)</span>
+              <span className="explanation">(seed)</span>
             </span>
           </span>{" "}
           fell among thorns; and the thorns sprung up, and choked them{" "}
@@ -161,13 +161,13 @@ export default function Matthew13() {
           <sup className="calibre7">8</sup>But other{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seed)</span>
+              <span className="explanation">(seed)</span>
             </span>
           </span>{" "}
           fell into good ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(receptive ground)</span>
+              <span className="explanation">(receptive ground)</span>
             </span>
           </span>
           , and brought forth fruit, some an hundredfold, some sixtyfold, some
@@ -262,7 +262,7 @@ export default function Matthew13() {
           <sup className="calibre7">12</sup>For whosoever has{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and wants more)</span>
+              <span className="explanation">(and wants more)</span>
             </span>
           </span>
           , to him shall be given, and he shall have more abundance{" "}
@@ -277,7 +277,7 @@ export default function Matthew13() {
           : but whosoever has not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no interest for more)</span>
+              <span className="explanation">(no interest for more)</span>
             </span>
           </span>
           , from him shall be taken away even that he has{" "}
@@ -563,7 +563,7 @@ export default function Matthew13() {
           sower{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ will now explain it)</span>
+              <span className="explanation">(Christ will now explain it)</span>
             </span>
           </span>
           .
@@ -638,19 +638,19 @@ export default function Matthew13() {
           <sup className="calibre7">20</sup>But he who receives the seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Word of God)</span>
+              <span className="explanation">(Word of God)</span>
             </span>
           </span>{" "}
           into stony places{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the second group)</span>
+              <span className="explanation">(refers to the second group)</span>
             </span>
           </span>
           , the same is he who hears the Word, and anon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           with joy receives it{" "}
@@ -669,7 +669,7 @@ export default function Matthew13() {
           <sup className="calibre7">21</sup>Yet has he not root in himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the stony places)</span>
+              <span className="explanation">(refers to the stony places)</span>
             </span>
           </span>
           , but endures for a while{" "}
@@ -684,13 +684,13 @@ export default function Matthew13() {
           : for when tribulation or persecution arises because of the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which it definitely will)</span>
+              <span className="explanation">(which it definitely will)</span>
             </span>
           </span>
           , by and by{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           he is offended{" "}
@@ -717,7 +717,7 @@ export default function Matthew13() {
           <sup className="calibre7">22</sup>He also who received seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Word of God)</span>
+              <span className="explanation">(the Word of God)</span>
             </span>
           </span>{" "}
           among the thorns is he who hears the Word{" "}
@@ -732,7 +732,7 @@ export default function Matthew13() {
           ; and the care of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ways of this world)</span>
+              <span className="explanation">(ways of this world)</span>
             </span>
           </span>
           , and the deceitfulness of riches{" "}
@@ -747,7 +747,7 @@ export default function Matthew13() {
           , choke the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stops its growth)</span>
+              <span className="explanation">(stops its growth)</span>
             </span>
           </span>
           , and he becomes unfruitful{" "}
@@ -792,7 +792,7 @@ export default function Matthew13() {
           is he who hears the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(does so with eagerness)</span>
+              <span className="explanation">(does so with eagerness)</span>
             </span>
           </span>
           , and understands{" "}
@@ -810,7 +810,7 @@ export default function Matthew13() {
           ; which also bears fruit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christian growth)</span>
+              <span className="explanation">(Christian growth)</span>
             </span>
           </span>
           , and brings forth, some an hundredfold, some sixty, some thirty{" "}
@@ -842,25 +842,25 @@ export default function Matthew13() {
           them, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the second Parable)</span>
+              <span className="explanation">(presents the second Parable)</span>
             </span>
           </span>
           , The Kingdom of Heaven is likened unto a Man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           which sowed good seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Word of God)</span>
+              <span className="explanation">(the Word of God)</span>
             </span>
           </span>{" "}
           in his field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the world)</span>
+              <span className="explanation">(the world)</span>
             </span>
           </span>
           :
@@ -871,31 +871,31 @@ export default function Matthew13() {
           <sup className="calibre7">25</sup>But while men slept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church is often asleep)</span>
+              <span className="explanation">(the Church is often asleep)</span>
             </span>
           </span>
           , His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christs)</span>
+              <span className="explanation">(Christs)</span>
             </span>
           </span>{" "}
           enemy came{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           and sowed tares{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(apostates)</span>
+              <span className="explanation">(apostates)</span>
             </span>
           </span>{" "}
           among the wheat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(true Christians)</span>
+              <span className="explanation">(true Christians)</span>
             </span>
           </span>
           , and went his way{" "}
@@ -987,7 +987,7 @@ export default function Matthew13() {
           up?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Rid the field of the tares?)</span>
+              <span className="explanation">(Rid the field of the tares?)</span>
             </span>
           </span>
         </span>
@@ -1068,25 +1068,25 @@ export default function Matthew13() {
           them, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the third Parable)</span>
+              <span className="explanation">(the third Parable)</span>
             </span>
           </span>
           , The Kingdom of Heaven is like to a grain of mustard seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Word of God)</span>
+              <span className="explanation">(Word of God)</span>
             </span>
           </span>
           , which a man took{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>
           , and sowed in his field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the world)</span>
+              <span className="explanation">(the world)</span>
             </span>
           </span>
           :
@@ -1106,7 +1106,7 @@ export default function Matthew13() {
           : but when it is grown{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which it now is)</span>
+              <span className="explanation">(which it now is)</span>
             </span>
           </span>
           , it is the greatest among herbs{" "}
@@ -1154,7 +1154,7 @@ export default function Matthew13() {
           <sup className="calibre7">33</sup>Another Parable spoke He unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fourth)</span>
+              <span className="explanation">(the fourth)</span>
             </span>
           </span>
           ; The Kingdom of Heaven is like unto leaven{" "}
@@ -1177,13 +1177,13 @@ export default function Matthew13() {
           , and hid in three measures of meal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the meal is the Word of God)</span>
+              <span className="explanation">(the meal is the Word of God)</span>
             </span>
           </span>
           , till the whole was leavened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(more tares than wheat)</span>
+              <span className="explanation">(more tares than wheat)</span>
             </span>
           </span>
           .
@@ -1260,7 +1260,7 @@ export default function Matthew13() {
           of the tares of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a private audience)</span>
+              <span className="explanation">(a private audience)</span>
             </span>
           </span>
           .
@@ -1272,7 +1272,7 @@ export default function Matthew13() {
           who sows the good seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Word of God)</span>
+              <span className="explanation">(Word of God)</span>
             </span>
           </span>{" "}
           is the Son of Man{" "}
@@ -1335,13 +1335,15 @@ export default function Matthew13() {
           <sup className="calibre7">39</sup>The enemy that sowed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bad seed)</span>
+              <span className="explanation">(bad seed)</span>
             </span>
           </span>{" "}
           is the devil; the harvest is the end of the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(end of the age; the Judgment)</span>
+              <span className="explanation">
+                (end of the age; the Judgment)
+              </span>
             </span>
           </span>
           ; and the reapers are the Angels{" "}
@@ -1369,7 +1371,7 @@ export default function Matthew13() {
           <sup className="calibre7">40</sup>As therefore the tares{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bad seed)</span>
+              <span className="explanation">(bad seed)</span>
             </span>
           </span>{" "}
           are gathered and burned in the fire{" "}
@@ -1391,7 +1393,7 @@ export default function Matthew13() {
           ; so shall it be in the end of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(end of this age)</span>
+              <span className="explanation">(end of this age)</span>
             </span>
           </span>
           .
@@ -1411,7 +1413,7 @@ export default function Matthew13() {
           all things that offend, and them which do iniquity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Great White Throne Judgment)</span>
+              <span className="explanation">(Great White Throne Judgment)</span>
             </span>
           </span>
           ;
@@ -1485,25 +1487,25 @@ export default function Matthew13() {
           <sup className="calibre7">44</sup>Again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fifth Parable)</span>
+              <span className="explanation">(the fifth Parable)</span>
             </span>
           </span>
           , the Kingdom of Heaven is like unto treasure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the New Covenant)</span>
+              <span className="explanation">(the New Covenant)</span>
             </span>
           </span>{" "}
           hid in a field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the world)</span>
+              <span className="explanation">(the world)</span>
             </span>
           </span>
           ; the which when a man has found{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the treasure is Christ)</span>
+              <span className="explanation">(the treasure is Christ)</span>
             </span>
           </span>
           , he hides it, and for joy thereof goes and sells all that he has, and
@@ -1527,7 +1529,7 @@ export default function Matthew13() {
           <sup className="calibre7">45</sup>Again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sixth Parable)</span>
+              <span className="explanation">(the sixth Parable)</span>
             </span>
           </span>
           , the Kingdom of Heaven is like unto a merchant man, seeking goodly
@@ -1576,7 +1578,7 @@ export default function Matthew13() {
           <sup className="calibre7">47</sup>Again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the seventh Parable)</span>
+              <span className="explanation">(the seventh Parable)</span>
             </span>
           </span>
           , the Kingdom of Heaven is like unto a net, that was cast into the
@@ -1620,7 +1622,7 @@ export default function Matthew13() {
           world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at the end of the age)</span>
+              <span className="explanation">(at the end of the age)</span>
             </span>
           </span>
           : the Angels shall come forth, and sever the wicked from among the
@@ -1640,7 +1642,7 @@ export default function Matthew13() {
           <sup className="calibre7">50</sup>And shall cast them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wicked)</span>
+              <span className="explanation">(the wicked)</span>
             </span>
           </span>{" "}
           into the furnace of fire{" "}
@@ -1750,7 +1752,7 @@ export default function Matthew13() {
           country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nazareth)</span>
+              <span className="explanation">(Nazareth)</span>
             </span>
           </span>
           , He taught them in their Synagogue{" "}
@@ -1772,7 +1774,7 @@ export default function Matthew13() {
           , insomuch that they were astonished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rendered speechless)</span>
+              <span className="explanation">(rendered speechless)</span>
             </span>
           </span>
           , and said, Whence has this{" "}
@@ -1884,7 +1886,7 @@ export default function Matthew13() {
           there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Nazareth)</span>
+              <span className="explanation">(in Nazareth)</span>
             </span>
           </span>{" "}
           because of their unbelief{" "}

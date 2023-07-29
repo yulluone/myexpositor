@@ -19,7 +19,7 @@ export default function Isaiah50() {
           put away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, the Lord had put away, written a bill of divorcement,
                 concerning the Northern Kingdom of Israel; however, concerning
                 Judah, He had not so done, and her children were wrong to
@@ -65,7 +65,7 @@ export default function Isaiah50() {
           stink, because there is no water, and die for thirst.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy now jumps from Judahs present difficulties to a
                 future day when He Who is Himself the Mighty God came from
                 Heaven to Earth to seek and bless her. But no one would receive
@@ -110,7 +110,7 @@ export default function Isaiah50() {
           and I make sackcloth their covering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The assertion here is that if He so chooses, He could leave all
                 nature in absolute darkness a power necessarily belonging only
                 to Him Who said, Let there be light; and there was light [
@@ -138,7 +138,7 @@ export default function Isaiah50() {
           hear as the learned.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The intent of the Holy Spirit in this Chapter is to portray to
                 man the inexhaustible Power of God that could, if He so chose,
                 use that Power in any capacity, but rather chose to send His
@@ -244,7 +244,7 @@ export default function Isaiah50() {
           was not rebellious, neither turned away back.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse pertains to the entire willingness of Christ to hear
                 the Father, and to do so as the True Servant, as contrasted with
                 the professed servant, or Children of Israel.
@@ -284,7 +284,7 @@ export default function Isaiah50() {
           and spitting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse addresses itself to the hours before the
                 Crucifixion.{" "}
                 <ScrollLink href="/matthew-26" scrollToId="#filepos11288328">
@@ -350,7 +350,7 @@ export default function Isaiah50() {
           a flint, and I know that I shall not be ashamed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/luke-09" scrollToId="#filepos11913648">
                   <span className="calibre_19">
@@ -396,7 +396,7 @@ export default function Isaiah50() {
           come near to Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that those who contend with Me, i.e.,
                 accuse Me, will have to answer to the One Who justifies Me,
                 namely The Lord GOD.)
@@ -412,7 +412,7 @@ export default function Isaiah50() {
           garment; the moth shall eat them up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only One Who can truly help is the Lord GOD.)
               </span>
             </span>
@@ -429,7 +429,7 @@ export default function Isaiah50() {
           light? let him trust in the Name of the LORD, and stay upon His God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are times of darkness in every Believers experience; but
                 light will surely be had if the Voice of Jehovahs Servant be
                 obeyed. And the Servant is Christ.)
@@ -446,7 +446,7 @@ export default function Isaiah50() {
           My Hand; you shall lie down in sorrow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that all enemies who kindle their own
                 fires of accusation and judgment against the Messiah shall reap
                 what they sow to their own sorrow.)

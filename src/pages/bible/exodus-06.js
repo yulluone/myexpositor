@@ -19,25 +19,25 @@ export default function Exodus06() {
           He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           let them go, and with a strong hand shall He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           drive them out of his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaohs)</span>
+              <span className="explanation">(Pharaohs)</span>
             </span>
           </span>{" "}
           land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated here, the Strong Hand is not Pharaohs, but Gods. In
                 essence, the Lord is saying, By means of My Strong Hand [or
                 overpowering might] laid upon him shall he be induced to let
@@ -53,7 +53,7 @@ export default function Exodus06() {
           unto him, I am the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning all of this, Pink says: There is much for us to
                 learn in this; we defeat ourselves by being occupied with the
                 difficulties of the way; God has made known to us the triumphant
@@ -81,13 +81,13 @@ export default function Exodus06() {
           Isaac, and unto Jacob, by the name of God Almighty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(All-Sufficient One)</span>
+              <span className="explanation">(All-Sufficient One)</span>
             </span>
           </span>
           , but by My Name JEHOVAH was I not known to them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, the Name Jehovah was used from the very beginning;
                 however, the full meaning of it was not made known unto Israel
                 until it was time to fulfill the Promises and Covenants with
@@ -103,7 +103,7 @@ export default function Exodus06() {
           Covenant with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (instead of turning away from so unbelieving and petulant a
                 people, God, in His love, pity, and Grace, encourages them and
                 Moses by telling them Who He was, What He was, and What He would
@@ -115,7 +115,7 @@ export default function Exodus06() {
           wherein they were strangers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As we have stated, they must not look at the difficulties, and
                 neither must we. We must instead look at the Promise.)
               </span>
@@ -130,7 +130,7 @@ export default function Exodus06() {
           remembered My Covenant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Five times He declares that He is Jehovah [
                 <ScrollLink href="/" scrollToId="#filepos743997">
                   <span className="calibre_19">
@@ -177,7 +177,7 @@ export default function Exodus06() {
           redeem you with a stretched out arm, and with great judgments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a perfect example of the Believer held in bondage; the
                 Believer is being held captive by an intelligent force, namely
                 Satan and his demon spirits; consequently, these evil powers do
@@ -207,7 +207,7 @@ export default function Exodus06() {
           Egyptians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was all done, in essence, by the Cross, of which the slain
                 lamb and the blood applied to the doorposts were symbols [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos822857">
@@ -247,7 +247,7 @@ export default function Exodus06() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we can believe it, He can do it.)
               </span>
             </span>
@@ -261,7 +261,7 @@ export default function Exodus06() {
           and for cruel bondage.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hope deferred makes the heart sick. The Israelites, who had
                 expected a speedy deliverance, and found themselves the more
                 downtrodden for Moses interference, were too much dispirited to
@@ -302,7 +302,7 @@ export default function Exodus06() {
           Egypt, that he let the Children of Israel go out of his land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses is to continue to demand of Pharaoh that he let Israel
                 go. And thats the same thing that we must do as Believers.
                 Because the demon forces of darkness do not yield at the
@@ -322,7 +322,7 @@ export default function Exodus06() {
           then shall Pharaoh hear me, who is of uncircumcised lips?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses is speaking of his inability to speak properly.
                 Concerning this, Matthew Henry says: Though our infirmities
                 ought to humble us, yet they ought not to discourage us from
@@ -341,7 +341,7 @@ export default function Exodus06() {
           land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord seemingly ignored the complaint of Moses, rather
                 giving a charge to both Moses and Aaron. That charge is
                 incumbent upon us presently, as well! We are to stand upon the
@@ -436,7 +436,7 @@ export default function Exodus06() {
           families.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Grace that gave the Promises of the First{" "}
                 <ScrollLink href="/exodus-01" scrollToId="#filepos680703">
                   <span className="calibre_19">
@@ -459,7 +459,7 @@ export default function Exodus06() {
           Egypt according to their armies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God numbers those who belong to Himself, and He calls them My
                 people, though they still were in the power of the enemy [
                 <ScrollLink href="/exodus-05" scrollToId="#filepos732147">
@@ -482,7 +482,7 @@ export default function Exodus06() {
           these are that Moses and Aaron.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To make this Grace more amazing, the three Tribes of Reuben,
                 Simeon, and Levi are chosen as representing the whole nation.)
               </span>
@@ -503,7 +503,7 @@ export default function Exodus06() {
           I say unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was not to add to, or subtract from, that which the Lord
                 had said; and neither are we!)
               </span>
@@ -518,7 +518,7 @@ export default function Exodus06() {
           me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To these two, God would give the charge, and to these two would
                 come the victory, despite the fact that Moses was a man of
                 uncircumcised lips.)

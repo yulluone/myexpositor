@@ -40,7 +40,7 @@ export default function Leviticus12() {
           his foreskin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all baby boys)</span>
+              <span className="explanation">(all baby boys)</span>
             </span>
           </span>{" "}
           shall be circumcised.{" "}
@@ -100,7 +100,7 @@ export default function Leviticus12() {
           <sup className="calibre7">5</sup>But if she bear a maid child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a little girl)</span>
+              <span className="explanation">(a little girl)</span>
             </span>
           </span>
           , then she shall be unclean two weeks, as in her separation: and she

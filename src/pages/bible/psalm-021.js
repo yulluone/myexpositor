@@ -45,7 +45,7 @@ export default function Psalm021() {
           <sup className="calibre7">3</sup>For You prevent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(anticipate)</span>
+              <span className="explanation">(anticipate)</span>
             </span>
           </span>{" "}
           Him with the blessings of goodness{" "}

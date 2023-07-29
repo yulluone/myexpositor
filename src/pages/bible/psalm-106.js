@@ -825,7 +825,7 @@ export default function Psalm106() {
           iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(All because of sin!)</span>
+              <span className="explanation">(All because of sin!)</span>
             </span>
           </span>
         </span>

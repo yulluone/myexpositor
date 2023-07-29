@@ -670,7 +670,7 @@ export default function John13() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to John)</span>
+              <span className="explanation">(to John)</span>
             </span>
           </span>
           , that he should ask who it should be of whom He spoke{" "}
@@ -749,7 +749,7 @@ export default function John13() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he yielded to Satan)</span>
+              <span className="explanation">(he yielded to Satan)</span>
             </span>
           </span>
           . Then said Jesus unto him, That you do, do quickly{" "}
@@ -879,7 +879,7 @@ export default function John13() {
           , God shall also Glorify Him in Himself, and shall straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           Glorify Him{" "}

@@ -14,7 +14,7 @@ export default function Psalm001() {
           <sup className="calibre7">1</sup>Blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(happy)</span>
+              <span className="explanation">(happy)</span>
             </span>
           </span>{" "}
           i s the Man{" "}
@@ -39,7 +39,7 @@ export default function Psalm001() {
           Who walks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(orders His lifestyle)</span>
+              <span className="explanation">(orders His lifestyle)</span>
             </span>
           </span>{" "}
           not in the counsel of the ungodly{" "}
@@ -78,7 +78,7 @@ export default function Psalm001() {
           <sup className="calibre7">2</sup>But His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our Lords)</span>
+              <span className="explanation">(our Lords)</span>
             </span>
           </span>{" "}
           delight is in the Law of the LORD{" "}
@@ -188,7 +188,7 @@ export default function Psalm001() {
           <sup className="calibre7">5</sup>Therefore the ungodly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           shall not stand in the Judgment{" "}
@@ -225,7 +225,7 @@ export default function Psalm001() {
           : but the way of the ungodly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           shall perish{" "}

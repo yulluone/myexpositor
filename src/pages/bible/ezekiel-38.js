@@ -25,7 +25,7 @@ export default function Ezekiel38() {
           prophesy against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gog is another name for the Antichrist)
               </span>
             </span>
@@ -39,7 +39,7 @@ export default function Ezekiel38() {
           Behold, I am against you, O Gog, the chief prince of Meshech and Tubal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for many years, Bible teachers have thought that these Passages
                 referred to Russia, but a closer investigation of the statements
                 prove otherwise; therefore, the phrase, Behold, I am against
@@ -60,7 +60,7 @@ export default function Ezekiel38() {
           swords{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy refers to the Battle of Armageddon, which will be
                 the second invasion by the Antichrist of Israel, in which he
                 will be totally destroyed. The first invasion will take place in
@@ -85,7 +85,7 @@ export default function Ezekiel38() {
           with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages merely reinforce the statements previously made,
                 that the army of the Antichrist will consist of people from many
                 countries, including Russia.)
@@ -101,7 +101,7 @@ export default function Ezekiel38() {
           you a guard unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Be you prepared, merely refers to a taunt given by the Holy
                 Spirit to the Antichrist. In other words, Prepare yourself to
                 the very best of your ability, and still it will avail you
@@ -123,7 +123,7 @@ export default function Ezekiel38() {
           forth out of the nations, and they shall dwell safely all of them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two phrases, After many days and In the latter years, refer
                 to this present time and the immediate future; therefore, any
                 claims that this Chapter has already been fulfilled are
@@ -195,7 +195,7 @@ export default function Ezekiel38() {
           bands, and many people with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, this is the Battle of Armageddon.)
               </span>
             </span>
@@ -209,7 +209,7 @@ export default function Ezekiel38() {
           mind, and you shall think an evil thought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the evil thought will consist of the plans of the Antichrist,
                 inspired of Satan, to destroy Israel and the Jews. That plan is
                 the Battle of Armageddon!)
@@ -227,7 +227,7 @@ export default function Ezekiel38() {
           bars nor gates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrases, The land of unwalled villages, Dwelling without
                 walls, and Having neither bars nor gates, refer to Israels
                 efforts at mobilization to be rather weak, at least in the mind
@@ -246,7 +246,7 @@ export default function Ezekiel38() {
           cattle and goods, who dwell in the midst of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the invasion of Israel by the Antichrist, called the
                 Battle of Armageddon, which will precipitate the Second Coming
                 of the Lord.)
@@ -264,7 +264,7 @@ export default function Ezekiel38() {
           take a great spoil?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The questions asked by these particular nations are not meant
                 to proclaim an adversarial position; in fact, they will probably
                 throw in their lot with the Antichrist, hoping to get a part of
@@ -284,7 +284,7 @@ export default function Ezekiel38() {
           Israel dwell safely, shall you not know it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is: despite the Antichrist invading
                 Israel and defeating her at the midpoint of the Great
                 Tribulation, thereby breaking his seven-year pact, still, due to
@@ -312,7 +312,7 @@ export default function Ezekiel38() {
           riding upon horses, a great company, and a mighty army{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the north parts do not refer to Russia, as some think, but
                 rather to Syria. In fact, the Antichrist [Gog] will come from
                 Syria; however, the Syria of Daniels Prophecies, of which this
@@ -332,7 +332,7 @@ export default function Ezekiel38() {
           eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the latter days, refers to the last of the last days, which
                 pertain to the present and near future. In other words, these
                 Prophecies have already begun to come to pass, and, with each
@@ -353,7 +353,7 @@ export default function Ezekiel38() {
           you against them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord is actually speaking here of the Prophecies given to
                 Ezekiel, of which this is one, as well as those of Isaiah,
                 Daniel, Zechariah, and others!)
@@ -372,7 +372,7 @@ export default function Ezekiel38() {
           Lord GOD, that My Fury shall come up in My Face.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, this is the Battle of Armageddon. My Fury shall
                 come up in My Face, corresponds to the statement of Zechariah [
                 <ScrollLink href="/zechariah-14" scrollToId="#filepos10737771">
@@ -395,7 +395,7 @@ export default function Ezekiel38() {
           shaking in the land of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great shaking in the Land of Israel can only transpire in
                 the Battle of Armageddon, and only by the Hand of the Lord)
               </span>
@@ -414,7 +414,7 @@ export default function Ezekiel38() {
           fall to the ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse pertains to the Second Coming, which will be the
                 most cataclysmic event in human history.)
               </span>
@@ -429,7 +429,7 @@ export default function Ezekiel38() {
           shall be against his brother.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This portrays the fact that the Lord has control over all
                 things!)
               </span>
@@ -445,7 +445,7 @@ export default function Ezekiel38() {
           and great hailstones, fire, and brimstone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse proclaims the fact that the Lord will use the
                 elements, over which neither the Antichrist nor any other man
                 has any control.)
@@ -461,7 +461,7 @@ export default function Ezekiel38() {
           they shall know that I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus will I magnify Myself, has reference to anger held in
                 check for a long time, and then exploding with a fury that
                 defies description.)

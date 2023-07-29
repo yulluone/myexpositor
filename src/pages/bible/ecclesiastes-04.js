@@ -18,7 +18,7 @@ export default function Ecclesiastes04() {
           oppressors there was power; but they had no comforter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter portrays a world that has banished God from its
                 life; consequently, there is confusion, ignorance, and misery.
                 Such characterizes most of the present world.
@@ -44,7 +44,7 @@ export default function Ecclesiastes04() {
           are already dead more than the living which are yet alive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The tragedy is that the dead, without God, do not end their
                 oppression but, in actuality, it increases, and forever.)
               </span>
@@ -59,7 +59,7 @@ export default function Ecclesiastes04() {
           under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon reasons, and despite his great Wisdom, that it would be
                 better that man not even be born; however, all of this is
                 reasoning without God. If, in fact, there were no God, no
@@ -85,7 +85,7 @@ export default function Ecclesiastes04() {
           is also vanity and vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Any work for God should be met with approval; however, it is
                 almost always, if not always, met with opposition. The reason is
                 envy or control. Men cannot control that which is of God;
@@ -104,7 +104,7 @@ export default function Ecclesiastes04() {
           and eats his own flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon observed that the man who, with grasping hand, enriched
                 himself by promoting himself, or else by robbing others, was a
                 fool, for he ate his own flesh, that is, opposed that which
@@ -120,7 +120,7 @@ export default function Ecclesiastes04() {
           than both the hands full with travail and vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Men are too quick to trade inner peace for things that add
                 nothing to ones life, but rather destroy it [Lk., Chpt.{" "}
                 <ScrollLink href="/luke-15" scrollToId="#filepos12047883">
@@ -142,7 +142,7 @@ export default function Ecclesiastes04() {
           under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Book of Ecclesiastes, more than any other book, proclaims
                 the vanity, foolishness, and folly of all of mans efforts.)
               </span>
@@ -159,7 +159,7 @@ export default function Ecclesiastes04() {
           also vanity, yes, it is a sore travail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon then observed what this constant quest of life without
                 God ultimately brought about. It brought an acute selfishness.)
               </span>
@@ -173,7 +173,7 @@ export default function Ecclesiastes04() {
           have a good reward for their labour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the action of this Verse, we further learn that it is not
                 good for man to be alone [
                 <ScrollLink href="/genesis-02" scrollToId="#filepos39090">
@@ -196,7 +196,7 @@ export default function Ecclesiastes04() {
           not another to help him up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Solomon says, Help him up.)
               </span>
             </span>
@@ -209,7 +209,7 @@ export default function Ecclesiastes04() {
           they have heat: but how can one be warm alone?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every effort is made by the Holy Spirit to show the value of
                 two rather than one. In all of the travels of the Apostle Paul,
                 he almost always took one or more with him, and for the obvious
@@ -225,7 +225,7 @@ export default function Ecclesiastes04() {
           shall withstand him; and a threefold cord is not quickly broken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The threefold cord proclaims the truth that the spiritual power
                 of two is more than double. Thats the reason it is so important
                 for two or more to agree together in prayer [
@@ -248,7 +248,7 @@ export default function Ecclesiastes04() {
           than an old and foolish king, who will no more be admonished.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words that were given by Solomon in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7107505">
                   <span className="calibre_19">
@@ -306,7 +306,7 @@ export default function Ecclesiastes04() {
           whereas also he who is born in his kingdom becomes poor.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeroboam was the poor but clever youth who came out of prison
                 and was made king. The great nation of Israel, then the greatest
                 on the face of the Earth, would now be split.)
@@ -322,7 +322,7 @@ export default function Ecclesiastes04() {
           stead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Solomon considered his son, Rehoboam, perhaps even then he
                 knew that Rehoboam had little relationship, if any, with the
                 Lord, and consequently would come to ruin, which he did.)
@@ -338,7 +338,7 @@ export default function Ecclesiastes04() {
           not rejoice in him. Surely this also is vanity and vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the investigator limits his observations to what takes place
                 under the sun, then is the conclusion indeed a just one that all
                 is vanity and a feeding upon wind.

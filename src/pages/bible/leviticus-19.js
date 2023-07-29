@@ -81,7 +81,7 @@ export default function Leviticus19() {
           and his father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(render due honor to parents)</span>
+              <span className="explanation">(render due honor to parents)</span>
             </span>
           </span>
           , and keep My Sabbaths: I am the LORD your God{" "}
@@ -194,7 +194,9 @@ export default function Leviticus19() {
           <sup className="calibre7">8</sup>Therefore everyone who eats it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(eats it after the second day)</span>
+              <span className="explanation">
+                (eats it after the second day)
+              </span>
             </span>
           </span>{" "}
           shall bear his iniquity{" "}
@@ -216,7 +218,7 @@ export default function Leviticus19() {
           : and that soul shall be cut off from among his people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(if he does not repent)</span>
+              <span className="explanation">(if he does not repent)</span>
             </span>
           </span>
         </span>
@@ -262,7 +264,7 @@ export default function Leviticus19() {
           falsely{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Eighth Commandment)</span>
+              <span className="explanation">(the Eighth Commandment)</span>
             </span>
           </span>
           , neither lie one to another{" "}
@@ -290,7 +292,7 @@ export default function Leviticus19() {
           falsely, neither shall you profane the Name of your God: I am the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Third Commandment)</span>
+              <span className="explanation">(the Third Commandment)</span>
             </span>
           </span>
         </span>
@@ -472,7 +474,7 @@ export default function Leviticus19() {
           woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sexual intercourse)</span>
+              <span className="explanation">(sexual intercourse)</span>
             </span>
           </span>
           , who is a bondmaid{" "}
@@ -496,13 +498,13 @@ export default function Leviticus19() {
           scourged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for committing this act)</span>
+              <span className="explanation">(for committing this act)</span>
             </span>
           </span>
           ; they shall not be put to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the man and the woman)</span>
+              <span className="explanation">(the man and the woman)</span>
             </span>
           </span>
           , because she was not free{" "}

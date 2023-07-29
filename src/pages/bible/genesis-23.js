@@ -18,7 +18,7 @@ export default function Genesis23() {
           twenty-seven years old: these were the years of the life of Sarah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sarah is the only woman in the Bible whose age, death, and
                 burial are recorded)
               </span>
@@ -34,7 +34,7 @@ export default function Genesis23() {
           Sarah, and to weep for her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, in the land of Canaan, is given regarding the place
                 of Sarahs death, in order that we might know that she did not
                 die in the country of the Philistines, but rather in the
@@ -74,7 +74,7 @@ export default function Genesis23() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was a confession of his real inheritance, a better
                 country, even an Heavenly [
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14561723">
@@ -92,7 +92,7 @@ export default function Genesis23() {
           dead out of my sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this request of the sons of Heth was a sign to Abraham of his
                 right and title to the land of Canaan, which the sons of Heth
                 would not have understood)
@@ -129,7 +129,7 @@ export default function Genesis23() {
           and intreat for me to Ephron the son of Zohar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had no idea that Abraham was looking forward to the
                 possession of the whole land; and because he did so look
                 forward, the possession of a grave was by no means a small
@@ -148,7 +148,7 @@ export default function Genesis23() {
           buryingplace among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the purchasing of Machpelah for a buryingplace, Abraham gave
                 expression to his Faith as it regards Resurrection. He stood up
                 from before his dead. Faith cannot long keep death in view; it
@@ -175,7 +175,7 @@ export default function Genesis23() {
           presence of the sons of my people I give it to you: bury your dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Canaanites had no idea of the expectations which were
                 giving character to Abrahams actions on this occasion)
               </span>
@@ -190,7 +190,7 @@ export default function Genesis23() {
           before the people of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His purchase of this tomb was not only a proof of his love for
                 Sarah, but a testimony to his belief that she would rise again
                 and with him possess the whole land, which, to be sure, he will
@@ -208,7 +208,7 @@ export default function Genesis23() {
           and I will bury my dead there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the first time that money is mentioned in the Bible as
                 a medium of exchange)
               </span>
@@ -230,7 +230,7 @@ export default function Genesis23() {
           you? bury therefore your dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the reason so much attention is given to this by the Holy
                 Spirit is because it proclaims the hope of Resurrection and the
                 inheritance founded thereon)
@@ -248,7 +248,7 @@ export default function Genesis23() {
           money with the merchant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while Abraham would pay the Canaanites for Machpelah, he would
                 look to the Lord for the entirety of the land of Canaan, which
                 most certainly one day will be his)
@@ -266,7 +266,7 @@ export default function Genesis23() {
           all the borders round about, were made sure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the cave of Machpelah, his own remains, and those of Isaac,
                 Rebekah, Jacob, and Leah were deposited; Rachel alone of the
                 great Patriarchal family was not buried here)
@@ -282,7 +282,7 @@ export default function Genesis23() {
           of his city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the bargain was sealed)</span>
+              <span className="explanation">(the bargain was sealed)</span>
             </span>
           </span>
         </span>
@@ -302,7 +302,7 @@ export default function Genesis23() {
           buryingplace by the sons of Heth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abrahams love for Sarah demanded an honored tomb for her
                 precious dust, and faith in respect of her furnishes a testimony
                 as to her resurrection. Love bent down over her sleeping face,

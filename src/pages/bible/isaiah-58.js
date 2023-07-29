@@ -17,7 +17,7 @@ export default function Isaiah58() {
           house of Jacob their sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, God directly addresses His People. He begins
                 with the question of sin. Isaiah was commanded to cry aloud,
                 referring to sin and, thereby, the guilt of Judah. He was to
@@ -50,7 +50,7 @@ export default function Isaiah58() {
           they take delight in approaching to God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Yet they seek Me daily, and delight to know My ways, presents
                 that which is all outward. We have here the representation of
                 people honoring God with their lips, but whose hearts were far
@@ -96,7 +96,7 @@ export default function Isaiah58() {
           exact all your labours.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fasting spoken of is probably that of the Great Day of
                 Atonement, the only fasting demanded in the Law, which consisted
                 of only one day [
@@ -142,7 +142,7 @@ export default function Isaiah58() {
           as you do this day, to make your voice to be heard on high.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrases, Fast for strife and contention and smite with the
                 fist of wickedness, mean to use religion as an instrument for
                 oppression. Pointblank God proclaims that He will not hear such
@@ -161,7 +161,7 @@ export default function Isaiah58() {
           this a fast, and an acceptable day to the LORD?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Isaiah probes deep here into the
                 hypocrisy of Judah by asking the question, Is it such a fast
                 that I have chosen? The Holy Spirit says that the fast that I
@@ -179,7 +179,7 @@ export default function Isaiah58() {
           and to let the oppressed go free, and that you break every yoke?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord was telling Judah through Isaiah that if they really
                 loved Him, and truly desired to serve Him, the ritualistic
                 observances would be secondary to the weightier matters of the
@@ -206,7 +206,7 @@ export default function Isaiah58() {
           yourself from your own flesh?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hide not yourself from your own flesh, refers to these ritual
                 keepers, who strictly observed, or thought they did, the Law,
                 while hiding themselves from the hurting, hungry, wounded, and
@@ -225,7 +225,7 @@ export default function Isaiah58() {
           rereward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To go Gods Way, which is the Way of His Word, brings about a
                 true experience with the Lord, i.e., then shall your light break
                 forth as the morning.
@@ -254,7 +254,7 @@ export default function Isaiah58() {
           and speaking vanity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in these Passages, the Lord pleads with His People, explaining
                 to them, as He would explain such to a child, the reasons their
                 prayers are not answered.
@@ -310,7 +310,7 @@ export default function Isaiah58() {
           obscurity, and your darkness be as the noonday.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that their profession must
                 translate into righteous action, which meant to help the poor
                 and hungry, etc.)
@@ -327,7 +327,7 @@ export default function Isaiah58() {
           water, whose waters fail not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It should be easy to see that the great things promised by the
                 Lord are so much more than the few things that He asks of Judah.
                 It is the same with us today. What little He asks of us is
@@ -346,7 +346,7 @@ export default function Isaiah58() {
           restorer of paths to dwell in.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The old waste places refer to that which had been ruined by
                 sin. A revival of the heart will change all of this.
               </span>
@@ -392,7 +392,7 @@ export default function Isaiah58() {
           own words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (under the Old Covenant, Israel was commanded to keep the
                 seventh day, which was Saturday. It was to be a day of rest
                 rather than so much as a day of worship. Under the New Covenant,
@@ -421,7 +421,7 @@ export default function Isaiah58() {
           mouth of the LORD has spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Then shall you delight yourself in the LORD, refer
                 to the Truth that if the relationship is heartfelt instead of
                 ritualistic, communion with Jehovah will be a real pleasure.

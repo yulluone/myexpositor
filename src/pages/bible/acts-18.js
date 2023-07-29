@@ -16,7 +16,7 @@ export default function Acts18() {
           Athens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to imply that he departed alone, with Silas and Timothy
                 joining him later at Corinth)
               </span>
@@ -25,7 +25,7 @@ export default function Acts18() {
           , and came to Corinth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one of the great cities of the Roman Empire)
               </span>
             </span>
@@ -39,7 +39,7 @@ export default function Acts18() {
           born in Pontus, lately come from Italy, with his wife Priscilla{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to a husband and wife who became very close friends to
                 Paul)
               </span>
@@ -48,7 +48,7 @@ export default function Acts18() {
           ; (because that Claudius had commanded all Jews to depart from Rome:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (believed to have occurred in about A.D. 49 or 50)
               </span>
             </span>
@@ -56,7 +56,7 @@ export default function Acts18() {
           and came unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul came to them)</span>
+              <span className="explanation">(Paul came to them)</span>
             </span>
           </span>
           .
@@ -68,7 +68,7 @@ export default function Acts18() {
           he abode with them, and wrought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently means that Paul had inquired concerning those
                 involved in this occupation)
               </span>
@@ -77,7 +77,7 @@ export default function Acts18() {
           : for by their occupation they were tentmakers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tentmakers wove the black cloth of goat or camels hair with
                 which tents were made)
               </span>
@@ -92,7 +92,7 @@ export default function Acts18() {
           every Sabbath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (preached Christ from the Old Testament)
               </span>
             </span>
@@ -100,7 +100,7 @@ export default function Acts18() {
           , and persuaded the Jews and the Greeks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his argument was ironclad)</span>
+              <span className="explanation">(his argument was ironclad)</span>
             </span>
           </span>
           .
@@ -115,7 +115,7 @@ export default function Acts18() {
           from Macedonia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably means that Silas had come from Berea, with Timothy
                 coming from Thessalonica; Macedonia was a Province which
                 included both places)
@@ -137,7 +137,7 @@ export default function Acts18() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit told him to bear down even harder!)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Acts18() {
           blasphemed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the response of some of these Jews to Pauls claim
                 that Christ was the Messiah)
               </span>
@@ -178,7 +178,7 @@ export default function Acts18() {
           clean{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, he had delivered his soul)
               </span>
             </span>
@@ -186,7 +186,7 @@ export default function Acts18() {
           : from henceforth I will go unto the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not mean that he would no longer minister to Jews if given
                 the opportunity, which he did do at Ephesus [
                 <ScrollLink href="/acts-19" scrollToId="#filepos13111228">
@@ -211,7 +211,7 @@ export default function Acts18() {
           <sup className="calibre7">7</sup>And he departed thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(out of the Synagogue)</span>
+              <span className="explanation">(out of the Synagogue)</span>
             </span>
           </span>
           , and entered into a certain{" "}
@@ -223,7 +223,7 @@ export default function Acts18() {
           house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a meeting place for Church)</span>
+              <span className="explanation">(a meeting place for Church)</span>
             </span>
           </span>
           , named Justus,{" "}
@@ -235,7 +235,7 @@ export default function Acts18() {
           who worshipped God, whose house joined hard to the Synagogue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently points to Justus in the recent past as having
                 accepted Christ under Pauls Ministry)
               </span>
@@ -250,7 +250,7 @@ export default function Acts18() {
           Synagogue, believed on the Lord with all his house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this must have been galling to the Jews to have their Chief
                 Ruler of the Synagogue converted to Christ)
               </span>
@@ -259,7 +259,7 @@ export default function Acts18() {
           ; and many of the Corinthians hearing believed, and were baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of many Gentiles now being saved)
               </span>
             </span>
@@ -273,7 +273,7 @@ export default function Acts18() {
           night by a Vision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not clarify whether Paul saw the Lord, or only heard Him
                 speak? it being a Vision implies that he was awake)
               </span>
@@ -282,7 +282,7 @@ export default function Acts18() {
           , Be not afraid, but speak, and hold not your peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there evidently was fear in Pauls heart regarding the
                 tremendous opposition against him; he was told by the Lord to
                 speak with boldness)
@@ -298,7 +298,7 @@ export default function Acts18() {
           set on you to hurt you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks to the idea that Paul had threats on his life, threats
                 which were not empty, but rather deadly serious)
               </span>
@@ -307,7 +307,7 @@ export default function Acts18() {
           : for I have much people in this city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the great Church which will be raised up at Corinth)
               </span>
             </span>
@@ -326,7 +326,7 @@ export default function Acts18() {
           a year and six months, teaching the Word of God among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (records the longest time that Paul spent in any place other
                 than Ephesus, where he spent some three years)
               </span>
@@ -341,7 +341,7 @@ export default function Acts18() {
           Achaia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that he was Proconsul in A.D. 52-53)
               </span>
             </span>
@@ -350,7 +350,7 @@ export default function Acts18() {
           brought him to the judgment seat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jews had no power to punish any person in a Roman Province, so
                 they were obliged to bring Paul before the Roman Governor)
               </span>
@@ -370,7 +370,7 @@ export default function Acts18() {
           persuades men to worship God contrary to the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not pertain to Roman Law as some claim, but rather the Law
                 of Moses)
               </span>
@@ -390,7 +390,7 @@ export default function Acts18() {
           mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to him waiting for his accusers to cease their tirade
                 against him)
               </span>
@@ -399,7 +399,7 @@ export default function Acts18() {
           , Gallio said unto the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Proconsul interrupting Paul)
               </span>
             </span>
@@ -413,7 +413,7 @@ export default function Acts18() {
           Jews, reason would that I should bear with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Governor putting everything in its proper
                 perspective immediately!)
               </span>
@@ -457,7 +457,7 @@ export default function Acts18() {
           seat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies the humiliating dismissal of the case, without even
                 being tried or further heard)
               </span>
@@ -472,7 +472,7 @@ export default function Acts18() {
           the Chief Ruler of the Synagogue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the man who took the place of Crispus, with the latter
                 having given his heart to the Lord)
               </span>
@@ -487,7 +487,7 @@ export default function Acts18() {
           before the judgment seat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gives us little clue as to why this was done, unless they had
                 refused to dissemble)
               </span>
@@ -496,7 +496,7 @@ export default function Acts18() {
           . And Gallio cared for none of those things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that he considered the whole matter outside his
                 jurisdiction)
               </span>
@@ -525,7 +525,7 @@ export default function Acts18() {
           yet a good while{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could have referred to several months)
               </span>
             </span>
@@ -533,7 +533,7 @@ export default function Acts18() {
           , and then took his leave of the Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was done strictly according to the timing of the Lord)
               </span>
             </span>
@@ -541,7 +541,7 @@ export default function Acts18() {
           , and sailed thence into Syria, and with him Priscilla and Aquila{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they had now become fast friends of Paul)
               </span>
             </span>
@@ -555,7 +555,7 @@ export default function Acts18() {
           head in Cenchrea: for he had a vow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cenchrea was the Port of Corinth; there was a Church there as
                 well; we arent told what this vow was)
               </span>
@@ -569,7 +569,7 @@ export default function Acts18() {
           <sup className="calibre7">19</sup>And he came to Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ephesus was the most important city in the Roman Province of
                 Asia)
               </span>
@@ -578,7 +578,7 @@ export default function Acts18() {
           , and left them there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with Priscilla and Acquila remaining in Ephesus when
                 Paul left some days later)
               </span>
@@ -588,7 +588,7 @@ export default function Acts18() {
           Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has no reference to the previous phrase; no doubt, Priscilla
                 and Acquila were with him during this meeting)
               </span>
@@ -602,7 +602,7 @@ export default function Acts18() {
           <sup className="calibre7">20</sup>When they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Jews in the Synagogue)</span>
+              <span className="explanation">(the Jews in the Synagogue)</span>
             </span>
           </span>{" "}
           desired{" "}
@@ -614,7 +614,7 @@ export default function Acts18() {
           to tarry longer time with them, he consented not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul left, but Priscilla and Acquila remained and, no doubt,
                 continued teaching these Jews about Christ)
               </span>
@@ -631,7 +631,7 @@ export default function Acts18() {
           <sup className="calibre7">21</sup>But bade them farewell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Priscilla and Acquila, and possibly some few Jews who
                 had accepted Christ)
               </span>
@@ -640,13 +640,13 @@ export default function Acts18() {
           , saying, I must by all means keep this Feast that comes in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably was the Passover)</span>
+              <span className="explanation">(probably was the Passover)</span>
             </span>
           </span>
           : but I will return again unto you, if God will{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the manner in which all Believers should conduct
                 everything)
               </span>
@@ -655,7 +655,7 @@ export default function Acts18() {
           . And he sailed from Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places him on his way to Jerusalem)
               </span>
             </span>
@@ -668,7 +668,7 @@ export default function Acts18() {
           <sup className="calibre7">22</sup>And when he had landed at Caesarea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (puts him about sixty-five miles northwest of Jerusalem)
               </span>
             </span>
@@ -676,7 +676,7 @@ export default function Acts18() {
           , and gone up, and saluted the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Mother Church at Jerusalem)
               </span>
             </span>
@@ -684,7 +684,7 @@ export default function Acts18() {
           , he went down to Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Antioch, Syria)</span>
+              <span className="explanation">(refers to Antioch, Syria)</span>
             </span>
           </span>
           .
@@ -704,7 +704,7 @@ export default function Acts18() {
           he departed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the beginning of his Third Missionary Journey)
               </span>
             </span>
@@ -719,7 +719,7 @@ export default function Acts18() {
           Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably lasted about six months; it is believed that Timothy,
                 Erastus, Gaius, and Aristarchus may have been traveling with
                 Paul at this time; Titus may have been included as well)
@@ -744,7 +744,7 @@ export default function Acts18() {
           mighty in the Scriptures, came to Ephesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (introduces a man whom Paul came to hold in high esteem)
               </span>
             </span>
@@ -758,7 +758,7 @@ export default function Acts18() {
           of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, his knowledge was greatly limited respecting Grace and
                 the Baptism with the Holy Spirit)
               </span>
@@ -767,7 +767,7 @@ export default function Acts18() {
           ; and being fervent in the spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (spoke of his own spirit and not the Holy Spirit)
               </span>
             </span>
@@ -776,7 +776,7 @@ export default function Acts18() {
           the Baptism of John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Repentance and Water Baptism)
               </span>
             </span>
@@ -790,7 +790,7 @@ export default function Acts18() {
           Synagogue: whom when Aquila and Priscilla had heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which was all in the providence of God)
               </span>
             </span>
@@ -804,7 +804,7 @@ export default function Acts18() {
           and expounded unto him the Way of God more perfectly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no doubt pertained to the full complement of Salvation by the
                 Grace of God exclusively, correct Water Baptism, and the Baptism
                 with the Holy Spirit with the evidence of speaking with other
@@ -820,13 +820,13 @@ export default function Acts18() {
           <sup className="calibre7">27</sup>And when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Apollos)</span>
+              <span className="explanation">(Apollos)</span>
             </span>
           </span>{" "}
           was disposed to pass into Achaia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Greece, across the Aegean Sea, and Corinth in
                 particular)
               </span>
@@ -836,7 +836,7 @@ export default function Acts18() {
           when he was come, helped them much which had believed through Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he is now proficient in this most excellent Message of the
                 Grace of God that comes through the Cross)
               </span>
@@ -856,7 +856,7 @@ export default function Acts18() {
           publickly, showing by the Scriptures that Jesus was Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had reference more than likely to ministering in their
                 Synagogue)
               </span>

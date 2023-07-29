@@ -55,7 +55,7 @@ export default function Job21() {
           your hand upon your mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in other words, hear me out)</span>
+              <span className="explanation">(in other words, hear me out)</span>
             </span>
           </span>
           .
@@ -111,7 +111,7 @@ export default function Job21() {
           neither is the rod of God upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and that is true)</span>
+              <span className="explanation">(and that is true)</span>
             </span>
           </span>
           .
@@ -238,7 +238,7 @@ export default function Job21() {
           children: He rewards him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with evil)</span>
+              <span className="explanation">(with evil)</span>
             </span>
           </span>
           , and he shall know it.{" "}
@@ -260,7 +260,7 @@ export default function Job21() {
           and he shall drink of the wrath of the Almighty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and so many do)</span>
+              <span className="explanation">(and so many do)</span>
             </span>
           </span>
           .

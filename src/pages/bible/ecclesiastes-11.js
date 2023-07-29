@@ -16,7 +16,7 @@ export default function Ecclesiastes11() {
           you shall find it after many days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We have here the Promise of the Lord that every Blessing
                 Promised will be fulfilled, even though some of the fulfillment
                 may be after many days. We are not to lose faith. The guarantee
@@ -32,7 +32,7 @@ export default function Ecclesiastes11() {
           eight; for you know not what evil shall be upon the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The number seven is Gods number of Perfection. We are to give
                 this Perfect Gospel to others. The number eight is the number of
                 Resurrection. There is only one Gospel in the world that will
@@ -54,7 +54,7 @@ export default function Ecclesiastes11() {
           t shall be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whatever position in which the Christian finds himself is an
                 opportunity for the Blessings of the Lord, irrespective as to
                 what that position might be. Many Christians always try to put
@@ -73,7 +73,7 @@ export default function Ecclesiastes11() {
           sow; and he who regards the clouds shall not reap.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Christian who looks at circumstances, adverse situations,
                 negatives, or any other so-called hindrance, is not exercising
                 faith. We should sow and expect to reap.)
@@ -89,7 +89,7 @@ export default function Ecclesiastes11() {
           child: even so you know not the Works of God Who makes all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the Holy Spirit tells us that it is useless to
                 try to find out exactly how God does things. His Power is
                 infinite.
@@ -127,7 +127,7 @@ export default function Ecclesiastes11() {
           good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Men exhibit great faith in the system of this world, even
                 though they have absolutely no certainty of success or
                 prosperity. Surely, the Holy Spirit says, we can exhibit as much
@@ -150,7 +150,7 @@ export default function Ecclesiastes11() {
           they shall be many. All that comes is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Verses testify that youth and mature age, however richly
                 provided with pleasures, are bound to lead to decrepitude and
                 death; they are, therefore, vanity of vanities, if God be
@@ -171,7 +171,7 @@ export default function Ecclesiastes11() {
           that for all these things God will bring you into judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the young man is to rejoice in his youth, he is to always
                 remember that sooner or later a Judgment Day is coming.
                 Consequently, one should live ones life with that Judgment Day
@@ -188,7 +188,7 @@ export default function Ecclesiastes11() {
           vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All dreams of early childhood outside of the Lord are vanity.)
               </span>
             </span>

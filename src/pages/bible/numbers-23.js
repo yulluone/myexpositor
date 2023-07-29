@@ -77,13 +77,13 @@ export default function Numbers23() {
           : and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Balaam)</span>
+              <span className="explanation">(Balaam)</span>
             </span>
           </span>{" "}
           said unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>
           , I have prepared seven altars, and I have offered upon every altar a
@@ -113,13 +113,13 @@ export default function Numbers23() {
           <sup className="calibre7">6</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Balaam)</span>
+              <span className="explanation">(Balaam)</span>
             </span>
           </span>{" "}
           returned unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Balak)</span>
+              <span className="explanation">(Balak)</span>
             </span>
           </span>
           , and, lo, he stood by his burnt sacrifice, he, and all the princes of
@@ -362,7 +362,7 @@ export default function Numbers23() {
           : the LORD his God is with him, and the shout of a king is among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is that King)</span>
+              <span className="explanation">(Christ is that King)</span>
             </span>
           </span>
         </span>
@@ -373,7 +373,7 @@ export default function Numbers23() {
           <sup className="calibre7">22</sup>God brought them out of Egypt; he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           has as it were the strength of an unicorn{" "}

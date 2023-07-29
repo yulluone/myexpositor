@@ -18,7 +18,7 @@ export default function Hosea02() {
           to your sisters, Ruhamah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These words are addressed to a small company of true Believers,
                 which was then ensconced in backslidden Israel, and which the
                 Lord has in all ages, and which is here distinguished by the
@@ -37,7 +37,7 @@ export default function Hosea02() {
           her breasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Plead with your mother, plead, speaks of the whole people of
                 Israel taken together as a national unit. The pleading to Israel
                 is to be done by those who still love and serve their Lord. In
@@ -71,7 +71,7 @@ export default function Hosea02() {
           her like a dry land, and slay her with thirst.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to the fact that Gomer, rather than
                 gaining prosperity, was instead reduced to abject poverty, as
                 future Verses will portray.)
@@ -86,7 +86,7 @@ export default function Hosea02() {
           children; for they be the children of whoredoms.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The nation as a whole with its body politic is spoken of as the
                 parent. Its citizenry is spoken of as the children. The children
                 proved themselves to be no better than the mother who bore them;
@@ -104,7 +104,7 @@ export default function Hosea02() {
           and my flax, my oil and my drink.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Likewise, Israel, of which Gomer was a symbol, ran after her
                 lovers, who were the Assyrians and the Egyptians. As a result,
                 Israel worshipped the idols of these heathen nations, and also
@@ -122,7 +122,7 @@ export default function Hosea02() {
           paths.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both Gomer and Israel had avowed their determination to pursue
                 their evil course shamefully and sinfully, as if in despite and
                 defiance of the Almighty; consequently, the Lord affirms His
@@ -140,7 +140,7 @@ export default function Hosea02() {
           first husband; for then was it better with me than now.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Partially so, regarding Israel, of which Gomer was a type, this
                 Scripture was fulfilled about 200 years later, with some of
                 Israel returning with Judah from Babylonian captivity; however,
@@ -158,7 +158,7 @@ export default function Hosea02() {
           they prepared for Baal.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For she did not know that I gave..., portrays an unnecessary
                 Spiritual ignorance. Israel forgot that the great Blessings she
                 was showered with came from Jehovah. She claimed them as hers,
@@ -177,7 +177,7 @@ export default function Hosea02() {
           and will recover My Wool and My Flax given to cover her nakedness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The action here is one of chastisement and, therefore, of love,
                 for the Lord chastises those He loves [
                 <ScrollLink href="/hebrews-12" scrollToId="#filepos14579237">
@@ -199,7 +199,7 @@ export default function Hosea02() {
           in the sight of her lovers, and none shall deliver her out of My Hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel would find that none of her idols could deliver her from
                 the Assyrians, which would take her captive.)
               </span>
@@ -214,7 +214,7 @@ export default function Hosea02() {
           solemn feasts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Israel had said by her actions that she did not desire these
                 things, which in truth were the cause of her blessings, the Lord
                 in turn would remove her to where there would be no opportunity
@@ -232,7 +232,7 @@ export default function Hosea02() {
           field shall eat them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Israel had forgotten Who truly was the Source of her
                 prosperity, even attributing such to idols, the Lord would take
                 away their prosperity. Then she would be made to see as to
@@ -251,7 +251,7 @@ export default function Hosea02() {
           forgot Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will visit upon her the days of Baalim, simply means I
                 will punish them for serving Baal. The name of Baal came to be
                 used generally as the designation of any idol or false god;
@@ -273,7 +273,7 @@ export default function Hosea02() {
           her.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The balance of the Verses of this Chapter predict the
                 restoration of Israel under the Covenant of Grace as opposed to
                 that of Law. The nation is pictured as a faithless and debauched
@@ -295,7 +295,7 @@ export default function Hosea02() {
           came up out of the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will give her her vineyards from thence, signifies that
                 the way to the vineyards is through the wilderness. Spiritual
                 discipline precedes blessing and fits it for joy. Hence, the
@@ -361,7 +361,7 @@ export default function Hosea02() {
           Baali.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Ishi means my Husband, while the word Baali means my
                 Lord. In other words, Israel will no more refer to Baal as her
                 Lord, but will rightly serve Jehovah.)
@@ -377,7 +377,7 @@ export default function Hosea02() {
           name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The names of Baal shall become so abhorrent to blood-washed
                 Israel that they shall pass away at once from their mouths and
                 from their memories, never more to be mentioned and never more
@@ -396,7 +396,7 @@ export default function Hosea02() {
           them to lie down safely.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And in that day will I make a Covenant for them, refers to the
                 New Covenant, which Israel will accept immediately after the
                 Second Coming. At that time, there will be no more war, which
@@ -414,7 +414,7 @@ export default function Hosea02() {
           judgment, and in lovingkindness, and in mercies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This betrothal between the Lord and Israel will take place
                 immediately after the Second Coming of Christ. Israel will then
                 accept Him, not only as Saviour, but also as Messiah and Lord.)
@@ -429,7 +429,7 @@ export default function Hosea02() {
           faithfulness: and you shall know the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall know the LORD, means that all evils come from not
                 knowing Him [
                 <ScrollLink href="/isaiah-01" scrollToId="#filepos7263187">
@@ -468,7 +468,7 @@ export default function Hosea02() {
           shall hear the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of the Earth that shall be full of the knowledge of
                 the LORD, as the waters cover the sea [
                 <ScrollLink href="/isaiah-11" scrollToId="#filepos7401648">
@@ -491,7 +491,7 @@ export default function Hosea02() {
           and the wine, and the oil; and they shall hear Jezreel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whereas the name Jezreel pertained to judgment when originally
                 given, now it refers to the very opposite. Whereas the Lord
                 scattered and sowed Israel in heathen lands, now He scatters and
@@ -511,7 +511,7 @@ export default function Hosea02() {
           they shall say, You are my God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was Lo-ruhamah and Lo-ammi, meaning no more mercy and
                 not My People. Now, Israel will become Ruhamah, i.e., pitied
                 one, and Ammi, i.e., My People.

@@ -36,7 +36,7 @@ export default function John21() {
           , whom I love in the truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Love of God)</span>
+              <span className="explanation">(refers to the Love of God)</span>
             </span>
           </span>
           ; and not I only, but also all they who have known the Truth{" "}
@@ -56,13 +56,13 @@ export default function John21() {
           <sup className="calibre7">2</sup>For the truths sake, which dwells{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love is a product of Truth)</span>
+              <span className="explanation">(love is a product of Truth)</span>
             </span>
           </span>{" "}
           in us, and shall be with us forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Truth cannot change.)</span>
+              <span className="explanation">(Truth cannot change.)</span>
             </span>
           </span>
         </span>
@@ -171,7 +171,7 @@ export default function John21() {
           , who confess not that Jesus Christ is come in the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a denial of the Incarnation)</span>
+              <span className="explanation">(a denial of the Incarnation)</span>
             </span>
           </span>
           . This is a deceiver and an Antichrist.{" "}

@@ -42,7 +42,7 @@ export default function Deuteronmy24() {
           inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Pulpit says, This is not a law sanctioning or
                 regulating divorce; this is simply assumed as what might occur;
                 and what is regulated here is the treatment by the first husband
@@ -67,7 +67,7 @@ export default function Deuteronmy24() {
           his wife which he has taken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this proclaims the fact that family life in Israel was very
                 important, hence this regulation)
               </span>
@@ -85,7 +85,7 @@ export default function Deuteronmy24() {
           upper millstone to pledge: for he takes a mans life to pledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if a man were deprived of that by which food for the sustaining
                 of life could be prepared, his life itself would be imperiled;
                 so such an item could not be used as a pledge or mortgage)
@@ -104,14 +104,14 @@ export default function Deuteronmy24() {
           brethren of the children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(kidnapping)</span>
+              <span className="explanation">(kidnapping)</span>
             </span>
           </span>
           , and makes merchandise of him, or sells him; then that thief shall
           die; and you shall put evil away from among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the penalty for kidnapping was death)
               </span>
             </span>
@@ -136,7 +136,7 @@ export default function Deuteronmy24() {
           unto Miriam by the way, after that you were come forth out of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lev., Chpts.{" "}
                 <ScrollLink href="/leviticus-13" scrollToId="#filepos1442933">
                   <span className="calibre_19">
@@ -167,7 +167,7 @@ export default function Deuteronmy24() {
           to whom you do lend shall bring out the pledge abroad unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerns someone who had borrowed a sum of money on
                 something in his house, such as furniture, etc. If he could not
                 pay the money, the one to whom the mortgage was given could not
@@ -183,7 +183,7 @@ export default function Deuteronmy24() {
           not sleep with his pledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning one who had pledged his garment)
               </span>
             </span>
@@ -199,7 +199,7 @@ export default function Deuteronmy24() {
           the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, The spirit of all these ordinances is very
                 touching as showing the goodness and pity of God, Who deigns to
                 take knowledge of all these things, and to teach His People
@@ -220,7 +220,7 @@ export default function Deuteronmy24() {
           your strangers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           who are in your land within your gates:
@@ -232,7 +232,7 @@ export default function Deuteronmy24() {
           hire, neither shall the sun go down upon it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the end of each days work, the wages for the day were to be
                 paid to day laborers)
               </span>
@@ -252,7 +252,7 @@ export default function Deuteronmy24() {
           the fathers: every man shall be put to death for his own sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage completely obliterates the modern false teaching
                 of the family curse)
               </span>
@@ -278,7 +278,7 @@ export default function Deuteronmy24() {
           therefore I command you to do this thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to enforce this, the people are reminded that they themselves
                 as a Nation had been in the condition of strangers and bondmen
                 in Egypt)
@@ -300,7 +300,7 @@ export default function Deuteronmy24() {
           work of your hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a sense, this was at least a part of Gods welfare program)
               </span>
             </span>
@@ -315,7 +315,9 @@ export default function Deuteronmy24() {
           the fatherless, and for the widow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(leave something for the poor)</span>
+              <span className="explanation">
+                (leave something for the poor)
+              </span>
             </span>
           </span>
         </span>

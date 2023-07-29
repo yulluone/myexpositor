@@ -215,7 +215,7 @@ export default function Leviticus27() {
           unto it, and it shall be his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the vow will be satisfied)</span>
+              <span className="explanation">(the vow will be satisfied)</span>
             </span>
           </span>
         </span>
@@ -269,7 +269,7 @@ export default function Leviticus27() {
           <sup className="calibre7">19</sup>And if he who sanctified the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(vowed the field)</span>
+              <span className="explanation">(vowed the field)</span>
             </span>
           </span>{" "}
           will in any wise redeem it, then he shall add the fifth part of the
@@ -299,7 +299,7 @@ export default function Leviticus27() {
           the Jubilee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the time runs out)</span>
+              <span className="explanation">(the time runs out)</span>
             </span>
           </span>
           , shall be holy unto the LORD, as a field devoted; the possession
@@ -400,7 +400,9 @@ export default function Leviticus27() {
           then he shall redeem it according to your estimation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the estimation of the Priest)</span>
+              <span className="explanation">
+                (the estimation of the Priest)
+              </span>
             </span>
           </span>
           , and shall add a fifth part of it thereto: or if it be not redeemed,
@@ -483,7 +485,7 @@ export default function Leviticus27() {
           <sup className="calibre7">30</sup>And all the tithe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(10 percent)</span>
+              <span className="explanation">(10 percent)</span>
             </span>
           </span>{" "}
           of the land, whether of the seed of the land, or of the fruit of the

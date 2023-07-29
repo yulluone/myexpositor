@@ -24,7 +24,7 @@ export default function Deuteronmy15() {
           because it is called the LORDs release.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This didnt mean that the debt was no longer owed, but only that
                 the debtor on the seventh year was not to be pressed for
                 payment. As during the Sabbatical year the land lay
@@ -41,7 +41,7 @@ export default function Deuteronmy15() {
           <sup className="calibre7">3</sup>Of a foreigner you may exact it again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that this law did not apply to the foreigner)
               </span>
             </span>
@@ -56,7 +56,7 @@ export default function Deuteronmy15() {
           LORD your God gives you for an inheritance to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord wants to bless His People, that all poverty be erased;
                 and if Gods People will wholly follow Him, rendering obedience,
                 it will be erased, because this is the Will of the Lord; this
@@ -82,7 +82,7 @@ export default function Deuteronmy15() {
           reign over you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, if the Lords People would carefully hearken
                 unto the Lord, they would be the most blessed nation on Earth;
                 that was Gods intention, but, regrettably, Israel did the very
@@ -104,7 +104,7 @@ export default function Deuteronmy15() {
           your hand from your poor brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite the Promise of great Blessing, regrettably, many simply
                 would not hearken unto the Voice of the Lord, but would rather
                 hearken unto their own voice, or the voice of others; in one way
@@ -122,7 +122,7 @@ export default function Deuteronmy15() {
           which he wants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (faith-filled Believers are to be generous)
               </span>
             </span>
@@ -139,7 +139,7 @@ export default function Deuteronmy15() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, dont take advantage of the seventh year to
                 refuse to lend money to one in need, just because its the sixth
                 year; to conduct oneself in a greedy manner constitutes sin)
@@ -157,7 +157,7 @@ export default function Deuteronmy15() {
           all that you put your hand unto{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if those in Israel wanted the Blessings of the Lord, they must
                 obey the Lord, seeking diligently to carry out His Word)
               </span>
@@ -172,7 +172,7 @@ export default function Deuteronmy15() {
           of the land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite the Promises of God, regrettably, some will not
                 properly heed)
               </span>
@@ -182,7 +182,7 @@ export default function Deuteronmy15() {
           your brother, to your poor, and to your needy, in your land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israels welfare program was the third year of tithing the
                 produce of the entirety of the land, to be given to the poor and
                 needy, along with the Levites. Not failing this and, as well,
@@ -224,7 +224,7 @@ export default function Deuteronmy15() {
           therefore I command you this thing to day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The unchanging motive, perpetually repeated, why Israel should
                 be compassionate to the needy and to strangers was the
                 remembrance of their own bondage in Egypt and the Grace that
@@ -243,7 +243,7 @@ export default function Deuteronmy15() {
           because he is well with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, the servant doesnt want to be set free, because
                 he is being treated right, and desires to remain where he is)
               </span>
@@ -258,13 +258,13 @@ export default function Deuteronmy15() {
           thrust it through his ear unto the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the doorframe)</span>
+              <span className="explanation">(the doorframe)</span>
             </span>
           </span>
           , and he shall be your servant for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but he does so voluntarily, and proven by the mark left by the
                 aul)
               </span>
@@ -299,7 +299,7 @@ export default function Deuteronmy15() {
           and your household.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The firstborn of the flock, whatever it might be, that is, if
                 it is healthy, must not be used for commerce of any nature. It
                 must be taken to the Sanctuary, and offered in Sacrifice, with
@@ -323,7 +323,7 @@ export default function Deuteronmy15() {
           and as the hart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it can be used as common food)
               </span>
             </span>
@@ -337,7 +337,7 @@ export default function Deuteronmy15() {
           thereof; you shall pour it upon the ground as water{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this law was given concerning the firstborn of animals as a
                 portrayal of Christ, Who would be the firstborn among many
                 brethren, which referred to Him being the Author of all

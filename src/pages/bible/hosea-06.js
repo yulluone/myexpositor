@@ -19,7 +19,7 @@ export default function Hosea06() {
           will bind us up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of Israel, in the last half of the Great
                 Tribulation, under great persecution finally turning back to the
                 Lord. And how do we know that? We know it because Israel as a
@@ -45,7 +45,7 @@ export default function Hosea06() {
           the third day He will raise us up, and we shall live in His Sight.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse could very well apply prophetically to the period of
                 Israels subjection, affliction, and Restoration. Her subjection
                 has lasted 2,000 years, or nearly so [two days], and her
@@ -89,7 +89,7 @@ export default function Hosea06() {
           Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His going forth is prepared as the morning, signals that His
                 Second Coming is fixed as surely as the morning is eternally
                 fixed to come at a certain time daily.
@@ -132,7 +132,7 @@ export default function Hosea06() {
           cloud, and as the early dew it goes away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, What shall I do unto you?, refers to the Lord
                 using every possible method to turn both kingdoms around, but to
                 no avail. For your goodness is as a morning cloud, and as the
@@ -158,7 +158,7 @@ export default function Hosea06() {
           judgments are as the light that goes forth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore have I hewed them by the Prophets, is a figurative
                 statement borrowed from the hewing of hard wood and shaping it
                 so as to assume the required form. Despite the powerful
@@ -201,7 +201,7 @@ export default function Hosea06() {
           sacrifice; and the knowledge of God more than Burnt Offerings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage was quoted in part by Christ [
                 <ScrollLink href="/matthew-09" scrollToId="#filepos10955840">
                   <span className="calibre_19">
@@ -231,7 +231,7 @@ export default function Hosea06() {
           the Covenant: there have they dealt treacherously against Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word men in the Hebrew is Adam and should have been
                 translated accordingly. The Covenant spoken of concerns the
                 prohibition respecting the forbidden fruit. Adams children, like
@@ -251,7 +251,7 @@ export default function Hosea06() {
           iniquity, and is polluted with blood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The area of Gilead consists of the east side of the Jordan. In
                 the New Testament, it is spoken of under the name of Perea.
                 Jeremiah would say, Is there no balm in Gilead...? [
@@ -275,7 +275,7 @@ export default function Hosea06() {
           commit lewdness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gilead was also known as Ramoth Gilead. It had been originally
                 chosen by the Lord as a City of Refuge. Now it was a city of
                 workers of iniquity and the road to it was tracked with blood.
@@ -304,7 +304,7 @@ export default function Hosea06() {
           House of Israel: there is the whoredom of Ephraim, Israel is defiled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The whoredom of Ephraim was idol worship. God calls it an
                 horrible thing.)
               </span>
@@ -318,7 +318,7 @@ export default function Hosea06() {
           for you, when I returned the captivity of My People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse spans a length of time all the way to
                 the coming Great Tribulation. That will be the harvest of wrath,
                 which will come upon Judah at that time. When I return the

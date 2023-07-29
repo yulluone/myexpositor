@@ -71,13 +71,13 @@ export default function Numbers35() {
           <sup className="calibre7">3</sup>And the cities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(48)</span>
+              <span className="explanation">(48)</span>
             </span>
           </span>{" "}
           shall they have to dwell in; and the suburbs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(surrounding land)</span>
+              <span className="explanation">(surrounding land)</span>
             </span>
           </span>{" "}
           of them shall be for their cattle, and for their goods, and for all
@@ -91,7 +91,7 @@ export default function Numbers35() {
           and outward a thousand cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(1,500 feet)</span>
+              <span className="explanation">(1,500 feet)</span>
             </span>
           </span>{" "}
           round about{" "}
@@ -113,7 +113,7 @@ export default function Numbers35() {
           the city on the east side two thousand cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(3,000 feet)</span>
+              <span className="explanation">(3,000 feet)</span>
             </span>
           </span>
           , and on the south side two thousand cubits, and on the west side two
@@ -228,7 +228,7 @@ export default function Numbers35() {
           kills any person at unawares{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accidentally)</span>
+              <span className="explanation">(accidentally)</span>
             </span>
           </span>
         </span>
@@ -278,14 +278,14 @@ export default function Numbers35() {
           both for the Children of Israel, and for the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , and for the sojourner among them: that everyone who kills any person
           unawares{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(accidentally)</span>
+              <span className="explanation">(accidentally)</span>
             </span>
           </span>{" "}
           may flee thither.{" "}
@@ -376,7 +376,7 @@ export default function Numbers35() {
           not his enemy, neither sought his harm{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was done accidentally)</span>
+              <span className="explanation">(was done accidentally)</span>
             </span>
           </span>
         </span>
@@ -389,7 +389,7 @@ export default function Numbers35() {
           judgments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a trial was to be conducted)</span>
+              <span className="explanation">(a trial was to be conducted)</span>
             </span>
           </span>
           :

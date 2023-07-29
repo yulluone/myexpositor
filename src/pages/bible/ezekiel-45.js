@@ -21,7 +21,7 @@ export default function Ezekiel45() {
           This shall be holy in all the borders thereof round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos9680176">
                   <span className="calibre_19">
@@ -48,7 +48,7 @@ export default function Ezekiel45() {
           round about; and fifty cubits round about for the suburbs thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is probably referring to the Outer Court, which is 750
                 feet square. This area includes not only the Outer Court, but
                 the Inner Court, as well as the Temple and Altar area. All of it
@@ -102,7 +102,7 @@ export default function Ezekiel45() {
           thousand: and in it shall be the Sanctuary and the Most Holy Place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this area, some 42 miles long and 17 miles wide, the
                 Sanctuary and Most Holy Place will be situated.)
               </span>
@@ -118,7 +118,7 @@ export default function Ezekiel45() {
           and an Holy Place for the Sanctuary.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This area will be occupied not only by the Sanctuary, but also
                 by the houses of the Priests.)
               </span>
@@ -134,7 +134,7 @@ export default function Ezekiel45() {
           twenty Chambers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The portion of the Levites, forty-two miles long and seventeen
                 miles wide, will be the same as the portion of the Priests. All
                 Priests were Levites, but all Levites were not Priests.)
@@ -151,7 +151,7 @@ export default function Ezekiel45() {
           whole House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage represents a third tract of territory exclusively
                 for Jerusalem itself. It is about forty-two miles long and about
                 eight and a half miles wide, which constitutes a rather large
@@ -175,7 +175,7 @@ export default function Ezekiel45() {
           east border.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (From the description, it seems like the portion for the Prince
                 will lie on both sides of the Holy Portion, or the portions of
                 the Priests and the Levites. Even though the Scripture is not
@@ -204,7 +204,7 @@ export default function Ezekiel45() {
           their Tribes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture should read, As touching the Land, this shall be
                 his possession in Israel, i.e., the Prince shall have no Land
                 other than these two portions.)
@@ -221,7 +221,7 @@ export default function Ezekiel45() {
           says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prince is to set the example for the entirety of the world,
                 which he will do under Christ. And for the first time, the
                 entirety of the world will know fairness, honesty, and integrity
@@ -255,7 +255,7 @@ export default function Ezekiel45() {
           shall be your maneh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of these Passages is to portray a justice system which
                 cannot be bought, bribed, or set aside. In other words, there
                 will be no favoritism! The ephah and bath are the same, being
@@ -294,7 +294,7 @@ export default function Ezekiel45() {
           reconciliation for them, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Oblation means that which is offered as a Sacrifice or
                 Gift to the Lord. The amounts here represented, or the
                 equivalency in money, were to be given to the Sanctuary by all
@@ -313,7 +313,7 @@ export default function Ezekiel45() {
           give this oblation for the Prince in Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Offerings will be incumbent upon all!)
               </span>
             </span>
@@ -330,7 +330,7 @@ export default function Ezekiel45() {
           make reconciliation for the House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, To make reconciliation for the House of Israel,
                 refers to Atonement; however, it is to be ever understood that
                 it is only symbolic, as Christ has already made Atonement,
@@ -351,7 +351,7 @@ export default function Ezekiel45() {
           without blemish, and cleanse the Sanctuary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the contrast between the legislation of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9689526">
                   <span className="calibre_19">
@@ -383,7 +383,7 @@ export default function Ezekiel45() {
           of the Gate of the Inner Court.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the young bullock of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9689526">
                   <span className="calibre_19">
@@ -410,7 +410,7 @@ export default function Ezekiel45() {
           shall you reconcile the House.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every one who errs, refers to those who have drifted from the
                 straight path through ignorance or foolishness. The simple
                 pertains to the one who, for whatever reason, does not fully
@@ -441,7 +441,7 @@ export default function Ezekiel45() {
           seven days; unleavened bread shall be eaten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two Feasts of Passover and Tabernacles will be marked by
                 sevenfold Offerings in contrast to the twofold ones of
                 Leviticus. And this is because these Offerings will testify to
@@ -492,7 +492,7 @@ export default function Ezekiel45() {
           Sin Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Passover, as conducted here, will continue forever,
                 fulfilling [
                 <ScrollLink href="/exodus-12" scrollToId="#filepos836297">
@@ -523,7 +523,7 @@ export default function Ezekiel45() {
           for an ephah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prince will be in charge of the Sacrifices, which is the
                 work of the High Priest.)
               </span>
@@ -540,7 +540,7 @@ export default function Ezekiel45() {
           oil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whereas the Passover was celebrated in the first month, this
                 Feast is celebrated in the seventh month, thereby representing
                 the Feast of Tabernacles. As stated, these two Feasts, Passover

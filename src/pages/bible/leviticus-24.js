@@ -96,7 +96,7 @@ export default function Leviticus24() {
           pure Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>{" "}
           before the LORD continually{" "}
@@ -189,7 +189,7 @@ export default function Leviticus24() {
           <sup className="calibre7">7</sup>And you shall put pure frankincense{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a bitter substance)</span>
+              <span className="explanation">(a bitter substance)</span>
             </span>
           </span>{" "}
           upon each row{" "}
@@ -293,7 +293,7 @@ export default function Leviticus24() {
           ; and they shall eat it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(each Sabbath)</span>
+              <span className="explanation">(each Sabbath)</span>
             </span>
           </span>{" "}
           in the Holy Place{" "}
@@ -381,7 +381,7 @@ export default function Leviticus24() {
           <sup className="calibre7">12</sup>And they put him in ward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a jail cell)</span>
+              <span className="explanation">(a jail cell)</span>
             </span>
           </span>
           , that the mind of the LORD might be shown them{" "}
@@ -446,7 +446,7 @@ export default function Leviticus24() {
           shall certainly stone him: as well the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           , as he who is born in the land, when he blasphemes the Name of the
@@ -458,7 +458,7 @@ export default function Leviticus24() {
           <sup className="calibre7">17</sup>And he who kills{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(murders)</span>
+              <span className="explanation">(murders)</span>
             </span>
           </span>{" "}
           any man shall surely be put to death.

@@ -201,7 +201,7 @@ export default function Job22() {
           whose foundation was overflown with a flood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Noahs flood)</span>
+              <span className="explanation">(Noahs flood)</span>
             </span>
           </span>
           :

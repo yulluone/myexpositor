@@ -234,7 +234,7 @@ export default function Job06() {
           ice, and wherein the snow is hid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(toward me they are cold)</span>
+              <span className="explanation">(toward me they are cold)</span>
             </span>
           </span>
           :
@@ -323,7 +323,7 @@ export default function Job06() {
           reward for me of your substance?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Have I asked you for help?)</span>
+              <span className="explanation">(Have I asked you for help?)</span>
             </span>
           </span>
         </span>

@@ -18,7 +18,7 @@ export default function Isaiah47() {
           delicate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Passages predict the fall of Babylon, and have a twofold
                 fulfillment:
               </span>
@@ -103,7 +103,7 @@ export default function Isaiah47() {
           the rivers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos7831627">
                   <span className="calibre_19">
@@ -139,7 +139,7 @@ export default function Isaiah47() {
           meet you as a man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the Lord will spare, or give
                 quarter, to no one. The vengeance guaranteed would have to do
                 with Babylons treatment of the Jews.)
@@ -154,7 +154,7 @@ export default function Isaiah47() {
           Hosts is His Name, the Holy One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The essence of this Verse is that Babylon has no Redeemer,
                 because of her worship of idols, but Israel has a Redeemer, even
                 in times of distress. The LORD of Hosts is His Name.)
@@ -170,7 +170,7 @@ export default function Isaiah47() {
           called, The lady of king doms.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lady of kingdoms could possibly be better expressed as the
                 mistress of kingdoms. The phrase, Sit you silent, and get you
                 into darkness, refers to this fallen people hiding in shame and
@@ -188,7 +188,7 @@ export default function Isaiah47() {
           them no mercy; upon the ancient have you very heavily laid your yoke.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit saying that Israel was shown no mercy implies
                 that the Lord wanted mercy to be shown!)
               </span>
@@ -203,7 +203,7 @@ export default function Isaiah47() {
           did remember the latter end of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Babylon should have reasoned that if God punished His Own
                 people so severely because of idolatry, how much more severely
                 would He punish them, the Chaldeans, because of their
@@ -233,7 +233,7 @@ export default function Isaiah47() {
           I know the loss of children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (among Babylons sins, she said in her heart, I am, and there is
                 none else beside me. She here assumes a Divine title; however,
                 she would come to know exactly, as it regards Jehovah, as to
@@ -252,7 +252,7 @@ export default function Isaiah47() {
           sorceries, and for the great abundance of your enchantments.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was partially fulfilled by Cyrus; however, the total
                 fulfillment of this Passage remains to the last days of the
                 Great Tribulation, when Babylon will be destroyed in one day,
@@ -278,7 +278,7 @@ export default function Isaiah47() {
           am, and none else beside me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit emphasizes the fact that the
                 Babylonian Monarch claimed that he was the kingly substitute of
                 God on Earth. The wisdom and knowledge which perverted them
@@ -298,7 +298,7 @@ export default function Isaiah47() {
           upon you suddenly, which you shall not know.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication of this Verse is that the evil that will come
                 upon them, which in fact would be sent by God, could not be
                 warded off or charmed away by sorceries or enchantments.)
@@ -315,7 +315,7 @@ export default function Isaiah47() {
           may prevail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit now uses sarcasm. In effect, He is saying, For
                 many centuries, you have relied upon your enchantments and
                 sorceries. See if they will help you now!)
@@ -332,7 +332,7 @@ export default function Isaiah47() {
           come upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Isaiah invites Babylons best, whoever
                 they might be, to stop the course of events that were going to
                 come, because they were ordained by God.)
@@ -349,7 +349,7 @@ export default function Isaiah47() {
           sit before it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last line of this Verse means that these diviners were to
                 be totally destroyed, and that the doom that should fall upon
                 them would not be as a little fire that one could comfortably
@@ -366,7 +366,7 @@ export default function Isaiah47() {
           shall wander everyone to his quarter; none shall save you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that the powerful influence that
                 Babylon had, which involved itself with every nation in the
                 world of that day, would be destroyed along with all commerce

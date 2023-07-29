@@ -212,7 +212,7 @@ export default function Judges05() {
           <sup className="calibre7">13</sup>Then He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           made him who remains have dominion over the nobles among the people:
@@ -333,7 +333,7 @@ export default function Judges05() {
           <sup className="calibre7">19</sup>The{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(heathen)</span>
+              <span className="explanation">(heathen)</span>
             </span>
           </span>{" "}
           kings came and fought, then fought the kings of Canaan in Taanach by
@@ -458,7 +458,7 @@ export default function Judges05() {
           <sup className="calibre7">25</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sisera)</span>
+              <span className="explanation">(Sisera)</span>
             </span>
           </span>{" "}
           asked water, and she gave him milk; she brought forth butter in a

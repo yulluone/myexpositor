@@ -25,7 +25,7 @@ export default function Exodus13() {
           and of beast: It is Mine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The firstborn, who were to be sanctified to the Lord, which
                 means set apart unto the Lord, were to typify Christ. Jesus is
                 the Son of God, in essence, regarding His humanity, the
@@ -43,7 +43,7 @@ export default function Exodus13() {
           place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was to understand that they had been delivered out of
                 this house of bondage, not by their own ingenuity, strength,
                 ability, or talent, but by the Power of God. It takes Almighty
@@ -65,7 +65,7 @@ export default function Exodus13() {
           : there shall no leavened bread be eaten.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Unleavened Bread symbolizes the Perfection of
                 Christ, which was absolutely necessary, if He was to serve as
                 the Perfect Sacrifice. The Cross alone deals with sin.)
@@ -80,7 +80,7 @@ export default function Exodus13() {
           Abib.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was a certain day, in a certain month, in which the
                 Children of Israel were brought out of Egyptian bondage. This
                 tells us, and in no uncertain terms, that Salvation is not
@@ -100,7 +100,7 @@ export default function Exodus13() {
           shall keep this service in this month.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Land which the Lord would give them would be grand and
                 great, but would be filled with enemies; however, if they
                 faithfully followed the Lord, every enemy would be defeated, and
@@ -136,7 +136,7 @@ export default function Exodus13() {
           bread, and in the seventh day shall be a feast to the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, this Feast lasted throughout the entirety of the seven
                 days, but the first day and the last were to be kept especially
                 holy [
@@ -161,7 +161,7 @@ export default function Exodus13() {
           days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the number seven specifies and symbolizes a perfect victory
                 afforded the Child of God, all made possible by Christ, and what
                 He would do at the Cross)
@@ -172,7 +172,7 @@ export default function Exodus13() {
           there be leaven seen with you in all your quar ters.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Leaven was a type of sin. The Christian is to be free from all
                 sin, as it regards domination [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13355486">
@@ -195,7 +195,7 @@ export default function Exodus13() {
           when I came forth out of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We as Believers must boast of the Cross, and do so constantly [
                 <ScrollLink href="/galatians-6" scrollToId="#filepos13989509">
                   <span className="calibre_19">
@@ -218,7 +218,7 @@ export default function Exodus13() {
           you out of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There can be little doubt that the Jewish system of
                 phylacteries grew mainly out of this Passage, and was intended
                 as a fulfillment of the commands contained in it. Phylacteries
@@ -236,7 +236,7 @@ export default function Exodus13() {
           Ordinance in his season from year to year.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Immediately that Israel was redeemed out of Egypt, instructions
                 were given respecting the annual observance of the Passover.
                 That is to say, Israel was to perpetually confess to the world
@@ -261,7 +261,7 @@ export default function Exodus13() {
           LORD all that opens the matrix{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the womb)</span>
+              <span className="explanation">(the womb)</span>
             </span>
           </span>
           , and every firstling that comes of a beast which you have; the males
@@ -276,7 +276,7 @@ export default function Exodus13() {
           shall you redeem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse legislated the Redemption of man and of an ass by
                 the death of a lamb. This is humbling to human pride. The ass
                 was an unclean animal; and, with its broken neck, fitly pictured
@@ -298,7 +298,7 @@ export default function Exodus13() {
           house of bondage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this concerning the firstborn were symbolisms of Christ,
                 as Gods Son, Who would redeem humanity by going to the Cross;
                 Israel was delivered on that basis)
@@ -317,7 +317,7 @@ export default function Exodus13() {
           males; but all the firstborn of my children I redeem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mans firstborn is a Type of the firstborn of God, in His
                 Authority and Priestly function among His brethren, and as the
                 object of the Fathers love and trust. The death of Egypts
@@ -337,7 +337,7 @@ export default function Exodus13() {
           Hand the LORD brought us forth out of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, this refers to phylacteries, the same as in{" "}
                 <ScrollLink href="/" scrollToId="#filepos863910">
                   <span className="calibre_19">
@@ -364,7 +364,7 @@ export default function Exodus13() {
           Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we should ever seek the Lord as it regards direction and
                 leading; if we let Him make the plans, the plans will succeed;
                 if we make the plans ourselves, and expect Him to bless those
@@ -381,7 +381,7 @@ export default function Exodus13() {
           through the way of the wilderness of the Red Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He would lead them into and through the wilderness, in order to
                 teach them trust, faith, and obedience)
               </span>
@@ -391,7 +391,7 @@ export default function Exodus13() {
           Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, The Children of Israel went up by five in
                 a rank out of the land of Egypt; five in Scripture ever speaks
                 of Grace or favor; this probably refers to five large groups)
@@ -407,14 +407,14 @@ export default function Exodus13() {
           with him: for he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joseph)</span>
+              <span className="explanation">(Joseph)</span>
             </span>
           </span>{" "}
           had straitly sworn the Children of Israel, saying, God will surely
           visit you; and you shall carry up my bones away hence with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though Joseph had the glory of Egypt given to him by God,
                 still, his heart was never in Egypt, but in Canaanland, for that
                 was the land promised to Abraham by God, where a mighty nation
@@ -435,7 +435,7 @@ export default function Exodus13() {
           Succoth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means booths or tents; this spoke plainly of the pilgrim
                 character which lay before them)
               </span>
@@ -451,7 +451,7 @@ export default function Exodus13() {
           of fire, to give them light; to go by day and night{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning this, Mackintosh says: The Lord not only conducted
                 them safely outside the bounds of Egypt, but He also came down,
                 as it were, in His traveling chariot, to be their Companion
@@ -473,7 +473,7 @@ export default function Exodus13() {
           cloud by day, nor the pillar of fire by night, from before the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Israel was led both day and night by this particular cloud,
                 likewise, the Holy Spirit is to the Believer, The Spirit of
                 Wisdom and Understanding, the Spirit of Counsel and Might, the

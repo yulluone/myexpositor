@@ -19,7 +19,7 @@ export default function Isaiah56() {
           Righteousness to be revealed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judgment and Justice have to do with the Word of God. In
                 essence, Christ is all of this and more. He is the Salvation
                 which would come, and in fact did come, and the Righteousness
@@ -36,7 +36,7 @@ export default function Isaiah56() {
           polluting it, and keeps his hand from doing any evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus Christ is Gods True Sabbath. Worshipping and serving Him
                 thereby keeps the Sabbath.)
               </span>
@@ -52,7 +52,7 @@ export default function Isaiah56() {
           Behold, I am a dry tree.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage, continuing to refer to the coming
                 Kingdom Age, is that under the New Covenant none are excluded.)
               </span>
@@ -67,7 +67,7 @@ export default function Isaiah56() {
           and take hold of My Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (certain individuals, such as eunuchs, were denied certain
                 privileges in the official life of Israel, because those in
                 positions of leadership were to be types of Christ [
@@ -98,7 +98,7 @@ export default function Isaiah56() {
           cut off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even unto them, refers to any and all who will accept Christ as
                 Saviour, irrespective of their nationality, race, or handicap,
                 as being accepted with full rights and privileges! Such is the
@@ -137,7 +137,7 @@ export default function Isaiah56() {
           polluting it, and takes hold of My Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My Covenant refers to The Everlasting Name, which refers to
                 Christ. It is the New Covenant!)
               </span>
@@ -154,7 +154,7 @@ export default function Isaiah56() {
           House shall be called an House of Prayer for all people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The House of Prayer, the Burnt Offerings, the sacrifices, the
                 Altar, and the Sabbath will all be restored in the coming
                 Kingdom Age, and so point back to Christ and to Calvary; prior
@@ -200,7 +200,7 @@ export default function Isaiah56() {
           who are gathered unto Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The others that Adonai Jehovah will gather to Israel will be
                 the other sheep of which He Himself speaks in{" "}
                 <ScrollLink href="/john-10" scrollToId="#filepos12515868">
@@ -224,7 +224,7 @@ export default function Isaiah56() {
           devour, yes, all you beasts in the forest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the last four Verses of this Chapter and the first two of
                 the next, Israel is compared to a flock of sheep neglected by
                 unfaithful shepherds, who feed themselves and persecute the
@@ -258,7 +258,7 @@ export default function Isaiah56() {
           down, loving to slumber.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea, as presented by the Holy Spirit, is that Israel lost
                 her way because of these blind watchmen, i.e., Preachers! Israel
                 forfeited all the great Promises because of these dumb dogs that
@@ -276,7 +276,7 @@ export default function Isaiah56() {
           all look to their own way, every one for his gain, from his quarter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In Jesus day, these watchmen were called blind guides of the
                 Gospel [
                 <ScrollLink href="/matthew-15" scrollToId="#filepos11076828">
@@ -324,7 +324,7 @@ export default function Isaiah56() {
           be as this day, and much more abundant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophets of Isaiahs time, as well as the time of Christ,
                 were not only negligent of their duty, and covetous, but they
                 were given to excess regarding entertainment.

@@ -19,7 +19,7 @@ export default function Ezekiel39() {
           you, O Gog, the chief prince of Meshech and Tubal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter proclaims Gogs defeat by the Lord Jesus Christ. As
                 stated, it is the Battle of Armageddon, as described in{" "}
                 <ScrollLink href="/revelation-16" scrollToId="#filepos15067935">
@@ -43,7 +43,7 @@ export default function Ezekiel39() {
           north parts, and will bring you upon the mountains of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (five-sixths of the army of the Antichrist will be killed by the
                 Second Coming of the Lord. And will cause you to come up from
                 the north parts, does not, as previously stated, refer to
@@ -62,7 +62,7 @@ export default function Ezekiel39() {
           left hand, and will cause your arrows to fall out of your right hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Antichrist, called Gog, will think he is fighting Israel
                 only, when, in Truth, he is fighting the Lord, a battle he
                 cannot hope to win.)
@@ -79,7 +79,7 @@ export default function Ezekiel39() {
           of the field to be devoured.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that the defeat of the Antichrist and his armies
                 will be so severe that vultures and beasts will feed upon the
                 multitudes of dead bodies littering the mountains of Israel.
@@ -107,7 +107,7 @@ export default function Ezekiel39() {
           for I have spoken it, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Open field, refers to the time of the defeat of the Antichrist.
                 It will be in the very midst of the Battle, with the Antichrist
                 bearing down on Jerusalem, thinking that victory is within his
@@ -132,7 +132,7 @@ export default function Ezekiel39() {
           I am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Send a fire on Magog, simply means that the Lord will
                 personally use the elements of the heavens to destroy the vast
                 Gentile armies following the Antichrist.
@@ -163,7 +163,7 @@ export default function Ezekiel39() {
           One in Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse captures all the Promises made by the Lord to the
                 Patriarchs and Prophets of old!)
               </span>
@@ -177,7 +177,7 @@ export default function Ezekiel39() {
           sa ys the Lord GOD; this is the day whereof I have spoken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse pertains to the coming Great Tribulation, and more
                 especially to these events at the very conclusion of that
                 particular time, including the Battle of Armageddon [
@@ -203,7 +203,7 @@ export default function Ezekiel39() {
           years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to think of something being burned with fire seven years allows
                 us to know the extent of the destruction)
               </span>
@@ -234,7 +234,7 @@ export default function Ezekiel39() {
           multitude: and they shall call it The valley of Hamon-gog.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No doubt, several millions of men are going to be killed in
                 that which is known as the Battle of Armageddon. Even employing
                 modern equipment to hasten the burial of so many human bodies,
@@ -257,7 +257,7 @@ export default function Ezekiel39() {
           be glorified, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord links this spectacle to the sanctifying of His Name.)
               </span>
             </span>
@@ -272,7 +272,7 @@ export default function Ezekiel39() {
           after the end of seven months shall they search.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Executive Government of Israel will employ and pay the men
                 described in this Verse to collect the human bones, wherever
                 found, and bury them in the huge trench or area of{" "}
@@ -296,7 +296,7 @@ export default function Ezekiel39() {
           it, till the buriers have buried it in the valley of Hamon-gog.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that all the bones will be collected and taken to the
                 valley of Hamon-gog, and there buried. If this is the case, it
                 will be done for a reason, the portraying of such as a monument
@@ -313,7 +313,7 @@ export default function Ezekiel39() {
           be Hamonah. Thus shall they cleanse the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name Hamonah means multitude. No doubt, it will be a city
                 of graves, housing the silent dead, and not a city of the
                 living.)
@@ -336,7 +336,7 @@ export default function Ezekiel39() {
           upon the mountains of Israel, that you may eat flesh, and drink blood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the same command as{" "}
                 <ScrollLink href="/revelation-19" scrollToId="#filepos15116844">
                   <span className="calibre_19">
@@ -366,7 +366,7 @@ export default function Ezekiel39() {
           lambs, and of goats, of bullocks, all of them fatlings of Bashan.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, The mighty and princes, signify the military and
                 political elite of the army of the Antichrist. As well, the
                 rams, lambs, goats, and bullocks signify the same!)
@@ -382,7 +382,7 @@ export default function Ezekiel39() {
           have sacrificed for you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is that if they would not accept the Sacrifice of
                 Christ at Calvary, then they would be made a sacrifice, which
                 they were, but which would not save their souls, but would serve
@@ -399,7 +399,7 @@ export default function Ezekiel39() {
           says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Antichrist will think to set a table is portraying the
                 defeat of Israel, but instead he and his army will be the table,
                 i.e., My Table, i.e., the Table of the Lord.)
@@ -418,7 +418,7 @@ export default function Ezekiel39() {
           executed, and My Hand that I have laid upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Bible regards as the heathen all who do not accept the Lord
                 Jesus Christ as their Saviour. Therefore, that includes almost
                 all the world.)
@@ -433,7 +433,7 @@ export default function Ezekiel39() {
           that I am the LORD their God from that day and forward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Along with the heathen seeing this glorious spectacle,
                 likewise, the House of Israel will now know exactly Who the
                 Messiah is. They will know that the One they rejected and
@@ -452,7 +452,7 @@ export default function Ezekiel39() {
           them into the hand of their enemies: so fell they all by the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The dispersions under the Assyrians and the Romans having been
                 effected by the sword, as well as all who have been exiled
                 through the centuries, and more particularly the terrible
@@ -486,7 +486,7 @@ export default function Ezekiel39() {
           Face from them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As they did not desire Him, He hid His Face from them. This was
                 all He could do! Regrettably, this scenario has not yet ended.
                 Continuing to reject Him, Israel will instead accept another as
@@ -536,7 +536,7 @@ export default function Ezekiel39() {
           whole House of Israel, and will be jealous for My Holy Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will have Mercy because of their Repentance, which will take
                 place at the Second Coming. The phrase, And will be jealous for
                 My Holy Name, is a fearsome statement. His Holy Name stands
@@ -555,7 +555,7 @@ export default function Ezekiel39() {
           Me, when they dwelt safely in their land, and none made them afraid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this and succeeding Verses is the explanation of
                 the word now in the previous Verse. The shame resulting from the
                 trespasses is now over. Now they can dwell safely in their land,
@@ -572,7 +572,7 @@ export default function Ezekiel39() {
           sanctified in them in the sight of many nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this great gathering will take place after the Second Coming of
                 Christ, and will include every Jew from every country in the
                 world, who will be brought, and gladly, to Israel. And am
@@ -592,7 +592,7 @@ export default function Ezekiel39() {
           none of them any more there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So certain is the future Restoration of Israel that the past
                 tense is used here in predicting it.)
               </span>
@@ -607,7 +607,7 @@ export default function Ezekiel39() {
           says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage and many others emphatically state that Israel
                 will never again go astray because of the poured out Spirit of
                 God upon them. This Vision opens and closes with a valley of dry

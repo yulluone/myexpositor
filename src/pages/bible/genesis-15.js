@@ -18,7 +18,7 @@ export default function Genesis15() {
           LORD came unto Abram in a Vision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this presents one of the four ways which God spoke to
                 individuals in Old Testament times [
                 <ScrollLink href="/numbers-12" scrollToId="#filepos1831654">
@@ -77,7 +77,7 @@ export default function Genesis15() {
           , saying, Fear not, Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shows that fear had been present; he was afraid he would be
                 killed by enemies before the great Promise of God could come to
                 pass in his life, regarding a son being brought into the world,
@@ -89,13 +89,13 @@ export default function Genesis15() {
           : I am your shield{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(protection)</span>
+              <span className="explanation">(protection)</span>
             </span>
           </span>
           , and your exceeding great reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord was telling the Patriarch that he had his eyes too
                 much on the Promise, instead of the Giver of the Promise; the
                 Lord is to always be looked at as the reward, and then the
@@ -114,7 +114,7 @@ export default function Genesis15() {
           this Eliezer of Damascus?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Seeing I have no child, how can the promise be brought to pass?
                 Can Eliezer be my heir? Even looking toward Eliezer portrays
                 telltale signs of the flesh, which will come to sad fruition
@@ -130,13 +130,13 @@ export default function Genesis15() {
           have given no seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no son)</span>
+              <span className="explanation">(no son)</span>
             </span>
           </span>
           : and, lo, one born in my house is my heir{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (translation: as it stands at the present, the son of my house,
                 not born of me, is of now my heir; Eliezer is his name)
               </span>
@@ -151,7 +151,7 @@ export default function Genesis15() {
           came unto him, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord rejects this thinking)
               </span>
             </span>
@@ -159,14 +159,14 @@ export default function Genesis15() {
           , This shall not be your heir{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not Eliezer)</span>
+              <span className="explanation">(not Eliezer)</span>
             </span>
           </span>
           ; but he who shall come forth out of your own bowels shall be your
           heir{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord can only accept that which He brings forth)
               </span>
             </span>
@@ -179,19 +179,19 @@ export default function Genesis15() {
           <sup className="calibre7">5</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           brought him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           forth abroad, and said, Look now toward Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the answer is from Heaven, and not otherwise)
               </span>
             </span>
@@ -199,25 +199,25 @@ export default function Genesis15() {
           , and tell the stars{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(count the stars)</span>
+              <span className="explanation">(count the stars)</span>
             </span>
           </span>
           , if you be able to number them: and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>
           , So shall your seed be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While Abraham was worrying about having one son, in fact, the
                 Lord tells him, his seed shall be as the stars of the heavens
                 for multitude. And so it is!)
@@ -231,13 +231,13 @@ export default function Genesis15() {
           <sup className="calibre7">6</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           believed in the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exercised Faith, believing what the Lord told him)
               </span>
             </span>
@@ -245,19 +245,19 @@ export default function Genesis15() {
           ; and He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           counted it to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           for Righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is one of the single most important Scriptures in the
                 entirety of the Word of God. In this simple term, Abraham
                 believed the LORD, we find the meaning of Justification by
@@ -281,20 +281,20 @@ export default function Genesis15() {
           <sup className="calibre7">7</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>
           , I am the LORD Who brought you out of Ur of the Chaldees, to give you
           this land to inherit it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord now reaffirms and, greater yet, expands the
                 Revelation. We find from the examples of the Bible Greats, and
                 our own experiences as well, that the Lord has to constantly
@@ -312,7 +312,7 @@ export default function Genesis15() {
           I know that I shall inherit it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham asks two questions, What will You give me? [
                 <ScrollLink href="/" scrollToId="#filepos191484">
                   <span className="calibre_19">
@@ -333,13 +333,13 @@ export default function Genesis15() {
           <sup className="calibre7">9</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Abraham)</span>
+              <span className="explanation">(to Abraham)</span>
             </span>
           </span>
           , Take Me an heifer of three years old, and a she goat of three years
@@ -347,7 +347,7 @@ export default function Genesis15() {
           pigeon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Covenant is founded on Grace, for five living creatures are
                 sacrificed to establish it. Five in the Scripture is the number
                 of Grace; and these five sacrifices set out the fullness of the
@@ -378,14 +378,14 @@ export default function Genesis15() {
           <sup className="calibre7">10</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           took unto him all these, and divided them in the midst, and laid each
           piece one against another: but the birds divided he not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the dividing of the three larger animals in Sacrifice, which
                 means their bodies were literally cut in two pieces, with one
                 piece on one side and the other piece on the other, signified
@@ -402,7 +402,7 @@ export default function Genesis15() {
           the carcases{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the fowls represent the opposition to the Cross by demon
                 spirits)
               </span>
@@ -411,7 +411,7 @@ export default function Genesis15() {
           , Abram drove them away{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the Name of Jesus, we have power over demon spirits and, as
                 Abraham, we must drive them away)
               </span>
@@ -427,7 +427,7 @@ export default function Genesis15() {
           upon him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents the sufferings which would come to Gods people
                 Israel and, as well, to Saints presently)
               </span>
@@ -441,7 +441,7 @@ export default function Genesis15() {
           <sup className="calibre7">13</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said unto Abram, Know of a surety that your seed shall be a stranger
@@ -449,7 +449,7 @@ export default function Genesis15() {
           afflict them four hundred years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the four hundred years pertain to the time from the weaning of
                 Isaac to the deliverance of the Children of Israel from Egyptian
                 bondage; the time frame covered the time spent both in Canaan,
@@ -466,13 +466,13 @@ export default function Genesis15() {
           shall serve, will I judge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Egypt)</span>
+              <span className="explanation">(Egypt)</span>
             </span>
           </span>
           : and afterward shall they come out with great substance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (much gold and silver, etc., given to them by the Egyptians when
                 they left [
                 <ScrollLink href="/exodus-11" scrollToId="#filepos813534">
@@ -495,7 +495,7 @@ export default function Genesis15() {
           peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while Abraham would not see that coming time, nevertheless, it
                 would come; the word peace proclaims the fact that what God had
                 called him to do, he will have done)
@@ -505,7 +505,7 @@ export default function Genesis15() {
           ; you shall be buried in a good old age{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was 175 years old when he died)
               </span>
             </span>
@@ -519,7 +519,7 @@ export default function Genesis15() {
           shall come hither again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the count began when the sons of Jacob were born; the first
                 generation began with Levi, the second with Kohath, the third
                 being Amram, and the fourth generation being Moses; Moses would
@@ -530,7 +530,7 @@ export default function Genesis15() {
           : for the iniquity of the Amorites is not yet full.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Book of Job teaches, Jobs friends were wrong when they
                 thought that God immediately brings judgment on sinners. In
                 fact, He is patient and longsuffering; however, He is also just,
@@ -547,7 +547,7 @@ export default function Genesis15() {
           sun went down, and it was dark{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents the state of this world, now filled with sin)
               </span>
             </span>
@@ -555,7 +555,7 @@ export default function Genesis15() {
           , behold a smoking furnace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the furnace of affliction that Israel will have to
                 pass through, and, in fact, every Believer)
               </span>
@@ -564,7 +564,7 @@ export default function Genesis15() {
           , and a burning lamp that passed between those pieces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the burning lamp passed between the pieces of the Sacrifice,
                 and proclaims the Word of God; this presents the Biblical
                 authority of the Cross, which the Sacrifices represented)
@@ -583,7 +583,7 @@ export default function Genesis15() {
           Covenant with Abram, saying, Unto your seed have I given this land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Promises based on the Precious Blood of Christ are so
                 absolutely sure that faith can claim them as already possessed;
                 hence, the Believer in the Lord Jesus Christ is neither ashamed
@@ -594,7 +594,7 @@ export default function Genesis15() {
           , from the river of Egypt unto the great river, the river Euphrates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the actual area promised by God to Abraham goes all the way to
                 the Nile River in Egypt, which includes the Sinai, the Arab
                 Peninsula, much of modern Iraq, most of Syria, and all of
@@ -623,7 +623,7 @@ export default function Genesis15() {
           Canaanites, and the Girgashites, and the Jebusites.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ten nations are listed here, nations which occupied the land of
                 Canaan. Ten is the number of completeness in the Bible, and
                 indicates that the entirety of this land, which would also

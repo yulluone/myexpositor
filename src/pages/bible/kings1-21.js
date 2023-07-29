@@ -129,7 +129,7 @@ export default function Kings121() {
           face, and would eat no bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pouting)</span>
+              <span className="explanation">(pouting)</span>
             </span>
           </span>
         </span>
@@ -181,7 +181,7 @@ export default function Kings121() {
           Proclaim a fast, and set Naboth on high among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a place of honor)</span>
+              <span className="explanation">(a place of honor)</span>
             </span>
           </span>
           :
@@ -192,7 +192,7 @@ export default function Kings121() {
           <sup className="calibre7">10</sup>And set two men, sons of Belial{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worthless)</span>
+              <span className="explanation">(worthless)</span>
             </span>
           </span>
           , before him, to bear witness against him, saying, You did blaspheme

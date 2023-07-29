@@ -43,7 +43,7 @@ export default function Kings224() {
           <sup className="calibre7">2</sup>And the LORD sent against him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Jehoiakim)</span>
+              <span className="explanation">(against Jehoiakim)</span>
             </span>
           </span>{" "}
           bands of the Chaldees, and bands of the Syrians, and bands of the
@@ -294,7 +294,7 @@ export default function Kings224() {
           <sup className="calibre7">14</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nebuchadnezzar)</span>
+              <span className="explanation">(Nebuchadnezzar)</span>
             </span>
           </span>{" "}
           carried away all Jerusalem, and all the princes, and all the mighty

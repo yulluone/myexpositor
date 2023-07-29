@@ -50,7 +50,7 @@ export default function Job36() {
           false: he who is perfect in knowledge is with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what an arrogant statement!)</span>
+              <span className="explanation">(what an arrogant statement!)</span>
             </span>
           </span>
         </span>
@@ -214,7 +214,7 @@ export default function Job36() {
           and that which should be set on your table should be full of fatness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(if you would only repent!)</span>
+              <span className="explanation">(if you would only repent!)</span>
             </span>
           </span>
         </span>

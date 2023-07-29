@@ -72,7 +72,7 @@ export default function Luke11() {
           , Hallowed be Your Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(open with praise)</span>
+              <span className="explanation">(open with praise)</span>
             </span>
           </span>
           . Your Kingdom come{" "}
@@ -171,7 +171,7 @@ export default function Luke11() {
           and say unto him, Friend, lend me three loaves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a meager request)</span>
+              <span className="explanation">(a meager request)</span>
             </span>
           </span>
           ;
@@ -199,7 +199,7 @@ export default function Luke11() {
           in bed; I cannot rise and give to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an obvious denial)</span>
+              <span className="explanation">(an obvious denial)</span>
             </span>
           </span>
           .
@@ -278,7 +278,7 @@ export default function Luke11() {
           offer him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an egg containing)</span>
+              <span className="explanation">(an egg containing)</span>
             </span>
           </span>{" "}
           a scorpion?
@@ -323,7 +323,7 @@ export default function Luke11() {
           <sup className="calibre7">14</sup>And He was casting out a devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>
           , and it was dumb{" "}
@@ -338,7 +338,7 @@ export default function Luke11() {
           . And it came to pass, when the devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon)</span>
+              <span className="explanation">(demon)</span>
             </span>
           </span>{" "}
           was gone out, the dumb spoke; and the people wondered{" "}
@@ -365,7 +365,7 @@ export default function Luke11() {
           , He casts out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           through Beelzebub the chief of the devils{" "}
@@ -462,7 +462,7 @@ export default function Luke11() {
           because you say that I cast out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           through Beelzebub{" "}
@@ -482,7 +482,7 @@ export default function Luke11() {
           devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , by whom do your sons cast{" "}
@@ -517,7 +517,7 @@ export default function Luke11() {
           <sup className="calibre7">20</sup>But if I with the Finger of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Power of God)</span>
+              <span className="explanation">(Power of God)</span>
             </span>
           </span>{" "}
           cast out devils{" "}
@@ -546,13 +546,13 @@ export default function Luke11() {
           <sup className="calibre7">21</sup>When a strong man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           armed keeps his palace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the world)</span>
+              <span className="explanation">(the world)</span>
             </span>
           </span>
           , his goods are in peace{" "}
@@ -572,7 +572,7 @@ export default function Luke11() {
           <sup className="calibre7">22</sup>But when a stronger than he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Christ is stronger)</span>
+              <span className="explanation">(Jesus Christ is stronger)</span>
             </span>
           </span>{" "}
           shall come upon him, and overcome him{" "}
@@ -681,7 +681,7 @@ export default function Luke11() {
           <sup className="calibre7">25</sup>And when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the evil spirit)</span>
+              <span className="explanation">(the evil spirit)</span>
             </span>
           </span>{" "}
           comes, he finds{" "}
@@ -1029,7 +1029,7 @@ export default function Luke11() {
           he marvelled that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           had not first washed before dinner{" "}
@@ -1052,7 +1052,7 @@ export default function Luke11() {
           you Pharisees make clean the outside of the cup and the platter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(outward show)</span>
+              <span className="explanation">(outward show)</span>
             </span>
           </span>
           ; but your inward part is full of ravening and wickedness{" "}
@@ -1079,7 +1079,7 @@ export default function Luke11() {
           , did not He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God) W</span>
+              <span className="explanation">(God) W</span>
             </span>
           </span>
           ho made that which is without make that which is within also?{" "}
@@ -1125,7 +1125,7 @@ export default function Luke11() {
           for you tithe mint and rue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(leaves of certain plants)</span>
+              <span className="explanation">(leaves of certain plants)</span>
             </span>
           </span>{" "}
           and all manner of herbs{" "}
@@ -1148,7 +1148,9 @@ export default function Luke11() {
           : these ought you to have done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you ought to pay your tithes)</span>
+              <span className="explanation">
+                (you ought to pay your tithes)
+              </span>
             </span>
           </span>
           , and not to leave the other undone.
@@ -1160,13 +1162,13 @@ export default function Luke11() {
           love the uppermost seats in the Synagogues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(position of importance)</span>
+              <span className="explanation">(position of importance)</span>
             </span>
           </span>
           , and greetings in the markets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to be greeted as a superior)</span>
+              <span className="explanation">(to be greeted as a superior)</span>
             </span>
           </span>
           .
@@ -1233,7 +1235,7 @@ export default function Luke11() {
           and said unto Him, Master, thus saying You reproach us also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(insult us)</span>
+              <span className="explanation">(insult us)</span>
             </span>
           </span>
           .
@@ -1244,7 +1246,7 @@ export default function Luke11() {
           <sup className="calibre7">46</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           said, Woe unto you also,{" "}

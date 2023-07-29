@@ -20,7 +20,7 @@ export default function Jeremiah24() {
           Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the second deportation under Jehoiachin, which included
                 Mordecai and Esther, who were taken to Babylon [
                 <ScrollLink href="/esther-02" scrollToId="#filepos5278260">
@@ -58,7 +58,7 @@ export default function Jeremiah24() {
           naughty figs, which could not be eaten, they were so bad.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The two baskets of figs were a symbolism of the two classes of
                 people in Judah and Jerusalem. The very good figs represented
                 the few Godly in the nation and the city, who, for the most
@@ -106,7 +106,7 @@ export default function Jeremiah24() {
           evil, very evil, that cannot be eaten, they are so evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Jeremiah observes these figs, he is allowed to see, at least
                 in part, that which God sees.)
               </span>
@@ -131,7 +131,7 @@ export default function Jeremiah24() {
           the land of the Chaldeans for their good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything that happens to a true follower of the Lord is
                 always caused or allowed by the Lord, i.e., for their good.)
               </span>
@@ -153,7 +153,7 @@ export default function Jeremiah24() {
           their God: for they shall return unto Me with their whole heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The whole heart, which speaks of total consecration, is the key
                 to all these Promises!)
               </span>
@@ -173,7 +173,7 @@ export default function Jeremiah24() {
           Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Blessing was pronounced on those taken to Babylon, who
                 obeyed the Commands of the Lord and diligently attempted to
                 follow Him, conversely, the curse is now pronounced upon the
@@ -194,7 +194,7 @@ export default function Jeremiah24() {
           drive them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord would deliver the former to blessing, He now
                 delivers the latter to destruction. It would soon come.)
               </span>
@@ -209,7 +209,7 @@ export default function Jeremiah24() {
           the land that I gave unto them and to their fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord had slated Judah and Jerusalem for judgment, all
                 because of their sin and refusal to repent. Babylon would be the
                 instrument that He would use. The preaching of Jeremiah demanded

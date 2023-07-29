@@ -315,7 +315,7 @@ export default function Kings112() {
           Benjamin, an hundred and fourscore thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(180,000)</span>
+              <span className="explanation">(180,000)</span>
             </span>
           </span>{" "}
           chosen men, which were warriors, to fight against the house of Israel,
@@ -400,7 +400,7 @@ export default function Kings112() {
           <sup className="calibre7">28</sup>Whereupon the king took counsel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but not from God)</span>
+              <span className="explanation">(but not from God)</span>
             </span>
           </span>
           , and made two calves of gold, and said unto them, It is too much for

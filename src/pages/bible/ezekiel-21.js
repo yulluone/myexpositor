@@ -18,7 +18,7 @@ export default function Ezekiel21() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a part of the Prophecy of the previous Chapter, which
                 continues without interruption)
               </span>
@@ -34,7 +34,7 @@ export default function Ezekiel21() {
           against the land of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse is very similar to{" "}
                 <ScrollLink href="/ezekiel-20" scrollToId="#filepos9296469">
                   <span className="calibre_19">
@@ -60,7 +60,7 @@ export default function Ezekiel21() {
           wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As in the previous Verse, the words, the righteous and the
                 wicked, replace the green tree and the dry tree of{" "}
                 <ScrollLink href="/ezekiel-20" scrollToId="#filepos9297082">
@@ -84,7 +84,7 @@ export default function Ezekiel21() {
           out of his sheath against all flesh from the south to the north{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Against all flesh from the south to the north, refers to total
                 destruction of the country, leaving no part untouched, and
                 having no mercy on the old, or even on little children)
@@ -101,7 +101,7 @@ export default function Ezekiel21() {
           any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My Sword proclaims the fact of Gods independent Action.)
               </span>
             </span>
@@ -118,7 +118,7 @@ export default function Ezekiel21() {
           eyes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Sigh therefore, you son of man, refers to Ezekiel
                 being so burdened with the portent of this coming disaster that
                 it breaks his loins, i.e., breaks his heart.)
@@ -137,7 +137,7 @@ export default function Ezekiel21() {
           GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What Ezekiel now experiences will be exactly what will happen
                 to the entirety of the Exiles some four years later, when word
                 was received of the fall and destruction of Jerusalem. This is
@@ -157,7 +157,7 @@ export default function Ezekiel21() {
           me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit will now go into great detail regarding the
                 coming carnage, which is meant to portray to the people the
                 severity of the Judgment, and hopefully to instigate Repentance;
@@ -174,7 +174,7 @@ export default function Ezekiel21() {
           says the LORD; Say, A sword, a sword is sharpened, and also furbished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse speaks of the Divine mission of the Chaldean sword,
                 i.e., the Babylonian army, and its success against Judah and
                 against Ammon; this Prophecy preceded the destruction of Judah
@@ -205,7 +205,7 @@ export default function Ezekiel21() {
           mirth? it contemns the rod of My Son, as every tree.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is sharpened to make a sore slaughter, refers to the Lord
                 handing the sharpened sword to the Chaldean slayer in order that
                 it may be used against the Judean wrongdoer.)
@@ -221,7 +221,7 @@ export default function Ezekiel21() {
           to give it into the hand of the slayer.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Babylonian Monarch no doubt thought himself to be a free
                 agent. But long before his campaign against Judah, his victory
                 over Zedekiah, his recourse to divination at the parting of the
@@ -240,7 +240,7 @@ export default function Ezekiel21() {
           therefore upon your thigh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos9303522">
                   <span className="calibre_19">
@@ -265,7 +265,7 @@ export default function Ezekiel21() {
           GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning of this Passage is that a test of strength between
                 Nebuchadnezzar and Zedekiah will soon commence; the latter will
                 be defeated, his scepter forever broken.)
@@ -282,7 +282,7 @@ export default function Ezekiel21() {
           slain, which enters into their privy chambers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And let the sword be doubled the third time, predicts the third
                 and final campaign against Jerusalem. The first invasion took
                 place in 605 B.C., the second happened in 597 B.C., and the last
@@ -301,7 +301,7 @@ export default function Ezekiel21() {
           slaughter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah had many opportunities to repent, but instead they
                 hardened their hearts. Each time they refused the admonishment
                 of Jeremiah and Ezekiel, they multiplied the Judgment that was
@@ -317,7 +317,7 @@ export default function Ezekiel21() {
           the right hand, or on the left, whithersoever your face is set.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the sword is promised success
                 here in whatever direction it turns. Such is demanded by the
                 Lord.)
@@ -332,7 +332,7 @@ export default function Ezekiel21() {
           and I will cause My Fury to rest: I the LORD have said it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will cause My Fury to rest, refers to the truth that His
                 Fury will not rest until every single prediction is fulfilled
                 concerning the destruction of Judah and Jerusalem. To emphasize
@@ -352,7 +352,7 @@ export default function Ezekiel21() {
           again, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel sees, as in a Vision, Nebuchadnezzar and his army on
                 the march)
               </span>
@@ -369,7 +369,7 @@ export default function Ezekiel21() {
           the head of the way to the city.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Appoint you two ways, refers to two different roads. When
                 Nebuchadnezzar reached Damascus [or somewhere nearby], there was
                 an intersection; one road led to Rabbath, the capital of the
@@ -415,7 +415,7 @@ export default function Ezekiel21() {
           defenced.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The balance of this Passage actually speaks of the sword coming
                 to both cities, but now the decision is to be made as to which
                 city comes first!)
@@ -432,7 +432,7 @@ export default function Ezekiel21() {
           liver.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Two arrows, one marked Ammon and the other marked Jerusalem,
                 were placed in a quiver by Nebuchadnezzar. Whichever one the
                 king drew was accepted as an omen. As well, the liver of a beast
@@ -463,7 +463,7 @@ export default function Ezekiel21() {
           rams against the gates, to cast a mount, and to build a fort.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nebuchadnezzar placed his hand into the quiver to pull out one
                 of the arrows; he looked at it; he saw that it signified
                 Jerusalem.
@@ -491,7 +491,7 @@ export default function Ezekiel21() {
           call to remembrance the iniquity, that they may be taken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And it shall be unto them as a false divination in their sight,
                 refers to the false prophets in Jerusalem, who still continued
                 to preach peace and prosperity, causing the king and the people
@@ -537,7 +537,7 @@ export default function Ezekiel21() {
           taken with the hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse further emphasizes the treachery of Zedekiah. The
                 iniquity, the transgression, and the sin was this breach of the
                 oath of allegiance taken in the Name of Jehovah. The plural of
@@ -554,7 +554,7 @@ export default function Ezekiel21() {
           Israel, whose day is come, when iniquity shall have an end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit calls Zedekiah a wicked prince of Israel.)
               </span>
             </span>
@@ -568,7 +568,7 @@ export default function Ezekiel21() {
           who is low, and abase him who is high.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Remove the diadem, refers to the Mitre of the High Priest, who
                 would no longer have a Temple nor an avenue for his services.
                 And take off the crown, refers to the Throne of Judah being
@@ -586,7 +586,7 @@ export default function Ezekiel21() {
           will give it Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will overturn, overturn, overturn, it, refers to Judah being
                 destroyed as a nation, and especially its supreme authority and
                 its throne never again being established, at least not until He
@@ -610,7 +610,7 @@ export default function Ezekiel21() {
           slaughter it is furbished, to consume because of the glittering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus says the Lord GOD concerning the Ammonites, refers to
                 these ancient enemies of Israel. When Nebuchadnezzar took the
                 road to Jerusalem instead of coming to Rabbath, the Ammonites
@@ -644,7 +644,7 @@ export default function Ezekiel21() {
           shall have an end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, While they see vanity unto you, refers to the pride
                 of Ammon. While they divine a lie unto you, refers to the
                 soothsayers among them who divined that Nebuchadnezzar would not
@@ -662,7 +662,7 @@ export default function Ezekiel21() {
           land of your nativity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will judge you in the place where you were created, refers to
                 Nebuchadnezzar bringing his army directly into the land, and so
                 destroying Ammon that she would no more exist.)
@@ -678,7 +678,7 @@ export default function Ezekiel21() {
           you into the hand of brutish men, and skilful to destroy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No mercy would be shown by the Babylonians to Ammon. This was
                 because of their gloating over the fall of Judah and Jerusalem.)
               </span>
@@ -693,7 +693,7 @@ export default function Ezekiel21() {
           remembered: for I the LORD have spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You shall be no more remembered, refers to all hope of
                 restoration being dashed. Therefore, it seems that God judged
                 them more severely even than He did Sodom [

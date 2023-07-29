@@ -30,7 +30,7 @@ export default function Samuel127() {
           seek me any more in any coast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(border)</span>
+              <span className="explanation">(border)</span>
             </span>
           </span>{" "}
           of Israel: so shall I escape out of his hand{" "}
@@ -198,7 +198,7 @@ export default function Samuel127() {
           <sup className="calibre7">12</sup>And Achish believed David{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(believed Davids lie)</span>
+              <span className="explanation">(believed Davids lie)</span>
             </span>
           </span>
           , saying, He has made his people Israel utterly to abhor him;

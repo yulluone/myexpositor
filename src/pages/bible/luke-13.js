@@ -195,13 +195,13 @@ export default function Luke13() {
           <sup className="calibre7">8</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus)</span>
+              <span className="explanation">(the Lord Jesus)</span>
             </span>
           </span>{" "}
           answering said unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>
           , Lord, let it alone this year also, till I shall dig about it, and
@@ -646,7 +646,7 @@ export default function Luke13() {
           risen up, and has shut to the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pertains to death)</span>
+              <span className="explanation">(pertains to death)</span>
             </span>
           </span>
           , and you begin to stand without{" "}
@@ -871,7 +871,7 @@ export default function Luke13() {
           , Behold, I cast out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , and I do cures today and tomorrow{" "}

@@ -158,7 +158,7 @@ export default function Job24() {
           shadow of death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they tempt death!)</span>
+              <span className="explanation">(they tempt death!)</span>
             </span>
           </span>
         </span>
@@ -227,7 +227,7 @@ export default function Job24() {
           safety, whereon he rests; yet His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods)</span>
+              <span className="explanation">(Gods)</span>
             </span>
           </span>{" "}
           eyes are upon their ways{" "}

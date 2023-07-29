@@ -68,7 +68,7 @@ export default function Chronicles104() {
           bore him with sorrow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit began the notation concerning Jabez by making
                 the statement concerning him being more honorable. The reason
                 was the trust in God and hunger for God which Jabez had.
@@ -119,7 +119,7 @@ export default function Chronicles104() {
           Israel, saying, Oh that You would bless me indeed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every Believer should ask the Lord for the blessing, for God is
                 a Blessing God)
               </span>
@@ -128,13 +128,13 @@ export default function Chronicles104() {
           , and enlarge my coast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(give me a greater vision)</span>
+              <span className="explanation">(give me a greater vision)</span>
             </span>
           </span>
           , and that Your hand might be with me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hand of God can do anything)
               </span>
             </span>
@@ -142,7 +142,7 @@ export default function Chronicles104() {
           , and that You would keep me from evil, that it may not grieve me!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the last entreaty of the prayer of Jabez, and is the
                 largest and most far-seeing. It referred to evil in general but,
                 more than that, it referred to evil which had evidently plagued
@@ -153,7 +153,7 @@ export default function Chronicles104() {
           And God granted him that which he requested{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will do the same for all who will dare to believe Him,
                 exactly as He did for Jabez)
               </span>
@@ -215,7 +215,7 @@ export default function Chronicles104() {
           Pharaoh, which Mered took.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage makes Bithiah, the daughter of Pharaoh, immortal!
                 She was an Egyptian and, as well, the daughter of Pharaoh. She
                 joined the people of God, thereby forsaking Egypt, and, as well,
@@ -278,7 +278,7 @@ export default function Chronicles104() {
           his work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4410648">
                   <span className="calibre_19">

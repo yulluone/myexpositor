@@ -260,7 +260,7 @@ export default function Leviticus01() {
           Burnt Sacrifice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Whole Burnt Offering)</span>
+              <span className="explanation">(a Whole Burnt Offering)</span>
             </span>
           </span>
           , an Offering made by fire, of a sweet savour unto the LORD.{" "}

@@ -18,7 +18,7 @@ export default function Ezekiel42() {
           the building toward the north.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Utter Court actually refers to Outer Court. The survey of
                 the Temple has now been completed, and Ezekiel is taken outside
                 by Christ into the Outer Court.)
@@ -33,7 +33,7 @@ export default function Ezekiel42() {
           cubits was the north door, and the breadth was fifty cubits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The length is 150 feet; the width is 75 feet. This building
                 contains the Priests Chambers.)
               </span>
@@ -48,7 +48,7 @@ export default function Ezekiel42() {
           the Utter Court, was gallery against gallery in three stories.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This building is three stories high, with a gallery or porch
                 running the length of the building on all three stories.)
               </span>
@@ -70,7 +70,7 @@ export default function Ezekiel42() {
           middlemost of the building.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Verse seems to mean that the Upper Chambers, or the second
                 and third stories, were smaller than the bottom floor.)
               </span>
@@ -86,7 +86,7 @@ export default function Ezekiel42() {
           ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The bottom floors being smaller suggests, in the Spiritual
                 Sense, an enlarged vision enjoyed in communion; the upper
                 stories being smaller suggests a humbling experience gained in
@@ -134,7 +134,7 @@ export default function Ezekiel42() {
           entry on the east side, as one goes into them from the Utter Court.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Quite possibly, the elevation of this building, regarding
                 ground level, will be higher than the Outer Court, but lower
                 than the Temple area. Consequently, the entry is represented as
@@ -189,7 +189,7 @@ export default function Ezekiel42() {
           things which are for the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The regulation as to the Priestly garments of the sons of Zadok
                 reveals a feature of the Spiritual Life peculiar to the modern
                 Christian, that there are affections, energies, and ministries
@@ -226,7 +226,7 @@ export default function Ezekiel42() {
           prospect is toward the east, and measured it round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord measures the dimensions for the Kingdom Temple,
                 likewise, He measures the government, operation, and service of
                 His Church. As His dimensions are exact for the coming Temple,
@@ -261,7 +261,7 @@ export default function Ezekiel42() {
           and measured five hundred reeds with the measuring reed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is called the Most Outer Court or the Profane Place, which
                 could be used by the people coming to the Sanctuary itself.)
               </span>
@@ -277,7 +277,7 @@ export default function Ezekiel42() {
           place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sanctuaries given by Inspiration to Moses and to David were
                 built, and thus, set visibly before the eyes of Israel. The
                 Sanctuary given in Vision to Ezekiel is yet to be built. But its

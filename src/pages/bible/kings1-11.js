@@ -195,7 +195,7 @@ export default function Kings111() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mount of Olivet)</span>
+              <span className="explanation">(the Mount of Olivet)</span>
             </span>
           </span>
           , and for Molech, the abomination of the children of Ammon{" "}

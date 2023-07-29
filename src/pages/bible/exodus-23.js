@@ -18,7 +18,7 @@ export default function Exodus23() {
           put not your hand with the wicked to be an unrighteous witness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This deals with the Ninth Commandment, in that we must not bear
                 false witness.)
               </span>
@@ -33,7 +33,7 @@ export default function Exodus23() {
           wrest judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (just because a multitude of people may champion a particular
                 cause doesnt necessarily mean that its right)
               </span>
@@ -48,7 +48,7 @@ export default function Exodus23() {
           man in his cause{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in courts of justice, strict justice is to be rendered without
                 any leaning either towards the rich or towards the poor; to lean
                 either way is to pervert judgment)
@@ -64,7 +64,7 @@ export default function Exodus23() {
           going astray, you shall surely bring it back to him again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is remarkable as to how close this particular law comes to
                 New Testament Christianity)
               </span>
@@ -80,7 +80,7 @@ export default function Exodus23() {
           surely help with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (do unto others as you would have them do unto you)
               </span>
             </span>
@@ -94,7 +94,7 @@ export default function Exodus23() {
           your poor in his cause{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while{" "}
                 <ScrollLink href="/" scrollToId="#filepos1000321">
                   <span className="calibre_19">
@@ -120,7 +120,7 @@ export default function Exodus23() {
           justify the wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, the Holy Spirit through Moses is saying here that
                 the innocent and the righteous can be seriously hurt by the
                 spreading of false matters)
@@ -136,7 +136,7 @@ export default function Exodus23() {
           gift blinds the wise, and perverts the words of the righteous{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Verse condemns all bribery)
               </span>
             </span>
@@ -149,7 +149,7 @@ export default function Exodus23() {
           <sup className="calibre7">9</sup>Also you shall not oppress a stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>
           : for you know the heart of a stranger, seeing you were strangers in
@@ -170,7 +170,7 @@ export default function Exodus23() {
           deal with your vineyard, and with your oliveyard.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The seventh year was to be a sabbatical year, when no crops
                 were to be planted, and the land was to lie fallow. It is
                 believed that the seventy years of captivity by the Babylonians
@@ -189,7 +189,7 @@ export default function Exodus23() {
           and the son of your handmaid, and the stranger, may be refreshed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as well, Israel was to remember the Sabbath, which speaks of
                 the seventh day; as stated, this was a symbol of the rest which
                 one would find in Christ)
@@ -205,7 +205,7 @@ export default function Exodus23() {
           unto you be circumspect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (be careful to obey these laws)
               </span>
             </span>
@@ -214,7 +214,7 @@ export default function Exodus23() {
           heard out of your mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israelites were not to mention the names of heathen gods; they
                 were rather to praise the Lord, and do so constantly)
               </span>
@@ -232,7 +232,7 @@ export default function Exodus23() {
           unto Me in the year.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mans corrupt doctrine is never to be added to the fact of
                 Atonement; hence the importance and sweetness of the expressions
                 My Sacrifice and Feast unto Me Williams.)
@@ -249,7 +249,7 @@ export default function Exodus23() {
           came out from Egypt: and none shall appear before Me empty:){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Feast took place during the time of the barley harvest,
                 which would correspond with our April. During the seven day
                 period, three Feasts were observed: Passover, Unleavened Bread,
@@ -267,7 +267,7 @@ export default function Exodus23() {
           firstfruits of your labours, which you have sown in the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Feast of Pentecost, which took place 50 days after
                 Passover, corresponding with our May; it typified Christ as the
                 Baptizer with the Holy Spirit)
@@ -278,7 +278,7 @@ export default function Exodus23() {
           you have gathered in your labours out of the field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the Feast of Tabernacles, which took place at the time
                 of the fruit harvest, corresponding with our October; it
                 incorporated three Feasts: Trumpets, Atonement, and Tabernacles.
@@ -294,13 +294,13 @@ export default function Exodus23() {
           males{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from each family)</span>
+              <span className="explanation">(from each family)</span>
             </span>
           </span>{" "}
           shall appear before the LORD God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at these seven Feasts conducted three times a year, April, May,
                 and October)
               </span>
@@ -316,7 +316,7 @@ export default function Exodus23() {
           remain until the morning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It shall be burned immediately on the Altar. Nothing must be
                 added to the Cross, or taken from the Cross. The Cross of Christ
                 is the revealed truth of Gods judgment on sin. Never associate
@@ -338,19 +338,19 @@ export default function Exodus23() {
           not seethe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(boil)</span>
+              <span className="explanation">(boil)</span>
             </span>
           </span>{" "}
           a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(baby lamb)</span>
+              <span className="explanation">(baby lamb)</span>
             </span>
           </span>{" "}
           in his mothers milk.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is repeated three times in the Law of Moses [
                 <ScrollLink href="/" scrollToId="#filepos1007391">
                   <span className="calibre_19">
@@ -396,7 +396,7 @@ export default function Exodus23() {
           prepared.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Angel mentioned here is the Son of God.)
               </span>
             </span>
@@ -410,7 +410,7 @@ export default function Exodus23() {
           Name is in Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jewish Commentators claim the Angel to be Moses; however, the
                 expressions, pardon and My Name is in Him, are too high for
                 Moses, or any man, for that matter.)
@@ -426,7 +426,7 @@ export default function Exodus23() {
           enemies, and an adversary unto your adversaries.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This holds true at present, as well!)
               </span>
             </span>
@@ -441,7 +441,7 @@ export default function Exodus23() {
           will cut them off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the enemies would be present in the Promised Land, Israel
                 didnt have to worry; the Lord would go before them and handle
                 the situation. He does the same for us presently.)
@@ -457,7 +457,7 @@ export default function Exodus23() {
           overthrow them, and quite break down their images.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel was to rid the land of all heathen gods.)
               </span>
             </span>
@@ -471,7 +471,7 @@ export default function Exodus23() {
           sickness away from the midst of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What a Promise!)</span>
+              <span className="explanation">(What a Promise!)</span>
             </span>
           </span>
         </span>
@@ -482,7 +482,7 @@ export default function Exodus23() {
           young, nor be barren, in your land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel would be fruitful as it regards large families)
               </span>
             </span>
@@ -490,7 +490,7 @@ export default function Exodus23() {
           : the number of your days I will fulfill{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(long life)</span>
+              <span className="explanation">(long life)</span>
             </span>
           </span>
         </span>
@@ -503,7 +503,7 @@ export default function Exodus23() {
           all your enemies turn their backs unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord promises to destroy all the enemies of Israel. Can
                 modern Believers claim the same Promises? We can claim these
                 Promises, and even greater, because we now have a better
@@ -528,7 +528,7 @@ export default function Exodus23() {
           before you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord has the entirety of creation at His disposal to use as
                 He sees fit. So, He can take something as small as a hornet and
                 use it as His army, which He did.)
@@ -551,7 +551,7 @@ export default function Exodus23() {
           land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Had their obedience been more complete, the power of the
                 Canaanitish nations would have been more thoroughly broken, and
                 the sufferings and servitude related in the Book of Judges would
@@ -567,7 +567,7 @@ export default function Exodus23() {
           Red Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (takes in all of Sinai, the exact area occupied by Israel some
                 years back, when they defeated the Egyptians, but given back to
                 Egypt in the Camp David Accords)
@@ -577,13 +577,13 @@ export default function Exodus23() {
           even unto the Sea of the Philistines{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mediterranean)</span>
+              <span className="explanation">(the Mediterranean)</span>
             </span>
           </span>
           , and from the desert{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (marks the eastern boundary, which probably included some of
                 modern-day Saudi Arabia)
               </span>
@@ -592,7 +592,7 @@ export default function Exodus23() {
           unto the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the river in the Pentateuch is always the Euphrates, which
                 marked the northern boundary; so we can see from all of this
                 that Israel was promised much more than what they actually
@@ -604,7 +604,7 @@ export default function Exodus23() {
           you shall drive them out before you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are living as Believers in a fallen world. It is ruled by
                 the prince of darkness; consequently, the Lord sets boundaries,
                 as it regards His Children, with guaranteed victories within
@@ -620,7 +620,7 @@ export default function Exodus23() {
           them, nor with their gods.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every enemy must be rooted out of the land, just as every enemy
                 must be rooted out of our own lives. Total trust in the Lord,
                 and what He accomplished at Calvary, which gives the Holy Spirit
@@ -670,7 +670,7 @@ export default function Exodus23() {
           will surely be a snare unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Anything we leave in our lives that is a reproach to the Lord
                 will ultimately be a snare unto us. Everything that is
                 un-Christlike must be rooted out!)

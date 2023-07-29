@@ -16,7 +16,7 @@ export default function Samuel118() {
           an end of speaking unto Saul, that the soul of Jonathan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the son of Saul)</span>
+              <span className="explanation">(the son of Saul)</span>
             </span>
           </span>{" "}
           was knit with the soul of David, and Jonathan loved him as his own
@@ -37,7 +37,9 @@ export default function Samuel118() {
           let him go no more home to his fathers house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(brought David into the court)</span>
+              <span className="explanation">
+                (brought David into the court)
+              </span>
             </span>
           </span>
         </span>
@@ -118,7 +120,7 @@ export default function Samuel118() {
           : and Saul set him over the men of war{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a special group)</span>
+              <span className="explanation">(a special group)</span>
             </span>
           </span>
           , and he was accepted in the sight of all the people, and also in the
@@ -133,7 +135,7 @@ export default function Samuel118() {
           king Saul, with tabrets, with joy, and with instruments of music{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of their victories)</span>
+              <span className="explanation">(because of their victories)</span>
             </span>
           </span>
         </span>
@@ -172,7 +174,7 @@ export default function Samuel118() {
           forward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with intent to harm him)</span>
+              <span className="explanation">(with intent to harm him)</span>
             </span>
           </span>
         </span>
@@ -194,7 +196,7 @@ export default function Samuel118() {
           : and David played with his hand, as at other times{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(played the harp)</span>
+              <span className="explanation">(played the harp)</span>
             </span>
           </span>
           : and there was a javelin in Sauls hand.

@@ -26,7 +26,7 @@ export default function Genesis47() {
           even five men, and presented them unto Pharaoh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as far as we know, no one in Egypt ever knew anything about the
                 wickedness of the past deeds of Josephs brothers; such is true
                 forgiveness; it not only forgives sin, but it forgets, as well)
@@ -43,7 +43,7 @@ export default function Genesis47() {
           shepherds, both we, and also our fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that the brothers were shepherds, which Joseph had been, as
                 well, served as a Type of the Good Shepherd, Who would give His
                 Life for the sheep [
@@ -83,7 +83,7 @@ export default function Genesis47() {
           among them, then make them rulers over my cattle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph, raised from the pit to the throne, another Type of
                 Christ, enriches his brothers with all the Promises which they,
                 by their rejection of him, had forfeited, but which are now,
@@ -129,7 +129,7 @@ export default function Genesis47() {
           father, and set him before Pharaoh: and Jacob blessed Pharaoh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And without contradiction, the less is blessed of the greater.
                 The least and most faltering of Gods children is superior to the
                 mightiest Monarch, and is conscious of such superiority
@@ -154,7 +154,7 @@ export default function Genesis47() {
           their pilgrimage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (more than likely, there was no one in Egypt who was as old as
                 Jacob; as well, he will not die until he is 147 years of age,
                 some 17 years after coming into Egypt)
@@ -170,7 +170,7 @@ export default function Genesis47() {
           out from before Pharaoh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for the second time, the Holy Spirit proclaims the Patriarch
                 blessing Pharaoh, again signifying that while Pharaoh may be the
                 greatest in the eyes of men, Jacob is the greatest in the Eyes
@@ -205,7 +205,7 @@ export default function Genesis47() {
           the land of Canaan fainted by reason of the famine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We now learn just how severe this famine actually was. Had it
                 not been for Joseph, Egypt would have seen the starvation of
                 tens of thousands of its people. So, Joseph was the great
@@ -227,7 +227,7 @@ export default function Genesis47() {
           the corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>{" "}
           which they bought: and Joseph brought the money into Pharaohs house.
@@ -239,7 +239,7 @@ export default function Genesis47() {
           Egypt, and in the land of Canaan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that the people had no more money to buy grain)
               </span>
             </span>
@@ -248,7 +248,7 @@ export default function Genesis47() {
           should we die in your presence? for the money fails{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we have no more money)</span>
+              <span className="explanation">(we have no more money)</span>
             </span>
           </span>
         </span>
@@ -260,7 +260,7 @@ export default function Genesis47() {
           and I will give you for your cattle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(give you grain)</span>
+              <span className="explanation">(give you grain)</span>
             </span>
           </span>
           , if money fail.
@@ -272,7 +272,7 @@ export default function Genesis47() {
           Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whether sheep, goats, cattle, horses, etc.)
               </span>
             </span>
@@ -324,7 +324,7 @@ export default function Genesis47() {
           their lands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some have claimed that Joseph robbed the Egyptians of their
                 liberties, and converted a free people into a horde of abject
                 slaves. Nothing could be further from the truth. In fact, had it
@@ -356,7 +356,7 @@ export default function Genesis47() {
           for them of your households, and for food for your little ones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Joseph levied the 20% tax, this was one of the fairest
                 arrangements that any people had ever known. No doubt, this
                 wisdom was given to him by the Lord. For instance, at this
@@ -391,7 +391,7 @@ export default function Genesis47() {
           grew, and multiplied exceedingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they came in 70 strong, and would leave out, about 215 years
                 later, upwards of over 2 million people)
               </span>
@@ -413,7 +413,7 @@ export default function Genesis47() {
           must die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the use of the name Israel, the Holy Spirit tells us that
                 Jacob would die in Faith, and great Faith at that)
               </span>
@@ -424,7 +424,7 @@ export default function Genesis47() {
           deal kindly and truly with me; bury me not, I pray you, in Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (feeble as was his body, and imperfect as was his faith, as all
                 faith regrettably is imperfect, yet did Jacob esteem Gods land,
                 the land of Canaan, and the Promises connected therewith, as
@@ -449,7 +449,7 @@ export default function Genesis47() {
           swore unto him. And Israel bowed himself upon the beds head.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He makes Joseph swear that when he dies, he will put his bones
                 where his heart was, in the land of Canaan. As a Believer, where
                 is your heart?)

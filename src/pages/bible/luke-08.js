@@ -41,7 +41,7 @@ export default function Luke08() {
           and showing the glad tidings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Good News)</span>
+              <span className="explanation">(Good News)</span>
             </span>
           </span>{" "}
           of the Kingdom of God{" "}
@@ -183,13 +183,15 @@ export default function Luke08() {
           <sup className="calibre7">5</sup>A sower{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in this case, the Evangelist)</span>
+              <span className="explanation">
+                (in this case, the Evangelist)
+              </span>
             </span>
           </span>{" "}
           went out to sow his seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Word of God)</span>
+              <span className="explanation">(the Word of God)</span>
             </span>
           </span>
           : and as he sowed, some fell by the way side{" "}
@@ -203,7 +205,7 @@ export default function Luke08() {
           ; and it was trodden down, and the fowls of the air devoured it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demon spirits)</span>
+              <span className="explanation">(demon spirits)</span>
             </span>
           </span>
           .
@@ -214,7 +216,7 @@ export default function Luke08() {
           <sup className="calibre7">6</sup>And some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seed)</span>
+              <span className="explanation">(seed)</span>
             </span>
           </span>{" "}
           fell upon a rock{" "}
@@ -243,7 +245,7 @@ export default function Luke08() {
           <sup className="calibre7">7</sup>And some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seed)</span>
+              <span className="explanation">(seed)</span>
             </span>
           </span>{" "}
           fell among thorns{" "}
@@ -271,7 +273,7 @@ export default function Luke08() {
           , and sprang up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to bountiful growth)</span>
+              <span className="explanation">(refers to bountiful growth)</span>
             </span>
           </span>
           , and bear fruit an hundredfold{" "}
@@ -797,7 +799,7 @@ export default function Luke08() {
           <sup className="calibre7">27</sup>And when He went forth to land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(when they beached the boat)</span>
+              <span className="explanation">(when they beached the boat)</span>
             </span>
           </span>
           , there met Him out of the city a certain man{" "}
@@ -811,13 +813,13 @@ export default function Luke08() {
           , which had devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           long time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had long been possessed)</span>
+              <span className="explanation">(had long been possessed)</span>
             </span>
           </span>
           , and wore no clothes{" "}
@@ -860,7 +862,7 @@ export default function Luke08() {
           , he cried out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for fear)</span>
+              <span className="explanation">(for fear)</span>
             </span>
           </span>
           , and fell down before Him{" "}
@@ -964,7 +966,7 @@ export default function Luke08() {
           : because many devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           were entered into him.
@@ -1014,7 +1016,7 @@ export default function Luke08() {
           : and they be sought Him that He would suffer{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(permit)</span>
+              <span className="explanation">(permit)</span>
             </span>
           </span>{" "}
           them to enter into them. And He suffered them{" "}
@@ -1035,7 +1037,7 @@ export default function Luke08() {
           <sup className="calibre7">33</sup>Then went the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           out of the man, and entered into the swine{" "}
@@ -1051,7 +1053,7 @@ export default function Luke08() {
           were choked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(drowned)</span>
+              <span className="explanation">(drowned)</span>
             </span>
           </span>
           .
@@ -1088,14 +1090,14 @@ export default function Luke08() {
           <sup className="calibre7">35</sup>Then they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the owners and others)</span>
+              <span className="explanation">(the owners and others)</span>
             </span>
           </span>{" "}
           went out to see what was done; and came to Jesus, and found the man,
           out of whom the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           were departed{" "}
@@ -1109,7 +1111,7 @@ export default function Luke08() {
           , sitting at the feet of Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our Lord was teaching him)</span>
+              <span className="explanation">(our Lord was teaching him)</span>
             </span>
           </span>
           , clothed{" "}
@@ -1124,7 +1126,7 @@ export default function Luke08() {
           , and in his right mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(perfectly sound of mind)</span>
+              <span className="explanation">(perfectly sound of mind)</span>
             </span>
           </span>
           : and they were afraid{" "}
@@ -1197,7 +1199,7 @@ export default function Luke08() {
           <sup className="calibre7">38</sup>Now the man out of whom the devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           were departed besought Him that he might be with Him{" "}
@@ -1257,7 +1259,7 @@ export default function Luke08() {
           Jesus was returned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Capernaum)</span>
+              <span className="explanation">(to Capernaum)</span>
             </span>
           </span>
           , the people{" "}
@@ -1299,13 +1301,13 @@ export default function Luke08() {
           . But as He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus)</span>
+              <span className="explanation">(Jesus)</span>
             </span>
           </span>{" "}
           went{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the house of Jairus)</span>
+              <span className="explanation">(to the house of Jairus)</span>
             </span>
           </span>{" "}
           the people thronged Him.
@@ -1417,7 +1419,7 @@ export default function Luke08() {
           Me: for I perceive that virtue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Power)</span>
+              <span className="explanation">(Power)</span>
             </span>
           </span>{" "}
           is gone out of Me{" "}
@@ -1521,7 +1523,7 @@ export default function Luke08() {
           saying to him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Jairus)</span>
+              <span className="explanation">(to Jairus)</span>
             </span>
           </span>
           , Your daughter is dead; trouble not the Master{" "}
@@ -1573,7 +1575,9 @@ export default function Luke08() {
           <sup className="calibre7">51</sup>And when He came into the house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the home of Jairus)</span>
+              <span className="explanation">
+                (refers to the home of Jairus)
+              </span>
             </span>
           </span>
           , He suffered no man to go in, save Peter, and James, and John, and
@@ -1632,7 +1636,7 @@ export default function Luke08() {
           <sup className="calibre7">53</sup>And they laughed Him to scorn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the paid mourners)</span>
+              <span className="explanation">(the paid mourners)</span>
             </span>
           </span>
           , knowing that she was dead.
@@ -1653,7 +1657,7 @@ export default function Luke08() {
           , and took her by the hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a firm grip)</span>
+              <span className="explanation">(a firm grip)</span>
             </span>
           </span>
           , and called, saying, Maid, arise{" "}
@@ -1682,13 +1686,13 @@ export default function Luke08() {
           , and she arose straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>
           : and He commanded to give her meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(food).</span>
+              <span className="explanation">(food).</span>
             </span>
           </span>
         </span>

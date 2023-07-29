@@ -530,7 +530,7 @@ export default function Matthew26() {
           <sup className="calibre7">22</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all the Disciples)</span>
+              <span className="explanation">(all the Disciples)</span>
             </span>
           </span>{" "}
           were exceeding sorrowful, and began every one of them to say unto Him,
@@ -679,7 +679,7 @@ export default function Matthew26() {
           Testament{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(New Covenant)</span>
+              <span className="explanation">(New Covenant)</span>
             </span>
           </span>
           , which is shed for many for the remission of sins{" "}
@@ -724,7 +724,9 @@ export default function Matthew26() {
           went out into the Mount of Olives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Psalms 115 and 118)</span>
+              <span className="explanation">
+                (refers to Psalms 115 and 118)
+              </span>
             </span>
           </span>
           .
@@ -796,7 +798,7 @@ export default function Matthew26() {
           will I never be offended{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(boastful pride!)</span>
+              <span className="explanation">(boastful pride!)</span>
             </span>
           </span>
           .
@@ -816,7 +818,7 @@ export default function Matthew26() {
           Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all made boastful claims)</span>
+              <span className="explanation">(all made boastful claims)</span>
             </span>
           </span>
           .
@@ -847,7 +849,7 @@ export default function Matthew26() {
           two sons of Zebedee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(James and John)</span>
+              <span className="explanation">(James and John)</span>
             </span>
           </span>
           , and began to be sorrowful and very heavy{" "}
@@ -951,7 +953,7 @@ export default function Matthew26() {
           , and said unto Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evidently awaking him)</span>
+              <span className="explanation">(evidently awaking him)</span>
             </span>
           </span>
           , What, could you not watch with Me one hour?
@@ -972,7 +974,7 @@ export default function Matthew26() {
           : the spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(spirit of man)</span>
+              <span className="explanation">(spirit of man)</span>
             </span>
           </span>{" "}
           indeed{" "}
@@ -1254,7 +1256,7 @@ export default function Matthew26() {
           <sup className="calibre7">52</sup>Then said Jesus unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Peter)</span>
+              <span className="explanation">(unto Peter)</span>
             </span>
           </span>
           , Put up again your sword into his place{" "}
@@ -1292,7 +1294,9 @@ export default function Matthew26() {
           of Angels?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Seventy-two thousand Angels.)</span>
+              <span className="explanation">
+                (Seventy-two thousand Angels.)
+              </span>
             </span>
           </span>
         </span>
@@ -1570,7 +1574,7 @@ export default function Matthew26() {
           <sup className="calibre7">62</sup>And the High Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Caiaphas)</span>
+              <span className="explanation">(Caiaphas)</span>
             </span>
           </span>{" "}
           arose, and said unto Him, Answerest thou nothing?{" "}
@@ -1644,7 +1648,7 @@ export default function Matthew26() {
           , Hereafter shall you see the Son of Man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking of Himself)</span>
+              <span className="explanation">(speaking of Himself)</span>
             </span>
           </span>{" "}
           sitting on the right hand of power{" "}
@@ -1659,7 +1663,7 @@ export default function Matthew26() {
           , and coming in the clouds of Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Second Coming)</span>
+              <span className="explanation">(Second Coming)</span>
             </span>
           </span>
           .
@@ -1880,7 +1884,7 @@ export default function Matthew26() {
           with Jesus of Galilee{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with sarcasm)</span>
+              <span className="explanation">(with sarcasm)</span>
             </span>
           </span>
           .
@@ -1933,7 +1937,7 @@ export default function Matthew26() {
           was also with Jesus of Nazareth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as well, with sarcasm)</span>
+              <span className="explanation">(as well, with sarcasm)</span>
             </span>
           </span>
           .
@@ -2033,7 +2037,7 @@ export default function Matthew26() {
           . And immediately the cock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rooster) crowed</span>
+              <span className="explanation">(rooster) crowed</span>
             </span>
           </span>
           .

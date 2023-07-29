@@ -16,7 +16,7 @@ export default function Jeremiah14() {
           Jeremiah concerning the dearth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word dearth, which means drought, is plural in the Hebrew,
                 i.e., droughts, actually referring to the length of time the
                 drought lasted. This was an act of Judgment sent by God.)
@@ -32,7 +32,7 @@ export default function Jeremiah14() {
           gone up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This drought should not have been unexpected, because God had
                 promised such if Israel went into sin [
                 <ScrollLink href="/leviticus-26" scrollToId="#filepos1647947">
@@ -64,7 +64,7 @@ export default function Jeremiah14() {
           confounded, and covered their heads.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The nobles referred to the upper classes of Judah and
                 Jerusalem. The little ones do not refer to children, but to
                 their servants, or even the common people.{" "}
@@ -90,7 +90,7 @@ export default function Jeremiah14() {
           their heads.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word chapt spoke of the ground being parched, dry, and
                 barren. This means that the physical drought was symbolic of the
                 spiritual drought!
@@ -120,7 +120,7 @@ export default function Jeremiah14() {
           field, and forsook it, because there was no grass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hind is a young deer. It is noted for its devotion to its
                 offspring, and yet the drought is so severe that it forsakes it.
                 It does so because there is no grass.)
@@ -136,7 +136,7 @@ export default function Jeremiah14() {
           fail, because there was no grass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their eyes did fail, speaking of the animals, refers to the
                 lack of ability to find grass, and the weakness that ultimately
                 overtakes them.)
@@ -155,7 +155,7 @@ export default function Jeremiah14() {
           many; we have sinned against You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, Jeremiah begins to intercede for the people.
                 The words, iniquities, backslidings, and sins, express the moral
                 character and worthlessness of man, however high may be his
@@ -176,7 +176,7 @@ export default function Jeremiah14() {
           land, and as a wayfaring man who turns aside to tarry for a night?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Why should You be as a stranger in the land, and
                 as a wayfaring man who turns aside to tarry for a night?, refers
                 to an individual who is a foreigner in the land, someone who was
@@ -208,7 +208,7 @@ export default function Jeremiah14() {
           us, and we are called by Your Name; leave us not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah soberly asks the question of the Lord, Why should You
                 be as a man astonied? The phrase means, As one struck dumb. In
                 these words which came from Jeremiahs heart, and also inspired
@@ -249,7 +249,7 @@ export default function Jeremiah14() {
           iniquity, and visit their sins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Beginning with the word therefore, Jeremiah quotes verbatim
                 from{" "}
                 <ScrollLink href="/hosea-08" scrollToId="#filepos10034827">
@@ -277,7 +277,7 @@ export default function Jeremiah14() {
           for this people for their good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the third time that the Lord has told Jeremiah to pray
                 not for this people [
                 <ScrollLink href="/jeremiah-07" scrollToId="#filepos8243265">
@@ -309,7 +309,7 @@ export default function Jeremiah14() {
           famine, and by the pestilence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture does not present the idea that God will not
                 respond to a truly sincere broken heart, crying to Him for Mercy
                 and Forgiveness, but that He was rejecting Judahs heartless
@@ -331,7 +331,7 @@ export default function Jeremiah14() {
           you have famine; but I will give you assured peace in this place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophets spoken of here were false prophets. Their message
                 was the exact opposite of Jeremiahs, who stood alone in his
                 pronouncements. In fact, as fast as he proclaimed the Word of
@@ -352,7 +352,7 @@ export default function Jeremiah14() {
           their heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The closing Verses [
                 <ScrollLink href="/jeremiah-13" scrollToId="#filepos8326355">
                   <span className="calibre_19">
@@ -377,7 +377,7 @@ export default function Jeremiah14() {
           famine shall those prophets be consumed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronouncement by the Lord in this Passage is chilling!
                 Those Prophets then and those Prophets now will be consumed by
                 the false message they proclaim.)
@@ -395,7 +395,7 @@ export default function Jeremiah14() {
           wickedness upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Not only will the false preacher be consumed, but those who
                 listen to him will be consumed as well. This is the tragedy and
                 horror of this Truth.)
@@ -412,7 +412,7 @@ export default function Jeremiah14() {
           breach, with a very grievous blow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The True Prophet, Christ, faithfully told men of their sins and
                 of the wrath to come, but He did so with sobs and tears. Every
                 Preacher controlled by the Holy Spirit, in like manner, warns
@@ -438,7 +438,7 @@ export default function Jeremiah14() {
           Priest go about into a land that they know not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah now jumps ahead to the coming destruction. He
                 proclaims that both those in the field and in the city are
                 stricken! They are either slain or sick. Therefore, these false
@@ -472,7 +472,7 @@ export default function Jeremiah14() {
           time of healing, and behold trouble!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a true intercessor, Jeremiah identifies himself with those
                 for whom he intercedes; hence the us, the we, and the our of his
                 prayer.)
@@ -488,7 +488,7 @@ export default function Jeremiah14() {
           against You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (True Intercession functions in the same manner as the Great
                 Intercessor, Christ. Jeremiah associated himself with Judahs
                 sin, as Christ associates Himself with us in our sin.
@@ -537,7 +537,7 @@ export default function Jeremiah14() {
           Your Covenant with us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These efforts made by Jeremiah are given to us by the Holy
                 Spirit in order that we may see the heart of this man. Despite
                 the opposition of the people, Prophets, and Priests to him, he
@@ -556,7 +556,7 @@ export default function Jeremiah14() {
           have made all these things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Vanities refer to the false gods of the heathen. The inference
                 is that many in Jerusalem were appealing to false gods to bring
                 rain instead of seeking the LORD our God. They, in effect, have

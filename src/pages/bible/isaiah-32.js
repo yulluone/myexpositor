@@ -18,7 +18,7 @@ export default function Isaiah32() {
           righteousness, and princes shall rule in judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The flavor of the Prophecy continues from the previous Chapter.
                 The Antichrist, the false king, is now defeated, and the true
                 King now reigns in righteousness over the entirety of the world.
@@ -114,7 +114,7 @@ export default function Isaiah32() {
           dry place, as the shadow of a great rock in a weary land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Man is The Man Christ Jesus. As well, the world is a dry
                 place, spiritually speaking. He will be rivers of water that
                 will cover this world with the knowledge of the Lord, as the
@@ -139,7 +139,7 @@ export default function Isaiah32() {
           not be dim, and the ears of them who hear shall hearken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Heretofore, it has been very difficult for people to see and
                 hear the Gospel. But, in that coming day, the Kingdom Age, all
                 eyes shall see, and all ears shall hear and hearken, meaning
@@ -156,7 +156,7 @@ export default function Isaiah32() {
           to speak plainly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who are rash refer to the ones who would not give
                 themselves time to understand the warnings addressed to them, or
                 to think of the real character of their actions. Then, they will
@@ -186,7 +186,7 @@ export default function Isaiah32() {
           called liberal, nor the churl said to be bountiful.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The vile person of this Verse refers to the modern Preachers of
                 today who are fools and churls. They are admired as liberal
                 [i.e., broadminded] and bountiful, [i.e., emancipated], but the
@@ -217,7 +217,7 @@ export default function Isaiah32() {
           and he will cause the drink of the thirsty to fail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of false prophets in Isaiahs day, false apostles in
                 Pauls day [
                 <ScrollLink href="/chronicles2-11" scrollToId="#filepos4768788">
@@ -254,7 +254,7 @@ export default function Isaiah32() {
           even when the needy speaks right.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The instruments [i.e., the arguments or teaching] of the false
                 apostle are also evil; they impoverish and destroy the seekers
                 with lying words, though opposed by the needy [i.e., Christs
@@ -270,7 +270,7 @@ export default function Isaiah32() {
           things; and by liberal things shall he stand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The liberal, in the spiritual sense [and good sense, we might
                 add], refers here to the Preacher of the Gospel who truly
                 preaches the Word of God. In the minds of people at the present,
@@ -299,7 +299,7 @@ export default function Isaiah32() {
           hear my voice, you careless daughters; give ear unto my speech.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The women and daughters symbolize here the Hebrew people. In
                 essence, the entirety of the population of Judah is admonished
                 to hear what the Lord is saying through the Prophet.)
@@ -315,7 +315,7 @@ export default function Isaiah32() {
           gathering shall not come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The portend of this Verse is frightening! The vintage
                 definitely did fail. The gathering, which speaks of the harvest,
                 shall not come. A little over a hundred years from this time,
@@ -333,7 +333,7 @@ export default function Isaiah32() {
           sackcloth upon your loins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The repetition of this Verse is, as usual, emphatic; its object
                 is to impress those whom the Prophet is addressing with a
                 certainty of the coming Judgment.
@@ -360,7 +360,7 @@ export default function Isaiah32() {
           the pleasant fields, for the fruitful vine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This says that everything will be barren in Israel and all
                 because of sin!)
               </span>
@@ -375,7 +375,7 @@ export default function Isaiah32() {
           joyous city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was literally fulfilled! Sennacherib carried off
                 approximately 200,000 captives from Judea before he was turned
                 back by the visitation of the Angel. The joyous city has the
@@ -395,7 +395,7 @@ export default function Isaiah32() {
           flocks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in Vision, the Prophet sees Jerusalem deserted by her
                 inhabitants, the grand houses of the rich empty, the strongholds
                 haunted by wild beasts, and the slopes of the hills fed on by
@@ -428,7 +428,7 @@ export default function Isaiah32() {
           field be counted for a forest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit being poured out upon Israel, and in fact the
                 entirety of the world, which will make the wilderness a fruitful
                 field, will happen at the very end of the Great Tribulation,
@@ -461,7 +461,7 @@ export default function Isaiah32() {
           wilderness, and righteousness remain in the fruitful field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word then signifies when the Spirit is poured out upon
                 Israel and the world from on high. Then judgment and
                 righteousness will remain. Everything that God does is attended
@@ -478,7 +478,7 @@ export default function Isaiah32() {
           forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word forever in this Passage means forever, eternity
                 without end. The Righteousness which will cover the Earth then,
                 without fail and perpetually, will be the Righteousness of
@@ -495,7 +495,7 @@ export default function Isaiah32() {
           places{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the picture is one of total security; war has forever ended;
                 the boundaries and dwellings are sure, i.e., secure.
               </span>
@@ -523,7 +523,7 @@ export default function Isaiah32() {
           the forest; and the city shall be low in a low place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Babylon, which has always symbolized mans rebellion against God
                 and which is yet to be rebuilt on or close to its ancient site,
                 will be completely destroyed at the conclusion of the Great
@@ -541,7 +541,7 @@ export default function Isaiah32() {
           waters, who send forth thither the feet of the ox and the ass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (During the Millennium, seed-time and harvest will be times of
                 happiness, and not of apprehension, as now. The idea is that
                 every effort of prosperity will be blessed. No effort will be

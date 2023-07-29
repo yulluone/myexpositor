@@ -99,7 +99,7 @@ export default function Numbers17() {
           LORD in the Tabernacle of witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(verification would be made)</span>
+              <span className="explanation">(verification would be made)</span>
             </span>
           </span>
         </span>

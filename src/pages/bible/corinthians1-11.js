@@ -15,7 +15,7 @@ export default function Corinthians111() {
           <sup className="calibre7">1</sup>Be ye followers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(imitators)</span>
+              <span className="explanation">(imitators)</span>
             </span>
           </span>{" "}
           of me, even as I also{" "}
@@ -27,7 +27,7 @@ export default function Corinthians111() {
           of Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who imitate Christ have a right to call upon others to
                 imitate them.)
               </span>
@@ -41,7 +41,7 @@ export default function Corinthians111() {
           remember me in all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is thanking the Corinthians for seeking his Counsel)
               </span>
             </span>
@@ -55,7 +55,7 @@ export default function Corinthians111() {
           to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the whole Body of Truth of the Gospel)
               </span>
             </span>
@@ -69,7 +69,7 @@ export default function Corinthians111() {
           Head of every man is Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to authority)</span>
+              <span className="explanation">(refers to authority)</span>
             </span>
           </span>
           ; and the Head of the woman{" "}
@@ -81,7 +81,7 @@ export default function Corinthians111() {
           the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the creation model)
               </span>
             </span>
@@ -95,7 +95,7 @@ export default function Corinthians111() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks here of two separate and distinct Persons [
                 <ScrollLink href="/timothy1-2" scrollToId="#filepos14274775">
                   <span className="calibre_19">
@@ -119,7 +119,7 @@ export default function Corinthians111() {
           <sup className="calibre7">4</sup>Every man praying or Prophesying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers either to the Gift of Prophecy or Preaching [
                 <ScrollLink
                   href="/corinthians1-12"
@@ -144,7 +144,7 @@ export default function Corinthians111() {
           head covered, dishonors his Head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dishonors Christ; such portrays a covering other than Christ)
               </span>
             </span>
@@ -158,7 +158,7 @@ export default function Corinthians111() {
           Prophesies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that women did pray and Preach in the Church, or
                 wherever)
               </span>
@@ -173,7 +173,7 @@ export default function Corinthians111() {
           head uncovered dishonors her Head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays the fact that, due to the Creation model, the woman
                 should have long hair, at least longer than that of the man)
               </span>
@@ -182,7 +182,7 @@ export default function Corinthians111() {
           : for that is even all one as if she were shaven.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Refers to the fact that some women in those days had their
                 heads shaved as a punishment for whoredom or adultery. The
                 Apostle is saying that Christian women should not insist upon
@@ -199,7 +199,7 @@ export default function Corinthians111() {
           her also be shorn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, says, if the woman wants to wear her hair short like
                 a man, why not go all the way and be shorn)
               </span>
@@ -209,7 +209,7 @@ export default function Corinthians111() {
           covered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that if she does not want to look like
                 an adulteress, let her be covered, i.e., have long hair.)
               </span>
@@ -228,14 +228,14 @@ export default function Corinthians111() {
           head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(while praying or Preaching)</span>
+              <span className="explanation">(while praying or Preaching)</span>
             </span>
           </span>
           , forasmuch as he is the Image and Glory of God: but the woman is the
           Glory of the man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that Eve was not Gods Image and Glory
                 in the same sense as Adam.)
               </span>
@@ -248,7 +248,7 @@ export default function Corinthians111() {
           <sup className="calibre7">8</sup>For the man is not of the woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adam was not in any way derived from woman)
               </span>
             </span>
@@ -256,7 +256,7 @@ export default function Corinthians111() {
           ; but the woman of the man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, the woman was derived from man by the Power of God.)
               </span>
             </span>
@@ -269,7 +269,7 @@ export default function Corinthians111() {
           woman; but the woman for the man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This probably would have been better translated, for also man
                 was not created on account of the woman; on the contrary, woman
                 on account of the man.)
@@ -283,7 +283,7 @@ export default function Corinthians111() {
           <sup className="calibre7">10</sup>For this cause{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers again to the creation model that the woman is for the
                 man)
               </span>
@@ -298,13 +298,13 @@ export default function Corinthians111() {
           head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(long hair, i.e., authority)</span>
+              <span className="explanation">(long hair, i.e., authority)</span>
             </span>
           </span>{" "}
           because of the Angels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This has to do with her submission to Gods Plan as a constant
                 reminder to the fallen Angels, who rebelled against Gods Plan
                 and the Revolution led by Lucifer, which took place long before
@@ -320,19 +320,21 @@ export default function Corinthians111() {
           without the woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(needs the woman)</span>
+              <span className="explanation">(needs the woman)</span>
             </span>
           </span>
           , neither the woman without the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the woman also needs the man)</span>
+              <span className="explanation">
+                (the woman also needs the man)
+              </span>
             </span>
           </span>
           , in the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that this is the manner in which the
                 Lord created the original model, and demands that it continue.)
               </span>
@@ -351,7 +353,7 @@ export default function Corinthians111() {
           of the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Eve was originally created from Adam [
                 <ScrollLink href="/genesis-02" scrollToId="#filepos41163">
                   <span className="calibre_19">
@@ -373,7 +375,7 @@ export default function Corinthians111() {
           the man also by the woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by or through the medium of natural birth)
               </span>
             </span>
@@ -381,7 +383,7 @@ export default function Corinthians111() {
           ; but all things of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This puts everything on an even keel, meaning that men are no
                 more important than women, or women than men.)
               </span>
@@ -394,13 +396,13 @@ export default function Corinthians111() {
           <sup className="calibre7">13</sup>Judge in yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to common sense)</span>
+              <span className="explanation">(refers to common sense)</span>
             </span>
           </span>
           : is it comely that a woman pray unto God uncovered?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This doesnt refer to a hat nearly so much as it refers to long
                 hair, or at least hair thats longer than that of a man.)
               </span>
@@ -414,7 +416,7 @@ export default function Corinthians111() {
           you, that, if a man have long hair, it is a shame unto him?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A man wearing long hair is really not in accord with the nature
                 of a man.)
               </span>
@@ -428,7 +430,7 @@ export default function Corinthians111() {
           a glory to her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is a way of saying that such manifests womans voluntary
                 submission to Gods Will)
               </span>
@@ -443,7 +445,7 @@ export default function Corinthians111() {
           hair is given her for a covering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This points to the idea that man is the head or covering of the
                 woman under Christ.)
               </span>
@@ -457,7 +459,7 @@ export default function Corinthians111() {
           contentious{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to both men and women, who were insisting on conducting
                 themselves wrongly)
               </span>
@@ -466,7 +468,7 @@ export default function Corinthians111() {
           , we have no such custom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we have no custom other than what I have said)
               </span>
             </span>
@@ -474,7 +476,7 @@ export default function Corinthians111() {
           , neither the Churches of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What I have said is being done in all the other Churches.)
               </span>
             </span>
@@ -501,13 +503,13 @@ export default function Corinthians111() {
           not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what he is about to say)</span>
+              <span className="explanation">(what he is about to say)</span>
             </span>
           </span>
           , that you come together not for the better, but for the worse.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Church Services. They were being conducted
                 in a manner which did not bring Glory to God.)
               </span>
@@ -521,7 +523,7 @@ export default function Corinthians111() {
           together in the Church, I hear that there be divisions among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these divisions did not come about over Doctrine, at least at
                 this time, but rather along sociological lines)
               </span>
@@ -530,7 +532,7 @@ export default function Corinthians111() {
           ; and I partly believe it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He is loathe to believe the worst, even on Testimony that is
                 good.)
               </span>
@@ -544,7 +546,7 @@ export default function Corinthians111() {
           among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a departure from the Word of God)
               </span>
             </span>
@@ -552,7 +554,7 @@ export default function Corinthians111() {
           , that they which are approved may be made manifest among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Contains the idea that those who were prosperous, were claiming
                 that they were the approved ones. Sounds familiar doesnt it?)
               </span>
@@ -569,7 +571,7 @@ export default function Corinthians111() {
           into one place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Assembly of Believers)
               </span>
             </span>
@@ -583,7 +585,7 @@ export default function Corinthians111() {
           is not to eat the Lords Supper.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This has reference to the fact that they may have called it
                 such, but the way it was being done was not recognized as such
                 by the Holy Spirit.)
@@ -603,13 +605,13 @@ export default function Corinthians111() {
           his own supper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(some brought lavish meals)</span>
+              <span className="explanation">(some brought lavish meals)</span>
             </span>
           </span>
           : and one is hungry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some were slaves, and had nothing to bring)
               </span>
             </span>
@@ -617,7 +619,7 @@ export default function Corinthians111() {
           , and another is drunken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means intoxicated)</span>
+              <span className="explanation">(means intoxicated)</span>
             </span>
           </span>
           .
@@ -628,7 +630,7 @@ export default function Corinthians111() {
           <sup className="calibre7">22</sup>What?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This shows the indignation of the Apostle.)
               </span>
             </span>
@@ -636,7 +638,7 @@ export default function Corinthians111() {
           have ye not houses to eat and to drink in?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is directed toward the wealthy.)
               </span>
             </span>
@@ -644,7 +646,7 @@ export default function Corinthians111() {
           or despise you the Church of God, and shame them who have not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The very poor were shamed by their lack in the midst of such
                 plenty, of which they were offered little or nothing at all.)
               </span>
@@ -659,7 +661,7 @@ export default function Corinthians111() {
           not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He seems to ask himself; do these people really realize what
                 they are doing?)
               </span>
@@ -673,7 +675,7 @@ export default function Corinthians111() {
           which also I delivered unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the instructions he is about to give concerning the
                 Lords Supper)
               </span>
@@ -688,7 +690,7 @@ export default function Corinthians111() {
           night in which He was betrayed took bread{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(recalls the sacred occasion)</span>
+              <span className="explanation">(recalls the sacred occasion)</span>
             </span>
           </span>
           :
@@ -706,7 +708,7 @@ export default function Corinthians111() {
           and said, Take, eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the remarkable thing about this is the interpretation our Lord
                 gives)
               </span>
@@ -715,7 +717,7 @@ export default function Corinthians111() {
           : this is My Body, which is broken for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to symbolize the Death of Christ on the Cross)
               </span>
             </span>
@@ -723,7 +725,7 @@ export default function Corinthians111() {
           : this do in remembrance of Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This pertains to the Believer actually partaking of that
                 Sacrifice by Faith. In brief, this is the meaning of the New
                 Covenant.)
@@ -744,7 +746,7 @@ export default function Corinthians111() {
           My Blood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the New Covenant would be ratified by the shedding of Jesus Own
                 Blood, which forever satisfied the sin debt)
               </span>
@@ -759,7 +761,7 @@ export default function Corinthians111() {
           in remembrance of Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (never forgetting what He has done for us, speaking of the
                 Cross)
               </span>
@@ -774,13 +776,13 @@ export default function Corinthians111() {
           and drink this cup{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(symbolic gestures)</span>
+              <span className="explanation">(symbolic gestures)</span>
             </span>
           </span>
           , you do show the Lords death till He come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is meant to proclaim not only the Atoning Sacrifice
                 necessary for our Salvation, but as well as an ongoing cause of
                 our continued victory in life.)
@@ -801,7 +803,7 @@ export default function Corinthians111() {
           cup of the Lord, unworthily{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us emphatically that this can be done, and is done
                 constantly, Im afraid)
               </span>
@@ -810,7 +812,7 @@ export default function Corinthians111() {
           , shall be guilty of the Body and Blood of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in danger of Judgment, subject to Judgment)
               </span>
             </span>
@@ -823,7 +825,7 @@ export default function Corinthians111() {
           <sup className="calibre7">28</sup>But let a man examine himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (examine his Faith as to what is its real object)
               </span>
             </span>
@@ -843,7 +845,7 @@ export default function Corinthians111() {
           cup{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(after careful examination)</span>
+              <span className="explanation">(after careful examination)</span>
             </span>
           </span>
           .
@@ -855,7 +857,7 @@ export default function Corinthians111() {
           unworthily, eats and drinks damnation to himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not necessarily mean the loss of ones soul, but rather
                 temporal penalties, which can become much more serious)
               </span>
@@ -864,7 +866,7 @@ export default function Corinthians111() {
           , not discerning the Lords Body.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Not properly discerning the Cross refers to a lack of
                 understanding regarding the Cross. All of this tells us that
                 every single thing we have from the Lord, comes to us
@@ -880,7 +882,7 @@ export default function Corinthians111() {
           <sup className="calibre7">30</sup>For this cause{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (not properly discerning the Lords Body)
               </span>
             </span>
@@ -888,7 +890,7 @@ export default function Corinthians111() {
           many{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a considerable number)</span>
+              <span className="explanation">(a considerable number)</span>
             </span>
             <span>
               <span className="calibre_19">are</span>
@@ -897,7 +899,7 @@ export default function Corinthians111() {
           weak and sickly among you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the cause of much sickness among Christians)
               </span>
             </span>
@@ -905,7 +907,7 @@ export default function Corinthians111() {
           , and many sleep.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means that many Christians die prematurely. They dont lose
                 their souls, but they do cut their lives short. This shows us, I
                 seriously think, how important properly understanding the Cross
@@ -921,7 +923,7 @@ export default function Corinthians111() {
           <sup className="calibre7">31</sup>For if we would judge ourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we should examine ourselves constantly, as to whether our Faith
                 is properly placed in the Cross of Christ)
               </span>
@@ -930,7 +932,7 @@ export default function Corinthians111() {
           , we should not be judged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with sickness, and even premature death)
               </span>
             </span>
@@ -943,7 +945,7 @@ export default function Corinthians111() {
           <sup className="calibre7">32</sup>But when we are judged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the Lord, because we refuse to judge ourselves)
               </span>
             </span>
@@ -951,13 +953,13 @@ export default function Corinthians111() {
           , we are chastened of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Divine discipline)</span>
+              <span className="explanation">(Divine discipline)</span>
             </span>
           </span>
           , that we should not be condemned with the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lose our soul)</span>
+              <span className="explanation">(lose our soul)</span>
             </span>
           </span>
           .
@@ -969,7 +971,7 @@ export default function Corinthians111() {
           come together to eat, tarry one for another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the idea that all must share, and share alike.)
               </span>
             </span>
@@ -982,7 +984,7 @@ export default function Corinthians111() {
           at home{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wealthy should prepare their sumptuous meals at home, but
                 not in the context of the gathered assembly where some have
                 nothing)
@@ -992,7 +994,7 @@ export default function Corinthians111() {
           ; that you come not together unto condemnation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to this love feast turning into a detriment instead
                 of a Blessing. I would certainly think Pauls admonition would be
                 heeded after the warning given.)
@@ -1002,7 +1004,7 @@ export default function Corinthians111() {
           And the rest will I set in order when I come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably other instructions which needed to be given)
               </span>
             </span>

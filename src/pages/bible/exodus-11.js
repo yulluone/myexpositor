@@ -18,7 +18,7 @@ export default function Exodus11() {
           will I bring one plague more upon Pharaoh, and upon Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tenth and last plague would touch the dearest of all in
                 Egypt, the firstborn, and that from Pharaoh down; sin touches
                 all!)
@@ -29,7 +29,7 @@ export default function Exodus11() {
           shall surely thrust you out hence altogether.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt, by now, was wreckage. What had formerly been the most
                 powerful nation on the face of the Earth was now virtually
                 destroyed. Anyone or anything who and which sets themselves
@@ -56,14 +56,14 @@ export default function Exodus11() {
           and let every man borrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ask)</span>
+              <span className="explanation">(ask)</span>
             </span>
           </span>{" "}
           of his neighbour, and every woman of her neighbour, jewels of silver
           and jewels of gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Hebrew word Shaal, translated borrow, actually should have
                 been translated ask. Borrow carries the connotation that the
                 object obtained will be returned; however, Israel wasnt coming
@@ -85,7 +85,7 @@ export default function Exodus11() {
           sight of the people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At the beginning, Moses was disdained; however, by the Power of
                 God, the situation has radically changed. In the coming Kingdom
                 Age, the world will look at all Believers in the same light that
@@ -103,7 +103,7 @@ export default function Exodus11() {
           <sup className="calibre7">4</sup>And Moses said, Thus says the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (believed to have been spoken at the conclusion of the plague of
                 darkness)
               </span>
@@ -112,7 +112,7 @@ export default function Exodus11() {
           , About midnight will I go out into the midst of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses gives Pharaoh the final word from the Lord and, to be
                 sure, it is a chilling assessment; truly it was midnight for
                 Egypt; the day of Grace was over, and the final judgment is
@@ -131,7 +131,7 @@ export default function Exodus11() {
           mill; and all the firstborn of beasts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The death of all the firstborn in Egypt constituted a severe
                 blow. The monarchy was hereditary, and the oldest son was known
                 as the hereditary Crowned Prince. Estates descended to the
@@ -152,7 +152,7 @@ export default function Exodus11() {
           shall be like it any more.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cry that was registered in Egypt must not be blamed on a
                 loving and compassionate God, but on the stubbornness of Pharaoh
                 and, as well, of a hardhearted people. Men tend to blame God;
@@ -173,7 +173,7 @@ export default function Exodus11() {
           and Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious here, there is a great difference between the
                 Redeemed and the unredeemed. The former are protected by the
                 Lord, while the latter enjoy no such protection.)
@@ -187,32 +187,32 @@ export default function Exodus11() {
           <sup className="calibre7">8</sup>And all these your servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaohs servants)</span>
+              <span className="explanation">(Pharaohs servants)</span>
             </span>
           </span>{" "}
           shall come down unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to Moses)</span>
+              <span className="explanation">(to Moses)</span>
             </span>
           </span>
           , and bow down themselves unto me, saying, Get thee out, and all the
           people who follow you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(get out of Egypt)</span>
+              <span className="explanation">(get out of Egypt)</span>
             </span>
           </span>
           : and after that I will go out. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           went out from Pharaoh in a great anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage portrays Moses delivering the last message to
                 Pharaoh. It is straight and to the point. Moses went out from
                 the presence of Pharaoh with great anger, because he knew that
@@ -233,7 +233,7 @@ export default function Exodus11() {
           land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord would use the stubbornness of the Monarch to glorify
                 the Power of God.)
               </span>
@@ -248,7 +248,7 @@ export default function Exodus11() {
           he would not let the Children of Israel go out of his land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But the hour would shortly come when Pharaoh would have no
                 choice; as well, Satan has no choice but to let go of the
                 Believer who has placed his Faith exclusively in Christ and the

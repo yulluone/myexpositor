@@ -26,7 +26,7 @@ export default function John21() {
           the Sea of Tiberias{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sea of Galilee)</span>
+              <span className="explanation">(Sea of Galilee)</span>
             </span>
           </span>
           ; and on this wise showed He{" "}
@@ -192,7 +192,7 @@ export default function John21() {
           loved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>{" "}
           said unto Peter, It is the Lord{" "}
@@ -588,7 +588,7 @@ export default function John21() {
           you were young, you girded yourself, and walked where you would{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to his prime of life)</span>
+              <span className="explanation">(refers to his prime of life)</span>
             </span>
           </span>
           : but when you shall be old, you shall stretch forth your hands, and
@@ -637,7 +637,7 @@ export default function John21() {
           . And when He had spoken this, He said unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said to Peter)</span>
+              <span className="explanation">(said to Peter)</span>
             </span>
           </span>
           , Follow Me{" "}

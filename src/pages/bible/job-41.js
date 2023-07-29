@@ -277,7 +277,7 @@ export default function Job41() {
           <sup className="calibre7">18</sup>By his neesings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sneezings)</span>
+              <span className="explanation">(sneezings)</span>
             </span>
           </span>{" "}
           a light does shine, and his eyes are like the eyelids of the morning.

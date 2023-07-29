@@ -17,7 +17,7 @@ export default function Isaiah59() {
           hear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord can do, and the Lord can hear, and will do such, but
                 only if His People follow His Way)
               </span>
@@ -33,7 +33,7 @@ export default function Isaiah59() {
           that He will not hear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The problem is not Gods inability to save, or that He cannot
                 hear, but rather that Judah has sinned, which always separates
                 man from God.)
@@ -49,7 +49,7 @@ export default function Isaiah59() {
           your tongue has muttered perverseness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse and following, the Holy Spirit, in graphic
                 detail, explains exactly what these iniquities are!)
               </span>
@@ -64,7 +64,7 @@ export default function Isaiah59() {
           mischief, and bring forth iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord is speaking here of people, who, while ceremonially
                 religious, were morally unrighteous. The idea of the Verse is
                 that the whole basis of dealings between man and man were
@@ -82,7 +82,7 @@ export default function Isaiah59() {
           crushed breaks out into a viper.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The accusation by the Holy Spirit is astonishing here! He uses
                 three dangerous examples to describe the people of Judah. In
                 fact, this one Verse describes the entirety of the world.)
@@ -98,7 +98,7 @@ export default function Isaiah59() {
           works of iniquity, and the act of violence is in their hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that evil hearts cannot produce
                 Righteousness. The act of violence in their hands refers to the
                 fact that violence creates nothing, and, at best, destroys. And
@@ -123,7 +123,7 @@ export default function Isaiah59() {
           wasting and destruction are in their paths.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul quoted this in{" "}
                 <ScrollLink href="/romans-03" scrollToId="#filepos13313017">
                   <span className="calibre_19">
@@ -161,7 +161,7 @@ export default function Isaiah59() {
           paths: whosoever goes therein shall not know peace.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is a principle which applies to all periods of human
                 history, thereby resulting in human misery. The subject in this
                 Verse is peace, because the world does not have such.
@@ -218,7 +218,7 @@ export default function Isaiah59() {
           obscurity; for brightness, but we walk in darkness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The acceptance of Christ, and only the acceptance of Christ,
                 which refers to the following of His Will and Way, will
                 instantly reverse all these actions, and bring about that which
@@ -236,7 +236,7 @@ export default function Isaiah59() {
           the night; we are in desolate places as dead men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit in these Passages is saying about Judah what
                 they would never admit to themselves. It is not that light is
                 wanting, but that they had no eyes to behold it. This speaks of
@@ -254,7 +254,7 @@ export default function Isaiah59() {
           Salvation, but it is far off from us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We roar all like bears, uses the same verb that is used
                 commonly of the roaring of the sea. It, along with the dove,
                 represents the constant, never-ending murmur of discontent,
@@ -283,7 +283,7 @@ export default function Isaiah59() {
           transgressions are with us; and as for our iniquities, we know them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage illuminates the fact that Israels blindness of{" "}
                 <ScrollLink href="/" scrollToId="#filepos8001685">
                   <span className="calibre_19">
@@ -310,7 +310,7 @@ export default function Isaiah59() {
           revolt, conceiving and uttering from the heart words of falsehood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Scripture, we are told where the trouble lies. It is
                 the heart! [
                 <ScrollLink href="/matthew-15" scrollToId="#filepos11078574">
@@ -333,7 +333,7 @@ export default function Isaiah59() {
           street, and equity cannot enter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As a consequence, every facet of the person, and even of the
                 entirety of a nation, suffers an inversion. Things are upside
                 down, and consequently do not, and in fact cannot, work right.
@@ -361,7 +361,7 @@ export default function Isaiah59() {
           displeased Him that there was no judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A prey means a victim of persecution. This fact is true of all
                 ages. The few who are faithful to the doctrinal and moral
                 teaching of Gods Word are despised, derided, and persecuted by
@@ -439,7 +439,7 @@ export default function Isaiah59() {
           Salvation unto him; and His Righteousness, it sustained him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of this Passage, down through the final Verse of
                 this Chapter, belongs to the future Second Advent, when the
                 Messiah will appear, clothed with vengeance, to recompense
@@ -547,7 +547,7 @@ export default function Isaiah59() {
           cloak.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul will somewhat speak of this Passage in{" "}
                 <ScrollLink href="/ephesians-6" scrollToId="#filepos14071734">
                   <span className="calibre_19">
@@ -630,7 +630,7 @@ export default function Isaiah59() {
           enemies; to the islands He will repay recompence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the defeat of the Antichrist and all of his
                 followers at the Second Coming.)
               </span>
@@ -646,7 +646,7 @@ export default function Isaiah59() {
           a standard against him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Standard is Christ! The Spirit of the LORD anointed Christ
                 to set the captive free [
                 <ScrollLink href="/luke-04" scrollToId="#filepos11778560">
@@ -684,7 +684,7 @@ export default function Isaiah59() {
           and unto them who turn from transgression in Jacob, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Redeemer is Christ, and He shall come to Zion. Paul quoted
                 this in{" "}
                 <ScrollLink href="/romans-11" scrollToId="#filepos13463803">
@@ -719,7 +719,7 @@ export default function Isaiah59() {
           the LORD, from henceforth and forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, As for Me, refer to Jehovah speaking, and not
                 Isaiah. This Scripture proclaims the Divine Trinity: 1. The One
                 speaking is Jehovah; 2. The Redeemer is the Messiah; and, 3. My

@@ -135,13 +135,13 @@ export default function Judges14() {
           mightily upon him, and he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Samson)</span>
+              <span className="explanation">(Samson)</span>
             </span>
           </span>{" "}
           rent him as he would have rent a kid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(small lamb)</span>
+              <span className="explanation">(small lamb)</span>
             </span>
           </span>
           , and he had nothing in his hand: but he told not his father or his
@@ -169,7 +169,7 @@ export default function Judges14() {
           her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(possibly several weeks)</span>
+              <span className="explanation">(possibly several weeks)</span>
             </span>
           </span>
           , and he turned aside to see the carcass of the lion: and, behold,
@@ -200,7 +200,7 @@ export default function Judges14() {
           <sup className="calibre7">9</sup>And he took thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the honey)</span>
+              <span className="explanation">(the honey)</span>
             </span>
           </span>{" "}
           in his hands, and went on eating, and came to his father and mother,
@@ -238,7 +238,7 @@ export default function Judges14() {
           woman: and Samson made there a feast; for so used the young men to do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to celebrate the wedding)</span>
+              <span className="explanation">(to celebrate the wedding)</span>
             </span>
           </span>
         </span>
@@ -249,7 +249,7 @@ export default function Judges14() {
           <sup className="calibre7">11</sup>And it came to pass, when they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Philistines)</span>
+              <span className="explanation">(the Philistines)</span>
             </span>
           </span>{" "}
           saw him, that they brought thirty companions to be with him{" "}
@@ -271,7 +271,7 @@ export default function Judges14() {
           you thirty sheets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shirts)</span>
+              <span className="explanation">(shirts)</span>
             </span>
           </span>{" "}
           and thirty change of garments:
@@ -283,7 +283,7 @@ export default function Judges14() {
           then shall you give me thirty sheets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(shirts)</span>
+              <span className="explanation">(shirts)</span>
             </span>
           </span>{" "}
           and thirty change of garments. And they said unto him, Put forth your

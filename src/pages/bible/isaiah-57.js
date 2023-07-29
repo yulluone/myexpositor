@@ -17,7 +17,7 @@ export default function Isaiah57() {
           the righteous is taken away from the evil to come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word translated perish does not imply violence, but the
                 context implies a premature death. The righteous disappear are
                 taken from the Earth before their natural time.
@@ -103,7 +103,7 @@ export default function Isaiah57() {
           rest in their beds, each one walking in his uprightness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun he refers to the righteous man of{" "}
                 <ScrollLink href="/" scrollToId="#filepos7964581">
                   <span className="calibre_19">
@@ -131,7 +131,7 @@ export default function Isaiah57() {
           sorceress, the seed of the adulterer and the whore.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sorcery has to do with seeking leading and guidance from
                 anything other than the Word of God. As well, the words,
                 adulterer and the whore, refer to Israel being unfaithful to
@@ -169,7 +169,7 @@ export default function Isaiah57() {
           you not children of transgression, a seed of falsehood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he first phrase of this Verse refers to the fact that this
                 opposition was against God, even though it was directed at the
                 true Prophets [
@@ -204,7 +204,7 @@ export default function Isaiah57() {
           of the rocks?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The intent of this Verse is beyond belief! Enflaming yourselves
                 with idols under every green tree, pertains to a practice so
                 despicable that it defies description! The reference is to the
@@ -236,7 +236,7 @@ export default function Isaiah57() {
           comfort in these?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Should I receive comfort in these? actually says,
                 Shall I endure with patience such cruelties and abominations? or
                 Can I, Jehovah, be comforted, when My people indulge in such
@@ -252,7 +252,7 @@ export default function Isaiah57() {
           you set your bed: even thither went you up to offer sacrifice.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word bed refers to altars, with sacrifices offered to
                 idols.)
               </span>
@@ -268,7 +268,7 @@ export default function Isaiah57() {
           you a covenant with them; you loved their bed where you saw it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, your remembrance, have to do with idolatrous
                 pictures. God commanded His People to put Text of Scripture upon
                 the walls of their rooms. The Hebrews removed these and replaced
@@ -330,7 +330,7 @@ export default function Isaiah57() {
           far off, and did debase yourself even unto Hell.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Went to the king, refers to Moloch, which in Hebrew means the
                 king. This idol was worshipped with ointments and perfumes.
               </span>
@@ -372,7 +372,7 @@ export default function Isaiah57() {
           of your hand; therefore you were not grieved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah, in straying so far from the Lord, and seeking aid from
                 all quarters, seemingly would have been wearied with her quest;
                 but she would not confess her weariness, even though it never
@@ -391,7 +391,7 @@ export default function Isaiah57() {
           not?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And of whom have you been afraid or feared, refers to the fact
                 that Judah feared man, especially Assyria.
               </span>
@@ -433,7 +433,7 @@ export default function Isaiah57() {
           and your works; for they shall not profit you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word declare refers to the fact that God would expose their
                 hypocritical righteousness and their useless works. He would
                 show that their righteousness, so-called, was in fact
@@ -469,7 +469,7 @@ export default function Isaiah57() {
           shall inherit My holy mountain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, the Holy Spirit uses sarcasm in telling Judah to cry
                 to their idol gods, and see if they will deliver her!
               </span>
@@ -521,7 +521,7 @@ export default function Isaiah57() {
           People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The appeal is to the religious leaders of Judah. The Holy
                 Spirit says, Remove the stumblingblock out of the way of My
                 People. The stumblingblock actually was the religious leaders
@@ -568,7 +568,7 @@ export default function Isaiah57() {
           contrite ones.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who inhabits eternity, refers to the fact that God has lived in
                 all the eternity past before the ages of time as we know them
                 now [II Pet., Chpt.{" "}
@@ -624,7 +624,7 @@ export default function Isaiah57() {
           and the souls which I have made.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The meaning of the Passage is beautiful! The idea given by the
                 Holy Spirit, For I will not contend forever, refers to Gods
                 Anger that quickly abates. If He were extreme to mark what is
@@ -665,7 +665,7 @@ export default function Isaiah57() {
           frowardly in the way of his heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word covetousness speaks of idolatry here, but yet idolatry
                 that took a different turn.
               </span>
@@ -706,7 +706,7 @@ export default function Isaiah57() {
           mourners.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (So long as Israel practiced idolatry there was no healing; it
                 is only promised to a Repentance which forsakes sin. The action
                 of the statement, I have seen his ways, and will heal him,
@@ -726,7 +726,7 @@ export default function Isaiah57() {
           LORD; and I will heal him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here God proclaimed peace to the Gentiles, who were far off,
                 and to the Jews, who were near [
                 <ScrollLink href="/ephesians-2" scrollToId="#filepos14013172">
@@ -761,7 +761,7 @@ export default function Isaiah57() {
           sea, when it cannot rest, whose waters cast up mire and dirt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement is: the sea is never at rest; it continually
                 casts up mud and dirt. Therefore, it is a true picture of the
                 enemies of Truth. To these there is, and shall be, no peace.)
@@ -776,7 +776,7 @@ export default function Isaiah57() {
           the wicked.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Divine Title here is Elohim, not Jehovah.
               </span>
             </span>

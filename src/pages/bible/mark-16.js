@@ -52,7 +52,7 @@ export default function Mark16() {
           of the week{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sunday morning)</span>
+              <span className="explanation">(Sunday morning)</span>
             </span>
           </span>
           , they came unto the sepulchre at the rising of the sun.
@@ -134,7 +134,7 @@ export default function Mark16() {
           affrighted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fear not)</span>
+              <span className="explanation">(fear not)</span>
             </span>
           </span>
           : You seek Jesus of Nazareth, Who was crucified: He is risen{" "}
@@ -289,7 +289,7 @@ export default function Mark16() {
           she went and told them who had been with Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(referred to His Disciples)</span>
+              <span className="explanation">(referred to His Disciples)</span>
             </span>
           </span>
           , as they mourned and wept{" "}
@@ -383,7 +383,7 @@ export default function Mark16() {
           unto the residue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Disciples)</span>
+              <span className="explanation">(to the Disciples)</span>
             </span>
           </span>
           : neither believed they them{" "}
@@ -670,7 +670,7 @@ export default function Mark16() {
           unto them, He was received up into Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ascension)</span>
+              <span className="explanation">(the Ascension)</span>
             </span>
           </span>
           , and sat on the Right Hand of God{" "}
@@ -744,7 +744,7 @@ export default function Mark16() {
           . Amen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Truth)</span>
+              <span className="explanation">(Truth)</span>
             </span>
           </span>
           .

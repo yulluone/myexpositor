@@ -101,19 +101,19 @@ export default function Revelation17() {
           <sup className="calibre7">3</sup>So he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angel)</span>
+              <span className="explanation">(the Angel)</span>
             </span>
           </span>{" "}
           carried me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>{" "}
           away in the spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a vision)</span>
+              <span className="explanation">(a vision)</span>
             </span>
           </span>{" "}
           into the wilderness{" "}
@@ -471,7 +471,7 @@ export default function Revelation17() {
           <sup className="calibre7">11</sup>And the beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fallen Angel)</span>
+              <span className="explanation">(fallen Angel)</span>
             </span>
           </span>{" "}
           that was, and is not, even he is the eighth{" "}
@@ -550,7 +550,7 @@ export default function Revelation17() {
           , which have received no kingdom as yet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Johns day)</span>
+              <span className="explanation">(refers to Johns day)</span>
             </span>
           </span>
           ; but receive power as kings one hour with the beast.{" "}
@@ -670,13 +670,13 @@ export default function Revelation17() {
           <sup className="calibre7">15</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Angel)</span>
+              <span className="explanation">(the Angel)</span>
             </span>
           </span>{" "}
           said unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John)</span>
+              <span className="explanation">(John)</span>
             </span>
           </span>
           , The waters which you saw{" "}

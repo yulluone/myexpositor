@@ -19,7 +19,7 @@ export default function Haggai02() {
           Haggai, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as Haggais first Prophecy filled the entirety of{" "}
                 <ScrollLink href="/haggai-01" scrollToId="#filepos10513961">
                   <span className="calibre_19">
@@ -59,7 +59,7 @@ export default function Haggai02() {
           High Priest, and to the residue of the people, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Haggai is instructed by the Lord, first of all, to direct his
                 Message to the Civil and Spiritual Leaders, and then to the
                 people. This, of course, is the order as it should be; but, if
@@ -79,7 +79,7 @@ export default function Haggai02() {
           eyes in comparison of it as nothing?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question as asked by the Lord, Who is left among you who
                 saw this house in her first glory?, is addressed to some who had
                 seen Solomons Temple. Some have even thought that Haggai may
@@ -139,7 +139,7 @@ export default function Haggai02() {
           for I am with you, says the LORD of Hosts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the strength mentioned here comes about only by and through
                 Faith in the Lord and His Word. Faith having Christ and the
                 Cross as its object can always be assured of the Presence of the
@@ -158,7 +158,7 @@ export default function Haggai02() {
           among you: fear you not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (According to the Word that I covenanted with you when you came
                 out of Egypt, actually speaks of the Law of Moses [
                 <ScrollLink href="/exodus-19" scrollToId="#filepos953456">
@@ -222,7 +222,7 @@ export default function Haggai02() {
           Earth, and the sea, and the dry land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase could be translated, Once again within a
                 little time. The Holy Spirit through the Prophet desires to show
                 the people the far larger picture than their Temple they are
@@ -316,7 +316,7 @@ export default function Haggai02() {
           Glory, says the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I will shake all nations, refers to the coming Great
                 Tribulation and, more specifically, the Battle of Armageddon,
                 which Christ will interrupt by His Second Coming. And the desire
@@ -336,7 +336,7 @@ export default function Haggai02() {
           Mine, says the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason for this Passage interspersed between{" "}
                 <ScrollLink href="/" scrollToId="#filepos10533026">
                   <span className="calibre_19">
@@ -397,7 +397,7 @@ export default function Haggai02() {
           place will I give peace, says the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase addresses itself to the future Millennial
                 Temple, which will be built in Jerusalem, described by Ezekiel
                 in{" "}
@@ -450,7 +450,7 @@ export default function Haggai02() {
           by Haggai the Prophet, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is Haggais third Prophecy, and occupies{" "}
                 <ScrollLink href="/" scrollToId="#filepos10536652">
                   <span className="calibre_19">
@@ -485,7 +485,7 @@ export default function Haggai02() {
           the Priests concerning the Law, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ask now the Priests concerning the Law, saying, is meant to
                 direct the Priests, who were to carry out the ritual and
                 Spiritual duties, back to the Bible)
@@ -503,7 +503,7 @@ export default function Haggai02() {
           and said, No.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos10537909">
                   <span className="calibre_19">
@@ -586,7 +586,7 @@ export default function Haggai02() {
           the Priests answered and said, It shall be unclean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The entirety of this Text is found in{" "}
                 <ScrollLink href="/numbers-06" scrollToId="#filepos1749471">
                   <span className="calibre_19">
@@ -630,7 +630,7 @@ export default function Haggai02() {
           unclean.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The indictment, as given by the Lord, is severe! If one is to
                 notice, the Lord says this people instead of My People, because,
                 by their acts, they had disowned God [
@@ -687,7 +687,7 @@ export default function Haggai02() {
           Temple of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And now, I pray you, consider from this day and upward, demands
                 a Spiritual inventory to be presently taken. From before a stone
                 was laid upon a stone in the Temple of the LORD, goes back some
@@ -709,7 +709,7 @@ export default function Haggai02() {
           were but twenty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Since those days were, concerns the entirety of the past 16
                 years. It was a long time to be out of the Will of God, for to
                 be out of His Will is to be out of His Blessing. The idea of the
@@ -727,7 +727,7 @@ export default function Haggai02() {
           not to Me, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I smote you..., plainly spells out the Lords judicial Actions
                 regarding His People. These judgments were sent upon them in
                 order that they may hopefully turn to the Lord. However, the
@@ -744,7 +744,7 @@ export default function Haggai02() {
           the day that the foundation of the LORDs Temple was laid, consider it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is that the Lord wanted them to consider
                 now this day. He is speaking of the twenty-fourth day of the
                 ninth month, which is the very day and moment that this Prophecy
@@ -764,7 +764,7 @@ export default function Haggai02() {
           tree, have not brought forth: from this day will I bless you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this particular time, the early part of the season, there
                 was no way they could yet tell exactly what the harvest would
                 be. However, the Lord through the Prophet is saying that,
@@ -827,7 +827,7 @@ export default function Haggai02() {
           unto Haggai in the four and twentieth day of the month, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though this was the fourth Prophecy given by Haggai,
                 still, it was given on the same day as the third Prophecy. It
                 spans{" "}
@@ -851,7 +851,7 @@ export default function Haggai02() {
           Judah, saying, I will shake the heavens and the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos10531015">
                   <span className="calibre_19">
@@ -883,7 +883,7 @@ export default function Haggai02() {
           the sword of his brother.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This awaits fulfillment in the coming Great Tribulation, and,
                 more particularly, the Battle of Armageddon. This will be at the
                 Second Advent of Christ, when He takes over the kingdoms of this
@@ -949,7 +949,7 @@ export default function Haggai02() {
           the LORD of Hosts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though addressed to Zerubbabel, because he was in the
                 lineage of David, still, it actually concerns Him of Whom
                 Zerubbabel was a type, the Messiah, Gods Chosen One.

@@ -205,13 +205,13 @@ export default function Samuel202() {
           <sup className="calibre7">16</sup>And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the men of Joab)</span>
+              <span className="explanation">(the men of Joab)</span>
             </span>
           </span>{" "}
           caught every one his fellow by the head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the men of Abner)</span>
+              <span className="explanation">(the men of Abner)</span>
             </span>
           </span>
           , and thrust his sword in his fellows side; so they fell down
@@ -244,7 +244,7 @@ export default function Samuel202() {
           as a wild roe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deer)</span>
+              <span className="explanation">(deer)</span>
             </span>
           </span>
         </span>
@@ -397,7 +397,7 @@ export default function Samuel202() {
           threescore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(360)</span>
+              <span className="explanation">(360)</span>
             </span>
           </span>{" "}
           men died.

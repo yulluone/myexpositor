@@ -19,7 +19,7 @@ export default function Chronicles124() {
           Ithamar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were the four sons of Aaron)
               </span>
             </span>
@@ -33,7 +33,7 @@ export default function Chronicles124() {
           father, and had no children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were stricken dead by the Lord for offering strange fire [
                 <ScrollLink href="/leviticus-10" scrollToId="#filepos1405677">
                   <span className="calibre_19">
@@ -49,7 +49,7 @@ export default function Chronicles124() {
           : therefore Eleazar and Ithamar executed the Priests office{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (from the two remaining sons, the order of Priests would derive
                 their office)
               </span>
@@ -65,7 +65,7 @@ export default function Chronicles124() {
           according to their offices in their service{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these two men were given the responsibility of these offices)
               </span>
             </span>
@@ -82,7 +82,7 @@ export default function Chronicles124() {
           to the house of their fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these total 24; therefore, all the order of divisions of
                 Priests would come from these original 24 sons, constituting 24
                 different orders)
@@ -100,7 +100,7 @@ export default function Chronicles124() {
           Ithamar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, there were 24 courses, which had their origination
                 in the 24 sons of Eleazar and Ithamar, who, incidentally, lived
                 many years before)
@@ -126,7 +126,7 @@ export default function Chronicles124() {
           Jehoiarib, the second to Jedaiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first order of Priests, consisting actually of many
                 Priests, would have been the Jehoiarib order or division; the
                 second, third, and so forth, would have been after their own
@@ -323,7 +323,7 @@ export default function Chronicles124() {
           younger brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words cast lots refer to the Urim and the Thummim. In fact,
                 absolutely nothing about the Temple, its furnishings, fixtures,
                 design, the order of the Priests, as well as the Levites, was

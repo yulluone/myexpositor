@@ -226,7 +226,7 @@ export default function Samuel104() {
           the same day with his clothes rent, and with earth upon his head{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a sign of tragedy)</span>
+              <span className="explanation">(a sign of tragedy)</span>
             </span>
           </span>
         </span>
@@ -253,7 +253,7 @@ export default function Samuel104() {
           old; and his eyes were dim, that he could not see{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(couldnt see well)</span>
+              <span className="explanation">(couldnt see well)</span>
             </span>
           </span>
         </span>

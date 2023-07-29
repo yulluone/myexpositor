@@ -63,7 +63,7 @@ export default function Numbers08() {
           thereof over against the Candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>
           , as the LORD commanded Moses.
@@ -176,7 +176,7 @@ export default function Numbers08() {
           <sup className="calibre7">8</sup>Then let them take a young bullock{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sin Offering)</span>
+              <span className="explanation">(Sin Offering)</span>
             </span>
           </span>{" "}
           with his Meat Offering{" "}
@@ -190,13 +190,13 @@ export default function Numbers08() {
           , even fine flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Perfection of Christ)</span>
+              <span className="explanation">(Perfection of Christ)</span>
             </span>
           </span>{" "}
           mingled with oil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit upon Christ)</span>
+              <span className="explanation">(Holy Spirit upon Christ)</span>
             </span>
           </span>
           , and another young bullock shall you take for a Sin Offering.
@@ -215,7 +215,7 @@ export default function Numbers08() {
           before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(near the Brazen Altar)</span>
+              <span className="explanation">(near the Brazen Altar)</span>
             </span>
           </span>
           : and the Children of Israel shall put their hands upon the Levites{" "}
@@ -238,7 +238,7 @@ export default function Numbers08() {
           before the LORD for an Offering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Wave Offering)</span>
+              <span className="explanation">(Wave Offering)</span>
             </span>
           </span>{" "}
           of the Children of Israel, that they may execute the service of the
@@ -270,7 +270,7 @@ export default function Numbers08() {
           : and you shall offer the one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(bullock)</span>
+              <span className="explanation">(bullock)</span>
             </span>
           </span>{" "}
           for a Sin Offering, and the other for a Burnt Offering, unto the LORD,
@@ -300,7 +300,7 @@ export default function Numbers08() {
           from among the Children of Israel: and the Levites shall be Mine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for the Lords service only)</span>
+              <span className="explanation">(for the Lords service only)</span>
             </span>
           </span>
         </span>

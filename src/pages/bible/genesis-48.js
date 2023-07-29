@@ -18,7 +18,7 @@ export default function Genesis48() {
           things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14566239">
                   <span className="calibre_19">
@@ -64,7 +64,7 @@ export default function Genesis48() {
           him his two sons, Manasseh and Ephraim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these boys must have been about 18 or 20 years old at the time)
               </span>
             </span>
@@ -79,7 +79,7 @@ export default function Genesis48() {
           sat upon the bed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph wants his two grandsons to know and realize that even
                 though they have been born in Egypt, and all they have ever
                 known is Egypt, still, they arent Egyptians, but rather of the
@@ -104,7 +104,7 @@ export default function Genesis48() {
           Almighty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob refers to God as El Shaddai, using the same name which
                 God had used of Himself, when He appeared to the Patriarch at
                 Bethel, which was after the sad experience of Shechem [
@@ -130,7 +130,7 @@ export default function Genesis48() {
           everlasting possession.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Palestinians should read these words very carefully.)
               </span>
             </span>
@@ -145,7 +145,7 @@ export default function Genesis48() {
           mine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By this, Jacob indicated he was bypassing the older sons and
                 was making sure that Joseph would get the double portion of the
                 birthright. This would apply to Ephraim and Manasseh, hence
@@ -162,7 +162,7 @@ export default function Genesis48() {
           brethren in their inheritance.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though he may have, there is no Scriptural record that
                 Joseph had children other than Ephraim and Manasseh. But if he
                 did, they could not be reckoned, as it regards the blessing, as
@@ -186,7 +186,7 @@ export default function Genesis48() {
           there in the way of Ephrath; the same is Beth-lehem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (where Rachel died is where Jesus would be born; except a grain
                 of wheat fall into the ground and die, it abides alone: but if
                 it die, it brings forth much fruit [
@@ -213,7 +213,7 @@ export default function Genesis48() {
           said, Who are these?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That Jacob did not at first discern the presence of the sons of
                 Joseph shows that his adoption of them into the number of the
                 theocratic family was prompted, not by the accidental impulse of
@@ -231,7 +231,7 @@ export default function Genesis48() {
           them, I pray you, unto me, and I will bless them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The blessing consisted of Josephs double portion, with a
                 portion being given to each of these sons, which, as stated,
                 contained a significance all out of proportion to natural
@@ -248,7 +248,7 @@ export default function Genesis48() {
           he kissed them, and embraced them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the Patriarch was blind, or nearly so, the Holy
                 Spirit refers to him as Israel, because he could see by Faith.)
               </span>
@@ -263,7 +263,7 @@ export default function Genesis48() {
           seed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan had told the Patriarch that he would never see Joseph
                 again. But now the Holy Spirit says, You have not only seen
                 Joseph, but his sons, as well. True Faith in God is never
@@ -279,7 +279,7 @@ export default function Genesis48() {
           between his knees, and he bowed himself with his face to the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that Joseph understood the tremendous import
                 of what was here being said and done)
               </span>
@@ -294,7 +294,7 @@ export default function Genesis48() {
           in his right hand toward Israels left hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because Ephraim was the younger)
               </span>
             </span>
@@ -302,7 +302,7 @@ export default function Genesis48() {
           , and Manasseh in his left hand toward Israels right hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because he was the older)</span>
+              <span className="explanation">(because he was the older)</span>
             </span>
           </span>
           , and brought them near unto him.
@@ -314,7 +314,7 @@ export default function Genesis48() {
           hand, and laid it upon Ephraims head, who was the younger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifying by his right hand that the greater part of the
                 blessing would go to Ephraim, even though he was the younger)
               </span>
@@ -323,13 +323,13 @@ export default function Genesis48() {
           , and his left hand upon Manassehs head, guiding his hands wittingly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(guided by the Holy Spirit)</span>
+              <span className="explanation">(guided by the Holy Spirit)</span>
             </span>
           </span>
           ; for Manasseh was the firstborn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but for the Spirit of God would have received the greater
                 portion)
               </span>
@@ -343,7 +343,7 @@ export default function Genesis48() {
           <sup className="calibre7">15</sup>And he blessed Joseph{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the double portion would go to Josephs sons; just before Jacob
                 blesses these young men, the aged Patriarch takes his staff and,
                 leaning upon it so as not to fall, bows in grateful worship
@@ -363,7 +363,7 @@ export default function Genesis48() {
           the God which fed me all my life long unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he specifies that the blessing about to be pronounced was from
                 God and God Alone)
               </span>
@@ -378,7 +378,7 @@ export default function Genesis48() {
           evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord is referred to here as an Angel, but is not to be
                 confused with that particular creation)
               </span>
@@ -389,7 +389,7 @@ export default function Genesis48() {
           midst of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The name spoke of Promise, while the multitude spoke of
                 Blessing. The Promise had to do with the coming Redeemer, Who
                 definitely did come. The blessing concerns the multitude, and
@@ -407,7 +407,7 @@ export default function Genesis48() {
           laid his right hand upon the head of Ephraim, it displeased him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because Ephraim was the younger, and thereby normally should
                 not receive the greater portion)
               </span>
@@ -423,7 +423,7 @@ export default function Genesis48() {
           so, my father: for this is the firstborn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Manasseh is the first born)</span>
+              <span className="explanation">(Manasseh is the first born)</span>
             </span>
           </span>
           ; put your right hand upon his head.
@@ -437,7 +437,7 @@ export default function Genesis48() {
           he, and his seed shall become a multitude of nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The northern kingdom of Israel, about 800 years into the
                 future, would also be called Ephraim; however, the greater
                 fulfillment concerning a multitude of nations awaits the coming
@@ -461,7 +461,7 @@ export default function Genesis48() {
           your fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which would happen about 240 years into the future)
               </span>
             </span>
@@ -476,7 +476,7 @@ export default function Genesis48() {
           Amorite with my sword and with my bow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We arent told exactly what Jacob meant by his statement. This
                 could very well have been a conflict with the Amorites, of which
                 we are given no information; however, it could speak of the

@@ -92,7 +92,7 @@ export default function Joshua07() {
           there; for they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the people of Ai)</span>
+              <span className="explanation">(the people of Ai)</span>
             </span>
           </span>{" "}
           are but few.

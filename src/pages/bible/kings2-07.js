@@ -35,7 +35,7 @@ export default function Kings207() {
           make windows in Heaven, might this thing be? And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisha)</span>
+              <span className="explanation">(Elisha)</span>
             </span>
           </span>{" "}
           said, Behold, you shall see it with your eyes, but shall not eat
@@ -109,14 +109,16 @@ export default function Kings207() {
           <sup className="calibre7">5</sup>And they rose up in the twilight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in the evening, near dark)</span>
+              <span className="explanation">(in the evening, near dark)</span>
             </span>
           </span>
           , to go unto the camp of the Syrians: and when they were come to the
           uttermost part of the camp of Syria, behold, there was no man there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the camp was empty, deserted)</span>
+              <span className="explanation">
+                (the camp was empty, deserted)
+              </span>
             </span>
           </span>
           .
@@ -264,7 +266,7 @@ export default function Kings207() {
           Jordan: and, lo, all the way was full of garments and vessels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(scattered about the way)</span>
+              <span className="explanation">(scattered about the way)</span>
             </span>
           </span>
           , which the Syrians had cast away in their haste. And the messengers

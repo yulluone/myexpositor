@@ -69,7 +69,7 @@ export default function Corinthians114() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">(unless it is interpreted);</span>
+              <span className="explanation">(unless it is interpreted);</span>
             </span>
           </span>{" "}
           howbeit in the Spirit he speaks mysteries{" "}
@@ -119,19 +119,19 @@ export default function Corinthians114() {
           Edification{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(builds up)</span>
+              <span className="explanation">(builds up)</span>
             </span>
           </span>
           , and Exhortation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to implore)</span>
+              <span className="explanation">(to implore)</span>
             </span>
           </span>
           , and Comfort{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(consolation)</span>
+              <span className="explanation">(consolation)</span>
             </span>
           </span>
           .
@@ -328,7 +328,7 @@ export default function Corinthians114() {
           a barbarian unto me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(nothing is accomplished)</span>
+              <span className="explanation">(nothing is accomplished)</span>
             </span>
           </span>
           .
@@ -564,7 +564,7 @@ export default function Corinthians114() {
           , but in understanding be men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be adult, mature)</span>
+              <span className="explanation">(be adult, mature)</span>
             </span>
           </span>
           .
@@ -730,7 +730,7 @@ export default function Corinthians114() {
           come together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Church Service)</span>
+              <span className="explanation">(a Church Service)</span>
             </span>
           </span>
           , every one of you has a Psalm, has a Doctrine, has a Tongue, has a
@@ -897,7 +897,7 @@ export default function Corinthians114() {
           <sup className="calibre7">31</sup>For you may all Prophesy one by one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in due order)</span>
+              <span className="explanation">(in due order)</span>
             </span>
           </span>
           , that all may learn, and all may be comforted.{" "}
@@ -1095,7 +1095,7 @@ export default function Corinthians114() {
           Prophesy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(desire the Gift of Prophecy)</span>
+              <span className="explanation">(desire the Gift of Prophecy)</span>
             </span>
           </span>
           , and forbid not to speak with Tongues.{" "}

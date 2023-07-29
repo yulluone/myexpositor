@@ -17,7 +17,7 @@ export default function Ezekiel32() {
           Word of the LORD came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Prophecy was uttered over a year after the destruction of
                 Jerusalem)
               </span>
@@ -35,7 +35,7 @@ export default function Ezekiel32() {
           their rivers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first Prophecy of this Chapter [
                 <ScrollLink href="/" scrollToId="#filepos9465599">
                   <span className="calibre_19">
@@ -73,7 +73,7 @@ export default function Ezekiel32() {
           and they shall bring you up in My Net.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is an apt illustration, My Net, signifying the Babylonians
                 appointed by the Lord to take Egypt down, which they did.)
               </span>
@@ -95,7 +95,7 @@ export default function Ezekiel32() {
           mountains, and fill the valleys with your height.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Pharaoh surveyed his troops and, no doubt, admired their
                 supposed power, he little realized that their destiny had
                 already been decided, and that those of which he thought so
@@ -112,7 +112,7 @@ export default function Ezekiel32() {
           full of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Nile Valley is formed by the Eastern and Western Mountains.
                 As the waters were turned into blood in the days of Moses, so
                 the land would be drenched with blood in the days of
@@ -129,7 +129,7 @@ export default function Ezekiel32() {
           Sun with a cloud, and the Moon shall not give her light.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse leads back to the plague of darkness that gripped
                 Egypt during the time of Moses [
                 <ScrollLink href="/exodus-10" scrollToId="#filepos808557">
@@ -154,7 +154,7 @@ export default function Ezekiel32() {
           GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse, although obscure and little thought of [as its
                 surrounding Passages], has to do greatly with the rise and fall
                 of nations. The degree of their Judgment has to do with the
@@ -171,7 +171,7 @@ export default function Ezekiel32() {
           the countries which you have not known.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: concerning the vexing of hearts, if Egypt could
                 not stand against the mighty Babylonians, where did that leave
                 smaller and weaker nations?)
@@ -188,7 +188,7 @@ export default function Ezekiel32() {
           every man for his own life, in the day of your fall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse proclaims the helplessness of those who
                 have boasted of their invincibility, hence, tremble at every
                 moment. Men can easily boast of their power, but when God begins
@@ -205,7 +205,7 @@ export default function Ezekiel32() {
           sword of the king of Babylon shall come upon you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Very plainly, the Prophet proclaims the coming destruction of
                 Egypt by the Babylonians, and even several years before it
                 actually happened, but with no favorable response from Pharaoh.
@@ -224,7 +224,7 @@ export default function Ezekiel32() {
           thereof shall be destroyed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And they shall spoil the pomp of Egypt, refers to
                 Egypts pride, which was boasting itself through Pharaoh-Hophra;
                 however, this pomp would be destroyed, as he was strangled to
@@ -241,7 +241,7 @@ export default function Ezekiel32() {
           trouble them any more, nor the hoofs of beasts trouble them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The foot of man, pertained to individuals who peddled an
                 apparatus designed to lift water from the Nile in order to
                 irrigate the land. The invasion by Nebuchadnezzar would cause
@@ -267,7 +267,7 @@ export default function Ezekiel32() {
           know that I Am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the heathen did not believe the Prophecies, the
                 Prophets, or Jehovah Who sent them; however, their unbelief
                 would have no effect whatsoever on the carrying out of these
@@ -287,7 +287,7 @@ export default function Ezekiel32() {
           says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the minds of these heathen, the contest was always between
                 gods. Therefore, before the fact, the idea of Jehovah, Who had
                 already suffered defeat by the Babylonians [at least in their
@@ -310,7 +310,7 @@ export default function Ezekiel32() {
           came unto me, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Passages are some of the few which permit a momentary
                 glance into the dreadful mystery of the spirit world)
               </span>
@@ -327,7 +327,7 @@ export default function Ezekiel32() {
           down into the Pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrases, Nether parts of the Earth and The Pit, refer to
                 Hell. This, as stated, is in the center of the Earth.
               </span>
@@ -354,7 +354,7 @@ export default function Ezekiel32() {
           and be you laid with the uncircumcised.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word, uncircumcised, occurs some ten times in this
                 Prophecy. It expresses non-relationship to God and corresponds
                 to the modern word unconverted.)
@@ -370,7 +370,7 @@ export default function Ezekiel32() {
           and all her multitudes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Slain by the sword, is repeated twelve times in
                 this Prophecy. It signifies Divine Judgment.)
               </span>
@@ -385,7 +385,7 @@ export default function Ezekiel32() {
           gone down, they lie uncircumcised, slain by the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The strong refers to the other Pharaohs and other mighty kings,
                 such as the Assyrians, who had already gone to Hell and would
                 speak to him, i.e., Pharaoh. That which they will speak will not
@@ -402,7 +402,7 @@ export default function Ezekiel32() {
           his graves are about him: all of them slain, fallen by the sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word, graves, at least in this instance, refers to the tomb
                 or sepulcher, the place of the body, not the place of the soul.
                 It merely means that they died, with the next Verses telling the
@@ -420,7 +420,7 @@ export default function Ezekiel32() {
           fallen by the sword, which caused terror in the land of the living.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: the mightiest of the mighty on Earth, when in
                 Hell, will have no more sway or influence than the lowliest of
                 the low.)
@@ -438,7 +438,7 @@ export default function Ezekiel32() {
           their shame with them who go down to the Pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Their shame, refers to the fact that on Earth they
                 were robed with honor, while in Sheol, they are clothed with
                 shame.)
@@ -457,7 +457,7 @@ export default function Ezekiel32() {
           slain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun they refers to Assyria and Elam. The pronoun her
                 refers to Egypt; the pronoun him refers to Pharaoh.)
               </span>
@@ -473,7 +473,7 @@ export default function Ezekiel32() {
           living.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun him refers once again to Pharaoh. He is in the
                 midst of these other fallen and slain: Meshech, Tubal, and the
                 others mentioned.)
@@ -491,7 +491,7 @@ export default function Ezekiel32() {
           they were the terror of the mighty in the land of the living.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of the Verse is that Meshech and Tubal have a lower
                 place in Hell, if such is possible. Which are gone down to Hell
                 with their weapons of war, does not mean that such items are
@@ -519,7 +519,7 @@ export default function Ezekiel32() {
           down to the Pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is Edom, is used by the Holy Spirit as an exclamation! It
                 is said in this manner because the exultation which the Edomites
                 had shown over the fall of Jerusalem [
@@ -546,7 +546,7 @@ export default function Ezekiel32() {
           shame with them who go down to the Pit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Inasmuch as the Holy Spirit through the Prophet names the
                 Zidonians and the princes of the north, it suggests the
                 direction of Northern Syria, including cities like Damascus,
@@ -563,7 +563,7 @@ export default function Ezekiel32() {
           by the sword, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As other nations were glad that Pharaoh would join them in Hell
                 and likewise share their misery, now Pharaoh is glad to see
                 others come to share his misery. All are sharers alike in the
@@ -581,7 +581,7 @@ export default function Ezekiel32() {
           all his multitude, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The election of Nebuchadnezzar as Gods sword and terror is one
                 of the great facts of Scripture. The sword humbled Egypt, in
                 whom Israel trusted. It also humbled all the neighboring nations

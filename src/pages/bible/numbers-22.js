@@ -53,7 +53,7 @@ export default function Numbers22() {
           Balaam the son of Beor to Pethor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an out-of-Covenant Prophet)</span>
+              <span className="explanation">(an out-of-Covenant Prophet)</span>
             </span>
           </span>
           , which is by the river of the land of the children of his people, to
@@ -78,7 +78,7 @@ export default function Numbers22() {
           curse me this people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Balak requests of Balaam)</span>
+              <span className="explanation">(Balak requests of Balaam)</span>
             </span>
           </span>
           ; for they are too mighty for me: peradventure I shall prevail, that

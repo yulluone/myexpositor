@@ -21,7 +21,7 @@ export default function Job35() {
           you said, My righteousness is more than Gods?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job had said no such thing.)</span>
+              <span className="explanation">(Job had said no such thing.)</span>
             </span>
           </span>
         </span>

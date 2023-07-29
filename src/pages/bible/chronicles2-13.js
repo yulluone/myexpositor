@@ -180,7 +180,7 @@ export default function Chronicles213() {
           candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lampstand)</span>
+              <span className="explanation">(Lampstand)</span>
             </span>
           </span>{" "}
           of gold with the lamps thereof, to burn every evening: for we keep the
@@ -254,7 +254,7 @@ export default function Chronicles213() {
           <sup className="calibre7">15</sup>Then the men of Judah gave a shout{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a shout of Faith)</span>
+              <span className="explanation">(a shout of Faith)</span>
             </span>
           </span>
           : and as the men of Judah shouted, it came to pass, that God smote

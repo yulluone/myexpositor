@@ -40,7 +40,7 @@ export default function Samuel108() {
           but turned aside after lucre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(money)</span>
+              <span className="explanation">(money)</span>
             </span>
           </span>
           , and took bribes, and perverted judgment.{" "}
@@ -264,7 +264,7 @@ export default function Samuel108() {
           LORD unto the people who asked of him a king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(so they had no excuse!)</span>
+              <span className="explanation">(so they had no excuse!)</span>
             </span>
           </span>
         </span>
@@ -288,7 +288,7 @@ export default function Samuel108() {
           his ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(plant the crops)</span>
+              <span className="explanation">(plant the crops)</span>
             </span>
           </span>
           , and to reap his harvest, and to make his instruments of war, and

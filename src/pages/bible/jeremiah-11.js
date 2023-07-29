@@ -16,7 +16,7 @@ export default function Jeremiah11() {
           the LORD, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some have said this is Jeremiahs fourth Commission. The Word
                 begins this First Verse, which came from the Lord, and which
                 could have been the Salvation of the nation, but they would not
@@ -33,7 +33,7 @@ export default function Jeremiah11() {
           and speak unto the men of Judah, and to the inhabitants of Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Covenant refers to the Book of the Law that had been found
                 in the Temple some years previously during the reign of King
                 Josiah, and which originated the revival proposed by that good
@@ -60,7 +60,7 @@ export default function Jeremiah11() {
           Covenant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word cursed, describing the Law, means condemned to death;
                 this is the function of Law, it cannot give life to dead men, it
                 condemns lawbreakers; the Law was given to make man conscious of
@@ -81,7 +81,7 @@ export default function Jeremiah11() {
           command you: so shall you be My People, and I will be your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God does not ask men to obey Him as a selfish and tyrannical
                 master orders a slave in order to gratify his own cruel temper,
                 but He commands mans obedience in order to secure mans
@@ -102,7 +102,7 @@ export default function Jeremiah11() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A land flowing with milk and honey is found fifteen times in
                 the Pentateuch, and some five times elsewhere. The Lord kept His
                 Promise, as He always keeps His Promises, and gave them the
@@ -123,7 +123,7 @@ export default function Jeremiah11() {
           Jerusalem, saying, Hear you the words of this Covenant, and do them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Lord was telling Jeremiah to be a street
                 Preacher, both in Jerusalem and in the cities of Judah. He
                 carried in his hand the Bible, and caused the people to hear its
@@ -143,7 +143,7 @@ export default function Jeremiah11() {
           Voice.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of the Passage is that the protesting did not begin
                 with Jeremiah, but, in fact, has been needful from the time they
                 were delivered from Egypt. The cup is now full not only full,
@@ -162,7 +162,7 @@ export default function Jeremiah11() {
           Covenant, which I commanded them to do; but they did them not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah contrasted the teachings of the Bible with those of
                 the human imagination, and declared the latter to be evil, and
                 that the wrath predicted in the Bible would certainly strike
@@ -179,7 +179,7 @@ export default function Jeremiah11() {
           of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is clear from{" "}
                 <ScrollLink href="/" scrollToId="#filepos8301406">
                   <span className="calibre_19">
@@ -213,7 +213,7 @@ export default function Jeremiah11() {
           fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their forefathers, refers back to the sins of the Israelites in
                 the wilderness and in Canaan under the Judges. The righteous
                 Prophets were constantly pointing their hearers back to those
@@ -244,7 +244,7 @@ export default function Jeremiah11() {
           them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, I will, once again emphasize the fact that the Lord
                 controls all. They shall not be able to escape, refers to the
                 idea in the minds of the people of Judah that if the Prophecies
@@ -264,7 +264,7 @@ export default function Jeremiah11() {
           their trouble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The impotency of idols to protect idolaters is declared in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8302902">
                   <span className="calibre_19">
@@ -288,7 +288,7 @@ export default function Jeremiah11() {
           even altars to burn incense unto Baal.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Not only does idolatry bring shame upon idolaters, but the most
                 popular idol of that time was so shameful that a description of
                 it is impossible.)
@@ -304,7 +304,7 @@ export default function Jeremiah11() {
           them in the time that they cry unto Me for their trouble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The die has already been cast! There is no hope for their
                 deliverance. It does not mean that if they truly repented, the
                 Lord would not hear! Actually, He definitely would hear in such
@@ -324,7 +324,7 @@ export default function Jeremiah11() {
           is passed from you? when you do evil, then you rejoice.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Jews, it would seem, came to the Temple to pray, but their
                 prayer is not accepted because it is associated with unholy
                 practices. Actually, they were not truly praying, but only going
@@ -356,7 +356,7 @@ export default function Jeremiah11() {
           tumult He has kindled fire upon it, and the branches of it are broken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The green olive tree was Israel; the tumult was the Chaldean
                 invasion, symbolized here by a thunderstorm with lightning. The
                 storm destroys the tree, and the lightning sets it on fire.)
@@ -373,7 +373,7 @@ export default function Jeremiah11() {
           themselves to provoke Me to anger in offering incense unto Baal.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the LORD of Hosts, Who planted you, refers to Israel being
                 a peculiar people under the Lord, as no other people or nation.
                 He was their Sponsor in the sense that He has never been the
@@ -404,7 +404,7 @@ export default function Jeremiah11() {
           of it, and I know it: then You showed me their doings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And the LORD has given me knowledge of it, refers to a plot
                 against Jeremiahs life, and by his own brethren, at that! How
                 the Lord showed him this is not known.
@@ -436,7 +436,7 @@ export default function Jeremiah11() {
           name may be no more remembered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah came unto his own and his own received him not. They
                 resolved to kill him though he was to them as a gentle lamb, and
                 his only crime was that he prophesied to them in the Name of the
@@ -466,7 +466,7 @@ export default function Jeremiah11() {
           Vengeance on them: for unto You have I revealed my cause.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prayer of this Verse concerns the conflict between Truth
                 and Righteousness versus falsehood and evil. It corresponds to
                 similar language on the lips of David and of the Apostle Paul [
@@ -522,7 +522,7 @@ export default function Jeremiah11() {
           of the LORD, that you die not by our hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now that the plot is revealed, the demand is that he stop
                 prophesying. Their anger was because of his Message)
               </span>
@@ -538,7 +538,7 @@ export default function Jeremiah11() {
           sword; their sons and their daughters shall die by famine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8310492">
                   <span className="calibre_19">
@@ -599,7 +599,7 @@ export default function Jeremiah11() {
           their visitation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To touch Gods is to touch God! As Anathoth was where many
                 Priests resided, this was a special Judgment on the Priesthood,
                 who had been so instrumental in steering Judah and Jerusalem

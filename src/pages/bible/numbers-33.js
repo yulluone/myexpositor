@@ -63,7 +63,7 @@ export default function Numbers33() {
           also the LORD executed judgments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Egypt was left a waste)</span>
+              <span className="explanation">(Egypt was left a waste)</span>
             </span>
           </span>
         </span>
@@ -504,7 +504,7 @@ export default function Numbers33() {
           <sup className="calibre7">54</sup>And you shall divide the land by lot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Urim and the Thummim)</span>
+              <span className="explanation">(the Urim and the Thummim)</span>
             </span>
           </span>{" "}
           for an inheritance among your families: and to the more you shall give

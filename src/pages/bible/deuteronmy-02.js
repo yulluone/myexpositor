@@ -17,7 +17,7 @@ export default function Deuteronmy02() {
           me: and we compassed Mount Seir many days.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These many days are the thirty-eight years, during which the
                 people wandered in the wilderness before they camped the second
                 time at Kadesh. Out of the Will of God, men tend to run in
@@ -38,7 +38,7 @@ export default function Deuteronmy02() {
           enough: turn you northward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after 38 years, they are now turning toward Canaan; this means
                 that the generation of unbelief had now died)
               </span>
@@ -62,7 +62,7 @@ export default function Deuteronmy02() {
           have given Mount Seir unto Esau for a possession{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-36" scrollToId="#filepos487463">
                   <span className="calibre_19">
@@ -85,7 +85,7 @@ export default function Deuteronmy02() {
           you may drink{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord told them exactly what to do)
               </span>
             </span>
@@ -101,7 +101,7 @@ export default function Deuteronmy02() {
           you; you have lacked nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord proved to Israel that even though they were in a
                 wilderness, still, He could set a table for them, which He did [
                 <ScrollLink href="/psalm-078" scrollToId="#filepos6208776">
@@ -137,7 +137,7 @@ export default function Deuteronmy02() {
           the children of Lot for a possession{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-19" scrollToId="#filepos257799">
                   <span className="calibre_19">
@@ -165,7 +165,7 @@ export default function Deuteronmy02() {
           the Anakims; but the Moabites called them Emims{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these were a race of giants, the result of the ungodly union of
                 fallen angels and women [
                 <ScrollLink href="/genesis-06" scrollToId="#filepos94308">
@@ -211,7 +211,7 @@ export default function Deuteronmy02() {
           consumed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/hebrews-04" scrollToId="#filepos14447833">
                   <span className="calibre_19">
@@ -233,7 +233,7 @@ export default function Deuteronmy02() {
           of war were consumed and dead from among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel lay for 38 years in the wilderness, paralyzed by
                 unbelief, like the man at the Pool of Bethesda [
                 <ScrollLink href="/john-05" scrollToId="#filepos12371735">
@@ -275,7 +275,7 @@ export default function Deuteronmy02() {
           because I have given it unto the children of Lot for a possession{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-19" scrollToId="#filepos258432">
                   <span className="calibre_19">
@@ -319,7 +319,7 @@ export default function Deuteronmy02() {
           Caphtor, destroyed them, and dwelt in their stead.){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The giants spoken of in these Verses, who were nine-feet-plus
                 tall, were the offspring of the union of fallen angels and women
                 [
@@ -354,7 +354,7 @@ export default function Deuteronmy02() {
           contend with him in battle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as should be overly obvious, the Lord is the One Who gives the
                 victory; the river Arnon was on the east side of the Dead Sea,
                 about half way of that body of water)
@@ -372,7 +372,7 @@ export default function Deuteronmy02() {
           in anguish because of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking of the nations near the Promised Land; they would have
                 had this 38 years before, but for unbelief)
               </span>
@@ -402,7 +402,7 @@ export default function Deuteronmy02() {
           will pass through on my feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning they would not stop for any length of time)
               </span>
             </span>
@@ -425,7 +425,7 @@ export default function Deuteronmy02() {
           appears this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in these statements, as given by Moses, we are given a
                 behind-the-scenes view of the manner in which the Lord works;
                 when His Children are in His Will, thereby walking obediently,
@@ -477,7 +477,7 @@ export default function Deuteronmy02() {
           delivered all unto us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as these enemies were defeated, under the New Covenant, every
                 enemy in our lives can be defeated, but only if we do it Gods
                 Way; that Way is for us to fully trust Christ and what He has

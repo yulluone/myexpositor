@@ -237,19 +237,19 @@ export default function Kings201() {
           of fifty with his fifty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with 50 soldiers)</span>
+              <span className="explanation">(with 50 soldiers)</span>
             </span>
           </span>
           . And he went up to him: and, behold, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elijah)</span>
+              <span className="explanation">(Elijah)</span>
             </span>
           </span>{" "}
           sat on the top of an hill. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the captain)</span>
+              <span className="explanation">(the captain)</span>
             </span>
           </span>{" "}
           spoke unto him, You man of God, the king has said, Come down.
@@ -320,7 +320,7 @@ export default function Kings201() {
           Elijah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was the Lord Himself)</span>
+              <span className="explanation">(this was the Lord Himself)</span>
             </span>
           </span>
           , Go down with him: be not afraid of him. And he arose, and went down

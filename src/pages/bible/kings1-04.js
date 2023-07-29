@@ -334,13 +334,13 @@ export default function Kings104() {
           was thirty measures of fine flour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 6 bushels)</span>
+              <span className="explanation">(about 6 bushels)</span>
             </span>
           </span>
           , and threescore measures of meal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 12 bushels)</span>
+              <span className="explanation">(about 12 bushels)</span>
             </span>
           </span>
           ,
@@ -352,7 +352,7 @@ export default function Kings104() {
           the pastures, and an hundred sheep, beside harts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(deer)</span>
+              <span className="explanation">(deer)</span>
             </span>
           </span>
           , and roebucks, and fallowdeer, and fatted fowl.
@@ -442,7 +442,7 @@ export default function Kings104() {
           and dromedaries{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mules)</span>
+              <span className="explanation">(mules)</span>
             </span>
           </span>{" "}
           brought they unto the place where the officers were, every man

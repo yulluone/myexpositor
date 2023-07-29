@@ -91,7 +91,9 @@ export default function Job18() {
           tabernacle, and his candle shall be put out with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no hope for Job, says Bildad)</span>
+              <span className="explanation">
+                (no hope for Job, says Bildad)
+              </span>
             </span>
           </span>
           .

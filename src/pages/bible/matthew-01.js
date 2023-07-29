@@ -15,19 +15,19 @@ export default function Matthew01() {
           <sup className="calibre7">1</sup>The Book{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(account)</span>
+              <span className="explanation">(account)</span>
             </span>
           </span>{" "}
           of the generation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(lineage)</span>
+              <span className="explanation">(lineage)</span>
             </span>
           </span>{" "}
           of Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saviour,</span>
+              <span className="explanation">(Saviour,</span>
             </span>
             <span>
               <span className="calibre_19">Messiah)</span>
@@ -102,7 +102,7 @@ export default function Matthew01() {
           <sup className="calibre7">2</sup>Abraham begat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fathered)</span>
+              <span className="explanation">(fathered)</span>
             </span>
           </span>{" "}
           Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
@@ -176,7 +176,7 @@ export default function Matthew01() {
           brethren, about the time they were carried away to Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 593 B.C.)</span>
+              <span className="explanation">(about 593 B.C.)</span>
             </span>
           </span>
           :
@@ -212,13 +212,13 @@ export default function Matthew01() {
           of Mary, of whom was born Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saviour)</span>
+              <span className="explanation">(Saviour)</span>
             </span>
           </span>
           , Who is called Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Anointed, the Messiah)</span>
+              <span className="explanation">(the Anointed, the Messiah)</span>
             </span>
           </span>
           .
@@ -259,19 +259,21 @@ export default function Matthew01() {
           this wise: When as His Mother Mary was espoused{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(engaged)</span>
+              <span className="explanation">(engaged)</span>
             </span>
           </span>{" "}
           to Joseph, before they came together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before they were married)</span>
+              <span className="explanation">(before they were married)</span>
             </span>
           </span>
           , she was found with Child of the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by decree of the Holy Spirit)</span>
+              <span className="explanation">
+                (by decree of the Holy Spirit)
+              </span>
             </span>
           </span>
           .
@@ -312,7 +314,7 @@ export default function Matthew01() {
           you shall call His Name JESUS{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saviour)</span>
+              <span className="explanation">(Saviour)</span>
             </span>
           </span>
           : for He shall save His people from their sins.

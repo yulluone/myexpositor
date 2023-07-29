@@ -18,7 +18,7 @@ export default function Ezra05() {
           unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two Books of Haggai and Zechariah should be read in
                 connection with this Chapter)
               </span>
@@ -35,7 +35,7 @@ export default function Ezra05() {
           helping them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Prophets now come on the scene, with the Word from the Lord
                 that the work must be resumed, and speedily; the people had
                 become so busy building their own houses and setting themselves
@@ -60,7 +60,7 @@ export default function Ezra05() {
           this House, and to make up this wall?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the work proceeds, Satan will again rear his ugly head, but
                 to no avail.)
               </span>
@@ -74,7 +74,7 @@ export default function Ezra05() {
           manner, What are the names of the men who make this building?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The text should read, Then said they...?)
               </span>
             </span>
@@ -89,7 +89,7 @@ export default function Ezra05() {
           concerning this matter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this time, the Elders who presided over the workmen employed
                 in the restoration were a special subject of Gods watchful care,
                 so that those who would fain have hindered them could not)
@@ -112,7 +112,7 @@ export default function Ezra05() {
           unto Darius the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tatnai was a just Governor-general of the vast regions to the
                 westward of the River Euphrates; he personally visited
                 Jerusalem, rather than listen to the reports of Israels
@@ -208,7 +208,7 @@ export default function Ezra05() {
           send his pleasure to us concerning this matter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is quite possible that this decree of Cyrus may still exist
                 in the ruins of Babylon and will one day be discovered)
               </span>

@@ -33,7 +33,9 @@ export default function Kings120() {
           of Israel into the city, and said unto him, Thus says Ben-hadad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as he laid siege to the city)</span>
+              <span className="explanation">
+                (as he laid siege to the city)
+              </span>
             </span>
           </span>
           ,
@@ -116,7 +118,7 @@ export default function Kings120() {
           messengers departed, and brought him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ben-hadad)</span>
+              <span className="explanation">(Ben-hadad)</span>
             </span>
           </span>{" "}
           word again.
@@ -127,7 +129,7 @@ export default function Kings120() {
           <sup className="calibre7">10</sup>And Ben-hadad sent unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ahab)</span>
+              <span className="explanation">(Ahab)</span>
             </span>
           </span>
           , and said, The gods do so unto me, and more also, if the dust of
@@ -165,7 +167,7 @@ export default function Kings120() {
           And they set themselves in array against the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against Samaria)</span>
+              <span className="explanation">(against Samaria)</span>
             </span>
           </span>
         </span>
@@ -271,13 +273,13 @@ export default function Kings120() {
           the provinces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Israel)</span>
+              <span className="explanation">(from Israel)</span>
             </span>
           </span>{" "}
           came out of the city, and the army which followed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(such as it was!)</span>
+              <span className="explanation">(such as it was!)</span>
             </span>
           </span>
         </span>
@@ -387,7 +389,7 @@ export default function Kings120() {
           Children of Israel pitched before them like two little flocks of kids{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a tiny army)</span>
+              <span className="explanation">(a tiny army)</span>
             </span>
           </span>
           ; but the Syrians filled the country{" "}
@@ -516,13 +518,13 @@ export default function Kings120() {
           . And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ahab)</span>
+              <span className="explanation">(Ahab)</span>
             </span>
           </span>{" "}
           said, Is he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ben-hadad)</span>
+              <span className="explanation">(Ben-hadad)</span>
             </span>
           </span>{" "}
           yet alive? he is my brother{" "}
@@ -638,7 +640,7 @@ export default function Kings120() {
           and there, he was gone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(escaped)</span>
+              <span className="explanation">(escaped)</span>
             </span>
           </span>
           . And the king of Israel said unto him, So shall your judgment be;
@@ -667,7 +669,7 @@ export default function Kings120() {
           to utter destruction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(whom the Lord appointed)</span>
+              <span className="explanation">(whom the Lord appointed)</span>
             </span>
           </span>
           , therefore your life shall go for his life, and your people for his

@@ -92,7 +92,7 @@ export default function Mark12() {
           <sup className="calibre7">2</sup>And at the season{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(harvest season)</span>
+              <span className="explanation">(harvest season)</span>
             </span>
           </span>{" "}
           he sent to the husbandmen a servant{" "}
@@ -195,7 +195,7 @@ export default function Mark12() {
           themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in this case, the Sanhedrin)</span>
+              <span className="explanation">(in this case, the Sanhedrin)</span>
             </span>
           </span>
           , This is the heir{" "}
@@ -589,7 +589,7 @@ export default function Mark12() {
           <sup className="calibre7">18</sup>Then come unto Him the Sadducees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another party in Israel)</span>
+              <span className="explanation">(another party in Israel)</span>
             </span>
           </span>
           , which say there is no Resurrection{" "}
@@ -669,7 +669,7 @@ export default function Mark12() {
           neither left he any seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(children)</span>
+              <span className="explanation">(children)</span>
             </span>
           </span>
           : and the third likewise.
@@ -865,7 +865,7 @@ export default function Mark12() {
           <sup className="calibre7">28</sup>And one of the Scribes came{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably a Pharisee)</span>
+              <span className="explanation">(probably a Pharisee)</span>
             </span>
           </span>
           , and having heard them reasoning together, and perceiving that He had
@@ -1149,7 +1149,7 @@ export default function Mark12() {
           ; and whence is He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ) then</span>
+              <span className="explanation">(Christ) then</span>
             </span>
           </span>{" "}
           his son?{" "}
@@ -1207,7 +1207,7 @@ export default function Mark12() {
           , which love to go in long clothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(priestly or royal robes)</span>
+              <span className="explanation">(priestly or royal robes)</span>
             </span>
           </span>
           , and{" "}
@@ -1255,7 +1255,7 @@ export default function Mark12() {
           <sup className="calibre7">40</sup>Which devour widows houses{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for money)</span>
+              <span className="explanation">(for money)</span>
             </span>
           </span>
           , and for a pretence make long prayers{" "}
@@ -1287,7 +1287,7 @@ export default function Mark12() {
           treasury{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He did so for a purpose)</span>
+              <span className="explanation">(He did so for a purpose)</span>
             </span>
           </span>
           , and beheld how the people cast money into the treasury{" "}

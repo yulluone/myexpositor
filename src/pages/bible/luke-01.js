@@ -276,7 +276,7 @@ export default function Luke01() {
           <sup className="calibre7">8</sup>And it came to pass, that while he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Zacharias)</span>
+              <span className="explanation">(Zacharias)</span>
             </span>
           </span>{" "}
           executed the Priests office before God in the order of his course{" "}
@@ -331,7 +331,7 @@ export default function Luke01() {
           of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gabriel)</span>
+              <span className="explanation">(Gabriel)</span>
             </span>
           </span>{" "}
           standing on the right side of the Altar of Incense{" "}
@@ -479,7 +479,7 @@ export default function Luke01() {
           <sup className="calibre7">17</sup>And he shall go before Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           in the spirit and power of Elijah{" "}
@@ -503,7 +503,7 @@ export default function Luke01() {
           , and the disobedient to the wisdom of the just{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God and His Word)</span>
+              <span className="explanation">(God and His Word)</span>
             </span>
           </span>
           ; to make ready a people prepared for the Lord{" "}
@@ -524,7 +524,7 @@ export default function Luke01() {
           stricken in years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a posture of unbelief)</span>
+              <span className="explanation">(a posture of unbelief)</span>
             </span>
           </span>
           .
@@ -576,7 +576,7 @@ export default function Luke01() {
           ; and am sent to speak unto you, and to show you these glad tidings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sent from the throne of God)</span>
+              <span className="explanation">(sent from the throne of God)</span>
             </span>
           </span>
           .
@@ -605,7 +605,7 @@ export default function Luke01() {
           , because you believed not my words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unbelief is a sin)</span>
+              <span className="explanation">(unbelief is a sin)</span>
             </span>
           </span>
           , which shall be fulfilled in their season{" "}
@@ -649,7 +649,7 @@ export default function Luke01() {
           speak unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sign had already begun)</span>
+              <span className="explanation">(the sign had already begun)</span>
             </span>
           </span>
           : and they perceived that he had seen a vision in the Temple{" "}
@@ -669,7 +669,7 @@ export default function Luke01() {
           as the days of his ministration were accomplished{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was about a week)</span>
+              <span className="explanation">(it was about a week)</span>
             </span>
           </span>
           , he departed to his own house.
@@ -770,7 +770,7 @@ export default function Luke01() {
           espoused{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(engaged)</span>
+              <span className="explanation">(engaged)</span>
             </span>
           </span>{" "}
           to a man whose name was Joseph, of the house of David{" "}
@@ -1229,7 +1229,7 @@ export default function Luke01() {
           <sup className="calibre7">42</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisabeth)</span>
+              <span className="explanation">(Elisabeth)</span>
             </span>
           </span>{" "}
           spake out with a loud voice and said, Blessed{" "}
@@ -1241,7 +1241,7 @@ export default function Luke01() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Mary)</span>
+              <span className="explanation">(Mary)</span>
             </span>
           </span>{" "}
           among women{" "}
@@ -1262,7 +1262,9 @@ export default function Luke01() {
           the fruit of your womb{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Christ was that fruit!)</span>
+              <span className="explanation">
+                (Jesus Christ was that fruit!)
+              </span>
             </span>
           </span>
           .
@@ -1322,7 +1324,9 @@ export default function Luke01() {
           she who believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Mary and her faith)</span>
+              <span className="explanation">
+                (refers to Mary and her faith)
+              </span>
             </span>
           </span>
           : for there shall be a performance of those things which were told her
@@ -1402,7 +1406,7 @@ export default function Luke01() {
           of His handmaiden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(humility)</span>
+              <span className="explanation">(humility)</span>
             </span>
           </span>
           : for, behold, from henceforth all generations shall call me blessed{" "}
@@ -1578,7 +1582,7 @@ export default function Luke01() {
           <sup className="calibre7">56</sup>And Mary abode with her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Elisabeth)</span>
+              <span className="explanation">(Elisabeth)</span>
             </span>
           </span>{" "}
           about three months, and returned to her own house{" "}
@@ -1956,7 +1960,7 @@ export default function Luke01() {
           <sup className="calibre7">76</sup>And you, child{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John the Baptist)</span>
+              <span className="explanation">(John the Baptist)</span>
             </span>
           </span>
           , shall be called the Prophet of the Highest: for you shall go before
@@ -2026,7 +2030,7 @@ export default function Luke01() {
           in spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in the ways of the Lord)</span>
+              <span className="explanation">(in the ways of the Lord)</span>
             </span>
           </span>
           , and was in the deserts till the day of his showing unto Israel{" "}

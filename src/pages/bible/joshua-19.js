@@ -435,7 +435,7 @@ export default function Joshua19() {
           dividing the land for inheritance by their coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>
           , the Children of Israel gave an inheritance to Joshua the son of Nun

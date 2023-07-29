@@ -131,7 +131,7 @@ export default function Numbers03() {
           sons, and they shall wait on their Priests office: and the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           who comes near shall be put to death{" "}
@@ -411,7 +411,7 @@ export default function Numbers03() {
           and the stranger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentile)</span>
+              <span className="explanation">(Gentile)</span>
             </span>
           </span>{" "}
           who comes near shall be put to death.
@@ -523,7 +523,7 @@ export default function Numbers03() {
           <sup className="calibre7">48</sup>And you shall give the money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about $30 in 2004 currency)</span>
+              <span className="explanation">(about $30 in 2004 currency)</span>
             </span>
           </span>
           , wherewith the odd number of them is to be redeemed, unto Aaron and

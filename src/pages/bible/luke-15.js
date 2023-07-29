@@ -388,7 +388,9 @@ export default function Luke15() {
           , and there wasted his substance with riotous living{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this characterizes the world)</span>
+              <span className="explanation">
+                (this characterizes the world)
+              </span>
             </span>
           </span>
           .
@@ -801,7 +803,7 @@ export default function Luke15() {
           <sup className="calibre7">27</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the servant)</span>
+              <span className="explanation">(the servant)</span>
             </span>
           </span>{" "}
           said unto him, Your brother is come{" "}
@@ -988,19 +990,19 @@ export default function Luke15() {
           <sup className="calibre7">32</sup>It was meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(necessary)</span>
+              <span className="explanation">(necessary)</span>
             </span>
           </span>{" "}
           that we should make merry, and be glad: for this your brother was dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dead in trespasses and sins)</span>
+              <span className="explanation">(dead in trespasses and sins)</span>
             </span>
           </span>
           , and is alive again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(has come to Christ)</span>
+              <span className="explanation">(has come to Christ)</span>
             </span>
           </span>
           ; and was lost, and is found{" "}

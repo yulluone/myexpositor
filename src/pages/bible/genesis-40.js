@@ -40,7 +40,7 @@ export default function Genesis40() {
           ward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/genesis-39" scrollToId="#filepos523473">
                   <span className="calibre_19">
@@ -74,7 +74,7 @@ export default function Genesis40() {
           Egypt, which were bound in the prison.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In studying the Word of God, it becomes obvious that the Lord
                 quite often uses dreams to carry forth His Work in some way.)
               </span>
@@ -95,7 +95,7 @@ export default function Genesis40() {
           you so sadly today?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They sensed that the dreams were important.)
               </span>
             </span>
@@ -108,7 +108,7 @@ export default function Genesis40() {
           dreamed a dream, and there is no interpreter of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems they had sought the help of others to interpret the
                 dreams, but to no avail)
               </span>
@@ -118,7 +118,7 @@ export default function Genesis40() {
           tell me them, I pray you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joseph served the prisoners, and, no doubt, with gentle
                 sympathy; he pleased his master; and he preached faithfully the
                 Word of the Lord, whether it announced Grace or wrath Williams.)
@@ -181,7 +181,7 @@ export default function Genesis40() {
           should put me into the dungeon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos538195">
                   <span className="calibre_19">
@@ -236,7 +236,7 @@ export default function Genesis40() {
           birds shall eat your flesh from off you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God Alone knows the future, and He is able to reveal it to men,
                 should He so desire. The manner in which the Holy Spirit used
                 Joseph in this instance would come under the heading of three
@@ -275,7 +275,7 @@ export default function Genesis40() {
           unto his butlership again; and he gave the cup into Pharaohs hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (exactly as Joseph had stated would happen)
               </span>
             </span>
@@ -289,7 +289,7 @@ export default function Genesis40() {
           Joseph had interpreted to them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, exactly as Joseph had stated)
               </span>
             </span>
@@ -303,7 +303,7 @@ export default function Genesis40() {
           remember Joseph, but forgot him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Divine discipline permitted that Joseph should be tempted in
                 all points, and so the chief cupbearer forgot him, although he
                 knew his innocence, and that he possessed a mysterious

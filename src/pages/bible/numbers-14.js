@@ -618,7 +618,7 @@ export default function Numbers14() {
           should be a prey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the enemy)</span>
+              <span className="explanation">(to the enemy)</span>
             </span>
           </span>
           , them will I bring in, and they shall know the land which you have
@@ -639,7 +639,7 @@ export default function Numbers14() {
           <sup className="calibre7">32</sup>But as for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(said with contempt)</span>
+              <span className="explanation">(said with contempt)</span>
             </span>
           </span>
           , your carcases, they shall fall in this wilderness.
@@ -855,7 +855,9 @@ export default function Numbers14() {
           hill top{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they operated on presumption)</span>
+              <span className="explanation">
+                (they operated on presumption)
+              </span>
             </span>
           </span>
           : nevertheless the Ark of the Covenant of the LORD, and Moses,

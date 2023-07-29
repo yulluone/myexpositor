@@ -17,7 +17,7 @@ export default function Genesis04() {
           <sup className="calibre7">1</sup>And Adam knew Eve his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is the Biblical connotation of the union of husband and wife in
                 respect to the sex act)
               </span>
@@ -26,7 +26,7 @@ export default function Genesis04() {
           ; and she conceived, and bore Cain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first child born to this union, and would conclude exactly
                 as the Lord said it would, with sorrow)
               </span>
@@ -35,7 +35,7 @@ export default function Genesis04() {
           , and said, I have gotten a man from the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by Eve using the title LORD, which means Covenant God, and
                 which refers to the Seed of the woman, [
                 <ScrollLink href="/genesis-03" scrollToId="#filepos55109">
@@ -59,7 +59,7 @@ export default function Genesis04() {
           <sup className="calibre7">2</sup>And she again bore his brother Abel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abel means vanity; Cain being the oldest, this shows that Eve
                 by now had become disillusioned with her firstborn, undoubtedly
                 seeing traits in him which she knew could not be of the Promised
@@ -70,7 +70,7 @@ export default function Genesis04() {
           . And Abel was a keeper of sheep, but Cain was a tiller of the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (both were honorable professions)
               </span>
             </span>
@@ -84,7 +84,7 @@ export default function Genesis04() {
           pass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase used here refers to a long indefinite period)
               </span>
             </span>
@@ -93,7 +93,7 @@ export default function Genesis04() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was probably the first offering that he brought, even
                 though the Lord had explained to the First Family the necessity
                 of the Sacrificial System, that is, if they were to have any
@@ -115,7 +115,7 @@ export default function Genesis04() {
           firstlings of his flock and of the fat thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is what God demanded; it was a blood sacrifice of an
                 innocent victim, a lamb, which proclaimed the fact that Abel
                 recognized his need of a Redeemer, and that One was coming Who
@@ -128,7 +128,7 @@ export default function Genesis04() {
           . And the LORD had respect unto Abel and to his offering:{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, this was a Type of Christ and the Cross, the only
                 Offering which God will respect. Abels Altar is beautiful to
                 Gods Eye and repulsive to mans. Cains altar is beautiful to mans
@@ -148,7 +148,7 @@ export default function Genesis04() {
           had not respect{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (let us say it again, God has no respect for any proposed way of
                 Salvation, other than Jesus Christ and Him Crucified [
                 <ScrollLink
@@ -179,7 +179,7 @@ export default function Genesis04() {
           . And Cain was very angry, and his countenance fell{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that which filled Abel with peace filled Cain with wrath; the
                 carnal mind displays its enmity against all this Truth which so
                 gladdens and satisfies the heart of the Believer)
@@ -194,7 +194,7 @@ export default function Genesis04() {
           <sup className="calibre7">6</sup>And the LORD said unto Cain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God loves Cain, just as He did Abel, and wishes to bless him
                 also)
               </span>
@@ -203,7 +203,7 @@ export default function Genesis04() {
           , Why are you angry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abels Altar speaks of Repentance, of Faith, and of the Precious
                 Blood of Christ, the Lamb of God without blemish; Cains altar
                 tells of pride, unbelief, and self-righteousness, which always
@@ -214,7 +214,7 @@ export default function Genesis04() {
           ? and why is your countenance fallen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anger, in one form or the other, accompanies
                 self-righteousness, for that is what plagued Cain; Gods
                 Righteousness can only come by the Cross, while
@@ -231,7 +231,7 @@ export default function Genesis04() {
           accepted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if you bring the correct sacrifice, and thereby place your
                 faith)
               </span>
@@ -240,13 +240,13 @@ export default function Genesis04() {
           ? and if you do not well, sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Sin-Offering)</span>
+              <span className="explanation">(a Sin-Offering)</span>
             </span>
           </span>{" "}
           lies at the door{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a lamb was at the door of the Tabernacle)
               </span>
             </span>
@@ -254,7 +254,7 @@ export default function Genesis04() {
           . And unto you shall be his desire, and you shall rule over him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord promised Cain dominion over the Earth of that day, if
                 he would only offer up, and place his trust in, the right
                 Sacrifice; He promises the same presently to all who trust
@@ -283,7 +283,7 @@ export default function Genesis04() {
           rose up against Abel his brother, and killed him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first murder; Cains religion was too refined to kill a
                 lamb, but not too cultured to murder his brother; Gods Way of
                 Salvation fills the heart with love; mans way of salvation
@@ -301,7 +301,7 @@ export default function Genesis04() {
           Abel your brother?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adam sins against God and Cain sins against man. In their
                 united conduct, we have sin in all its forms, and that on the
                 first page of human history.)
@@ -311,7 +311,7 @@ export default function Genesis04() {
           And he said, I know not: Am I my brothers keeper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He showed himself a liar in saying, I know not; wicked and
                 profane in thinking he could hide his sin from God; unjust in
                 denying himself to be his brothers keeper; obstinate and
@@ -327,13 +327,13 @@ export default function Genesis04() {
           <sup className="calibre7">10</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           said, What have you done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this concerns mans sins, the fruit of his sinful nature)
               </span>
             </span>
@@ -341,7 +341,7 @@ export default function Genesis04() {
           ? The voice of your brothers blood cries unto Me from the ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is some Scriptural evidence that Cain cut his brothers
                 throat. Thus, with the first shedding of human blood, that
                 ominous thought sprang up, divinely bestowed, that the Earth
@@ -358,7 +358,7 @@ export default function Genesis04() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cain repudiated the Cross, murdered his brother, and is now
                 cursed by God; this is the first curse leveled by God against a
                 human being)
@@ -369,7 +369,7 @@ export default function Genesis04() {
           hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (was the beginning of what has proven to be a saturation; from
                 then until now, the Earth has been soaked with the blood of
                 innocent victims)
@@ -385,7 +385,7 @@ export default function Genesis04() {
           not henceforth yield unto you her strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the fact that Cain had polluted mans habitation, and
                 now, when he tilled the soil, it would resist him as an enemy)
               </span>
@@ -394,7 +394,7 @@ export default function Genesis04() {
           ; a fugitive and a vagabond shall you be in the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the search, not of a better lot, but under the
                 compulsion of an evil conscience)
               </span>
@@ -409,7 +409,7 @@ export default function Genesis04() {
           punishment is greater than I can bear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cain did not see the enormity of his sin, but the severity of
                 his punishment; in other words, there was no repentance)
               </span>
@@ -424,7 +424,7 @@ export default function Genesis04() {
           day from the face of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Adams sin brought expulsion from the inner circle, Cains from
                 the outer)
               </span>
@@ -433,7 +433,7 @@ export default function Genesis04() {
           ; and from Your face shall I be hid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to be hidden from the Face of God is to be not regarded by God,
                 and not protected by His Guardian care)
               </span>
@@ -442,19 +442,19 @@ export default function Genesis04() {
           ; and I shall be a fugitive and a vagabond in the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a wanderer)</span>
+              <span className="explanation">(a wanderer)</span>
             </span>
           </span>
           ; and it shall come to pass, that everyone who finds me shall{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seek to)</span>
+              <span className="explanation">(seek to)</span>
             </span>
           </span>{" "}
           kill me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reference by Cain to other individuals proves that in the
                 some 100 plus years since Adam and Eve were created, the first
                 parents had other children. By this time, there could very well
@@ -472,7 +472,7 @@ export default function Genesis04() {
           sevenfold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cain was allowed to live in order that he might be a perpetual
                 warning to others that the blood of their fellowman must not be
                 spilled; however, very few heeded, as few presently heed)
@@ -483,7 +483,7 @@ export default function Genesis04() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we arent told what the mark was, but evidently, all knew)
               </span>
             </span>
@@ -500,7 +500,7 @@ export default function Genesis04() {
           of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those in rebellion against God do not at all desire His
                 Presence, and for all the obvious reasons)
               </span>
@@ -509,7 +509,7 @@ export default function Genesis04() {
           , and dwelt in the land of Nod, on the east of Eden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Nod means wandering; the majority of the human race wander,
                 because they dont know God and, therefore, have no peace)
               </span>
@@ -523,7 +523,7 @@ export default function Genesis04() {
           <sup className="calibre7">17</sup>And Cain knew his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Biblical terminology for conception)
               </span>
             </span>
@@ -531,7 +531,7 @@ export default function Genesis04() {
           ; and she conceived, and bore Enoch: and he built a city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means was building or began to build; the idea is, it
                 was not finished; and so it has been, and is, with the human
                 race; nothing is ever quite finished with the unredeemed, simply
@@ -542,7 +542,7 @@ export default function Genesis04() {
           , and called the name of the city, after the name of his son, Enoch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carries the idea, due to the meaning of the name Enoch, that
                 this city would be a place of education and learning but it was
                 education and learning without God)
@@ -558,13 +558,13 @@ export default function Genesis04() {
           Irad begat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(fathered)</span>
+              <span className="explanation">(fathered)</span>
             </span>
           </span>{" "}
           Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was three hundred or more years after the creation
                 of Adam and Eve)
               </span>
@@ -579,7 +579,7 @@ export default function Genesis04() {
           the name of the one was Adah, and the name of the other Zillah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first instance of polygamy recorded in the Bible)
               </span>
             </span>
@@ -599,7 +599,7 @@ export default function Genesis04() {
           was the father of all such as handle the harp and organ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that Jubal was the originator of musical instruments;
                 mans ear is now filled with other sounds than those which issue
                 from Calvary, and his eye is filled with other objects than a
@@ -617,7 +617,7 @@ export default function Genesis04() {
           the sister of Tubal-cain was Naamah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tubal-cain was the first one to begin to work with metals; the
                 name of Cain was probably added to show that these were
                 Cainites; Naamah means beautiful)
@@ -641,7 +641,7 @@ export default function Genesis04() {
           truly Lamech seventy and sevenfold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first recorded poem in human history. Like so much
                 poetry ever since, it glorifies immorality and murder, and
                 denies coming wrath. Man has attempted to deny judgment ever
@@ -668,7 +668,7 @@ export default function Genesis04() {
           she bore a son, and called his name Seth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (after dealing with Cains line in the beginnings of corruption
                 of violence, Moses goes back some years to the birth of Seth;
                 the Holy Spirit will single out Seth, because he was in the
@@ -680,7 +680,7 @@ export default function Genesis04() {
           whom Cain killed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Cain was born, Eve said, I have gotten a man from the
                 LORD, indicating that she believed in the Covenant of{" "}
                 <ScrollLink href="/genesis-03" scrollToId="#filepos55109">
@@ -705,7 +705,7 @@ export default function Genesis04() {
           born a son; and he called his name Enos{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Enos means sickly, mortal, decaying man; the awful
                 results of the Fall are now beginning to sink in)
               </span>
@@ -714,7 +714,7 @@ export default function Genesis04() {
           : then began men to call upon the N ame of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to contempt; quite possibly the family of Cain,
                 knowing that Seth had now taken the place of Abel, as it regards
                 the firstborn or appointed one, contemptuously refers to them as

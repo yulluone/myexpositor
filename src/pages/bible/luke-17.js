@@ -186,7 +186,7 @@ export default function Luke17() {
           plowing or feeding cattle, will say unto him by and by{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>
           , when he is come from the field, Go and sit down to meat?
@@ -213,7 +213,7 @@ export default function Luke17() {
           did the things that were commanded him? I trow not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I think not!)</span>
+              <span className="explanation">(I think not!)</span>
             </span>
           </span>
           .
@@ -255,7 +255,7 @@ export default function Luke17() {
           Jerusalem, that He passed through the midst of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(between)</span>
+              <span className="explanation">(between)</span>
             </span>
           </span>{" "}
           Samaria and Galilee{" "}
@@ -351,7 +351,7 @@ export default function Luke17() {
           He said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they got His Attention)</span>
+              <span className="explanation">(they got His Attention)</span>
             </span>
           </span>
           , Go show yourselves unto the Priests{" "}
@@ -382,7 +382,7 @@ export default function Luke17() {
           was healed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerned the Samaritan)</span>
+              <span className="explanation">(concerned the Samaritan)</span>
             </span>
           </span>
           , turned back, and with a loud voice glorified God{" "}
@@ -465,7 +465,7 @@ export default function Luke17() {
           way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus lifts people up)</span>
+              <span className="explanation">(Jesus lifts people up)</span>
             </span>
           </span>
           : your faith has made you whole{" "}
@@ -729,7 +729,7 @@ export default function Luke17() {
           when the Son of Man is revealed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the Second Coming)</span>
+              <span className="explanation">(this is the Second Coming)</span>
             </span>
           </span>
           .
@@ -877,7 +877,7 @@ export default function Luke17() {
           shall be grinding together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grinding at the mill)</span>
+              <span className="explanation">(grinding at the mill)</span>
             </span>
           </span>
           ; the one shall be taken, and the other left.

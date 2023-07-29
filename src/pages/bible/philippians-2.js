@@ -30,7 +30,7 @@ export default function Philippians2() {
           , if any comfort of love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(having the God kind of love)</span>
+              <span className="explanation">(having the God kind of love)</span>
             </span>
           </span>
           , if any fellowship of the Spirit{" "}
@@ -67,13 +67,13 @@ export default function Philippians2() {
           , that you be like-minded{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unity of mind and of heart)</span>
+              <span className="explanation">(unity of mind and of heart)</span>
             </span>
           </span>
           , having the same love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the God kind of Love)</span>
+              <span className="explanation">(the God kind of Love)</span>
             </span>
           </span>
           ,{" "}
@@ -110,7 +110,7 @@ export default function Philippians2() {
           through strife or vainglory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(forming sides)</span>
+              <span className="explanation">(forming sides)</span>
             </span>
           </span>
           ; but in lowliness of mind let each esteem other better than them
@@ -204,7 +204,7 @@ export default function Philippians2() {
           , and took upon Him the form of a servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a bondslave)</span>
+              <span className="explanation">(a bondslave)</span>
             </span>
           </span>
           , and was made in the likeness of men{" "}
@@ -226,7 +226,7 @@ export default function Philippians2() {
           <sup className="calibre7">8</sup>And being found in fashion as a man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(denotes Christ in mens eyes)</span>
+              <span className="explanation">(denotes Christ in mens eyes)</span>
             </span>
           </span>
           , He humbled Himself{" "}
@@ -414,7 +414,7 @@ export default function Philippians2() {
           <sup className="calibre7">13</sup>For it is God which works in you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Divine enablement)</span>
+              <span className="explanation">(Divine enablement)</span>
             </span>
           </span>{" "}
           both to will and to do of{" "}
@@ -440,7 +440,7 @@ export default function Philippians2() {
           <sup className="calibre7">14</sup>Do all things without murmurings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mutterings of discontent)</span>
+              <span className="explanation">(mutterings of discontent)</span>
             </span>
           </span>{" "}
           and disputings{" "}
@@ -459,7 +459,7 @@ export default function Philippians2() {
           <sup className="calibre7">15</sup>That you may be{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(may become)</span>
+              <span className="explanation">(may become)</span>
             </span>
           </span>{" "}
           blameless and harmless, the sons of God, without rebuke, in the midst
@@ -488,13 +488,15 @@ export default function Philippians2() {
           <sup className="calibre7">16</sup>Holding forth the Word of Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(holding forth so as to offer)</span>
+              <span className="explanation">
+                (holding forth so as to offer)
+              </span>
             </span>
           </span>
           ; that I may rejoice in the Day of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Rapture of the Church)</span>
+              <span className="explanation">(Rapture of the Church)</span>
             </span>
           </span>
           , that I have not run in vain, neither laboured in vain{" "}
@@ -515,7 +517,7 @@ export default function Philippians2() {
           Sacrifice and service of your Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ill give myself for you)</span>
+              <span className="explanation">(Ill give myself for you)</span>
             </span>
           </span>
           , I joy, and rejoice with you all.{" "}
@@ -544,7 +546,7 @@ export default function Philippians2() {
           send Timothy shortly unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was a disciple of Paul)</span>
+              <span className="explanation">(he was a disciple of Paul)</span>
             </span>
           </span>
           , that I also may be of good comfort, when I know your state.{" "}
@@ -696,7 +698,7 @@ export default function Philippians2() {
           full of heaviness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(due to his sickness)</span>
+              <span className="explanation">(due to his sickness)</span>
             </span>
           </span>
           , because that you had heard that he had been sick.{" "}
@@ -715,7 +717,7 @@ export default function Philippians2() {
           death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he almost died)</span>
+              <span className="explanation">(he almost died)</span>
             </span>
           </span>
           : but God had mercy on him{" "}

@@ -40,13 +40,13 @@ export default function Timothy12() {
           , supplications{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(personal needs)</span>
+              <span className="explanation">(personal needs)</span>
             </span>
           </span>
           , prayers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(petitions)</span>
+              <span className="explanation">(petitions)</span>
             </span>
           </span>
           , intercessions{" "}
@@ -67,7 +67,7 @@ export default function Timothy12() {
           giving of thanks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Praise and Worship)</span>
+              <span className="explanation">(Praise and Worship)</span>
             </span>
           </span>
           , be made for all men{" "}
@@ -93,7 +93,7 @@ export default function Timothy12() {
           all who are in authority{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Civil Government)</span>
+              <span className="explanation">(Civil Government)</span>
             </span>
           </span>
           ; that we may lead a quiet and peaceable life in all godliness and
@@ -291,7 +291,7 @@ export default function Timothy12() {
           a teacher of the Gentiles in Faith and verity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Faith and Truth)</span>
+              <span className="explanation">(in Faith and Truth)</span>
             </span>
           </span>
           .
@@ -312,7 +312,7 @@ export default function Timothy12() {
           , lifting up Holy hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a surrendered spirit)</span>
+              <span className="explanation">(a surrendered spirit)</span>
             </span>
           </span>
           , without wrath and doubting.{" "}
@@ -360,7 +360,7 @@ export default function Timothy12() {
           and sobriety{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the idea of self-restraint)</span>
+              <span className="explanation">(the idea of self-restraint)</span>
             </span>
           </span>
           ; not with broided hair{" "}
@@ -424,7 +424,7 @@ export default function Timothy12() {
           with all subjection{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Eph. 5: 22-25)</span>
+              <span className="explanation">(Eph. 5: 22-25)</span>
             </span>
           </span>
           .
@@ -458,7 +458,7 @@ export default function Timothy12() {
           <sup className="calibre7">13</sup>For Adam was first formed, then Eve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the creation model)</span>
+              <span className="explanation">(the creation model)</span>
             </span>
           </span>
           .
@@ -504,7 +504,7 @@ export default function Timothy12() {
           , if they continue in Faith and Charity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(love)</span>
+              <span className="explanation">(love)</span>
             </span>
           </span>{" "}
           and Holiness with sobriety.{" "}

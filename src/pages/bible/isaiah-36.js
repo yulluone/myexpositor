@@ -19,7 +19,7 @@ export default function Isaiah36() {
           against all the defenced cities of Judah, and took them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the third time that the Holy Spirit records the facts
                 relating to Hezekiah and the proposed attack by Assyria against
                 Jerusalem, thereby denoting its significance. Its significance
@@ -39,7 +39,7 @@ export default function Isaiah36() {
           the fullers field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rabshakeh, seemingly, was the head of the Assyrian expedition
                 against Jerusalem. He is there to demand the surrender of
                 Jerusalem. The conduit of the upper pool is the same place
@@ -64,7 +64,7 @@ export default function Isaiah36() {
           Joah, Asaphs son, the Recorder.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Eliakim and Shebna were sent outside the city to meet with
                 Rabshakeh; this is the same Shebna whom Isaiah prophesied
                 against in{" "}
@@ -91,7 +91,7 @@ export default function Isaiah36() {
           confidence is this wherein you trust?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of the three Assyrian envoys, Rabshakeh alone obtains mention
                 in Isaiah, because he was the spokesman. He was probably chosen
                 for such because he could speak Hebrew fluently.
@@ -135,7 +135,7 @@ export default function Isaiah36() {
           trust, that you rebel against me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that Rabshakeh had obtained a copy of the proposed
                 agreement between Judah and Egypt, or that the very words had
                 been verbally reported to him.)
@@ -152,7 +152,7 @@ export default function Isaiah36() {
           him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the Assyrian spoke of this broken reed, namely Egypt, he
                 was speaking from knowledge instead of merely boasting.)
               </span>
@@ -168,7 +168,7 @@ export default function Isaiah36() {
           worship before this Altar?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To destroy the fashionable materials and corrupt ceremonies of
                 worldly religion is misunderstood by the world and accounted
                 sacrilege. Rabshakeh was totally ignorant of the Ways of God and
@@ -186,7 +186,7 @@ export default function Isaiah36() {
           thousand horses, if you be able on your part to set riders upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rabshakeh continues to reproach Judah.)
               </span>
             </span>
@@ -200,7 +200,7 @@ export default function Isaiah36() {
           on Egypt for chariots and for horsemen?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judahs true weakness was her lack of dependence on God, not her
                 lack of military preparation.)
               </span>
@@ -215,7 +215,7 @@ export default function Isaiah36() {
           against this land, and destroy it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rabshakehs statements make it obvious that the Prophesy given
                 by Isaiah some years before had been read or seen by him. Its
                 use by him was a clever ruse to persuade the people to disobey
@@ -270,7 +270,7 @@ export default function Isaiah36() {
           language, in the ears of the people who are on the wall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rabshakeh spoke in Hebrew, desiring that the people hear his
                 words, as well as their leaders, in order to weaken their will
                 to resist. The request of the Jews will be ignored.
@@ -335,7 +335,7 @@ export default function Isaiah36() {
           dung, and drink their own urine with you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The language used by Rabshakeh shows his contempt for Judah.)
               </span>
             </span>
@@ -349,7 +349,7 @@ export default function Isaiah36() {
           great king, the king of Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan always cries with a loud voice. He also says it in the
                 language that we easily understand.)
               </span>
@@ -363,7 +363,7 @@ export default function Isaiah36() {
           Hezekiah deceive you: for he shall not be able to deliver you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Rabshakeh claims to speak for the king, Sennacherib. Satan has
                 plenty of envoys. Therefore, the people had a choice; they could
                 believe Rabshakeh or Hezekiah.
@@ -392,7 +392,7 @@ export default function Isaiah36() {
           not be delivered into the hand of the king of Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words of Isaiah given to Hezekiah no doubt had come to the
                 ears of Sennacherib. So now we have the Word of the Lord versus
                 the word of Sennacherib.)
@@ -409,7 +409,7 @@ export default function Isaiah36() {
           his fig tree, and drink you every one the waters of his own cistern{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, the war will cease if you will make an
                 agreement with me; this has ever been Satans ploy; the message
                 is compromise, which is never of God!)
@@ -426,7 +426,7 @@ export default function Isaiah36() {
           vineyards.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Despite the golden promises, the plan was to take Judah captive
                 into Assyria, as they had already taken Ephraim. This is Satans
                 plan for the modern Christian, as well! He promises everything,
@@ -443,7 +443,7 @@ export default function Isaiah36() {
           delivered his land out of the hand of the king of Assyria?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The boast of Rabshakeh was not hollow, at least regarding the
                 gods of the nations. As far as the Assyrians were concerned,
                 this was a religious war. Their success in the religious
@@ -460,7 +460,7 @@ export default function Isaiah36() {
           Samaria out of my hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, Rabshakeh boasts of his god, Asshur, over the
                 gods of Hamath and Arphad. Sennacherib sees no distinction
                 between the cities where Jehovah was worshipped, as supposedly
@@ -479,7 +479,7 @@ export default function Isaiah36() {
           LORD should deliver Jerusalem out of my hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this statement, Rabshakeh places Jehovah in the same
                 category as the idol gods of other nations. That Jehovah would
                 deliver Judah, there was no doubt! However, the manner in which
@@ -500,7 +500,7 @@ export default function Isaiah36() {
           him not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are occasions when faiths most effective reply to
                 insulting language is the dignity of silence, and her best
                 refuge is prayer.)
@@ -517,7 +517,7 @@ export default function Isaiah36() {
           and told him the words of Rabshakeh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If one will notice, Shebna the Scribe was dressed in sackcloth
                 the same as Eliakim. There the similarity ended. Eliakim wanted
                 the Will of God, while Shebna wanted his place and position

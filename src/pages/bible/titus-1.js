@@ -226,7 +226,7 @@ export default function Titus1() {
           , and ordain Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pastors)</span>
+              <span className="explanation">(Pastors)</span>
             </span>
           </span>{" "}
           in every city, as I had appointed you{" "}
@@ -246,7 +246,7 @@ export default function Titus1() {
           one wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no polygamists)</span>
+              <span className="explanation">(no polygamists)</span>
             </span>
           </span>
           , having Faithful children not accused of riot or unruly.{" "}
@@ -291,7 +291,7 @@ export default function Titus1() {
           , not given to filthy lucre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not money hungry)</span>
+              <span className="explanation">(not money hungry)</span>
             </span>
           </span>
           ;
@@ -303,7 +303,7 @@ export default function Titus1() {
           of good men, sober, just, holy, temperate{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(self-control)</span>
+              <span className="explanation">(self-control)</span>
             </span>
           </span>
           ;
@@ -324,7 +324,7 @@ export default function Titus1() {
           , that he may be able by sound Doctrine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(proper teaching)</span>
+              <span className="explanation">(proper teaching)</span>
             </span>
           </span>{" "}
           both to exhort and to convince the gainsayers.{" "}

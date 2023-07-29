@@ -20,7 +20,7 @@ export default function Genesis39() {
           brought him down thither.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (An Eastern race then governed Egypt, hence the reason that
                 Potiphar is three times declared to be an Egyptian. In the story
                 of Joseph, we will perceive a remarkable chain of events, all
@@ -38,7 +38,7 @@ export default function Genesis39() {
           Egyptian.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some eight times in this Chapter, in one way or the other, it
                 is said that the Lord was with Joseph. Eight speaks of
                 Resurrection, so it tells us that whatever happened to Joseph,
@@ -59,7 +59,7 @@ export default function Genesis39() {
           hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Potiphar had more sense than most modern Christians. He saw
                 that the Hand of the Lord was on Joseph, and took advantage of
                 that, even as he should have done. Many times the Church will
@@ -77,7 +77,7 @@ export default function Genesis39() {
           that he had he put into his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This does not imply that Potiphar was acquainted with Jehovah,
                 but simply that he concluded Joseph to be under the Divine
                 protection. So he made him the business manager of all his
@@ -94,7 +94,7 @@ export default function Genesis39() {
           that the LORD blessed the Egyptians house for Josephs sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are blessed for Jesus sake)
               </span>
             </span>
@@ -103,7 +103,7 @@ export default function Genesis39() {
           and in the field.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How do we correlate all of this, with the Lord being with
                 Joseph, and yet he is a slave? Even though not for a moment is
                 the wrongdoing of his brothers condoned by the Lord, still, the
@@ -127,7 +127,7 @@ export default function Genesis39() {
           did eat. And Joseph was a goodly person, and well favored{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was impeccably honest and, as well, very handsome)
               </span>
             </span>
@@ -142,7 +142,7 @@ export default function Genesis39() {
           Lie with me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tradition says that Zuleikah was her name; she was at first the
                 most virtuous of women, but when she saw Joseph, she was so
                 affected, that she lost all self-control, and became a slave to
@@ -162,7 +162,7 @@ export default function Genesis39() {
           house, and he has committed all that he has to my hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the action of Joseph in resisting this temptation pressed upon
                 him showed him to be the true firstborn)
               </span>
@@ -179,7 +179,7 @@ export default function Genesis39() {
           God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says that Joseph urged three reasons against this
                 wrongdoing: 1. Gratitude to his master, who had put everything
                 into his hand; 2. Respect for the woman, seeing that she was
@@ -196,7 +196,7 @@ export default function Genesis39() {
           to be with her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was a continuing temptation, pressed upon day-by-day, with
                 him continuing to resist)
               </span>
@@ -212,7 +212,7 @@ export default function Genesis39() {
           of the men of the house there within.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Evaluating Joseph, some would claim that after advances had
                 been made, he should not have gone back into the house; however,
                 of this he had no choice. His business demanded that he frequent
@@ -232,7 +232,7 @@ export default function Genesis39() {
           and got him out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the second occasion that the Sacred History speaks of
                 Josephs garment. His brothers took the one; Potiphars wife the
                 other. They tried to hide their sin with that garment; she tried
@@ -257,7 +257,7 @@ export default function Genesis39() {
           house, and spoke unto them, saying, See, he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Potiphar)</span>
+              <span className="explanation">(Potiphar)</span>
             </span>
           </span>{" "}
           has brought in an Hebrew unto us to mock us; he came in unto me to lie
@@ -271,7 +271,7 @@ export default function Genesis39() {
           and fled, and got him out.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Matthew Henry says: Chaste and holy love will continue, though
                 slighted; but sinful love is easily changed into sinful hatred.
                 Those who have broken the bonds of modesty will never be held by
@@ -287,13 +287,13 @@ export default function Genesis39() {
           until his lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Potiphar)</span>
+              <span className="explanation">(Potiphar)</span>
             </span>
           </span>{" "}
           came home.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Devil would surmise that if he cannot get Joseph to do that
                 which is wrong, he will have him locked up in prison for years.
                 Of course, the Lord could have stopped all of this; however, the
@@ -308,7 +308,7 @@ export default function Genesis39() {
           <sup className="calibre7">17</sup>And she spoke unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Potiphar)</span>
+              <span className="explanation">(Potiphar)</span>
             </span>
           </span>{" "}
           according to these words, saying, The Hebrew servant, which you have
@@ -331,7 +331,7 @@ export default function Genesis39() {
           this manner did your servant to me; that his anger was kindled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satans trap is now sprung)</span>
+              <span className="explanation">(Satans trap is now sprung)</span>
             </span>
           </span>
         </span>
@@ -344,7 +344,7 @@ export default function Genesis39() {
           he was there in the prison.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In one moment, Joseph exchanged a palace for a prison.{" "}
                 <ScrollLink href="/psalm-105" scrollToId="#filepos6424139">
                   <span className="calibre_19">
@@ -366,7 +366,7 @@ export default function Genesis39() {
           prison.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord was with Joseph as much in the prison as he had been
                 in the palace. We should take a lesson from this.)
               </span>
@@ -381,7 +381,7 @@ export default function Genesis39() {
           and whatsoever they did there, he was the doer of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was Josephs training ground. Would he pass the test? In
                 fact, he passed it with flying colors.)
               </span>
@@ -396,7 +396,7 @@ export default function Genesis39() {
           and that which he did, the LORD made it to prosper.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, this would not have been the case had Joseph grown
                 bitter. He accepted this position, without saying a word or
                 attempting to justify or defend himself. In other words, he left

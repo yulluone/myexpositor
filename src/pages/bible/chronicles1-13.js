@@ -18,7 +18,7 @@ export default function Chronicles113() {
           of thousands and hundreds, and with every leader{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, it doesnt say that David consulted with God; the
                 results of such action would be disastrous)
               </span>
@@ -37,7 +37,7 @@ export default function Chronicles113() {
           gather themselves unto us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was much religious activity at this point, but very
                 little, if any, leading of the Holy Spirit)
               </span>
@@ -52,7 +52,7 @@ export default function Chronicles113() {
           God to us: for we enquired not at it in the days of Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is ironic that the entire motive for the bringing of the Ark
                 was to enquire of it, yet David did not enquire of the Lord
                 concerning this all-important task)
@@ -69,7 +69,7 @@ export default function Chronicles113() {
           people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was right in the Eyes of God, as well, but not in the way it
                 was done)
               </span>
@@ -85,7 +85,7 @@ export default function Chronicles113() {
           bring the Ark of God from Kirjath-jearim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How many times does the Church, with great fanfare, rush
                 forward to carry out its bold plans, when, in reality, those
                 plans will not bring life, but death? Great religious activity
@@ -105,7 +105,7 @@ export default function Chronicles113() {
           Whose name is called on it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (during the time of Saul, who was a work of the flesh, the Ark
                 of God was ignored, because spiritual things had no value to
                 Saul; Im afraid the modern Church, at least for all practical
@@ -124,7 +124,7 @@ export default function Chronicles113() {
           cart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Ark of God, by the command of God, was to be carried on the
                 shoulders of Priests, and not on a cart of any kind. The Priests
                 were Types of Christ; the symbolism portrayed the fact that the
@@ -196,7 +196,7 @@ export default function Chronicles113() {
           trumpets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How much does this characterize our modern-day Church? It is
                 all very religious, but very wrong! It is all very loud, but
                 very lost! It is all with great activity, but not by the Holy
@@ -218,7 +218,7 @@ export default function Chronicles113() {
           the oxen stumbled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is always a threshingfloor; the threshingfloor was where
                 the grain was separated from the husk; on this memorable day,
                 the spiritual grain would be separated from the husk as well [
@@ -243,7 +243,7 @@ export default function Chronicles113() {
           Ark: and there he died before God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Of all people, Uzza should have known better. The Ark had been
                 at his place, for he was a son of Abinadab, where the Ark had
                 been left many years before [
@@ -306,7 +306,7 @@ export default function Chronicles113() {
           Perez-uzza to this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word displeased means saddened; David had a right to be
                 sad, because he definitely was partly to blame)
               </span>
@@ -321,7 +321,7 @@ export default function Chronicles113() {
           day, saying, How shall I bring the Ark of God home to me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Davids displeasure was quickly turned into acute fear. He
                 realized how close he personally had come to death on this day.
                 Sadly, most of the modern Church is only displeased. There is
@@ -340,7 +340,7 @@ export default function Chronicles113() {
           Obed-edom the Gittite{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (undoubtedly, David was led by the Lord in leaving the Ark with
                 Obed-edom; as the facts will prove, this man had a great heart
                 for God, and knew how to treat the Ark, so to speak, even to a
@@ -358,7 +358,7 @@ export default function Chronicles113() {
           the house of Obed-edom, and all that he had.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One man died because of ignoring the Word of God, and one man
                 and his house are greatly blessed because of obeying the Word of
                 God. That was the criteria then, obedience to the Word, and it

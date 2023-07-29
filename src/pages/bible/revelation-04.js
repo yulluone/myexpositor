@@ -88,7 +88,7 @@ export default function Revelation04() {
           sat on the Throne{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God the Father)</span>
+              <span className="explanation">(God the Father)</span>
             </span>
           </span>
           .
@@ -125,7 +125,7 @@ export default function Revelation04() {
           four and twenty seats{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Thrones)</span>
+              <span className="explanation">(Thrones)</span>
             </span>
           </span>
           : and upon the seats I saw four and twenty Elders sitting{" "}
@@ -149,7 +149,7 @@ export default function Revelation04() {
           ; and they had on their heads crowns of gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signifying authority)</span>
+              <span className="explanation">(signifying authority)</span>
             </span>
           </span>
           .
@@ -212,7 +212,7 @@ export default function Revelation04() {
           four Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creatures)</span>
+              <span className="explanation">(living creatures)</span>
             </span>
           </span>{" "}
           full of eyes before and behind.{" "}
@@ -231,7 +231,7 @@ export default function Revelation04() {
           <sup className="calibre7">7</sup>And the first Beast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creature)</span>
+              <span className="explanation">(living creature)</span>
             </span>
             <span>
               <span className="calibre_19">was</span>
@@ -259,7 +259,7 @@ export default function Revelation04() {
           <sup className="calibre7">8</sup>And the four Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creatures)</span>
+              <span className="explanation">(living creatures)</span>
             </span>
           </span>{" "}
           had each of them six wings about{" "}
@@ -310,7 +310,7 @@ export default function Revelation04() {
           <sup className="calibre7">9</sup>And when those Beasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living creatures)</span>
+              <span className="explanation">(living creatures)</span>
             </span>
           </span>{" "}
           give glory and honour and thanks to Him Who sat on the Throne, Who

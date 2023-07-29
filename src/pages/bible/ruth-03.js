@@ -156,13 +156,13 @@ export default function Ruth03() {
           <sup className="calibre7">5</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ruth)</span>
+              <span className="explanation">(Ruth)</span>
             </span>
           </span>{" "}
           said unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naomi)</span>
+              <span className="explanation">(Naomi)</span>
             </span>
           </span>
           , All that you say unto me I will do.{" "}
@@ -198,7 +198,7 @@ export default function Ruth03() {
           corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(grain)</span>
+              <span className="explanation">(grain)</span>
             </span>
           </span>
           : and she came softly, and uncovered his feet, and laid her down{" "}
@@ -342,7 +342,7 @@ export default function Ruth03() {
           morning: and she rose up before one could know another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before daylight)</span>
+              <span className="explanation">(before daylight)</span>
             </span>
           </span>
           . And he said, Let it not be known that a woman came into the floor.{" "}
@@ -371,7 +371,7 @@ export default function Ruth03() {
           measures of barley, and laid it on her: and she went into the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(back to Naomi!)</span>
+              <span className="explanation">(back to Naomi!)</span>
             </span>
           </span>
         </span>
@@ -383,7 +383,7 @@ export default function Ruth03() {
           law, she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Naomi)</span>
+              <span className="explanation">(Naomi)</span>
             </span>
           </span>{" "}
           said, Who are you, my daughter?{" "}
@@ -397,7 +397,7 @@ export default function Ruth03() {
           And she told her all that the man had done to her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(had said to her)</span>
+              <span className="explanation">(had said to her)</span>
             </span>
           </span>
         </span>

@@ -16,7 +16,7 @@ export default function Matthew12() {
           Sabbath day through the corn{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(either wheat or barley)</span>
+              <span className="explanation">(either wheat or barley)</span>
             </span>
           </span>
           ; and His Disciples were hungry, and began to pluck the ears of corn,
@@ -42,7 +42,7 @@ export default function Matthew12() {
           they said unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(these religious</span>
+              <span className="explanation">(these religious</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -59,7 +59,7 @@ export default function Matthew12() {
           Sabbath day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was a law they had</span>
+              <span className="explanation">(this was a law they had</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -103,7 +103,7 @@ export default function Matthew12() {
           <sup className="calibre7">4</sup>How He entered into the House of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Tabernacle)</span>
+              <span className="explanation">(the Tabernacle)</span>
             </span>
           </span>
           , and did eat the shewbread, which was not lawful for him to eat,
@@ -133,7 +133,7 @@ export default function Matthew12() {
           Sabbath, and are blameless?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The</span>
+              <span className="explanation">(The</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -168,7 +168,7 @@ export default function Matthew12() {
           greater than the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He was speaking of</span>
+              <span className="explanation">(He was speaking of</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -215,7 +215,7 @@ export default function Matthew12() {
           the Sabbath day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rejected by the</span>
+              <span className="explanation">(rejected by the</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -242,7 +242,7 @@ export default function Matthew12() {
           , He went into their Synagogue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably</span>
+              <span className="explanation">(probably</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -401,7 +401,7 @@ export default function Matthew12() {
           withdrew Himself from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(went to another town)</span>
+              <span className="explanation">(went to another town)</span>
             </span>
           </span>
           : and great multitudes followed Him, and He healed them all{" "}
@@ -455,7 +455,7 @@ export default function Matthew12() {
           <sup className="calibre7">18</sup>Behold My Servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He was the Fathers Servant)</span>
+              <span className="explanation">(He was the Fathers Servant)</span>
             </span>
           </span>
           , Whom I have chosen{" "}
@@ -478,7 +478,7 @@ export default function Matthew12() {
           : I will put My Spirit upon Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>
           , and He shall show judgment to the Gentiles{" "}
@@ -497,13 +497,13 @@ export default function Matthew12() {
           <sup className="calibre7">19</sup>He shall not strive, nor cry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will not demand His rights</span>
+              <span className="explanation">(will not demand His rights</span>
             </span>
           </span>
           ); neither shall any man hear His voice in the streets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He never promoted Himself</span>
+              <span className="explanation">(He never promoted Himself</span>
             </span>
           </span>
           ).
@@ -554,7 +554,7 @@ export default function Matthew12() {
           possessed with a devil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Demon),</span>
+              <span className="explanation">(Demon),</span>
             </span>
           </span>{" "}
           blind, and dumb{" "}
@@ -623,7 +623,7 @@ export default function Matthew12() {
           does not cast out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , but by Beelzebub the prince of the devils{" "}
@@ -682,7 +682,7 @@ export default function Matthew12() {
           devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , by whom do your children cast{" "}
@@ -719,7 +719,7 @@ export default function Matthew12() {
           <sup className="calibre7">28</sup>But if I cast out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           by the Spirit of God{" "}
@@ -760,7 +760,9 @@ export default function Matthew12() {
           , and spoil his goods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which Jesus did at the Cross)</span>
+              <span className="explanation">
+                (which Jesus did at the Cross)
+              </span>
             </span>
           </span>
           , except he first bind the strong man?{" "}
@@ -804,7 +806,7 @@ export default function Matthew12() {
           ; and he who gathers not with Me scatters abroad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the</span>
+              <span className="explanation">(refers to the</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -1082,7 +1084,7 @@ export default function Matthew12() {
           answered, saying, Master{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(teacher)</span>
+              <span className="explanation">(teacher)</span>
             </span>
           </span>
           , we would see a sign from{" "}
@@ -1091,7 +1093,7 @@ export default function Matthew12() {
               <span className="calibre_19">You</span>
             </span>
             <span>
-              <span className="calibre_19">(there</span>
+              <span className="explanation">(there</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -1245,7 +1247,7 @@ export default function Matthew12() {
           of a man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(regarding Israel,</span>
+              <span className="explanation">(regarding Israel,</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -1256,7 +1258,7 @@ export default function Matthew12() {
           , he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the unclean spirit)</span>
+              <span className="explanation">(the unclean spirit)</span>
             </span>
           </span>{" "}
           walks through dry places, seeking rest, and finding none{" "}
@@ -1276,7 +1278,7 @@ export default function Matthew12() {
           <sup className="calibre7">44</sup>Then he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the unclean spirit)</span>
+              <span className="explanation">(the unclean spirit)</span>
             </span>
           </span>{" "}
           says, I will return into my house from whence I came out{" "}
@@ -1290,7 +1292,7 @@ export default function Matthew12() {
           ; and when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the evil spirit)</span>
+              <span className="explanation">(the evil spirit)</span>
             </span>
           </span>{" "}
           is come, he finds{" "}
@@ -1299,13 +1301,13 @@ export default function Matthew12() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           empty,{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(empty of the</span>
+              <span className="explanation">(empty of the</span>
             </span>
             <span>
               <span className="calibre_19">Spirit of God)</span>
@@ -1337,7 +1339,7 @@ export default function Matthew12() {
           <sup className="calibre7">45</sup>Then goes he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the evil spirit)</span>
+              <span className="explanation">(the evil spirit)</span>
             </span>
           </span>
           , and takes with himself seven other spirits more wicked than himself,
@@ -1376,13 +1378,13 @@ export default function Matthew12() {
           <sup className="calibre7">46</sup>While He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           yet talked to the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerns the terrible</span>
+              <span className="explanation">(concerns the terrible</span>
             </span>
             <span>
               <span className="calibre_19">
@@ -1457,7 +1459,7 @@ export default function Matthew12() {
           toward His Disciples{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the</span>
+              <span className="explanation">(refers to the</span>
             </span>
             <span>
               <span className="calibre_19">

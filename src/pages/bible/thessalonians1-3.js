@@ -531,13 +531,13 @@ export default function Thessalonians13() {
           remain shall be caught up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Raptured)</span>
+              <span className="explanation">(Raptured)</span>
             </span>
           </span>{" "}
           together with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrected dead)</span>
+              <span className="explanation">(the Resurrected dead)</span>
             </span>
           </span>{" "}
           in the clouds{" "}

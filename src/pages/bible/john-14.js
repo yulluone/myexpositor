@@ -124,7 +124,7 @@ export default function John14() {
           <sup className="calibre7">4</sup>And where I go you know{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He had just told them)</span>
+              <span className="explanation">(He had just told them)</span>
             </span>
           </span>
           , and the Way you know{" "}
@@ -265,7 +265,7 @@ export default function John14() {
           Father, and the Father in Me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The key is believing.)</span>
+              <span className="explanation">(The key is believing.)</span>
             </span>
           </span>
           the words that I speak unto you I speak not of Myself{" "}
@@ -492,7 +492,7 @@ export default function John14() {
           ; for He dwells with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before the Cross)</span>
+              <span className="explanation">(before the Cross)</span>
             </span>
           </span>
           , and shall be in you{" "}
@@ -513,7 +513,7 @@ export default function John14() {
           <sup className="calibre7">18</sup>I will not leave you comfortless{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(helpless)</span>
+              <span className="explanation">(helpless)</span>
             </span>
           </span>
           : I will come to you{" "}
@@ -678,7 +678,7 @@ export default function John14() {
           : and My Father will love him, and We will come unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all through the Holy Spirit)</span>
+              <span className="explanation">(all through the Holy Spirit)</span>
             </span>
           </span>
           , and make Our abode with him{" "}
@@ -746,7 +746,7 @@ export default function John14() {
           <sup className="calibre7">26</sup>But the Comforter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Helper)</span>
+              <span className="explanation">(Helper)</span>
             </span>
           </span>
           ,{" "}
@@ -801,7 +801,7 @@ export default function John14() {
           <sup className="calibre7">27</sup>Peace I leave with you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanctifying Peace)</span>
+              <span className="explanation">(Sanctifying Peace)</span>
             </span>
           </span>
           , My Peace I give unto you{" "}
@@ -913,7 +913,7 @@ export default function John14() {
           : for the Prince of this world comes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of Satan)</span>
+              <span className="explanation">(speaks of Satan)</span>
             </span>
           </span>
           , and has nothing in Me{" "}

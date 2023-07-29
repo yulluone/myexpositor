@@ -16,13 +16,13 @@ export default function Luke09() {
           together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Divine call)</span>
+              <span className="explanation">(a Divine call)</span>
             </span>
           </span>
           , and gave them power and authority over all devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , and to cure diseases{" "}
@@ -191,7 +191,7 @@ export default function Luke09() {
           <sup className="calibre7">6</sup>And they departed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Twelve)</span>
+              <span className="explanation">(the Twelve)</span>
             </span>
           </span>
           , and went through the towns, preaching the Gospel, and healing
@@ -214,13 +214,13 @@ export default function Luke09() {
           <sup className="calibre7">7</sup>Now Herod the Tetrarch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Herod Antipas)</span>
+              <span className="explanation">(Herod Antipas)</span>
             </span>
           </span>{" "}
           heard of all that was done by Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pertained to Jesus)</span>
+              <span className="explanation">(pertained to Jesus)</span>
             </span>
           </span>
           : and he was perplexed, because that it was said of some, that John
@@ -241,7 +241,7 @@ export default function Luke09() {
           <sup className="calibre7">8</sup>And of some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(some were saying)</span>
+              <span className="explanation">(some were saying)</span>
             </span>
           </span>
           , that Elijah had appeared{" "}
@@ -342,7 +342,7 @@ export default function Luke09() {
           followed Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(went to where He was)</span>
+              <span className="explanation">(went to where He was)</span>
             </span>
           </span>
           : and He received them, and spoke unto them of the Kingdom of God, and
@@ -357,7 +357,7 @@ export default function Luke09() {
           victuals{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(food)</span>
+              <span className="explanation">(food)</span>
             </span>
           </span>
           : for we are here in a desert place{" "}
@@ -916,7 +916,7 @@ export default function Luke09() {
           Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Glory of the Father)</span>
+              <span className="explanation">(the Glory of the Father)</span>
             </span>
           </span>
           , and of the Holy Angels{" "}
@@ -1136,7 +1136,7 @@ export default function Luke09() {
           cloud{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Voice of God the Father)</span>
+              <span className="explanation">(the Voice of God the Father)</span>
             </span>
           </span>
           , saying, This is My Beloved Son: hear Him{" "}
@@ -1206,7 +1206,7 @@ export default function Luke09() {
           cried out{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a man in the crowd)</span>
+              <span className="explanation">(a man in the crowd)</span>
             </span>
           </span>
           , saying, Master, I beseech You, look upon my son: for he is mine only
@@ -1227,7 +1227,7 @@ export default function Luke09() {
           <sup className="calibre7">39</sup>And, lo, a spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evil spirit)</span>
+              <span className="explanation">(evil spirit)</span>
             </span>
           </span>{" "}
           takes him, and he suddenly cries out{" "}
@@ -1242,7 +1242,7 @@ export default function Luke09() {
           departing from him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(constant occurrences)</span>
+              <span className="explanation">(constant occurrences)</span>
             </span>
           </span>
           .
@@ -1473,7 +1473,7 @@ export default function Luke09() {
           we saw one casting out devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>{" "}
           in Your Name; and we forbad him, because he followeth not with us{" "}
@@ -1498,7 +1498,7 @@ export default function Luke09() {
           not: for he who is not against us is for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(forbids all sectarianism).</span>
+              <span className="explanation">(forbids all sectarianism).</span>
             </span>
           </span>
         </span>

@@ -33,7 +33,7 @@ export default function Chronicles102() {
           the LORD; and he killed him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious here, Judah is dealt with first. In fact, he was
                 to be the chief and ruling Tribe of the Twelve, and the Messiah
                 was to come through him [
@@ -94,7 +94,7 @@ export default function Chronicles102() {
           <sup className="calibre7">5</sup>The sons of Pharez; Hezron, and Hamul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the line of the Messiah [
                 <ScrollLink href="/isaiah-07" scrollToId="#filepos7342433">
                   <span className="calibre_19">
@@ -146,7 +146,7 @@ export default function Chronicles102() {
           troubler of Israel, who transgressed in the thing accursed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was Achan of{" "}
                 <ScrollLink href="/joshua-07" scrollToId="#filepos2535696">
                   <span className="calibre_19">
@@ -208,7 +208,7 @@ export default function Chronicles102() {
           <sup className="calibre7">15</sup>Ozem the sixth, David the seventh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually, we know that Jesse, Davids father, begat eight sons [
                 <ScrollLink href="/samuel1-16" scrollToId="#filepos3213776">
                   <span className="calibre_19">
@@ -249,7 +249,7 @@ export default function Chronicles102() {
           Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these three nephews of David played important roles in Davids
                 kingdom, especially Joab, who was captain of the host until the
                 death of David)
@@ -507,7 +507,7 @@ export default function Chronicles102() {
           the house of Rechab{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Kenites were the descendants of Jethro, father-in-law of
                 Moses [
                 <ScrollLink href="/judges-01" scrollToId="#filepos2728180">

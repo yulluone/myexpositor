@@ -19,7 +19,7 @@ export default function Habakkuk2() {
           what I shall answer when I am reproved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will stand upon my watch, and set me upon the tower, pertains
                 to a watchtower that is speaking symbolically [
                 <ScrollLink href="/ezekiel-03" scrollToId="#filepos9047688">
@@ -82,7 +82,7 @@ export default function Habakkuk2() {
           reads it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Write the Vision, and make it plain upon tables, was carried
                 out to the letter by Habakkuk, in the form of the Book that
                 bears his name; consequently, the Lord wanted not only Habakkuk
@@ -102,7 +102,7 @@ export default function Habakkuk2() {
           tarry, wait for it; because it will surely come, it will not tarry.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the Vision is yet for an appointed time, actually speaks of
                 the Second Coming of Christ, as proved in{" "}
                 <ScrollLink href="/hebrews-10" scrollToId="#filepos14552224">
@@ -157,7 +157,7 @@ export default function Habakkuk2() {
           is not upright in him: but the just shall live by his Faith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase of this Verse speaks of one who is proud,
                 presumptuous, thinking much of himself, despising others, and
                 who is not straightforward and upright before God. As such, he
@@ -199,7 +199,7 @@ export default function Habakkuk2() {
           unto him all nations, and heaps unto him all people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Habakkuk now begins to express the results of the individual
                 who trusts in his own resources and not God, and speaks of the
                 person proclaimed at the beginning of{" "}
@@ -279,7 +279,7 @@ export default function Habakkuk2() {
           himself with thick clay!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question in the form of an exclamation concerns itself with
                 this spirit made evident in the previous Verse, which has
                 characterized humanity for all time. Sooner or later, oppressed
@@ -309,7 +309,7 @@ export default function Habakkuk2() {
           booties unto them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Shall they not rise up suddenly who shall bite
                 you...?, actually refers to the Persians, who destroyed the
                 Babylonian power as quickly and as unexpectedly as it had
@@ -341,7 +341,7 @@ export default function Habakkuk2() {
           who dwell therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Nebuchadnezzar was an Instrument of God in
                 punishing Judah and Jerusalem, still, he took his commission too
                 far, as is described here by the Lord. He laid a heavy hand of
@@ -364,7 +364,7 @@ export default function Habakkuk2() {
           may be delivered from the power of evil!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the first Woe concerned oppression, this Woe concerns
                 covetousness. The idea of this Verse pertains to rich men
                 gathering wealth in order to establish their families in assured
@@ -396,7 +396,7 @@ export default function Habakkuk2() {
           house by cutting off many people, and have sinned against your soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage refers to the very means the Empire took to secure
                 its power, but proved to be its ruin.)
               </span>
@@ -410,7 +410,7 @@ export default function Habakkuk2() {
           wall, and the beam out of the timber shall answer it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is evidenced by the great palace in Babylon, as well as
                 the other great buildings, which were built by the enforced
                 labor of miserable captors and adorned with the fruits of fraud
@@ -426,7 +426,7 @@ export default function Habakkuk2() {
           blood, and stablishes a city by iniquity!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the third Woe mentioned; it concerns violence and
                 cruelty. The other two are found in{" "}
                 <ScrollLink href="/" scrollToId="#filepos10444114">
@@ -461,7 +461,7 @@ export default function Habakkuk2() {
           shall weary themselves for very vanity?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God has ordained for the fire the great and strong cities and
                 palaces which the nations weary themselves in building.)
               </span>
@@ -478,7 +478,7 @@ export default function Habakkuk2() {
           the knowledge of the Glory of the LORD, as the waters cover the sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage is very similar to what Isaiah said in{" "}
                 <ScrollLink href="/isaiah-11" scrollToId="#filepos7397010">
                   <span className="calibre_19">
@@ -510,7 +510,7 @@ export default function Habakkuk2() {
           may look on their nakedness!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Woe speaks of drunkenness. Woe unto him who gives his
                 neighbor drink, refers, first of all, to the deepened idol
                 worship and debauchery to which the conquered nations were
@@ -560,7 +560,7 @@ export default function Habakkuk2() {
           be on your glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You are filled with shame for glory, proclaims the very
                 opposite type of glory to that in the Promise of the knowledge
                 of the Glory of the LORD. That Glory is wonderful to behold,
@@ -620,7 +620,7 @@ export default function Habakkuk2() {
           who dwell therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the violence of Lebanon shall cover you, pertains to
                 violence against Jerusalem and the Temple called here Lebanon,
                 because it was built with cedars brought from thence. And the
@@ -657,7 +657,7 @@ export default function Habakkuk2() {
           lies, that the maker of his work trusts therein, to make dumb idols?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, What profits the graven image that the maker
                 thereof has graven it?, goes to the heart of Babylonian thought.
                 They would attribute all their success to their gods. The molten
@@ -690,7 +690,7 @@ export default function Habakkuk2() {
           of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the fifth and final Woe, and speaks to idolaters. Woe
                 unto him who says to the wood, Awake; to the dumb stone, Arise,
                 it shall teach!, actually means, in the Hebrew, shall this
@@ -733,7 +733,7 @@ export default function Habakkuk2() {
           let all the Earth keep silence before Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to Heaven itself and means that man
                 should consult Him, not these dumb idols. He is a Living God,
                 whereas these other things have no breath in them. As such, He

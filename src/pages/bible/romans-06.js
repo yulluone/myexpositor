@@ -53,7 +53,7 @@ export default function Romans06() {
           . How shall we, who are dead to sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(dead to the sin nature)</span>
+              <span className="explanation">(dead to the sin nature)</span>
             </span>
           </span>
           , live any longer therein?{" "}
@@ -168,7 +168,7 @@ export default function Romans06() {
           <sup className="calibre7">5</sup>For if we have been planted together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(with Christ)</span>
+              <span className="explanation">(with Christ)</span>
             </span>
           </span>{" "}
           in the likeness of His Death{" "}
@@ -326,7 +326,7 @@ export default function Romans06() {
           sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>{" "}
           once{" "}
@@ -340,7 +340,7 @@ export default function Romans06() {
           : but in that He lives{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>
           , He lives unto God{" "}
@@ -361,13 +361,13 @@ export default function Romans06() {
           <sup className="calibre7">11</sup>Likewise reckon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(account)</span>
+              <span className="explanation">(account)</span>
             </span>
           </span>{" "}
           you also yourselves to be dead indeed unto{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the)</span>
+              <span className="explanation">(the)</span>
             </span>
           </span>{" "}
           sin{" "}
@@ -383,7 +383,9 @@ export default function Romans06() {
           , but alive unto God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(living the Resurrection Life)</span>
+              <span className="explanation">
+                (living the Resurrection Life)
+              </span>
             </span>
           </span>{" "}
           through Jesus Christ our Lord{" "}
@@ -406,13 +408,13 @@ export default function Romans06() {
           <sup className="calibre7">12</sup>Let not sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>{" "}
           therefore reign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rule)</span>
+              <span className="explanation">(rule)</span>
             </span>
           </span>{" "}
           in your mortal body{" "}
@@ -454,7 +456,7 @@ export default function Romans06() {
           <sup className="calibre7">13</sup>Neither yield you your members{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of your mortal body)</span>
+              <span className="explanation">(of your mortal body)</span>
             </span>
             <span>
               <span className="calibre_19">as</span>
@@ -463,7 +465,7 @@ export default function Romans06() {
           instruments of unrighteousness unto sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the sin nature)</span>
+              <span className="explanation">(the sin nature)</span>
             </span>
           </span>
           : but yield yourselves unto God{" "}
@@ -733,7 +735,7 @@ export default function Romans06() {
           sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves to sin)</span>
+              <span className="explanation">(slaves to sin)</span>
             </span>
           </span>
           , you were free from Righteousness{" "}
@@ -785,19 +787,21 @@ export default function Romans06() {
           <sup className="calibre7">22</sup>But now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(since coming to Christ)</span>
+              <span className="explanation">(since coming to Christ)</span>
             </span>
           </span>{" "}
           being made free from sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(set free from the sin nature)</span>
+              <span className="explanation">
+                (set free from the sin nature)
+              </span>
             </span>
           </span>
           , and become servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(slaves)</span>
+              <span className="explanation">(slaves)</span>
             </span>
           </span>{" "}
           to God{" "}

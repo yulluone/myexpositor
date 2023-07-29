@@ -20,7 +20,7 @@ export default function Chronicles232() {
           them for himself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (After these things means after the great revival under
                 Hezekiah. The king of Assyria then made war on Judah. He had
                 already taken the ten Tribes into captivity, and now his heart
@@ -41,7 +41,7 @@ export default function Chronicles232() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (according to{" "}
                 <ScrollLink href="/kings2-18" scrollToId="#filepos4266768">
                   <span className="calibre_19">
@@ -64,7 +64,7 @@ export default function Chronicles232() {
           <sup className="calibre7">3</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hezekiah)</span>
+              <span className="explanation">(Hezekiah)</span>
             </span>
           </span>{" "}
           took counsel with his princes and his mighty men to stop the waters of
@@ -79,7 +79,7 @@ export default function Chronicles232() {
           come, and find much water?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah stopped the fountain which is now known as the Virgins
                 Fount on the east of Ophel. Through the conduit he made [
                 <ScrollLink href="/kings2-20" scrollToId="#filepos4307165">
@@ -106,7 +106,7 @@ export default function Chronicles232() {
           made darts and shields in abundance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he took all possible means to make himself, the people, and the
                 city strong to withstand the invaders)
               </span>
@@ -132,7 +132,7 @@ export default function Chronicles232() {
           that is with him: for there be more with us than with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (great Faith in a great God would come against a great enemy and
                 win a great victory; as ever, Faith is the ingredient; let all
                 Believers know that whatever Satan brings against us, God has
@@ -150,7 +150,7 @@ export default function Chronicles232() {
           people rested themselves upon the words of Hezekiah king of Judah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our problem is that too often we attempt to defeat the flesh by
                 the flesh; it cannot be done; our strength must be the LORD our
                 God)
@@ -178,7 +178,7 @@ export default function Chronicles232() {
           Jerusalem?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, the siege is going to be bad!)
               </span>
             </span>
@@ -192,7 +192,7 @@ export default function Chronicles232() {
           our God shall deliver us out of the hand of the king of Assyria?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The emissaries of Sennacherib appealed to the people instead of
                 to Hezekiah and his ministers of state, thinking to undermine
                 their morale.)
@@ -208,7 +208,7 @@ export default function Chronicles232() {
           saying, You shall worship before one altar, and burn incense upon it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse illustrates the fact that wherever there is
                 obedience to the teaching of the Bible, it will be
                 misinterpreted by people of the world. The written Word
@@ -228,7 +228,7 @@ export default function Chronicles232() {
           hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage portrays these emissaries boasting that their god
                 was more powerful than all others, so it was vain to expect
                 Jehovah to rescue the people, especially since He did not rescue
@@ -263,7 +263,7 @@ export default function Chronicles232() {
           your God deliver you out of my hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The mighty Sennacherib was soon to find out just Who the God of
                 Judah actually was!)
               </span>
@@ -277,7 +277,7 @@ export default function Chronicles232() {
           against the LORD God, and against His servant Hezekiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit shows us here that the Lord is just as
                 displeased with His servants being spoken against as Himself)
               </span>
@@ -295,7 +295,7 @@ export default function Chronicles232() {
           hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the emissaries of Sennacherib intended to intimidate the people
                 of Jerusalem)
               </span>
@@ -310,7 +310,7 @@ export default function Chronicles232() {
           the Jews speech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(language)</span>
+              <span className="explanation">(language)</span>
             </span>
           </span>{" "}
           unto the people of Jerusalem who were on the wall, to affright them,
@@ -324,7 +324,7 @@ export default function Chronicles232() {
           the work of the hands of man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (over and over again, Jehovah is grossly insulted! To be
                 compared to the gods of other people, which were merely the work
                 of the hands of man, not only showed the ignorance of
@@ -346,7 +346,7 @@ export default function Chronicles232() {
           Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (too many in the modern Church no longer cry to God; instead,
                 they resort to psychology, which has the same source as
                 witchcraft Satan)
@@ -365,13 +365,13 @@ export default function Chronicles232() {
           came forth of his own bowels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his sons)</span>
+              <span className="explanation">(his sons)</span>
             </span>
           </span>{" "}
           killed him there with the sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with only one Angel, the Lord struck down 185,000 Assyrians in
                 one night [
                 <ScrollLink href="/kings2-19" scrollToId="#filepos4293791">
@@ -398,7 +398,7 @@ export default function Chronicles232() {
           side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What a beautiful statement! The Holy Spirit will lead and guide
                 us into all truth [
                 <ScrollLink href="/john-16" scrollToId="#filepos12641775">
@@ -421,7 +421,7 @@ export default function Chronicles232() {
           magnified in the sight of all nations from thenceforth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah became one of the most powerful nations on the face of
                 the Earth, all because of Hezekiahs faith, and the Blessings of
                 God)
@@ -441,7 +441,7 @@ export default function Chronicles232() {
           gave him a sign{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the sign of the sundial going backwards ten degrees,
                 which was a miracle of unprecedented proportions; this means
                 that the Earth literally went back on its axis, i.e., its
@@ -467,7 +467,7 @@ export default function Chronicles232() {
           therefore there was wrath upon him, and upon Judah and Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (someone has said that praise and prosperity are the greatest
                 obstacles for a Christian to overcome; Hezekiah did not overcome
                 them, but rather succumbed to them; this probably referred to
@@ -492,7 +492,7 @@ export default function Chronicles232() {
           himself for the pride of his heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (showing that pride was his sin)
               </span>
             </span>
@@ -501,7 +501,7 @@ export default function Chronicles232() {
           LORD came not upon them in the days of Hezekiah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (thankfully, Hezekiah repented, and the Lord healed him, giving
                 him fifteen more years of life [
                 <ScrollLink href="/kings2-20" scrollToId="#filepos4295854">
@@ -543,7 +543,7 @@ export default function Chronicles232() {
           substance very much{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, the Lord was the Author of all this prosperity)
               </span>
             </span>
@@ -566,13 +566,13 @@ export default function Chronicles232() {
           he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Hezekiah)</span>
+              <span className="explanation">(Hezekiah)</span>
             </span>
           </span>{" "}
           might know all that was in his heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (man, even the most dedicated and consecrated Believer, will
                 invariably turn aside if God leaves us even for a moment;
                 Hezekiah would find that the heart is deceitful above all
@@ -610,7 +610,7 @@ export default function Chronicles232() {
           at his death. And Manasseh his son reigned in his stead.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning his burial, such was not said of any man before or
                 after this. It must have meant that he was buried next to Davids
                 tomb. Despite his failures, Hezekiah was one of the Godliest

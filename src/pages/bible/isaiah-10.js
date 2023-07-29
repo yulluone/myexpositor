@@ -23,7 +23,7 @@ export default function Isaiah10() {
           widows may be their prey, and that they may rob the fatherless!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit in these two Verses calls attention to the
                 perversion of justice. The poor and the widows who were helpless
                 were the classes who were the chief sufferers of this perversion
@@ -56,7 +56,7 @@ export default function Isaiah10() {
           will you flee for help? and where will you leave your glory?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The day of visitation referred to the coming Judgment. Then
                 there will be no one to help; the Lord through the Prophet is
                 speaking of these religious leaders.)
@@ -72,7 +72,7 @@ export default function Isaiah10() {
           anger is not turned away, but His Hand is stretched out still.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The feebleness and misery of these unrighteous magistrates
                 portrayed in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7378034">
@@ -134,7 +134,7 @@ export default function Isaiah10() {
           the staff in their hand is My indignation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A new Prophecy begins with this Verse. Assyria, after being
                 Gods instrument to punish Israel, shall herself be punished in
                 turn.)
@@ -151,7 +151,7 @@ export default function Isaiah10() {
           them down like the mire of the streets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The hypocritical nation mentioned here is Ephraim, sometimes
                 referred to as Samaria, or Israel, which was the ten-Tribe
                 Northern Kingdom.)
@@ -167,7 +167,7 @@ export default function Isaiah10() {
           nations not a few.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The monuments record that the nations not a few that the
                 Assyrian leader proposed to cut off were the Egyptians, the
                 Libyans, and the Ethiopians. He believed himself to be a free
@@ -185,7 +185,7 @@ export default function Isaiah10() {
           altogether kings?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One mark of the superiority of Assyria to other countries was
                 to be seen in the fact that her king had not mere officers, but
                 vassal kings, under him, hence, the title king of kings assumed
@@ -201,7 +201,7 @@ export default function Isaiah10() {
           Hamath as Arpad? is not Samaria as Damascus?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse should read, Is not Calno as much mine as
                 Carchemish?)
               </span>
@@ -216,7 +216,7 @@ export default function Isaiah10() {
           Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is quite in accordance with Syrian ideas that the conquered
                 countries should be called kingdoms of the idols [literally, no
                 gods]. The Assyrian Monarchs regarded their own gods alone as
@@ -237,7 +237,7 @@ export default function Isaiah10() {
           Samaria and her idols, so do to Jerusalem and her idols?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy was probably uttered during the reign of Ahaz,
                 when that wicked king and all Judah had turned to idols, which
                 was about 30 years before the Assyrian invasion. This Prophecy
@@ -257,7 +257,7 @@ export default function Isaiah10() {
           Assyria, and the glory of his high looks.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The work assigned to Assyria by the Lord was the destruction of
                 the Northern Kingdom of Israel, and a share in the trial,
                 punishment, and discipline of Judah. The last task seems to have
@@ -296,7 +296,7 @@ export default function Isaiah10() {
           I have put down the inhabitants like a valiant man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the vainglorious language of the Assyrian king corresponds with
                 that found on the monuments; this is one of the numberless,
                 undesigned testimonies to the antiquity and truthfulness of the
@@ -315,7 +315,7 @@ export default function Isaiah10() {
           opened the mouth, or peeped.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Assyrians were fond of comparing their enemies to birds.
                 The word peeped refers to the inhabitants of these particular
                 nations who offered not so much as even a feeble resistance that
@@ -334,7 +334,7 @@ export default function Isaiah10() {
           wood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For Assyria to assert herself as if she were independent of God
                 is like a rod attempting to sway the hand that holds it.)
               </span>
@@ -349,7 +349,7 @@ export default function Isaiah10() {
           shall kindle a burning like the burning of a fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, the Lord says that the glory and pride of the
                 king of Assyria shall be destroyed like a great fire consuming
                 the fuel.)
@@ -365,7 +365,7 @@ export default function Isaiah10() {
           thorns and his briers in one day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Light of Israel is a Messianic title. The phrase, In one
                 day, refers to the destroying by an Angel of the Lord of 185,000
                 of Assyrias best soldiers, and all in one day. Therefore, it
@@ -392,7 +392,7 @@ export default function Isaiah10() {
           be as when a standardbearer faints.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here it is predicted about 30 years beforehand the manner of
                 the death which struck the Assyrian host at Lachish.)
               </span>
@@ -406,7 +406,7 @@ export default function Isaiah10() {
           forest shall be few, that a child may write them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both{" "}
                 <ScrollLink href="/" scrollToId="#filepos7387707">
                   <span className="calibre_19">
@@ -440,7 +440,7 @@ export default function Isaiah10() {
           stay upon the LORD, the Holy One of Israel, in Truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these Passages, beginning with{" "}
                 <ScrollLink href="/" scrollToId="#filepos7380753">
                   <span className="calibre_19">
@@ -477,7 +477,7 @@ export default function Isaiah10() {
           remnant of Jacob, unto the Mighty God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Messiah is entitled here The Mighty God, because He is The
                 Mighty God.
               </span>
@@ -504,7 +504,7 @@ export default function Isaiah10() {
           consumption decreed shall overflow with righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7390138">
                   <span className="calibre_19">
@@ -563,7 +563,7 @@ export default function Isaiah10() {
           a consumption, even determined, in the midst of all the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This will take place at the Second Coming.)
               </span>
             </span>
@@ -578,7 +578,7 @@ export default function Isaiah10() {
           you, after the manner of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage speaks of the invasion of Sennacherib and also of
                 the future invasion of the Antichrist.)
               </span>
@@ -592,7 +592,7 @@ export default function Isaiah10() {
           indignation shall cease, and My anger in their destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the coming Great Tribulation, and that it will
                 be only for a very short time in duration.
               </span>
@@ -620,7 +620,7 @@ export default function Isaiah10() {
           the manner of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word Scourge should be printed with a capital S, for it is
                 here a Messianic title. Christ will be a Scourge against the
                 Antichrist [
@@ -648,7 +648,7 @@ export default function Isaiah10() {
           of the anointing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, because of the anointing, should have been
                 translated by reason of the appearing of the Anointed One,
                 Christ.)
@@ -663,7 +663,7 @@ export default function Isaiah10() {
           Migron; at Michmash he has laid up his carriages{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in a Passage of magnificent poetic Prophesy in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7393757">
                   <span className="calibre_19">
@@ -695,7 +695,7 @@ export default function Isaiah10() {
           Gallim: cause it to be heard unto Laish, O poor Anathoth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Anathoth was Jeremiahs birthplace. These too were near
                 Jerusalem, which no doubt the Antichrist will occupy upon his
                 invasion of Jerusalem [Ezek., Chpts.{" "}
@@ -718,7 +718,7 @@ export default function Isaiah10() {
           of Gebim gather themselves to flee.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These villages were near Jerusalem toward the north. Their
                 inhabitants flee as the Assyrian [Antichrist] approaches.)
               </span>
@@ -733,7 +733,7 @@ export default function Isaiah10() {
           Zion, the hill of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is believed that Nob, which was a city of Priests, and only
                 a few miles from Jerusalem, will be the headquarters of the
                 Antichrist while he is seeking to take Jerusalem [
@@ -773,7 +773,7 @@ export default function Isaiah10() {
           hewn down, and the haughty shall be humbled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The haughty speaks of the Antichrist and how he will be humbled
                 by the Lord Jesus Christ.)
               </span>
@@ -787,7 +787,7 @@ export default function Isaiah10() {
           of the forest with iron, and Lebanon shall fall by a Mighty One.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He refers to Jehovah. A Mighty One refers to the the Anointed
                 One.
               </span>

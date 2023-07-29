@@ -16,7 +16,7 @@ export default function Jeremiah07() {
           the LORD, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the date of the original utterance of this Prophecy seems to
                 have been either the early years or at the midpoint of the reign
                 of Jehoiakim. If that, in fact, is the case, this Prophecy was
@@ -35,7 +35,7 @@ export default function Jeremiah07() {
           you of Judah, who enter in at these gates to worship the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who enter in at these gates to worship the LORD, bespoke the
                 idea that people were constantly coming and going regarding
                 their worship of God, but, in reality, it was worship that God
@@ -52,7 +52,7 @@ export default function Jeremiah07() {
           dwell in this place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit gives an Altar Call. And I will
                 cause you to dwell in this place, referred to Jerusalem, and the
                 inheritance that he had originally given them. Once again, the
@@ -69,7 +69,7 @@ export default function Jeremiah07() {
           LORD, are these.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Temple was of Divine Ordination. The men of Judah and
                 Jerusalem had an idolatrous pride in it. They believed that its
                 presence in their city secured their national independence and
@@ -115,7 +115,7 @@ export default function Jeremiah07() {
           his neighbour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (here the word thoroughly is introduced before the word amend,
                 lending more credence to the statement, and also saying that a
                 partial repentance would not be accepted)
@@ -132,7 +132,7 @@ export default function Jeremiah07() {
           neither walk after other gods to your hurt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit once again portrays the love and concern of the
                 Lord for the helpless)
               </span>
@@ -147,7 +147,7 @@ export default function Jeremiah07() {
           this place, in the land that I gave to your fathers, forever and ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, I will cause you to dwell in this place, as in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8236635">
                   <span className="calibre_19">
@@ -171,7 +171,7 @@ export default function Jeremiah07() {
           that cannot profit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, the lying words spoke of the claims of the religious
                 leaders of Jerusalem, who asserted that by maintaining Temple
                 worship, they would be protected from all evil. In the broader
@@ -190,7 +190,7 @@ export default function Jeremiah07() {
           after other gods whom you know not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Passage may be thus read: Is this your way of life course
                 of theft, murder, lying, and adultery?)
               </span>
@@ -206,7 +206,7 @@ export default function Jeremiah07() {
           these abominations?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This House refers to the Temple. The words, Stand before Me,
                 refer to God knowing not only the actions of these false
                 worshippers, but also the thoughts and intent of their hearts.
@@ -236,7 +236,7 @@ export default function Jeremiah07() {
           it, says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A den of robbers, is that which the Lord calls the people of
                 Jerusalem. They were treating His House as a group of thieves
                 would treat a gathering place where they congregated in order to
@@ -253,7 +253,7 @@ export default function Jeremiah07() {
           it for the wickedness of My People Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Shiloh was to Israel during the time of the Judges what
                 Jerusalem was to them during the kings. The Lord destroyed it,
                 because of Israels sin.)
@@ -272,7 +272,7 @@ export default function Jeremiah07() {
           speaking, but you heard not; and I called you, but you answered not{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the phrase, Rising up early and speaking, refers to speaking
                 zealously and continually, but yet without favorable response)
               </span>
@@ -288,7 +288,7 @@ export default function Jeremiah07() {
           which I gave to you and to your fathers, as I have done to Shiloh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophet pointed to the ruin of Shiloh as illustrating the
                 Wrath of God, which, when corruption enters, falls upon that
                 which He Himself sets up; and He predicted a sure destruction
@@ -304,7 +304,7 @@ export default function Jeremiah07() {
           as I have cast out all your brethren, even the whole seed of Ephraim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The expulsion of Ten Tribes over 100 years earlier should have
                 warned Jerusalem; but it did not.)
               </span>
@@ -322,7 +322,7 @@ export default function Jeremiah07() {
           intercession to Me: for I will not hear you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To substitute the idols of mans religious will in place of
                 Christ is the sin unto death of{" "}
                 <ScrollLink href="/john1-5" scrollToId="#filepos14844847">
@@ -349,7 +349,7 @@ export default function Jeremiah07() {
           cities of Judah and in the streets of Jerusalem?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their sin had become open and without shame! Man becomes what
                 he worships.)
               </span>
@@ -365,7 +365,7 @@ export default function Jeremiah07() {
           other gods, that they may provoke Me to anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All ages, as represented by the children, fathers, and women,
                 were involved in these idolatrous acts, thus justifying the
                 sweeping character of the Judgment, as described in{" "}
@@ -400,7 +400,7 @@ export default function Jeremiah07() {
           faces?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Do they not provoke themselves to the confusion of their own
                 faces?, refers to their confusing the Creator with the created;
                 hence, they changed the Truth of God into a lie.)
@@ -420,7 +420,7 @@ export default function Jeremiah07() {
           fruit of the ground; and it shall burn, and shall not be quenched.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mans rebellion against God brings suffering upon the animal
                 creation and blight upon the vegetable kingdom, hence, the
                 plight of this present world.)
@@ -436,7 +436,7 @@ export default function Jeremiah07() {
           flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The flesh of the Burnt Offering was forbidden to be eaten by
                 the worshipper [Lev., Chpt.{" "}
                 <ScrollLink href="/leviticus-01" scrollToId="#filepos1278742">
@@ -470,7 +470,7 @@ export default function Jeremiah07() {
           Egypt, concerning burnt offerings or sacrifices{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Jews were attempting to make the Sacrifices into a rite of
                 Salvation within themselves. They had lost all understanding as
                 to what these Sacrifices represented, namely, the Coming
@@ -497,7 +497,7 @@ export default function Jeremiah07() {
           it may be well unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The condition for acceptance is obedience.)
               </span>
             </span>
@@ -511,7 +511,7 @@ export default function Jeremiah07() {
           evil heart, and went backward, and not forward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whenever man follows his own counsel, he always goes backward
                 and not forward. However, in the imagination of his evil heart,
                 he surely thinks he is improving upon God!)
@@ -527,7 +527,7 @@ export default function Jeremiah07() {
           all My Servants the Prophets, daily rising up early and sending them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daily rising up early and sending them, refers to the most
                 opportune time, in order that the greatest number of people
                 would hear and be given every opportunity)
@@ -544,7 +544,7 @@ export default function Jeremiah07() {
           fathers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They hearkened not is their indictment!)
               </span>
             </span>
@@ -558,7 +558,7 @@ export default function Jeremiah07() {
           unto them; but they will not answer you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through foreknowledge, God knew that they would not hearken to
                 Jeremiah. He knew what the outcome would be, and yet He
                 continued to call and plead, knowing it was useless, but doing
@@ -575,7 +575,7 @@ export default function Jeremiah07() {
           correction: Truth is perished; and is cut off from their mouth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As they trusted in lying words [
                 <ScrollLink href="/" scrollToId="#filepos8239355">
                   <span className="calibre_19">
@@ -597,7 +597,7 @@ export default function Jeremiah07() {
           has rejected and forsaken the generation of His Wrath.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cutting off of the hair was a practice of the women of that
                 day when they were rejected and forsaken. And take up a
                 lamentation on high places, refers to the fact that they
@@ -627,7 +627,7 @@ export default function Jeremiah07() {
           the House which is called by My Name, to pollute it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The abominations spoken of here included, no doubt, the heathen
                 altars set up by Ahaz in place of the Brazen Altar [
                 <ScrollLink href="/kings2-16" scrollToId="#filepos4231241">
@@ -662,7 +662,7 @@ export default function Jeremiah07() {
           neither came it into My Heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At these high places, child sacrifices were offered by fire to
                 the deity Molech. This hideous practice is beyond
                 comprehension!)
@@ -679,7 +679,7 @@ export default function Jeremiah07() {
           in Tophet, till there be no place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, the Holy Spirit is saying that if they desire to
                 sacrifice humans here, then humans would be sacrificed here, and
                 to a degree and in a manner that would stagger the imagination,
@@ -696,7 +696,7 @@ export default function Jeremiah07() {
           Earth; and none shall fray them away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word fray means frighten. And the carcasses of this people,
                 refers to a scene so desolate that it beggars description!)
               </span>
@@ -712,7 +712,7 @@ export default function Jeremiah07() {
           voice of the bride: for the land shall be desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the land shall be desolate, rather means shall become a
                 waste.)
               </span>

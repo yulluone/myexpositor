@@ -17,13 +17,13 @@ export default function James1() {
           <sup className="calibre7">1</sup>James{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Brother of our Lord)</span>
+              <span className="explanation">(the Brother of our Lord)</span>
             </span>
           </span>
           , a servant of God and of the Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he never referred to himself as an Apostle, even though he
                 definitely was one [
                 <ScrollLink href="/galatians-1" scrollToId="#filepos13920225">
@@ -40,7 +40,7 @@ export default function James1() {
           , to the Twelve Tribes which are scattered abroad, greeting.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that the Twelve Tribes of Israel were
                 still in existence, so ten of them were not lost as some claim.)
               </span>
@@ -57,7 +57,7 @@ export default function James1() {
           you fall into divers temptations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers not so much to the allurement of sin, as it does testing
                 and trials)
               </span>
@@ -77,7 +77,7 @@ export default function James1() {
           that the trying of your Faith works patience.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If it is genuine Faith, testing serves to develop its
                 persistence.)
               </span>
@@ -96,7 +96,7 @@ export default function James1() {
           perfect work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means we must not grow discouraged regarding the test or trial
                 we are going through)
               </span>
@@ -105,7 +105,7 @@ export default function James1() {
           , that you may be perfect and entire, wanting nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The goal in view is that Believers may be mature and complete.)
               </span>
             </span>
@@ -120,7 +120,7 @@ export default function James1() {
           <sup className="calibre7">5</sup>If any of you lack wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to proper knowledge of the Word of God)
               </span>
             </span>
@@ -134,7 +134,7 @@ export default function James1() {
           liberally{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord gives to those who ask, providing they ask the right
                 thing; a greater knowledge of the Word of God is always the
                 right thing)
@@ -144,7 +144,7 @@ export default function James1() {
           , and upbraideth not; and it shall be given him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means when we ask wisdom of Him, He will not reproach or
                 chide us for our past conduct. He permits us to come in the
                 freest manner, and meets us with a spirit of entire kindness,
@@ -159,7 +159,7 @@ export default function James1() {
           <sup className="calibre7">6</sup>But let him ask in Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some accuse James of denigrating Faith; however, he actually
                 does the very opposite, making Faith a criteria for all things)
               </span>
@@ -168,14 +168,14 @@ export default function James1() {
           , nothing wavering{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(nothing doubting)</span>
+              <span className="explanation">(nothing doubting)</span>
             </span>
           </span>
           . For he who wavers is like a wave of the sea driven with the wind and
           tossed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He who continuously veers from one course to another only
                 reveals his own instability and lack of a sense of being under
                 Divine control.)
@@ -190,7 +190,7 @@ export default function James1() {
           shall receive any thing of the Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This points to a particular type of individual, one who has a
                 doubting heart.)
               </span>
@@ -209,7 +209,7 @@ export default function James1() {
           unstable in all his ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (One cannot place ones Faith in the Cross and something else at
                 the same time. Such produces instability, a type of Faith that
                 will never be honored by the Lord.)
@@ -226,7 +226,7 @@ export default function James1() {
           <sup className="calibre7">9</sup>Let the Brother of low degree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to one who is lowly, insignificant, weak, and poor)
               </span>
             </span>
@@ -234,7 +234,7 @@ export default function James1() {
           rejoice in that he is exalted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the greatest place and position of all, ones position
                 in Christ)
               </span>
@@ -248,7 +248,7 @@ export default function James1() {
           <sup className="calibre7">10</sup>But the rich, in that he is made low{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to point toward trust in riches, which lowers one in
                 the sight of God)
               </span>
@@ -257,7 +257,7 @@ export default function James1() {
           : because as the flower of the grass he shall pass away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Worldly riches are temporal. We lose them quickly, or else we
                 die and leave them.)
               </span>
@@ -272,7 +272,7 @@ export default function James1() {
           falls, and the grace of the fashion of it perishes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents an apt illustration for all things that are of this
                 world)
               </span>
@@ -281,7 +281,7 @@ export default function James1() {
           : so also shall the rich man fade away in his ways.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The man fades, whether the riches do or not.)
               </span>
             </span>
@@ -302,13 +302,13 @@ export default function James1() {
           the man who endures temptation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the test of Faith)</span>
+              <span className="explanation">(refers to the test of Faith)</span>
             </span>
           </span>
           : for when he is tried, he shall receive the Crown of Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a reward much greater than the price paid)
               </span>
             </span>
@@ -316,7 +316,7 @@ export default function James1() {
           , which the Lord has promised to them who love Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If we truly love Him, we will truly keep His Commandments [
                 <ScrollLink href="/john-14" scrollToId="#filepos12608159">
                   <span className="calibre_19">
@@ -365,7 +365,7 @@ export default function James1() {
           am tempted of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we must not assume that enticement to sin comes from God; it
                 never does!)
               </span>
@@ -374,7 +374,7 @@ export default function James1() {
           : for God cannot be tempted with evil, neither tempts He any man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods omnipotent Holy Will fully resists any direction toward
                 sin)
               </span>
@@ -389,7 +389,7 @@ export default function James1() {
           drawn away of his own lust, and enticed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The temptation to sin appeals to a moral defect in us, even in
                 the best, for none are perfect.)
               </span>
@@ -402,13 +402,13 @@ export default function James1() {
           <sup className="calibre7">15</sup>Then when lust has conceived{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaks of evil lust)</span>
+              <span className="explanation">(speaks of evil lust)</span>
             </span>
           </span>
           , it brings forth sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, these temptations do not come from God, but from the
                 appetites of mans sinful nature, which is a result of the Fall;
                 the sin nature can be held at bay, and is meant to be held at
@@ -420,7 +420,7 @@ export default function James1() {
           : and sin, when it is finished, brings forth death.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to spiritual death, because sin separates man from
                 God.)
               </span>
@@ -433,7 +433,7 @@ export default function James1() {
           <sup className="calibre7">16</sup>Do not err, my beloved Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (James is saying to Believers, dont be deceived; sin is the ruin
                 of all that is good.)
               </span>
@@ -450,7 +450,7 @@ export default function James1() {
           gift is from above{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Gift of His Son, the Lord Jesus Christ, by Whom
                 every Perfect Gift is given)
               </span>
@@ -459,7 +459,7 @@ export default function James1() {
           , and comes down from the Father of Lights{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evil is darkness; light is goodness)
               </span>
             </span>
@@ -467,7 +467,7 @@ export default function James1() {
           , with Whom is no variableness, neither shadow of turning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is what God is, and He will never change.)
               </span>
             </span>
@@ -480,7 +480,7 @@ export default function James1() {
           Word of Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the imparting of Divine Life through the Word, and is
                 of unspeakable significance)
               </span>
@@ -489,7 +489,7 @@ export default function James1() {
           , that we should be a kind of Firstfruits of His creatures.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Firstfruits represent not only what we have received, which, in
                 effect, is a promise of what we are to receive in the future,
                 but as well recognizes the principle of Divine Ownership and all
@@ -508,13 +508,13 @@ export default function James1() {
           every man be swift to hear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Word of God)</span>
+              <span className="explanation">(refers to the Word of God)</span>
             </span>
           </span>
           , slow to speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be translated, slow to murmur; we shouldnt murmur at all,
                 but knowing the human heart, slow to murmur is more within our
                 reach)
@@ -524,7 +524,7 @@ export default function James1() {
           , slow to wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of these things can be handled at the Cross, and only at
                 the Cross)
               </span>
@@ -539,7 +539,7 @@ export default function James1() {
           Righteousness of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that the anger and irritation of the
                 natural heart do not produce anything God accepts as Righteous.)
               </span>
@@ -552,13 +552,13 @@ export default function James1() {
           <sup className="calibre7">21</sup>Wherefore lay apart all filthiness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to moral impurity)</span>
+              <span className="explanation">(refers to moral impurity)</span>
             </span>
           </span>{" "}
           and superfluity of naughtiness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (increased evil to which moral impurity will lead; these things
                 can be laid aside only by the Believer understanding that all
                 things come to him through Christ and what He did at the Cross,
@@ -572,7 +572,7 @@ export default function James1() {
           your souls.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The story of the Bible, i.e., the Word, is the story of the
                 Cross.)
               </span>
@@ -585,7 +585,7 @@ export default function James1() {
           <sup className="calibre7">22</sup>But be ye doers of the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word has the potential to do great and mighty things within
                 our lives)
               </span>
@@ -594,7 +594,7 @@ export default function James1() {
           , and not hearers only{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while hearing the Word is definitely necessary, at the same
                 time it must be heard properly, and that refers to a heart that
                 wants to receive)
@@ -604,7 +604,7 @@ export default function James1() {
           , deceiving your own selves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Its bad enough to be deceived by others, but worse yet to
                 purposely deceive ourselves. If we think we can live this life
                 without total Faith in Christ and the Cross, we are doing
@@ -621,7 +621,7 @@ export default function James1() {
           glass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he sees only that which is external and, therefore, cannot make
                 a proper evaluation)
               </span>
@@ -636,13 +636,13 @@ export default function James1() {
           way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which is not Gods Way)</span>
+              <span className="explanation">(which is not Gods Way)</span>
             </span>
           </span>
           , and straightway forgets what manner of man he was.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (An evaluation of ourselves is necessary. However, it is God
                 Alone Who knows the heart which the Word of God, properly
                 presented, reveals.)
@@ -657,7 +657,7 @@ export default function James1() {
           of Liberty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (defines the whole body of revealed truth concerning the Word of
                 God)
               </span>
@@ -669,7 +669,7 @@ export default function James1() {
               <span className="calibre_19">therein</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there must be a continuous abiding in the Word),
               </span>
             </span>
@@ -678,7 +678,7 @@ export default function James1() {
           shall be blessed in his deed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Obeying the Word of God brings great Blessing. However, the
                 only way it can be obeyed is for the Believer to unequivocally
                 place his Faith in Christ and the Cross.)
@@ -693,7 +693,7 @@ export default function James1() {
           religious{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (would have been better translated, if any man among you seems
                 to be spiritual)
               </span>
@@ -702,7 +702,7 @@ export default function James1() {
           , and bridles not his tongue{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (again, only the Holy Spirit within our lives can do this)
               </span>
             </span>
@@ -716,7 +716,7 @@ export default function James1() {
           vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This would have been better translated, profession is vain.)
               </span>
             </span>
@@ -728,7 +728,7 @@ export default function James1() {
           <sup className="calibre7">27</sup>Pure religion{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, pure spirituality)
               </span>
             </span>
@@ -736,7 +736,7 @@ export default function James1() {
           and undefiled before God and the Father is this{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to that which pleases God)
               </span>
             </span>
@@ -744,7 +744,7 @@ export default function James1() {
           , To visit the fatherless and widows in their affliction{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proper Faith will always produce proper works)
               </span>
             </span>
@@ -758,7 +758,7 @@ export default function James1() {
           to keep himself unspotted from the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Victory in everyday life and living, which again must have the
                 help and Power of the Holy Spirit)
               </span>

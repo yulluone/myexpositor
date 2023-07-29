@@ -18,13 +18,13 @@ export default function Isaiah16() {
           land from Sela{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Petra)</span>
+              <span className="explanation">(Petra)</span>
             </span>
           </span>{" "}
           to the wilderness, unto the mount of the daughter of Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lamb refers to Israel. At the midpoint of the Great
                 Tribulation, when the Antichrist attacks Israel, showing his
                 true colors, Israel will then flee to Moab, which is modern-day
@@ -65,7 +65,7 @@ export default function Isaiah16() {
           fords of Arnon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wandering bird speaks of Moab, who will be highly disturbed
                 at the events that are taking place when the Antichrist suddenly
                 attacks Israel, and Israel is forced to flee. Moab [Jordan] will
@@ -82,7 +82,7 @@ export default function Isaiah16() {
           outcasts; bewray not him who wanders.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, Israel is referred to as the outcasts. Moab is
                 instructed to hide these outcasts, and not to betray them.)
               </span>
@@ -96,14 +96,14 @@ export default function Isaiah16() {
           be you a covert to them from the face of the spoiler{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>
           : for the extortioner is at an end, the spoiler ceases, the oppressors
           are consumed out of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The extortioner, the spoiler, and the oppressor are all names
                 for the Antichrist.
               </span>
@@ -141,7 +141,7 @@ export default function Isaiah16() {
           David, judging, and seeking judgment, and hasting righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are emphatically told here that the Tabernacle of David
                 shall be once again set up, which will take place after the
                 Church Age [
@@ -170,7 +170,7 @@ export default function Isaiah16() {
           wrath: but his lies shall not be so.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The immediate judgment upon Moab is again taken up in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7445863">
                   <span className="calibre_19">
@@ -200,7 +200,7 @@ export default function Isaiah16() {
           mourn; surely they are stricken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the judgment that shall come upon the entirety
                 of the nation, and not on just a few.)
               </span>
@@ -217,7 +217,7 @@ export default function Isaiah16() {
           over the sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lords of the heathen are probably the Assyrians, who made a
                 practice of destroying the fruit trees in enemy country for the
                 mere purpose of doing mischief.)
@@ -234,7 +234,7 @@ export default function Isaiah16() {
           your harvest is fallen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse portrays the great sorrow and mourning over the
                 destruction of the country and the wasting of its crops.)
               </span>
@@ -250,7 +250,7 @@ export default function Isaiah16() {
           no wine in their presses; I have made their vintage shouting to cease.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At the grape harvest, there were times of great celebration and
                 joy; however, all of this would be taken away, says the Holy
                 Spirit.)
@@ -265,7 +265,7 @@ export default function Isaiah16() {
           an harp for Moab, and my inward parts for Kir-haresh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In his Vision, seeing the coming destruction, Isaiah was moved
                 with deep compassion for these people.)
               </span>
@@ -280,7 +280,7 @@ export default function Isaiah16() {
           his sanctuary to pray; but he shall not prevail.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse pictures the Moabites presenting themselves before
                 their idol, and, like the worshippers of Baal at Carmel, they
                 wearied themselves in their fruitless cries to him.)
@@ -295,7 +295,7 @@ export default function Isaiah16() {
           spoken concerning Moab since that time.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, since that time, refer to the Prophecy of{" "}
                 <ScrollLink href="/isaiah-15" scrollToId="#filepos7437482">
                   <span className="calibre_19">
@@ -318,7 +318,7 @@ export default function Isaiah16() {
           shall be very small and feeble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning some of the heathen people, the annihilation was to
                 be absolute, but Moab would have a remnant, very small and of
                 little account; however, this remnant is to be redeemed in the

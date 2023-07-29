@@ -84,7 +84,7 @@ export default function Psalm047() {
           and the nations under our feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He has, and He will!)</span>
+              <span className="explanation">(He has, and He will!)</span>
             </span>
           </span>
           .

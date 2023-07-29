@@ -483,7 +483,7 @@ export default function Psalm050() {
           and to him who orders his conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(manner of behavior)</span>
+              <span className="explanation">(manner of behavior)</span>
             </span>
           </span>{" "}
           aright will I show the Salvation of God{" "}

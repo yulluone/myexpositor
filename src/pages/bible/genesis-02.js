@@ -18,7 +18,7 @@ export default function Genesis02() {
           finished, and all the host of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that when the heavens and the Earth were
                 completed, they were a brilliant array)
               </span>
@@ -34,7 +34,7 @@ export default function Genesis02() {
           Work which He had made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it doesnt mean that God was tired, for He cannot be such [
                 <ScrollLink href="/isaiah-40" scrollToId="#filepos7735453">
                   <span className="calibre_19">
@@ -57,7 +57,7 @@ export default function Genesis02() {
           which God created and made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sabbath, or seventh day, or Saturday, the last day of the
                 week, is meant by God to be a Type of the Salvation Rest which
                 one finds in Christ; thats the reason it was a part of the Ten
@@ -77,7 +77,7 @@ export default function Genesis02() {
           heavens and of the Earth when they were created{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (generations here refer to Divine divisions; it refers to the
                 manner in which all were created, as outlined in{" "}
                 <ScrollLink href="/genesis-01" scrollToId="#filepos10813">
@@ -94,7 +94,7 @@ export default function Genesis02() {
           , in the day that the LORD God made the Earth and the heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the new name of God as Jehovah Elohim; this Chapter
                 reveals Christ as Jehovah Elohim, mans Redeemer; the First{" "}
                 <ScrollLink href="/genesis-01" scrollToId="#filepos10813">
@@ -117,7 +117,7 @@ export default function Genesis02() {
           it was in the earth, and every herb of the field before it grew{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the second day of creation is addressed here, which obviously
                 preceded day three, when plant life was developed)
               </span>
@@ -126,7 +126,7 @@ export default function Genesis02() {
           : for the LORD God had not caused it to rain upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that rain came to the Earth on day three, which caused
                 the Earth to bring forth grass, the herb yielding seed, and the
                 fruit tree yielding fruit after his kind)
@@ -136,7 +136,7 @@ export default function Genesis02() {
           , and there was not a man to till the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this was before man was created, showing that he had
                 nothing to do with the creation, that being altogether of God)
               </span>
@@ -151,7 +151,7 @@ export default function Genesis02() {
           Earth, and watered the whole face of the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this pertains to day two of Creation; at that time, day two,
                 there went up a mist from the Earth, which prepared the Earth
                 for the seed which God evidently planted on the beginning of day
@@ -168,7 +168,7 @@ export default function Genesis02() {
           dust of the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the physical body made of clay)
               </span>
             </span>
@@ -176,7 +176,7 @@ export default function Genesis02() {
           , and breathed into his nostrils the breath of life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the breath of life, which comes from God, pertains to the soul
                 and spirit of man; this was done with the first man, Adam, God
                 breathing the soul and the spirit into man, and thereafter it
@@ -187,7 +187,7 @@ export default function Genesis02() {
           ; and man became a living soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (man is a soul, has a spirit, both which reside in the physical
                 body; the soul addresses the body; the spirit addresses God; the
                 physical body addresses the world)
@@ -206,7 +206,7 @@ export default function Genesis02() {
           eastward in Eden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was actually planted before Adam was created; the area is
                 believed by some Scholars to be the site where the city of
                 Babylon would ultimately be built)
@@ -216,7 +216,7 @@ export default function Genesis02() {
           ; and there He put the man whom He had formed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Garden of Eden was to be the home place of man)
               </span>
             </span>
@@ -230,13 +230,13 @@ export default function Genesis02() {
           God to grow every tree that is pleasant to the sight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(beautiful trees)</span>
+              <span className="explanation">(beautiful trees)</span>
             </span>
           </span>
           , and good for food{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every fruit tree imaginable, even those which bear nuts)
               </span>
             </span>
@@ -244,7 +244,7 @@ export default function Genesis02() {
           ; the Tree of Life also in the midst of the Garden{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently contained a type of fruit;{" "}
                 <ScrollLink href="/genesis-03" scrollToId="#filepos60477">
                   <span className="calibre_19">
@@ -296,7 +296,7 @@ export default function Genesis02() {
           , and the Tree of Knowledge of Good and Evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the tree of death)</span>
+              <span className="explanation">(presents the tree of death)</span>
             </span>
           </span>
           .
@@ -309,7 +309,7 @@ export default function Genesis02() {
           heads{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(four rivers)</span>
+              <span className="explanation">(four rivers)</span>
             </span>
           </span>
         </span>
@@ -320,14 +320,16 @@ export default function Genesis02() {
           <sup className="calibre7">11</sup>The name of the first is Pison{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is believed to be the Ganges)</span>
+              <span className="explanation">
+                (is believed to be the Ganges)
+              </span>
             </span>
           </span>
           : that is it which compasseth the whole land of Havilah, where there
           is gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(believed to be India)</span>
+              <span className="explanation">(believed to be India)</span>
             </span>
           </span>
           ;
@@ -339,7 +341,7 @@ export default function Genesis02() {
           there is bdellium and the onyx stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos35329">
                   <span className="calibre_19">
@@ -380,7 +382,7 @@ export default function Genesis02() {
           Gihon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is believed to be the Nile)</span>
+              <span className="explanation">(is believed to be the Nile)</span>
             </span>
           </span>
           : the same is it that compasseth the whole land of Ethiopia.
@@ -392,14 +394,16 @@ export default function Genesis02() {
           Hiddekel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(is believed to be the Tigris)</span>
+              <span className="explanation">
+                (is believed to be the Tigris)
+              </span>
             </span>
           </span>
           : that is it which goes toward the east of Assyria. And the fourth
           river is Euphrates.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These rivers at the present time have their sources far apart.
                 The explanation, no doubt, lies in the flood, which altered the
                 topography of the Earth. The headwaters of the first two were
@@ -424,7 +428,7 @@ export default function Genesis02() {
           saying, Of every tree of the Garden you may freely eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, before the Fall, man was vegetarian)
               </span>
             </span>
@@ -438,7 +442,7 @@ export default function Genesis02() {
           Good and Evil, you shall not eat of it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as for the evil, that was obvious; however, it is the good on
                 this tree that deceives much of the world; the good speaks of
                 religion; the definition of religion pertains to a system
@@ -463,7 +467,7 @@ export default function Genesis02() {
           : for in the day that you eat thereof you shall surely die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of spiritual death, which is separation from God; let it
                 be understood that the Tree of the Knowledge of Good and Evil
                 was not the cause of Adams Fall; it was a failure to heed and
@@ -486,7 +490,7 @@ export default function Genesis02() {
           good that the man should be alone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt mean that the idea of a companion for Adam suddenly
                 presented itself to the Lord; God never intended that man should
                 be alone)
@@ -496,7 +500,7 @@ export default function Genesis02() {
           ; I will make him an help meet for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is not meant to infer that the creation of woman was an
                 afterthought; there is no Plan of God that is incomplete!)
               </span>
@@ -514,7 +518,7 @@ export default function Genesis02() {
           formed every beast of the field, and every fowl of the air{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the animals and the fowls were created out of dust, exactly as
                 man)
               </span>
@@ -525,7 +529,7 @@ export default function Genesis02() {
           thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carried within the name that Adam gave to each one of these
                 creatures are the characteristics of that particular animal or
                 fowl; so we are speaking here of a man who had amazing
@@ -546,7 +550,7 @@ export default function Genesis02() {
           Adam there was not found a help meet for him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we learn from this that the animal creation was of far greater
                 magnitude and intelligence than at the present; it was the Fall
                 which changed that creation [
@@ -573,13 +577,15 @@ export default function Genesis02() {
           to fall upon Adam, and he slept{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(records the first anesthesia)</span>
+              <span className="explanation">
+                (records the first anesthesia)
+              </span>
             </span>
           </span>
           : and He took one of his ribs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word rib here actually means side)
               </span>
             </span>
@@ -587,7 +593,7 @@ export default function Genesis02() {
           , and closed up the flesh instead thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the woman is not merely of a rib, but actually of one side of
                 man)
               </span>
@@ -601,13 +607,13 @@ export default function Genesis02() {
           <sup className="calibre7">22</sup>And the rib{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(side)</span>
+              <span className="explanation">(side)</span>
             </span>
           </span>
           , which the LORD God had taken from man, made He a woman{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Hebrew says, built He a woman; Horton says, When God
                 created the man, the word form was used, which is the same word
                 used of a potter forming a clay jar; but the word build here
@@ -619,7 +625,7 @@ export default function Genesis02() {
           , and brought her unto the man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a formal presentation, with God, in essence,
                 performing the first wedding; thus He instituted the bonds of
                 the Marriage Covenant, which is actually called the Covenant of
@@ -659,7 +665,7 @@ export default function Genesis02() {
           my bones, and flesh of my flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that is, she is mans counterpart, not merely in feeling and
                 sense his flesh but in his solid qualities)
               </span>
@@ -668,7 +674,7 @@ export default function Genesis02() {
           : she shall be called Woman, because she was taken out of Man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God did not take the woman out of mans feet to be stepped on as
                 an inferior; nor out of his head to be put on a pedestal as a
                 superior; but from his side, close to his heart as an equal)
@@ -684,7 +690,7 @@ export default function Genesis02() {
           father and his mother, and shall cleave unto his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Passage must be viewed as an inspired declaration of the
                 law of marriage)
               </span>
@@ -693,7 +699,7 @@ export default function Genesis02() {
           : and they shall be one flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (points to a unity of persons, not simply to a conjunction of
                 bodies, or a community of interests, or even a reciprocity of
                 affections)
@@ -711,7 +717,7 @@ export default function Genesis02() {
           <sup className="calibre7">25</sup>And they were both naked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to an absence of clothing, at least as we understand
                 such; they were actually enswathed in ethereal and transfiguring
                 light)
@@ -721,7 +727,7 @@ export default function Genesis02() {
           , the man and his wife, and were not ashamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (were not ashamed, because there was nothing of which to be
                 ashamed)
               </span>

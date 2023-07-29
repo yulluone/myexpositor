@@ -18,7 +18,7 @@ export default function Genesis25() {
           her name was Keturah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sarah having waxed old and vanished away [
                 <ScrollLink href="/hebrews-09" scrollToId="#filepos14520659">
                   <span className="calibre_19">
@@ -54,7 +54,7 @@ export default function Genesis25() {
           of Keturah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham was probably between 140 and 150 years old when these
                 sons were born. So, we must conclude that the rejuvenation given
                 to Abraham by the Lord, as it regards the birth of Isaac,
@@ -74,7 +74,7 @@ export default function Genesis25() {
           Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (only the Child of the Spirit can be heir to the Promises)
               </span>
             </span>
@@ -89,7 +89,7 @@ export default function Genesis25() {
           his son, while he yet lived, eastward, unto the east country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is a vast difference in mere gifts than the entirety of
                 the inheritance; in the natural or literal sense the same holds
                 true; those who follow the way of the Cross can have no
@@ -110,7 +110,7 @@ export default function Genesis25() {
           years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(175 years)</span>
+              <span className="explanation">(175 years)</span>
             </span>
           </span>
         </span>
@@ -123,7 +123,7 @@ export default function Genesis25() {
           gathered to his people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham was born about two years after the death of Noah, and
                 was contemporary with Shem, Noahs son, for many years. Few men
                 in history, if any, have affected the world as did Abraham. That
@@ -152,7 +152,7 @@ export default function Genesis25() {
           the Hittite, which is before Mamre;{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is pleasant to read that Isaac and Ishmael stood side by
                 side at their fathers grave, which speaks to us of prophetic
                 overtones. This will literally happen in the coming Kingdom
@@ -168,7 +168,7 @@ export default function Genesis25() {
           the sons of Heth: there was Abraham buried, and Sarah his wife.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This burial plot alone belonged to Abraham and Sarah when they
                 died; however, that burial place proclaimed to all that one day
                 the entirety of the land, which would ultimately be called
@@ -186,7 +186,7 @@ export default function Genesis25() {
           well Lahai-roi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (well of the living one; God blessed Isaac, but it doesnt
                 mention anything about God blessing the other sons of Abraham)
               </span>
@@ -205,7 +205,7 @@ export default function Genesis25() {
           unto Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ishmael had every opportunity to serve God, but, regrettably,
                 he chose another path)
               </span>
@@ -253,7 +253,7 @@ export default function Genesis25() {
           the presence of all his brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ishmael was the head of the Arab people, who regrettably, at
                 least for the most part, chose also a path of faithlessness.
                 Christ being rejected, as always is the case, a false deity
@@ -274,7 +274,9 @@ export default function Genesis25() {
           Isaac, Abrahams son: Abraham begat Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Isaac was born of the Spirit)</span>
+              <span className="explanation">
+                (Isaac was born of the Spirit)
+              </span>
             </span>
           </span>
           :
@@ -287,7 +289,7 @@ export default function Genesis25() {
           Padan-aram, the sister to Laban the Syrian{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Laban the Syrian is mentioned here simply because he will
                 figure very prominently as it regards Jacob, Rebekahs son)
               </span>
@@ -302,7 +304,7 @@ export default function Genesis25() {
           wife, because she was barren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan hindered the birth of Jacob for twenty years)
               </span>
             </span>
@@ -310,7 +312,7 @@ export default function Genesis25() {
           : and the LORD was intreated of him, and Rebekah his wife conceived{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God overruled the malice of Satan to emphasize once more the
                 great truth that He displays the riches of His Grace and Glory
                 where nature is dead; this is a principle in the spiritual life
@@ -327,7 +329,7 @@ export default function Genesis25() {
           within her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were twins in her womb; two energies struggled within her,
                 the one believing and the other unbelieving, and were present
                 even before they were born; it is like the two natures, sin
@@ -338,7 +340,7 @@ export default function Genesis25() {
           ; and she said, If it be so, why am I thus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could be paraphrased, If, in answer to prayer, God is about to
                 give me the joy of being a mother, why am I so physically
                 oppressed that I am in danger of death?; it must indeed have
@@ -357,7 +359,7 @@ export default function Genesis25() {
           from your bowels{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those two nations were Edomites and Israelites; from the time
                 of their birth, Esau and Jacob would be separated, divided, even
                 hostile, for they would have nothing in common)
@@ -367,7 +369,7 @@ export default function Genesis25() {
           ; and the one people shall be stronger than the other people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob, who was younger, would be the stronger, but only through
                 the Lord)
               </span>
@@ -376,7 +378,7 @@ export default function Genesis25() {
           ; and the elder shall serve the younger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every person is born with a sin nature, which makes that the
                 elder; the Divine Nature comes into the Believer at conversion,
                 and is the younger; however, if we follow Gods pattern of
@@ -401,7 +403,7 @@ export default function Genesis25() {
           like an hairy garment; and they called his name Esau{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his name means the hairy one, which speaks of sensuality)
               </span>
             </span>
@@ -415,7 +417,7 @@ export default function Genesis25() {
           and his hand took hold on Esaus heel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob taking hold of Esaus heel at birth portrays the Believer
                 trying to gain spiritual supremacy by means of the flesh and not
                 the Spirit, which characterized Jacob for many years)
@@ -425,7 +427,7 @@ export default function Genesis25() {
           ; and his name was called Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning heel-catcher or supplanter)
               </span>
             </span>
@@ -433,7 +435,7 @@ export default function Genesis25() {
           : and Isaac was threescore years old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(60)</span>
+              <span className="explanation">(60)</span>
             </span>
           </span>{" "}
           when she bore them.
@@ -449,7 +451,7 @@ export default function Genesis25() {
           dwelling in tents{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the original Hebrew proclaims Esau as a wild, undisciplined
                 man, and Jacob as a quiet, mature individual; he was sensible,
                 diligent, dutiful, and peaceful)
@@ -464,7 +466,7 @@ export default function Genesis25() {
           <sup className="calibre7">28</sup>And Isaac loved Esau{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (preferred Esau above Jacob, which proclaims a character flaw in
                 Isaac, which was to bring him grief; the Holy Spirit in the
                 Epistle to the Hebrews calls Esau a profane person, and this
@@ -475,7 +477,7 @@ export default function Genesis25() {
           , because he did eat of his venison: but Rebekah loved Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (she remembered the prediction of{" "}
                 <ScrollLink href="/" scrollToId="#filepos340369">
                   <span className="calibre_19">
@@ -496,7 +498,7 @@ export default function Genesis25() {
           <sup className="calibre7">29</sup>And Jacob sod pottage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a stew)</span>
+              <span className="explanation">(a stew)</span>
             </span>
           </span>
           : and Esau came from the field, and he was faint:
@@ -509,7 +511,7 @@ export default function Genesis25() {
           his name called Edom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the father of the Edomites)</span>
+              <span className="explanation">(the father of the Edomites)</span>
             </span>
           </span>
         </span>
@@ -521,7 +523,7 @@ export default function Genesis25() {
           your birthright.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The birthright then dealt primarily with spiritual things, of
                 which Esau had no regard or concern. It had to do with the
                 earthly inheritance of Canaan, but would take place hundreds of
@@ -543,7 +545,7 @@ export default function Genesis25() {
           point to die: and what profit shall this birthright do to me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Esau bartered future and eternal wealth for present and
                 temporary need. He had no concern for spiritual things, so the
                 birthright meant nothing to him.)
@@ -558,7 +560,7 @@ export default function Genesis25() {
           day; and he swore unto him: and he sold his birthright unto Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jacob, deplorable as was his character, valued Divine and
                 eternal blessing; and, had he placed himself in Gods Hands, the
                 prophecy made to his mother before he was born would have been
@@ -576,7 +578,7 @@ export default function Genesis25() {
           his way: thus Esau despised his birthright.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The natural heart places no value on the things of God, as we
                 see evidenced in the choices made by Esau. To the natural heart,
                 Gods Promises are a vague, valueless, powerless thing, simply

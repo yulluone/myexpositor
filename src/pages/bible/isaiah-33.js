@@ -19,7 +19,7 @@ export default function Isaiah33() {
           treacherously with you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The whole of this Chapter contrasts Christ with the Antichrist.
                 The one king is willful, a spoiler, a traitor, a devastator, and
                 a murderer. The Other came not to do His Own Will; He enriches
@@ -58,7 +58,7 @@ export default function Isaiah33() {
           the time of trouble.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Spirit of Christ in Isaiah pleads with and for the sons of
                 Israel; hence, the change of pronoun from we to their. The word
                 arm means defense.)
@@ -73,7 +73,7 @@ export default function Isaiah33() {
           fled; at the lifting up of Yourself the nations were scattered.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The tumult spoken of refers to the night of terror, when the
                 host of the Assyrians was destroyed by the coming of the Angel;
                 185,000 Assyrians died that night. More particularly, it speaks
@@ -92,7 +92,7 @@ export default function Isaiah33() {
           shall he run upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Upon the coming of the Angel who killed 185,000 Assyrian
                 soldiers, the Israelites gathered the spoil as locusts leap upon
                 and gather every green thing. Likewise, when Jesus Christ
@@ -117,7 +117,7 @@ export default function Isaiah33() {
           high: He has filled Zion with Judgment and Righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (On this night in question when the Angel was sent, Jehovah did
                 indeed lift up Himself; hence, He is declared to be exalted. And
                 yet, the total exaltation awaits a future fulfillment.)
@@ -133,7 +133,7 @@ export default function Isaiah33() {
           LORD is His treasure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The stability of Your times is a beautiful statement which the
                 world has little enjoyed. It refers to the Messiah as the true
                 Hezekiah. In His times, there shall be a boundless Salvation;
@@ -150,7 +150,7 @@ export default function Isaiah33() {
           without: the ambassadors of peace shall weep bitterly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The ambassadors of peace, sent by Hezekiah to Sennacherib to
                 beg him to respect the covenant, were refused admission to the
                 kings presence and had to remain without. As well, this is a
@@ -200,7 +200,7 @@ export default function Isaiah33() {
           regards no man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Hezekiah stripped the Temple of its wealth and gave it to
                 Sennacherib. The Assyrian king took the money, broke the
                 covenant that had been made, and devastated the country. All
@@ -219,7 +219,7 @@ export default function Isaiah33() {
           Bashan and Carmel shake off their fruits.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man now being at his extremity of misery and helplessness,
                 Grace can act and Judgment fall Grace to Gods People and Wrath
                 to their foes but sadly, most have to come to the extremity of
@@ -235,7 +235,7 @@ export default function Isaiah33() {
           will I be exalted; now will I lift up Myself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word now gives us the time. Sennacherib has robbed Judah,
                 insulted God, and now threatens Jerusalem. The Lord will lift
                 Himself up by sending one Angel, who will destroy 185,000 of the
@@ -251,7 +251,7 @@ export default function Isaiah33() {
           bring forth stubble: your breath, as fire, shall devour you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All the Assyrian plans against Jerusalem shall be mere chaff
                 and stubble. They shall all come to naught. On an even greater
                 scale, this will happen to the Antichrist and all who are with
@@ -267,7 +267,7 @@ export default function Isaiah33() {
           burnings of lime: as thorns cut up shall they be burned in the fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thorns and lime burn very hot but are consumed very quickly.
                 Such will be the brevity of time that God will use to stop
                 Sennacherib.)
@@ -285,7 +285,7 @@ export default function Isaiah33() {
           have done; and, you who are near, acknowledge my might.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great miracle that God brought about by the sending of an
                 Angel and destroying 185,000 of the Assyrian army in one night
                 was definitely heard far off. As well, it was acknowledged that
@@ -311,7 +311,7 @@ export default function Isaiah33() {
           burnings?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Jews who desired to go down into Egypt and seek their help
                 were now afraid. The Holy Spirit called them sinners and
                 hypocrites. The devouring fire spoken of here is the Wrath of
@@ -334,7 +334,7 @@ export default function Isaiah33() {
           blood, and shuts his eyes from seeing evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if a person really knows the Lord, Righteousness is going to be
                 their lifestyle, which will be obvious; in other words, when a
                 person comes to Christ, they are gloriously changed; otherwise,
@@ -352,7 +352,7 @@ export default function Isaiah33() {
           waters shall be sure.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In todays terminology, to dwell on high refers to being raised
                 up together, and made to sit together in Heavenly Places in
                 Christ Jesus [
@@ -451,7 +451,7 @@ export default function Isaiah33() {
           beauty: they shall behold the land that is very far off.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (At this time, Jerusalem saw Hezekiah in sackcloth, but the day
                 is coming when they will see the Messiah, the King, in His
                 beauty.)
@@ -467,7 +467,7 @@ export default function Isaiah33() {
           the towers?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Wrath, as exhibited with terror in the destruction of the
                 Assyrian host, shook with terror the heart of the unconverted in
                 Zion, but was a subject of profitable meditation for the heart
@@ -486,7 +486,7 @@ export default function Isaiah33() {
           tongue, that you cannot understand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That generation did no longer see the Assyrians; however, the
                 Verse has a far greater meaning. The greater meaning goes all
                 the way to the Antichrist. The word not is to be understood in
@@ -515,7 +515,7 @@ export default function Isaiah33() {
           broken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Sennacherib thought to reduce Zion to ashes, destroying its
                 Temple. Instead, he was destroyed. More particularly, this
                 Passage refers to the coming Glad Day when Christ will reign
@@ -533,7 +533,7 @@ export default function Isaiah33() {
           galley with oars, neither shall gallant ship pass thereby.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Great rivers were the foundation of wealth and strength for
                 Assyria and Egypt, the greatest Monarchies of that day; however,
                 the Messiah, and not rivers, etc., will be the foundation of all
@@ -553,7 +553,7 @@ export default function Isaiah33() {
           is our Lawgiver, the LORD is our King; He will save us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Christ is everything!)</span>
+              <span className="explanation">(Jesus Christ is everything!)</span>
             </span>
           </span>
         </span>
@@ -565,7 +565,7 @@ export default function Isaiah33() {
           then is the prey of a great spoil di vided; the lame take the prey.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The overthrow of the enemy is compared to a shipwreck and to a
                 ruin so complete that even cripples would become victors. The
                 spoil at Armageddon will be in great abundance, and those who
@@ -583,7 +583,7 @@ export default function Isaiah33() {
           iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When sin is abolished, sickness shall no more exist. The one is
                 the cause; the other, the effect. This will be the blessing of
                 the coming Kingdom Age, when Christ will reign Personally and

@@ -898,7 +898,7 @@ export default function John01() {
           : for He was before me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(affirms His essential Deity)</span>
+              <span className="explanation">(affirms His essential Deity)</span>
             </span>
           </span>
           .
@@ -1186,7 +1186,7 @@ export default function John01() {
           <sup className="calibre7">41</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Andrew)</span>
+              <span className="explanation">(Andrew)</span>
             </span>
           </span>{" "}
           first found his own brother Simon, and said unto him, We have found

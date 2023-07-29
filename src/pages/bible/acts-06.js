@@ -16,7 +16,7 @@ export default function Acts06() {
           the Disciples was multiplied{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the followers of Christ were multiplying)
               </span>
             </span>
@@ -24,7 +24,7 @@ export default function Acts06() {
           , there arose a murmuring of the Grecians against the Hebrews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Jews who spoke Greek as a result of having once lived
                 in various countries where Greek was spoken)
               </span>
@@ -33,7 +33,7 @@ export default function Acts06() {
           , because their widows were neglected in the daily ministration{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of relief in the form of food and money given to widows
                 in the Church in Jerusalem who had no way to provide for
                 themselves)
@@ -48,7 +48,7 @@ export default function Acts06() {
           <sup className="calibre7">2</sup>Then the Twelve{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Twelve Apostles)</span>
+              <span className="explanation">(Twelve Apostles)</span>
             </span>
           </span>{" "}
           called the multitude of the Disciples{" "}
@@ -60,7 +60,7 @@ export default function Acts06() {
           and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (constitutes probably the very first business meeting in the
                 Early Church)
               </span>
@@ -70,7 +70,7 @@ export default function Acts06() {
           tables{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the voluminous administrative duties which
                 accompanied the great growth of the Early Church in Jerusalem)
               </span>
@@ -86,7 +86,7 @@ export default function Acts06() {
           wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is thought by some to represent the first Deacons, even though
                 they are not called that in this Chapter)
               </span>
@@ -95,7 +95,7 @@ export default function Acts06() {
           , whom we may appoint over this business{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit told the Twelve what to do, the number to
                 choose, and how they were to be chosen)
               </span>
@@ -110,7 +110,7 @@ export default function Acts06() {
           continually to prayer, and to the Ministry of the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that Prayer is mentioned first, and is more important
                 than Preaching; without a proper Prayer Life, there can be no
                 proper Ministry)
@@ -126,7 +126,7 @@ export default function Acts06() {
           multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims wisdom the people could not fault, for it was wisdom
                 from above)
               </span>
@@ -137,7 +137,7 @@ export default function Acts06() {
           Nicolas a proselyte of Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents the seven men)</span>
+              <span className="explanation">(presents the seven men)</span>
             </span>
           </span>
           :
@@ -148,7 +148,7 @@ export default function Acts06() {
           <sup className="calibre7">6</sup>Whom they set before the Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now presented for acceptance and confirmation)
               </span>
             </span>
@@ -156,7 +156,7 @@ export default function Acts06() {
           : and when they had prayed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sought the Lords approval of these men, which evidently they
                 received)
               </span>
@@ -171,7 +171,7 @@ export default function Acts06() {
           hands on them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the laying on of hands was to designate them for an office,
                 work, or Ministry, as Moses did Joshua [
                 <ScrollLink href="/numbers-27" scrollToId="#filepos2020520">
@@ -193,7 +193,7 @@ export default function Acts06() {
           <sup className="calibre7">7</sup>And the Word of God increased{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that more and more men were Preaching the Gospel of
                 Jesus)
               </span>
@@ -202,7 +202,7 @@ export default function Acts06() {
           ; and the number of the Disciples multiplied in Jerusalem greatly{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could have been as many as one hundred thousand people who had
                 accepted the Lord)
               </span>
@@ -211,7 +211,7 @@ export default function Acts06() {
           ; and a great company of the Priests were obedient to the Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents one of the greatest Testimonies to date of the Power
                 of God)
               </span>
@@ -228,7 +228,7 @@ export default function Acts06() {
           <sup className="calibre7">8</sup>And Stephen, full of faith and power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of a great knowledge of the Word of God, and of the Holy
                 Spirit controlling this man, and, thereby, using him)
               </span>
@@ -237,7 +237,7 @@ export default function Acts06() {
           , did great wonders and miracles among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these things were Divinely done)
               </span>
             </span>
@@ -257,7 +257,7 @@ export default function Acts06() {
           of the Libertines{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Jews who had been taken as slaves to Rome or
                 elsewhere in the Roman Empire, but now had been set free,
                 consequently coming back to Jerusalem; they had a Synagogue in
@@ -268,7 +268,7 @@ export default function Acts06() {
           , and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to each one of these groups of Jews who had a
                 Synagogue in Jerusalem)
               </span>
@@ -277,7 +277,7 @@ export default function Acts06() {
           , disputing with Stephen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is thought by some that Paul, then known as Saul, was the
                 leading disputer against Stephen; he could have been associated
                 with the Synagogue that pertained to Cilicia, as Tarsus, the
@@ -294,7 +294,7 @@ export default function Acts06() {
           wisdom and the spirit by which he spoke{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if it was Paul who led the dispute against Stephen, it would
                 have been most interesting, considering that Paul was the hope
                 of the Pharisees at that time and, therefore, reputed to have
@@ -311,7 +311,7 @@ export default function Acts06() {
           <sup className="calibre7">11</sup>Then they suborned men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they planned and formed a scheme together, which held no
                 validity or truth)
               </span>
@@ -327,7 +327,7 @@ export default function Acts06() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns their concocted scheme)
               </span>
             </span>
@@ -341,7 +341,7 @@ export default function Acts06() {
           the Elders, and the Scribes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the lies they told and kept telling respecting
                 Stephen)
               </span>
@@ -362,7 +362,7 @@ export default function Acts06() {
           to the Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to them getting permission from the Sanhedrin to arrest
                 Stephen, which they did)
               </span>
@@ -377,7 +377,7 @@ export default function Acts06() {
           said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the similarity of Stephens trial with that of our
                 Lord)
               </span>
@@ -387,7 +387,7 @@ export default function Acts06() {
           place, and the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was their charge, which was false)
               </span>
             </span>
@@ -400,7 +400,7 @@ export default function Acts06() {
           <sup className="calibre7">14</sup>For we have heard him say{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represents a distortion of what Stephen had probably said; they
                 probably based their accusation upon some semblance of Truth,
                 but totally distorted its meaning)
@@ -410,7 +410,7 @@ export default function Acts06() {
           , that this Jesus of Nazareth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (said in such a way as to be most contemptuous)
               </span>
             </span>
@@ -418,7 +418,7 @@ export default function Acts06() {
           shall destroy this place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably referred to the Words said by Jesus in the Olivet
                 discourse [
                 <ScrollLink href="/matthew-24" scrollToId="#filepos11219566">
@@ -435,7 +435,7 @@ export default function Acts06() {
           , and shall change the customs which Moses delivered us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is true that the customs were to be changed as a result of
                 the New Covenant, and in fact were meant to be changed)
               </span>
@@ -449,13 +449,13 @@ export default function Acts06() {
           <sup className="calibre7">15</sup>And all that sat in the Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanhedrin)</span>
+              <span className="explanation">(Sanhedrin)</span>
             </span>
           </span>
           , looking stedfastly on him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gazed intently, and for purpose and reason)
               </span>
             </span>
@@ -463,7 +463,7 @@ export default function Acts06() {
           , saw his face as it had been the face of an Angel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Glory of the Lord shinning on the face of
                 Stephen)
               </span>

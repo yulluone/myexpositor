@@ -432,7 +432,7 @@ export default function Psalm102() {
           of the Earth: and the heavens are the work of Your Hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Not mindless evolution!)</span>
+              <span className="explanation">(Not mindless evolution!)</span>
             </span>
           </span>
         </span>

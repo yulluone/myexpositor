@@ -16,7 +16,7 @@ export default function Galatians6() {
           fault{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to moral failure, and is brought about because one has
                 ignorantly placed himself under Law; such a position guarantees
                 failure)
@@ -26,7 +26,7 @@ export default function Galatians6() {
           , you who are Spiritual{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to those who understand Gods Prescribed Order of
                 Victory, which is the Cross)
               </span>
@@ -35,7 +35,7 @@ export default function Galatians6() {
           , restore such an one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tell him he failed because of reverting to Law, and that
                 Victory can be his by placing his Faith totally in the Cross,
                 which then gives the Holy Spirit latitude to work, Who Alone can
@@ -46,7 +46,7 @@ export default function Galatians6() {
           in the spirit of meekness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (never with an overbearing, holier than thou attitude)
               </span>
             </span>
@@ -54,7 +54,7 @@ export default function Galatians6() {
           ; considering yourself, lest you also be tempted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the implication is that if we do not handle such a case
                 Scripturally we, thereby, open the door for Satan to attack us
                 in the same manner as he did the failing brother)
@@ -69,7 +69,7 @@ export default function Galatians6() {
           <sup className="calibre7">2</sup>Bear ye one anothers burdens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to sharing the heartache and shame of one who has
                 spiritually failed)
               </span>
@@ -78,7 +78,7 @@ export default function Galatians6() {
           , and so fulfil the Law of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which is Love!)</span>
+              <span className="explanation">(which is Love!)</span>
             </span>
           </span>
           .
@@ -90,7 +90,7 @@ export default function Galatians6() {
           something, when he is nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a Believer who puts himself above the one who has
                 failed in his own eyes)
               </span>
@@ -99,7 +99,7 @@ export default function Galatians6() {
           , he deceives himself.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents one who has the conceited idea he is morally and
                 spiritually superior to what he actually is.)
               </span>
@@ -112,7 +112,7 @@ export default function Galatians6() {
           <sup className="calibre7">4</sup>But let every man prove his own work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to put his Faith in the Cross to the test for the purpose of
                 approving, which is done by seeing how well one obeys the Word
                 of the Lord)
@@ -122,7 +122,7 @@ export default function Galatians6() {
           , and then shall he have rejoicing in himself alone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the spiritual man sees himself as he really is, totally
                 dependent on Christ and the Cross)
               </span>
@@ -131,7 +131,7 @@ export default function Galatians6() {
           , and not in another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will not then be rejoicing over the other mans failure.)
               </span>
             </span>
@@ -144,7 +144,7 @@ export default function Galatians6() {
           burden.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When each Believer sees his own failings, which we all have, he
                 will have no inclination to compare himself with others, at
                 least as it regards a superior position.)
@@ -158,7 +158,7 @@ export default function Galatians6() {
           <sup className="calibre7">6</sup>Let him who is taught in the Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the act of receiving instruction)
               </span>
             </span>
@@ -166,7 +166,7 @@ export default function Galatians6() {
           communicate unto him who teaches in all good things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let us not make the load of the God-called Teacher heavier by
                 hindering him in some way, but rather let us encourage him.)
               </span>
@@ -182,7 +182,7 @@ export default function Galatians6() {
           <sup className="calibre7">7</sup>Be not deceived{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that a Believer can definitely be deceived;
                 Paul is speaking primarily of Believers allowing false teachers
                 to move their Faith from the Cross to other things)
@@ -192,7 +192,7 @@ export default function Galatians6() {
           ; God is not mocked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God, in fact, is mocked when we substitute something else in
                 place of the Cross)
               </span>
@@ -201,7 +201,7 @@ export default function Galatians6() {
           : for whatsoever a man sows, that shall he also reap{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Law of sowing and reaping, which will unfailingly come to
                 pass)
               </span>
@@ -216,7 +216,7 @@ export default function Galatians6() {
           the flesh reap corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who make something else the object of their Faith, rather
                 than the Cross, which means they are now depending on self-will)
               </span>
@@ -225,7 +225,7 @@ export default function Galatians6() {
           ; but he who sows to the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does so by trusting exclusively in Christ and what Christ did
                 at the Cross)
               </span>
@@ -234,7 +234,7 @@ export default function Galatians6() {
           shall of the Spirit reap life everlasting{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Prescribed Order of Victory)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Galatians6() {
           <sup className="calibre7">9</sup>And let us not be weary in well doing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul continues to speak of sowing to the Spirit)
               </span>
             </span>
@@ -258,7 +258,7 @@ export default function Galatians6() {
           : for in due season we shall reap{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in Gods Time, our Faith in Christ and the Cross will not go
                 unrewarded, but will bring forth exactly that which is Promised
                 by the Lord)
@@ -268,7 +268,7 @@ export default function Galatians6() {
           , if we faint not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many start the race, but do not finish. They give up after a
                 while, exclaiming that the Cross doesnt work. Let all know and
                 understand that we might fail, but the Cross never fails!)
@@ -286,7 +286,7 @@ export default function Galatians6() {
               <span className="calibre_19">men</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit will help us do this, providing our Faith is
                 ever in the Cross; otherwise, we will fail),
               </span>
@@ -295,7 +295,7 @@ export default function Galatians6() {
           especially unto them who are of the household of Faith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are many who are of the Faith, but really do not
                 understand the Faith, so they walk in defeat. We are to give
                 them the Message of the Cross, in order that they might walk in
@@ -319,7 +319,7 @@ export default function Galatians6() {
           written unto you with my own hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the fact that Paul had written the entirety of
                 the Epistle to the Galatians himself, which he normally did not
                 do. Scribes generally wrote as he dictated, with him writing the
@@ -338,7 +338,7 @@ export default function Galatians6() {
           show in the flesh, they constrain you to be Circumcised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Judaizers were attempting to get the Galatians to embrace
                 the Law along with Christ)
               </span>
@@ -347,7 +347,7 @@ export default function Galatians6() {
           ; only lest they should suffer persecution for the Cross of Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Message of the Cross brings forth persecution from both the
                 world and the Church. It strikes at the very heart of all
                 spiritual pride and self-righteousness.)
@@ -362,7 +362,7 @@ export default function Galatians6() {
           Circumcised keep the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (engaging in the rite of Circumcision, which was the seal of the
                 Law of Moses, didnt help anyone keep the Law)
               </span>
@@ -372,7 +372,7 @@ export default function Galatians6() {
           flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Many in the Church glory in self-effort, but few glory in the
                 Cross because it puts self-effort in its proper place.)
               </span>
@@ -385,13 +385,13 @@ export default function Galatians6() {
           <sup className="calibre7">14</sup>But God forbid that I should glory{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(boast)</span>
+              <span className="explanation">(boast)</span>
             </span>
           </span>
           , save in the Cross of our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what the opponents of Paul sought to escape at the price of
                 insincerity is the Apostles only basis of exultation)
               </span>
@@ -400,7 +400,7 @@ export default function Galatians6() {
           , by Whom the world is crucified unto me, and I unto the world.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only way we can overcome the world, and I mean the only
                 way, is by placing our Faith exclusively in the Cross of Christ
                 and keeping it there.)
@@ -415,7 +415,7 @@ export default function Galatians6() {
           Circumcision availeth any thing, nor uncircumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (blows all of mans religious ceremonies to pieces)
               </span>
             </span>
@@ -423,7 +423,7 @@ export default function Galatians6() {
           , but a new creature{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (new in every respect, which can only be brought about by
                 trusting Christ and what He did for us at the Cross)
               </span>
@@ -437,7 +437,7 @@ export default function Galatians6() {
           <sup className="calibre7">16</sup>And as many as walk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to direct ones life, to order ones conduct)
               </span>
             </span>
@@ -445,7 +445,7 @@ export default function Galatians6() {
           according to this rule{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the principle of the Cross)</span>
+              <span className="explanation">(the principle of the Cross)</span>
             </span>
           </span>
           , peace{" "}
@@ -457,7 +457,7 @@ export default function Galatians6() {
           on them, and mercy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which comes only by means of the Cross)
               </span>
             </span>
@@ -465,7 +465,7 @@ export default function Galatians6() {
           , and upon the Israel of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to all who look to the Cross for their Redemption.
                 They alone are the true Israel.)
               </span>
@@ -479,7 +479,7 @@ export default function Galatians6() {
           me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (dont listen to these false teachers)
               </span>
             </span>
@@ -487,7 +487,7 @@ export default function Galatians6() {
           : for I bear in my body the marks of the Lord Jesus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerns the persecution he suffered because of the
                 offence of the Cross [
                 <ScrollLink href="/galatians-5" scrollToId="#filepos13972228">
@@ -509,7 +509,7 @@ export default function Galatians6() {
           Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which comes by our Faith in the Cross)
               </span>
             </span>
@@ -520,7 +520,7 @@ export default function Galatians6() {
           with your spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We worship the Lord in Spirit and in Truth, and the Cross is
                 that Truth.)
               </span>

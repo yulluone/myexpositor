@@ -287,13 +287,13 @@ export default function Samuel221() {
           , the weight of whose spear weighed three hundred shekels of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>{" "}
           in weight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(nearly 20 pounds)</span>
+              <span className="explanation">(nearly 20 pounds)</span>
             </span>
           </span>
           , he being girded with a new sword, thought to have killed David.{" "}

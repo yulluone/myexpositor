@@ -18,7 +18,7 @@ export default function Isaiah31() {
           unto the Holy One of Israel, neither seek the LORD!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter is one of warning, yet also of victory. The people
                 go down into Egypt, both geographically and morally; in their
                 fear of the Assyrians, they put their trust in the wisdom and
@@ -36,7 +36,7 @@ export default function Isaiah31() {
           iniquity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the Holy Spirit is using intense irony. He is
                 saying that wisdom is not wholly confined to the human
                 counselors whose advice Judah follows. He [Jehovah] is wise,
@@ -79,7 +79,7 @@ export default function Isaiah31() {
           helped shall fall down, and they all shall fail together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Verse, the comparison is made between the flesh and the
                 Spirit. The Egyptians had nothing but the arm of flesh, while
                 Judah had the Power of the Spirit, that is, if they would only
@@ -106,7 +106,7 @@ export default function Isaiah31() {
           hill thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Verse Four points to the Might of the God of Israel and Verse
                 Five to His Love. His Might is illustrated by a strong lion
                 putting evil shepherds to flight, and His Love by the action of
@@ -137,7 +137,7 @@ export default function Isaiah31() {
           over He will preserve it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy of this Chapter definitely refers to Isaiahs day,
                 and the Deliverance of Jerusalem from the Assyrians; however,
                 more particularly, it is directed to a future day when the
@@ -154,7 +154,7 @@ export default function Isaiah31() {
           children of Israel have deeply revolted.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There is a great tenderness in this appeal. It pertained to
                 Israel then, and it pertains to Israel of a coming day. Israel,
                 at the beginning of the Great Tribulation, will accept the false
@@ -171,7 +171,7 @@ export default function Isaiah31() {
           have made unto you for a sin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, speak of Israels conversion, when she
                 will return unto Jehovah, for true conversion is marked by a
                 turning away from all idols and by the destruction of everything
@@ -189,7 +189,7 @@ export default function Isaiah31() {
           be discomfited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The destruction of the Assyrian host in one night at Lachish by
                 the Lord sending one Angel is predicted in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7610898">
@@ -243,7 +243,7 @@ export default function Isaiah31() {
           LORD, Whose fire is in Zion, and His furnace in Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, the entirety of this Prophecy refers to both
                 Sennacherib, who even then was bearing down upon Jerusalem, and
                 to the Antichrist, who is yet to come.

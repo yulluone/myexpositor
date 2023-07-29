@@ -17,7 +17,7 @@ export default function Ecclesiastes12() {
           when you shall say, I have no pleasure in them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the days of ones youth, how so few remember the Creator, and
                 how so few are saved!)
               </span>
@@ -33,7 +33,7 @@ export default function Ecclesiastes12() {
           rain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in youth, life appears all bright; if there is rain, sunshine
                 quickly follows; but it is not so in old age; clouds then return
                 after the rain; similarly, the mind loses its power of recovery
@@ -52,7 +52,7 @@ export default function Ecclesiastes12() {
           windows be darkened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (more than once in the Bible, the house figures the human body)
               </span>
             </span>
@@ -68,7 +68,7 @@ export default function Ecclesiastes12() {
           brought low{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the cry of a bird causes the aged to start; the power to
                 distinguish melodies is lost; the nerve to climb, or even to
                 walk, is broken; the hair turns white; the lightest load becomes
@@ -88,7 +88,7 @@ export default function Ecclesiastes12() {
           about the streets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the Creator is not remembered in the days of ones youth,
                 then there will be a fear to meet God. What will that long home
                 be? Will it be Heaven, or will it be Hell?)
@@ -105,7 +105,7 @@ export default function Ecclesiastes12() {
           or the wheel broken at the cistern.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this pictures the human body, which ultimately wears
                 out.)
               </span>
@@ -119,7 +119,7 @@ export default function Ecclesiastes12() {
           Earth as it was: and the spirit shall return unto God Who gave it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The human body is made of dust, and goes back to dust at death;
                 however, the human spirit then becomes the property of God. If
                 redeemed, it will go to Heaven [
@@ -188,7 +188,7 @@ export default function Ecclesiastes12() {
           Preacher; all is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon, as the Preacher, although in the later years losing
                 his way with God, nevertheless, preached the most powerful
                 evangelistic message ever preached, as recorded in this Book of
@@ -219,7 +219,7 @@ export default function Ecclesiastes12() {
           heed, and sought out, and set in order many Proverbs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon wrote some 3,000 Proverbs [
                 <ScrollLink href="/kings1-04" scrollToId="#filepos3741016">
                   <span className="calibre_19">
@@ -258,7 +258,7 @@ export default function Ecclesiastes12() {
           of truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The eternal value of Sacred Writings is contrasted in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7174658">
                   <span className="calibre_19">
@@ -280,7 +280,7 @@ export default function Ecclesiastes12() {
           from one shepherd.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These are Words that one can depend on. They are called the
                 Words of the Wise, and are labeled as such throughout Proverbs
                 and Ecclesiastes.
@@ -325,7 +325,7 @@ export default function Ecclesiastes12() {
           weariness of the flesh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Human writings, however numerous, lead nowhere and only produce
                 weariness. The Divine Writings lead to Christ and to Heaven.
                 They are Words of delight; they refresh and do not weary.)
@@ -344,7 +344,7 @@ export default function Ecclesiastes12() {
           whole duty of man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Having heard all that can be said in favor of trying to secure
                 happiness in this life by the use of material agents, the
                 conclusion is:
@@ -384,7 +384,7 @@ export default function Ecclesiastes12() {
           be evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The subject then of this Book is the folly of seeking happiness
                 and fulfillment under the sun, and that the possession of
                 exceptional intelligence only renders more evident the folly and

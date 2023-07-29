@@ -17,7 +17,7 @@ export default function Jeremiah13() {
           water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In symbolic language, the Holy Spirit through Jeremiah will
                 describe a Divinely-commanded action indicative of the
                 approaching ruin of the people of Judah. This Message was
@@ -36,7 +36,7 @@ export default function Jeremiah13() {
           Word of the LORD, and put it on my loins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was a linen girdle and, therefore, meant to be beautiful and
                 ornate.)
               </span>
@@ -50,7 +50,7 @@ export default function Jeremiah13() {
           the second time, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this, as with the linen girdle and many other instances in the
                 Bible, lets us know that Gods leading is thus by design; such
                 teaches continued faith, leading, leaning, and trust)
@@ -67,7 +67,7 @@ export default function Jeremiah13() {
           there in a hole of the rock.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Due to the phrase, The second time, in the Third Verse,
                 Jeremiah probably wore the girdle for quite some time. The Holy
                 Spirit evidently meant for the people of Jerusalem to see this
@@ -86,7 +86,7 @@ export default function Jeremiah13() {
           as the LORD commanded me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even as this time, it seems that Jeremiah still had little
                 knowledge as to what the Lord was going to do with such a
                 symbol; however, he faithfully obeys.)
@@ -102,7 +102,7 @@ export default function Jeremiah13() {
           girdle from thence, which I commanded you to hide there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The many days of this Verse do not tell us of the length of
                 time, but it definitely could refer to several years.)
               </span>
@@ -117,7 +117,7 @@ export default function Jeremiah13() {
           the girdle was marred, it was profitable for nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The original beautiful girdle was used as a touching symbol to
                 teach Israel how Emmanuel had bound her upon His Heart, and worn
                 her as an ornament, the fine linen expressing her purity. Such
@@ -157,7 +157,7 @@ export default function Jeremiah13() {
           will I mar the pride of Judah, and the great pride of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, After this manner, refer to the girdle and its
                 marred condition. As the girdle had been so beautiful and is now
                 so marred, so will be Judah and Jerusalem. The cause was pride.)
@@ -174,7 +174,7 @@ export default function Jeremiah13() {
           girdle, which is good for nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great pride of the previous Verse has produced this evil
                 people.)
               </span>
@@ -191,7 +191,7 @@ export default function Jeremiah13() {
           glory: but they would not hear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Both Israel and Judah lost their glory because of sin and
                 because they would not hear the Word of the Lord.)
               </span>
@@ -212,7 +212,7 @@ export default function Jeremiah13() {
           know that every bottle shall be filled with wine?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The bottle was a large wineskin made from a lambs skin or a
                 cowhide. Upon instruction from the Holy Spirit, Jeremiah took
                 several wineskins and hung them up in a straight line. They were
@@ -230,7 +230,7 @@ export default function Jeremiah13() {
           Prophets, and all the inhabitants of Jerusalem, with drunkenness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The drunkenness spoken of here is symbolic. The people were
                 symbolized by the bottles and the wine symbolized the Wrath of
                 God against them.)
@@ -246,7 +246,7 @@ export default function Jeremiah13() {
           not pity, nor spare, nor have mercy, but destroy them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, I will dash them one against another, refer to the
                 Lord allowing them to follow their own imaginations, resulting
                 in utter confusion!)
@@ -261,7 +261,7 @@ export default function Jeremiah13() {
           proud: for the LORD has spoken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As is obvious, the Lord admonishes Judah to hear.)
               </span>
             </span>
@@ -276,7 +276,7 @@ export default function Jeremiah13() {
           of death, and make it gross darkness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The light that Judah now has, which is the Word of the Lord
                 through the Prophet Jeremiah, will soon give way to darkness,
                 because the Light is the Lord and not Judahs foolish
@@ -294,7 +294,7 @@ export default function Jeremiah13() {
           captive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the Lord was speaking in previous Verses, Jeremiah speaks in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8333085">
                   <span className="calibre_19">
@@ -320,7 +320,7 @@ export default function Jeremiah13() {
           even the crown of your glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The fulfillment of this is found in{" "}
                 <ScrollLink href="/kings2-24" scrollToId="#filepos4354577">
                   <span className="calibre_19">
@@ -345,7 +345,7 @@ export default function Jeremiah13() {
           all of it, it shall be wholly carried away captive.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was fulfilled about 12 years later. The captivity being
                 still a thing of the future, the Prophet seeks to awaken the
                 conscience of this king and his mother, but to no avail.)
@@ -361,7 +361,7 @@ export default function Jeremiah13() {
           beautiful flock?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though Babylon lay due east, the invasion route was from
                 the north. The flock that was given you refers to the people of
                 Judah. The implication is: if the king and his mother would have
@@ -381,7 +381,7 @@ export default function Jeremiah13() {
           you: shall not sorrows take you, as a woman in travail?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The sense of this Verse is that the military Captains and civil
                 rulers of Nebuchadnezzar will now be chief over you. Judah would
                 not have the Lord be captain and chief; therefore, a heathen
@@ -398,7 +398,7 @@ export default function Jeremiah13() {
           iniquity are your skirts discovered, and your heels made bare.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Iniquity, i.e., idolatry, caused this just Judgment. Nakedness
                 and bare feet express slavery. Upon the coming catastrophe,
                 Judah will exclaim, Wherefore come these things upon me? The
@@ -416,7 +416,7 @@ export default function Jeremiah13() {
           accustomed to do evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage refutes any and all ideas that man can change
                 himself. He cannot, yet he keeps trying!)
               </span>
@@ -430,7 +430,7 @@ export default function Jeremiah13() {
           stub ble that passes away by the wind of the wilderness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the chaff that is separated from the wheat on
                 the threshingfloor. The wind of the wilderness refers to great
                 trouble that was coming upon Judah, which, in fact, would be the
@@ -447,7 +447,7 @@ export default function Jeremiah13() {
           and trusted in falsehood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What type of falsehood is being spoken of in this Passage? In
                 this case, it pertained to idols; however, in any case, it
                 pertains to false doctrine perpetrated by false apostles,
@@ -474,7 +474,7 @@ export default function Jeremiah13() {
           skirts upon your face, that your shame may appear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The spirit of the Text is that Judah has shamed the Lord, and
                 now He will shame them!)
               </span>
@@ -490,7 +490,7 @@ export default function Jeremiah13() {
           made clean? when shall it once be?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage, as in many others, Judah is likened to
                 Jehovahs wife. As such, she has committed spiritual adultery.
                 And these whoredoms and abominations have not been slight, but

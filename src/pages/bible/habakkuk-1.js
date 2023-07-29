@@ -18,7 +18,7 @@ export default function Habakkuk1() {
           did see.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This burden concerned an oracle of judgment upon Judah, which
                 was to be destroyed and taken captive by the Chaldeans. This
                 Prophecy was given only about 40-50 years before Nebuchadnezzars
@@ -52,7 +52,7 @@ export default function Habakkuk1() {
           save!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (O LORD, how long shall I cry, and You will not hear!, proclaims
                 the Prophets heart, jealous for God and the Law, asking why God
                 is silent and inactive in view of the cruelties [iniquities],
@@ -115,7 +115,7 @@ export default function Habakkuk1() {
           and there are who raise up strife and contention.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Why do You show me iniquity, and cause me to
                 behold grievance?, has reference to the Prophets frustration.)
               </span>
@@ -130,7 +130,7 @@ export default function Habakkuk1() {
           righteous; therefore wrong judgment proceeds.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore the Law is slacked, means that the Law of Moses was
                 ignored, or even set aside, by the ruling aristocracy of Judah.
                 Where the Bible does not rule, injustice does!
@@ -163,7 +163,7 @@ export default function Habakkuk1() {
           which you will not believe, though it be told you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle Paul, in{" "}
                 <ScrollLink href="/acts-13" scrollToId="#filepos13008840">
                   <span className="calibre_19">
@@ -236,7 +236,7 @@ export default function Habakkuk1() {
           the land, to possess the dwellingplaces that are not theirs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For, lo, I raise up the Chaldeans, would have presented a
                 somewhat puzzling spectrum to the people of Judah. At this time,
                 Babylon did not even exist as an empire. In fact, at least at
@@ -254,7 +254,7 @@ export default function Habakkuk1() {
           judgment and their dignity shall proceed of them selves.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They are terrible and dreadful, is meant to emphasize not only
                 what the Babylonians will be but also the entirety of Gentile
                 dominion. This Gentile dominion was carried out by the
@@ -286,7 +286,7 @@ export default function Habakkuk1() {
           far; they shall fly as the eagle that hastes to eat.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These horsemen, although beginning with the Babylonians, would
                 also pertain to the Medes and the Persians, the Greeks, the
                 Romans, the Barbarians, the Turks, the Arabs, the Spanish, etc.,
@@ -313,7 +313,7 @@ export default function Habakkuk1() {
           captivity as the sand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They shall come all for violence, concerns the manner of
                 operation of the Babylonians, as well as all who would follow
                 thereafter.)
@@ -329,7 +329,7 @@ export default function Habakkuk1() {
           strong hold; for they shall heap dust, and take it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase pertains to the fact that no mercy will be
                 shown even to the Potentates. They shall deride every
                 stronghold, means that Judahs strongest defense would be as
@@ -345,7 +345,7 @@ export default function Habakkuk1() {
           shall pass over, and offend, imputing this his power unto his god.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Then shall his mind change, refers to the arrogance of
                 Nebuchadnezzar, when he became lifted up in pride. The phrase,
                 Imputing this his power unto his god, means that he defied the
@@ -369,7 +369,7 @@ export default function Habakkuk1() {
           correction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In the balance of this Chapter, the Prophet complains of the
                 Divine action in employing for chastisement a people more wicked
                 than the Jews, whom they were commissioned by God to punish.
@@ -390,7 +390,7 @@ export default function Habakkuk1() {
           man who is more righteous than he?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You are of purer eyes than to behold evil, and cannot look on
                 iniquity, means that God cannot look with complacency on evil.
                 And yet the Lord proposes to permit evil men, called the
@@ -420,7 +420,7 @@ export default function Habakkuk1() {
           sea, as the creeping things, who have no ruler over them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Verse refers to the Babylonians showing no restraint,
                 because God did not rule them. They were ruled by men, and evil
                 men at that, who had no respect for decency, compassion, or
@@ -437,7 +437,7 @@ export default function Habakkuk1() {
           therefore they rejoice and are glad.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Scripture, Habakkuk refers to the people as fish [all
                 of them] and the net as the army of the Babylonians.)
               </span>
@@ -452,7 +452,7 @@ export default function Habakkuk1() {
           is fat, and their meat plenteous.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Therefore they sacrifice unto their net, means that
                 they gave their idol gods the credit for their vast success,
                 little understanding that Jehovah had allowed their place and
@@ -468,7 +468,7 @@ export default function Habakkuk1() {
           net, and not spare continually to slay the nations?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Habakkuk now realizes that the Lord is the Author of this which
                 is coming.)
               </span>

@@ -21,7 +21,7 @@ export default function Corinthians112() {
           Brethren{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this case, this has to do with the nine Gifts of the Spirit
                 outlined in{" "}
                 <ScrollLink href="/" scrollToId="#filepos13685803">
@@ -38,7 +38,7 @@ export default function Corinthians112() {
           , I would not have you ignorant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Spirit of God, through Paul, saying He wanted the
                 entirety of the Church to know about these Gifts)
               </span>
@@ -52,7 +52,7 @@ export default function Corinthians112() {
           <sup className="calibre7">2</sup>You know that you were Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that, before their conversion, they had no knowledge of
                 God)
               </span>
@@ -61,7 +61,7 @@ export default function Corinthians112() {
           , carried away unto these dumb idols, even as you were led.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were primarily led by superstition and witchcraft.)
               </span>
             </span>
@@ -74,7 +74,7 @@ export default function Corinthians112() {
           that no man speaking by the Spirit of God calls Jesus accursed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the True Spirit of God would never do such a thing; so those
                 who did such, were not of God)
               </span>
@@ -89,7 +89,7 @@ export default function Corinthians112() {
           no man can say that Jesus is the Lord, but by the Holy Spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Any other manner will be incorrect. It is the Holy Spirit
                 Alone, Who reveals the Lordship of Christ to the Believer.)
               </span>
@@ -105,13 +105,13 @@ export default function Corinthians112() {
           <sup className="calibre7">4</sup>Now there are diversities of Gifts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(different types of Gifts)</span>
+              <span className="explanation">(different types of Gifts)</span>
             </span>
           </span>
           , but the same Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this means the Holy Spirit never contradicts Himself)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function Corinthians112() {
           Administrations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (different Services, Ministries, Offices)
               </span>
             </span>
@@ -133,7 +133,7 @@ export default function Corinthians112() {
           , but the same Lord.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the One Who assigns the different Ministries, with
                 the Holy Spirit then carrying out the function. As well, Christ
                 never contradicts Himself.)
@@ -148,7 +148,7 @@ export default function Corinthians112() {
           Operations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (different ways the Gifts work)
               </span>
             </span>
@@ -156,7 +156,7 @@ export default function Corinthians112() {
           , but it is the same God which works all in all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to the fact it is God the Father Who energizes
                 all things and all ways)
               </span>
@@ -173,7 +173,7 @@ export default function Corinthians112() {
           <sup className="calibre7">7</sup>But the manifestation of the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to that which the Gifts make manifest or reveal)
               </span>
             </span>
@@ -181,7 +181,7 @@ export default function Corinthians112() {
           is given to every man to profit withal.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the Gifts are allowed to function properly, which they
                 definitely will if the Holy Spirit has His Way, all will
                 profit.)
@@ -198,7 +198,7 @@ export default function Corinthians112() {
           <sup className="calibre7">8</sup>For to one is given by the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Holy Spirit as being the One Who carries out the
                 instructions of Christ, relative to who gets what)
               </span>
@@ -207,7 +207,7 @@ export default function Corinthians112() {
           the Word of Wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to information concerning the future, whether of
                 people, places, or things)
               </span>
@@ -216,7 +216,7 @@ export default function Corinthians112() {
           ; to another the Word of Knowledge{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns the past or the present, relative to persons, places,
                 or things; it is to be noted that its the Word of, which means a
                 small amount)
@@ -226,7 +226,7 @@ export default function Corinthians112() {
           by the same Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is the Holy Spirit Who functions in all of these Gifts)
               </span>
             </span>
@@ -239,13 +239,13 @@ export default function Corinthians112() {
           <sup className="calibre7">9</sup>To another Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(special Faith)</span>
+              <span className="explanation">(special Faith)</span>
             </span>
           </span>{" "}
           by the same Spirit; to another the Gifts of Healing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prayer for the sick)</span>
+              <span className="explanation">(prayer for the sick)</span>
             </span>
           </span>{" "}
           by the same Spirit;
@@ -256,13 +256,13 @@ export default function Corinthians112() {
           <sup className="calibre7">10</sup>To another the working of Miracles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(extraordinary things)</span>
+              <span className="explanation">(extraordinary things)</span>
             </span>
           </span>
           ; to another Prophecy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is for edification, exhortation, and comfort [
                 <ScrollLink
                   href="/corinthians1-14"
@@ -281,7 +281,7 @@ export default function Corinthians112() {
           ; to another discerning of spirits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whether the Spirit of God, human spirits, or evil spirits)
               </span>
             </span>
@@ -295,7 +295,7 @@ export default function Corinthians112() {
           kinds of Tongues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(meant to be interpreted)</span>
+              <span className="explanation">(meant to be interpreted)</span>
             </span>
           </span>
           ; to another the interpretation of Tongues:
@@ -310,7 +310,7 @@ export default function Corinthians112() {
           selfsame Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that all the abilities and powers of the
                 Gifts are produced and operated by the energy of the Spirit)
               </span>
@@ -319,13 +319,13 @@ export default function Corinthians112() {
           , dividing to every man severally as He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           will.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All the distribution is within the discretion of the Holy
                 Spirit, which means that men or women cannot impart Gifts to
                 other individuals. That is the domain of the Spirit Alone!)
@@ -342,14 +342,14 @@ export default function Corinthians112() {
           <sup className="calibre7">12</sup>For as the Body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Church)</span>
+              <span className="explanation">(Church)</span>
             </span>
           </span>{" "}
           is one, and has many members, and all the members of that one Body,
           being many, are one Body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Church as being the Body of Christ)
               </span>
             </span>
@@ -363,7 +363,7 @@ export default function Corinthians112() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Saviour as oneness in multiplicity, as is the
                 Church)
               </span>
@@ -377,7 +377,7 @@ export default function Corinthians112() {
           <sup className="calibre7">13</sup>For by one Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit Alone does this)
               </span>
             </span>
@@ -385,7 +385,7 @@ export default function Corinthians112() {
           are we all baptized into one Body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at Salvation, the Holy Spirit Baptizes the Believing sinner
                 into the Body of Christ, which is the Born-Again experience; it
                 doesnt refer to Water Baptism)
@@ -407,7 +407,7 @@ export default function Corinthians112() {
           bond or free{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all must come in the same manner, by and through Jesus Christ
                 and what He did for us at the Cross)
               </span>
@@ -416,7 +416,7 @@ export default function Corinthians112() {
           ; and have been all made to drink into one Spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is the agent Who affects the work of Redemption
                 carried out in our lives, which is made possible by the Death,
                 Burial, Resurrection, Ascension, and Exaltation of Christ.)
@@ -430,7 +430,7 @@ export default function Corinthians112() {
           <sup className="calibre7">14</sup>For the body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human body)</span>
+              <span className="explanation">(human body)</span>
             </span>
           </span>{" "}
           is not one member, but many.
@@ -448,7 +448,7 @@ export default function Corinthians112() {
           am not the eye, I am not of the body; is it therefore not of the body?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Just because these various organs are different in their
                 functions does not make them any less necessary for the
                 successful working of the entirety of the human body.)
@@ -486,7 +486,7 @@ export default function Corinthians112() {
           the smelling?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For a human body to be whole, it has to have the various
                 different organs.)
               </span>
@@ -500,7 +500,7 @@ export default function Corinthians112() {
           every one of them in the body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human body)</span>
+              <span className="explanation">(human body)</span>
             </span>
           </span>
           , as it has pleased Him.
@@ -518,7 +518,7 @@ export default function Corinthians112() {
           the body?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the human body were one great eye or one large ear, etc., it
                 would no longer be a body, but rather a monstrosity.)
               </span>
@@ -544,7 +544,7 @@ export default function Corinthians112() {
           need of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims a mutual interdependence in the human body, which
                 beautifully typifies the interdependence in the Body of Christ)
               </span>
@@ -559,7 +559,7 @@ export default function Corinthians112() {
           body, which seem to be more feeble, are necessary{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all play their important part, without which there would be
                 serious repercussion)
               </span>
@@ -580,7 +580,7 @@ export default function Corinthians112() {
           bestow more abundant honour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably speaks of the internal organs)
               </span>
             </span>
@@ -594,7 +594,7 @@ export default function Corinthians112() {
           have more abundant comeliness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in reference to covering and dress)
               </span>
             </span>
@@ -613,7 +613,7 @@ export default function Corinthians112() {
           have no need{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (being comely, they do not need the same attention as others)
               </span>
             </span>
@@ -621,7 +621,7 @@ export default function Corinthians112() {
           : but God has tempered the body together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (giving dignity to all, but special dignity to the inferior
                 parts)
               </span>
@@ -642,7 +642,7 @@ export default function Corinthians112() {
           the body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to disunion and disruption)
               </span>
             </span>
@@ -656,7 +656,7 @@ export default function Corinthians112() {
           the members should have the same care one for another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that all should be treated alike)
               </span>
             </span>
@@ -670,7 +670,7 @@ export default function Corinthians112() {
           the members suffer with it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents it the way it ought to be)
               </span>
             </span>
@@ -683,13 +683,13 @@ export default function Corinthians112() {
           <sup className="calibre7">27</sup>Now you are the Body of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Church)</span>
+              <span className="explanation">(refers to the Church)</span>
             </span>
           </span>
           , and members in particular.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to every single individual in the Church who is
                 truly Born-Again.)
               </span>
@@ -702,7 +702,7 @@ export default function Corinthians112() {
           <sup className="calibre7">28</sup>And God has set some in the Church{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (man or religious denominations cannot do the setting, that
                 being Gods domain in its entirety)
               </span>
@@ -711,7 +711,7 @@ export default function Corinthians112() {
           , first Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God-called Apostles set the tone for the Church because of the
                 special Message God has given them)
               </span>
@@ -720,7 +720,7 @@ export default function Corinthians112() {
           , secondarily Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to include Evangelists as well, even as Teachers are
                 meant to include Pastors; Prophets have the same function under
                 the New Covenant as the Old, with one exception; Apostles have
@@ -732,13 +732,13 @@ export default function Corinthians112() {
           , thirdly Teachers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those who explain the Word)</span>
+              <span className="explanation">(those who explain the Word)</span>
             </span>
           </span>
           , after that Miracles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to this particular Gift of the Spirit)
               </span>
             </span>
@@ -746,7 +746,7 @@ export default function Corinthians112() {
           , then Gifts of Healings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (examples of Gifts of the Spirit which should operate in the
                 Ministry)
               </span>
@@ -755,7 +755,7 @@ export default function Corinthians112() {
           , Helps{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to every kind of help God sets in the Church, whatever
                 it might be)
               </span>
@@ -764,7 +764,7 @@ export default function Corinthians112() {
           , Governments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who endeavor to hold the Church strictly in the
                 Government of God, with all its many functions)
               </span>
@@ -773,7 +773,7 @@ export default function Corinthians112() {
           , Diversities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many different languages, but unknown by the speaker and
                 normally unknown by the hearer)
               </span>
@@ -782,7 +782,7 @@ export default function Corinthians112() {
           of Tongues{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Gift which requires interpretation)
               </span>
             </span>
@@ -819,7 +819,7 @@ export default function Corinthians112() {
           all workers of Miracles?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are different Offices and Gifts, but all are needed, as
                 all organs of the physical body are needed.)
               </span>
@@ -832,13 +832,15 @@ export default function Corinthians112() {
           <sup className="calibre7">30</sup>Have all the Gifts of Healing?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The answer is obviously, no.)</span>
+              <span className="explanation">
+                (The answer is obviously, no.)
+              </span>
             </span>
           </span>{" "}
           do all speak with tongues?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is not addressing himself here to the initial Baptism with
                 the Spirit, which is always and without exception accompanied by
                 speaking with other Tongues, but rather is addressing the Gift
@@ -850,7 +852,7 @@ export default function Corinthians112() {
           do all Interpret?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Again, the answer is no, but some do!)
               </span>
             </span>
@@ -862,7 +864,7 @@ export default function Corinthians112() {
           <sup className="calibre7">31</sup>But covet earnestly the best Gifts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, speaks of that which the Holy Spirit wants a
                 particular Believer to have)
               </span>
@@ -871,7 +873,7 @@ export default function Corinthians112() {
           : and yet show I unto you a more excellent way.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Foundation of Love that must undergird all
                 we have and do in the Lord, which the Apostle addresses in the
                 next Chapter.)

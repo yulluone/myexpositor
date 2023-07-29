@@ -16,7 +16,7 @@ export default function Nehemiah01() {
           Hachaliah. And it came to pass in the month Chisleu{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(December)</span>
+              <span className="explanation">(December)</span>
             </span>
           </span>
           , in the twentieth year{" "}
@@ -265,7 +265,7 @@ export default function Nehemiah01() {
           ear be attentive to the prayer of Your servant{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nehemiah)</span>
+              <span className="explanation">(Nehemiah)</span>
             </span>
           </span>
           , and to the prayer of Your servants, who desire to fear Your Name:
@@ -273,7 +273,7 @@ export default function Nehemiah01() {
           the sight of this man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Artaxerxes)</span>
+              <span className="explanation">(Artaxerxes)</span>
             </span>
           </span>
           . For I was the kings cupbearer{" "}

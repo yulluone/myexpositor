@@ -20,7 +20,7 @@ export default function Exodus03() {
           Horeb.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What God would do with Moses was not learned in the palaces of
                 Egypt, but was learned at the backside of the desert.)
               </span>
@@ -33,13 +33,13 @@ export default function Exodus03() {
           <sup className="calibre7">2</sup>And the Angel of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(actually, the Lord Himself)</span>
+              <span className="explanation">(actually, the Lord Himself)</span>
             </span>
           </span>{" "}
           appeared unto him in a flame of fire out of the midst of a bush{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (40 years in the desert was needed to humble the strength of the
                 flesh and destroy its hope; the possible king of Egypt was now
                 an obscure shepherd)
@@ -50,7 +50,7 @@ export default function Exodus03() {
           was not consumed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The flame of fire in the lowly desert bush the emblem of Deity
                 and Humanity of Christ and the great name I AM proceeding out
                 from the fire revealed this Almighty Power to Moses. If its done
@@ -73,14 +73,14 @@ export default function Exodus03() {
           <sup className="calibre7">4</sup>And when the LORD saw that he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           turned aside to see, God called unto him out of the midst of the bush,
           and said, Moses, Moses. And he said, Here am I.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Voice that called, Moses, Moses, was the very same Voice
                 that said, Martha, Martha. Nothing can be more interesting or
                 instructive than the mode in which Jehovah was pleased to reveal
@@ -95,14 +95,14 @@ export default function Exodus03() {
           <sup className="calibre7">5</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           said, Draw not near hither: put off your shoes from off your feet, for
           the place whereon you stand is Holy ground.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wherever God is, that place is Holy. And it is Holy only as
                 long as God is there.)
               </span>
@@ -117,7 +117,7 @@ export default function Exodus03() {
           Jacob{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the God of the Covenants given unto these men)
               </span>
             </span>
@@ -125,7 +125,7 @@ export default function Exodus03() {
           . And Moses hid his face; for he was afraid to look upon God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As far as we know, this appearance by God to Moses was the
                 first appearance since Jacobs going down into Egypt about 215
                 years before. As well, if it is to be noticed, the Lord didnt
@@ -144,7 +144,7 @@ export default function Exodus03() {
           cry by reason of their taskmasters; for I know their sorrows{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord has seen, He has heard, and He knows)
               </span>
             </span>
@@ -158,7 +158,7 @@ export default function Exodus03() {
           out of the hand of the Egyptians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Egypt was a type of the world; the Lord delivers us from this
                 present evil world; he does so by the means of the Cross [
                 <ScrollLink href="/galatians-1" scrollToId="#filepos13913016">
@@ -176,7 +176,7 @@ export default function Exodus03() {
           unto a land flowing with milk and honey{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord delivers us from something [sin], and thereby to
                 something [Salvation], typified by Canaanland)
               </span>
@@ -186,7 +186,7 @@ export default function Exodus03() {
           Amorites, and the Perizzites, and the Hivites, and the Jebusites.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While Egypt represents the world, these various tribes which
                 then occupied the Promised Land typify flesh which endeavors to
                 hinder the Believer. All victory is won by and through Christ
@@ -206,7 +206,7 @@ export default function Exodus03() {
           oppression wherewith the Egyptians oppress them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Henry says concerning this: As the poorest of the oppressed are
                 not below Gods cognizance, so the highest and greatest of their
                 oppressors are not above His check, but He will surely visit for
@@ -223,7 +223,7 @@ export default function Exodus03() {
           Israel out of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With one man, the Lord would deliver nearly 3 million of His
                 people out of the mightiest nation on Earth, determined to hold
                 them captive. It is the same presently! All the Lord needs is
@@ -242,7 +242,7 @@ export default function Exodus03() {
           Children of Israel out of Egypt?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The carnal mind is not subject to the Law of God, neither
                 indeed can be. The very Moses, who in{" "}
                 <ScrollLink href="/exodus-02" scrollToId="#filepos696954">
@@ -277,7 +277,7 @@ export default function Exodus03() {
           God upon this mountain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mount Sinai, where the Law was given, and which happened
                 exactly as the Lord said it would)
               </span>
@@ -294,7 +294,7 @@ export default function Exodus03() {
           What is His Name? what shall I say unto them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The human heart is full of questions; consequently, it reasons
                 and questions when unhesitating obedience is that which is due
                 to God; and still more marvelous is the Grace that bears with
@@ -315,7 +315,7 @@ export default function Exodus03() {
           has sent me unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Dr. Pentecost translated the Name, I was, I am, and I shall
                 always continue to be. I am whatever you need!)
               </span>
@@ -332,7 +332,7 @@ export default function Exodus03() {
           Memorial unto all generations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord reminds Moses to tell Israel that He is the same One
                 Who spoke to the Patriarchs and, as well, that this Name, I AM
                 THAT I AM, will be His Name forever. He changes not; He is the
@@ -351,7 +351,7 @@ export default function Exodus03() {
           surely visited you, and seen that which is done to you in Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God sees everything that is done to His children, be it
                 negative or positive)
               </span>
@@ -368,7 +368,7 @@ export default function Exodus03() {
           and the Jebusites, unto a land flowing with milk and honey.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Before, Moses had made the plans [when he killed the Egyptian],
                 and they could not succeed. Now, God makes the plans, and they
                 are guaranteed of success.)
@@ -382,7 +382,7 @@ export default function Exodus03() {
           <sup className="calibre7">18</sup>And they shall hearken to your voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the Message; and Moses faith in delivering it was
                 strengthened beforehand by the Divine assurance that it would be
                 believed)
@@ -395,7 +395,7 @@ export default function Exodus03() {
           the wilderness, that we may sacrifice to the LORD our God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The three days journey was not deceitfully proposed by God, but
                 furnished as a test for Pharaoh.)
               </span>
@@ -409,7 +409,7 @@ export default function Exodus03() {
           will not let you go, no, not by a mighty hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through foreknowledge, God knew that Pharaoh would not allow
                 the Children of Israel to leave.)
               </span>
@@ -424,7 +424,7 @@ export default function Exodus03() {
           and after that he will let you go.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord would use Pharaohs obstinate heart to serve as a
                 warning of the Power and Glory of God to all the surrounding
                 nations.)
@@ -440,7 +440,7 @@ export default function Exodus03() {
           go, you shall not go empty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God planned that His people should receive proper wages for all
                 their hard labor before leaving Egypt, and so they did!)
               </span>
@@ -454,7 +454,7 @@ export default function Exodus03() {
           <sup className="calibre7">22</sup>But every woman shall borrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ask)</span>
+              <span className="explanation">(ask)</span>
             </span>
           </span>{" "}
           of her neighbor, and of her who sojourns in her house, jewels of
@@ -462,7 +462,7 @@ export default function Exodus03() {
           your sons, and upon your daughters; and you shall spoil the Egyptians.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Upon hearing this, Im sure the Elders of Israel must have been
                 somewhat surprised! They couldnt imagine Pharaoh letting them
                 go, much less loading them down with jewels and raiment, etc.

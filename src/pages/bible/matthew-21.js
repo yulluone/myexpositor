@@ -24,7 +24,7 @@ export default function Matthew21() {
           , and were come to Bethphage{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(very near Jerusalem)</span>
+              <span className="explanation">(very near Jerusalem)</span>
             </span>
           </span>
           , unto the Mount of Olives, then sent Jesus two Disciples{" "}
@@ -44,13 +44,15 @@ export default function Matthew21() {
           over against you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(probably refers to Bethphage)</span>
+              <span className="explanation">
+                (probably refers to Bethphage)
+              </span>
             </span>
           </span>
           , and straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately) you</span>
+              <span className="explanation">(immediately) you</span>
             </span>
           </span>{" "}
           shall find an ass tied, and a colt with her: loose{" "}
@@ -79,13 +81,13 @@ export default function Matthew21() {
           say ought{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(anything)</span>
+              <span className="explanation">(anything)</span>
             </span>
           </span>{" "}
           unto you, you shall say, The Lord has need of them; and straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           he will send them.
@@ -132,7 +134,7 @@ export default function Matthew21() {
           and put on them their clothes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a saddle of sorts)</span>
+              <span className="explanation">(a saddle of sorts)</span>
             </span>
           </span>
           , and they set{" "}
@@ -170,7 +172,7 @@ export default function Matthew21() {
           ; others cut down branches from the trees, and strawed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(scattered) them</span>
+              <span className="explanation">(scattered) them</span>
             </span>
           </span>{" "}
           in the way{" "}
@@ -351,7 +353,7 @@ export default function Matthew21() {
           the mouth of babes and sucklings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(little children) You have</span>
+              <span className="explanation">(little children) You have</span>
             </span>
           </span>{" "}
           perfected praise?{" "}
@@ -381,13 +383,13 @@ export default function Matthew21() {
           <sup className="calibre7">17</sup>And He left them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the religious leaders)</span>
+              <span className="explanation">(the religious leaders)</span>
             </span>
           </span>
           , and went out of the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>{" "}
           into Bethany{" "}
@@ -416,7 +418,7 @@ export default function Matthew21() {
           into the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jerusalem)</span>
+              <span className="explanation">(Jerusalem)</span>
             </span>
           </span>
           , He hungered{" "}
@@ -570,19 +572,19 @@ export default function Matthew21() {
           <sup className="calibre7">23</sup>And when He was come into the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(early in the morning)</span>
+              <span className="explanation">(early in the morning)</span>
             </span>
           </span>
           , the Chief Priests and the Elders of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(religious leaders)</span>
+              <span className="explanation">(religious leaders)</span>
             </span>
           </span>{" "}
           came unto Him as He was teaching{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(interrupted His teaching)</span>
+              <span className="explanation">(interrupted His teaching)</span>
             </span>
           </span>
           , and said, By what authority do You do these things? and who gave You
@@ -618,7 +620,7 @@ export default function Matthew21() {
           <sup className="calibre7">25</sup>The Baptism of John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of repentance)</span>
+              <span className="explanation">(of repentance)</span>
             </span>
           </span>
           , from where was it? from Heaven, or of men? And they reasoned with
@@ -785,7 +787,7 @@ export default function Matthew21() {
           <sup className="calibre7">32</sup>For John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(John the Baptist)</span>
+              <span className="explanation">(John the Baptist)</span>
             </span>
           </span>{" "}
           came unto you in the way of righteousness, and you believed him not{" "}
@@ -824,7 +826,7 @@ export default function Matthew21() {
           certain householder{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(represents God the Father)</span>
+              <span className="explanation">(represents God the Father)</span>
             </span>
           </span>
           , which planted a vineyard{" "}
@@ -839,13 +841,13 @@ export default function Matthew21() {
           , and hedged it round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord protected it)</span>
+              <span className="explanation">(the Lord protected it)</span>
             </span>
           </span>
           , and dug a winepress in it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(represents Blessings)</span>
+              <span className="explanation">(represents Blessings)</span>
             </span>
           </span>
           , and built a tower{" "}
@@ -905,13 +907,13 @@ export default function Matthew21() {
           <sup className="calibre7">35</sup>And the husbandmen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(religious leaders)</span>
+              <span className="explanation">(religious leaders)</span>
             </span>
           </span>{" "}
           took his servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Prophets)</span>
+              <span className="explanation">(the Prophets)</span>
             </span>
           </span>
           , and beat one, and killed another, and stoned another{" "}
@@ -938,7 +940,7 @@ export default function Matthew21() {
           <sup className="calibre7">36</sup>Again, he sent other servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Prophets)</span>
+              <span className="explanation">(Prophets)</span>
             </span>
           </span>{" "}
           more than the first: and they did unto them likewise.
@@ -950,7 +952,7 @@ export default function Matthew21() {
           his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus Christ)</span>
+              <span className="explanation">(the Lord Jesus Christ)</span>
             </span>
           </span>
           , saying, They will reverence my son{" "}
@@ -1109,7 +1111,7 @@ export default function Matthew21() {
           , The Stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           which the builders rejected{" "}
@@ -1131,13 +1133,13 @@ export default function Matthew21() {
           , the same is become the Head of the corner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(everything hinged on Christ)</span>
+              <span className="explanation">(everything hinged on Christ)</span>
             </span>
           </span>
           : this is the Lords doing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Plan of God)</span>
+              <span className="explanation">(the Plan of God)</span>
             </span>
           </span>
           , and it is marvellous in our eyes?{" "}
@@ -1269,7 +1271,7 @@ export default function Matthew21() {
           , they feared the multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(their only restraint)</span>
+              <span className="explanation">(their only restraint)</span>
             </span>
           </span>
           , because they took Him for a Prophet{" "}

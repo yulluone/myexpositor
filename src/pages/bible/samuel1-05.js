@@ -65,7 +65,7 @@ export default function Samuel105() {
           before the Ark of the LORD. And they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the priests of Dagon)</span>
+              <span className="explanation">(the priests of Dagon)</span>
             </span>
           </span>{" "}
           took Dagon, and set him in his place again.{" "}
@@ -133,7 +133,7 @@ export default function Samuel105() {
           emerods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(skin tumors)</span>
+              <span className="explanation">(skin tumors)</span>
             </span>
           </span>
           , even Ashdod and the coasts thereof.
@@ -208,7 +208,7 @@ export default function Samuel105() {
           to Ekron{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(another Philistine city)</span>
+              <span className="explanation">(another Philistine city)</span>
             </span>
           </span>
           . And it came to pass, as the Ark of God came to Ekron, that the

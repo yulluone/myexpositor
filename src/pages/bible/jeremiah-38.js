@@ -312,7 +312,9 @@ export default function Jeremiah38() {
           escape out of their hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The choice is crystal clear.)</span>
+              <span className="explanation">
+                (The choice is crystal clear.)
+              </span>
             </span>
           </span>
         </span>

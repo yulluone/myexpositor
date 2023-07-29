@@ -356,7 +356,7 @@ export default function Jonah04() {
           great city, wherein are more than sixscore thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(120,000)</span>
+              <span className="explanation">(120,000)</span>
             </span>
           </span>{" "}
           persons who cannot discern between their right hand and their left

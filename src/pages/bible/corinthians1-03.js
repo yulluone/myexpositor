@@ -16,7 +16,7 @@ export default function Corinthians103() {
           you as unto spiritual, but as unto carnal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a solemn rebuke; they were carnal because they had shifted
                 their Faith from the Cross to other things)
               </span>
@@ -31,7 +31,7 @@ export default function Corinthians103() {
           as unto babes in Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ironically enough, this is spoken to people who considered
                 themselves to be spiritual giants.)
               </span>
@@ -45,7 +45,7 @@ export default function Corinthians103() {
           with meat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because of their carnality)</span>
+              <span className="explanation">(because of their carnality)</span>
             </span>
           </span>
           : for hitherto you were not able{" "}
@@ -57,7 +57,7 @@ export default function Corinthians103() {
           neither yet now are you able.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They were still functioning in spiritual immaturity. Their
                 spiritual growth had stopped.)
               </span>
@@ -70,7 +70,7 @@ export default function Corinthians103() {
           <sup className="calibre7">3</sup>For you are yet carnal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the short version, carnality is the placing of ones faith in
                 that other than the Cross; in other words, such a one makes the
                 Cross of Christ of none effect [
@@ -98,7 +98,7 @@ export default function Corinthians103() {
           walk as men?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They acted and spoke in the same way men of the world act and
                 speak; in other words, as the unconverted.)
               </span>
@@ -118,7 +118,7 @@ export default function Corinthians103() {
           of Apollos; are you not carnal?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the party spirit, which has wrecked so many Churches.)
               </span>
             </span>
@@ -139,7 +139,7 @@ export default function Corinthians103() {
           Apollos{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is these men, though used greatly by God, were still
                 mere men)
               </span>
@@ -148,7 +148,7 @@ export default function Corinthians103() {
           , but Ministers by whom you believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (better translated, Through whom you believed)
               </span>
             </span>
@@ -156,7 +156,7 @@ export default function Corinthians103() {
           , even as the Lord gave to every man?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whatever Gifts each Preacher had came from the Lord, and was
                 not due to their own, abilities or merit.)
               </span>
@@ -169,7 +169,7 @@ export default function Corinthians103() {
           <sup className="calibre7">6</sup>I have planted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Paul being the founder of the Church per se under
                 Christ)
               </span>
@@ -178,7 +178,7 @@ export default function Corinthians103() {
           , Apollos watered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the strengthening of the Faith of wavering Churches)
               </span>
             </span>
@@ -186,7 +186,7 @@ export default function Corinthians103() {
           ; but God gave the increase{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to souls and their Spiritual Growth)
               </span>
             </span>
@@ -200,7 +200,7 @@ export default function Corinthians103() {
           thing, neither he who waters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Planter and the Waterer are nothing by comparison to the
                 Lord)
               </span>
@@ -209,7 +209,7 @@ export default function Corinthians103() {
           ; but God Who gives the increase.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Man by his own ability cannot bring about the increase, no
                 matter how much he plants or waters, spiritually speaking.)
               </span>
@@ -223,7 +223,7 @@ export default function Corinthians103() {
           are one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (literally means in the Greek, one thing)
               </span>
             </span>
@@ -232,7 +232,7 @@ export default function Corinthians103() {
           labour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul did not say, according to his own success, but rather
                 labor. God hasnt called us to be successful, but He has called
                 us to be Faithful.)
@@ -247,7 +247,7 @@ export default function Corinthians103() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to labor in the harvest)
               </span>
             </span>
@@ -255,7 +255,9 @@ export default function Corinthians103() {
           : you are Gods husbandry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods Field, Gods tilled Land)</span>
+              <span className="explanation">
+                (Gods Field, Gods tilled Land)
+              </span>
             </span>
           </span>
           ,{" "}
@@ -267,7 +269,7 @@ export default function Corinthians103() {
           Gods building{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Vineyard)</span>
+              <span className="explanation">(Vineyard)</span>
             </span>
           </span>
           .
@@ -279,7 +281,7 @@ export default function Corinthians103() {
           is given unto me, as a wise masterbuilder{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, Paul, under Christ, founded the Church)
               </span>
             </span>
@@ -287,7 +289,7 @@ export default function Corinthians103() {
           , I have laid the foundation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus Christ and Him Crucified)
               </span>
             </span>
@@ -295,7 +297,7 @@ export default function Corinthians103() {
           , and another builds thereon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of all Preachers who followed thereafter, even unto this
                 very moment, and have built upon this Foundation)
               </span>
@@ -304,7 +306,7 @@ export default function Corinthians103() {
           . But let ev ery man take heed how he builds thereupon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All must Preach the same Doctrine Paul preached, in essence,
                 Jesus Christ and Him Crucified.)
               </span>
@@ -321,7 +323,7 @@ export default function Corinthians103() {
           than that is laid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anything other than the Cross is another foundation and,
                 therefore, unacceptable to the Lord)
               </span>
@@ -330,7 +332,7 @@ export default function Corinthians103() {
           , which is Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Who He is, God manifest in the flesh, and What He did,
                 Redemption through the Cross)
               </span>
@@ -345,7 +347,7 @@ export default function Corinthians103() {
           foundation gold, silver, precious stones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Paul using symbols; the first three are materials
                 which will stand the test of fire, symbolic of the Word of God
                 which is the Standard)
@@ -355,7 +357,7 @@ export default function Corinthians103() {
           , wood, hay, stubble{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (will not stand the test of fire)
               </span>
             </span>
@@ -369,7 +371,7 @@ export default function Corinthians103() {
           manifest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the Judgment Seat of Christ)
               </span>
             </span>
@@ -377,7 +379,7 @@ export default function Corinthians103() {
           : for the day shall declare it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the time of the Judgment Seat of Christ)
               </span>
             </span>
@@ -385,13 +387,13 @@ export default function Corinthians103() {
           , because it shall be revealed by fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the fire of Gods Word)</span>
+              <span className="explanation">(the fire of Gods Word)</span>
             </span>
           </span>
           ; and the fire shall try every mans work of what sort it is.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Fire in the Greek is puri, and speaks of the ability of Christ,
                 Who will be the Judge and Who sees through everything we do [
                 <ScrollLink href="/revelation-02" scrollToId="#filepos14907537">
@@ -413,13 +415,13 @@ export default function Corinthians103() {
           built thereupon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(assuming it to be true)</span>
+              <span className="explanation">(assuming it to be true)</span>
             </span>
           </span>
           , he shall receive a reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to that which will be eternal, although we arent told
                 what it will be)
               </span>
@@ -434,7 +436,7 @@ export default function Corinthians103() {
           shall suffer loss{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the loss of reward, but not Salvation)
               </span>
             </span>
@@ -442,7 +444,7 @@ export default function Corinthians103() {
           : but he himself shall be saved; yet so as by fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Actually, this means the person is saved despite the fire.
                 While the fire of the Word of God will definitely burn up
                 improper works, it will not touch our Salvation, that being in
@@ -461,7 +463,9 @@ export default function Corinthians103() {
           of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(where the Holy Spirit abides)</span>
+              <span className="explanation">
+                (where the Holy Spirit abides)
+              </span>
             </span>
           </span>
           , and{" "}
@@ -473,7 +477,7 @@ export default function Corinthians103() {
           the Spirit of God dwells in you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That makes the Born-Again Believer His permanent Home.)
               </span>
             </span>
@@ -485,7 +489,7 @@ export default function Corinthians103() {
           <sup className="calibre7">17</sup>If any man defile the Temple of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our physical bodies must be a living Sacrifice, which means
                 that we stay Holy by ever making the Cross the Object of our
                 Faith [
@@ -503,7 +507,7 @@ export default function Corinthians103() {
           , him shall God destroy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to fail to function in Gods Prescribed Order [the Cross], opens
                 the Believer up to Satan, which will ultimately result in
                 destruction)
@@ -519,7 +523,7 @@ export default function Corinthians103() {
           you are.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We are Holy by virtue of being in Christ. We remain Holy by the
                 Work of the Holy Spirit, Who demands that our Faith ever be in
                 the Cross, which has made all of this possible.)
@@ -533,7 +537,7 @@ export default function Corinthians103() {
           <sup className="calibre7">18</sup>Let no man deceive himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims that which is possible, or the admonition would not
                 have been given)
               </span>
@@ -542,7 +546,7 @@ export default function Corinthians103() {
           . If any man among you seems to be wise in this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is not meant to denigrate education, but rather to portray the
                 Truth that neither God nor His Ways can be found through the
                 wisdom of this world, i.e., higher education, etc.)
@@ -552,7 +556,7 @@ export default function Corinthians103() {
           , let him become a fool{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (let the person accept the Lord as his Saviour, and then go to
                 the Word of God to learn about the Lord, which the world thinks
                 is foolish)
@@ -562,7 +566,7 @@ export default function Corinthians103() {
           , that he may be wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns itself with True wisdom)
               </span>
             </span>
@@ -576,13 +580,13 @@ export default function Corinthians103() {
           foolishness with God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(because its all wrong)</span>
+              <span className="explanation">(because its all wrong)</span>
             </span>
           </span>
           . For it is written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/job-05" scrollToId="#filepos5384132">
                   <span className="calibre_19">
@@ -598,7 +602,7 @@ export default function Corinthians103() {
           , He takes the wise in their own craftiness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God will see to it that such people are caught in the traps
                 they set for other people.)
               </span>
@@ -611,7 +615,7 @@ export default function Corinthians103() {
           <sup className="calibre7">20</sup>And again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/psalm-094" scrollToId="#filepos6345081">
                   <span className="calibre_19">
@@ -627,13 +631,13 @@ export default function Corinthians103() {
           , The Lord knows the thoughts of the wise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the worldly wise)</span>
+              <span className="explanation">(the worldly wise)</span>
             </span>
           </span>
           , that they are vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(empty nothings)</span>
+              <span className="explanation">(empty nothings)</span>
             </span>
           </span>
           .
@@ -644,13 +648,13 @@ export default function Corinthians103() {
           <sup className="calibre7">21</sup>Therefore let no man glory in men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but rather the Lord)</span>
+              <span className="explanation">(but rather the Lord)</span>
             </span>
           </span>
           . For all things are yours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything given by God is available to every single Believer,
                 providing it is the Will of God; God does not play favorites)
               </span>
@@ -665,13 +669,13 @@ export default function Corinthians103() {
           or the world, or life, or death, or things present, or things to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Rules all things)</span>
+              <span className="explanation">(the Lord Rules all things)</span>
             </span>
           </span>
           ; all are yours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (nothing can happen to us, but that the Lord directs the action)
               </span>
             </span>
@@ -684,7 +688,7 @@ export default function Corinthians103() {
           <sup className="calibre7">23</sup>And you are Christs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are bought with a price, the Cross)
               </span>
             </span>
@@ -698,7 +702,7 @@ export default function Corinthians103() {
           Gods{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to what Christ has done to Redeem humanity by means of
                 the Cross, which was the Plan of God [
                 <ScrollLink href="/peter1-1" scrollToId="#filepos14682045">

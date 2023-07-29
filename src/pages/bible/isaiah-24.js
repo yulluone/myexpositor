@@ -17,7 +17,7 @@ export default function Isaiah24() {
           abroad the inhabitants thereof.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The intention of the Holy Spirit is for the hearer of this
                 Prophecy to understand that as Israel is affected, so, at least
                 in some measure, is the entirety of the Earth. This Verse could
@@ -38,7 +38,7 @@ export default function Isaiah24() {
           so with the giver of usury to him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The inhabitants in this Passage are divided into six groups
                 doubled. Six in the Scriptures is the number of man and
                 expresses his imperfection, for it comes short of the perfect
@@ -68,7 +68,7 @@ export default function Isaiah24() {
           and utterly spoiled: for the LORD has spoken this Word.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With the emphasis placed on the LORD has spoken this Word, we
                 are given an idea of the unchangeable position of God.
                 Perfection doesnt need to change.)
@@ -84,7 +84,7 @@ export default function Isaiah24() {
           languish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When the word Earth is here used, the manifold thrust of the
                 Passage is toward Israel; however, during this time of the Great
                 Tribulation, the judgments of God, even though centered up in
@@ -117,7 +117,7 @@ export default function Isaiah24() {
           the ordinance, broken the Everlasting Covenant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The reason for the Great Tribulation that is to come is because
                 of the acute violation of the Word of God [
                 <ScrollLink href="/matthew-24" scrollToId="#filepos11227963">
@@ -140,7 +140,7 @@ export default function Isaiah24() {
           inhabitants of the Earth are burned, and few men left.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The justice of this Divine action is stated in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7511051">
                   <span className="calibre_19">
@@ -187,7 +187,7 @@ export default function Isaiah24() {
           languishes, all the merryhearted do sigh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In olden times, the harvest constituted days of merrymaking. It
                 was the grandest time of the year. But at this coming time,
                 there will be no merryhearted, but only those who do sigh.)
@@ -202,7 +202,7 @@ export default function Isaiah24() {
           noise of them who rejoice ends, the joy of the harp ceases.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All is dismay and wretchedness desolation in the present and
                 worse desolation expected in the future.)
               </span>
@@ -216,7 +216,7 @@ export default function Isaiah24() {
           song; strong drink shall be bitter to them who drink it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Passage does not mean that men will cease drinking
                 alcohol; they will probably drink even more, yet without any
                 accompanying merriment that usually corresponds with such
@@ -244,7 +244,7 @@ export default function Isaiah24() {
           down: every house is shut up, that no man may come in.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This probably addresses Jerusalem. Chaos reigns. There is no
                 civic life, no government, no order, and nothing but confusion [
                 <ScrollLink href="/zechariah-14" scrollToId="#filepos10735728">
@@ -266,7 +266,7 @@ export default function Isaiah24() {
           streets; all joy is darkened, the mirth of the land is gone.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (During the Great Tribulation, there is implication that great
                 amounts of alcohol will be consumed. They will desire its opiate
                 for the oblivion it brings when drunk to excess.)
@@ -281,7 +281,7 @@ export default function Isaiah24() {
           the gate is smitten with destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No amount of negotiations, diplomacy, or treaty agreements can
                 halt the inevitable march of this coming doom, because the Third
                 Verse says, The LORD has spoken this Word.
@@ -312,7 +312,7 @@ export default function Isaiah24() {
           olive tree, and as the gleaning grapes when the vintage is done.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is to portray the tremendous number of
                 Jews who will be killed in the latter half of the Great
                 Tribulation and at the Battle of Armageddon. Zechariah said that
@@ -339,7 +339,7 @@ export default function Isaiah24() {
           sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the remnant that is left at the beginning of the
                 Kingdom Age, after Christ has returned, and those remaining in
                 Israel have accepted Him as Saviour and Lord. There will be
@@ -364,7 +364,7 @@ export default function Isaiah24() {
           sea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that the word fires is an unfortunate translation. The
                 rendering which the Hebrew seems to suggest is that the Lord
                 will be glorified even to the borders of Israel.
@@ -397,7 +397,7 @@ export default function Isaiah24() {
           treacherously.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Righteous is the Messiah. Israel rejected the Righteous One
                 and accepted the treacherous dealers, which brought a terrible
                 leanness. Now they will have finally realized their tragic
@@ -414,7 +414,7 @@ export default function Isaiah24() {
           are upon you, O inhabitant of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy now reverts back to the time of the Great
                 Tribulation. Fear will captivate the entirety of mankind and
                 even the atmosphere.)
@@ -432,7 +432,7 @@ export default function Isaiah24() {
           Earth do shake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These great judgments in the coming Great Tribulation will
                 affect the entirety of the Earth [
                 <ScrollLink href="/revelation-06" scrollToId="#filepos14949482">
@@ -470,7 +470,7 @@ export default function Isaiah24() {
           the Earth is clean dissolved, the Earth is moved exceedingly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The implication from the Scholars is that the English
                 translation is very feeble compared to the original. Giant
                 earthquakes, greater than the world has ever seen before, will
@@ -495,7 +495,7 @@ export default function Isaiah24() {
           thereof shall be heavy upon it; and it shall fall, and not rise again.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, shall be removed like a cottage, means to sway to
                 and fro like a hammock. During this time, one can well imagine
                 what will happen to the tides, mountains, and even vast
@@ -520,7 +520,7 @@ export default function Isaiah24() {
           high, and the kings of the Earth upon the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, refer to the Battle of Armageddon.
                 Then, all the mighty men on Earth, plus Satan, demon spirits,
                 and fallen angels, will be dealt with by the Lord at the Second
@@ -553,7 +553,7 @@ export default function Isaiah24() {
           prison, and after many days shall they be visited.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Satan and all fallen angels and demon spirits will be locked in
                 the bottomless pit for a thousand years [
                 <ScrollLink href="/revelation-20" scrollToId="#filepos15120957">
@@ -602,7 +602,7 @@ export default function Isaiah24() {
           and in Jerusalem, and before His ancients gloriously.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Chapter closes with the glorious Promise of the coming
                 Kingdom Age.)
               </span>

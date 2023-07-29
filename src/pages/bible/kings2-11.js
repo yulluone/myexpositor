@@ -352,7 +352,7 @@ export default function Kings211() {
           before the altars. And the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehoiada)</span>
+              <span className="explanation">(Jehoiada)</span>
             </span>
           </span>{" "}
           appointed officers over the House of the LORD{" "}
@@ -407,7 +407,7 @@ export default function Kings211() {
           <sup className="calibre7">21</sup>Seven years old was Jehoash{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Joash)</span>
+              <span className="explanation">(Joash)</span>
             </span>
           </span>{" "}
           when he began to reign.

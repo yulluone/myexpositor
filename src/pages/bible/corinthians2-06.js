@@ -18,7 +18,7 @@ export default function Corinthians206() {
               <span className="calibre_19">with Him</span>
             </span>
             <span>
-              <span className="calibre_19">(with Christ),</span>
+              <span className="explanation">(with Christ),</span>
             </span>
           </span>{" "}
           beseech{" "}
@@ -30,7 +30,7 @@ export default function Corinthians206() {
           also that you receive not the Grace of God in vain.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All who turn away from the Cross, the means by which Grace is
                 given, make it all vain.)
               </span>
@@ -43,7 +43,7 @@ export default function Corinthians206() {
           <sup className="calibre7">2</sup>(For He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/isaiah-49" scrollToId="#filepos7858354">
                   <span className="calibre_19">
@@ -59,7 +59,7 @@ export default function Corinthians206() {
           , I have heard You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to God hearing the prayers of the Messiah; it is prayer
                 for the Salvation of the heathen world)
               </span>
@@ -68,13 +68,13 @@ export default function Corinthians206() {
           in a time accepted{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to this Day of Grace)</span>
+              <span className="explanation">(refers to this Day of Grace)</span>
             </span>
           </span>
           , and in the Day of Salvation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which has been afforded by Christ, and what He did at the
                 Cross)
               </span>
@@ -83,7 +83,7 @@ export default function Corinthians206() {
           have I succoured You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God the Father upheld the Messiah, despite His many enemies)
               </span>
             </span>
@@ -97,7 +97,7 @@ export default function Corinthians206() {
           the accepted time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ has made it all possible)
               </span>
             </span>
@@ -111,7 +111,7 @@ export default function Corinthians206() {
           the Day of Salvation.){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a sense, this day will end at the coming Resurrection.)
               </span>
             </span>
@@ -123,7 +123,7 @@ export default function Corinthians206() {
           <sup className="calibre7">3</sup>Giving no offence in any thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are to give no occasion for condemning or rejecting the
                 Gospel)
               </span>
@@ -132,7 +132,7 @@ export default function Corinthians206() {
           , that the Ministry be not blamed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that the Finished Work of Christ be not blamed)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Corinthians206() {
           approving ourselves as the Ministers of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in both word and deed)</span>
+              <span className="explanation">(in both word and deed)</span>
             </span>
           </span>
           , in much patience, in afflictions, in necessities, in distresses,
@@ -163,7 +163,7 @@ export default function Corinthians206() {
           tumults, in labours, in watchings, in fastings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in all of this, the Grace of God can keep us)
               </span>
             </span>
@@ -177,7 +177,7 @@ export default function Corinthians206() {
           longsuffering, by kindness, by the Holy Spirit, by love unfeigned{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit Alone can help us to overcome, and to
                 experience these graces as well; our part pertains to our
                 constant Faith in the Cross; the Spirit will then do what needs
@@ -193,19 +193,19 @@ export default function Corinthians206() {
           <sup className="calibre7">7</sup>By the Word of Truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Word of God)</span>
+              <span className="explanation">(the Word of God)</span>
             </span>
           </span>
           , by the Power of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through the Holy Spirit)</span>
+              <span className="explanation">(through the Holy Spirit)</span>
             </span>
           </span>
           , by the armour of Righteousness on the right hand and on the left{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of being completely armed, which pertains to simple
                 Faith in the Cross of Christ)
               </span>
@@ -219,7 +219,7 @@ export default function Corinthians206() {
           <sup className="calibre7">8</sup>By honour and dishonour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some people honor us and some dont)
               </span>
             </span>
@@ -227,7 +227,7 @@ export default function Corinthians206() {
           , by evil report and good report{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is very trying to human nature to have ones name slandered
                 and cast out as evil, when we are conscious only of a desire to
                 do good)
@@ -243,7 +243,7 @@ export default function Corinthians206() {
           true{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are labeled by some as a deceiver, but God knows its not
                 true)
               </span>
@@ -263,7 +263,7 @@ export default function Corinthians206() {
           well known{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (despite being true, some will not know, but yet a few will)
               </span>
             </span>
@@ -271,7 +271,7 @@ export default function Corinthians206() {
           ; as dying, and, behold, we live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we must be willing to face death, and willingly place our lives
                 in the hands of the Lord)
               </span>
@@ -280,13 +280,13 @@ export default function Corinthians206() {
           ; as chastened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by the Lord)</span>
+              <span className="explanation">(by the Lord)</span>
             </span>
           </span>
           , and not killed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit desires to kill many things in our lives which
                 are wrong; this is a portrayal of the purging of the branch [
                 <ScrollLink href="/john-15" scrollToId="#filepos12619351">
@@ -308,7 +308,7 @@ export default function Corinthians206() {
           <sup className="calibre7">10</sup>As sorrowful, yet always rejoicing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the evidence of an inner triumph which puts tears to flight by
                 the Smiles of Praise)
               </span>
@@ -317,7 +317,7 @@ export default function Corinthians206() {
           ; as poor, yet making many rich{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (irrespective of our financial status [and I speak of lack], we
                 can make many rich with the Gospel, spiritually speaking)
               </span>
@@ -332,7 +332,7 @@ export default function Corinthians206() {
           possessing all things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If one is saved, one has all things.)
               </span>
             </span>
@@ -350,7 +350,7 @@ export default function Corinthians206() {
           Corinthians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Corinth was known for vice, but the Gospel changed it to
                 Righteousness, at least for those who would believe)
               </span>
@@ -359,7 +359,7 @@ export default function Corinthians206() {
           , our mouth is open unto you, our heart is enlarged.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle spoke straight, mincing no words, but it was
                 because of love.)
               </span>
@@ -372,7 +372,7 @@ export default function Corinthians206() {
           <sup className="calibre7">12</sup>You are not straitened in us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they did not possess a narrow place in his affections, but
                 rather a large place)
               </span>
@@ -381,7 +381,7 @@ export default function Corinthians206() {
           , but you are straitened in your own bowels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This should have been translated, you are straitened in your
                 own hearts. It means the Corinthians didnt have a large place in
                 their hearts for Paul, as they should have had.)
@@ -395,7 +395,7 @@ export default function Corinthians206() {
           <sup className="calibre7">13</sup>Now for a recompence in the same{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul asked the Corinthians to reciprocate by expanding their
                 hearts as wide toward him as he had toward them)
               </span>
@@ -410,7 +410,7 @@ export default function Corinthians206() {
           children,) be ye also enlarged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (simply means, love me as I love you)
               </span>
             </span>
@@ -427,7 +427,7 @@ export default function Corinthians206() {
           unbelievers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there are two fellowships in the world, and only two; all men
                 belong either to one or the other; no one can belong to both and
                 claim to be a Christian; one is with the world, and one is with
@@ -438,13 +438,13 @@ export default function Corinthians206() {
           : for what fellowship has Righteousness with unrighteousness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(None!)</span>
+              <span className="explanation">(None!)</span>
             </span>
           </span>{" "}
           and what communion has light with darkness?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(None!)</span>
+              <span className="explanation">(None!)</span>
             </span>
           </span>
         </span>
@@ -455,7 +455,7 @@ export default function Corinthians206() {
           Belial?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This presents another name for Satan.)
               </span>
             </span>
@@ -463,7 +463,7 @@ export default function Corinthians206() {
           or what part has he who believes with an infidel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Those who make a profession of Salvation should resolve to
                 separate themselves from the world. However, it is separation
                 and not isolation.)
@@ -478,19 +478,19 @@ export default function Corinthians206() {
           God with idols?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God and idols cannot mix.)</span>
+              <span className="explanation">(God and idols cannot mix.)</span>
             </span>
           </span>{" "}
           for you are the Temple of the Living God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(speaking of all Believers)</span>
+              <span className="explanation">(speaking of all Believers)</span>
             </span>
           </span>
           ; as God has said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/exodus-29" scrollToId="#filepos1118821">
                   <span className="calibre_19">
@@ -528,7 +528,7 @@ export default function Corinthians206() {
           and I will be their God, and they shall be My people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Believer is the Sanctuary of the Holy Spirit, all made
                 possible by the Cross.)
               </span>
@@ -542,7 +542,7 @@ export default function Corinthians206() {
           and be ye separate, saith the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the Word of God emphatically teaches separation from
                 the world, but not isolation)
               </span>
@@ -554,7 +554,7 @@ export default function Corinthians206() {
               <span className="calibre_19">thing</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Christians avoiding all unholy contact with a vain
                 and polluted world);
               </span>
@@ -563,7 +563,7 @@ export default function Corinthians206() {
           and I will receive you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the same time, means if the person disobeys these
                 injunctions the Lord will not receive us; the Christian can walk
                 clean in this world only by constantly evidencing Faith in the
@@ -580,7 +580,7 @@ export default function Corinthians206() {
           <sup className="calibre7">18</sup>And will be a Father unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but only under the conditions mentioned in the above
                 Scriptures)
               </span>
@@ -589,7 +589,7 @@ export default function Corinthians206() {
           , and you shall be My sons and daughters, saith the Lord Almighty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Lord Almighty in the Hebrew is Jehovah Shaddai. The Hebrew word
                 Shad means a womans breast. The title Shaddai suggests that we
                 must never resort to the world, but rather draw all nourishment

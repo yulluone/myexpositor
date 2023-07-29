@@ -138,7 +138,7 @@ export default function Exodus33() {
           out unto the Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(tent)</span>
+              <span className="explanation">(tent)</span>
             </span>
           </span>
           , that all the people rose up, and stood every man at his tent door,
@@ -190,7 +190,7 @@ export default function Exodus33() {
           to face, as a man speaks unto his friend. And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           turned again into the camp: but his servant Joshua, the son of Nun, a
@@ -275,7 +275,7 @@ export default function Exodus33() {
           <sup className="calibre7">14</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, My Presence shall go with you, and I will give you rest.
@@ -286,13 +286,13 @@ export default function Exodus33() {
           <sup className="calibre7">15</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses)</span>
+              <span className="explanation">(Moses)</span>
             </span>
           </span>{" "}
           said unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>
           , If Your Presence go not with me, carry us not up hence.{" "}
@@ -357,7 +357,7 @@ export default function Exodus33() {
           <sup className="calibre7">19</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, I will make all My Goodness pass before you, and I will proclaim
@@ -379,7 +379,7 @@ export default function Exodus33() {
           <sup className="calibre7">20</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           said, You cannot see My Face: for there shall no man see Me, and live.{" "}

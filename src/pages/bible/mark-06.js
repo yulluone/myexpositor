@@ -15,13 +15,13 @@ export default function Mark06() {
           <sup className="calibre7">1</sup>And He went out from thence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from Capernaum)</span>
+              <span className="explanation">(from Capernaum)</span>
             </span>
           </span>
           , and came into His own country{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Nazareth)</span>
+              <span className="explanation">(Nazareth)</span>
             </span>
           </span>
           ; and His Disciples follow Him.
@@ -145,7 +145,7 @@ export default function Mark06() {
           , save that He laid His Hands upon a few sick folk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a few sickly ones)</span>
+              <span className="explanation">(a few sickly ones)</span>
             </span>
           </span>
           , and healed{" "}
@@ -223,13 +223,13 @@ export default function Mark06() {
           , save a staff only{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a wooden staff for walking)</span>
+              <span className="explanation">(a wooden staff for walking)</span>
             </span>
           </span>
           ; no scrip{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a leather pouch for food)</span>
+              <span className="explanation">(a leather pouch for food)</span>
             </span>
           </span>
           , no bread, no money in{" "}
@@ -283,7 +283,7 @@ export default function Mark06() {
           soever you enter into an house,{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they accept you)</span>
+              <span className="explanation">(they accept you)</span>
             </span>
           </span>{" "}
           there abide till you depart from that place{" "}
@@ -320,7 +320,7 @@ export default function Mark06() {
           , shake off the dust under your feet for a testimony against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a symbolic gesture)</span>
+              <span className="explanation">(a symbolic gesture)</span>
             </span>
           </span>
           . Verily I say unto you, It shall be more tolerable for Sodom and
@@ -355,7 +355,7 @@ export default function Mark06() {
           <sup className="calibre7">13</sup>And they cast out many devils{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(demons)</span>
+              <span className="explanation">(demons)</span>
             </span>
           </span>
           , and anointed with oil many who were sick, and healed{" "}
@@ -420,7 +420,7 @@ export default function Mark06() {
           <sup className="calibre7">14</sup>And king Herod{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Antipas)</span>
+              <span className="explanation">(Antipas)</span>
             </span>
           </span>{" "}
           heard{" "}
@@ -429,7 +429,7 @@ export default function Mark06() {
               <span className="calibre_19">of Him</span>
             </span>
             <span>
-              <span className="calibre_19">(Jesus);</span>
+              <span className="explanation">(Jesus);</span>
             </span>
           </span>{" "}
           (for His name was spread abroad:) and he said, That John the Baptist
@@ -514,7 +514,7 @@ export default function Mark06() {
           : for he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Herod)</span>
+              <span className="explanation">(Herod)</span>
             </span>
           </span>{" "}
           had married her.
@@ -659,7 +659,7 @@ export default function Mark06() {
           <sup className="calibre7">23</sup>And he sware unto her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(puts himself under oath)</span>
+              <span className="explanation">(puts himself under oath)</span>
             </span>
           </span>
           , Whatsoever you shall ask of me, I will give{" "}
@@ -699,13 +699,13 @@ export default function Mark06() {
           <sup className="calibre7">25</sup>And she{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the daughter of Herodias)</span>
+              <span className="explanation">(the daughter of Herodias)</span>
             </span>
           </span>{" "}
           came in straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           with haste unto the king{" "}
@@ -720,13 +720,13 @@ export default function Mark06() {
           , and asked, saying, I will that you give me by and by{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           in a charger{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(on a platter)</span>
+              <span className="explanation">(on a platter)</span>
             </span>
           </span>{" "}
           the head of John the Baptist.
@@ -743,7 +743,7 @@ export default function Mark06() {
           for his oaths sake, and for their sakes which sat with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he would save face)</span>
+              <span className="explanation">(he would save face)</span>
             </span>
           </span>
           , he would not reject her{" "}
@@ -939,7 +939,7 @@ export default function Mark06() {
           far passed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(growing late in the day)</span>
+              <span className="explanation">(growing late in the day)</span>
             </span>
           </span>
           :
@@ -1116,13 +1116,15 @@ export default function Mark06() {
           <sup className="calibre7">45</sup>And straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           He constrained His Disciples to get into the ship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they were reluctant to do so)</span>
+              <span className="explanation">
+                (they were reluctant to do so)
+              </span>
             </span>
           </span>
           , and to go to the other side before unto Bethsaida, while He sent
@@ -1172,7 +1174,7 @@ export default function Mark06() {
           : and about the fourth watch of the night He cometh unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(between 3 a.m. and 6 a.m.)</span>
+              <span className="explanation">(between 3 a.m. and 6 a.m.)</span>
             </span>
           </span>
           , walking upon the sea{" "}
@@ -1202,7 +1204,7 @@ export default function Mark06() {
           the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(couldnt believe their eyes)</span>
+              <span className="explanation">(couldnt believe their eyes)</span>
             </span>
           </span>
           , they supposed it had been a spirit, and cried out{" "}
@@ -1222,7 +1224,7 @@ export default function Mark06() {
           troubled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(all Twelve saw Him).</span>
+              <span className="explanation">(all Twelve saw Him).</span>
             </span>
           </span>{" "}
           And immediately He talked with them, and said unto them, Be of good
@@ -1334,7 +1336,7 @@ export default function Mark06() {
           , straightway{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(immediately)</span>
+              <span className="explanation">(immediately)</span>
             </span>
           </span>{" "}
           they knew Him,

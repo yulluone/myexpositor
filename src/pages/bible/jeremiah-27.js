@@ -171,7 +171,7 @@ export default function Jeremiah27() {
           the beasts of the field have I given him also to serve him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My servant, concerning Nebuchadnezzar, referred to him as an
                 instrument, not to relationship. And the beasts of the field
                 have I given him also to serve him, indicates the unlimited
@@ -188,7 +188,7 @@ export default function Jeremiah27() {
           then many nations and great kings shall serve themselves of him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And then many nations and great kings shall serve themselves of
                 him, refers to Babylon being overthrown by the great kings of
                 Medo-Persia. History testifies to the accuracy of this
@@ -209,7 +209,7 @@ export default function Jeremiah27() {
           consumed them by his hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Tragically, these other nations, as Judah, would not listen and
                 were consumed, irrespective of the great Promise given to them
                 by God in{" "}
@@ -237,7 +237,7 @@ export default function Jeremiah27() {
           shall not serve the king of Babylon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through Jeremiah, the leaders of these nations were being told
                 that their prophets, so-called, would speak the very opposite of
                 what Jeremiah was saying. They must not heed them, but
@@ -255,7 +255,7 @@ export default function Jeremiah27() {
           you should perish.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These enchanters prophesied lies to the kings of these nations,
                 as the false prophets prophesied lies to the kings and people of
                 Judah.)
@@ -272,7 +272,7 @@ export default function Jeremiah27() {
           till it, and dwell therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If they submitted to the Word of God, they would continue to
                 remain in their own land, but with their land under the control
                 of the king of Babylon. If they did not yield to the king of
@@ -293,7 +293,7 @@ export default function Jeremiah27() {
           yoke of the king of Babylon, and serve him and his people, and live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Message is unequivocally clear!)
               </span>
             </span>
@@ -308,7 +308,7 @@ export default function Jeremiah27() {
           Babylon?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The question, Why will you die?, proclaims every word beating
                 hotly with the Love of God. So Judah and all these surrounding
                 nations had no excuse for their rebellion. The Word of the Lord
@@ -325,7 +325,7 @@ export default function Jeremiah27() {
           king of Babylon: for they prophesy a lie unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The same words the Holy Spirit had said through Jeremiah to the
                 heathen, He now says to Judah.)
               </span>
@@ -341,7 +341,7 @@ export default function Jeremiah27() {
           you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is very similar to the statement given to the heathen
                 kings in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8529428">
@@ -382,7 +382,7 @@ export default function Jeremiah27() {
           they prophesy a lie unto you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The vessels in question were those taken by Nebuchadnezzar in
                 his first two excursions into Jerusalem. They were taken from
                 the House of the Lord [
@@ -421,7 +421,7 @@ export default function Jeremiah27() {
           king of Babylon, and live: wherefore should this city be laid waste?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Hearken not unto them, concerning the false
                 prophets, were not only valid for Jeremiahs day, but are also
                 just as valid presently [
@@ -447,7 +447,7 @@ export default function Jeremiah27() {
           to Babylon.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The false prophets were claiming that the vessels from the
                 Temple which had been taken to Babylon in the first two
                 excursions by Nebuchadnezzar would be brought back, while
@@ -468,13 +468,13 @@ export default function Jeremiah27() {
           concerning the Pillars, and concerning the Sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Brazen Laver)</span>
+              <span className="explanation">(Brazen Laver)</span>
             </span>
           </span>
           , and concerning the Bases{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (that on which the smaller Brazen Lavers sat)
               </span>
             </span>
@@ -490,7 +490,7 @@ export default function Jeremiah27() {
           and Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the carrying away of a number of the vessels of the Temple as
                 well as some of the people of Judah and Jerusalem should have
                 been a warning to the people and to the nobles that they must
@@ -508,7 +508,7 @@ export default function Jeremiah27() {
           the LORD, and in the house of the king of Judah and of Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these vessels were very important, simply because they were a
                 part of the worship of God regarding the Temple at Jerusalem.
                 The Lord allowing such to be removed was, in effect, allowing a
@@ -528,7 +528,7 @@ export default function Jeremiah27() {
           LORD; then will I bring them up, and restore them to this place.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, these vessels in Babylon were to be restored, but at a
                 much later date, and by Cyrus; they would be brought to
                 Jerusalem by Ezra [

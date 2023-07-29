@@ -459,7 +459,7 @@ export default function Proverbs07() {
           ways, go not astray in her paths.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The warning is clear!)</span>
+              <span className="explanation">(The warning is clear!)</span>
             </span>
           </span>
         </span>

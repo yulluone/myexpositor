@@ -16,7 +16,7 @@ export default function Jeremiah18() {
           the LORD, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the offer of Repentance will again be enjoined, but with no
                 success. In fact, greater opposition will be plotted against the
                 Prophet)
@@ -32,7 +32,7 @@ export default function Jeremiah18() {
           house, and there I will cause you to hear My Words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The potters house was where various utensils were made of
                 clay.)
               </span>
@@ -46,7 +46,7 @@ export default function Jeremiah18() {
           house, and, behold, he wrought a work on the wheels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jeremiah was to behold the work of the potter; the lesson would
                 concern Judah.)
               </span>
@@ -61,7 +61,7 @@ export default function Jeremiah18() {
           vessel, as seemed good to the potter to make it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lesson of the potters house is that God never mends what
                 man mars. He creates something new. Man attempts to mend the
                 vessel, i.e., rehabilitation, which is impossible.)
@@ -76,7 +76,7 @@ export default function Jeremiah18() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Word will concern the lesson learned)
               </span>
             </span>
@@ -91,7 +91,7 @@ export default function Jeremiah18() {
           potters hand, so are you in My Hand, O House of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The interpretation of this symbol belongs to the House of
                 Israel. The Verse beginning and closing as it does with these
                 words decides the interpretation of the symbol; but its
@@ -113,7 +113,7 @@ export default function Jeremiah18() {
           pull down, and to destroy it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the idea is: Judah, or any nation for that matter, even on the
                 brink of destruction, with judgment already pronounced, if they
                 will repent, as is outlined in the next Verse, God will repent,
@@ -133,7 +133,7 @@ export default function Jeremiah18() {
           thought to do unto them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (True heartfelt Repentance on the part of men brings about the
                 change on the part of God. Without that Repentance, judgment
                 will continue.)
@@ -149,7 +149,7 @@ export default function Jeremiah18() {
           it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the instant spoken of in this Passage concerns the moment the
                 Gospel is proclaimed to that nation; according to its rejection
                 or acceptance, the Lord will either do evil or good)
@@ -166,7 +166,7 @@ export default function Jeremiah18() {
           would benefit them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord desires to do good to any and all, but what He does
                 depends upon the obedience of the individual or individuals
                 involved.)
@@ -184,7 +184,7 @@ export default function Jeremiah18() {
           ways and your doings good.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Behold, I frame evil against you, and devise a device against
                 you, refers to the calamity that God was framing against them at
                 this time, which was the Chaldean invasion.
@@ -213,7 +213,7 @@ export default function Jeremiah18() {
           imagination of his evil heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Coupling this Verse with{" "}
                 <ScrollLink href="/" scrollToId="#filepos8409532">
                   <span className="calibre_19">
@@ -239,7 +239,7 @@ export default function Jeremiah18() {
           Israel has done a very horrible thing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The very horrible thing of this Verse was Israels forsaking
                 Jehovah for Baal. The virgin of Israel, has to do with what
                 Israel should have been instead of what she actually was. As
@@ -257,7 +257,7 @@ export default function Jeremiah18() {
           waters that come from another place be forsaken?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this symbol, Christ is compared to the cool and pure waters
                 which flow from the summit of Lebanon; and mans religion, to the
                 muddy waters of the trampled field. Tragically, Christ has been
@@ -275,7 +275,7 @@ export default function Jeremiah18() {
           way not cast up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word vanity actually means empty nothings. Whenever God is
                 forsaken, men receive nothing for their trade; however, these
                 nothings are made very enticing, because men are easily
@@ -293,7 +293,7 @@ export default function Jeremiah18() {
           and wag his head.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the forsaking of the Bible made their land desolate, it is
                 making America desolate, as well! Jerusalem, which had been the
                 city of gold, would now be destroyed, and so completely that
@@ -310,7 +310,7 @@ export default function Jeremiah18() {
           the day of their calamity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The east wind was a stormy wind and was used as symbolism
                 regarding the scattering of Judah before the enemy. This refers
                 to the Babylonian invasion, with the terminology portraying the
@@ -341,7 +341,7 @@ export default function Jeremiah18() {
           to any of his words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is the answer of the people to Jeremiahs
                 Prophecies!)
               </span>
@@ -358,7 +358,7 @@ export default function Jeremiah18() {
           to the voice of them who contend with me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Speaker in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8410044">
                   <span className="calibre_19">
@@ -401,7 +401,7 @@ export default function Jeremiah18() {
           to speak good for them, and to turn away Your wrath from them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The good spoken of by Jeremiah was the Word of God given to
                 them and the intercession he made to the Lord on their behalf.)
               </span>
@@ -418,7 +418,7 @@ export default function Jeremiah18() {
           in battle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The action of this prayer, allowed by the Holy Spirit, is that
                 Judah and Jerusalem desired such, and such they would have! If
                 man wills evil, God wills further evil to him. They had denied
@@ -436,7 +436,7 @@ export default function Jeremiah18() {
           dug a pit to take me, and hid snares for my feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The petition of this Verse is that they themselves fall into
                 the pit they have digged for Jeremiah!)
               </span>
@@ -452,7 +452,7 @@ export default function Jeremiah18() {
           You; deal thus with them in the time of Your Anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These individuals hated the Prophet so much that they took
                 counsel against him to kill him. They were not satisfied to
                 reject the Message; they wanted to destroy the Messenger, as

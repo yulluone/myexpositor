@@ -68,7 +68,7 @@ export default function Job13() {
           peace! and it should be your wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a statement!)</span>
+              <span className="explanation">(what a statement!)</span>
             </span>
           </span>
           .
@@ -138,7 +138,7 @@ export default function Job13() {
           do secretly accept persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(curry favor!)</span>
+              <span className="explanation">(curry favor!)</span>
             </span>
           </span>
           .
@@ -246,7 +246,7 @@ export default function Job13() {
           I know that I shall be justified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Faith is rising!)</span>
+              <span className="explanation">(Faith is rising!)</span>
             </span>
           </span>
           .
@@ -280,7 +280,7 @@ export default function Job13() {
           <sup className="calibre7">21</sup>Withdraw Your hand far from me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(take away the physical pain)</span>
+              <span className="explanation">(take away the physical pain)</span>
             </span>
           </span>
           : and let not Your dread make me afraid{" "}
@@ -390,7 +390,7 @@ export default function Job13() {
           <sup className="calibre7">28</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job)</span>
+              <span className="explanation">(Job)</span>
             </span>
           </span>
           , as a rotten thing, consumes, as a garment that is moth eaten{" "}

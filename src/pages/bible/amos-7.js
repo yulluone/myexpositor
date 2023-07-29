@@ -20,7 +20,7 @@ export default function Amos7() {
           kings mowings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The revelation of the first nine Verses is: persistence in
                 evil, after repeated forgiveness, will meet with eternal
                 judgment. The first phrase refers to locusts coming upon the
@@ -42,7 +42,7 @@ export default function Amos7() {
           small.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When praying for personal pardon, sin should be magnified; when
                 pleading for the pardon of a neighbor, sins should be minimized.
               </span>
@@ -72,7 +72,7 @@ export default function Amos7() {
           not be, sa ys the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase literally means that God changed His
                 Direction. The use of the word repent, at least as it refers to
                 the Lord, infers no wrongdoing whatsoever on His part. It merely
@@ -106,7 +106,7 @@ export default function Amos7() {
           the great deep, and did eat up a part.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus has the Lord GOD showed unto me, refers to a further
                 judgment that had been decided in the high counsels of Heaven
                 against Israel. It was a judgment by fire, and was to be so
@@ -137,7 +137,7 @@ export default function Amos7() {
           beseech You: by whom shall Jacob arise? for he is small.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This petition is the same as in{" "}
                 <ScrollLink href="/" scrollToId="#filepos10207469">
                   <span className="calibre_19">
@@ -161,7 +161,7 @@ export default function Amos7() {
           shall not be, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, Amos importunes, and once again, the Lord answers.
                 It is similar to that which Abraham asked of the Lord concerning
                 Sodom and Gomorrah [Gen., Chpt.{" "}
@@ -190,7 +190,7 @@ export default function Amos7() {
           Hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every evidence is that Amos actually saw the Lord in a vision.
                 And, behold, the LORD stood upon a wall made by a plumbline,
                 actually speaks of the wall as the Kingdom of Israel, once
@@ -223,7 +223,7 @@ export default function Amos7() {
           again pass by them anymore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first phrase portrays the intimacy of the fellowship
                 between Immanuel and the Prophet, and appears with peculiar
                 sweetness in the Prophet being addressed as Amos [
@@ -251,7 +251,7 @@ export default function Amos7() {
           will rise against the house of Jeroboam with the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase refers to the entirety of Israel. The latter
                 phrase was fulfilled, as recorded in{" "}
                 <ScrollLink href="/kings2-15" scrollToId="#filepos4216825">
@@ -278,7 +278,7 @@ export default function Amos7() {
           all his words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase portrays the fact that the type of preaching
                 done by Amos was out of place in the Royal Chapel. A State
                 Religion negates any civil and religious liberty. If it is of
@@ -355,7 +355,7 @@ export default function Amos7() {
           their own land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, the first phrase pertains to the false accusation by
                 Amaziah that Amos had predicted the death of the king. The
                 latter phrase was correct in that it predicted the captivity of
@@ -373,7 +373,7 @@ export default function Amos7() {
           and prophesy there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, you are not wanted here! There is no record
                 that Jeroboam took any steps in consequence of this accusation,
                 either deeming the words of Amos to be unworthy of serious
@@ -401,7 +401,7 @@ export default function Amos7() {
           Beth-el: for it is the kings chapel, and it is the kings court.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This heathen priest, as he speaks of the kings chapel and the
                 kings court, acts as if human authority is everything, and the
                 Lord, of Himself, had no claims on the land or the place.)
@@ -417,7 +417,7 @@ export default function Amos7() {
           herdman, and a gatherer of sycomore fruit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first phrase proclaims the fact that Amos was not a
                 Preacher of his own will, nor of the will of others. He was not
                 meaning that he was not a Prophet, but that his calling was not
@@ -435,7 +435,7 @@ export default function Amos7() {
           Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase proclaims the fact that Prophets are not born
                 such, nor are they self-made, nor made by others. Go, prophesy
                 unto My People Israel, specifies that the Lord gave Amos a
@@ -453,7 +453,7 @@ export default function Amos7() {
           against the house of Isaac.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God had not renounced His Rights as the God of Israel. He
                 called them My People Israel, and, therefore, pronounced this
                 judgment upon Amaziah. Now therefore hear thou the Word of the
@@ -473,7 +473,7 @@ export default function Amos7() {
           captivity forth of his land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If, in Amos, we have an example of a faithful Prophet, in
                 Amaziah, we have an example of an unfaithful priest. The fate
                 predicted for Amaziah was indeed terrible; but we discern in its

@@ -22,7 +22,7 @@ export default function Ezekiel25() {
           Ammonites, and prophesy against them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the country of Ammon, with Rabbah as its chief city, bordered
                 Israel on the east [modern day Jordan]. The Holy Spirit tells
                 Ezekiel: Prophesy against them)
@@ -41,7 +41,7 @@ export default function Ezekiel25() {
           they went into captivity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ammonites rejoiced when Judah and Jerusalem fell. We must
                 learn from this that we should not rejoice when God punishes
                 guilty men, for that will bring His Anger upon those who do so.
@@ -92,7 +92,7 @@ export default function Ezekiel25() {
           fruit, and they shall drink your milk.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The men of the east referred to Babylon. About five years after
                 the destruction of Jerusalem, the Babylonians took Ammon.)
               </span>
@@ -107,7 +107,7 @@ export default function Ezekiel25() {
           know that I Am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Ammon had humiliated Judah, now they would be humiliated.)
               </span>
             </span>
@@ -121,7 +121,7 @@ export default function Ezekiel25() {
           in heart with all your despite against the land of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Stamped with the feet, means that they danced with joy when the
                 Temple was burned and Jerusalem was destroyed)
               </span>
@@ -139,7 +139,7 @@ export default function Ezekiel25() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Exactly as predicted, the Babylonians destroyed Ammon, and the
                 country actually ceased to exist about 300 years later.)
               </span>
@@ -157,7 +157,7 @@ export default function Ezekiel25() {
           heathen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sin of Moab and Seir was like that of Ammon in that they
                 exulted in the fall of Jerusalem)
               </span>
@@ -174,7 +174,7 @@ export default function Ezekiel25() {
           Kiriathaim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moab and Seir bordered Israel on the east and lay immediately
                 south of Ammon)
               </span>
@@ -190,7 +190,7 @@ export default function Ezekiel25() {
           not be remembered among the nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the second time that the Lord says that Ammon will be
                 no more. This is not idle repetition, but to denote the
                 certitude of the promised action.)
@@ -205,7 +205,7 @@ export default function Ezekiel25() {
           Moab; and they shall know that I Am the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As Ammon, the Lord says, So will be Moab.)
               </span>
             </span>
@@ -222,7 +222,7 @@ export default function Ezekiel25() {
           greatly offended, and revenged himself upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judgment is pronounced upon Edom likewise, and for the same sin
                 of rejoicing in the fall of Judah and Jerusalem)
               </span>
@@ -239,7 +239,7 @@ export default function Ezekiel25() {
           Dedan shall fall by the sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Judgment upon Edom is demanded by{" "}
                 <ScrollLink href="/genesis-25" scrollToId="#filepos340369">
                   <span className="calibre_19">
@@ -262,7 +262,7 @@ export default function Ezekiel25() {
           Vengeance, says the Lord GOD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Edom took vengeance upon Judah [
                 <ScrollLink href="/" scrollToId="#filepos9376585">
                   <span className="calibre_19">
@@ -287,7 +287,7 @@ export default function Ezekiel25() {
           despiteful heart, to destroy it for the old hatred.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Old hatred, proclaims the fact that the Philistines and Israel
                 had been enemies for centuries. It is from their name that the
                 modern name Palestine is derived. However, the modern
@@ -305,7 +305,7 @@ export default function Ezekiel25() {
           cut off the Cherethims, and destroy the remnant of the sea coast.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Cherethims are probably the same as the Cherethites [
                 <ScrollLink href="/samuel1-08" scrollToId="#filepos3108927">
                   <span className="calibre_19">
@@ -337,7 +337,7 @@ export default function Ezekiel25() {
           LORD, when I shall lay My Vengeance upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus, these four nations [
                 <ScrollLink href="/" scrollToId="#filepos9373928">
                   <span className="calibre_19">

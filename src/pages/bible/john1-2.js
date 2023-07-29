@@ -66,7 +66,7 @@ export default function John12() {
           <sup className="calibre7">2</sup>And He is the propitiation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(satisfaction)</span>
+              <span className="explanation">(satisfaction)</span>
             </span>
           </span>{" "}
           for our sins: and not for ours only, but also for{" "}
@@ -199,7 +199,7 @@ export default function John12() {
           ought himself also so to walk, even as He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           walked{" "}
@@ -262,7 +262,7 @@ export default function John12() {
           , which thing is true in Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           and in you{" "}
@@ -497,13 +497,13 @@ export default function John12() {
           , the lust of the flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to evil cravings)</span>
+              <span className="explanation">(refers to evil cravings)</span>
             </span>
           </span>
           , and the lust of the eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(craves what it sees)</span>
+              <span className="explanation">(craves what it sees)</span>
             </span>
           </span>
           , and the pride of life{" "}
@@ -826,7 +826,7 @@ export default function John12() {
           received of Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>{" "}
           abides in you{" "}
@@ -867,7 +867,7 @@ export default function John12() {
           , and even as it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Anointing)</span>
+              <span className="explanation">(the Anointing)</span>
             </span>
           </span>{" "}
           has taught you, you shall abide in Him{" "}
@@ -912,7 +912,7 @@ export default function John12() {
           ; that, when He shall appear{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Rapture)</span>
+              <span className="explanation">(the Rapture)</span>
             </span>
           </span>
           , we may have confidence{" "}

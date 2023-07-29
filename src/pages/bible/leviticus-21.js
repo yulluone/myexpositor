@@ -111,7 +111,7 @@ export default function Leviticus21() {
           husband{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(divorced)</span>
+              <span className="explanation">(divorced)</span>
             </span>
           </span>
           : for he is holy unto his God.
@@ -265,7 +265,7 @@ export default function Leviticus21() {
           has a blemish in his eye, or be scurvy, or scabbed, or has his stones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(testicles)</span>
+              <span className="explanation">(testicles)</span>
             </span>
           </span>{" "}
           broken;

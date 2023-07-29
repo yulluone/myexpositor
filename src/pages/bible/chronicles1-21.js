@@ -16,7 +16,7 @@ export default function Chronicles121() {
           and provoked David to number Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/samuel2-24" scrollToId="#filepos3661697">
                   <span className="calibre_19">
@@ -53,7 +53,7 @@ export default function Chronicles121() {
           and bring the number of them to me, that I may know it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What the Philistines, Ammonites, and Syrians failed to effect,
                 this mental weapon of subtle temptation accomplished. It was
                 pride!
@@ -85,7 +85,7 @@ export default function Chronicles121() {
           require this thing? why will he be a cause of trespass to Israel?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was not wrong to take a census; however, to do so,{" "}
                 <ScrollLink href="/exodus-30" scrollToId="#filepos1128782">
                   <span className="calibre_19">
@@ -114,7 +114,7 @@ export default function Chronicles121() {
           and came to Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is doubtful that Joab would have known of the admonition of
                 the payment of the half-shekel, but he felt that what David was
                 doing was wrong, which it was. It seems, as well, that David
@@ -142,7 +142,7 @@ export default function Chronicles121() {
           four hundred threescore and ten thousand men who drew sword.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The numbers do not tally with II Sam., Chpt.{" "}
                 <ScrollLink href="/samuel2-24" scrollToId="#filepos3661462">
                   <span className="calibre_19">
@@ -170,7 +170,7 @@ export default function Chronicles121() {
           among them: for the kings word was abominable to Joab.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joab was a man of the world. He had not the spiritual insight
                 of David; and yet, at times, such will have a better spiritual
                 insight than a self-willed Believer. Such is the case here!)
@@ -188,7 +188,7 @@ export default function Chronicles121() {
           thing; therefore He smote Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord was displeased because David had ignored, when taking
                 the census, the payment of the ransom money of silver, which
                 typified Redemption, which, of course, typified Calvary. The
@@ -209,7 +209,7 @@ export default function Chronicles121() {
           foolishly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Let all know and understand, to treat the Cross with disdain is
                 a great sin. All who ignore the Cross do so foolishly!)
               </span>
@@ -223,7 +223,7 @@ export default function Chronicles121() {
           Seer, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord presently is speaking to His Prophets, at least what
                 precious few there presently are; regrettably, the modern Church
                 is not hearing and obeying the Message, as David did)
@@ -256,7 +256,7 @@ export default function Chronicles121() {
           word I shall bring again to Him Who sent me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, sin has to be addressed, whether in Christ and what
                 He did for us at the Cross, or Judgment upon men. Let all
                 understand, the only answer for sin is the Cross of Christ [
@@ -279,7 +279,7 @@ export default function Chronicles121() {
           great strait{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sin does exactly that; it puts a person in a great strait)
               </span>
             </span>
@@ -288,7 +288,7 @@ export default function Chronicles121() {
           Mercies: but let me not fall into the hand of man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (very bad, at any rate, but an extremely wise choice!)
               </span>
             </span>
@@ -302,7 +302,7 @@ export default function Chronicles121() {
           Israel: and there fell of Israel seventy thousand men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in{" "}
                 <ScrollLink href="/exodus-30" scrollToId="#filepos1128782">
                   <span className="calibre_19">
@@ -330,7 +330,7 @@ export default function Chronicles121() {
           threshingfloor of Ornan the Jebusite.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word repented, as used of the Lord, doesnt mean that God
                 changes, for, in fact, He never changes [
                 <ScrollLink href="/malachi-3" scrollToId="#filepos10808470">
@@ -391,7 +391,7 @@ export default function Chronicles121() {
           upon their faces{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the sackcloth denoted humility and Repentance; God has promised
                 to look with favor at such [
                 <ScrollLink href="/isaiah-66" scrollToId="#filepos8100779">
@@ -417,7 +417,7 @@ export default function Chronicles121() {
           house; but not on Your people, that they should be plagued.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a sense, David stood here similar to Moses, when the Lord
                 was about to destroy them, as it regards the golden calf [
                 <ScrollLink href="/exodus-32" scrollToId="#filepos1153364">
@@ -454,7 +454,7 @@ export default function Chronicles121() {
           the LORD in the threshingfloor of Ornan the Jebusite.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This would be the exact place where the Temple would be built.
                 So, where sin abounded, grace did much more abound [
                 <ScrollLink href="/romans-05" scrollToId="#filepos13345589">
@@ -491,7 +491,7 @@ export default function Chronicles121() {
           Gad, which he spoke in the Name of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the true Prophets of God are saying the same thing presently to
                 the modern Church, Build an Altar; but, regrettably, they are
                 little heeded)
@@ -506,14 +506,16 @@ export default function Chronicles121() {
           <sup className="calibre7">20</sup>And Ornan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who owned the threshingfloor)</span>
+              <span className="explanation">
+                (who owned the threshingfloor)
+              </span>
             </span>
           </span>{" "}
           turned back, and saw the Angel; and his four sons with him hid
           themselves. Now Ornan was threshing wheat.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The picture is striking: the wrath of God about to fall upon
                 the city, the guilty king confessing his sin, the spotless
                 Sacrifice slain, the judgment of God vindicated and honored.
@@ -543,7 +545,7 @@ export default function Chronicles121() {
           himself to David with his face to the ground{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was evidently surprised at seeing the king at this place)
               </span>
             </span>
@@ -568,7 +570,7 @@ export default function Chronicles121() {
           all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems that this Jebusite was very well acquainted with the
                 various Offerings of Israel)
               </span>
@@ -584,7 +586,7 @@ export default function Chronicles121() {
           which is yours for the LORD, nor offer Burnt Offerings without cost{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (sin can never be atoned for without the full price of the Blood
                 of Calvary; the problem with the Church is bloodless altars and
                 a cross-less salvation; in fact, such do not exist; man cannot
@@ -610,7 +612,7 @@ export default function Chronicles121() {
           six hundred shekels of gold by weight{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about $60,000 in 2004 money)</span>
+              <span className="explanation">(about $60,000 in 2004 money)</span>
             </span>
           </span>
         </span>
@@ -624,7 +626,7 @@ export default function Chronicles121() {
           of Burnt Offering.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lightning coming from Heaven and striking the Sacrifice is
                 a picture of Gods Judgment on sin the Judgment, we may quickly
                 add, that should have fallen on David, and on us, for that
@@ -645,7 +647,7 @@ export default function Chronicles121() {
           and he put up his sword again into the sheath thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only thing that stands between Judgment of the entirety of
                 this planet and God Almighty is the Cross of Christ)
               </span>
@@ -661,7 +663,7 @@ export default function Chronicles121() {
           then he sacrificed there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos4589449">
                   <span className="calibre_19">
@@ -685,7 +687,7 @@ export default function Chronicles121() {
           Offering, were at that season in the high place at Gibeon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (about 5 miles northwest of Jerusalem)
               </span>
             </span>
@@ -700,7 +702,7 @@ export default function Chronicles121() {
           the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Tabernacle represented the Law, but Grace and Truth came by
                 Jesus Christ [
                 <ScrollLink href="/john-01" scrollToId="#filepos12292774">

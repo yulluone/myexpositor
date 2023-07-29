@@ -17,7 +17,7 @@ export default function Acts04() {
           upon them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Sadducees almost completely controlled the High Priesthood,
                 and actually most of the Priestly duties of the Temple)
               </span>
@@ -32,13 +32,13 @@ export default function Acts04() {
           people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(worried)</span>
+              <span className="explanation">(worried)</span>
             </span>
           </span>
           , and preached through Jesus the resurrection from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were angry that Jesus and the Resurrection were being
                 preached, which Doctrine the Sadducees denied [
                 <ScrollLink href="/luke-20" scrollToId="#filepos12163739">
@@ -60,7 +60,7 @@ export default function Acts04() {
           <sup className="calibre7">3</sup>And they laid hands on them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(arrested them)</span>
+              <span className="explanation">(arrested them)</span>
             </span>
           </span>
           , and put{" "}
@@ -72,7 +72,7 @@ export default function Acts04() {
           in hold unto the next day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a small prison in the confines of the Temple)
               </span>
             </span>
@@ -86,7 +86,7 @@ export default function Acts04() {
           Word believed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they believed on Christ, thereby accepting Him as the Messiah
                 of Israel and the Saviour of men)
               </span>
@@ -95,7 +95,7 @@ export default function Acts04() {
           ; and the number of the men was about five thousand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to speak only of men, so including women and children, it
                 could have numbered ten thousand or more)
               </span>
@@ -116,7 +116,7 @@ export default function Acts04() {
           Caiaphas, and John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably was Johanan Ben Zakkai, a famous Rabbi of that time)
               </span>
             </span>
@@ -124,7 +124,7 @@ export default function Acts04() {
           , and Alexander{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably was Alexander Lysimachus, one of the richest Jews of
                 his time who contributed very generously to the Temple)
               </span>
@@ -133,7 +133,7 @@ export default function Acts04() {
           , and as many as were of the kindred of the High Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (possibly all five sons of Annas were present)
               </span>
             </span>
@@ -141,7 +141,7 @@ export default function Acts04() {
           , were gathered together at Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (some of them probably didnt live in Jerusalem, but happened to
                 be there at that time)
               </span>
@@ -156,13 +156,13 @@ export default function Acts04() {
           midst{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Peter and John)</span>
+              <span className="explanation">(Peter and John)</span>
             </span>
           </span>
           , they asked, By what power, or by what name, have you done this?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By the crippled man being healed, they already knew the
                 answer.)
               </span>
@@ -176,7 +176,7 @@ export default function Acts04() {
           Spirit, said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit is mentioned in one way or the other in the
                 Book of Acts over fifty times),
               </span>
@@ -185,7 +185,7 @@ export default function Acts04() {
           You Rulers of the people, and Elders of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit, through Peter, is pointing out the
                 responsibility these religious leaders hold as the spiritual
                 guides of the people)
@@ -201,7 +201,7 @@ export default function Acts04() {
           good deed done to the impotent man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Peter, in effect, asking as to how or why a good deed
                 such as this should be questioned at all?!)
               </span>
@@ -210,7 +210,7 @@ export default function Acts04() {
           , by what means he is made whole{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the cause of the attitude and action of the ruling
                 body of Israel)
               </span>
@@ -225,7 +225,7 @@ export default function Acts04() {
           the people of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, Peter will not mince words)
               </span>
             </span>
@@ -233,7 +233,7 @@ export default function Acts04() {
           , that by the Name of Jesus Christ of Nazareth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he desired that there be no mistake as it regards the One of
                 Whom He was speaking; since the Baptism with the Holy Spirit,
                 Peter is not the same man he was when he denied Christ even
@@ -245,7 +245,7 @@ export default function Acts04() {
           , Whom you Crucified{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places the emphasis on the word you, thereby pointedly and
                 directly fastening the terrible sin of Crucifying their Messiah
                 squarely on their shoulders; as stated, he pulled no punches)
@@ -255,7 +255,7 @@ export default function Acts04() {
           , Whom God raised from the dead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims words they certainly didnt want to hear)
               </span>
             </span>
@@ -269,7 +269,7 @@ export default function Acts04() {
           by Him does this man stand here before you whole{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the man was evidently brought with Peter and John before the
                 Council; in essence, Peter is saying that a dead man could not
                 produce these results)
@@ -285,7 +285,7 @@ export default function Acts04() {
           nought of you builders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus is the Stone [
                 <ScrollLink href="/psalm-118" scrollToId="#filepos6532343">
                   <span className="calibre_19">
@@ -301,7 +301,7 @@ export default function Acts04() {
           , which is become the Head of the Corner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel rejected Him, but it did not stop the Plan of God;
                 Israel only succeeded in destroying themselves)
               </span>
@@ -316,7 +316,7 @@ export default function Acts04() {
           other{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims unequivocally that Jesus Alone holds the key to
                 Salvation, and in fact is Salvation)
               </span>
@@ -326,7 +326,7 @@ export default function Acts04() {
           we must be saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(says it all!)</span>
+              <span className="explanation">(says it all!)</span>
             </span>
           </span>
           .
@@ -341,7 +341,7 @@ export default function Acts04() {
           Peter and John{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains not only to what was spoken, but to the power with
                 which it was spoken as well)
               </span>
@@ -351,7 +351,7 @@ export default function Acts04() {
           marveled{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means they had not studied in the Rabbinical Schools; in fact,
                 they were not unlearned and ignorant, but rather the very
                 opposite!)
@@ -361,7 +361,7 @@ export default function Acts04() {
           ; and they took knowledge of them, that they had been with Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this explained it all)</span>
+              <span className="explanation">(this explained it all)</span>
             </span>
           </span>
           .
@@ -373,7 +373,7 @@ export default function Acts04() {
           healed standing with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a beautiful picture!)
               </span>
             </span>
@@ -381,7 +381,7 @@ export default function Acts04() {
           , they could say nothing against it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the proof which was obvious to all!)
               </span>
             </span>
@@ -395,7 +395,7 @@ export default function Acts04() {
           go aside out of the Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that God had left this Council a long time
                 ago)
               </span>
@@ -404,7 +404,7 @@ export default function Acts04() {
           , they conferred among themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but not with the Scriptures)</span>
+              <span className="explanation">(but not with the Scriptures)</span>
             </span>
           </span>
           ,
@@ -416,7 +416,7 @@ export default function Acts04() {
           men?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Why would they want to do anything negative to these men?)
               </span>
             </span>
@@ -433,7 +433,7 @@ export default function Acts04() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (infers that the news of this mans Miraculous Healing had spread
                 far and wide, even in the last few hours).
               </span>
@@ -447,7 +447,7 @@ export default function Acts04() {
           the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (seems to present their greatest fear)
               </span>
             </span>
@@ -456,7 +456,7 @@ export default function Acts04() {
           in this Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (automatically places the situation into a posture which cannot
                 be obeyed)
               </span>
@@ -478,7 +478,7 @@ export default function Acts04() {
           more than unto God, judge ye{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, Peter and John are saying that these religious
                 leaders are not of God, are not doing the Work of God and,
                 consequently, do not have the Mind of God, irrespective of their
@@ -495,7 +495,7 @@ export default function Acts04() {
           which we have seen and heard{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there are two groups of Christians, those who cannot speak and
                 those who cannot but speak)
               </span>
@@ -510,7 +510,7 @@ export default function Acts04() {
           them, they let them go, finding nothing how they might punish them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (what had they done that warranted punishment?)
               </span>
             </span>
@@ -518,7 +518,7 @@ export default function Acts04() {
           , because of the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they feared an uprising)</span>
+              <span className="explanation">(they feared an uprising)</span>
             </span>
           </span>
           : for all{" "}
@@ -530,7 +530,7 @@ export default function Acts04() {
           Glorified God for that which was done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and rightly so!)</span>
+              <span className="explanation">(and rightly so!)</span>
             </span>
           </span>
           .
@@ -542,7 +542,7 @@ export default function Acts04() {
           old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (carries the idea that this man was mature, responsible, and,
                 therefore, could be believed)
               </span>
@@ -559,7 +559,7 @@ export default function Acts04() {
           <sup className="calibre7">23</sup>And being let go{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Peter and John were no longer under arrest)
               </span>
             </span>
@@ -567,7 +567,7 @@ export default function Acts04() {
           , they went to their own company{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably the other Apostles and others, perhaps many others)
               </span>
             </span>
@@ -576,7 +576,7 @@ export default function Acts04() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the first account of opposition against the Early
                 Church; it was not long in coming)
               </span>
@@ -590,13 +590,13 @@ export default function Acts04() {
           <sup className="calibre7">24</sup>And when they heard that{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(heard the account)</span>
+              <span className="explanation">(heard the account)</span>
             </span>
           </span>
           , they lifted up their voice to God with one accord, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all were praying in one way or the other)
               </span>
             </span>
@@ -611,7 +611,7 @@ export default function Acts04() {
           them is{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a compendium of what was said)
               </span>
             </span>
@@ -625,13 +625,13 @@ export default function Acts04() {
           David has said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to the Second Psalm)</span>
+              <span className="explanation">(refers to the Second Psalm)</span>
             </span>
           </span>
           , Why did the heathen rage, and the people imagine vain things?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is used by the Holy Spirit to refer to these religious
                 leaders concerning Jesus. This proclaims the fact that the
                 Messiah is the Person spoken of in the Second Psalm.)
@@ -647,7 +647,7 @@ export default function Acts04() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Psalm speaks of all the opposition against Christ from the
                 very beginning, but more particularly speaks of the coming
                 Antichrist)
@@ -663,7 +663,7 @@ export default function Acts04() {
           Child Jesus, Whom You have anointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Jesus as the fulfillment of all the Prophecies, the
                 Son of God, the Incarnate One, the Saviour of Men)
               </span>
@@ -672,13 +672,13 @@ export default function Acts04() {
           , both Herod, and Pontius Pilate, with the Gentiles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Romans)</span>
+              <span className="explanation">(the Romans)</span>
             </span>
           </span>
           , and the people of Israel, were gathered together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were gathered together for the express purpose of
                 Crucifying Christ)
               </span>
@@ -693,7 +693,7 @@ export default function Acts04() {
           Your Counsel determined before to be done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of predestination concerning Christ, His Death on
                 Calvarys Cross, and His Resurrection from the dead; but again we
                 state that those who were to Crucify Him were not determined by
@@ -710,7 +710,7 @@ export default function Acts04() {
           threatenings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims those praying turning over these rulers and others to
                 the Lord, in order that He may handle the situation)
               </span>
@@ -720,7 +720,7 @@ export default function Acts04() {
           Your Word{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the very opposite of that demanded by the religious
                 leaders of Israel)
               </span>
@@ -735,7 +735,7 @@ export default function Acts04() {
           heal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the request for more Healings and Miracles)
               </span>
             </span>
@@ -744,7 +744,7 @@ export default function Acts04() {
           Child Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all speak of the Power of God, but in the Name of Jesus)
               </span>
             </span>
@@ -758,7 +758,7 @@ export default function Acts04() {
           was shaken where they were assembled together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this literally happened; the assembly place shook, and did so
                 by the Power of God)
               </span>
@@ -767,7 +767,7 @@ export default function Acts04() {
           ; and they were all filled with the Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it means the Holy Spirit was leading and guiding them)
               </span>
             </span>
@@ -775,7 +775,7 @@ export default function Acts04() {
           , and they spoke the Word of God with boldness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord answered their prayer by giving them more boldness,
                 and they did not hesitate to speak accordingly; this is
                 something the modern Church desperately needs as well, and would
@@ -795,7 +795,7 @@ export default function Acts04() {
           believed were of one heart and of one soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of unity which can only be brought about by the Holy
                 Spirit; mans efforts to do such always fall short)
               </span>
@@ -811,7 +811,7 @@ export default function Acts04() {
           all things common{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, this refers to the great persecution suffered by
                 the Believers in Jerusalem at that time; many who came to Christ
                 lost their jobs because they were excommunicated from the
@@ -830,7 +830,7 @@ export default function Acts04() {
           Apostles witness of the Resurrection of the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was done by the Holy Spirit greatly anointing the Apostles
                 to attest to the Resurrection of Christ, and by signs and
                 wonders being performed as well)
@@ -840,7 +840,7 @@ export default function Acts04() {
           : and great Grace was upon them all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is a portrayal of the beginning of the great dispensation of
                 Grace, which actually began on the Day of Pentecost)
               </span>
@@ -855,7 +855,7 @@ export default function Acts04() {
           lacked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who lost their employment, etc., had their needs met)
               </span>
             </span>
@@ -864,7 +864,7 @@ export default function Acts04() {
           brought the prices of the things that were sold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to extra possessions, etc.)
               </span>
             </span>
@@ -883,7 +883,7 @@ export default function Acts04() {
           down at the Apostles feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were entrusted with this largesse)
               </span>
             </span>
@@ -891,7 +891,7 @@ export default function Acts04() {
           : and dis tribution was made unto every man according as he had need{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no hint of communism here, as some have suggested)
               </span>
             </span>
@@ -905,7 +905,7 @@ export default function Acts04() {
           surnamed Barnabas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Barnabas became a Prophet and an Apostle [
                 <ScrollLink href="/acts-13" scrollToId="#filepos12987870">
                   <span className="calibre_19">
@@ -935,7 +935,7 @@ export default function Acts04() {
           of the country of Cyprus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was a Jew who had been born in Cyprus and lived there for a
                 considerable period of time, as likely his father had done
                 before him; being a Levite, he was of the Priestly class,
@@ -963,7 +963,7 @@ export default function Acts04() {
           at the Apostles feet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to property in Cyprus)
               </span>
             </span>

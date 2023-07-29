@@ -19,7 +19,7 @@ export default function Isaiah25() {
           counsels of old are faithfulness and truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Chapter pertains to the coming Millennial morn, when the
                 cause of all suffering will be put away and the cause of all
                 life will be enthroned. He is Christ. The Promises are glorious
@@ -36,7 +36,7 @@ export default function Isaiah25() {
           shall never be built.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The things outlined in this Chapter include the destruction of
                 Babylon, which represents all of mans rebellion against God. It
                 will never be rebuilt. Sin and rebellion have had their day;
@@ -52,13 +52,13 @@ export default function Isaiah25() {
           glorify You, the city of the terrible nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Babylon)</span>
+              <span className="explanation">(Babylon)</span>
             </span>
           </span>{" "}
           shall fear You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Babylon, whether the actual city or the system, is the city
                 indicated in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7522929">
@@ -85,7 +85,7 @@ export default function Isaiah25() {
           as a storm against the wall.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The poor and needy in this Passage refer to Israel in
                 particular and to all who follow the Lord in all ages, in
                 opposition to the strong people and terrible nations in{" "}
@@ -121,7 +121,7 @@ export default function Isaiah25() {
           of a cloud: the branch of the terrible ones shall be brought low.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Prophecy now reverts from the Millennial Reign back to the
                 Battle of Armageddon and the defeat of the Antichrist.)
               </span>
@@ -142,7 +142,7 @@ export default function Isaiah25() {
           refined.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The greatness of this feast is vividly suggested by the way the
                 words are heaped together. This is even more apparent in the
                 Hebrew Text.
@@ -171,7 +171,7 @@ export default function Isaiah25() {
           spread over all nations.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this mountain refers to the headquarters of Christ on Earth,
                 which will be Jerusalem and Mount Zion.
               </span>
@@ -201,7 +201,7 @@ export default function Isaiah25() {
           the LORD has spoken it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The swallowing up of death in victory has to do with the First
                 Resurrection of life. While death will not be taken away totally
                 from the Earth during the Kingdom Age, it definitely will be
@@ -284,7 +284,7 @@ export default function Isaiah25() {
           Salvation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, in that day, place the time factor of this great
                 pronouncement in the Millennium, which is the same as the
                 Kingdom Age.
@@ -325,7 +325,7 @@ export default function Isaiah25() {
           straw is trodden down for the dunghill.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, this mountain refers to Mount Zion in Jerusalem.
                 The first nine Verses of this Chapter contain the song that is
                 to be sung; the last three, faiths subscription as the certitude
@@ -373,7 +373,7 @@ export default function Isaiah25() {
           hands.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ will only have to order the decree and it shall be done;
                 that refers to whatever is needed. All enemies of Righteousness
                 will be put down, and forever.)
@@ -389,7 +389,7 @@ export default function Isaiah25() {
           to the dust.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your walls refer to both Babylon and Moab. Thus, Babylon and
                 Moab are morally united in this Prophecy. Babylon often appears
                 as a political oppressor and Moab as a spiritual corruptor

@@ -17,7 +17,7 @@ export default function Ezra08() {
           Babylon, in the reign of Artaxerxes the king{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the second expedition led from Babylon to Judah, with
                 the first being led by Zerubbabel; there may have been other
                 expeditions; however, only these two are mentioned in Ezra)
@@ -107,7 +107,7 @@ export default function Ezra08() {
           and Zabbud, and with them seventy males.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All these individuals named were guaranteed to be Jews, for
                 their genealogy proves such. All of this was very important,
                 because the Messiah would come through these people. Their going
@@ -131,7 +131,7 @@ export default function Ezra08() {
           of Levi{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as to why this slackness concerning the Levites, we arent told;
                 however, there certainly seemed to have been a special
                 disinclination to return to Jerusalem on the part of most of the
@@ -168,7 +168,7 @@ export default function Ezra08() {
           our God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (persuade Levites to come, who were needed, as it regards the
                 work for the Temple; if everything else in Israel was
                 successful, but yet the House of God was unattended or not
@@ -187,7 +187,7 @@ export default function Ezra08() {
           brethren, eighteen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (with that Good Hand, all things can be done and, without that
                 Good Hand, nothing can be done)
               </span>
@@ -207,7 +207,7 @@ export default function Ezra08() {
           <sup className="calibre7">20</sup>Also of the Nethinims{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the original Nethinims were the Gibeonites of{" "}
                 <ScrollLink href="/joshua-09" scrollToId="#filepos2576657">
                   <span className="calibre_19">
@@ -225,7 +225,7 @@ export default function Ezra08() {
           by name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit wants us to know that each individual person
                 was of great significance, thereby expressed by name)
               </span>
@@ -245,7 +245,7 @@ export default function Ezra08() {
           our substance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this fast was probably for one day, with the entire group
                 giving themselves to seeking the Lord, as it regarded His
                 Leading and Guidance pertaining to the long journey ahead of
@@ -265,7 +265,7 @@ export default function Ezra08() {
           wrath is against all them who forsake Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezra had boasted to Artaxerxes, and rightly so, of the power
                 and goodness of God, and had spoken of himself and his brethren
                 as being assured of the Divine protection, hence him not asking
@@ -316,7 +316,7 @@ export default function Ezra08() {
           thousand drams; and two vessels of fine copper, precious as gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this was worth, in 2004 currency, approximately $100
                 million, or even more; so it is easy to understand how this
                 would be a tempting target for robbers.)
@@ -331,7 +331,7 @@ export default function Ezra08() {
           unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the men appointed of{" "}
                 <ScrollLink href="/" scrollToId="#filepos5104993">
                   <span className="calibre_19">
@@ -363,7 +363,7 @@ export default function Ezra08() {
           to Jerusalem unto the House of our God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (consecrated to God by their Office, the Priests and Levites
                 were the fitting custodians of consecrated things)
               </span>
@@ -383,7 +383,7 @@ export default function Ezra08() {
           the enemy, and of such as lay in wait by the way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(robbers!)</span>
+              <span className="explanation">(robbers!)</span>
             </span>
           </span>
           .
@@ -395,7 +395,7 @@ export default function Ezra08() {
           there three days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this tells us that they all arrived safely; in fact, more than
                 likely most, if not all, of the people with Ezra had never seen
                 Jerusalem, having been born in Babylon)
@@ -414,7 +414,7 @@ export default function Ezra08() {
           Noadiah the son of Binnui, Levites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezras businesslike action should be followed by all Christian
                 people in money matters, both secular and spiritual)
               </span>
@@ -438,7 +438,7 @@ export default function Ezra08() {
           Sin Offering: all this was a Burnt Offering unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on reaching Jerusalem, they hasted to offer up Burnt Offerings
                 and Sin Offerings in great number; that is, they proclaimed that
                 despite their faith, their praying, their fasting, and their
@@ -458,7 +458,7 @@ export default function Ezra08() {
           side the river{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the west side of Jordan)</span>
+              <span className="explanation">(the west side of Jordan)</span>
             </span>
           </span>
           : and they furthered the people, and the House of God.

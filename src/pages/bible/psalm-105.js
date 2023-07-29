@@ -533,19 +533,19 @@ export default function Psalm105() {
           <sup className="calibre7">24</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           increased His People{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>{" "}
           greatly; and made them stronger than their enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(stronger than Egypt)</span>
+              <span className="explanation">(stronger than Egypt)</span>
             </span>
           </span>
           .
@@ -595,19 +595,19 @@ export default function Psalm105() {
           <sup className="calibre7">27</sup>They{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses and Aaron)</span>
+              <span className="explanation">(Moses and Aaron)</span>
             </span>
           </span>{" "}
           showed His{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lords)</span>
+              <span className="explanation">(the Lords)</span>
             </span>
           </span>{" "}
           signs among them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(among the Egyptians)</span>
+              <span className="explanation">(among the Egyptians)</span>
             </span>
           </span>
           , and wonders in the land of Ham{" "}
@@ -721,7 +721,7 @@ export default function Psalm105() {
           flaming fire in their land{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(turned the rain to hail)</span>
+              <span className="explanation">(turned the rain to hail)</span>
             </span>
           </span>
           .

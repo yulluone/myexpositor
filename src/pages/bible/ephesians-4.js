@@ -15,7 +15,7 @@ export default function Ephesians4() {
           <sup className="calibre7">1</sup>I therefore, the prisoner of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, the Apostle is in prison in Rome; he regards himself
                 as having been made a prisoner because the Lord so willed and
                 ordered it)
@@ -26,7 +26,7 @@ export default function Ephesians4() {
           called{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the order of ones behavior; to walk right, the
                 Believer must walk after the Spirit, which can only be done by
                 understanding that all strength and help come to us through the
@@ -43,7 +43,7 @@ export default function Ephesians4() {
           longsuffering, forbearing one another in love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, all of these things are works of the Spirit, which
                 means they cannot be done within our own ability; the help of
                 the Spirit comes to us by our Faith being constant in the Cross
@@ -82,7 +82,7 @@ export default function Ephesians4() {
           Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of unity as it regards Faith in Christ and the Cross)
               </span>
             </span>
@@ -90,7 +90,7 @@ export default function Ephesians4() {
           in the bond of peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith in things other than Christ and the Cross destroys peace,
                 because it engenders self-righteousness)
               </span>
@@ -110,7 +110,7 @@ export default function Ephesians4() {
           one body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the body of called-out Believers)
               </span>
             </span>
@@ -118,7 +118,7 @@ export default function Ephesians4() {
           , and one Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one Holy Spirit, Who always works through Christ and the Cross
                 [
                 <ScrollLink href="/john-16" scrollToId="#filepos12641775">
@@ -136,7 +136,7 @@ export default function Ephesians4() {
           , even as you are called in one hope of your calling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our total hope is in Christ Jesus and what He has done for us
                 at the Cross; that is our one and only hope)
               </span>
@@ -150,19 +150,19 @@ export default function Ephesians4() {
           <sup className="calibre7">5</sup>One Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jesus Christ)</span>
+              <span className="explanation">(Jesus Christ)</span>
             </span>
           </span>
           , one Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what He did at the Cross)</span>
+              <span className="explanation">(what He did at the Cross)</span>
             </span>
           </span>
           , one Baptism{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our Salvation, referring to Believers Baptized into Christ,
                 which was done at the Cross; it has nothing to do with Water
                 Baptism [
@@ -185,7 +185,7 @@ export default function Ephesians4() {
           <sup className="calibre7">6</sup>One God and Father of all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the Redeemed only; God is not the Father of the
                 unsaved, as Jesus plainly said; their father is actually the
                 Devil [
@@ -209,19 +209,19 @@ export default function Ephesians4() {
           above all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to supremacy)</span>
+              <span className="explanation">(refers to supremacy)</span>
             </span>
           </span>
           , and through all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gods creative abilities)</span>
+              <span className="explanation">(Gods creative abilities)</span>
             </span>
           </span>
           , and in you all{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by virtue of what Christ did for us at the Cross, and our Faith
                 in that Finished Work)
               </span>
@@ -239,7 +239,7 @@ export default function Ephesians4() {
           Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (however, this Grace can be frustrated by Believers turning away
                 from the Cross to other things [
                 <ScrollLink href="/galatians-2" scrollToId="#filepos13933223">
@@ -256,7 +256,7 @@ export default function Ephesians4() {
           according to the measure of the Gift of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (measured to each Saint according to need unless, as stated, it
                 is frustrated)
               </span>
@@ -270,7 +270,7 @@ export default function Ephesians4() {
           <sup className="calibre7">8</sup>Wherefore He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/psalm-068" scrollToId="#filepos6104594">
                   <span className="calibre_19">
@@ -286,13 +286,13 @@ export default function Ephesians4() {
           , When He ascended up on high{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ascension)</span>
+              <span className="explanation">(the Ascension)</span>
             </span>
           </span>
           , He led captivity captive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (liberated the souls in Paradise; before the Cross, despite
                 being Believers, they were still held captive by Satan because
                 the blood of bulls and goats could not take away the sin debt;
@@ -304,7 +304,7 @@ export default function Ephesians4() {
           , and gave Gifts unto men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Gifts include all the Attributes of Christ, all made
                 possible by the Cross.)
               </span>
@@ -317,14 +317,14 @@ export default function Ephesians4() {
           <sup className="calibre7">9</sup>(Now that He ascended{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(mission completed)</span>
+              <span className="explanation">(mission completed)</span>
             </span>
           </span>
           , what is it but that He also descended first into the lower parts of
           the earth?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Immediately before His Ascension to Glory, which would be done
                 in total triumph, He first went down into Paradise to deliver
                 all the believing souls in that region, which He did!)
@@ -339,7 +339,7 @@ export default function Ephesians4() {
           Who ascended{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is a portrayal of Jesus as Deliverer and Mediator)
               </span>
             </span>
@@ -347,7 +347,7 @@ export default function Ephesians4() {
           up far above all Heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents His present location, never again having to descend
                 into the nether world)
               </span>
@@ -356,7 +356,7 @@ export default function Ephesians4() {
           , that He might fill all things.){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He has always been the Creator, but now He is also the
                 Saviour.)
               </span>
@@ -369,13 +369,13 @@ export default function Ephesians4() {
           <sup className="calibre7">11</sup>And He gave{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our Lord does the calling)</span>
+              <span className="explanation">(our Lord does the calling)</span>
             </span>
           </span>{" "}
           some, Apostles{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has reference to the fact that not all who are called to be
                 Ministers will be called to be Apostles; this applies to the
                 other designations as well; Apostles serve as the de facto
@@ -387,7 +387,7 @@ export default function Ephesians4() {
           ; and some, Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (who stand in the Office of the Prophet, thereby, foretelling
                 and forthtelling)
               </span>
@@ -396,19 +396,19 @@ export default function Ephesians4() {
           ; and some, Evangelists{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to gather the harvest)</span>
+              <span className="explanation">(to gather the harvest)</span>
             </span>
           </span>
           ; and some, Pastors{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Shepherds)</span>
+              <span className="explanation">(Shepherds)</span>
             </span>
           </span>{" "}
           and Teachers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those with a special Ministry to teach the Word to the Body of
                 Christ; Apostles can and do function in all of the callings)
               </span>
@@ -425,13 +425,13 @@ export default function Ephesians4() {
           <sup className="calibre7">12</sup>For the perfecting of the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to equip for service)</span>
+              <span className="explanation">(to equip for service)</span>
             </span>
           </span>
           , for the work of the Ministry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to proclaim the Message of Redemption to the entirety of the
                 world)
               </span>
@@ -440,7 +440,7 @@ export default function Ephesians4() {
           , for the edifying of the Body of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for the spiritual building up of the Church)
               </span>
             </span>
@@ -454,7 +454,7 @@ export default function Ephesians4() {
           Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to bring all Believers to a proper knowledge of Christ and the
                 Cross)
               </span>
@@ -463,7 +463,7 @@ export default function Ephesians4() {
           , and of the knowledge of the Son of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which again refers to what He did for us at the Cross)
               </span>
             </span>
@@ -471,7 +471,7 @@ export default function Ephesians4() {
           , unto a perfect man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Believer who functions in maturity)
               </span>
             </span>
@@ -479,7 +479,7 @@ export default function Ephesians4() {
           , unto the measure of the stature of the fulness of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the measure is the fullness of Christ, which can only be
                 attained by a proper Faith in the Cross)
               </span>
@@ -499,7 +499,7 @@ export default function Ephesians4() {
           be no more children{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the opposite of maturity, and speaks of those whose
                 Faith is in that other than the Cross)
               </span>
@@ -509,7 +509,7 @@ export default function Ephesians4() {
           the sleight of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan uses Preachers)</span>
+              <span className="explanation">(Satan uses Preachers)</span>
             </span>
           </span>
           ,{" "}
@@ -521,7 +521,7 @@ export default function Ephesians4() {
           cunning craftiness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they make a way, other than the Cross, which seems to be right)
               </span>
             </span>
@@ -529,7 +529,7 @@ export default function Ephesians4() {
           , whereby they lie in wait to deceive{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to a deliberate planning or system)
               </span>
             </span>
@@ -542,7 +542,7 @@ export default function Ephesians4() {
           <sup className="calibre7">15</sup>But speaking the Truth in Love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (powerfully proclaiming the Truth of the Cross, but always with
                 Love)
               </span>
@@ -551,7 +551,7 @@ export default function Ephesians4() {
           , may grow up into Him in all things{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proper Spiritual Growth can take place only according to proper
                 Faith in the Cross [
                 <ScrollLink
@@ -599,7 +599,7 @@ export default function Ephesians4() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is the Head of the Church, and is such by virtue of the
                 Cross)
               </span>
@@ -613,13 +613,13 @@ export default function Ephesians4() {
           <sup className="calibre7">16</sup>From Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ Jesus)</span>
+              <span className="explanation">(Christ Jesus)</span>
             </span>
           </span>{" "}
           the whole body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ as the Head, and the Church as the Body)
               </span>
             </span>
@@ -627,7 +627,7 @@ export default function Ephesians4() {
           fitly joined together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the foot in the place it ought to be, and the eye in
                 its proper place, etc.)
               </span>
@@ -636,7 +636,7 @@ export default function Ephesians4() {
           and compacted by that which every joint supplies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (one part is dependent on the other)
               </span>
             </span>
@@ -644,7 +644,7 @@ export default function Ephesians4() {
           , according to the effectual working in the measure of every part{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (every part labors to produce a great result)
               </span>
             </span>
@@ -652,7 +652,7 @@ export default function Ephesians4() {
           , making increase of the body unto the edifying of itself in love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (building itself up; will happen when we function according to
                 Gods Prescribed Order, which is the unity of the Faith; again,
                 refers to a proper understanding of the Cross)
@@ -671,7 +671,7 @@ export default function Ephesians4() {
           the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (given to him by the Lord as it regards our everyday lifestyle)
               </span>
             </span>
@@ -679,13 +679,15 @@ export default function Ephesians4() {
           , that you henceforth walk not as other Gentiles walk{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(how one orders ones behavior)</span>
+              <span className="explanation">
+                (how one orders ones behavior)
+              </span>
             </span>
           </span>
           , in the vanity of their mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to living in the sphere of emptiness; it denotes an
                 ignorance of Divine things, a moral blindness)
               </span>
@@ -699,7 +701,7 @@ export default function Ephesians4() {
           <sup className="calibre7">18</sup>Having the understanding darkened{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of a process completed in the past [the Fall] but having
                 results in the present)
               </span>
@@ -708,7 +710,7 @@ export default function Ephesians4() {
           , being alienated from the life of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the only true life there is)
               </span>
             </span>
@@ -716,7 +718,7 @@ export default function Ephesians4() {
           through the ignorance that is in them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does not refer merely to intellect, but denotes an ignorance of
                 Divine things)
               </span>
@@ -725,7 +727,7 @@ export default function Ephesians4() {
           , because of the blindness of their heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is a willful ignorance which brings about a willful
                 blindness, i.e., spiritual blindness)
               </span>
@@ -739,7 +741,7 @@ export default function Ephesians4() {
           <sup className="calibre7">19</sup>Who being past feeling{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (moral insensibility, which brings about mans inhumanity to man)
               </span>
             </span>
@@ -747,7 +749,7 @@ export default function Ephesians4() {
           have given themselves over unto lasciviousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a complete surrender of self unto evil)
               </span>
             </span>
@@ -755,7 +757,7 @@ export default function Ephesians4() {
           , to work all uncleanness with greediness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (such a person is greedy for such a lifestyle)
               </span>
             </span>
@@ -768,7 +770,7 @@ export default function Ephesians4() {
           <sup className="calibre7">20</sup>But you have not so learned Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (stands in contrast to the insensitive, passion-dominated pagans
                 who exist only to satisfy their lower nature; in other words,
                 the Lord saves us from sin, not in sin)
@@ -783,7 +785,7 @@ export default function Ephesians4() {
           <sup className="calibre7">21</sup>If so be that you have heard Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the point is, Since it was Christ you heard Preached)
               </span>
             </span>
@@ -791,7 +793,7 @@ export default function Ephesians4() {
           , and have been taught by Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, in Him, i.e., in this sphere of
                 Christ)
               </span>
@@ -800,7 +802,7 @@ export default function Ephesians4() {
           , as the Truth is in Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Truth is not only in Jesus, it as well is Jesus [
                 <ScrollLink href="/john-14" scrollToId="#filepos12603646">
                   <span className="calibre_19">
@@ -821,7 +823,7 @@ export default function Ephesians4() {
           <sup className="calibre7">22</sup>That you put off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which can be done only by one placing his Faith exclusively in
                 the Cross)
               </span>
@@ -830,7 +832,7 @@ export default function Ephesians4() {
           concerning the former conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerning the former manner of life)
               </span>
             </span>
@@ -838,7 +840,7 @@ export default function Ephesians4() {
           the old man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the unsaved person dominated by the totally depraved
                 nature [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13350311">
@@ -855,7 +857,7 @@ export default function Ephesians4() {
           , which is corrupt according to the deceitful lusts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the unsaved person is subject to a continuous process of
                 corruption, which grows worse as time goes on)
               </span>
@@ -869,13 +871,13 @@ export default function Ephesians4() {
           <sup className="calibre7">23</sup>And be renewed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a continuous act)</span>
+              <span className="explanation">(a continuous act)</span>
             </span>
           </span>{" "}
           in the spirit of your mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (has to do with the human will; the mind of the Believer must be
                 pulled from a dependence on self to a total dependence on
                 Christ, which can only be done by making the Cross, ever the
@@ -899,7 +901,7 @@ export default function Ephesians4() {
           <sup className="calibre7">24</sup>And that you put on the new man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are a new man by virtue of being Baptized into His Death,
                 Buried with Him by Baptism into Death, all speaking of the
                 Crucifixion, and being Raised with Him in newness of life [
@@ -917,7 +919,7 @@ export default function Ephesians4() {
           , which after God is created in Righteousness and true Holiness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is what the new man is supposed to be, and what he can be,
                 but only by reckoning himself to be dead indeed unto the sin
                 nature [which was done at the Cross], but alive unto God through
@@ -940,7 +942,7 @@ export default function Ephesians4() {
           <sup className="calibre7">25</sup>Wherefore putting away lying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first item to be included in the putting off of the old
                 self is falsehood, which refers to believing something other
                 than Christ and the Cross; in other words, everything other than
@@ -951,7 +953,7 @@ export default function Ephesians4() {
           , speak every man truth with his neighbour{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Truth is Christ and the Cross, which brings about
                 Righteousness and True Holiness)
               </span>
@@ -960,7 +962,7 @@ export default function Ephesians4() {
           : for we are members one of another.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Therefore, we should all speak the same thing, which is Christ
                 and the Cross.)
               </span>
@@ -974,7 +976,7 @@ export default function Ephesians4() {
           the sun go down upon your wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the only anger allowed is Righteous anger; all other anger is a
                 result of the old man, and must be put off; it has to do
                 basically with our emotions, which can only be properly settled
@@ -991,7 +993,7 @@ export default function Ephesians4() {
           <sup className="calibre7">27</sup>Neither give place to the Devil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith properly placed in the Cross gives Satan no place.)
               </span>
             </span>
@@ -1003,7 +1005,7 @@ export default function Ephesians4() {
           <sup className="calibre7">28</sup>Let him who stole steal no more{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christlikeness gives high moral standards)
               </span>
             </span>
@@ -1017,7 +1019,7 @@ export default function Ephesians4() {
           hands the thing which is good{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are to earn our living by whatever honest method is at our
                 disposal)
               </span>
@@ -1026,7 +1028,7 @@ export default function Ephesians4() {
           , that he may have to give to him who needs.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Instead of taking from others, we can now give to others.)
               </span>
             </span>
@@ -1039,7 +1041,7 @@ export default function Ephesians4() {
           out of your mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (let no slander or faithlessness proceed out of your mouth)
               </span>
             </span>
@@ -1047,7 +1049,7 @@ export default function Ephesians4() {
           , but that which is good to the use of edifying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (does what we are saying buildup or tear down?)
               </span>
             </span>
@@ -1055,7 +1057,7 @@ export default function Ephesians4() {
           , that it may Minister Grace unto the hearers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Blessing)</span>
+              <span className="explanation">(a Blessing)</span>
             </span>
           </span>
           .
@@ -1067,7 +1069,7 @@ export default function Ephesians4() {
           God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the utterance of evil or worthless
                 words is repugnant to the Holiness of the Spirit)
               </span>
@@ -1076,7 +1078,7 @@ export default function Ephesians4() {
           , whereby you are sealed unto the Day of Redemption.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This should have been translated, In Whom you are sealed unto
                 the Day of Redemption. The Holy Spirit is Himself the Seal God
                 has placed on us.)
@@ -1092,7 +1094,7 @@ export default function Ephesians4() {
           malice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as the Believer puts His Faith in the Cross and keeps his Faith
                 in the Cross, giving the Holy Spirit latitude to work, these
                 evil things can then be put away from our lives)
@@ -1108,13 +1110,13 @@ export default function Ephesians4() {
           tenderhearted, forgiving one another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be quick to forgive)</span>
+              <span className="explanation">(be quick to forgive)</span>
             </span>
           </span>
           , even as God for Christs sake has forgiven you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christs forgiveness of us is to always be the basis of our
                 forgiveness of others.)
               </span>

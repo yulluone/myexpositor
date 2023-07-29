@@ -41,7 +41,7 @@ export default function Judges20() {
           the people of God, four hundred thousand footmen who drew sword{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it was a mighty gathering)</span>
+              <span className="explanation">(it was a mighty gathering)</span>
             </span>
           </span>
         </span>
@@ -491,7 +491,7 @@ export default function Judges20() {
           Gibeah in the field, about thirty men of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 30 were killed)</span>
+              <span className="explanation">(about 30 were killed)</span>
             </span>
           </span>
         </span>
@@ -567,7 +567,7 @@ export default function Judges20() {
           because they trusted unto the liers in wait{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in ambush)</span>
+              <span className="explanation">(in ambush)</span>
             </span>
           </span>{" "}
           which they had set beside Gibeah.
@@ -616,13 +616,13 @@ export default function Judges20() {
           battle overtook them; and them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Benjamites)</span>
+              <span className="explanation">(the Benjamites)</span>
             </span>
           </span>{" "}
           which came out of the cities they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the men of Israel)</span>
+              <span className="explanation">(the men of Israel)</span>
             </span>
           </span>{" "}
           destroyed in the midst of them.

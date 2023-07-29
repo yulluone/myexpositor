@@ -25,7 +25,7 @@ export default function Thessalonians11() {
           , that it was not in vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it brought forth much fruit)</span>
+              <span className="explanation">(it brought forth much fruit)</span>
             </span>
           </span>
           :
@@ -66,19 +66,19 @@ export default function Thessalonians11() {
           not of deceit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(no ulterior motives)</span>
+              <span className="explanation">(no ulterior motives)</span>
             </span>
           </span>
           , nor of uncleanness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(impure motives)</span>
+              <span className="explanation">(impure motives)</span>
             </span>
           </span>
           , nor in guile{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(trickery)</span>
+              <span className="explanation">(trickery)</span>
             </span>
           </span>
           :
@@ -136,7 +136,7 @@ export default function Thessalonians11() {
           witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to pretense)</span>
+              <span className="explanation">(refers to pretense)</span>
             </span>
           </span>
           :
@@ -380,7 +380,7 @@ export default function Thessalonians11() {
           of the Jews{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(pertains to persecution)</span>
+              <span className="explanation">(pertains to persecution)</span>
             </span>
           </span>
           :
@@ -540,7 +540,9 @@ export default function Thessalonians11() {
           <sup className="calibre7">20</sup>For you are our glory and joy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what Christ had made of them)</span>
+              <span className="explanation">
+                (what Christ had made of them)
+              </span>
             </span>
           </span>
           .

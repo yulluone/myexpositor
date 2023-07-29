@@ -18,7 +18,7 @@ export default function Genesis22() {
           things, that God did tempt Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the word tempt should have been translated test or prove, for
                 thats what it means in the Hebrew; it is a high honor to be
                 tested by God)
@@ -34,7 +34,7 @@ export default function Genesis22() {
           only son Isaac, whom you love{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the first mention of love in the Bible)
               </span>
             </span>
@@ -42,7 +42,7 @@ export default function Genesis22() {
           , and go into the land of Moriah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the name Moriah means Jehovah is Provider)
               </span>
             </span>
@@ -51,7 +51,7 @@ export default function Genesis22() {
           which I will tell you of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (human sacrifice was abhorrent to the nature of Jehovah, so the
                 Patriarch must now prove to himself that what he is hearing is
                 definitely from God; this abject lesson, perhaps the greatest in
@@ -70,7 +70,7 @@ export default function Genesis22() {
           morning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(prompt obedience)</span>
+              <span className="explanation">(prompt obedience)</span>
             </span>
           </span>
           , and saddled his ass, and took two of his young men with him, and
@@ -78,7 +78,7 @@ export default function Genesis22() {
           and went unto the place of which God had told him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (For the salvation of humanity, human sacrifice was demanded,
                 because the blood of bulls and goats could not take away sins [
                 <ScrollLink href="/hebrews-10" scrollToId="#filepos14535942">
@@ -109,7 +109,7 @@ export default function Genesis22() {
           up his eyes, and saw the place afar off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was no doubt the longest three days of Abrahams life)
               </span>
             </span>
@@ -124,7 +124,7 @@ export default function Genesis22() {
           worship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (praise is what we do, while worship is what we are; every part
                 and particle of our life and living should be worship of the
                 Lord; while all worship is not praise, all praise definitely is
@@ -136,7 +136,7 @@ export default function Genesis22() {
           , and come again to you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he believed that God would raise the boy from the dead)
               </span>
             </span>
@@ -150,7 +150,7 @@ export default function Genesis22() {
           Burnt Offering, and laid it upon Isaac his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (symbolic of Christ carrying the Cross [
                 <ScrollLink href="/john-19" scrollToId="#filepos12699041">
                   <span className="calibre_19">
@@ -166,7 +166,7 @@ export default function Genesis22() {
           ; and he took the fire in his hand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of the judgment of God which would fall upon Christ
                 instead of upon sinful man)
               </span>
@@ -175,7 +175,7 @@ export default function Genesis22() {
           , and a knife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (symbolic of the death that Christ would die)
               </span>
             </span>
@@ -183,7 +183,7 @@ export default function Genesis22() {
           ; and they went both of them together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God was in Christ, reconciling the world unto Himself [
                 <ScrollLink
                   href="/corinthians2-05"
@@ -208,7 +208,7 @@ export default function Genesis22() {
           father, and said, My father{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac, as the unresisting Burnt Offering, is a striking Type of
                 Him Who said, I delight to do Your Will, O My God)
               </span>
@@ -218,7 +218,7 @@ export default function Genesis22() {
           wood: but where is the lamb for a Burnt Offering?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (John the Baptist would answer that question by saying, Behold
                 the Lamb of God, Which takes away the sin of the world [
                 <ScrollLink href="/john-01" scrollToId="#filepos12298674">
@@ -241,7 +241,7 @@ export default function Genesis22() {
           together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaac was to be a Type of the Son of God, provided by the Lord,
                 Who would redeem mankind by the giving of Himself in Sacrifice
                 on the Cross.)
@@ -259,7 +259,7 @@ export default function Genesis22() {
           had told him of{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this would be the place of the threshingfloor which David
                 bought, and where Solomons Temple would be built)
               </span>
@@ -268,7 +268,7 @@ export default function Genesis22() {
           ; and Abraham built an Altar there{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is believed that the Holy of Holies, which contained the Ark
                 of the Covenant in the Temple, was built over this exact spot)
               </span>
@@ -277,13 +277,13 @@ export default function Genesis22() {
           , and laid the wood in order{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signifying the Cross)</span>
+              <span className="explanation">(signifying the Cross)</span>
             </span>
           </span>
           , and bound Isaac his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of Jesus being nailed to the Cross)
               </span>
             </span>
@@ -291,7 +291,7 @@ export default function Genesis22() {
           , and laid him on the Altar upon the wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of Jesus stretched on the Cross)
               </span>
             </span>
@@ -305,7 +305,7 @@ export default function Genesis22() {
           hand, and took the knife to slay his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (perhaps the Lord asked more of Abraham than He has ever asked
                 of any man; when Abraham took the knife, his surrender was
                 complete)
@@ -320,13 +320,13 @@ export default function Genesis22() {
           <sup className="calibre7">11</sup>And the Angel of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was the Lord Himself)</span>
+              <span className="explanation">(this was the Lord Himself)</span>
             </span>
           </span>{" "}
           called unto him out of heaven, and said, Abraham, Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He Who said, Abraham, Abraham, was the same One Who said,
                 Martha, Martha, Simon, Simon, and Saul, Saul; the repetition
                 denotes urgency)
@@ -336,7 +336,7 @@ export default function Genesis22() {
           : and he said, Here am I.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It was the trial that God intended, not the act.)
               </span>
             </span>
@@ -349,7 +349,7 @@ export default function Genesis22() {
           the lad, neither do you anything unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham didnt have to kill the boy to prove himself to God, but
                 he had to fully intend to do so, and that he did!)
               </span>
@@ -359,7 +359,7 @@ export default function Genesis22() {
           son, your only son from Me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, for I the knowing One knew that
                 you feared God, and that you would not withhold your son, your
                 only son, from Me)
@@ -375,7 +375,7 @@ export default function Genesis22() {
           looked, and behold behind him a ram caught in a thicket by his horns{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is the doctrine of Substitution plainly laid out; the ram
                 was offered up in Sacrifice instead of his son; likewise, Jesus
                 was offered up as our Substitute)
@@ -386,7 +386,7 @@ export default function Genesis22() {
           Offering in the stead of his son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even though the Doctrine of Substitution is clearly set forth
                 here, its corresponding Doctrine of Identification is not so
                 clearly stated, that awaiting Moses [
@@ -411,7 +411,7 @@ export default function Genesis22() {
           place Jehovah-jireh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning the Lord will provide)
               </span>
             </span>
@@ -419,7 +419,7 @@ export default function Genesis22() {
           : as it is said to this day, In the mount of the LORD it shall be seen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should read in this mount Jehovah shall be seen; this was
                 fulfilled in{" "}
                 <ScrollLink href="/samuel2-24" scrollToId="#filepos3673742">
@@ -461,7 +461,7 @@ export default function Genesis22() {
           unto Abraham out of heaven the second time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this will involve Revelation; however, let the Reader
                 understand that the Revelation is entirely dependent upon the
                 Substitution; in other words, No Cross, no Revelation!)
@@ -478,7 +478,7 @@ export default function Genesis22() {
           withheld your son, your only son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (while Isaac wasnt sacrificed, actually in a figure he was and,
                 as well, in a figure raised from the dead [
                 <ScrollLink href="/hebrews-11" scrollToId="#filepos14564872">
@@ -500,7 +500,7 @@ export default function Genesis22() {
           <sup className="calibre7">17</sup>That in blessing I will bless you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (blessing always refers to increase)
               </span>
             </span>
@@ -509,7 +509,7 @@ export default function Genesis22() {
           heaven, and as the sand which is upon the sea shore{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this includes the Church as well, and for all time)
               </span>
             </span>
@@ -517,7 +517,7 @@ export default function Genesis22() {
           ; and your seed shall possess the gate of his enemies{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of Jesus Christ defeating Satan, and doing so by
                 removing Satans legal right to hold man in bondage, which legal
                 right is sin; Jesus did it at the Cross; there the gates of Hell
@@ -542,7 +542,7 @@ export default function Genesis22() {
           nations of the Earth be blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Seed is the Lord Jesus Christ [
                 <ScrollLink href="/galatians-3" scrollToId="#filepos13942488">
                   <span className="calibre_19">
@@ -558,7 +558,7 @@ export default function Genesis22() {
           ; because you have obeyed My Voice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (obedience to the Word of God is the requirement)
               </span>
             </span>
@@ -573,7 +573,7 @@ export default function Genesis22() {
           dwelt at Beer-sheba.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The return of Abraham to Beer-sheba with Isaac had to be the
                 happiest journey that Abraham ever took. It was truly a journey
                 of victory.)
@@ -589,7 +589,7 @@ export default function Genesis22() {
           born children unto your brother Nahor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Chapter concludes with an account of Nahors family, who
                 settle at Haran [
                 <ScrollLink href="/genesis-12" scrollToId="#filepos156936">

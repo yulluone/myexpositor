@@ -56,7 +56,7 @@ export default function Job31() {
           all my steps?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(The Lord sees all!)</span>
+              <span className="explanation">(The Lord sees all!)</span>
             </span>
           </span>
         </span>
@@ -344,7 +344,7 @@ export default function Job31() {
           or the moon walking in brightness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not guilty of idolatry)</span>
+              <span className="explanation">(not guilty of idolatry)</span>
             </span>
           </span>
           ;
@@ -503,7 +503,7 @@ export default function Job31() {
           <sup className="calibre7">37</sup>I would declare unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(my adversary)</span>
+              <span className="explanation">(my adversary)</span>
             </span>
           </span>{" "}
           the number of my steps; as a prince would I go near unto him{" "}

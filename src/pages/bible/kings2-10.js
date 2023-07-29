@@ -219,7 +219,7 @@ export default function Kings210() {
           to Samaria{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the capital of Israel)</span>
+              <span className="explanation">(the capital of Israel)</span>
             </span>
           </span>
           . And as he was at the shearing house in the way,
@@ -232,7 +232,7 @@ export default function Kings210() {
           are the brethren of Ahaziah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who had been king of Judah)</span>
+              <span className="explanation">(who had been king of Judah)</span>
             </span>
           </span>
           ; and we go down to salute the children of the king and the children
@@ -302,13 +302,13 @@ export default function Kings210() {
           my zeal for the LORD. So they made him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehonadab)</span>
+              <span className="explanation">(Jehonadab)</span>
             </span>
           </span>{" "}
           ride in his{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jehus)</span>
+              <span className="explanation">(Jehus)</span>
             </span>
           </span>{" "}
           chariot{" "}
@@ -497,7 +497,7 @@ export default function Kings210() {
           unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(made it into a garbage dump)</span>
+              <span className="explanation">(made it into a garbage dump)</span>
             </span>
           </span>
           .

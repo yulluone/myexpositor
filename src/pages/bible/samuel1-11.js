@@ -101,7 +101,7 @@ export default function Samuel111() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(unto Nahash)</span>
+              <span className="explanation">(unto Nahash)</span>
             </span>
           </span>
           , Give us seven days respite, that we may send messengers unto all the
@@ -131,7 +131,7 @@ export default function Samuel111() {
           out of the field{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saul had been plowing)</span>
+              <span className="explanation">(Saul had been plowing)</span>
             </span>
           </span>
           ; and Saul said, What ails the people that they weep? And they told
@@ -169,7 +169,7 @@ export default function Samuel111() {
           them in pieces, and sent them throughout all the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Israel by the hands of messengers, saying, Whosoever comes not
@@ -216,7 +216,7 @@ export default function Samuel111() {
           <sup className="calibre7">8</sup>And when he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Saul)</span>
+              <span className="explanation">(Saul)</span>
             </span>
           </span>{" "}
           numbered them in Bezek, the Children of Israel were three hundred
@@ -246,7 +246,7 @@ export default function Samuel111() {
           that time the sun be hot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(about 8 a.m.)</span>
+              <span className="explanation">(about 8 a.m.)</span>
             </span>
           </span>
           , you shall have help. And the messengers came and showed it to the
@@ -274,7 +274,7 @@ export default function Samuel111() {
           <sup className="calibre7">10</sup>Therefore the men of Jabesh said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to the Ammonites)</span>
+              <span className="explanation">(to the Ammonites)</span>
             </span>
           </span>
           , Tomorrow we will come out unto you, and you shall do with us all
@@ -304,19 +304,19 @@ export default function Samuel111() {
           ; and they came into the midst of the host in the morning watch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(between 6 and 9 a.m.)</span>
+              <span className="explanation">(between 6 and 9 a.m.)</span>
             </span>
           </span>
           , and killed the Ammonites until the heat of the day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(until noon)</span>
+              <span className="explanation">(until noon)</span>
             </span>
           </span>
           : and it came to pass, that they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ammonites)</span>
+              <span className="explanation">(the Ammonites)</span>
             </span>
           </span>{" "}
           which remained were scattered, so that two of them were not left
@@ -394,7 +394,7 @@ export default function Samuel111() {
           ; and there they made Saul king before the LORD in Gilgal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(his confirmation)</span>
+              <span className="explanation">(his confirmation)</span>
             </span>
           </span>
           ; and there they sacrificed Sacrifices of Peace Offerings before the

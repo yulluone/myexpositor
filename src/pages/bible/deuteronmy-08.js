@@ -25,7 +25,7 @@ export default function Deuteronmy08() {
           whether you would keep His Commandments, or no.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With the Believer, everything is a test. How will we act? How
                 will we react?)
               </span>
@@ -42,7 +42,7 @@ export default function Deuteronmy08() {
           LORD does man live.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These very words were uttered by Christ to Satan regarding the
                 temptation in the wilderness [
                 <ScrollLink href="/matthew-04" scrollToId="#filepos10861225">
@@ -80,7 +80,7 @@ export default function Deuteronmy08() {
           neither did your foot swell, these forty years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this means that God supernaturally caused their clothing to
                 last for forty years, as well as their shoes; what a miracle!)
               </span>
@@ -96,7 +96,7 @@ export default function Deuteronmy08() {
           you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, if the Lord doesnt chasten us, this means we arent His
                 Child [
                 <ScrollLink href="/hebrews-12" scrollToId="#filepos14580759">
@@ -120,7 +120,7 @@ export default function Deuteronmy08() {
           Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are to walk in His Ways, and not our ways)
               </span>
             </span>
@@ -152,7 +152,7 @@ export default function Deuteronmy08() {
           stones are iron, and out of whose hills you may dig brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
         </span>
@@ -224,7 +224,7 @@ export default function Deuteronmy08() {
           day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says, They were to be watchful lest prosperity caused
                 them to forget the Redeemer Who delivered them from the bondage
                 of Egypt; and they were to guard against thinking that their
@@ -249,7 +249,7 @@ export default function Deuteronmy08() {
           be obedient unto the Voice of the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, and clearly so, the Lord is saying, as He destroyed
                 the heathen nations and gave their land to the Children of
                 Israel, if Israel turned her back upon Him, He would destroy

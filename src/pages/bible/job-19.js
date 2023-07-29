@@ -292,7 +292,7 @@ export default function Job19() {
           and they whom I loved are turned against me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the rejection was total!)</span>
+              <span className="explanation">(the rejection was total!)</span>
             </span>
           </span>
           .

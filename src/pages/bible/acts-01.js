@@ -50,7 +50,7 @@ export default function Acts01() {
           up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Resurrection)</span>
+              <span className="explanation">(the Resurrection)</span>
             </span>
           </span>
           , after that He through the Holy Spirit{" "}
@@ -122,7 +122,7 @@ export default function Acts01() {
                 probably the time of the above five hundred [
                 <ScrollLink
                   href="/corinthians1-15"
-																		scrollToId="#filepos13728256"								
+                  scrollToId="#filepos13728256"
                 >
                   <span className="calibre_19">
                     <span>
@@ -137,7 +137,7 @@ export default function Acts01() {
           Commanded them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not a suggestion)</span>
+              <span className="explanation">(not a suggestion)</span>
             </span>
           </span>{" "}
           that they should not depart from Jerusalem{" "}
@@ -322,7 +322,7 @@ export default function Acts01() {
           <sup className="calibre7">8</sup>But you shall receive power{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Miracle-working Power)</span>
+              <span className="explanation">(Miracle-working Power)</span>
             </span>
           </span>
           , after that the Holy Spirit is come upon you{" "}
@@ -718,7 +718,7 @@ export default function Acts01() {
           : and his bishoprick let another take{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to his Apostleship)</span>
+              <span className="explanation">(refers to his Apostleship)</span>
             </span>
           </span>
           .
@@ -824,7 +824,9 @@ export default function Acts01() {
           Ministry and Apostleship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Foundation of the Church)</span>
+              <span className="explanation">
+                (the Foundation of the Church)
+              </span>
             </span>
           </span>
           , from which Judas by transgression fell{" "}

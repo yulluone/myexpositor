@@ -79,7 +79,7 @@ export default function Corinthians101() {
           , to them who are Sanctified in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(set apart unto Christ)</span>
+              <span className="explanation">(set apart unto Christ)</span>
             </span>
           </span>
           , called{" "}
@@ -369,7 +369,7 @@ export default function Corinthians101() {
           I beseech you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I beg you)</span>
+              <span className="explanation">(I beg you)</span>
             </span>
           </span>
           , Brethren, by the Name of our Lord Jesus Christ{" "}
@@ -466,7 +466,7 @@ export default function Corinthians101() {
           , I am of Paul; and I of Apollos; and I of Cephas{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Simon Peter)</span>
+              <span className="explanation">(Simon Peter)</span>
             </span>
           </span>
           ; and I of Christ.{" "}
@@ -602,7 +602,7 @@ export default function Corinthians101() {
           <sup className="calibre7">18</sup>For the preaching{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Message)</span>
+              <span className="explanation">(Message)</span>
             </span>
           </span>{" "}
           of the Cross is to them who perish foolishness{" "}
@@ -731,7 +731,7 @@ export default function Corinthians101() {
           , it pleased God by the foolishness of preaching{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(preaching the Cross)</span>
+              <span className="explanation">(preaching the Cross)</span>
             </span>
           </span>{" "}
           to save them who believe.{" "}
@@ -897,7 +897,7 @@ export default function Corinthians101() {
               <span className="calibre_19">are Called</span>
             </span>
             <span>
-              <span className="calibre_19">(are Called and accept)</span>
+              <span className="explanation">(are Called and accept)</span>
             </span>
           </span>
           :
@@ -964,7 +964,7 @@ export default function Corinthians101() {
           <sup className="calibre7">29</sup>That no flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(human effort)</span>
+              <span className="explanation">(human effort)</span>
             </span>
           </span>{" "}
           should glory in His Presence.

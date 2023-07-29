@@ -16,7 +16,7 @@ export default function Joshua21() {
           fathers of the Levites unto Eleazar the Priest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the High Priest)</span>
+              <span className="explanation">(the High Priest)</span>
             </span>
           </span>
           , and unto Joshua the son of Nun, and unto the heads of the fathers of
@@ -484,7 +484,7 @@ export default function Joshua21() {
           their suburbs round about them: thus were all these cities{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(scattered all over Israel)</span>
+              <span className="explanation">(scattered all over Israel)</span>
             </span>
           </span>
         </span>

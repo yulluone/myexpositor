@@ -232,7 +232,7 @@ export default function Job10() {
           and increase Your indignation upon me; changes and war are against me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(one blow after the other)</span>
+              <span className="explanation">(one blow after the other)</span>
             </span>
           </span>
           .
@@ -250,7 +250,7 @@ export default function Job10() {
           had seen me!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I wish I had died at birth.)</span>
+              <span className="explanation">(I wish I had died at birth.)</span>
             </span>
           </span>
         </span>

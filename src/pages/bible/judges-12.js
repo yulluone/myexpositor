@@ -86,7 +86,7 @@ export default function Judges12() {
           : and he said Sibboleth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(means a burden)</span>
+              <span className="explanation">(means a burden)</span>
             </span>
           </span>
           : for he could not frame to pronounce it right. Then they took him,
@@ -168,7 +168,7 @@ export default function Judges12() {
           nephews, who rode on threescore and ten{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70)</span>
+              <span className="explanation">(70)</span>
             </span>
           </span>{" "}
           ass colts: and he judged Israel eight years.

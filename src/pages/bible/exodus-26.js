@@ -20,7 +20,7 @@ export default function Exodus26() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Tabernacle was one, as it regarded its purpose; it
                 pictured, in its every facet, the Person and Work of Christ;
                 these ten Curtains had to do with the inner covering of the
@@ -41,19 +41,19 @@ export default function Exodus26() {
           eight and twenty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(42 feet)</span>
+              <span className="explanation">(42 feet)</span>
             </span>
           </span>
           , and the breadth of one Curtain four cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>
           : and every one of the Curtains shall have one measure{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably the Curtains formed the ceiling of the Tabernacle;
                 this suggests that the Curtains set before us the One Who
                 humbled Himself, and became obedient unto death, but Who is now
@@ -70,7 +70,7 @@ export default function Exodus26() {
           together one to another{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Grace is the keynote of all this, and so expressed by the
                 number five and its multiples)
               </span>
@@ -87,7 +87,7 @@ export default function Exodus26() {
           the Coupling of the second{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these Couplings fasten the whole of the ten curtains together
                 so that they were one Tabernacle; thus, they pointed to the
                 blessed unity and uniformity of the Character and Life of
@@ -113,7 +113,7 @@ export default function Exodus26() {
           be one Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the gold, as always, represents the Deity of Christ)
               </span>
             </span>
@@ -131,7 +131,7 @@ export default function Exodus26() {
           make.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There were four coverings to the top of the Tabernacle. The
                 second covering immediately above the Linen, which was the part
                 that could not be seen, was a covering of Goats Hair. This
@@ -147,13 +147,13 @@ export default function Exodus26() {
           thirty cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(45 feet)</span>
+              <span className="explanation">(45 feet)</span>
             </span>
           </span>
           , and the breadth of one curtain four cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(6 feet)</span>
+              <span className="explanation">(6 feet)</span>
             </span>
           </span>
           : and the eleven curtains shall be all of one measure.
@@ -166,7 +166,7 @@ export default function Exodus26() {
           curtain in the forefront of the Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (five is the number of Grace, while six is the number of man; so
                 we have here the Grace of God shown to man, Who is Christ)
               </span>
@@ -188,7 +188,7 @@ export default function Exodus26() {
           brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>
           , and put the taches into the loops, and couple the tent together,
@@ -219,13 +219,13 @@ export default function Exodus26() {
           the tent of Rams Skins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(typified Christ as King)</span>
+              <span className="explanation">(typified Christ as King)</span>
             </span>
           </span>{" "}
           dyed Red{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the King Who died on the Cross)
               </span>
             </span>
@@ -233,7 +233,7 @@ export default function Exodus26() {
           , and a covering above of Badgers Skins.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These denote the Office of Christ as High Priest. There were
                 four coverings which made up the top of the Tabernacle: Fine
                 Twined Linen, Goats Hair, Rams Skins, and Badgers Skins. The
@@ -263,7 +263,7 @@ export default function Exodus26() {
           Tabernacle of shittim wood standing up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Boards for the inside walls of the Tabernacle typified
                 the Redemptive Work of Christ, even as we shall see. From the
                 outside, they could not be seen, because the top of the
@@ -279,19 +279,19 @@ export default function Exodus26() {
           <sup className="calibre7">16</sup>Ten cubits{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(15 feet)</span>
+              <span className="explanation">(15 feet)</span>
             </span>
           </span>{" "}
           shall be the length of a board, and a cubit and a half{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(2 and 1/4 feet)</span>
+              <span className="explanation">(2 and 1/4 feet)</span>
             </span>
           </span>{" "}
           shall be the breadth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(width)</span>
+              <span className="explanation">(width)</span>
             </span>
           </span>{" "}
           of one board.
@@ -302,14 +302,14 @@ export default function Exodus26() {
           <sup className="calibre7">17</sup>Two tenons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an open hand)</span>
+              <span className="explanation">(an open hand)</span>
             </span>
           </span>{" "}
           shall there be in one board, set in order one against another: thus
           shall you make for all the boards of the Tabernacle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Two tenons were under each board, making a total of 100
                 tenons.)
               </span>
@@ -329,14 +329,14 @@ export default function Exodus26() {
           Silver under the twenty boards{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Silver denotes Redemption)</span>
+              <span className="explanation">(Silver denotes Redemption)</span>
             </span>
           </span>
           ; two sockets under one board for his two tenons, and two sockets
           under another board for his two tenons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is believed that each socket of silver weighed about a
                 talent, which is about 120 pounds; consequently, this would have
                 provided a tremendous foundation, which was intended.)
@@ -393,7 +393,7 @@ export default function Exodus26() {
           Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, this indestructible wood proclaims the Perfect
                 Humanity of Christ)
               </span>
@@ -409,7 +409,7 @@ export default function Exodus26() {
           of the Tabernacle, for the two sides westward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Tabernacle was to always face the east; therefore, there
                 were no boards on this side, but rather five pillars. This was
                 the entrance, as well.)
@@ -436,7 +436,7 @@ export default function Exodus26() {
           with Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (typical of the Deity of Christ)
               </span>
             </span>
@@ -445,7 +445,7 @@ export default function Exodus26() {
           overlay the bars with Gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Rings of Gold were evidently attached to the boards,
                 through which the bars passed. They pertained to the Work of the
                 Spirit in connecting all the Ministries of Christ. Even though
@@ -462,7 +462,7 @@ export default function Exodus26() {
           according to the fashion thereof which was shewed you in the Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, Moses must not add anything to the design nor
                 take something from the design. It was all of God and none of
                 man.)
@@ -481,7 +481,7 @@ export default function Exodus26() {
           Cherubims shall it be made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was the inner Veil, which separated the Holy Place from
                 the Holy of Holies; once again, the colors represented Christ
                 from above, hence, the Blue, with the Purple representing His
@@ -499,7 +499,7 @@ export default function Exodus26() {
           pillars of Shittim Wood overlaid with Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays both the Humanity and the Deity of Christ)
               </span>
             </span>
@@ -507,7 +507,7 @@ export default function Exodus26() {
           : their Hooks shall be of Gold, upon the four Sockets of Silver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Redemption, which was the purpose of the Cross; the
                 object of a veil is to hide; Come not [
                 <ScrollLink href="/leviticus-16" scrollToId="#filepos1491969">
@@ -537,19 +537,19 @@ export default function Exodus26() {
           the Testimony{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Ark of the Covenant)</span>
+              <span className="explanation">(Ark of the Covenant)</span>
             </span>
           </span>
           : and the Veil shall divide unto you between the Holy Place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(first compartment)</span>
+              <span className="explanation">(first compartment)</span>
             </span>
           </span>{" "}
           and the Most Holy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy of Holies, where resided the Ark of the Covenant)
               </span>
             </span>
@@ -571,7 +571,7 @@ export default function Exodus26() {
           side.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Sacred Vessels were placed in the Holy Place, the first
                 compartment.)
               </span>
@@ -588,14 +588,14 @@ export default function Exodus26() {
           the door of the tent{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the front)</span>
+              <span className="explanation">(the front)</span>
             </span>
           </span>
           , of blue, and purple, and scarlet, and fine twined linen, wrought
           with needlework.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Veil had Cherubims embroidered upon it, while the Door
                 described here had none. The Veil was suspended from four
                 pillars, while the Door was suspended from five. The outstanding
@@ -615,7 +615,7 @@ export default function Exodus26() {
           five pillars of Shittim Wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Humanity of Christ, with five being the number of Grace)
               </span>
             </span>
@@ -623,7 +623,7 @@ export default function Exodus26() {
           , and overlay them with Gold, and their hooks shall be of Gold{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portraying the Deity of Christ)
               </span>
             </span>
@@ -631,13 +631,13 @@ export default function Exodus26() {
           : and you shall cast five sockets of brass{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(copper)</span>
+              <span className="explanation">(copper)</span>
             </span>
           </span>{" "}
           for them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Copper, symbolically, prefigures Judgment, which Jesus would
                 endure at the Cross, all in our stead.)
               </span>

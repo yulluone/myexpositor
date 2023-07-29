@@ -15,7 +15,7 @@ export default function Galatians3() {
           <sup className="calibre7">1</sup>O foolish Galatians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (failure to use ones powers of perception)
               </span>
             </span>
@@ -23,13 +23,13 @@ export default function Galatians3() {
           , who has bewit ched you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(malignant influence)</span>
+              <span className="explanation">(malignant influence)</span>
             </span>
           </span>
           , that you should not obey the truth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to Jesus Christ and Him Crucified)
               </span>
             </span>
@@ -38,7 +38,7 @@ export default function Galatians3() {
           crucified among you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul Preached the Cross with such vividness that his hearers
                 could see Jesus Christ Crucified among them. Regrettably, only a
                 few modern Preachers follow his example.)
@@ -52,7 +52,7 @@ export default function Galatians3() {
           <sup className="calibre7">2</sup>This only would I learn of you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I will convince you of your error by this one argument)
               </span>
             </span>
@@ -61,7 +61,7 @@ export default function Galatians3() {
           hearing of Faith?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to being Born-Again, at which time the Spirit of
                 God comes into the heart and life of the new Believer. It is
                 received simply by trusting Christ, and what He did at the
@@ -77,7 +77,7 @@ export default function Galatians3() {
           the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (do you think you can now be brought to a state of spiritual
                 maturity by means of self-effort?)
               </span>
@@ -86,7 +86,7 @@ export default function Galatians3() {
           , are you now made perfect by the flesh?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Galatians were practicing Salvation by Faith, and
                 Sanctification by self, which is also the state of most modern
                 Christians.)
@@ -101,7 +101,7 @@ export default function Galatians3() {
           vain?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (You have suffered persecution because of your acceptance of
                 Christ. Dont throw it away.)
               </span>
@@ -116,7 +116,7 @@ export default function Galatians3() {
           yet in vain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence saying, I trust it is not in vain)
               </span>
             </span>
@@ -129,7 +129,7 @@ export default function Galatians3() {
           <sup className="calibre7">5</sup>He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Jesus)</span>
+              <span className="explanation">(the Lord Jesus)</span>
             </span>
           </span>{" "}
           therefore Who Ministers to you the Spirit, and works Miracles among
@@ -142,7 +142,7 @@ export default function Galatians3() {
           by the works of the Law, or by the hearing of Faith?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is obvious that everything the Lord does is done on the
                 basis of the Believer exhibiting Faith. It is never by works of
                 the Law.)
@@ -159,7 +159,7 @@ export default function Galatians3() {
           <sup className="calibre7">6</sup>Even as Abraham believed God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the fact that the Patriarch was justified by Faith,
                 not works)
               </span>
@@ -168,7 +168,7 @@ export default function Galatians3() {
           , and it was accounted to him for Righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Righteousness of God is imputed to a person only on the
                 basis of Faith in Christ, and what Christ has done at the Cross
                 [
@@ -191,7 +191,7 @@ export default function Galatians3() {
           are of Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents Faith, and Faith alone, as the foundation; but the
                 Object of Faith must ever be the Cross)
               </span>
@@ -200,7 +200,7 @@ export default function Galatians3() {
           , the same are the children of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the legitimate sons of Abraham)
               </span>
             </span>
@@ -214,7 +214,7 @@ export default function Galatians3() {
           God would justify the heathen through Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Word of God as the Foundation of all Things)
               </span>
             </span>
@@ -228,7 +228,7 @@ export default function Galatians3() {
           , In you shall the nations be blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-12" scrollToId="#filepos156936">
                   <span className="calibre_19">
@@ -249,19 +249,19 @@ export default function Galatians3() {
           <sup className="calibre7">9</sup>So then they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(whomsoever they might be)</span>
+              <span className="explanation">(whomsoever they might be)</span>
             </span>
           </span>{" "}
           which be of Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in Christ and the Cross)</span>
+              <span className="explanation">(in Christ and the Cross)</span>
             </span>
           </span>{" "}
           are blessed with Faithful Abraham.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He received Justification by Faith, and so do we!)
               </span>
             </span>
@@ -277,7 +277,7 @@ export default function Galatians3() {
           the Law are under the curse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Believer can only be under Law or Grace; it is one or the
                 other; one can only come to Grace through the Cross; if one is
                 trusting in Law, whatever kind of Law, one is cursed)
@@ -294,7 +294,7 @@ export default function Galatians3() {
           Book of the Law to do them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/deuteronmy-27" scrollToId="#filepos2380699">
                   <span className="calibre_19">
@@ -310,7 +310,7 @@ export default function Galatians3() {
           .{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To attain the Righteousness of the Law, one must keep the Law
                 perfectly, thereby never failing. Such is impossible, so that
                 leaves only the Cross as the means of Salvation and Victory.)
@@ -331,7 +331,7 @@ export default function Galatians3() {
           evident{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (because it is impossible for man to perfectly keep the Law)
               </span>
             </span>
@@ -339,7 +339,7 @@ export default function Galatians3() {
           : for, The just shall live by Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 ([
                 <ScrollLink href="/habakkuk-2" scrollToId="#filepos10441189">
                   <span className="calibre_19">
@@ -360,7 +360,7 @@ export default function Galatians3() {
           <sup className="calibre7">12</sup>And the Law is not of Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the two principles of Law and of Faith as a means of
                 Justification are mutually exclusive of one another)
               </span>
@@ -369,7 +369,7 @@ export default function Galatians3() {
           : but, The man who does them shall live in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Believer has a choice. He can attempt to live this life by
                 either Law or Faith. He cannot live by both.)
               </span>
@@ -383,13 +383,13 @@ export default function Galatians3() {
           curse of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He did so on the Cross)</span>
+              <span className="explanation">(He did so on the Cross)</span>
             </span>
           </span>
           , being made a curse for us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He took the penalty of the Law, which was death)
               </span>
             </span>
@@ -403,7 +403,7 @@ export default function Galatians3() {
           every one who hangs on a tree{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos13940580">
                   <span className="calibre_19">
@@ -424,19 +424,19 @@ export default function Galatians3() {
           <sup className="calibre7">14</sup>That the blessing of Abraham{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Justification by Faith)</span>
+              <span className="explanation">(Justification by Faith)</span>
             </span>
           </span>{" "}
           might come on the Gentiles through Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what He did at the Cross)</span>
+              <span className="explanation">(what He did at the Cross)</span>
             </span>
           </span>
           ; that we might receive the Promise of the Spirit through Faith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All sin was atoned at the Cross, which lifted the sin debt from
                 believing man, making it possible for the Holy Spirit to come
                 into the life of the Believer and abide there forever [
@@ -462,7 +462,7 @@ export default function Galatians3() {
           of men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now presents an argument to show that the Covenant God made
                 with Abraham is still in force)
               </span>
@@ -483,7 +483,7 @@ export default function Galatians3() {
           confirmed, no man disannulleth, or adds thereto.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, the Covenant of Justification by Faith cannot
                 be broken or set aside.)
               </span>
@@ -497,7 +497,7 @@ export default function Galatians3() {
           Promises made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (to all those who are brought into Salvation by Faith in Christ)
               </span>
             </span>
@@ -506,7 +506,7 @@ export default function Galatians3() {
           Seed, which is Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abrahams Seed was Christ, and Christ is both God and Man.
                 Therefore, the Covenant cannot be broken.)
               </span>
@@ -525,7 +525,7 @@ export default function Galatians3() {
           the Covenant, that was confirmed before of God in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Abrahamic Covenant, which is Justification by
                 Faith)
               </span>
@@ -534,14 +534,14 @@ export default function Galatians3() {
           , the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Law of Moses)</span>
+              <span className="explanation">(the Law of Moses)</span>
             </span>
           </span>
           , which was four hundred and thirty years after, cannot disannul, that
           it should make the Promise of none effect.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In other words, the Law of Moses did not annul the Abrahamic
                 Covenant. In fact, that Covenant is still in force.)
               </span>
@@ -566,7 +566,7 @@ export default function Galatians3() {
           no more of Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the inheritance cannot come from both Covenants and, in fact,
                 it cannot come by the Law)
               </span>
@@ -581,7 +581,7 @@ export default function Galatians3() {
           to Abraham by Promise.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The verb gave is in a perfect tense, which means that God gave
                 the Promise about Christ as a permanent Promise that cannot be
                 superseded or modified.)
@@ -604,19 +604,19 @@ export default function Galatians3() {
           the Law?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(What good is the Law?)</span>
+              <span className="explanation">(What good is the Law?)</span>
             </span>
           </span>{" "}
           It was added because of transgressions{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(was given to define sin)</span>
+              <span className="explanation">(was given to define sin)</span>
             </span>
           </span>
           , till the Seed should come to whom the Promise was made{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is the Promise)</span>
+              <span className="explanation">(Christ is the Promise)</span>
             </span>
           </span>
           ;{" "}
@@ -628,7 +628,7 @@ export default function Galatians3() {
           ordained by Angels in the hand of a mediator.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Moses was the mediator of the Law.)
               </span>
             </span>
@@ -646,7 +646,7 @@ export default function Galatians3() {
           of one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (for there to be a mediator, there has to be more than one
                 person involved; in other words, the mediator is the middle
                 person between two or more people who are at enmity with each
@@ -657,7 +657,7 @@ export default function Galatians3() {
           , but God is one.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is the Mediator of the New Covenant, but in a different way
                 than Moses. Jesus is God, and Jesus is also Man. Consequently,
                 the New Covenant doesnt depend upon man as such, but rather the
@@ -678,7 +678,7 @@ export default function Galatians3() {
           the Law then against the Promises of God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This demands a negative answer.)
               </span>
             </span>
@@ -687,7 +687,7 @@ export default function Galatians3() {
           life, verily Righteousness should have been by the Law.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law of Moses could show a man what he was, but had no power
                 to change the man.)
               </span>
@@ -701,7 +701,7 @@ export default function Galatians3() {
           under sin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that the Law could not give Eternal Life; it could only
                 exact its penalty, which was death)
               </span>
@@ -711,7 +711,7 @@ export default function Galatians3() {
           believe.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Eternal Life comes by Faith in the Promise, Who is Jesus Christ
                 and what He did at the Cross. In other words, the word believe
                 demands that Christ and the Cross ever be the Object of our
@@ -726,7 +726,7 @@ export default function Galatians3() {
           <sup className="calibre7">23</sup>But before Faith came{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually says in the Greek, before the Faith; in short, it
                 refers to Jesus Christ and Him Crucified)
               </span>
@@ -735,7 +735,7 @@ export default function Galatians3() {
           , we were kept under the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (actually means, to keep inward under lock and key)
               </span>
             </span>
@@ -743,7 +743,7 @@ export default function Galatians3() {
           , shut up unto the Faith which should afterwards be revealed.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims the fact that the Law pointed to Christ, always
                 to Christ.)
               </span>
@@ -757,7 +757,7 @@ export default function Galatians3() {
           schoolmaster{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (should have been translated, guardian)
               </span>
             </span>
@@ -768,7 +768,7 @@ export default function Galatians3() {
           unto Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims what the end result of the Law was intended to be)
               </span>
             </span>
@@ -776,7 +776,7 @@ export default function Galatians3() {
           , that we might be justified by Faith.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims to us that the Law had no permanent function,
                 but served only until Christ would come. It is only by Faith in
                 Christ that one can be justified.)
@@ -790,7 +790,7 @@ export default function Galatians3() {
           <sup className="calibre7">25</sup>But after that Faith is come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul is speaking about the Finished Work of Christ on the
                 Cross)
               </span>
@@ -799,7 +799,7 @@ export default function Galatians3() {
           , we are no longer under a schoolmaster.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This should actually say, We are no longer under the
                 guardianship of the Law. The Law was totally fulfilled in
                 Christ.)
@@ -817,7 +817,7 @@ export default function Galatians3() {
           by Faith in Christ Jesus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every person who is saved, and every person who has ever been
                 or ever will be saved, is saved only by Faith in Christ Jesus,
                 which refers to what He did at the Cross.)
@@ -832,7 +832,7 @@ export default function Galatians3() {
           baptized into Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Baptism into His Death at Calvary [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13347645">
                   <span className="calibre_19">
@@ -848,7 +848,7 @@ export default function Galatians3() {
           have put on Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means to be clothed with Him [
                 <ScrollLink href="/john-14" scrollToId="#filepos12611220">
                   <span className="calibre_19">
@@ -870,7 +870,7 @@ export default function Galatians3() {
           there is neither bond nor free, there is neither male nor female{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all have a common life in Christ Jesus)
               </span>
             </span>
@@ -878,7 +878,7 @@ export default function Galatians3() {
           : for you are all one in Christ Jesus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This proclaims an end of all class, status, and social
                 distinction. This phrase alone answers all racism.)
               </span>
@@ -897,7 +897,7 @@ export default function Galatians3() {
           Christs, then are you Abrahams seed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Christ is Abrahams Seed, so my union with Christ makes me
                 Abrahams seed as well)
               </span>
@@ -906,7 +906,7 @@ export default function Galatians3() {
           , and heirs according to the Promise{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (heirs of God, and joint heirs with Jesus Christ [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13400391">
                   <span className="calibre_19">

@@ -45,7 +45,7 @@ export default function Joshua14() {
           of two Tribes and an half Tribe on the other side Jordan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the east side of Jordan)</span>
+              <span className="explanation">(the east side of Jordan)</span>
             </span>
           </span>
           : but unto the Levites he gave none inheritance among them.
@@ -107,7 +107,7 @@ export default function Joshua14() {
           old{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(85 years old)</span>
+              <span className="explanation">(85 years old)</span>
             </span>
           </span>
         </span>

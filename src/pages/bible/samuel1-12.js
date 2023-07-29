@@ -56,7 +56,7 @@ export default function Samuel112() {
           before the LORD, and before His anointed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before Saul)</span>
+              <span className="explanation">(before Saul)</span>
             </span>
           </span>
           : whose ox have I taken? or whose ass have I taken? or whom have I
@@ -146,7 +146,7 @@ export default function Samuel112() {
           king of Moab, and they{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Moabites)</span>
+              <span className="explanation">(the Moabites)</span>
             </span>
           </span>{" "}
           fought against them{" "}
@@ -181,7 +181,7 @@ export default function Samuel112() {
           enemies, and we will serve You{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord Alone can deliver!)</span>
+              <span className="explanation">(the Lord Alone can deliver!)</span>
             </span>
           </span>
         </span>
@@ -193,7 +193,7 @@ export default function Samuel112() {
           Bedan{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Barak)</span>
+              <span className="explanation">(Barak)</span>
             </span>
           </span>
           , and Jephthah, and Samuel, and delivered you out of the hand of your
@@ -231,7 +231,7 @@ export default function Samuel112() {
           you have chosen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(their choice, and not Gods)</span>
+              <span className="explanation">(their choice, and not Gods)</span>
             </span>
           </span>
           , and whom you have desired! and, behold, the LORD has set a king over
@@ -271,7 +271,7 @@ export default function Samuel112() {
           of the LORD, but rebel against the Commandment of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(against His Law)</span>
+              <span className="explanation">(against His Law)</span>
             </span>
           </span>
           , then shall the Hand of the LORD be against you, as it was against
@@ -318,7 +318,7 @@ export default function Samuel112() {
           <sup className="calibre7">17</sup>Is it not wheat harvest today?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(first part of June.)</span>
+              <span className="explanation">(first part of June.)</span>
             </span>
           </span>{" "}
           I will call unto the LORD, and He shall send thunder and rain{" "}
@@ -461,7 +461,7 @@ export default function Samuel112() {
           : for consider how great things He has done for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and that He has!)</span>
+              <span className="explanation">(and that He has!)</span>
             </span>
           </span>
         </span>

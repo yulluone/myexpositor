@@ -23,7 +23,7 @@ export default function Deuteronmy13() {
           which you have not known, and let us serve them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (no matter the signs or the wonders, if what is being said is
                 not Scriptural, it must not be heeded)
               </span>
@@ -40,7 +40,7 @@ export default function Deuteronmy13() {
           heart and with all your soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord allows false preachers and false teachers to succeed
                 for a while, in order to test His people. To be sure, He already
                 knows what His people will do, or wont do. The test is for our
@@ -57,7 +57,7 @@ export default function Deuteronmy13() {
           you shall serve Him, and cleave unto Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord and His Word alone are to be the Objects of our Faith,
                 and not other things)
               </span>
@@ -76,7 +76,7 @@ export default function Deuteronmy13() {
           the evil away from the midst of you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Presently, if Gods people refuse to support such, the Ministry
                 of false prophets would simply die. But unfortunately, most
                 modern Christians so little know their Bible that they little
@@ -133,7 +133,7 @@ export default function Deuteronmy13() {
           and shall do no more any such wickedness as this is among you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Stern measures were demanded, simply because the Nation was at
                 stake. To be sure, Satan would use the tactic of false prophets
                 graphically so to try to turn Israel away from God. Ultimately,
@@ -186,7 +186,7 @@ export default function Deuteronmy13() {
           and it shall be an heap for ever; it shall not be built again{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything that false doctrine touches is soiled and polluted,
                 spiritually speaking)
               </span>
@@ -210,7 +210,7 @@ export default function Deuteronmy13() {
           this day, to do that which is right in the eyes of the LORD your God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Every trace of idol worship was to be utterly destroyed; for
                 what men do not see does not tempt them so powerfully as what
                 they do see.)

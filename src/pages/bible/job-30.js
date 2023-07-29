@@ -89,7 +89,7 @@ export default function Job30() {
           valleys, in caves of the Earth, and in the rocks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from a mansion to a cave!)</span>
+              <span className="explanation">(from a mansion to a cave!)</span>
             </span>
           </span>
         </span>
@@ -185,7 +185,7 @@ export default function Job30() {
           my calamity, they have no helper{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(they made sport of Job!)</span>
+              <span className="explanation">(they made sport of Job!)</span>
             </span>
           </span>
         </span>
@@ -232,7 +232,7 @@ export default function Job30() {
           night season: and my sinews take no rest{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(gnawing pain)</span>
+              <span className="explanation">(gnawing pain)</span>
             </span>
           </span>
         </span>
@@ -291,7 +291,7 @@ export default function Job30() {
           Your strong hand You oppose Yourself against me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(it looked like that to Job)</span>
+              <span className="explanation">(it looked like that to Job)</span>
             </span>
           </span>
         </span>
@@ -318,7 +318,7 @@ export default function Job30() {
           death, and to the house appointed for all living{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Job fully expects to die!)</span>
+              <span className="explanation">(Job fully expects to die!)</span>
             </span>
           </span>
         </span>
@@ -345,7 +345,7 @@ export default function Job30() {
           trouble? was not my soul grieved for the poor?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(But none wept for him!)</span>
+              <span className="explanation">(But none wept for him!)</span>
             </span>
           </span>
         </span>
@@ -371,7 +371,7 @@ export default function Job30() {
           the days of affliction prevented me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(there was no respite)</span>
+              <span className="explanation">(there was no respite)</span>
             </span>
           </span>
         </span>
@@ -383,7 +383,7 @@ export default function Job30() {
           stood up, and I cried in the congregation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but no one cared or heard)</span>
+              <span className="explanation">(but no one cared or heard)</span>
             </span>
           </span>
         </span>
@@ -409,7 +409,9 @@ export default function Job30() {
           bones are burned with heat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(terrible physical affliction)</span>
+              <span className="explanation">
+                (terrible physical affliction)
+              </span>
             </span>
           </span>
         </span>

@@ -476,7 +476,7 @@ export default function Luke03() {
           , and will gather the wheat into His garner{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wheat alone is accepted)</span>
+              <span className="explanation">(the wheat alone is accepted)</span>
             </span>
           </span>
           ; but the chaff He will burn with fire unquenchable{" "}
@@ -510,7 +510,7 @@ export default function Luke03() {
           reproved by him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by John the Baptist)</span>
+              <span className="explanation">(by John the Baptist)</span>
             </span>
           </span>{" "}
           for Herodias his brother Philips wife{" "}
@@ -524,7 +524,7 @@ export default function Luke03() {
           , and for all the evils which Herod had done{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an evil depraved man)</span>
+              <span className="explanation">(an evil depraved man)</span>
             </span>
           </span>
           ,
@@ -554,7 +554,7 @@ export default function Luke03() {
           baptized{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(were being baptized)</span>
+              <span className="explanation">(were being baptized)</span>
             </span>
           </span>
           , it came to pass, that Jesus also being baptized{" "}
@@ -601,7 +601,7 @@ export default function Luke03() {
           , and a Voice came from Heaven, which said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Voice of God the Father)</span>
+              <span className="explanation">(the Voice of God the Father)</span>
             </span>
           </span>
           , You are My Beloved Son{" "}
@@ -991,7 +991,7 @@ export default function Luke03() {
           of Booz{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Boaz)</span>
+              <span className="explanation">(Boaz)</span>
             </span>
           </span>
           , which was{" "}
@@ -1137,7 +1137,7 @@ export default function Luke03() {
           of Sem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Shem)</span>
+              <span className="explanation">(Shem)</span>
             </span>
           </span>
           , which was{" "}
@@ -1149,7 +1149,7 @@ export default function Luke03() {
           of Noe{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Noah)</span>
+              <span className="explanation">(Noah)</span>
             </span>
           </span>
           , which was{" "}
@@ -1172,7 +1172,7 @@ export default function Luke03() {
           of Mathusala{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Methuselah)</span>
+              <span className="explanation">(Methuselah)</span>
             </span>
           </span>
           , which was{" "}

@@ -17,7 +17,7 @@ export default function Isaiah64() {
           Presence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this Chapter, Israels prayer continues and concludes. As she
                 asks the Lord to look upon them once more with favor, Israel now
                 asks for a manifestation of the Divine Presence, such as they
@@ -37,7 +37,7 @@ export default function Isaiah64() {
           adversaries, that the nations may tremble at Your Presence!{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Coming, as described in Rev., Chpt.{" "}
                 <ScrollLink href="/revelation-19" scrollToId="#filepos15104711">
                   <span className="calibre_19">
@@ -62,7 +62,7 @@ export default function Isaiah64() {
           Presence.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The inference is that God did exceedingly more than Israel ever
                 dreamed He would do, respecting their deliverance from Egypt.
                 His actions transcended their utmost expectations.)
@@ -79,7 +79,7 @@ export default function Isaiah64() {
           Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Apostle Paul, in{" "}
                 <ScrollLink
                   href="/corinthians1-02"
@@ -121,7 +121,7 @@ export default function Isaiah64() {
           saved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The provisions of the Gospel, prepared under the First Covenant
                 and revealed under the Second Covenant, are foreshadowed in this
                 Verse. Gods Way of pardoning and justifying the sinner is
@@ -145,7 +145,7 @@ export default function Isaiah64() {
           a leaf; and our iniquities, like the wind, have taken us away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Here Israel confesses the reason for their desperate condition.
                 At long last, they own up as to exactly what it is, our
                 iniquities.
@@ -188,7 +188,7 @@ export default function Isaiah64() {
           face from us, and have consumed us, because of our iniquities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, Israel admits that it is her iniquities which have
                 brought about the judgment of God upon her. She has only herself
                 to blame!)
@@ -204,7 +204,7 @@ export default function Isaiah64() {
           Hand.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In this Passage is the gist of the great Salvation Message of
                 Christianity. Only God can change the shape of the clay, thereby
                 molding the vessel into the shape and design that is desired,
@@ -221,7 +221,7 @@ export default function Isaiah64() {
           all Your People.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The appeal here is for God to begin all over again, like the
                 potter with the clay. The idea of the phrase, Be not wroth very
                 sore, refers to the fact that God had become very angry with His
@@ -239,7 +239,7 @@ export default function Isaiah64() {
           Zion is a wilderness, Jerusalem a desolation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As we have stated, the entirety of this prayer of Repentance,
                 which began in the Fifteenth Verse of the previous Chapter, will
                 be prayed by Israel at the end of the Great Tribulation at the
@@ -256,7 +256,7 @@ export default function Isaiah64() {
           pleasant things are laid waste.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Temple that is yet to be built in Jerusalem.
                 In fact, when the Antichrist turns on Israel, he will make their
                 Temple his religious headquarters, committing every act of
@@ -272,7 +272,7 @@ export default function Isaiah64() {
           things, O LORD? will You hold Your peace, and afflict us very sore?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel first repents of her terrible sins, pleading Gods Mercy,
                 Grace, and Love. They then bring to His attention the terrible
                 plight of the holy cities, and of Jerusalem. Last of all, they

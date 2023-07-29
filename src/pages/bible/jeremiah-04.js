@@ -24,7 +24,7 @@ export default function Jeremiah04() {
           bless themselves in Him, and in Him shall they glory.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord Jesus Christ Himself is Salvation. The closing words
                 of this Prophecy could well be paraphrased: If you shall put
                 away your abominations out of My Sight, and will not wander from
@@ -43,7 +43,7 @@ export default function Jeremiah04() {
           thorns.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The previous Prophecy has ended; a new one commences. Fallow
                 ground is ground that is unbroken, in a natural state, covered
                 with briars and weeds. It pictures the natural heart of man,
@@ -63,7 +63,7 @@ export default function Jeremiah04() {
           that none can quench it, because of the evil of your doings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Circumcision of the heart is spoken of three times in the Old
                 Testament, here and in{" "}
                 <ScrollLink href="/deuteronmy-10" scrollToId="#filepos2224004">
@@ -123,7 +123,7 @@ export default function Jeremiah04() {
           defenced cities.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit through Jeremiah looks ahead some 15 years to
                 the coming calamity of Judahs and Jerusalems fall and proclaims
                 what they will do! Along with a portrait, the Holy Spirit cries
@@ -141,7 +141,7 @@ export default function Jeremiah04() {
           destruction.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Set up the standard toward Zion, referred to a tall pole with a
                 flag, pointing in the direction of Zion, for the guidance of
                 fugitives. They would be running away from the coming
@@ -196,7 +196,7 @@ export default function Jeremiah04() {
           waste, without an inhabitant.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The lion was Nebuchadnezzar. His invasion was so certain that
                 the Prophet speaks of him here as already issued from his lair
                 and on his way to destroy Jerusalem.)
@@ -212,7 +212,7 @@ export default function Jeremiah04() {
           from us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The first phrase of the Scripture refers to that which will
                 take place during the time of the coming judgment; however, the
                 time of Repentance is now, for then it will be too late! As far
@@ -234,7 +234,7 @@ export default function Jeremiah04() {
           Prophets shall wonder.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The heart in Old Testament language is the center of
                 intellectual as well as of moral life. At that day, refers to
                 the time of the coming invasion by the Babylonians. And the
@@ -257,7 +257,7 @@ export default function Jeremiah04() {
           have peace; whereas the sword reaches unto the soul.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Although somewhat cluttered in the translation, the meaning of
                 this statement concerns the preaching of the false prophets. In
                 contrast to Jeremiahs Prophecies, they were saying to the
@@ -291,7 +291,7 @@ export default function Jeremiah04() {
           cleanse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in{" "}
                 <ScrollLink href="/" scrollToId="#filepos8188372">
                   <span className="calibre_19">
@@ -315,7 +315,7 @@ export default function Jeremiah04() {
           shall come unto Me: now also will I give sentence against them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Now also will I give sentence against them, actually says, as
                 they [Judah] have sinned against Me, so will I also now hold a
                 court of justice upon them.)
@@ -331,7 +331,7 @@ export default function Jeremiah04() {
           eagles. Woe unto us! for we are spoiled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse signals the coming invasion by Nebuchadnezzar.)
               </span>
             </span>
@@ -348,7 +348,7 @@ export default function Jeremiah04() {
           lodge within you?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The vain thoughts concern the idea that their idols would save
                 them, or that the Egyptians would deliver them from the
                 Chaldeans. They were not looking to God, but rather to man. They
@@ -364,7 +364,7 @@ export default function Jeremiah04() {
           publishes affliction from Mount Ephraim.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos8190140">
                   <span className="calibre_19">
@@ -391,7 +391,7 @@ export default function Jeremiah04() {
           country, and give out their voice against the cities of Judah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Make ye mention to the nations, refers to the surrounding
                 nations that border Judah. They would not escape this carnage
                 either! Behold, publish against Jerusalem, refers to judgment
@@ -431,7 +431,7 @@ export default function Jeremiah04() {
           says the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As keepers of a field, refers to individuals who guard crops
                 and vineyards. The Babylonian army would lay siege to Jerusalem
                 in the same manner.)
@@ -447,7 +447,7 @@ export default function Jeremiah04() {
           bitter, because it reaches unto your heart.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The cause of all this is not God, but your wickedness. The
                 Fourteenth Verse records the cure!)
               </span>
@@ -466,7 +466,7 @@ export default function Jeremiah04() {
           of war.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (My bowels, my bowels! proclaims the intensity with which
                 Jeremiah felt the pain of what he was being told. Because you
                 have heard, O my soul, means that Jeremiah actually saw in his
@@ -485,7 +485,7 @@ export default function Jeremiah04() {
           and my curtains in a moment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Destruction upon destruction is cried, refers to the Prophet
                 seeing such devastation as defies description. Nothing is
                 spared! The words, And my curtains in a moment, refer to the
@@ -503,7 +503,7 @@ export default function Jeremiah04() {
           and hear the sound of the trumpet?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Passage is that the Babylonians will not stop
                 until their purpose is carried out, which is the destruction,
                 total destruction, of Judah and Jerusalem.)
@@ -520,7 +520,7 @@ export default function Jeremiah04() {
           knowledge.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The last phrase, They are wise to do evil, but to do good they
                 have no knowledge, is striking! They would manufacture many ways
                 to sin, i.e., wise to do evil, but they had no knowledge of God,
@@ -539,7 +539,7 @@ export default function Jeremiah04() {
           without form, and void; and the heavens, and they had no light.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is thought by some that{" "}
                 <ScrollLink href="/" scrollToId="#filepos8194971">
                   <span className="calibre_19">
@@ -571,7 +571,7 @@ export default function Jeremiah04() {
           they trembled, and all the hills moved lightly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, this took place at the rebellion of Lucifer, which
                 involved at least one-third of the angels, who attempted to
                 usurp authority over God [
@@ -594,7 +594,7 @@ export default function Jeremiah04() {
           and all the birds of the heavens were fled.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If, in fact, this does apply to Lucifers rebellion, then this
                 Verse tells us that there were men on the Earth in the original
                 creation, before Lucifers fall, and consequently before Adam and
@@ -613,7 +613,7 @@ export default function Jeremiah04() {
           the Presence of the LORD, and by His fierce Anger.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If these{" "}
                 <ScrollLink href="/" scrollToId="#filepos8194971">
                   <span className="calibre_19">
@@ -664,7 +664,7 @@ export default function Jeremiah04() {
           whole land shall be desolate; yet will I not make a full end.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whereas the previous four Verses spoke of the pre-Adamic
                 creation and its destruction, this Verse now brings the Bible
                 student back to the problem at hand, the coming judgment upon
@@ -681,7 +681,7 @@ export default function Jeremiah04() {
           it, and will not repent, neither will I turn back from it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The statement, I have purposed it, and will not repent, neither
                 will I turn back from it, states, in effect, that short of
                 Repentance on the part of Judah and Jerusalem, nothing will
@@ -715,7 +715,7 @@ export default function Jeremiah04() {
           dwell therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The whole city speaks of Jerusalem.)
               </span>
             </span>
@@ -731,7 +731,7 @@ export default function Jeremiah04() {
           despise you, they will seek your life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Your lovers, refers to heathen powers courted by Judah and
                 Jerusalem, which did not come to their help, and which now hold
                 Jerusalem in contempt. Jerusalem courted the heathen, but she
@@ -751,7 +751,7 @@ export default function Jeremiah04() {
           because of murderers.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus, Zions soul fainted before the murderers, i.e., the
                 Babylonians. The woman in travail is Jerusalem, who weeps over
                 her destruction and the slaughter of her inhabitants. The Holy

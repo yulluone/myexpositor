@@ -20,7 +20,7 @@ export default function Exodus28() {
           and Abihu, Eleazar and Ithamar, Aarons sons.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Five Priests were chosen from among the Tribe of Levi, headed
                 up by Aaron as the High Priest. In fact, all High Priests were
                 to succeed from Aaron. Five being the beginning, Grace is the
@@ -36,7 +36,7 @@ export default function Exodus28() {
           Aaron your brother for Glory and for Beauty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These garments were designed solely by the Lord, and were
                 designed to portray Christ in His High Priestly Ministry.)
               </span>
@@ -50,7 +50,7 @@ export default function Exodus28() {
           wise hearted, whom I have filled with the Spirit of Wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Holy Spirit)</span>
+              <span className="explanation">(the Holy Spirit)</span>
             </span>
           </span>
           , that they may make Aarons garments to consecrate him, that he may
@@ -78,7 +78,7 @@ export default function Exodus28() {
           and purple, and scarlet, and fine linen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as stated, these colors do not vary)
               </span>
             </span>
@@ -96,7 +96,7 @@ export default function Exodus28() {
           cunning work.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the outer Robe worn by the High Priest. It was made of
                 two parts, one covering the back, and the other covering the
                 front, these being joined together at the shoulders by golden
@@ -120,7 +120,7 @@ export default function Exodus28() {
           even of gold, of blue, and purple, and scarlet, and fine twined linen.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Curious Girdle was a sash of sorts, tied around the waist.
                 It speaks of preparation for service. He took a towel and girded
                 Himself [
@@ -143,7 +143,7 @@ export default function Exodus28() {
           and grave on them the names of the Children of Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these two onyx stones were a part of the Ephod, and were
                 actually designed to join the back and the front of the Ephod
                 together at the shoulders)
@@ -160,7 +160,7 @@ export default function Exodus28() {
           birth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were worn on the shoulders of the High Priest, portraying
                 strength, typifying Christ, Who protected Israel at all times.
                 Pink says: The shoulder which sustains the universe [
@@ -186,7 +186,7 @@ export default function Exodus28() {
           to be set in ouches of Gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Gold declares the Deity of Christ, hence, the Power of
                 Almighty God was available to all of Israel.)
               </span>
@@ -202,7 +202,7 @@ export default function Exodus28() {
           upon his two shoulders for a memorial.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God doesnt forget, and that memorial will come to fruition at
                 the Second Coming, when Jacob will come home.)
               </span>
@@ -222,7 +222,7 @@ export default function Exodus28() {
           chains to the ouches.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These chains tie us to Christ!)
               </span>
             </span>
@@ -238,7 +238,7 @@ export default function Exodus28() {
           of Judgment with cunning work{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Breastplate was attached to the front of the Ephod)
               </span>
             </span>
@@ -248,7 +248,7 @@ export default function Exodus28() {
           it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Incidentally, the word curious simply means cunning, signifying
                 that its design was extraordinary.)
               </span>
@@ -263,7 +263,7 @@ export default function Exodus28() {
           breadth thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a span equaled about 8 inches)
               </span>
             </span>
@@ -296,7 +296,7 @@ export default function Exodus28() {
           onyx, and a jasper: they shall be set in gold in their inclosings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There were twelve jewels in number, one for each Tribe, set in
                 four rows of three each.)
               </span>
@@ -312,7 +312,7 @@ export default function Exodus28() {
           according to the Twelve Tribes.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As the names of the Tribes of the Children of Israel were
                 inscribed on the onyx stones on the shoulders of the High
                 Priest, signifying strength, likewise, the same names were to be
@@ -391,7 +391,7 @@ export default function Exodus28() {
           continually.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus, the people of God, as represented by our names, are
                 chained to our Great High Priest.)
               </span>
@@ -408,7 +408,7 @@ export default function Exodus28() {
           of Judgment the Urim and the Thummin{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was a pocket of sorts in the back of the Breastplate,
                 next to Aarons heart, where was kept the Urim and the Thummin;
                 the first word means Lights, while the second means Perfections;
@@ -425,7 +425,7 @@ export default function Exodus28() {
           his heart before the LORD continually.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As wonderful as that was, due to the Cross, we today have much
                 more. The Holy Spirit Himself abides continually within our
                 hearts and lives, and is ready at all times to give us His
@@ -460,7 +460,7 @@ export default function Exodus28() {
           Ephod all of blue.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This symbolizes Christ as our Great High Priest in Heaven [
                 <ScrollLink href="/hebrews-08" scrollToId="#filepos14503813">
                   <span className="calibre_19">
@@ -492,7 +492,7 @@ export default function Exodus28() {
           it be not rent.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Robe was worn beneath the Ephod and the Breastplate.)
               </span>
             </span>
@@ -506,7 +506,7 @@ export default function Exodus28() {
           about the hem thereof{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the pomegranates were made like tassels, and signified the
                 Fruit of the Spirit [
                 <ScrollLink href="/galatians-5" scrollToId="#filepos13979040">
@@ -523,7 +523,7 @@ export default function Exodus28() {
           ; and bells of gold between them round about{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (these represented the Gifts of the Spirit [
                 <ScrollLink
                   href="/corinthians1-12"
@@ -555,7 +555,7 @@ export default function Exodus28() {
           Place before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (on the Great Day of Atonement, the High Priest would wear this
                 beautiful garment into the Holy Place, and then remove it,
                 leaving only the linen undergarments, signifying that Christ
@@ -570,7 +570,7 @@ export default function Exodus28() {
           , and when he comes out, that he die not.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When he put on the Robe, the bells would begin to ring, and the
                 people then knew that the sacrificial blood had been accepted,
                 because they could hear the ringing of the bells.)
@@ -589,7 +589,7 @@ export default function Exodus28() {
           THE LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Golden Plate was the symbol of the essential Holiness of
                 the Lord Jesus. The Saints are represented by Him and accepted
                 in Him. Because of our legal and vital union with Him, His
@@ -609,13 +609,13 @@ export default function Exodus28() {
           <sup className="calibre7">37</sup>And you shall put it on a blue lace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signifies Heaven)</span>
+              <span className="explanation">(signifies Heaven)</span>
             </span>
           </span>
           , that it may be upon the Mitre{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a Turban)</span>
+              <span className="explanation">(a Turban)</span>
             </span>
           </span>
           ; upon the forefront of the Mitre it shall be.
@@ -630,7 +630,7 @@ export default function Exodus28() {
           the LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Imperfection attaches to everything that man does; and even the
                 Sacrifices that the people offered to God required to be atoned
                 for and purified. It was granted to the High Priest in his
@@ -651,7 +651,7 @@ export default function Exodus28() {
           make the Girdle of needlework.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The very fact of embroidery speaks of a Finished Work. The fact
                 that the garments of Aarons sons contain no embroidery tells us
                 that their work was never finished, which, in fact, it wasnt.
@@ -681,7 +681,7 @@ export default function Exodus28() {
           for them, for glory and for beauty.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This seems to imply that the attire of the Priests, other than
                 the High Priest, was a dress of pure white, without anything
                 ornamental, such as the colors on Aarons garments. Still, these
@@ -764,7 +764,7 @@ export default function Exodus28() {
           the Priests office.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this which was done was only a representation in
                 symbolic form of what Christ would do in reality [
                 <ScrollLink href="/hebrews-08" scrollToId="#filepos14505595">
@@ -787,7 +787,7 @@ export default function Exodus28() {
           they shall reach{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the clothing covering the nakedness had as much, or more, to do
                 with covering the Judgment of God than it did modesty)
               </span>
@@ -805,7 +805,7 @@ export default function Exodus28() {
           Statute for ever unto him and his seed after him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was to be taken so seriously that the Priests were warned,
                 if they ignored any part of their garments, even those which
                 were covered, such as the undergarments, they could be stricken

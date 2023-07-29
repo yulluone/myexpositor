@@ -21,7 +21,7 @@ export default function Exodus32() {
           the land of Egypt, we wot not what is become of him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel, as we shall see, could not go very long without strong
                 spiritual leadership; neither can the modern Church. Without
                 Moses being present, the people would cry, Make us gods. It has
@@ -45,7 +45,7 @@ export default function Exodus32() {
           golden earrings which were in their ears, and brought them unto Aaron.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Unless we hover close to Christ, none of us are very far from
                 the golden calf. For instance, most Churches give people what
                 they want, instead of what they need. The seeker-sensitive
@@ -71,7 +71,7 @@ export default function Exodus32() {
           up out of the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The calf was the great god of the Egyptians. It was carried in
                 the vanguard of their processions. Sacrifices were offered to
                 it, and lascivious dances executed in its honor. It was
@@ -89,7 +89,7 @@ export default function Exodus32() {
           Altar before it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all golden calves are religious)
               </span>
             </span>
@@ -98,7 +98,7 @@ export default function Exodus32() {
           LORD.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Williams says: One of the great ploys of Satan is not to
                 abolish God, but to represent Him by something visible. Also,
                 Satan can, through a religious teacher like Aaron, associate
@@ -117,7 +117,7 @@ export default function Exodus32() {
           people sat down to eat and to drink, and rose up to play.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their play referred to licentiousness and vulgarity of the
                 worst order. Cain had the right Altar, but the wrong sacrifice
                 [Gen., Chpt.{" "}
@@ -153,19 +153,19 @@ export default function Exodus32() {
           thee down; for thy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(your)</span>
+              <span className="explanation">(your)</span>
             </span>
           </span>{" "}
           people, which thou{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you)</span>
+              <span className="explanation">(you)</span>
             </span>
           </span>{" "}
           brought out of the land of Egypt, have corrupted themselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by the use of the pronouns thy and thou, we learn that God had
                 disowned Israel here; in{" "}
                 <ScrollLink href="/" scrollToId="#filepos1153364">
@@ -193,7 +193,7 @@ export default function Exodus32() {
           Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were a people in whom was no Faith [
                 <ScrollLink href="/deuteronmy-32" scrollToId="#filepos2441424">
                   <span className="calibre_19">
@@ -222,7 +222,7 @@ export default function Exodus32() {
           seen this people, and, behold, it is a stiffnecked people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(hardened heart)</span>
+              <span className="explanation">(hardened heart)</span>
             </span>
           </span>
           :
@@ -235,7 +235,7 @@ export default function Exodus32() {
           will make of you a great nation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only thing that stands between man and eternal Hell is the
                 Cross of Christ. That being abandoned, as it was by Israel,
                 judgment must follow and it always does!)
@@ -255,7 +255,7 @@ export default function Exodus32() {
           with a mighty hand?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of these things, as wonderful as they were and, in a sense,
                 is the same presently with every Believer, still, cannot condone
                 sin. As should be obvious, this refutes the unscriptural
@@ -282,7 +282,7 @@ export default function Exodus32() {
           inherit it forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As much as anything, this was a test for Moses. I think most
                 Bible Scholars, in addressing this scenario, make God too little
                 and Moses too big.)
@@ -297,7 +297,7 @@ export default function Exodus32() {
           which He thought to do unto His people.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This doesnt mean that the Lord did something wrong, but rather
                 that He simply turned aside from the proposed direction.
                 Oftentimes, even as here, what God does is predicated on what we
@@ -319,7 +319,7 @@ export default function Exodus32() {
           other were they written{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ten Commandments, written by the Finger of God [
                 <ScrollLink href="/exodus-31" scrollToId="#filepos1147011">
                   <span className="calibre_19">
@@ -341,7 +341,7 @@ export default function Exodus32() {
           and the writing was the writing of God, graven upon the tables.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law began with the Judgment of God, even as all Law must
                 begin with the Judgment of God.)
               </span>
@@ -356,7 +356,7 @@ export default function Exodus32() {
           war in the camp.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that Joshua has waited for Moses for the entirety of
                 the 40 days and 40 nights. He did so about halfway down the
                 mountain. He will now accompany Moses to the base of the
@@ -373,7 +373,7 @@ export default function Exodus32() {
           for being overcome: but the noise of them that sing do I hear.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was a far cry from the song of Moses, which celebrated the
                 deliverance of the Children of Israel from Egyptian bondage
                 [Ex., Chpt.{" "}
@@ -398,7 +398,7 @@ export default function Exodus32() {
           broke them beneath the Mount.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The anger of Moses was righteous indignation, and rightly so.
                 He broke the Tables as a symbol of the anger of God, and not by
                 him losing his temper.)
@@ -414,7 +414,7 @@ export default function Exodus32() {
           it upon the water, and made the Children of Israel drink of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord wanted Moses to do what he did, in order to show the
                 people the utter, absolute worthlessness of this idol they had
                 made.)
@@ -429,7 +429,7 @@ export default function Exodus32() {
           this people unto you, that you have brought so great a sin upon them?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos1157807">
                   <span className="calibre_19">
@@ -454,7 +454,7 @@ export default function Exodus32() {
           my lord wax hot: you know the people, that they are set on mischief.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Most Preachers presently, like Aaron, are little concerned
                 about sin. This means they do not properly understand sin or the
                 Cross!)
@@ -470,7 +470,7 @@ export default function Exodus32() {
           us up out of the land of Egypt, we wot not what is become of him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In a fashion, he is now blaming the situation on Moses!)
               </span>
             </span>
@@ -484,7 +484,7 @@ export default function Exodus32() {
           into the fire, and there came out this calf{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at least one of the most lame excuses thats ever been offered;
                 and yet, as far as we know, the Lord did not direct Moses to
                 punish Aaron in any way; it was not because he was the brother
@@ -526,7 +526,7 @@ export default function Exodus32() {
           camp, and said, Who is on the LORDs side?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Hebrew actually says, Who for Jehovah? It formed an
                 excellent rallying cry. Those who were engaging in this
                 licentiousness, and those who saw no fault in it, obviously were
@@ -539,7 +539,7 @@ export default function Exodus32() {
           together unto him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That day, the sons of Levi won the Priesthood. The curse was
                 broken [
                 <ScrollLink href="/genesis-49" scrollToId="#filepos651182">
@@ -563,7 +563,7 @@ export default function Exodus32() {
           brother, and every man his companion, and every man his neighbour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This which was to be done, first of all, was instruction from
                 the Lord. Concerning this, Pink says: So in preaching to
                 idolaters today it is the wrath of a Holy God, and not His Love
@@ -589,7 +589,7 @@ export default function Exodus32() {
           about three thousand men.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These were the ones who had mocked the call of Moses, and had
                 continued on in their wicked ways. They were determined to
                 continue to worship the golden calf. This tells us that at the
@@ -616,7 +616,7 @@ export default function Exodus32() {
           his brother; that he may bestow upon you a blessing this day.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This concerned the Tribe of Levi, and that they would be
                 installed as Priests of the Lord on this particular day.)
               </span>
@@ -632,7 +632,7 @@ export default function Exodus32() {
           your sin.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The people had sinned, and the only thing that could make
                 Atonement for sin was the Cross of Christ, which was portrayed
                 in symbolic form respecting the Sacrifices. Moses could not
@@ -651,7 +651,7 @@ export default function Exodus32() {
           gods of gold.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Some sins are worse than others, and idolatry, which comes in
                 many forms, is one of the worst of all [
                 <ScrollLink href="/john-19" scrollToId="#filepos12695464">
@@ -674,7 +674,7 @@ export default function Exodus32() {
           written.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first mention of the Book of Life found in the
                 Bible. God could only forgive the sins of those who asked for
                 such forgiveness [I{" "}
@@ -697,7 +697,7 @@ export default function Exodus32() {
           Whosoever has sinned against Me, him will I blot out of My Book.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning this, Williams says: Moses descended from on high
                 with the Law. Confronted with mans sin, he broke both Tables,
                 then returned with a cheerless peradventure on his lips to seek
@@ -729,7 +729,7 @@ export default function Exodus32() {
           sin upon them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It has been argued, and even conjectured, that this Angel is
                 different from the Angel of{" "}
                 <ScrollLink href="/exodus-23" scrollToId="#filepos1008558">
@@ -755,7 +755,7 @@ export default function Exodus32() {
           because they made the calf, which Aaron made.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word plagued here means to push, defeat, inflict disease,
                 kill, smite, put to the worst. Exactly what the Lord did, we
                 arent told. It seems to have been in the form of chastisement,

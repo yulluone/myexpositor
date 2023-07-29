@@ -24,7 +24,7 @@ p {
   font-size: 21px;
 }
 
-.calibre_19 :not(a) {
+.explanation {
   color: green;
   font-style: italic;
 }

@@ -17,7 +17,7 @@ export default function Ecclesiastes02() {
           is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The dissatisfaction and vexation of spirit which Solomon
                 experienced in testing the insufficiency of industry,
                 philosophy, and pleasure were the more painful because of his
@@ -39,7 +39,7 @@ export default function Ecclesiastes02() {
           mirth, What good does it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The finest comedians of the land were brought in. After the
                 laughter subsided, the question still remained, What good does
                 it?)
@@ -56,7 +56,7 @@ export default function Ecclesiastes02() {
           they should do under the Heaven all the days of their life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That which is good for the sons of men is that which is found
                 only in the Bible. It is amazing how man will try everything
                 except the Bible.
@@ -98,7 +98,7 @@ export default function Ecclesiastes02() {
           therewith the wood that brings forth trees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Millions say, My work is my life. If so, they will find that
                 the last day on the job will be the most unrewarding of all.
               </span>
@@ -126,7 +126,7 @@ export default function Ecclesiastes02() {
           and small cattle above all that were in Jerusalem before me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (self says that it will be rewarded and served if it has many
                 servants to command; as well, great herds of cattle seem to be
                 the craving of the empty heart)
@@ -144,7 +144,7 @@ export default function Ecclesiastes02() {
           musical instruments, and that of all sorts.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Great riches and the pomp of court would have made this court
                 the greatest in the history of man in times past, present, or
                 future.
@@ -173,7 +173,7 @@ export default function Ecclesiastes02() {
           me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In His love, God has placed this Book in the Bible for the
                 warning and instruction of His Children; in His Goodness, He
                 denies them the means of making the woeful experiment which
@@ -190,7 +190,7 @@ export default function Ecclesiastes02() {
           rejoiced in all my labour: and this was my portion of all my labour.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Only one man in history was able to get all that his heart
                 desired and all that his eyes beheld. That man was Solomon. He
                 found it to be vanity.)
@@ -207,7 +207,7 @@ export default function Ecclesiastes02() {
           profit under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this was done with an attempt to take the place of the
                 Lord. As someone has well said, The soul of man is so big, that
                 only God can fill it up.)
@@ -223,7 +223,7 @@ export default function Ecclesiastes02() {
           after the king? even that which has been already done.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No one ever was, or will be, as efficiently equipped as Solomon
                 was for this terrible experience.)
               </span>
@@ -237,7 +237,7 @@ export default function Ecclesiastes02() {
           as far as light excels darkness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon once knew God in a great and personal way. The Lord
                 even gave him a special name, Jedidiah, which means beloved of
                 Jehovah.
@@ -277,7 +277,7 @@ export default function Ecclesiastes02() {
           event happens to them all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos7083529">
                   <span className="calibre_19">
@@ -302,7 +302,7 @@ export default function Ecclesiastes02() {
           wise? Then I said in my heart, that this also is vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In essence, Solomon is saying that riches, wisdom, and power
                 cannot change the things that really matter. Solomon said, It
                 happens to the fool, and it happens even to me.
@@ -331,7 +331,7 @@ export default function Ecclesiastes02() {
           fool.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Everything that is done, irrespective of its seeming worth,
                 will be forgotten, except that which is done for God. Such lasts
                 forever.)
@@ -347,7 +347,7 @@ export default function Ecclesiastes02() {
           vanity and vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The only One Who can make life worth living is Christ Jesus. A
                 life totally immersed in Him, irrespective of its circumstances,
                 will bring fulfillment, satisfaction, and contentment, as well
@@ -372,7 +372,7 @@ export default function Ecclesiastes02() {
           shall be after me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If Solomon had used the great Wisdom that God have given him
                 [greater than any man had ever had or would ever have] to fill
                 the land with the Word of God, the future might have been far
@@ -392,7 +392,7 @@ export default function Ecclesiastes02() {
           This is also vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His son, Rehoboam, was his successor, and he was a fool.)
               </span>
             </span>
@@ -405,7 +405,7 @@ export default function Ecclesiastes02() {
           heart to despair of all the labour which I took under the sun.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Anything and everything tied to this present world that is done
                 other than for God, and that which is built strictly by man, no
                 matter how grandiose, will lead one to despair.)
@@ -422,7 +422,7 @@ export default function Ecclesiastes02() {
           vanity and a great evil.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wise mans portion or share is labor, difficulty, and
                 sometimes great sorrow, but his foolish successors share is the
                 possession without effort of all that his father painfully
@@ -439,7 +439,7 @@ export default function Ecclesiastes02() {
           sun?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus answered this by giving us the statement recorded in{" "}
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10911180">
                   <span className="calibre_19">
@@ -461,7 +461,7 @@ export default function Ecclesiastes02() {
           also vanity.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Holy Spirit is informing us in a grand manner that the only
                 thing that is not vanity is the labor carried out for the Work
                 of God.)
@@ -478,7 +478,7 @@ export default function Ecclesiastes02() {
           of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Life is meant to be a pleasure, not a rat race. Paul said, But
                 Godliness with contentment is great gain [
                 <ScrollLink href="/timothy1-6" scrollToId="#filepos14317770">
@@ -500,7 +500,7 @@ export default function Ecclesiastes02() {
           hasten hereunto, more than I?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Solomon verified that a life of honest labor ministers a
                 happiness appointed by the Hand of God. In this Verse, eat and
                 drink are to be understood as enjoyment of needful food with an
@@ -518,7 +518,7 @@ export default function Ecclesiastes02() {
           is good before God. This also is vanity and vexation of spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He who thus works for his daily bread in obedience to the
                 Divine Will, to him God recompenses wisdom, knowledge, and joy.
                 But to the disobedient, He gives the fruitless toil of amassing

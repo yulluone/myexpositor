@@ -61,7 +61,7 @@ export default function Psalm037() {
           and He shall give you the desires of your heart{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a Promise!)</span>
+              <span className="explanation">(what a Promise!)</span>
             </span>
           </span>
           .
@@ -154,7 +154,7 @@ export default function Psalm037() {
           <sup className="calibre7">11</sup>But the meek shall inherit the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(again, the Kingdom Age)</span>
+              <span className="explanation">(again, the Kingdom Age)</span>
             </span>
           </span>
           ; and shall delight themselves in the abundance of peace{" "}
@@ -185,7 +185,7 @@ export default function Psalm037() {
           and gnashes upon him with his teeth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is the Just)</span>
+              <span className="explanation">(Christ is the Just)</span>
             </span>
           </span>
           .
@@ -197,7 +197,7 @@ export default function Psalm037() {
           sees that his day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the wicked)</span>
+              <span className="explanation">(the wicked)</span>
             </span>
           </span>{" "}
           is coming{" "}
@@ -452,7 +452,7 @@ export default function Psalm037() {
           wisdom, and his tongue talks of Judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(talks of the Word of God)</span>
+              <span className="explanation">(talks of the Word of God)</span>
             </span>
           </span>
           .
@@ -487,7 +487,7 @@ export default function Psalm037() {
           seek to kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Christ!)</span>
+              <span className="explanation">(refers to Christ!)</span>
             </span>
           </span>
           .
@@ -499,7 +499,7 @@ export default function Psalm037() {
           hand, nor condemn him when he is judged{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(again, speaks of Christ)</span>
+              <span className="explanation">(again, speaks of Christ)</span>
             </span>
           </span>
           .
@@ -570,7 +570,7 @@ export default function Psalm037() {
           upright: for the end of that Man is peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ is the Perfect Man)</span>
+              <span className="explanation">(Christ is the Perfect Man)</span>
             </span>
           </span>
           .
@@ -603,7 +603,7 @@ export default function Psalm037() {
           deliver them: He shall deliver them from the wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(from the Antichrist)</span>
+              <span className="explanation">(from the Antichrist)</span>
             </span>
           </span>
           , and save them, because they trust in Him{" "}

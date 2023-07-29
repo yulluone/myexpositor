@@ -24,7 +24,7 @@ export default function Matthew19() {
           came into the coasts{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(borders)</span>
+              <span className="explanation">(borders)</span>
             </span>
           </span>{" "}
           of Judaea beyond Jordan{" "}
@@ -59,7 +59,7 @@ export default function Matthew19() {
           tempting Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(trying to trap Him)</span>
+              <span className="explanation">(trying to trap Him)</span>
             </span>
           </span>
           , and saying unto Him, Is it lawful for a man to put away his wife for
@@ -80,7 +80,7 @@ export default function Matthew19() {
           Have you not read, that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(God)</span>
+              <span className="explanation">(God)</span>
             </span>
           </span>{" "}
           which made{" "}
@@ -129,7 +129,7 @@ export default function Matthew19() {
           <sup className="calibre7">6</sup>Wherefore they are no more twain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(two)</span>
+              <span className="explanation">(two)</span>
             </span>
           </span>
           , but one flesh{" "}
@@ -204,7 +204,7 @@ export default function Matthew19() {
           for fornication{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an adulterous lifestyle)</span>
+              <span className="explanation">(an adulterous lifestyle)</span>
             </span>
           </span>
           , and shall marry another, commits adultery: and whoso marries her
@@ -468,7 +468,7 @@ export default function Matthew19() {
           <sup className="calibre7">18</sup>He said unto him, Which?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(A ridiculous question!)</span>
+              <span className="explanation">(A ridiculous question!)</span>
             </span>
           </span>{" "}
           Jesus said, you shall not commit murder, you shall not commit
@@ -519,7 +519,7 @@ export default function Matthew19() {
           these things have I kept from my youth up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(he was mistaken; he had not)</span>
+              <span className="explanation">(he was mistaken; he had not)</span>
             </span>
           </span>
           : what lack I yet?{" "}
@@ -689,7 +689,7 @@ export default function Matthew19() {
           say unto you, That you which have followed Me, in the regeneration{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Millennium)</span>
+              <span className="explanation">(the Millennium)</span>
             </span>
           </span>{" "}
           when the Son of Man shall sit in the throne of His glory{" "}

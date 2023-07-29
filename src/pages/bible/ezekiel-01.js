@@ -18,7 +18,7 @@ export default function Ezekiel01() {
           opened, and I saw visions of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The thirtieth year probably refers to the thirtieth year of the
                 Babylonian Empire. By the river of Chebar, does not exactly tell
                 us where Ezekiel was. Some think that this is the river now
@@ -47,7 +47,7 @@ export default function Ezekiel01() {
           was the fifth year of king Jehoiachins captivity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at this time, Ezekiel had been in captivity approximately five
                 years. At this time, the false prophets of Judah were
                 prophesying of the overthrow of Babylon and the return of
@@ -84,7 +84,7 @@ export default function Ezekiel01() {
           by the river Chebar; and the Hand of the LORD was there upon him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Word of the LORD came expressly unto Ezekiel, means in
                 reality or without doubt. In the land of the Chaldeans, refers
                 to the Divine Truth that wherever a searching heart is, God will
@@ -103,7 +103,7 @@ export default function Ezekiel01() {
           the colour of amber, out of the midst of the fire.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And I looked, and, behold, refers to the fact that what was
                 described could be seen. In other words, it was not a figment of
                 Ezekiels imagination.
@@ -141,7 +141,7 @@ export default function Ezekiel01() {
           they had the likeness of a man.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (We learn from{" "}
                 <ScrollLink href="/ezekiel-10" scrollToId="#filepos9120524">
                   <span className="calibre_19">
@@ -162,7 +162,7 @@ export default function Ezekiel01() {
           every one had four wings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Their hands and their wings were in proportion, which means
                 that equal intelligence indwelt their entire being, and the One
                 Spirit energized them all.)
@@ -178,7 +178,7 @@ export default function Ezekiel01() {
           sparkled like the colour of burnished brass.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, Straight feet, means they were shaped like those of
                 an ox, which emphasizes the fact that they did not move by
                 walking. Even though like an ox, there their similarity ended.)
@@ -194,7 +194,7 @@ export default function Ezekiel01() {
           their wings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The number four is not without intense meaning. Four refers to
                 fourfold and, therefore, completion, i.e., complete within
                 itself, which can only speak of the Creator, and not the
@@ -219,7 +219,7 @@ export default function Ezekiel01() {
           forward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When adding{" "}
                 <ScrollLink href="/" scrollToId="#filepos9020749">
                   <span className="calibre_19">
@@ -267,7 +267,7 @@ export default function Ezekiel01() {
           also had the face of an eagle.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (First of all, it is impossible to exhaust the meaning of the
                 symbolism given here. One can connect all of this with the human
                 face of the Son of Man, Who shared in the Glory of the Father:
@@ -310,7 +310,7 @@ export default function Ezekiel01() {
           another, and two covered their bodies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Thus were their faces, seems to imply that the Holy Spirit
                 desired for us to understand the symbolism, at least as far as
                 is possible for man to do!)
@@ -326,7 +326,7 @@ export default function Ezekiel01() {
           when they went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they went every one straight forward, seems to imply that
                 from point to point, they always traveled in a straight line,
                 thereby denoting perfect knowledge of direction and perfect
@@ -367,7 +367,7 @@ export default function Ezekiel01() {
           lightning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems that these Living Creatures were bathed, as it were,
                 in the fire that played around them, yet were not consumed.
                 Fire, as distinct from Light, seems to be the symbol of the
@@ -399,7 +399,7 @@ export default function Ezekiel01() {
           returned as the appearance of a flash of lightning.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is of speed incomprehensible to the human mind and
                 overwhelming in brightness. Perhaps one can say that they
                 traveled with the speed of thought.)
@@ -415,7 +415,7 @@ export default function Ezekiel01() {
           with his four faces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The wheels represent direction, hence the eyes of{" "}
                 <ScrollLink href="/" scrollToId="#filepos9024630">
                   <span className="calibre_19">
@@ -438,7 +438,7 @@ export default function Ezekiel01() {
           in the middle of a wheel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Strangely enough, and as we shall see, these wheels which
                 accompanied the Cherubim were not attached in any way. A wheel
                 in the middle of a wheel, seems to imply two wheels in one.)
@@ -453,7 +453,7 @@ export default function Ezekiel01() {
           four sides: and they turned not when they went.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And they turned not when they went, probably indicates that
                 they traveled in a straight line and that the wheels did not
                 turn as wheels normally do. This suggests the idea of orderly
@@ -470,7 +470,7 @@ export default function Ezekiel01() {
           about them four.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (John the Beloved, on the Isle of Patmos, described the Living
                 Creatures he saw as full of eyes before and behind [
                 <ScrollLink href="/revelation-04" scrollToId="#filepos14928868">
@@ -503,7 +503,7 @@ export default function Ezekiel01() {
           from the Earth, the wheels were lifted up.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (First of all, we should understand the laws of nature have
                 absolutely nothing to do with these Cherubim. They seem to be
                 subject to no laws except the sphere pertaining to their own
@@ -521,7 +521,7 @@ export default function Ezekiel01() {
           wheels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Whithersoever the Spirit was to go, refers to the Holy Spirit,
                 and should have been capitalized in the English translation. As
                 well, the phrase, Thither was their spirit to go, implies their
@@ -554,7 +554,7 @@ export default function Ezekiel01() {
           the Living Creature was in the wheels.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse is very similar to{" "}
                 <ScrollLink href="/" scrollToId="#filepos9025840">
                   <span className="calibre_19">
@@ -588,7 +588,7 @@ export default function Ezekiel01() {
           side, their bodies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (According to{" "}
                 <ScrollLink href="/" scrollToId="#filepos9018749">
                   <span className="calibre_19">
@@ -614,7 +614,7 @@ export default function Ezekiel01() {
           stood, they let down their wings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though there is no evidence that the wings moved except
                 from a vertical to a horizontal position when stopped, still, he
                 heard the noise of their wings. The only explanation is that
@@ -639,7 +639,7 @@ export default function Ezekiel01() {
           their wings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the Voice of God, even though we are not told what was
                 said.)
               </span>
@@ -655,7 +655,7 @@ export default function Ezekiel01() {
           as the appearance of a man above upon it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel sees the appearance of God here, which was similar to a
                 Man, but with a spirit body.)
               </span>
@@ -672,7 +672,7 @@ export default function Ezekiel01() {
           brightness round about.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel did not say that God was clothed in fire, but the
                 appearance of fire round about within it. In other words, there
                 was a glow which made the Lords Spirit Body seem as if it was on
@@ -691,7 +691,7 @@ export default function Ezekiel01() {
           a Voice of One who spoke.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Ezekiel saw a rainbow round about the Throne of God exactly as
                 did John in his vision [
                 <ScrollLink href="/revelation-04" scrollToId="#filepos14926834">

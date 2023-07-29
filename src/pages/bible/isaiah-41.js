@@ -17,7 +17,7 @@ export default function Isaiah41() {
           them speak: let us come near together to judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Through Isaiah, God is the Speaker. The idea of this Passage is
                 that before God man has no argument; hence, Keep silence before
                 Me.)
@@ -34,7 +34,7 @@ export default function Isaiah41() {
           as driven stubble to his bow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems from{" "}
                 <ScrollLink href="/" scrollToId="#filepos7742887">
                   <span className="calibre_19">
@@ -66,7 +66,7 @@ export default function Isaiah41() {
           even by the way that he had not gone with his feet.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He pursued them refers to Abraham rescuing Lot when he was
                 taken captive by the four kings, as outlined in{" "}
                 <ScrollLink href="/genesis-14" scrollToId="#filepos177470">
@@ -102,7 +102,7 @@ export default function Isaiah41() {
           the last; I am He.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The generations chosen from the beginning were the children of
                 Abraham; for they were all in their fathers loins when God chose
                 him [
@@ -138,7 +138,7 @@ export default function Isaiah41() {
           ends of the Earth were afraid, drew near, and came.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Israel, as is evident in{" "}
                 <ScrollLink href="/" scrollToId="#filepos7742887">
                   <span className="calibre_19">
@@ -170,7 +170,7 @@ export default function Isaiah41() {
           and every one said to his brother, Be of good courage.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The courage of the confederate nations which tried to stop
                 Joshua was of no consequence with the Lord.)
               </span>
@@ -186,7 +186,7 @@ export default function Isaiah41() {
           that i t should not be moved.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As they would make their idol, they would then need to solder
                 and nail it so that the wretched object might be kept erect and
                 not show its weakness by falling over. Such is the spiritual
@@ -205,7 +205,7 @@ export default function Isaiah41() {
           Jacob whom I have chosen, the seed of Abraham My friend.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/" scrollToId="#filepos7742887">
                   <span className="calibre_19">
@@ -230,7 +230,7 @@ export default function Isaiah41() {
           you, You are My servant; I have chosen you, and not cast you away.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning the chief men thereof, the idea is that God had the
                 ability to choose anyone. He had His pick of the chief men.
                 However, it was Abraham whom He chose, i.e., Jacob.)
@@ -252,7 +252,7 @@ export default function Isaiah41() {
           Righteousness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The progression in this Verse is most precious: I am with you;
                 but He comes yet nearer: I will strengthen you; and still
                 closer: I will help you; and finally, He throws His arms around
@@ -276,7 +276,7 @@ export default function Isaiah41() {
           shall be as nothing, and as a thing of nought.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The order, as given here, is one of climax. Similarly, with
                 each augmentation of the hostility, there is an augmentation of
                 the sentence of punishment. In essence, the Holy Spirit through
@@ -293,7 +293,7 @@ export default function Isaiah41() {
           your right hand, saying unto you, Fear not; I will help you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God Himself will be their [our] strength, courage, power, and
                 their glory, and will Personally interfere on their behalf,
                 taking them, as it were, by their right hand. As an adult leads
@@ -311,7 +311,7 @@ export default function Isaiah41() {
           Holy One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is the worm Jacob that is to become a new sharp threshing
                 instrument having teeth, and who is to break in pieces the great
                 nations and the lesser nations, here compared to mountains and
@@ -341,7 +341,7 @@ export default function Isaiah41() {
           beat them small, and shall make the hills as chaff.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is to be more than just sustained here. Strength is to
                 be given her to take the aggressive, and to subdue her enemies
                 under her. This will occur when Jesus comes back. Then every
@@ -359,7 +359,7 @@ export default function Isaiah41() {
           shall rejoice in the LORD, and shall glory in the Holy One of Israel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel in the past has little rejoiced or gloried in the LORD.
                 However, her strength has always been derived from this Source,
                 and this Source Alone!)
@@ -375,7 +375,7 @@ export default function Isaiah41() {
           hear them, I the God of Israel will not forsake them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The poor and needy represent Israel. The water represents the
                 Water of Life. Israel doesnt have this Water of Life, so her
                 thirst continues; however, in the Battle of Armageddon, the Lord
@@ -392,7 +392,7 @@ export default function Isaiah41() {
           wilderness a pool of water, and the dry land springs of water.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Often the Holy Spirit likens the spiritual rejuvenation to the
                 wilderness being made fertile, and that by ample irrigation.
                 Life is a wilderness, and can enjoy fertility only in Christ.
@@ -411,7 +411,7 @@ export default function Isaiah41() {
           in the desert the fir tree, and the pine, the box tree together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the trees named are the choicest in Israel; the idea is that we
                 have a deep relationship with the One Who does the planting; in
                 fact, Isaiah will later say that we are the planting of the Lord
@@ -437,7 +437,7 @@ export default function Isaiah41() {
           this, and the Holy One of Israel has created it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In that future day of blessing, Israel, now barren and stony,
                 will become beauteous and fertile as the Garden of the Lord; and
                 the nations of the Earth will recognize that these wonders are
@@ -458,7 +458,7 @@ export default function Isaiah41() {
           bring forth your strong reasons, says the King of Jacob.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In view of all of this that the Lord will do, Isaiah once again
                 compares Jehovah with idols. He says, Produce your cause, etc.,
                 i.e., state your case in favor of idolatry; bring forth your
@@ -476,7 +476,7 @@ export default function Isaiah41() {
           us things for to come.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, Let them bring them forth, is basically the same as
                 Produce your cause. God claims that the power of predicting the
                 future is His Own inalienable prerogative. He defies the
@@ -506,7 +506,7 @@ export default function Isaiah41() {
           evil, that we may be dismayed, and behold it together.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, the Lord is saying, concerning these idols, If you
                 cannot prophesy, what can you do? In actuality, you cannot do
                 good or evil. In effect, He is saying, You have no power to do
@@ -522,7 +522,7 @@ export default function Isaiah41() {
           work of nought: an abomination is he who chooses you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Scripture declares an idol to be an abomination. Hence, an
                 idolater becomes an abomination; not only abominable, but worse,
                 an abomination; for a man becomes morally like that which he
@@ -542,7 +542,7 @@ export default function Isaiah41() {
           treads clay.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Cyrus was the one raised up by God to fulfill His Word
                 concerning the punishment of Babylon and the freeing of Israel
                 [Jer., Chpt.{" "}
@@ -594,7 +594,7 @@ export default function Isaiah41() {
           there is none who hears your words.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Said in contrast to this prediction as to Cyrus, the challenge
                 is repeated to the dumb idols to produce such a prediction on
                 their part, thus demonstrating their trustworthiness. But the
@@ -612,7 +612,7 @@ export default function Isaiah41() {
           behold them: and I will give to Jerusalem one who brings good tidings.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Messiah speaks here and calls to Zion to behold the
                 fulfillment of His Prediction. Idols bring nothing, while the
                 Lord always brings Good Tidings.)
@@ -628,7 +628,7 @@ export default function Isaiah41() {
           them, could answer a word.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Not only are the idols themselves dumb, but their worshippers,
                 when challenged to defend them, are dumb also; and the inability
                 of the idols to act, as to speak, is again pointed to in this
@@ -656,7 +656,7 @@ export default function Isaiah41() {
           works are nothing: their molten images are wind and confusion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Wind and confusion adequately describe anything and everything
                 that is not of the Lord. This final outburst of scorn is
                 directed primarily against the idol-worshippers and, only

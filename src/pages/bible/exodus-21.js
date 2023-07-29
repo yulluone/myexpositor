@@ -18,7 +18,7 @@ export default function Exodus21() {
           shall set before them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the legislation involving this Chapter, and the following two,
                 points to a loving God charting a moral course for a corrupt
                 people)
@@ -35,7 +35,7 @@ export default function Exodus21() {
           nothing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the servants in the economy of Israel, as designed by God, had
                 no kindred spirit whatsoever with that which we think of today
                 as slavery; it was the same as an individual hiring himself to a
@@ -55,7 +55,7 @@ export default function Exodus21() {
           him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if the man was married when he indentured himself, when he had
                 served the agreed upon time, his wife would be free with him)
               </span>
@@ -71,7 +71,7 @@ export default function Exodus21() {
           shall be her masters, and he shall go out by himself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in this case, he would have to make arrangements as it regards
                 his wife and children)
               </span>
@@ -86,7 +86,7 @@ export default function Exodus21() {
           I love my master, my wife, and my children; I will not go out free{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this proclaims the Servanthood of Christ and, thereby,
                 the manner in which we are to serve the Lord)
               </span>
@@ -103,7 +103,7 @@ export default function Exodus21() {
           shall serve him forever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This perfectly Types our Lord Jesus Christ. He indentured
                 Himself to the human race, and served perfectly. During this
                 time, He gained a wife, i.e., the Church [
@@ -164,7 +164,7 @@ export default function Exodus21() {
           her, then shall she go out free without money.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (How does all of this picture Christ? It does so in the fact
                 that He has bought us [
                 <ScrollLink
@@ -225,7 +225,7 @@ export default function Exodus21() {
           shall be surely put to death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of that which we now refer to as cold-blooded
                 murder)
               </span>
@@ -241,7 +241,7 @@ export default function Exodus21() {
           he shall flee.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These statements involve aggravated assault, or even
                 second-degree murder. Six cities of refuge were to be
                 designated, where the shedder of blood might flee, and where he
@@ -270,7 +270,7 @@ export default function Exodus21() {
           Altar, that he may die.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Joab is a perfect example of this [
                 <ScrollLink href="/kings1-02" scrollToId="#filepos3709648">
                   <span className="calibre_19">
@@ -310,13 +310,13 @@ export default function Exodus21() {
           <sup className="calibre7">16</sup>And he who steals{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(kidnaps)</span>
+              <span className="explanation">(kidnaps)</span>
             </span>
           </span>{" "}
           a man, and sells him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as a slave)</span>
+              <span className="explanation">(as a slave)</span>
             </span>
           </span>
           , or if he be found in his hand, he shall surely be put to death.
@@ -331,7 +331,7 @@ export default function Exodus21() {
           mother, shall surely be put to death.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Pulpit Commentary says concerning this: The unsystematic
                 character of the arrangement in this Chapter is remarkably shown
                 by this interruption of the consideration of different sorts of
@@ -375,7 +375,7 @@ export default function Exodus21() {
           upon his staff, then shall he who smote him be quit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(acquitted)</span>
+              <span className="explanation">(acquitted)</span>
             </span>
           </span>
           : only he shall pay for the loss of his time, and shall cause him to
@@ -395,7 +395,7 @@ export default function Exodus21() {
           day or two, he shall not be punished: for he is his money{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that he has paid for the services of the servant and,
                 providing the cause was just, he must not be punished, even
                 though he did hit him)
@@ -411,7 +411,7 @@ export default function Exodus21() {
           child, so that her fruit depart from her{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the pregnancy is terminated)</span>
+              <span className="explanation">(the pregnancy is terminated)</span>
             </span>
           </span>
           , and yet no mischief follow: he shall be surely punished, according
@@ -437,7 +437,7 @@ export default function Exodus21() {
           wound, stripe for stripe.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The order of retaliation, as it referred to here, was seldom
                 carried out under Jewish Law, but was rather settled by the
                 giving of money or labor, etc.; however, let it ever be
@@ -495,7 +495,7 @@ export default function Exodus21() {
           be eaten; but the owner of the ox shall be quit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wont be responsible)</span>
+              <span className="explanation">(wont be responsible)</span>
             </span>
           </span>
         </span>
@@ -516,7 +516,7 @@ export default function Exodus21() {
           laid upon him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pay money instead of forfeiting his life, which was what was
                 normally done)
               </span>
@@ -567,7 +567,7 @@ export default function Exodus21() {
           surely pay ox for ox; and the dead shall be his own.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He will be responsible. We also see in all of this that God is
                 no respecter of persons. What was applicable to the poorest of
                 the poor was just as applicable to the rich and the powerful.

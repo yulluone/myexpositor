@@ -18,7 +18,7 @@ export default function Deuteronmy30() {
           nations, where the LORD your God has driven you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in effect, the Lord through Moses tells Israel that they will
                 fail Him, thereby bringing the curses upon themselves)
               </span>
@@ -35,7 +35,7 @@ export default function Deuteronmy30() {
           soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(true Repentance)</span>
+              <span className="explanation">(true Repentance)</span>
             </span>
           </span>
           ;
@@ -49,7 +49,7 @@ export default function Deuteronmy30() {
           scattered you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this will take place at the Second Coming [
                 <ScrollLink href="/zechariah-12" scrollToId="#filepos10704946">
                   <span className="calibre_19">
@@ -72,7 +72,7 @@ export default function Deuteronmy30() {
           you, and from thence will He fetch you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (at the Second Coming, the Lord will gather every Jew from all
                 the nations of the world, and bring them to Israel [
                 <ScrollLink href="/jeremiah-32" scrollToId="#filepos8629171">
@@ -96,7 +96,7 @@ export default function Deuteronmy30() {
           and He will do you good, and multiply you above your fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all the Blessings promised will now be possessed, because of
                 obedience, which includes, above all, the acceptance of the Lord
                 Jesus Christ as their Messiah and Saviour [
@@ -121,7 +121,7 @@ export default function Deuteronmy30() {
           all your heart, and with all your soul, that you may live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this speaks of the New Covenant accepted by Israel, which
                 refers to the Lord Jesus Christ, and which Paul mentioned [
                 <ScrollLink href="/romans-02" scrollToId="#filepos13304075">
@@ -161,7 +161,7 @@ export default function Deuteronmy30() {
           your fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a complete restoration, which the Holy Spirit through Paul also
                 predicted [
                 <ScrollLink href="/romans-11" scrollToId="#filepos13463803">
@@ -186,7 +186,7 @@ export default function Deuteronmy30() {
           your God with all your heart, and with all your soul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, if Israel would only try to obey, Blessings
                 would be theirs; but if they forsook the Lord, as they
                 ultimately did, the Blessings would be replaced with Judgment,
@@ -206,7 +206,7 @@ export default function Deuteronmy30() {
           you this day, it is not hidden from you, neither is it far off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if any were ignorant, it was because they desired to be; the
                 way had been made plain to them)
               </span>
@@ -222,7 +222,7 @@ export default function Deuteronmy30() {
           may hear it, and do it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (While the Law originated in Heaven, the Lord had sent it down
                 to Earth.)
               </span>
@@ -237,7 +237,7 @@ export default function Deuteronmy30() {
           us, that we may hear it, and do it?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law was not in another place, hard to find.)
               </span>
             </span>
@@ -250,7 +250,7 @@ export default function Deuteronmy30() {
           in your mouth, and in your heart, that you may do it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, if Israel was ignorant, or anyone among them,
                 it was a willful ignorance; it is the same presently with modern
                 Christians; anyone who wants to know the Word of God can know
@@ -270,7 +270,7 @@ export default function Deuteronmy30() {
           life and good, and death and evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel had a choice, even as modern Christians have a choice)
               </span>
             </span>
@@ -287,7 +287,7 @@ export default function Deuteronmy30() {
           go to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the ingredients for blessings, so to speak, were as near to
                 them as the Bible; and so it is presently!)
               </span>
@@ -310,7 +310,7 @@ export default function Deuteronmy30() {
           the land, where you pass over Jordan to go to possess it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the warning is amply given)</span>
+              <span className="explanation">(the warning is amply given)</span>
             </span>
           </span>
         </span>
@@ -324,7 +324,7 @@ export default function Deuteronmy30() {
           seed may live{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (once again, the choice was theirs; the way had been made
                 crystal clear to them; therefore, they could not claim
                 ignorance)
@@ -343,7 +343,7 @@ export default function Deuteronmy30() {
           and to Jacob, to give them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is told here to cleave unto the Lord, for He is
                 everything they need; once again, it is the same presently!
                 Jesus is all that we need [

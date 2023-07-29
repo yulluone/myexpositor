@@ -17,7 +17,7 @@ export default function Deuteronmy10() {
           into the Mount, and make thee an Ark of wood{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Ark of the Covenant)</span>
+              <span className="explanation">(the Ark of the Covenant)</span>
             </span>
           </span>
         </span>
@@ -45,7 +45,7 @@ export default function Deuteronmy10() {
           Assembly: and the LORD gave them unto me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Ten Commandments, when investigated thoroughly, are found
                 to be the foundation of all sensible law in the world and, in
                 fact, ever have been. When a nation strays from its concepts,
@@ -70,7 +70,7 @@ export default function Deuteronmy10() {
           Priests office in his stead{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the office of the High Priest)
               </span>
             </span>
@@ -92,7 +92,7 @@ export default function Deuteronmy10() {
           this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the appointment of the Tribe of Levi for service took place in
                 connection with that of Aaron and his sons to the Priesthood [
                 <ScrollLink href="/numbers-03" scrollToId="#filepos1703853">
@@ -147,7 +147,7 @@ export default function Deuteronmy10() {
           LORD, and His Statutes, which I command you this day for your good?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God had shown great favor to Israel. What return did He
                 require? Only that they would fear Him, love Him, and obey Him.)
               </span>
@@ -162,7 +162,7 @@ export default function Deuteronmy10() {
           is{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord is the Creator of all things)
               </span>
             </span>
@@ -177,7 +177,7 @@ export default function Deuteronmy10() {
           above all people, as it is this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (meaning that Israel was honored more than any other people on
                 the face of the Earth)
               </span>
@@ -192,7 +192,7 @@ export default function Deuteronmy10() {
           your heart, and be no more stiffnecked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they were to humble their heart before God)
               </span>
             </span>
@@ -207,7 +207,7 @@ export default function Deuteronmy10() {
           regards not persons, nor takes reward{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord is the complex and sum of all that is Divine)
               </span>
             </span>
@@ -222,7 +222,7 @@ export default function Deuteronmy10() {
           raiment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord vindicates the right of the defenseless, if they will
                 only look to Him [
                 <ScrollLink href="/psalm-068" scrollToId="#filepos6098602">
@@ -253,7 +253,7 @@ export default function Deuteronmy10() {
           you were strangers in the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel knew what it was to be a stranger in a strange land; so
                 they were to reciprocate with strangers, and even at the command
                 of the Lord)
@@ -270,7 +270,7 @@ export default function Deuteronmy10() {
           Name{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the last phrase refers to praising the Lord)
               </span>
             </span>
@@ -291,14 +291,14 @@ export default function Deuteronmy10() {
           with threescore and ten persons{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(70 people)</span>
+              <span className="explanation">(70 people)</span>
             </span>
           </span>
           ; and now the LORD your God has made you as the stars of heaven for
           multitude{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-15" scrollToId="#filepos192788">
                   <span className="calibre_19">

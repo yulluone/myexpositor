@@ -66,7 +66,9 @@ export default function Matthew05() {
           , and taught them, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(begins the greatest moment of</span>
+              <span className="explanation">
+                (begins the greatest moment of
+              </span>
             </span>
             <span>
               <span className="calibre_19">
@@ -86,7 +88,7 @@ export default function Matthew05() {
           <sup className="calibre7">3</sup>Blessed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(happy)</span>
+              <span className="explanation">(happy)</span>
             </span>
             <span>
               <span className="calibre_19">are</span>
@@ -95,7 +97,7 @@ export default function Matthew05() {
           the poor in spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(conscious of moral poverty)</span>
+              <span className="explanation">(conscious of moral poverty)</span>
             </span>
           </span>
           : for theirs is the Kingdom of Heaven{" "}
@@ -189,7 +191,7 @@ export default function Matthew05() {
           they which do hunger and thirst{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(intense desire)</span>
+              <span className="explanation">(intense desire)</span>
             </span>
           </span>{" "}
           after Righteousness{" "}
@@ -422,7 +424,7 @@ export default function Matthew05() {
           <sup className="calibre7">13</sup>You are the salt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(preservative)</span>
+              <span className="explanation">(preservative)</span>
             </span>
           </span>{" "}
           of the earth: but if the salt have lost his savour, wherewith shall it
@@ -466,7 +468,7 @@ export default function Matthew05() {
           put it under a bushel, but on a candlestick{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the light is not to be hid)</span>
+              <span className="explanation">(the light is not to be hid)</span>
             </span>
           </span>
           ; and it gives light unto all who are in the house{" "}
@@ -513,7 +515,7 @@ export default function Matthew05() {
           the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this was the Law of Moses)</span>
+              <span className="explanation">(this was the Law of Moses)</span>
             </span>
           </span>
           , or the Prophets{" "}
@@ -574,7 +576,7 @@ export default function Matthew05() {
           , one jot{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(smallest</span>
+              <span className="explanation">(smallest</span>
             </span>
             <span>
               <span className="calibre_19">letter in the Hebrew alphabet)</span>
@@ -727,7 +729,9 @@ export default function Matthew05() {
           of the Scribes and Pharisees{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(which was self-righteousness)</span>
+              <span className="explanation">
+                (which was self-righteousness)
+              </span>
             </span>
           </span>
           , you shall in no case enter into the Kingdom of Heaven{" "}
@@ -767,7 +771,7 @@ export default function Matthew05() {
           ; and whosoever shall kill{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(murder)</span>
+              <span className="explanation">(murder)</span>
             </span>
           </span>{" "}
           shall be in danger of the judgment{" "}
@@ -844,7 +848,7 @@ export default function Matthew05() {
           shall be in danger of the judgment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(certain of judgment)</span>
+              <span className="explanation">(certain of judgment)</span>
             </span>
           </span>
           : and whosoever shall say to his brother, Raca{" "}
@@ -859,7 +863,7 @@ export default function Matthew05() {
           , shall be in danger of the Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Sanhedrin)</span>
+              <span className="explanation">(Sanhedrin)</span>
             </span>
           </span>
           : but whosoever shall say, Thou fool, shall be in danger of hell fire{" "}
@@ -1014,7 +1018,7 @@ export default function Matthew05() {
           them of old time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mosaic Law)</span>
+              <span className="explanation">(the Mosaic Law)</span>
             </span>
           </span>
           , You shall not commit adultery{" "}
@@ -1189,7 +1193,7 @@ export default function Matthew05() {
           , Whosoever shall put away his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to</span>
+              <span className="explanation">(refers to</span>
             </span>
             <span>
               <span className="calibre_19">divorce proceedings)</span>
@@ -1220,7 +1224,7 @@ export default function Matthew05() {
           , That whosoever shall put away his wife{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(divorce her)</span>
+              <span className="explanation">(divorce her)</span>
             </span>
           </span>
           , saving for the cause of fornication{" "}
@@ -1352,7 +1356,9 @@ export default function Matthew05() {
           head, because you cannot make one hair white or black{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(man is Gods highest creation)</span>
+              <span className="explanation">
+                (man is Gods highest creation)
+              </span>
             </span>
           </span>
           .
@@ -1436,7 +1442,9 @@ export default function Matthew05() {
           not evil{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(do not reward evil with evil)</span>
+              <span className="explanation">
+                (do not reward evil with evil)
+              </span>
             </span>
           </span>
           : but whosoever shall smite you on the right cheek, turn to him the

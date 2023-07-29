@@ -82,7 +82,7 @@ export default function Romans02() {
           judges them which do such things, and do the same{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(you, the Jew)</span>
+              <span className="explanation">(you, the Jew)</span>
             </span>
           </span>
           , that you shall escape the Judgment of God?{" "}
@@ -119,7 +119,7 @@ export default function Romans02() {
           ; not knowing that the goodness of God leads you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(trying to lead you)</span>
+              <span className="explanation">(trying to lead you)</span>
             </span>
           </span>{" "}
           to Repentance?
@@ -155,7 +155,7 @@ export default function Romans02() {
           according to his deeds{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(we reap what we sow!)</span>
+              <span className="explanation">(we reap what we sow!)</span>
             </span>
           </span>
           :
@@ -205,7 +205,7 @@ export default function Romans02() {
           , but obey unrighteousness, indignation and wrath{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the opposite of Truth)</span>
+              <span className="explanation">(the opposite of Truth)</span>
             </span>
           </span>
           ,
@@ -225,13 +225,13 @@ export default function Romans02() {
           , of the Jew first{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(held more responsible)</span>
+              <span className="explanation">(held more responsible)</span>
             </span>
           </span>
           , and also of the Gentile{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(will answer as well!)</span>
+              <span className="explanation">(will answer as well!)</span>
             </span>
           </span>
           ;
@@ -344,7 +344,7 @@ export default function Romans02() {
           not the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law of Moses)</span>
+              <span className="explanation">(Law of Moses)</span>
             </span>
           </span>
           , do by nature the things contained in the Law{" "}
@@ -384,7 +384,7 @@ export default function Romans02() {
           , their conscience also bearing witness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(but which can be seared)</span>
+              <span className="explanation">(but which can be seared)</span>
             </span>
           </span>
           , and{" "}
@@ -455,7 +455,7 @@ export default function Romans02() {
           , and make your boast of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(glorying in who they were)</span>
+              <span className="explanation">(glorying in who they were)</span>
             </span>
           </span>
           ,
@@ -569,7 +569,7 @@ export default function Romans02() {
           you who preach a man should not steal, do you steal?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Most of them did!)</span>
+              <span className="explanation">(Most of them did!)</span>
             </span>
           </span>
         </span>
@@ -580,7 +580,7 @@ export default function Romans02() {
           adultery, do you commit adultery?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Many did!)</span>
+              <span className="explanation">(Many did!)</span>
             </span>
           </span>{" "}
           you who abhor idols, do you commit sacrilege?{" "}
@@ -669,13 +669,13 @@ export default function Romans02() {
           <sup className="calibre7">26</sup>Therefore if the uncircumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>{" "}
           keep the Righteousness of the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through Jesus Christ)</span>
+              <span className="explanation">(through Jesus Christ)</span>
             </span>
           </span>
           , shall not his uncircumcision be counted for Circumcision?{" "}

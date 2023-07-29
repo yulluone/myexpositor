@@ -17,7 +17,7 @@ export default function Chronicles116() {
           they offered Burnt Sacrifices and Peace Offerings before God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Holy Spirit calls attention to the Sacrifices,
                 which typified Calvary. We arent told where these Sacrifices
                 were offered, whether at Gibeon, where the Brazen Altar was
@@ -36,7 +36,7 @@ export default function Chronicles116() {
           people in the Name of the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (everything was built and ordered on the basis of the Cross,
                 which the Sacrifices typified)
               </span>
@@ -52,7 +52,7 @@ export default function Chronicles116() {
           flesh, and a flagon of wine.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It is very difficult to explain to the reader the significance
                 of this moment in Israels history. The Ark of God was symbolic
                 of all of Israels power, strength, and glory. With the Ark, she
@@ -100,7 +100,7 @@ export default function Chronicles116() {
           with trumpets continually before the Ark of the Covenant of God.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word continually means both morning and evening, and at the
                 time of the morning and evening sacrifices. This means that the
                 choirs would worship the Lord by singing the Psalms each day at
@@ -122,7 +122,7 @@ export default function Chronicles116() {
           brethren.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (There are five great words which make up the entirety of this
                 Psalm, which comprises praise and worship in our living for God.
                 They are: Give, Sing, Glory, Seek, and Remember.)
@@ -137,7 +137,7 @@ export default function Chronicles116() {
           His Name, make known His deeds among the people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Believer must constantly give thanks)
               </span>
             </span>
@@ -151,7 +151,7 @@ export default function Chronicles116() {
           talk you of all His wondrous Works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we are to sing to Him, and the song should be about His
                 wondrous Works)
               </span>
@@ -166,7 +166,7 @@ export default function Chronicles116() {
           heart of them rejoice who seek the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (our Glory is to be in His Holy Name, which incorporates His
                 Character and Power; we then have the assurance that He will
                 hear our prayers)
@@ -182,7 +182,7 @@ export default function Chronicles116() {
           His Face continually{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(and about everything!)</span>
+              <span className="explanation">(and about everything!)</span>
             </span>
           </span>
         </span>
@@ -194,7 +194,7 @@ export default function Chronicles116() {
           has done, His Wonders, and the Judgments of His Mouth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Word and His Works are to ever be remembered)
               </span>
             </span>
@@ -208,7 +208,7 @@ export default function Chronicles116() {
           you Children of Jacob, His chosen Ones{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (out of all the Earth, chosen!)
               </span>
             </span>
@@ -222,7 +222,7 @@ export default function Chronicles116() {
           Judgments are in all the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(He Alone is the Creator)</span>
+              <span className="explanation">(He Alone is the Creator)</span>
             </span>
           </span>
         </span>
@@ -234,7 +234,7 @@ export default function Chronicles116() {
           Covenant; the Word which He commanded to a thousand generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in other words, unending!)</span>
+              <span className="explanation">(in other words, unending!)</span>
             </span>
           </span>
           ;
@@ -246,7 +246,7 @@ export default function Chronicles116() {
           with Abraham, and of His Oath unto Isaac{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-17" scrollToId="#filepos212814">
                   <span className="calibre_19">
@@ -298,7 +298,7 @@ export default function Chronicles116() {
           land of Canaan, the lot of your inheritance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Bible is the greatest title deed known to man; pure and
                 simple, it allots here the land of Canaan to Israel, and not the
                 so-called Palestinians, as claimed by the Muslims)
@@ -320,7 +320,7 @@ export default function Chronicles116() {
           nation, and from one kingdom to another people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (before the land of Israel was occupied)
               </span>
             </span>
@@ -334,7 +334,7 @@ export default function Chronicles116() {
           yes, He reproved kings for their sakes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/genesis-12" scrollToId="#filepos167294">
                   <span className="calibre_19">
@@ -384,7 +384,7 @@ export default function Chronicles116() {
           His marvelous works among all nations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evangelize the world!)</span>
+              <span className="explanation">(evangelize the world!)</span>
             </span>
           </span>
         </span>
@@ -402,7 +402,7 @@ export default function Chronicles116() {
           idols: but the LORD made the heavens{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is One God, and only One, and He is the Creator of all
                 things)
               </span>
@@ -423,7 +423,7 @@ export default function Chronicles116() {
           the people, give unto the LORD glory and strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (give Him the credit He is due)
               </span>
             </span>
@@ -444,7 +444,7 @@ export default function Chronicles116() {
           world also shall be stable, that it be not moved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(that will one day be!)</span>
+              <span className="explanation">(that will one day be!)</span>
             </span>
           </span>
         </span>
@@ -456,7 +456,7 @@ export default function Chronicles116() {
           Earth rejoice: and let men say among the nations, The LORD reigns{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the coming Kingdom Age, this Scripture will be fulfilled)
               </span>
             </span>
@@ -470,7 +470,7 @@ export default function Chronicles116() {
           thereof: let the fields rejoice, and all that is therein{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(rejoice in the Lord!)</span>
+              <span className="explanation">(rejoice in the Lord!)</span>
             </span>
           </span>
         </span>
@@ -483,7 +483,7 @@ export default function Chronicles116() {
           Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the coming Kingdom Age!)</span>
+              <span className="explanation">(the coming Kingdom Age!)</span>
             </span>
           </span>
         </span>
@@ -495,7 +495,7 @@ export default function Chronicles116() {
           is good; for His Mercy endures for ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what a Promise!)</span>
+              <span className="explanation">(what a Promise!)</span>
             </span>
           </span>
         </span>
@@ -514,7 +514,7 @@ export default function Chronicles116() {
           for ever and ever. And all the people said, Amen, and praised the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of this Psalm can probably be summed up in the
                 great phrase of{" "}
                 <ScrollLink href="/" scrollToId="#filepos4533891">
@@ -541,7 +541,7 @@ export default function Chronicles116() {
           the Ark continually, as every days work required{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the great celebration of worship was not to be discontinued
                 after the installment of the Ark; it was to be continually; too
                 often those who name the Name of Christ worship the Lord only on
@@ -560,7 +560,7 @@ export default function Chronicles116() {
           be porters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this man, in whose house the Ark of God had been left by David
                 for some three months, would forsake all that he had in order to
                 be near the Ark; he would be associated with the singers and
@@ -589,7 +589,7 @@ export default function Chronicles116() {
           LORD, which He commanded Israel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Ark was in Jerusalem, while the Brazen Altar was at Gibeon,
                 about 5 miles northwest of Jerusalem; evidently, the Table of
                 Shewbread, Golden Lampstand, and Altar of Incense were in
@@ -615,7 +615,7 @@ export default function Chronicles116() {
           musical instruments of God. And the sons of Jeduthun were porters{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (under David, the great worship of God regarding musical
                 instrumentation and choirs actually began; of course, he was led
                 by the Lord to do so; the Book of Psalms was Earths first

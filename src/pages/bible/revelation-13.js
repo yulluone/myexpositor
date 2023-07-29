@@ -134,13 +134,13 @@ export default function Revelation13() {
           : and the dragon{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan)</span>
+              <span className="explanation">(Satan)</span>
             </span>
           </span>{" "}
           gave him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           his power, and his seat, and great authority.{" "}
@@ -285,7 +285,7 @@ export default function Revelation13() {
           , and His Tabernacle{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(refers to Heaven)</span>
+              <span className="explanation">(refers to Heaven)</span>
             </span>
           </span>
           , and them who dwell in Heaven.{" "}
@@ -551,13 +551,13 @@ export default function Revelation13() {
           <sup className="calibre7">13</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the false prophet)</span>
+              <span className="explanation">(the false prophet)</span>
             </span>
           </span>{" "}
           does great wonders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(signs)</span>
+              <span className="explanation">(signs)</span>
             </span>
           </span>
           , so that he makes fire come down from Heaven on the Earth in the
@@ -640,7 +640,7 @@ export default function Revelation13() {
           <sup className="calibre7">15</sup>And he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the false prophet)</span>
+              <span className="explanation">(the false prophet)</span>
             </span>
           </span>{" "}
           had power to give life unto the image of the beast{" "}
@@ -739,7 +739,7 @@ export default function Revelation13() {
           <sup className="calibre7">18</sup>Here is wisdom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(this is the wisdom of God)</span>
+              <span className="explanation">(this is the wisdom of God)</span>
             </span>
           </span>
           . Let him who has understanding count the number of the beast{" "}

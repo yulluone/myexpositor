@@ -177,7 +177,7 @@ export default function Job20() {
           the vipers tongue shall kill him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Satan will take him out)</span>
+              <span className="explanation">(Satan will take him out)</span>
             </span>
           </span>
           .

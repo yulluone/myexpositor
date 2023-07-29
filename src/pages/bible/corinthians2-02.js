@@ -16,13 +16,13 @@ export default function Corinthians202() {
           <sup className="calibre7">1</sup>But I determined this with myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(concerns a settled question)</span>
+              <span className="explanation">(concerns a settled question)</span>
             </span>
           </span>
           , that I would not come again to you in heaviness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (On his second visit to Corinth, it seems things had happened
                 which caused hurt to the Apostle. This was before I Corinthians
                 was written.)
@@ -36,7 +36,7 @@ export default function Corinthians202() {
           <sup className="calibre7">2</sup>For if I make you sorry{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a stand he had to take regarding one who had refused to repent,
                 but did repent later because of Pauls stand)
               </span>
@@ -45,7 +45,7 @@ export default function Corinthians202() {
           , who is he then who makes me glad{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the person who had sinned)
               </span>
             </span>
@@ -53,7 +53,7 @@ export default function Corinthians202() {
           , but the same which is made sorry by me?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The same man, whom Paul had made sorry, now repents and makes
                 the Apostle glad. Some claim this was not the same man of I
                 Cor., Chpt.{" "}
@@ -79,7 +79,7 @@ export default function Corinthians202() {
           when I came, I should have sorrow from them of whom I ought to rejoice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had he gone to Corinth when he had first intended, he may not
                 have been met with rejoicing due to sin in the Church; that
                 situation has now changed)
@@ -95,7 +95,7 @@ export default function Corinthians202() {
           of you all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Things have now taken a turn for the better.)
               </span>
             </span>
@@ -108,7 +108,7 @@ export default function Corinthians202() {
           anguish of heart I wrote unto you with many tears{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the writing of I Corinthians)
               </span>
             </span>
@@ -117,7 +117,7 @@ export default function Corinthians202() {
           which I have more abundantly unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the greatest proof of all that of tears)
               </span>
             </span>
@@ -134,7 +134,7 @@ export default function Corinthians202() {
           not grieved me, but in part{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Apostle dealing with the person who is probably
                 the incestuous one of I Cor., Chpt.{" "}
                 <ScrollLink
@@ -154,7 +154,7 @@ export default function Corinthians202() {
           : that I may not overcharge you all.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He didnt want everyone in the Church at Corinth to think he was
                 putting all in the same category of wrong direction.)
               </span>
@@ -173,7 +173,7 @@ export default function Corinthians202() {
           this punishment{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that turning him over to Satan had accomplished all that
                 was desired [
                 <ScrollLink
@@ -199,7 +199,7 @@ export default function Corinthians202() {
           of many.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Most in the Church obeyed Paul by turning the man over to Satan
                 for the destruction of the flesh. Some few didnt, which means
                 they didnt go along with what Paul had said.)
@@ -228,7 +228,7 @@ export default function Corinthians202() {
               <span className="calibre_19">him</span>
             </span>
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (show love toward the man who had sinned and now repented),
               </span>
             </span>
@@ -236,7 +236,7 @@ export default function Corinthians202() {
           lest perhaps such a one should be swallowed up with overmuch sorrow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(sink into despair)</span>
+              <span className="explanation">(sink into despair)</span>
             </span>
           </span>
           .
@@ -254,7 +254,7 @@ export default function Corinthians202() {
           love toward him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (do more than just say you love him, but rather show your love
                 to him)
               </span>
@@ -270,7 +270,7 @@ export default function Corinthians202() {
           things.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In I Cor., Chpt.{" "}
                 <ScrollLink
                   href="/corinthians1-05"
@@ -293,7 +293,7 @@ export default function Corinthians202() {
           <sup className="calibre7">10</sup>To whom you forgive any thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(forgive the man)</span>
+              <span className="explanation">(forgive the man)</span>
             </span>
           </span>
           , I{" "}
@@ -305,7 +305,7 @@ export default function Corinthians202() {
           also{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (I forgive you for taking the wrong direction at the beginning)
               </span>
             </span>
@@ -325,7 +325,7 @@ export default function Corinthians202() {
           in the Person of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (forgiveness is a great part of the Christian Faith, and is
                 demanded by Christ [
                 <ScrollLink href="/matthew-06" scrollToId="#filepos10908677">
@@ -348,7 +348,7 @@ export default function Corinthians202() {
           of us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we obey the Word, Satan will have no advantage)
               </span>
             </span>
@@ -356,7 +356,7 @@ export default function Corinthians202() {
           : for we are not ignorant of his devices{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his ways, which take advantage of the Christians wrong
                 direction)
               </span>
@@ -376,7 +376,7 @@ export default function Corinthians202() {
           Christs Gospel, and a door was opened unto me of the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerned an opportunity for Ministry in this place)
               </span>
             </span>
@@ -389,7 +389,7 @@ export default function Corinthians202() {
           <sup className="calibre7">13</sup>I had no rest in my spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the problems in Corinth, which he addressed in his First
                 Epistle, he could not take advantage of this open door; he was
                 too troubled at the thought of the Church at Corinth possibly
@@ -400,7 +400,7 @@ export default function Corinthians202() {
           , because I found not Titus my brother{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (evidently refers to a prearranged meeting at which Titus was to
                 give him some information regarding Corinth; the meeting did not
                 occur because Titus was delayed for some reason, which caused
@@ -411,13 +411,13 @@ export default function Corinthians202() {
           : but taking my leave of them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(leaving Troas)</span>
+              <span className="explanation">(leaving Troas)</span>
             </span>
           </span>
           , I went from thence into Macedonia.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (He no doubt met Titus at Philippi, who then gave him some good
                 news concerning Corinth.)
               </span>
@@ -439,7 +439,7 @@ export default function Corinthians202() {
           unto God, which always causes us to triumph in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we triumph only by constantly exhibiting Faith in the Cross,
                 which gives the Holy Spirit latitude to work in our lives and
                 bring about the victory)
@@ -449,7 +449,7 @@ export default function Corinthians202() {
           , and makes manifest the savour of His Knowledge by us in every place{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Preaching of the Cross [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -485,7 +485,7 @@ export default function Corinthians202() {
           of Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referring to what the Cross has done in lives)
               </span>
             </span>
@@ -493,7 +493,7 @@ export default function Corinthians202() {
           , in them who are saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (by trusting in Christ and the Cross)
               </span>
             </span>
@@ -501,7 +501,7 @@ export default function Corinthians202() {
           , and in them who perish{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who reject the Cross [
                 <ScrollLink
                   href="/corinthians1-01"
@@ -531,7 +531,7 @@ export default function Corinthians202() {
           the savour of death unto death{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (continuing to refer to those who reject the Cross)
               </span>
             </span>
@@ -539,7 +539,7 @@ export default function Corinthians202() {
           ; and to the other the savour of life unto life.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All life comes through the Spirit, from Christ and by the Cross
                 [
                 <ScrollLink href="/romans-08" scrollToId="#filepos13388498">
@@ -562,7 +562,7 @@ export default function Corinthians202() {
           sufficient for these things?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Gospel, which is so mighty to save from
                 death.)
               </span>
@@ -576,7 +576,7 @@ export default function Corinthians202() {
           corrupt the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Preach something other than the Cross)
               </span>
             </span>
@@ -585,7 +585,7 @@ export default function Corinthians202() {
           Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is observing all our efforts and will accept only that
                 which is in Christ, which always refers to the Cross.)
               </span>

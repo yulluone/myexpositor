@@ -141,7 +141,7 @@ export default function Samuel106() {
           take two mil k kine{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(two cows)</span>
+              <span className="explanation">(two cows)</span>
             </span>
           </span>
           , on which there hath come no yoke, and tie the kine to the cart, and
@@ -259,7 +259,7 @@ export default function Samuel106() {
           stone: and they did cleave the wood of the cart, and offered the cows{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as)</span>
+              <span className="explanation">(as)</span>
             </span>
           </span>{" "}
           a Burnt Offering unto the LORD.
@@ -335,7 +335,7 @@ export default function Samuel106() {
           <sup className="calibre7">19</sup>And He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Lord)</span>
+              <span className="explanation">(the Lord)</span>
             </span>
           </span>{" "}
           smote the men of Beth-shemesh, because they had looked into the Ark of

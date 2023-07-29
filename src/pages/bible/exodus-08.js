@@ -19,7 +19,7 @@ export default function Exodus08() {
           that they may serve Me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Verse, as others, portrays the demand by God to Satan, Let
                 My people go, that they may serve Me. This is the only power
                 that Satan recognizes. The Church flounders helplessly when it
@@ -36,7 +36,7 @@ export default function Exodus08() {
           behold, I will smite all your borders with frogs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this plague was directed against the frog-god that was an
                 object of worship in Egypt; it was worshipped as a symbol of
                 fertility)
@@ -55,7 +55,7 @@ export default function Exodus08() {
           kneadingtroughs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (due to the fact that the frog was a god to the Egyptians, they
                 could not kill them, but yet the frogs drove them to the point
                 of insanity; their animal-worship was thus proved absurd and
@@ -75,7 +75,7 @@ export default function Exodus08() {
           you, and upon your people, and upon all your servants{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the frogs coming up on Pharaoh proved the helplessness of his
                 claim as a god)
               </span>
@@ -99,7 +99,7 @@ export default function Exodus08() {
           Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (over the entirety of the land, with the exception of Goshen,
                 where the Children of Israel resided [
                 <ScrollLink href="/" scrollToId="#filepos776213">
@@ -122,7 +122,7 @@ export default function Exodus08() {
           enchantments, and brought up frogs upon the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (considering that the land was literally inundated with frogs,
                 Im sure the people really appreciated the Egyptian magicians
                 bringing even more frogs on the scene)
@@ -140,7 +140,7 @@ export default function Exodus08() {
           may do sacrifice unto the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this request by Pharaoh was an admission that the Lord was
                 greater than all the gods of Egypt; this is the first time that
                 he had sent for Moses and Aaron)
@@ -156,7 +156,7 @@ export default function Exodus08() {
           over me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (of what do I have this honor?)
               </span>
             </span>
@@ -166,7 +166,7 @@ export default function Exodus08() {
           remain in the river only?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the Scripture is silent regarding this, it is more
                 than likely possible that Pharaohs magicians tried to take away
                 the frogs, but could not succeed in doing so.)
@@ -180,7 +180,7 @@ export default function Exodus08() {
           <sup className="calibre7">10</sup>And he said, Tomorrow.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (What a stupid answer! They could have been taken away
                 immediately. One more night with the frogs.)
               </span>
@@ -190,7 +190,7 @@ export default function Exodus08() {
           there is none like unto the LORD our God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (and Pharaoh was helpless to contest this claim)
               </span>
             </span>
@@ -225,7 +225,7 @@ export default function Exodus08() {
           heaps: and the land stank{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (hundreds of millions of frogs died at once, and one can well
                 imagine the stench that filled the land)
               </span>
@@ -241,7 +241,7 @@ export default function Exodus08() {
           LORD had said.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With the plague of frogs lifted, Pharaoh reneges on his promise
                 to let the people go, which is indicative of most of humanity.
                 God is quickly forgotten when the judgment lifts.)
@@ -260,7 +260,7 @@ export default function Exodus08() {
           it may become lice throughout all the land of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the hardened heart of the Monarch was answered by a plague of
                 lice)
               </span>
@@ -277,7 +277,7 @@ export default function Exodus08() {
           throughout all the land of Egypt.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When Aaron smote the ground, and its dust became lice, and the
                 lice came upon the Egyptians, it was a graphic showing-forth of
                 the awful fact that man by nature is under the curse of a
@@ -294,7 +294,7 @@ export default function Exodus08() {
           lice upon man, and upon beast.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (By slight of hand, it was possible, it seems, for Jannes and
                 Jambres, the lead magicians of Egypt, to turn rods into
                 serpents, water into blood, and to bring up frogs out of the
@@ -312,7 +312,7 @@ export default function Exodus08() {
           Pharaoh, This is the Finger of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the term actually reads of a God; all that they meant to say
                 was, This is beyond the power of man it is supernatural some god
                 must be helping the Israelites)
@@ -323,7 +323,7 @@ export default function Exodus08() {
           the LORD had said.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As we shall see, the stubbornness of Pharaoh only falls out to
                 a portrayal of the Power of God. Either way, some way, God is
                 glorified!)
@@ -352,7 +352,7 @@ export default function Exodus08() {
           whereon they are.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This miracle was designed to manifest the helplessness of
                 Beelzebub, the god of flies, who was supposed to have power to
                 prevent flies. The type of fly mentioned here is said to have
@@ -375,7 +375,7 @@ export default function Exodus08() {
           midst of the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The indication is that none of the plagues affected the
                 Children of Israel, and neither were they meant to affect the
                 Children of Israel.)
@@ -390,7 +390,7 @@ export default function Exodus08() {
           People and your people: tomorrow shall this sign be.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (That division is still maintained by the Lord as it regards the
                 world and His people. While the Lord may chastise His people, He
                 never sends judgment, because such judgment was tendered at
@@ -408,7 +408,7 @@ export default function Exodus08() {
           corrupted by reason of the swarm of flies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This means all the crops were lost, plus all the grass eaten.
                 In other words, Egypt was left denuded, with the exception of
                 Goshen.)
@@ -423,7 +423,7 @@ export default function Exodus08() {
           Aaron, and said, Go ye, sacrifice to your God in the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is the first compromise made by Pharaoh: Sacrifice to your
                 God in the land. It is Satans trick that the Believer be not
                 only in the world, but, as well, of the world.)
@@ -437,7 +437,7 @@ export default function Exodus08() {
           <sup className="calibre7">26</sup>And Moses said, It is not meet{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(possible)</span>
+              <span className="explanation">(possible)</span>
             </span>
           </span>{" "}
           to do so; for we shall sacrifice the abomination of the Egyptians to
@@ -445,7 +445,7 @@ export default function Exodus08() {
           Egyptians before their eyes, and will they not stone us?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Pharaoh knew this, as well!)</span>
+              <span className="explanation">(Pharaoh knew this, as well!)</span>
             </span>
           </span>
         </span>
@@ -457,7 +457,9 @@ export default function Exodus08() {
           us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Moses did not take the bait.)</span>
+              <span className="explanation">
+                (Moses did not take the bait.)
+              </span>
             </span>
           </span>
         </span>
@@ -469,7 +471,7 @@ export default function Exodus08() {
           you shall not go very far away: intreat for me.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This was the second compromise! Go, but not very far away. As
                 Believers, we must never forget that one of the great themes of
                 the Bible is separation.)
@@ -493,7 +495,7 @@ export default function Exodus08() {
           intreated the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (asked the Lord to remove the flies)
               </span>
             </span>
@@ -508,7 +510,7 @@ export default function Exodus08() {
           his servants, and from his people; there remained not one.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In fact, everything the Lord did in this situation, in one way
                 or the other, constituted a miracle. There were billions of
                 flies, buzzing, gnawing, and eating; and then the next moment

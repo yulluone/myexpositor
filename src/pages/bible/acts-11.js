@@ -16,7 +16,7 @@ export default function Acts11() {
           were in Judaea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the Eleven other than Peter, as well as others)
               </span>
             </span>
@@ -24,7 +24,7 @@ export default function Acts11() {
           heard that the Gentiles had also received the Word of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this type of news travels fast)
               </span>
             </span>
@@ -38,7 +38,7 @@ export default function Acts11() {
           Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a time of great significance)
               </span>
             </span>
@@ -46,13 +46,13 @@ export default function Acts11() {
           , they who were of the Circumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jewish Believers)</span>
+              <span className="explanation">(Jewish Believers)</span>
             </span>
           </span>{" "}
           contended with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it means, at least at the outset, that they were not accepting
                 Peters explanation, feeling he had made himself unclean by
                 associating with Gentiles)
@@ -68,13 +68,13 @@ export default function Acts11() {
           uncircumcised{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Gentiles)</span>
+              <span className="explanation">(Gentiles)</span>
             </span>
           </span>
           , and did eat with them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is nothing in the Law of Moses which forbids eating with
                 Gentiles; this was an addition made by men, not God)
               </span>
@@ -97,7 +97,7 @@ export default function Acts11() {
           from the beginning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Apostle being very patient, and for cause; if it
                 is to be remembered, the Lord had been patient with him)
               </span>
@@ -112,7 +112,7 @@ export default function Acts11() {
           by order unto them, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (portrays him taking the entire episode step-by-step)
               </span>
             </span>
@@ -128,7 +128,7 @@ export default function Acts11() {
           even to me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims what he saw, and that he knew it was meant for him)
               </span>
             </span>
@@ -149,7 +149,7 @@ export default function Acts11() {
           Arise, Peter; kill and eat{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this was not a suggestion, but rather a Command; therefore,
                 intended to be obeyed)
               </span>
@@ -170,7 +170,7 @@ export default function Acts11() {
           Heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he didnt see a form, but only heard a Voice)
               </span>
             </span>
@@ -205,14 +205,14 @@ export default function Acts11() {
           <sup className="calibre7">12</sup>And the Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Holy Spirit)</span>
+              <span className="explanation">(Holy Spirit)</span>
             </span>
           </span>{" "}
           bade me go with them, nothing doubting. Moreover these six brethren
           accompanied me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he now tells how many went with him)
               </span>
             </span>
@@ -220,7 +220,7 @@ export default function Acts11() {
           , and we entered into the mans house{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the house of Cornelius)</span>
+              <span className="explanation">(the house of Cornelius)</span>
             </span>
           </span>
           :
@@ -233,7 +233,7 @@ export default function Acts11() {
           and call for Simon, whose surname is Peter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this proclaims that God works through men)
               </span>
             </span>
@@ -247,7 +247,7 @@ export default function Acts11() {
           you and all your house shall be saved{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims unequivocally that they were not saved before Peter
                 came and preached the Gospel, even though Cornelius had done
                 many good things)
@@ -262,7 +262,7 @@ export default function Acts11() {
           <sup className="calibre7">15</sup>And as I began to speak{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (had gotten a little way into the Message)
               </span>
             </span>
@@ -270,7 +270,7 @@ export default function Acts11() {
           , the Holy Spirit fell on them, as on us at the beginning{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Cornelius and his household being Baptized with the
                 Spirit, exactly as the Apostles and others had been on the Day
                 of Pentecost)
@@ -286,7 +286,7 @@ export default function Acts11() {
           Lord, how that He said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to something that Peter had not mentioned in the
                 actual happening)
               </span>
@@ -296,7 +296,7 @@ export default function Acts11() {
           Holy Spirit{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/acts-01" scrollToId="#filepos12755016">
                   <span className="calibre_19">
@@ -325,13 +325,13 @@ export default function Acts11() {
           <sup className="calibre7">17</sup>Forasmuch then as God gave them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Gentiles)</span>
+              <span className="explanation">(the Gentiles)</span>
             </span>
           </span>{" "}
           the like Gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Salvation and the Holy Spirit Baptism)
               </span>
             </span>
@@ -345,13 +345,13 @@ export default function Acts11() {
           unto us, who believed on the Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the requirement)</span>
+              <span className="explanation">(the requirement)</span>
             </span>
           </span>
           ; what was I, that I could withstand God?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To not go would be to disobey God.)
               </span>
             </span>
@@ -364,7 +364,7 @@ export default function Acts11() {
           held their peace, and glorified God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they not only stifled their own thoughts of opposition, but
                 glorified God as well for what had been done)
               </span>
@@ -374,7 +374,7 @@ export default function Acts11() {
           Life{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims in no uncertain terms that they were given such Life
                 strictly on Faith, which included none of the rituals and
                 Ceremonies of Judaism)
@@ -393,7 +393,7 @@ export default function Acts11() {
           upon the persecution that arose about Stephen{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (concerns that which happened in Acts, Chpt.{" "}
                 <ScrollLink href="/acts-08" scrollToId="#filepos12894105">
                   <span className="calibre_19">
@@ -409,19 +409,19 @@ export default function Acts11() {
           travelled as far as Phenice{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Lebanon)</span>
+              <span className="explanation">(Lebanon)</span>
             </span>
           </span>
           , and Cyprus, and Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a city of Syria)</span>
+              <span className="explanation">(a city of Syria)</span>
             </span>
           </span>
           , preaching the Word to none but unto the Jews only{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertained basically to proclaiming Jesus as the Messiah of
                 Israel and the Saviour of the world, and that He had risen from
                 the dead)
@@ -437,7 +437,7 @@ export default function Acts11() {
           and Cyrene{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (implies that they were latecomers to Antioch)
               </span>
             </span>
@@ -445,7 +445,7 @@ export default function Acts11() {
           , which, when they were come to Antioch, spoke unto the Grecians{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to Gentiles, not Greek-speaking Jews as some claim)
               </span>
             </span>
@@ -453,7 +453,7 @@ export default function Acts11() {
           , preaching the Lord Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (indicates that Jews who preached to them were not demanding
                 that they also keep the Law of Moses)
               </span>
@@ -468,7 +468,7 @@ export default function Acts11() {
           them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (signifies that God was pleased with the Gospel being preached
                 to these Gentiles)
               </span>
@@ -477,7 +477,7 @@ export default function Acts11() {
           : and a great number believed, and turned unto the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they gave their hearts and lives to the Lord Jesus Christ)
               </span>
             </span>
@@ -491,7 +491,7 @@ export default function Acts11() {
           unto the ears of the Church which was in Jerusalem{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which was then the headquarters Church; these tidings spoke of
                 good news)
               </span>
@@ -500,7 +500,7 @@ export default function Acts11() {
           : and they sent forth Barnabas, that he should go as far as Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Barnabas was the right man!; therefore, they were led by the
                 Spirit in sending him)
               </span>
@@ -515,7 +515,7 @@ export default function Acts11() {
           Grace of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that Barnabas saw the changed lives of these
                 Gentiles)
               </span>
@@ -525,7 +525,7 @@ export default function Acts11() {
           would cleave unto the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be led by the Holy Spirit)</span>
+              <span className="explanation">(be led by the Holy Spirit)</span>
             </span>
           </span>
           .
@@ -536,7 +536,7 @@ export default function Acts11() {
           <sup className="calibre7">24</sup>For he was a good man{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is what the Holy Spirit said)
               </span>
             </span>
@@ -544,7 +544,7 @@ export default function Acts11() {
           , and full of the Holy Spirit and of Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (describes Barnabas in the same manner as Stephen [
                 <ScrollLink href="/acts-06" scrollToId="#filepos12850578">
                   <span className="calibre_19">
@@ -560,7 +560,7 @@ export default function Acts11() {
           : and much peo ple was added unto the Lord{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (many Jews and Gentiles were coming to Christ)
               </span>
             </span>
@@ -574,7 +574,7 @@ export default function Acts11() {
           for to seek Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this is one of the single most important Verses in the entirety
                 of the Word of God; the Holy Spirit led him to do this; as well,
                 the Text implies that he had some difficulty in finding Paul;
@@ -593,7 +593,7 @@ export default function Acts11() {
           assembled themselves with the church, and taught much people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (could well signal the beginning of teaching of the New Covenant
                 as it had been given to Paul by Christ)
               </span>
@@ -602,7 +602,7 @@ export default function Acts11() {
           . And the Disciples were called Christians first in Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they received the name of Christians, as followers of Christ,
                 from the outside world and accepted it [
                 <ScrollLink href="/acts-26" scrollToId="#filepos13239308">
@@ -633,7 +633,7 @@ export default function Acts11() {
           Jerusalem unto Antioch{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to near the conclusion of the year spent by
                 Paul and Barnabas in Antioch at that time)
               </span>
@@ -648,7 +648,7 @@ export default function Acts11() {
           Agabus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims Agabus giving forth a Prophetic Utterance, as he did
                 in{" "}
                 <ScrollLink href="/acts-21" scrollToId="#filepos13153018">
@@ -666,13 +666,13 @@ export default function Acts11() {
           throughout all the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the known world of that day)</span>
+              <span className="explanation">(the known world of that day)</span>
             </span>
           </span>
           : which came to pass in the days of Claudius Caesar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Holy Spirit informed them of this for a reason, as we shall
                 see)
               </span>
@@ -688,7 +688,7 @@ export default function Acts11() {
           which dwelt in Judaea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was already great hardship in Jerusalem due to multiple
                 thousands of Believers being excommunicated from the Synagogue,
                 and now this drought added extra strain, as would be obvious)
@@ -704,7 +704,7 @@ export default function Acts11() {
           the Elders by the hands of Barnabas and Saul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they took the offering to Jerusalem)
               </span>
             </span>

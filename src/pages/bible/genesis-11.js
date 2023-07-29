@@ -18,7 +18,7 @@ export default function Genesis11() {
           language, and of one speech{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (before the flood and immediately after the flood, there was
                 only one language on the face of the Earth; even though we have
                 no way of knowing specifically, that language was probably
@@ -35,7 +35,7 @@ export default function Genesis11() {
           journeyed from the east{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (doesnt refer to every single person, but rather that a great
                 group went in that direction, more than likely led by Nimrod;
                 the phrase, from the east, should have been translated in the
@@ -46,7 +46,7 @@ export default function Genesis11() {
           , that they found a plain in the land of Shinar; and they dwelt there.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This prince, Nimrod, and his city, Babylon, and the plain on
                 which it was erected, Shinar, all claim attention. They
                 represent Satans efforts, using man as his agent, to oppose and
@@ -67,7 +67,7 @@ export default function Genesis11() {
           stone, and slime had they for morter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (considering the materials with which they were to use, they
                 definitely did not plan for this city and tower to be temporary)
               </span>
@@ -82,7 +82,7 @@ export default function Genesis11() {
           a city and a tower, whose top may reach unto heaven{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably signifies the worship of the Zodiac, i.e., the
                 planetary bodies)
               </span>
@@ -92,7 +92,7 @@ export default function Genesis11() {
           of the whole Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (They said marks the undeniable evil of the human heart. They
                 had no regard for what God wanted. In this one Verse, we find
                 the seedbed of all rebellion against God, whether then or now!
@@ -120,7 +120,7 @@ export default function Genesis11() {
           city and the tower, which the children of men built{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(men rule, but God overrules)</span>
+              <span className="explanation">(men rule, but God overrules)</span>
             </span>
           </span>
         </span>
@@ -132,7 +132,7 @@ export default function Genesis11() {
           is one, and they have all one language{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which was actually the Will of God)
               </span>
             </span>
@@ -140,14 +140,14 @@ export default function Genesis11() {
           ; and this they begin to do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(to rebel against God)</span>
+              <span className="explanation">(to rebel against God)</span>
             </span>
           </span>
           : and now nothing will be restrained from them, which they have
           imagined to do{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, their rebellion will only intensify)
               </span>
             </span>
@@ -162,7 +162,7 @@ export default function Genesis11() {
           speech.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The pronoun Us, as it regards the Lord, proclaims the Trinity;
                 there is one God, but manifest in three Persons, God the Father,
                 God the Son, and God the Holy Spirit. At least a hundred or more
@@ -179,7 +179,7 @@ export default function Genesis11() {
           from thence upon the face of all the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (those who spoke the same language banded together and went
                 elsewhere)
               </span>
@@ -188,7 +188,7 @@ export default function Genesis11() {
           : and they left off to build the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is some evidence that they finished the tower, but not
                 the city)
               </span>
@@ -203,7 +203,7 @@ export default function Genesis11() {
           Babel{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means confusion; Babel is also the Hebrew name for Babylon; the
                 tower of Babel and the city itself, for that matter, had their
                 origin in deliberate, determined, enthusiastic, exalting
@@ -220,7 +220,7 @@ export default function Genesis11() {
           the Earth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (As stated, men rule, but God overrules!)
               </span>
             </span>
@@ -333,7 +333,7 @@ export default function Genesis11() {
           begat Abram, Nahor, and Haran.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The generations now pick up again with Shem, because through
                 his lineage the Son of God would be born into the world;
                 however, it stops here with Abraham, and for a specific reason.
@@ -365,7 +365,7 @@ export default function Genesis11() {
           <sup className="calibre7">29</sup>And Abram{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham)</span>
+              <span className="explanation">(Abraham)</span>
             </span>
           </span>{" "}
           and Nahor took them wives: the name of Abrams wife was Sarai; and the
@@ -379,7 +379,7 @@ export default function Genesis11() {
           child.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Abraham now comes into view, and will prove to be one of the
                 greatest men of God who ever lived. Even though Sarah was
                 barren, the Lord, years later, even when she was 90 years of
@@ -411,7 +411,7 @@ export default function Genesis11() {
           hundred and five years: and Terah died in Haran.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (With the entire family leaving Ur of the Chaldees, and
                 journeying toward Canaan, we know that by now Abraham has had
                 the great Revelation from God. How this Revelation came to him,

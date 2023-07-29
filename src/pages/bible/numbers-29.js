@@ -16,7 +16,7 @@ export default function Numbers29() {
           first day of the month{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(our October)</span>
+              <span className="explanation">(our October)</span>
             </span>
           </span>
           , you shall have an holy convocation; you shall do no servile work: it

@@ -16,7 +16,7 @@ export default function Kings216() {
           son of Remaliah{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(king of Israel)</span>
+              <span className="explanation">(king of Israel)</span>
             </span>
           </span>{" "}
           Ahaz the son of Jotham king of Judah began to reign.{" "}
@@ -290,14 +290,14 @@ export default function Kings216() {
           , which was before the LORD{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(in front of the Temple)</span>
+              <span className="explanation">(in front of the Temple)</span>
             </span>
           </span>
           , from the forefront of the House, from between the altar and the
           House of the LORD, and put it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(put the Brazen Altar)</span>
+              <span className="explanation">(put the Brazen Altar)</span>
             </span>
           </span>{" "}
           on the north side of the altar{" "}
@@ -319,7 +319,7 @@ export default function Kings216() {
           Priest, saying, Upon the great altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the heathen altar)</span>
+              <span className="explanation">(the heathen altar)</span>
             </span>
           </span>{" "}
           burn the morning burnt offering, and the evening meat offering, and
@@ -329,7 +329,7 @@ export default function Kings216() {
           offering, and all the blood of the sacrifice: and the Brasen Altar{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the true Altar)</span>
+              <span className="explanation">(the true Altar)</span>
             </span>
           </span>{" "}
           shall be for me to enquire by{" "}
@@ -375,13 +375,13 @@ export default function Kings216() {
           , and removed the laver{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ten brazen lavers)</span>
+              <span className="explanation">(ten brazen lavers)</span>
             </span>
           </span>{" "}
           from off them; and took down the sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the great Brazen Laver)</span>
+              <span className="explanation">(the great Brazen Laver)</span>
             </span>
           </span>{" "}
           from off the brasen oxen that were under it, and put it upon a

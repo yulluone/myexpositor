@@ -20,7 +20,7 @@ export default function Daniel09() {
           realm of the Chaldeans{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this Vision was seen about a year after the one in Dan., Chpt.{" "}
                 <ScrollLink href="/daniel-08" scrollToId="#filepos9859429">
                   <span className="calibre_19">
@@ -58,7 +58,7 @@ export default function Daniel09() {
           seventy years in the desolations of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This seventy years has nothing to do with the seventy weeks of
                 years which Daniel will see in the Vision in the latter part of
                 the Chapter [
@@ -119,7 +119,7 @@ export default function Daniel09() {
           ashes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel was seeking God for the deliverance of Israel from this
                 seventy-year captivity as was promised by the Lord. His prayer
                 was based upon the Books, i.e., the Bible [Lev., Chpt.{" "}
@@ -169,7 +169,7 @@ export default function Daniel09() {
           keep His Commandments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is a reference here to{" "}
                 <ScrollLink href="/deuteronmy-07" scrollToId="#filepos2197583">
                   <span className="calibre_19">
@@ -196,7 +196,7 @@ export default function Daniel09() {
           from Your Precepts and from Your Judgments{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel includes himself in this confession of wrongdoing. Even
                 by departing from Your Precepts and from Your Judgments, defines
                 what sin is. It is a departing from the Word of God. As it was
@@ -214,7 +214,7 @@ export default function Daniel09() {
           princes, and our fathers, and to all the people of the land.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Judah had suffered seventy years of captivity because she would
                 not listen to the one True Prophet, Jeremiah, who was raised up
                 by the Lord; they rather heeded the false prophets.)
@@ -233,7 +233,7 @@ export default function Daniel09() {
           against You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (But unto us confusion of faces, refers to shame. Sin always
                 brings shame, and only God can take it away.)
               </span>
@@ -248,7 +248,7 @@ export default function Daniel09() {
           have sinned against You.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Lord will only accept from the truly repentant heart, i.e.,
                 we have sinned against You, because all sin, in one way or the
                 other, is directed against God.)
@@ -263,7 +263,7 @@ export default function Daniel09() {
           and forgivenesses; though we have rebelled against Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Mercy will always be shown and forgiveness will always be
                 tendered if the individual, irrespective as to what has been
                 done, will only humble himself before God)
@@ -280,7 +280,7 @@ export default function Daniel09() {
           Servants the Prophets.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, the Word of God is held up as the guideline for all
                 living. It is called the Voice of the LORD our God.)
               </span>
@@ -297,7 +297,7 @@ export default function Daniel09() {
           Him.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When a curse is promised for certain action, it will be done
                 according to Gods Word, just as a reward is granted for
                 obedience.)
@@ -314,7 +314,7 @@ export default function Daniel09() {
           done as has been done upon Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God will always confirm His Word and curse those who sin and
                 bless those who obey [
                 <ScrollLink href="/galatians-6" scrollToId="#filepos13985257">
@@ -342,7 +342,7 @@ export default function Daniel09() {
           understand Your Truth.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea of this Verse is: Judah would not repent although
                 repeatedly warned before the Judgment; they also would not
                 repent after the Judgment.
@@ -373,7 +373,7 @@ export default function Daniel09() {
           all His Works which He does: for we obeyed not His Voice.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The idea is: what the Lord has done is the right thing to have
                 done, and His Righteousness is vindicated in Judgment on sin
                 that refuses to be repented of.)
@@ -390,7 +390,7 @@ export default function Daniel09() {
           done wickedly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And have gotten You renown, as at this day, is an
                 exact quotation from{" "}
                 <ScrollLink href="/jeremiah-32" scrollToId="#filepos8620176">
@@ -420,7 +420,7 @@ export default function Daniel09() {
           are become a reproach to all who are about us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In effect, Daniel is asking that the Anger of the Lord, which
                 has been poured out for the last seventy years on Jerusalem and
                 Your People, be abated. The appeal is made to Gods
@@ -439,7 +439,7 @@ export default function Daniel09() {
           shine upon Your sanctuary that is desolate, for the Lords Sake.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel is calling the Lord to the petition of the Psalmist,
                 where Asaph said, Turn us again, O God, and cause Your Face to
                 shine; and we shall be saved [
@@ -464,7 +464,7 @@ export default function Daniel09() {
           You for our righteousnesses, but for Your great Mercies.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods Blessings are not given because we deserve them, because,
                 in fact, we do not.)
               </span>
@@ -479,7 +479,7 @@ export default function Daniel09() {
           City and Your People are called by Your Name.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel repeatedly uses the title, Adonai, in saying, O Lord,
                 hear. The short sentences give a feeling of intensity to the
                 prayer suitable to the circumstances.)
@@ -501,7 +501,7 @@ export default function Daniel09() {
           Mountain of my God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Daniel declared that Jerusalem has been called by Gods Name,
                 and has been chosen by God. Actually, it will be the capital of
                 His Eternal Kingdom on Earth [
@@ -583,7 +583,7 @@ export default function Daniel09() {
           Oblation.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Once again, Gabriel is sent to Daniels side. The phrase, About
                 the time of the evening Oblation, referred to 3 p.m., which was
                 the time of the evening Sacrifice; however, this does not imply
@@ -603,7 +603,7 @@ export default function Daniel09() {
           understanding.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (To give you skill and understanding, refers to the future of
                 Israel and last-day events.)
               </span>
@@ -619,7 +619,7 @@ export default function Daniel09() {
           consider the Vision.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The study of Bible Prophecy was not for Daniel a mere
                 intellectual entertainment, but moral and Spiritual
                 Nourishment.)
@@ -637,7 +637,7 @@ export default function Daniel09() {
           Prophecy, and to anoint the Most Holy.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Seventy weeks are determined upon your people, actually means
                 seventy sevens, which translates into 490 years. This period of
                 time has to do with your people and your holy city, referring to
@@ -692,7 +692,7 @@ export default function Daniel09() {
           wall, even in troublous times.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If one is to notice in this Scripture, the seventy weeks of
                 years is broken up into two periods. One shall be seven weeks
                 [49 years] and the other will be threescore and two weeks [434
@@ -761,7 +761,7 @@ export default function Daniel09() {
           desolations are determined.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, And after threescore and two weeks shall Messiah be
                 cut off, gives us the exact time, even the very year, that the
                 Messiah would be crucified. The words, cut off, refer to His
@@ -810,7 +810,7 @@ export default function Daniel09() {
           and that determined shall be poured upon the desolate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (And he shall confirm, refers to the Antichrist. The phrase, And
                 in the midst of the week, refers to three and a half years, at
                 which time the Antichrist will show his true colors and stop the

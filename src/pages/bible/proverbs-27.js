@@ -38,7 +38,7 @@ export default function Proverbs27() {
           your own mouth; a stranger, and not your own lips.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Self-praise denotes pride.)</span>
+              <span className="explanation">(Self-praise denotes pride.)</span>
             </span>
           </span>
         </span>

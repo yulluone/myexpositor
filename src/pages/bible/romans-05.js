@@ -24,13 +24,13 @@ export default function Romans05() {
           , we have peace with God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(justifying peace)</span>
+              <span className="explanation">(justifying peace)</span>
             </span>
           </span>{" "}
           through our Lord Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what He did at the Cross)</span>
+              <span className="explanation">(what He did at the Cross)</span>
             </span>
           </span>
           :
@@ -50,13 +50,13 @@ export default function Romans05() {
           wherein we stand{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(wherein alone we can stand)</span>
+              <span className="explanation">(wherein alone we can stand)</span>
             </span>
           </span>
           , and rejoice in hope{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(a hope that is guaranteed)</span>
+              <span className="explanation">(a hope that is guaranteed)</span>
             </span>
           </span>{" "}
           of the Glory of God{" "}
@@ -105,7 +105,7 @@ export default function Romans05() {
           <sup className="calibre7">4</sup>And patience, experience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(points to an end result)</span>
+              <span className="explanation">(points to an end result)</span>
             </span>
           </span>
           ; and experience, hope{" "}
@@ -152,13 +152,13 @@ export default function Romans05() {
           <sup className="calibre7">6</sup>For when we were yet without strength{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(before we were saved)</span>
+              <span className="explanation">(before we were saved)</span>
             </span>
           </span>
           , in due time{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(at the appointed time)</span>
+              <span className="explanation">(at the appointed time)</span>
             </span>
           </span>{" "}
           Christ died for the ungodly{" "}
@@ -178,13 +178,13 @@ export default function Romans05() {
           one die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not many would do such)</span>
+              <span className="explanation">(not many would do such)</span>
             </span>
           </span>
           : yet peradventure for a good man some would even dare to die{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(some few might)</span>
+              <span className="explanation">(some few might)</span>
             </span>
           </span>
           .
@@ -309,7 +309,7 @@ export default function Romans05() {
           , by Whom we have now received the Atonement{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Reconciliation)</span>
+              <span className="explanation">(Reconciliation)</span>
             </span>
           </span>
           .
@@ -324,7 +324,7 @@ export default function Romans05() {
           into the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by Adam)</span>
+              <span className="explanation">(by Adam)</span>
             </span>
           </span>
           , and death by sin{" "}
@@ -338,7 +338,7 @@ export default function Romans05() {
           ; and so death passed upon all men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(for all were in Adam)</span>
+              <span className="explanation">(for all were in Adam)</span>
             </span>
           </span>
           , for that all have sinned{" "}
@@ -357,13 +357,13 @@ export default function Romans05() {
           <sup className="calibre7">13</sup>(For until the Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Law of Moses)</span>
+              <span className="explanation">(Law of Moses)</span>
             </span>
           </span>{" "}
           sin was in the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(caused by Adams Fall)</span>
+              <span className="explanation">(caused by Adams Fall)</span>
             </span>
           </span>
           : but sin is not imputed when there is no Law{" "}
@@ -438,7 +438,7 @@ export default function Romans05() {
           . For if through the offence of one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Adam)</span>
+              <span className="explanation">(Adam)</span>
             </span>
           </span>{" "}
           many be dead, much more the Grace of God{" "}
@@ -452,7 +452,7 @@ export default function Romans05() {
           , and the Gift by Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(presents Jesus as that Gift)</span>
+              <span className="explanation">(presents Jesus as that Gift)</span>
             </span>
           </span>
           ,{" "}
@@ -467,7 +467,7 @@ export default function Romans05() {
           by One Man, Jesus Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what He did at the Cross)</span>
+              <span className="explanation">(what He did at the Cross)</span>
             </span>
           </span>
           , has abounded unto many{" "}
@@ -499,7 +499,7 @@ export default function Romans05() {
           the Gift{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(so much greater is the Gift)</span>
+              <span className="explanation">(so much greater is the Gift)</span>
             </span>
           </span>
           : for the judgment{" "}
@@ -511,7 +511,7 @@ export default function Romans05() {
           by one to condemnation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(by Adam)</span>
+              <span className="explanation">(by Adam)</span>
             </span>
           </span>
           , but the Free Gift{" "}
@@ -523,7 +523,7 @@ export default function Romans05() {
           of many offences unto Justification{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cleanses from all sin)</span>
+              <span className="explanation">(cleanses from all sin)</span>
             </span>
           </span>
           .
@@ -535,7 +535,7 @@ export default function Romans05() {
           reigned by one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Adams Fall)</span>
+              <span className="explanation">(Adams Fall)</span>
             </span>
           </span>
           ; much more they which receive abundance of Grace{" "}
@@ -579,13 +579,13 @@ export default function Romans05() {
           upon all men to condemnation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Judged by God to be lost)</span>
+              <span className="explanation">(Judged by God to be lost)</span>
             </span>
           </span>
           ; even so by the Righteousness of One{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
             <span>
               <span className="calibre_19">the Free Gift came</span>
@@ -609,7 +609,7 @@ export default function Romans05() {
           were made sinners{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the many referred to all)</span>
+              <span className="explanation">(the many referred to all)</span>
             </span>
           </span>
           , so by the obedience of One{" "}

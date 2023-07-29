@@ -135,7 +135,7 @@ export default function Kings223() {
           <sup className="calibre7">6</sup>And he brought out the grove{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Asherah)</span>
+              <span className="explanation">(Asherah)</span>
             </span>
           </span>{" "}
           from the House of the LORD, without Jerusalem, unto the brook Kidron,
@@ -159,7 +159,7 @@ export default function Kings223() {
           sodomites{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(homosexuals)</span>
+              <span className="explanation">(homosexuals)</span>
             </span>
           </span>
           , who were by the House of the LORD, where the women wove hangings for
@@ -184,7 +184,7 @@ export default function Kings223() {
           the cities of Judah, and defiled the high places where the priests{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(ungodly priests)</span>
+              <span className="explanation">(ungodly priests)</span>
             </span>
           </span>{" "}
           had burned incense, from Geba to Beer-sheba, and broke down the high
@@ -298,7 +298,7 @@ export default function Kings223() {
           Jerusalem, which were on the right hand of the Mount of corruption{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Mount of Olives)</span>
+              <span className="explanation">(Mount of Olives)</span>
             </span>
           </span>
           , which Solomon the king of Israel had builded for Ashtoreth the
@@ -620,7 +620,7 @@ export default function Kings223() {
           <sup className="calibre7">29</sup>In his days{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(days of Josiah)</span>
+              <span className="explanation">(days of Josiah)</span>
             </span>
           </span>{" "}
           Pharaoh-nechoh king of Egypt went up against the king of Assyria to

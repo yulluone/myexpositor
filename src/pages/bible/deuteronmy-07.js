@@ -19,7 +19,7 @@ export default function Deuteronmy07() {
           the Jebusites, seven nations greater and mightier than you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord could easily have destroyed these nations, exactly as
                 He did Sodom and Gomorrah, etc., but He deemed it desirable that
                 Israel dispel them in order that Israel might learn trust and
@@ -49,7 +49,7 @@ export default function Deuteronmy07() {
           them; you shall make no covenant with them, nor show mercy unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the wickedness of these Tribes had reached such a state that
                 there was nothing left but extermination; but God made that
                 decision, not man, even though man was the instrument in
@@ -75,7 +75,7 @@ export default function Deuteronmy07() {
           LORD be kindled against you, and destroy you suddenly.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (When we join the world, thinking to win the world, the world
                 instead wins us. The unredeemed are brought to the Lord Gods
                 Way. Any other way has the opposite effect. Gods Way is the Word
@@ -112,7 +112,7 @@ export default function Deuteronmy07() {
           down their groves, and burn their graven images with fire{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there can be no compromise with sin)
               </span>
             </span>
@@ -127,7 +127,7 @@ export default function Deuteronmy07() {
           unto Himself, above all people who are upon the face of the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel, Gods chosen People!)</span>
+              <span className="explanation">(Israel, Gods chosen People!)</span>
             </span>
           </span>
         </span>
@@ -143,7 +143,7 @@ export default function Deuteronmy07() {
           for you were the fewest of all people{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in fact, the entirety of the line had begun with Abraham and
                 Sarah)
               </span>
@@ -158,14 +158,14 @@ export default function Deuteronmy07() {
           because He would keep the oath which He had sworn unto your fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Abraham, Isaac, and Jacob)</span>
+              <span className="explanation">(Abraham, Isaac, and Jacob)</span>
             </span>
           </span>
           , has the LORD brought you out with a mighty hand, and redeemed you
           out of the house of bondmen, from the hand of Pharaoh king of Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God loved Israel, and all He asked in return was that they love
                 Him; it is the same presently with Believers!)
               </span>
@@ -181,7 +181,7 @@ export default function Deuteronmy07() {
           them who love Him and keep His Commandments to a thousand generations{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God has never broken His Covenants, and never will break His
                 Covenants; it is man who breaks the Covenants)
               </span>
@@ -197,7 +197,7 @@ export default function Deuteronmy07() {
           Him, He will repay him to his face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Israel is warned again against disobedience; if they come to
                 the place that they hate the Lord, destruction is sure; and
                 thats exactly what happened!)
@@ -217,7 +217,7 @@ export default function Deuteronmy07() {
           this day, to do them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Law of Moses, which was really the Law of God, was
                 hands-down the fairest legislation the world had ever known. In
                 fact, it was the only legislation that had come strictly from
@@ -260,7 +260,7 @@ export default function Deuteronmy07() {
           you know, upon you; but will lay them upon all them who hate you.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (However, we must remember that all of these blessings are
                 conditional, even as blessings now are conditional. The
                 condition is obedience.)
@@ -277,7 +277,7 @@ export default function Deuteronmy07() {
           snare unto you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the world is a snare to many Christians presently)
               </span>
             </span>
@@ -298,7 +298,7 @@ export default function Deuteronmy07() {
           all Egypt{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (we should remember and recount the great Blessings of the Lord
                 concerning the past, which will give us faith for the present
                 and for the future)
@@ -316,7 +316,7 @@ export default function Deuteronmy07() {
           the LORD your God do unto all the people of whom you are afraid{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in other words, you dont have to be afraid; the Lord is with
                 you!)
               </span>
@@ -332,7 +332,7 @@ export default function Deuteronmy07() {
           from you, be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God has all of Creation at His disposal, which He may use at
                 any time, even something as lowly as a hornet)
               </span>
@@ -347,7 +347,7 @@ export default function Deuteronmy07() {
           for the LORD your God is among you, a mighty God and terrible{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (whatever the enemy has or is, God is greater!)
               </span>
             </span>
@@ -362,7 +362,7 @@ export default function Deuteronmy07() {
           them at once, lest the beasts of the field increase upon you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (likewise, Sanctification is of the same process; little by
                 little, the works of the flesh fall by the wayside, or at least
                 thats the way it ought to be)
@@ -379,7 +379,7 @@ export default function Deuteronmy07() {
           they be destroyed{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (faith exercised on the part of Gods people guarantees the
                 mighty Power of God evidenced on our behalf)
               </span>
@@ -396,7 +396,7 @@ export default function Deuteronmy07() {
           destroyed them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (but, once again, there were conditions)
               </span>
             </span>
@@ -412,7 +412,7 @@ export default function Deuteronmy07() {
           is an abomination to the LORD your God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (unfortunately, idolatry is still alive and well, and comes in
                 many forms; in fact, religion is the worst idolatry of all!)
               </span>
@@ -429,7 +429,7 @@ export default function Deuteronmy07() {
           a cursed thing{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (idols or parts of idols; all such were cursed by God, which
                 means they were devoted to destruction)
               </span>

@@ -93,7 +93,7 @@ export default function Job17() {
           sorrow, and all my members are as a shadow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(I cannot defend myself!)</span>
+              <span className="explanation">(I cannot defend myself!)</span>
             </span>
           </span>
           .

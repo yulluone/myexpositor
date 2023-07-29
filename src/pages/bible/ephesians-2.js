@@ -18,7 +18,7 @@ export default function Ephesians2() {
               <span className="calibre_19">has He quickened</span>
             </span>
             <span>
-              <span className="calibre_19">(made</span>
+              <span className="explanation">(made</span>
             </span>
             <span>
               <span className="calibre_19">alive),</span>
@@ -27,7 +27,7 @@ export default function Ephesians2() {
           who were dead in trespasses and sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (total depravity due to the Fall and original sin)
               </span>
             </span>
@@ -41,7 +41,7 @@ export default function Ephesians2() {
           according to the course of this world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the unredeemed order their behavior and
                 regulate their lives within this sphere of trespasses and sins)
               </span>
@@ -50,7 +50,7 @@ export default function Ephesians2() {
           , according to the prince of the power of the air{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the fact that Satan heads up the system of this
                 world)
               </span>
@@ -59,7 +59,7 @@ export default function Ephesians2() {
           , the spirit that now works in the children of disobedience{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the spirit of Satan, which fills all unbelievers, thereby
                 working disobedience)
               </span>
@@ -73,25 +73,27 @@ export default function Ephesians2() {
           <sup className="calibre7">3</sup>Among whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the children of disobedience)</span>
+              <span className="explanation">
+                (the children of disobedience)
+              </span>
             </span>
           </span>{" "}
           also we all had our conversation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(manner of life)</span>
+              <span className="explanation">(manner of life)</span>
             </span>
           </span>{" "}
           in times past in the lusts of our flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(evil cravings)</span>
+              <span className="explanation">(evil cravings)</span>
             </span>
           </span>
           , fulfilling the desires of the flesh and of the mind{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the minds of the unredeemed are the laboratory of perverted
                 thoughts, impressions, imaginations, etc.)
               </span>
@@ -100,7 +102,7 @@ export default function Ephesians2() {
           ; and were by nature the children of wrath, even as others.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Gods wrath is unalterably opposed to sin, and the only solution
                 is the Cross.)
               </span>
@@ -113,7 +115,7 @@ export default function Ephesians2() {
           <sup className="calibre7">4</sup>But God, Who is rich in Mercy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (His Mercy comes to us by means of the Cross)
               </span>
             </span>
@@ -121,7 +123,7 @@ export default function Ephesians2() {
           , for His great love wherewith He loved us{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Love shown at Calvary)</span>
+              <span className="explanation">(the Love shown at Calvary)</span>
             </span>
           </span>
           ,
@@ -132,7 +134,7 @@ export default function Ephesians2() {
           <sup className="calibre7">5</sup>Even when we were dead in sins{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of a state in which we could by no means help ourselves)
               </span>
             </span>
@@ -140,7 +142,7 @@ export default function Ephesians2() {
           , has quickened us together with Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this new life is imparted to us through our identification with
                 Christ in His Death and Resurrection)
               </span>
@@ -149,7 +151,7 @@ export default function Ephesians2() {
           , (by Grace you are saved;){" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Grace is made possible solely by the Cross, and comes to us in
                 an uninterrupted flow as we ever make the Cross the Object of
                 our Faith.)
@@ -169,7 +171,7 @@ export default function Ephesians2() {
           up together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Resurrection of Christ from the Tomb was our Resurrection
                 as well, spiritually speaking, and gave us newness of life [
                 <ScrollLink href="/romans-06" scrollToId="#filepos13347645">
@@ -195,13 +197,13 @@ export default function Ephesians2() {
               <span className="calibre_19">Places</span>
             </span>
             <span>
-              <span className="calibre_19">(made possible by the Cross)</span>
+              <span className="explanation">(made possible by the Cross)</span>
             </span>
           </span>{" "}
           in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is all done in Christ, and refers to the way He did it,
                 which is through the Cross)
               </span>
@@ -215,7 +217,7 @@ export default function Ephesians2() {
           <sup className="calibre7">7</sup>That in the ages to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in the ages that are coming, one upon another, unending)
               </span>
             </span>
@@ -223,7 +225,7 @@ export default function Ephesians2() {
           He might show the exceeding riches of His Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the Believers golden age is always future, never past)
               </span>
             </span>
@@ -237,7 +239,7 @@ export default function Ephesians2() {
           kindness toward us through Christ Jesus.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is able to show us kindness only through the Cross. The
                 Bible Student must realize the Cross is the oldest Doctrine in
                 the Bible [
@@ -263,13 +265,13 @@ export default function Ephesians2() {
           <sup className="calibre7">8</sup>For by Grace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Goodness of God)</span>
+              <span className="explanation">(the Goodness of God)</span>
             </span>
           </span>{" "}
           are you Saved through Faith{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Faith in Christ, with the Cross ever as its Object)
               </span>
             </span>
@@ -277,7 +279,7 @@ export default function Ephesians2() {
           ; and that not of yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (none of this is of us, but all is of Him)
               </span>
             </span>
@@ -291,7 +293,7 @@ export default function Ephesians2() {
           the Gift of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (anytime the word Gift is used, God is speaking of His Son and
                 His Substitutionary Work on the Cross, which makes all of this
                 possible)
@@ -306,7 +308,7 @@ export default function Ephesians2() {
           <sup className="calibre7">9</sup>Not of works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (man cannot merit Salvation, irrespective what he does)
               </span>
             </span>
@@ -314,7 +316,7 @@ export default function Ephesians2() {
           , lest any man should boast{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (boast in his own ability and strength; we are allowed to boast
                 only in the Cross [
                 <ScrollLink href="/galatians-6" scrollToId="#filepos13989509">
@@ -336,7 +338,7 @@ export default function Ephesians2() {
           <sup className="calibre7">10</sup>For we are His workmanship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (if we are Gods workmanship, our Salvation cannot be of
                 ourselves)
               </span>
@@ -345,7 +347,7 @@ export default function Ephesians2() {
           , created in Christ Jesus unto good works{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the results of Salvation, and never the cause)
               </span>
             </span>
@@ -353,7 +355,7 @@ export default function Ephesians2() {
           , which God has before ordained that we should walk in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The good works the Apostle speaks of has to do with Faith in
                 Christ and the Cross, which enables the Believer to live a Holy
                 life.)
@@ -376,7 +378,7 @@ export default function Ephesians2() {
           in time past Gentiles in the flesh, who are called Uncircumcision{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (referred to the Gentiles not being in Covenant with God;
                 physical Circumcision under the Old Economy was its external
                 sign)
@@ -386,7 +388,7 @@ export default function Ephesians2() {
           by that which is called the Circumcision in the flesh made by hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is said by Paul in this manner, regarding the Jews, in
                 contradistinction from the Circumcision of the heart)
               </span>
@@ -401,7 +403,7 @@ export default function Ephesians2() {
           Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (describes the former condition of the Gentiles, who had no
                 connection with Christ before the Cross)
               </span>
@@ -411,7 +413,7 @@ export default function Ephesians2() {
           Covenants of Promise, having no hope, and without God in the world{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all of this argues a darkened and perverted heart; the Gentiles
                 had no knowledge of God at that time)
               </span>
@@ -425,7 +427,7 @@ export default function Ephesians2() {
           <sup className="calibre7">13</sup>But now in Christ Jesus{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the basis of all Salvation)
               </span>
             </span>
@@ -433,25 +435,25 @@ export default function Ephesians2() {
           you who sometimes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(times past)</span>
+              <span className="explanation">(times past)</span>
             </span>
           </span>{" "}
           were far off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(far from Salvation)</span>
+              <span className="explanation">(far from Salvation)</span>
             </span>
           </span>{" "}
           are made nigh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(near)</span>
+              <span className="explanation">(near)</span>
             </span>
           </span>{" "}
           by the Blood of Christ.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sacrificial Atoning Death of Jesus Christ transformed the
                 relations of God with mankind. In Christ, God reconciled not a
                 nation, but a world to Himself [
@@ -476,13 +478,13 @@ export default function Ephesians2() {
           <sup className="calibre7">14</sup>For He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           is our peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (through Christ and what He did at the Cross, we have peace with
                 God)
               </span>
@@ -491,7 +493,7 @@ export default function Ephesians2() {
           , Who has made both one{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews and Gentiles)</span>
+              <span className="explanation">(Jews and Gentiles)</span>
             </span>
           </span>
           , and has broken down the middle wall of partition{" "}
@@ -500,7 +502,7 @@ export default function Ephesians2() {
               <span className="calibre_19">between us</span>
             </span>
             <span>
-              <span className="calibre_19">(between Jews and Gentiles);</span>
+              <span className="explanation">(between Jews and Gentiles);</span>
             </span>
           </span>
         </span>
@@ -510,7 +512,7 @@ export default function Ephesians2() {
           <sup className="calibre7">15</sup>Having abolished in His Flesh{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaking of His Death on the Cross, by which He Redeemed
                 humanity, which also means He didnt die spiritually, as some
                 claim)
@@ -520,7 +522,7 @@ export default function Ephesians2() {
           the enmity{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the hatred between God and man, caused by sin)
               </span>
             </span>
@@ -540,7 +542,7 @@ export default function Ephesians2() {
           in Ordinances{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to the Law of Moses, and more particularly the Ten
                 Commandments)
               </span>
@@ -549,7 +551,7 @@ export default function Ephesians2() {
           ; for to make in Himself of twain{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(of Jews and Gentiles)</span>
+              <span className="explanation">(of Jews and Gentiles)</span>
             </span>
           </span>{" "}
           one new man,{" "}
@@ -561,7 +563,7 @@ export default function Ephesians2() {
           making peace{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (which again was accomplished by the Cross)
               </span>
             </span>
@@ -574,25 +576,25 @@ export default function Ephesians2() {
           <sup className="calibre7">16</sup>And that He{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           might reconcile both{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews and Gentiles)</span>
+              <span className="explanation">(Jews and Gentiles)</span>
             </span>
           </span>{" "}
           unto God in one body{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church)</span>
+              <span className="explanation">(the Church)</span>
             </span>
           </span>{" "}
           by the Cross{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it is by the Atonement only that men ever become reconciled to
                 God)
               </span>
@@ -601,7 +603,7 @@ export default function Ephesians2() {
           , having slain the enmity thereby{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (removed the barrier between God and sinful man)
               </span>
             </span>
@@ -615,7 +617,7 @@ export default function Ephesians2() {
           which were afar off{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims the Gospel going to the Gentiles)
               </span>
             </span>
@@ -623,7 +625,7 @@ export default function Ephesians2() {
           , and to them who were nigh.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to the Jews. It is the same Message for both.)
               </span>
             </span>
@@ -635,19 +637,19 @@ export default function Ephesians2() {
           <sup className="calibre7">18</sup>For through Him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(through Christ)</span>
+              <span className="explanation">(through Christ)</span>
             </span>
           </span>{" "}
           we both{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews and Gentiles)</span>
+              <span className="explanation">(Jews and Gentiles)</span>
             </span>
           </span>{" "}
           have access by One Spirit unto the Father.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (If the sinner comes by the Cross, the Holy Spirit opens the
                 door, otherwise it is barred [
                 <ScrollLink href="/john-10" scrollToId="#filepos12508598">
@@ -668,7 +670,7 @@ export default function Ephesians2() {
           <sup className="calibre7">19</sup>Now{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of the present state of Believers)
               </span>
             </span>
@@ -676,7 +678,7 @@ export default function Ephesians2() {
           therefore you are no more strangers and foreigners{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (pertains to what Gentiles once were)
               </span>
             </span>
@@ -684,7 +686,7 @@ export default function Ephesians2() {
           , but fellowcitizens with the Saints{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (speaks of Gentiles now having access the same as Jews, all due
                 to the Cross)
               </span>
@@ -693,7 +695,7 @@ export default function Ephesians2() {
           , and of the Household of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a progressive relationship with God in Christ)
               </span>
             </span>
@@ -706,13 +708,13 @@ export default function Ephesians2() {
           <sup className="calibre7">20</sup>And are built upon the Foundation{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Cross)</span>
+              <span className="explanation">(the Cross)</span>
             </span>
           </span>{" "}
           of the Apostles and Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Apostles serve as leadership under the New Covenant, with
                 Prophets having served in that capacity under the Old)
               </span>
@@ -721,7 +723,7 @@ export default function Ephesians2() {
           , Jesus Christ Himself being the Chief Corner Stone{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the part of the Foundation which holds everything
                 together; Jesus Christ is the Chief Corner Stone by virtue of
                 what He did at the Cross);
@@ -735,7 +737,7 @@ export default function Ephesians2() {
           <sup className="calibre7">21</sup>In Whom{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Christ)</span>
+              <span className="explanation">(Christ)</span>
             </span>
           </span>{" "}
           all the building fitly framed together grows unto an Holy Temple in
@@ -747,13 +749,13 @@ export default function Ephesians2() {
           <sup className="calibre7">22</sup>In Whom you also are built together{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Jews and Gentiles)</span>
+              <span className="explanation">(Jews and Gentiles)</span>
             </span>
           </span>{" "}
           for an habitation of God through the Spirit.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This is all made possible by what Jesus did at the Cross.)
               </span>
             </span>

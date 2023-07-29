@@ -20,7 +20,7 @@ export default function Isaiah08() {
           Maher-shalal-hash-baz.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah was to write upon the roll that he was to have another
                 son, and that this little boy was to be a sign to Israel. His
                 name, which is the longest in the Bible, literally means plunder
@@ -47,7 +47,7 @@ export default function Isaiah08() {
           to record, Uriah the Priest, and Zechariah the son of Jeberechiah.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Uriah the High Priest was Ahazs colleague in idolatry [
                 <ScrollLink href="/kings2-16" scrollToId="#filepos4235396">
                   <span className="calibre_19">
@@ -86,7 +86,7 @@ export default function Isaiah08() {
           Maher-shalal-hash-baz.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Even though the term the Prophetess does not necessarily mean
                 here that the wife of Isaiah uttered Prophecies, still, more
                 than likely, the Lord did use her in this capacity.)
@@ -102,7 +102,7 @@ export default function Isaiah08() {
           the spoil of Samaria shall be taken away before the king of Assyria.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All of this was fulfilled a little bit short of two years after
                 it was uttered. Even though the Scripture does not record this
                 foray into Samaria, still, the inscriptions of Tiglath-Pileser,
@@ -121,7 +121,7 @@ export default function Isaiah08() {
           saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in view of the pointed and direct Prophecies of Isaiah given to
                 him by the Lord, there was no excuse for Judahs continued
                 rebellion against God. Proper Repentance on the part of Ahaz and
@@ -140,7 +140,7 @@ export default function Isaiah08() {
           son{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, the Lord is saying that inasmuch as the Northern
                 Kingdom of Israel preferred the Syrians, He would give them even
                 more, the Assyrians; however, it would not be a pleasant trip.
@@ -206,7 +206,7 @@ export default function Isaiah08() {
           channels, and go over all his banks{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the river is the Euphrates. The overflow of the latter portion
                 of the Verse speaks not only of the coming invasion by the
                 Assyrians of Judah, but also looks forward to the coming
@@ -228,7 +228,7 @@ export default function Isaiah08() {
           Immanuel.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This Prophecy as well has not only a near meaning, but also
                 reaches into the far distant future of the Antichrist. The use
                 of the word Immanuel speaks of the Antichrist, who will attempt
@@ -264,7 +264,7 @@ export default function Isaiah08() {
           yourselves, and you shall be broken in pieces.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Give ear, all you of far countries refers to the outlying
                 nations that are to witness the discomfiture of the Assyrian
                 boast [
@@ -289,7 +289,7 @@ export default function Isaiah08() {
           with us.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (No matter how clever the plan of the opposition against Gods
                 People, such would come to naught.)
               </span>
@@ -304,7 +304,7 @@ export default function Isaiah08() {
           this people, saying{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it was not merely idolatry against which Isaiah was warned, but
                 that the whole spirit and tone of the society of his day was in
                 conflict with Jehovah)
@@ -321,7 +321,7 @@ export default function Isaiah08() {
           their fear, nor be afraid.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The word ye implies a transition from the singular to the
                 plural. It implies that Isaiah did not stand totally alone, but
                 had at least some followers, a little flock.
@@ -350,7 +350,7 @@ export default function Isaiah08() {
           and let Him be your fear, and let Him be your dread.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (God is sanctified by being trusted [
                 <ScrollLink href="/numbers-20" scrollToId="#filepos1939994">
                   <span className="calibre_19">
@@ -374,7 +374,7 @@ export default function Isaiah08() {
           of Israel, for a gin and for a snare to the inhabitants of Jerusalem.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (A Sanctuary is a refuge, and something more. It is a Holy
                 Refuge, a place which is a refuge because of its holiness.
               </span>
@@ -426,7 +426,7 @@ export default function Isaiah08() {
           and fall, and be broken, and be snared, and be taken.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This refers to Israels destruction by Titus in A.D. 70.)
               </span>
             </span>
@@ -439,7 +439,7 @@ export default function Isaiah08() {
           among My disciples.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These Words are still those of Jehovah and are addressed to His
                 servant, Isaiah.
               </span>
@@ -473,7 +473,7 @@ export default function Isaiah08() {
           LORD of Hosts, Who dwells in Mount Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The phrase, from the LORD of Hosts, Who dwells in Mount Zion,
                 means that God had not left Zion. The Shechinah still rested
                 between the Cherubim and the Holy of Holies. While this is so,
@@ -492,7 +492,7 @@ export default function Isaiah08() {
           living to the dead?{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Isaiah was speaking of those in Judah who were attempting to
                 contact departed loved ones and claiming communication with the
                 dead.
@@ -520,7 +520,7 @@ export default function Isaiah08() {
           in them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The great question should always be, and about any situation,
                 Is it Biblical?)
               </span>
@@ -536,7 +536,7 @@ export default function Isaiah08() {
           their God, and look upward.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The prediction is that Judah would not blame themselves for
                 their problems, but would rather blame God.)
               </span>
@@ -551,7 +551,7 @@ export default function Isaiah08() {
           driven to darkness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This darkness refers here to demon spirits.)
               </span>
             </span>

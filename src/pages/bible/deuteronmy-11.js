@@ -40,7 +40,7 @@ export default function Deuteronmy11() {
           LORD has destroyed them unto this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Red Sea opening, and the defeat of the Egyptian army, which
                 was in hot pursuit after Israel, with the water closing over
                 them, was one of the greatest miracles the world has ever known;
@@ -73,7 +73,7 @@ export default function Deuteronmy11() {
           Acts of the LORD which He did{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (so they knew the Power of God, and had witnessed it firsthand)
               </span>
             </span>
@@ -106,7 +106,7 @@ export default function Deuteronmy11() {
           of herbs{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (countries in those days, and in that part of the world,
                 irrigated their crops by pumping an apparatus with the foot,
                 which pumped the water; to say the least, it was a difficult
@@ -131,7 +131,7 @@ export default function Deuteronmy11() {
           beginning of the year even unto the end of the year{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (a land on which Jehovahs regard was continually fixed, over
                 which He watched with unceasing care, and which was sustained by
                 His bounty; a land, therefore, wholly dependent on Him, and so a
@@ -167,7 +167,7 @@ export default function Deuteronmy11() {
           for your cattle, that you may eat and be full{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Lord was the Author of all Blessings, as He is still the
                 Author of all Blessings)
               </span>
@@ -183,7 +183,7 @@ export default function Deuteronmy11() {
           worship them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regrettably, this is exactly what Israel ultimately did)
               </span>
             </span>
@@ -199,7 +199,7 @@ export default function Deuteronmy11() {
           off the good land which the LORD gives you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (as is overly obvious, the Lord could turn it on, and He could
                 turn it off; the blessing depended on obedience)
               </span>
@@ -215,7 +215,7 @@ export default function Deuteronmy11() {
           your hand, that they may be as frontlets between your eyes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(phylacteries)</span>
+              <span className="explanation">(phylacteries)</span>
             </span>
           </span>
         </span>
@@ -228,7 +228,7 @@ export default function Deuteronmy11() {
           walk by the way, when you lie down, and when you rise up{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the Word of the Lord was to be on the lips of all of Gods
                 people all of the time; it should be the same presently as well)
               </span>
@@ -243,7 +243,7 @@ export default function Deuteronmy11() {
           door posts of your house, and upon your gates{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this signified that their blessings were due to the Word of
                 God)
               </span>
@@ -259,7 +259,7 @@ export default function Deuteronmy11() {
           your fathers to give them, as the days of heaven upon the Earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the world has tried repeatedly to duplicate this, but all to no
                 avail; only the Lord can make it Heaven on Earth)
               </span>
@@ -282,7 +282,7 @@ export default function Deuteronmy11() {
           and mightier than yourselves{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all because of the help of the Lord)
               </span>
             </span>
@@ -296,7 +296,7 @@ export default function Deuteronmy11() {
           your feet shall tread shall be yours{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (respecting the area of which the Lord had promised them)
               </span>
             </span>
@@ -305,7 +305,7 @@ export default function Deuteronmy11() {
           Euphrates, even unto the uttermost sea{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Mediterranean)</span>
+              <span className="explanation">(the Mediterranean)</span>
             </span>
           </span>{" "}
           shall your coast be.
@@ -328,7 +328,7 @@ export default function Deuteronmy11() {
           Blessing and a curse{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Jesus took the penalty of the curse upon Himself, all on our
                 behalf [
                 <ScrollLink href="/galatians-3" scrollToId="#filepos13940580">
@@ -359,7 +359,7 @@ export default function Deuteronmy11() {
           not known{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (regrettably, this is exactly what Israel did; but, as stated,
                 Jesus, on the Cross, took the penalty of the broken law upon
                 Himself, at least for all who will believe [
@@ -384,13 +384,15 @@ export default function Deuteronmy11() {
           possess it, that you shall put the blessing upon Mount Gerizim{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(called the Mount of Blessing)</span>
+              <span className="explanation">
+                (called the Mount of Blessing)
+              </span>
             </span>
           </span>
           , and the curse upon Mount Ebal{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (called the Mount of evil. The two mountains named stand
                 opposite to each other, with a valley between, about two hundred
                 yards broad at the widest part, in which stood the town of

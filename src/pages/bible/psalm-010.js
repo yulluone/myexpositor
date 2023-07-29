@@ -36,13 +36,13 @@ export default function Psalm010() {
           <sup className="calibre7">2</sup>The wicked{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Antichrist)</span>
+              <span className="explanation">(the Antichrist)</span>
             </span>
           </span>{" "}
           in his pride does persecute the poor{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Israel)</span>
+              <span className="explanation">(Israel)</span>
             </span>
           </span>
           : let them be taken in the devices that they have imagined{" "}
@@ -273,7 +273,7 @@ export default function Psalm010() {
           <sup className="calibre7">16</sup>The LORD is King for ever and ever{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(not the Antichrist)</span>
+              <span className="explanation">(not the Antichrist)</span>
             </span>
           </span>
           : the heathen are perished out of His land{" "}

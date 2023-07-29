@@ -16,7 +16,7 @@ export default function Acts24() {
           Priest descended with the Elders{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (represented members of the Sanhedrin who were Sadducees)
               </span>
             </span>
@@ -36,7 +36,7 @@ export default function Acts24() {
           Tertullus, who informed the Governor against Paul{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he served as the prosecutor for the Jews)
               </span>
             </span>
@@ -56,14 +56,14 @@ export default function Acts24() {
           saying, Seeing that by you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Felix)</span>
+              <span className="explanation">(Felix)</span>
             </span>
           </span>{" "}
           we enjoy great quietness, and that very worthy deeds are done unto
           this nation by your providence{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Josephus said that even though Felix did suppress some of the
                 robbers and murderers in Judaea, he was himself more hurtful
                 than them all)
@@ -91,7 +91,7 @@ export default function Acts24() {
           clemency a few words{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Felix was not a man of clemency)
               </span>
             </span>
@@ -112,7 +112,7 @@ export default function Acts24() {
           ringleader of the sect of the Nazarenes{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the name for followers of Christ coined by the Jews)
               </span>
             </span>
@@ -126,7 +126,7 @@ export default function Acts24() {
           the Temple{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Paul didnt profane the Temple in any manner)
               </span>
             </span>
@@ -134,7 +134,7 @@ export default function Acts24() {
           : whom we took, and would have judged according to our Law{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents another outright lie; they had no intention of giving
                 him a trial as the word judge implies, but rather were
                 attempting to beat him to death before he was rescued by the
@@ -162,7 +162,7 @@ export default function Acts24() {
           away out of our hands{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (is meant to throw the Roman Tribune in a bad light; it was a
                 bad mistake on the part of Tertullus; no doubt, the Holy Spirit
                 had him go in this direction)
@@ -179,7 +179,7 @@ export default function Acts24() {
           things, whereof we accuse him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that the situation is now in the Court of
                 the Governor, even though the Jews do not think it should be
                 here; for all their plotting, they have not helped their cause)
@@ -195,7 +195,7 @@ export default function Acts24() {
           that these things were so{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the High Priest and those with him who joined
                 Tertullus with their voices of approval respecting their hired
                 prosecutors statements; as stated, it was a mistake on their
@@ -215,7 +215,7 @@ export default function Acts24() {
           had beckoned unto him to speak, answered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents that which the Holy Spirit had said that Paul would
                 do, to bear My Name before the Gentiles, and Kings, and the
                 Children of Israel [
@@ -234,7 +234,7 @@ export default function Acts24() {
           this nation, I do the more cheerfully answer for myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there was no one in the world at that time who knew Mosaic Law
                 any better than Paul; as well, being a Roman citizen, he was
                 also quite knowledgeable of Roman Law)
@@ -251,7 +251,7 @@ export default function Acts24() {
           worship{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, Paul is stating that what they were accusing him of
                 was impossible, considering the short period of time)
               </span>
@@ -267,7 +267,7 @@ export default function Acts24() {
           in the Synagogues, nor in the city{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that absolutely nothing had been done that
                 could be misconstrued in any way, referring to these charges)
               </span>
@@ -282,7 +282,7 @@ export default function Acts24() {
           whereof they now accuse me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (they couldnt prove their charge because they never happened)
               </span>
             </span>
@@ -296,13 +296,13 @@ export default function Acts24() {
           after the way which they call heresy{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(following Christ)</span>
+              <span className="explanation">(following Christ)</span>
             </span>
           </span>
           , so worship I the God of my Fathers{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (places Christianity as the fulfillment of the great Promises
                 and Predictions given to the Fathers, i.e., all the Old
                 Testament Worthies)
@@ -313,7 +313,7 @@ export default function Acts24() {
           Prophets{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the entirety of the Old Testament)
               </span>
             </span>
@@ -326,7 +326,7 @@ export default function Acts24() {
           <sup className="calibre7">15</sup>And have hope toward God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (in essence, states that the Law and the Prophets were not
                 complete within themselves, only pointing to the One Who was to
                 come)
@@ -336,7 +336,7 @@ export default function Acts24() {
           , which they themselves also allow{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (even his enemies among the Jews believed in the coming Messiah,
                 but not that He was Jesus)
               </span>
@@ -346,7 +346,7 @@ export default function Acts24() {
           unjust{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims, as is obvious, two Resurrections)
               </span>
             </span>
@@ -359,7 +359,7 @@ export default function Acts24() {
           <sup className="calibre7">16</sup>And herein do I exercise myself{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (diligence constantly practiced by Paul so that his life and
                 conduct please the Lord in all things)
               </span>
@@ -374,7 +374,7 @@ export default function Acts24() {
           men{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/matthew-22" scrollToId="#filepos11196432">
                   <span className="calibre_19">
@@ -396,7 +396,7 @@ export default function Acts24() {
           alms to my nation, and offerings{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (probably refers to the six or seven years Paul had been away
                 from Jerusalem)
               </span>
@@ -412,7 +412,7 @@ export default function Acts24() {
           tumult{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (refers to the fact that absolutely nothing was going on at that
                 time which could have given any type of credence to these
                 accusations)
@@ -428,7 +428,7 @@ export default function Acts24() {
           you, and object, if they had ought against me{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the ones who accused him were not present here; the High Priest
                 and the members of the Sanhedrin who were present had not
                 witnessed any of these so-called infractions)
@@ -449,7 +449,7 @@ export default function Acts24() {
           say{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (now puts the High Priest and those with him on the spot)
               </span>
             </span>
@@ -458,7 +458,7 @@ export default function Acts24() {
           Council{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (shifts the attention away from those not present to those who
                 are)
               </span>
@@ -474,7 +474,7 @@ export default function Acts24() {
           dead I am called in question by you this day{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (this had to do with Jewish Law, which interested the Romans not
                 at all)
               </span>
@@ -495,7 +495,7 @@ export default function Acts24() {
           way{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Felix had greater knowledge of Christianity than Tertullus, and
                 the Jews present at that trial were willing to give him credit)
               </span>
@@ -504,7 +504,7 @@ export default function Acts24() {
           , he deferred them, and said{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means simply that he refused to give a verdict at this time)
               </span>
             </span>
@@ -513,7 +513,7 @@ export default function Acts24() {
           termost of your matter{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he was trying to delay the matter, hoping it would defuse the
                 situation; moreover, there is no record he ever sent for Lysias)
               </span>
@@ -534,7 +534,7 @@ export default function Acts24() {
           have liberty{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (tells us that Felix considered Paul someone above the ordinary;
                 he was under house arrest, but basically had the run of the
                 place)
@@ -545,7 +545,7 @@ export default function Acts24() {
           come unto him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (he could have as many visitors as he liked, with no restraint
                 on such activity)
               </span>
@@ -560,7 +560,7 @@ export default function Acts24() {
           came with his wife Drusilla, which was a Jewess{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (his wife was the young daughter of Herod Agrippa I, the Herod
                 who killed James [the Brother of John] with a sword [
                 <ScrollLink href="/acts-12" scrollToId="#filepos12973976">
@@ -577,7 +577,7 @@ export default function Acts24() {
           , he sent for Paul, and heard him concerning the Faith in Christ{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (it seems to imply that his interest was sincere)
               </span>
             </span>
@@ -590,13 +590,13 @@ export default function Acts24() {
           <sup className="calibre7">25</sup>And as he{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(Paul)</span>
+              <span className="explanation">(Paul)</span>
             </span>
           </span>{" "}
           reasoned of Righteousness{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Righteousness can only come through Christ)
               </span>
             </span>
@@ -604,7 +604,7 @@ export default function Acts24() {
           , temperance{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the bondages and vices which affect humanity)
               </span>
             </span>
@@ -612,7 +612,7 @@ export default function Acts24() {
           , and judgment to come{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (all must one day stand before God)
               </span>
             </span>
@@ -620,7 +620,7 @@ export default function Acts24() {
           , Felix trembled, and answered{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (proclaims tremendous Holy Spirit conviction)
               </span>
             </span>
@@ -629,7 +629,7 @@ export default function Acts24() {
           call for you{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents the sinners excuse when under conviction and refusing
                 to surrender)
               </span>
@@ -644,7 +644,7 @@ export default function Acts24() {
           been given him of Paul, that he might loose him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (the love of money was probably one of the reasons he would not
                 give his heart to the Lord)
               </span>
@@ -653,7 +653,7 @@ export default function Acts24() {
           : wherefore he sent for him the oftener, and communed with him{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (there is no record that he ever came to Christ; so close, but
                 so far off!)
               </span>
@@ -670,7 +670,7 @@ export default function Acts24() {
           <sup className="calibre7">27</sup>But after two years{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (gives us no hint as to what took place during this particular
                 time)
               </span>
@@ -679,7 +679,7 @@ export default function Acts24() {
           Porcius Festus came into Felix room{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (means that Festus now replaced Felix as Governor)
               </span>
             </span>
@@ -687,7 +687,7 @@ export default function Acts24() {
           : and Felix, willing to show the Jews a pleasure, left Paul bound{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (presents a terrible travesty of Justice)
               </span>
             </span>

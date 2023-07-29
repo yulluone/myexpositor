@@ -46,7 +46,7 @@ export default function Mark04() {
           <sup className="calibre7">3</sup>Hearken{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(be listening)</span>
+              <span className="explanation">(be listening)</span>
             </span>
           </span>
           ; Behold, there went out a sower to sow{" "}
@@ -122,13 +122,13 @@ export default function Mark04() {
           <sup className="calibre7">7</sup>And some{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(seed)</span>
+              <span className="explanation">(seed)</span>
             </span>
           </span>{" "}
           fell among thorns, and the thorns grew up, and choked it{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(cares of this life, etc.)</span>
+              <span className="explanation">(cares of this life, etc.)</span>
             </span>
           </span>
           , and it yielded no fruit.
@@ -141,7 +141,7 @@ export default function Mark04() {
           thirty, and some sixty, and some an hundred{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(an hundredfold, etc.)</span>
+              <span className="explanation">(an hundredfold, etc.)</span>
             </span>
           </span>
           .
@@ -181,7 +181,7 @@ export default function Mark04() {
           asked of Him the Parable{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(what it meant)</span>
+              <span className="explanation">(what it meant)</span>
             </span>
           </span>
           .
@@ -193,13 +193,15 @@ export default function Mark04() {
           is given to know the mystery of the Kingdom of God{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(those who truly want to know)</span>
+              <span className="explanation">
+                (those who truly want to know)
+              </span>
             </span>
           </span>
           : but unto them who are without{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(who have no desire to know)</span>
+              <span className="explanation">(who have no desire to know)</span>
             </span>
           </span>
           , all{" "}
@@ -358,7 +360,7 @@ export default function Mark04() {
           : afterward, when affliction or persecution ariseth for the Words sake{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(as surely it will)</span>
+              <span className="explanation">(as surely it will)</span>
             </span>
           </span>
           , immediately they are offended{" "}
@@ -614,7 +616,7 @@ export default function Mark04() {
           less than all the seeds that be in the earth{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Church began very small)</span>
+              <span className="explanation">(the Church began very small)</span>
             </span>
           </span>
           :
@@ -669,7 +671,7 @@ export default function Mark04() {
               <span className="calibre_19">it</span>
             </span>
             <span>
-              <span className="calibre_19">(able to understand).</span>
+              <span className="explanation">(able to understand).</span>
             </span>
           </span>
         </span>
@@ -707,7 +709,7 @@ export default function Mark04() {
           , He said unto them{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the Twelve)</span>
+              <span className="explanation">(the Twelve)</span>
             </span>
           </span>
           , Let us pass over unto the other side{" "}
@@ -795,7 +797,7 @@ export default function Mark04() {
           . And the wind ceased, and there was a great calm{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(instantly)</span>
+              <span className="explanation">(instantly)</span>
             </span>
           </span>
           .

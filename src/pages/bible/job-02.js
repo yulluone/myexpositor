@@ -97,7 +97,7 @@ export default function Job02() {
           touch his bone and his flesh, and he will curse You to Your face{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">(the trial deepens!)</span>
+              <span className="explanation">(the trial deepens!)</span>
             </span>
           </span>
           .

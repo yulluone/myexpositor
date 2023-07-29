@@ -17,7 +17,7 @@ export default function Isaiah34() {
           world, and all things that come forth of it.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (
                 <ScrollLink href="/" scrollToId="#filepos7641548">
                   <span className="calibre_19">
@@ -77,7 +77,7 @@ export default function Isaiah34() {
           destroyed them, He has delivered them to the slaughter.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the nations and the armies that will be gathered
                 at Jerusalem in order to destroy that city and to annihilate the
                 Jews. The Lord will meet this with His fury.)
@@ -93,7 +93,7 @@ export default function Isaiah34() {
           shall be melted with their blood.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Concerning statements such as the mountains shall be melted
                 with their blood, some have accused Isaiah of lapsing into
                 hyperbole; however, Isaiah is merely speaking the words of the
@@ -148,7 +148,7 @@ export default function Isaiah34() {
           and as a falling fig from the fig tree.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of the Great Tribulation, which will last for seven
                 years. During this time, the host of Heaven, which includes the
                 stars and planetary bodies, will be greatly affected. The word
@@ -174,7 +174,7 @@ export default function Isaiah34() {
           My curse, to judgment.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (Idumea is the same as Edom, and symbolizes all who are opposed
                 to Zion. It represents all the nations, Edom and Adam being the
                 same word.
@@ -218,7 +218,7 @@ export default function Isaiah34() {
           sacrifice in Bozrah, and a great slaughter in the land of Idumea.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The Sacrifices are mentioned because they are used as an
                 example of the coming slaughter. This will be in the Great
                 Tribulation and at the Battle of Armageddon.
@@ -246,7 +246,7 @@ export default function Isaiah34() {
           with blood, and their dust made fat with fatness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (All the power of man, as symbolized by the strong animals of
                 this Verse, shall be destroyed in that day.)
               </span>
@@ -260,7 +260,7 @@ export default function Isaiah34() {
           vengeance, and the year of recompences for the controversy of Zion.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The controversy of Zion relates not only to the hostility of
                 the nations to Israel, but also to the age-long war of man
                 against God. This war has raged since the Fall of Adam and Eve
@@ -294,7 +294,7 @@ export default function Isaiah34() {
           ever.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (These two Verses seem to describe one of the openings in the
                 Earth where men will be able to see down into Hell, which will
                 exist during the entirety of the Millennial Reign.)
@@ -311,7 +311,7 @@ export default function Isaiah34() {
           emptiness.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This continues to describe the opening in the Earth, which
                 could well be the site of Babylon [
                 <ScrollLink href="/isaiah-66" scrollToId="#filepos8119240">
@@ -334,7 +334,7 @@ export default function Isaiah34() {
           nothing.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This speaks of all the nobles who have lived down through the
                 ages but refused to serve God. Irrespective of their nobility
                 and their lofty station in life, they will not gain entrance
@@ -351,7 +351,7 @@ export default function Isaiah34() {
           be an habitation of dragons, and a court for owls.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (This tells us what the Lord says about those things in which
                 man placed such stock; they are good for nothing except to grow
                 nettles and brambles.)
@@ -368,7 +368,7 @@ export default function Isaiah34() {
           herself a place of rest.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (In{" "}
                 <ScrollLink href="/leviticus-17" scrollToId="#filepos1518503">
                   <span className="calibre_19">
@@ -403,7 +403,7 @@ export default function Isaiah34() {
           vultures also be gathered, every one with her mate.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The type of animals and fowls that are mentioned here come
                 under the heading of unclean. Such will characterize this place.
               </span>
@@ -458,7 +458,7 @@ export default function Isaiah34() {
           for My mouth it has commanded, and His Spirit it has gathered them.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (It seems as if the Holy Spirit senses the unbelief of men
                 regarding these predictions and proclaims to all that no one of
                 these shall fail. Mankind is ordered to seek you out of the Book
@@ -476,7 +476,7 @@ export default function Isaiah34() {
           forever, from generation to generation shall they dwell therein.{" "}
           <span className="italic1">
             <span>
-              <span className="calibre_19">
+              <span className="explanation">
                 (The words, He has cast the lot for them, refer to the fact that
                 God allots to all nations of the Earth their particular destiny.
                 It all has to do with their acceptance or rejection of Him. It
