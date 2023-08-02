@@ -51,7 +51,7 @@ export default function Acts01() {
           <span className="italic1">
             <span>
               <span className="explanation">(the Resurrection)</span>
-            </span>
+            </span	>
           </span>
           , after that He through the Holy Spirit{" "}
           <span className="italic1">

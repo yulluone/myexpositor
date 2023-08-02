@@ -4,6 +4,8 @@ import { useState } from "react";
 import BibleIcon from "./icons/BibleIcon";
 import Link from "next/link";
 
+import TableOfContents from "./tableOfContents";
+
 const Nav = ({ children }) => {
   const [menuIsOpen, setMenuIsOpen] = useState(true);
 
@@ -59,7 +61,7 @@ const Nav = ({ children }) => {
               menuIsOpen ? "" : "hidden"
             } divide-gray-100 rounded-lg bg-gray-800 shadow `}
           >
-           
+            <TableOfContents />
           </div>
         </div>
       </aside>

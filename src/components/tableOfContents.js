@@ -1,6 +1,6 @@
 "use client";
-import ScrollLink from "../../components/scrollLink";
-export default function Table_of_contents() {
+import ScrollLink from "./scrollLink";
+export default function TableOfContents() {
   return (
     <div>
       <h1 className="calibre_8" id="filepos864">
@@ -350,5 +350,3 @@ export default function Table_of_contents() {
     </div>
   );
 }
-
-
