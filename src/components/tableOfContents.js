@@ -3,9 +3,6 @@ import ScrollLink from "./scrollLink";
 export default function TableOfContents() {
   return (
     <div>
-      <h1 className="calibre_8" id="filepos864">
-        <span className="underline1">Contents</span>
-      </h1>
       <p className="calibre_9">
         <ScrollLink href="/old_testament" scrollToId="#filepos8371">
           Old Testament
