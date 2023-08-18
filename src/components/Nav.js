@@ -43,7 +43,7 @@ const Nav = ({ children }) => {
             <Logo />
           </div>
           {/* <TableOfContents /> */}
-          <TOC />
+          <TOC handleToggleMenu={handleToggleMenu} />
         </section>
         <section className="sm:fixed right-0 sm:w-2/3 md:w-1/2 overflow-y-scroll col-span-2 px-10">
           {children}

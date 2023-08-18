@@ -1,12 +1,14 @@
 import { TableOfContentsData } from "./tableOfContentsData";
 import Link from "next/link";
 
-export default function TOC() {
+export default function TOC({ handleToggleMenu }) {
   return (
     <div className="flex flex-wrap p-3">
       {TableOfContentsData.map((e) => (
         <Link href={`/bible${e.href}`}>
           <h4
+            onClick={handleToggleMenu}
+            key={e.name}
             style={{
               "min-width": "18vh",
               width: "19vw",
