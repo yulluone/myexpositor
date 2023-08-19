@@ -27,8 +27,7 @@ export default function LetterMenu({ handleToggleMenu }) {
     "Z",
   ];
 
-  const handleLetterSelect = ({letter}) => {
-    e.preventDefault();
+  const handleLetterSelect = ({ letter }) => {
     setShowBooks(TableOfContentsData.filter((book) => book.name[0] === letter));
     letter === selectedLetter
       ? setSelectedLetter("")
