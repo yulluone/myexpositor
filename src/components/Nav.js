@@ -13,19 +13,25 @@ const Nav = ({ children }) => {
   const [menuIsOpen, setMenuIsOpen] = useState(false);
 
   const handleToggleMenu = () => {
-    document.getElementById("menu").style.display = menuIsOpen
-      ? "none"
-      : "inline";
-    document.getElementById("menu").style.overflowY = menuIsOpen
-      ? "hidden"
-      : "scroll";
-    document.getElementById("content").style.overflowY = menuIsOpen
-      ? "scroll"
-      : "hidden";
-    document.getElementById("content").style.display = menuIsOpen
-      ? "block"
-      : "none";
-    setMenuIsOpen(!menuIsOpen);
+    var x = window.matchMedia("(min-width: 640px)");
+
+    !x.matches &&
+      (document.getElementById("menu").style.display = menuIsOpen
+        ? "none"
+        : "inline");
+    !x.matches &&
+      (document.getElementById("menu").style.overflowY = menuIsOpen
+        ? "hidden"
+        : "scroll");
+    !x.matches &&
+      (document.getElementById("content").style.overflowY = menuIsOpen
+        ? "scroll"
+        : "hidden");
+    !x.matches &&
+      (document.getElementById("content").style.display = menuIsOpen
+        ? "block"
+        : "none");
+    !x.matches && setMenuIsOpen(!menuIsOpen);
   };
 
   return (
@@ -48,9 +54,9 @@ const Nav = ({ children }) => {
           style={{ "min-width": "240px" }}
           className=" hidden sm:w-1/3 md:w-1/2 sm:relative pb-20 sm:px-4 mt-16 sm:mt-0 h-full sm:inline fixed w-full items-center overflow-y-scroll bg-gray-800 "
         >
-          <div className="hidden sm:inline">
+          {/* <div className="hidden sm:inline">
             <Logo />
-          </div>
+          </div> */}
           {/* <TableOfContents /> */}
           {/* <TOC handleToggleMenu={handleToggleMenu} /> */}
 
