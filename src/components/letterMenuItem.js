@@ -10,7 +10,7 @@ export default function LetterMenuItem({
   return (
     <div className="text-white w-full  flex flex-col my-3	    ">
       <button
-        onClick={() => handleLetterSelect({ letter})}
+        onClick={() => handleLetterSelect({ letter })}
         style={{ "min-width": "40px", "min-height": "40px" }}
         className="flex w-full h-10 justify-between border px-4  items-center align-center rounded-lg hover:scale-110 duration-200"
       >
@@ -34,6 +34,7 @@ export default function LetterMenuItem({
           showBooks.map((book) => (
             <Link href={`/bible${book.href}`}>
               <div
+                key={book.name}
                 onClick={handleToggleMenu}
                 className="bg-gray-900 w-full my-3 h-10 flex border px-4 items-center rounded-lg hover:scale-105 duration-200"
               >

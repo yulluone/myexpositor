@@ -52,7 +52,7 @@ const Nav = ({ children }) => {
         <section
           id="menu"
           style={{ "min-width": "240px" }}
-          className=" hidden sm:w-1/3 md:w-1/2 sm:relative pb-20 sm:px-4 mt-16 sm:mt-0 h-full sm:inline fixed w-full items-center overflow-y-scroll bg-gray-800 "
+          className=" hidden sm:w-1/3 sm:static pb-20 sm:pb-0 sm:px-4 mt-16 sm:mt-0 h-screen sm:inline fixed w-full items-center  bg-gray-800 "
         >
           {/* <div className="hidden sm:inline">
             <Logo />
@@ -64,7 +64,7 @@ const Nav = ({ children }) => {
         </section>
         <section
           id="content"
-          className="sm:fixed right-0 sm:w-2/3 md:w-1/2 overflow-y-scroll col-span-2 px-10"
+          className="sm:fixed sm:right-0 h-full sm:w-2/3 overflow-y-scroll col-span-2 px-10"
         >
           {children}
         </section>

@@ -35,9 +35,10 @@ export default function LetterMenu({ handleToggleMenu }) {
   };
 
   return (
-    <div className="w-full h-screen block px-6 ">
+    <div className="w-full h-full block px-10 overflow-y-scroll ">
       {letters.map((letter) => (
-        <LetterMenuItem
+							<LetterMenuItem
+										key={letter}
           letter={letter}
           handleLetterSelect={handleLetterSelect}
           handleToggleMenu={handleToggleMenu}
