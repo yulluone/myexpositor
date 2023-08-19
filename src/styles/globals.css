@@ -30,6 +30,23 @@ p {
 }
 
 a {
-  color: blue;
+  color: blue !important;
   cursor: pointer;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: rgb(31 41 55);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
