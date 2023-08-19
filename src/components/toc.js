@@ -14,7 +14,7 @@ export default function TOC({ handleToggleMenu }) {
               width: "19vw",
               "max-width": "240px",
             }}
-            className="text-white text-base border sm:text-lg lg:text-2xl p-3 my-2 mx-3 rounded-md hover:bg-gray-700 hover:scale-110 duration-200"
+            className="text-white text-sm border sm:text-base lg:text-lg p-3 my-2 mx-3 rounded-md hover:bg-gray-700 hover:scale-110 duration-200"
           >
             {e.name}
           </h4>

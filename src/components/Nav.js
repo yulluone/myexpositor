@@ -37,7 +37,7 @@ const Nav = ({ children }) => {
         <section
           id="menu"
           style={{ "min-width": "240px" }}
-          className="hidden sm:w-1/3 md:w-1/2 sm:relative mt-16 sm:mt-0 h-full sm:inline fixed w-full items-center overflow-y-scroll bg-gray-800 p-3"
+          className="hidden sm:w-1/3 md:w-1/2 sm:relative pb-20 mt-16 sm:mt-0 h-full sm:inline fixed w-full items-center overflow-y-scroll bg-gray-800 "
         >
           <div className="hidden sm:inline">
             <Logo />
@@ -45,7 +45,10 @@ const Nav = ({ children }) => {
           {/* <TableOfContents /> */}
           <TOC handleToggleMenu={handleToggleMenu} />
         </section>
-        <section className="sm:fixed right-0 sm:w-2/3 md:w-1/2 overflow-y-scroll col-span-2 px-10">
+        <section
+          id="content"
+          className="sm:fixed right-0 sm:w-2/3 md:w-1/2 overflow-y-scroll col-span-2 px-10"
+        >
           {children}
         </section>
       </div>
