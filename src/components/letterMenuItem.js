@@ -10,7 +10,7 @@ export default function LetterMenuItem({
   return (
     <div className="text-white w-full  flex flex-col my-3	    ">
       <button
-        onClick={() => handleLetterSelect(letter)}
+        onClick={() => handleLetterSelect({ letter})}
         style={{ "min-width": "40px", "min-height": "40px" }}
         className="flex w-full h-10 justify-between border px-4  items-center align-center rounded-lg hover:scale-110 duration-200"
       >
