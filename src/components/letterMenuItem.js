@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { useState } from "react";
 
 export default function LetterMenuItem({
   handleLetterSelect,
@@ -6,9 +7,11 @@ export default function LetterMenuItem({
   letter,
   selectedLetter,
   showBooks,
+  selectedBook,
+  setSelectedBook,
 }) {
   return (
-    <div className="text-white w-full  flex flex-col my-3	    ">
+    <div className="text-white w-full  flex flex-col my-3">
       <button
         onClick={() => handleLetterSelect({ letter })}
         style={{ "min-width": "40px", "min-height": "40px" }}
@@ -32,11 +35,18 @@ export default function LetterMenuItem({
       <div className="px-4 ">
         {selectedLetter === letter &&
           showBooks.map((book) => (
-            <Link href={`/bible${book.href}`}>
+            <Link href={`/bible${book.href}`} key={book.name}>
               <div
                 key={book.name}
-                onClick={handleToggleMenu}
-                className="bg-gray-900 w-full my-3 h-10 flex border px-4 items-center rounded-lg hover:scale-105 duration-200"
+                onClick={() => {
+                  handleToggleMenu();
+                  setSelectedBook(book.name);
+                }}
+                className={`w-full my-3 h-10 flex border px-4 items-center rounded-lg hover:scale-105 duration-200 ${
+                  book.name == selectedBook
+                    ? "bg-gray-900 border-green-500"
+                    : ""
+                } `}
               >
                 <h4 className="text-sm text-white">{book.name}</h4>
               </div>
