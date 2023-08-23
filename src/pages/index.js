@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
+    <div className="flex flex-col items-center justify-center h-screen mt-16">
       <h1 className="text-3xl text-center font-bold mb-4">
         Welcome to the Expositor's Bible
       </h1>
@@ -18,8 +18,10 @@ export default function Home() {
         May your journey through the Word be enlightening and transformative.
       </p>
       <p className="text-lg text-center text-green-700">
-        Click the menu above to start exploring the books of the Bible like
-        never before!
+        Use the Menu to start exploring or jump right in from{" "}
+        <span>
+          <Link href="/bible/genesis-01">The Beginning</Link>
+        </span>
       </p>
     </div>
   );
