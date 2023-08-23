@@ -24,14 +24,13 @@ p {
   font-size: 21px;
 }
 
-.explanation {
+.italic1 {
   color: green;
   font-style: italic;
 }
 
 a {
   color: blue !important;
-  cursor: pointer;
 }
 
 /* width */
