@@ -18,8 +18,8 @@ export default function Home() {
         May your journey through the Word be enlightening and transformative.
       </p>
       <p className="text-sm sm:text-lg text-center mb-6">
-        Tap on <span className="underline text-green-700">Expositor</span>{" "}
-        to switch between Expositor Bible and Normal King James Bible.
+        Tap on <span className="underline text-green-700">Expositor</span>{" "} (top left)
+        to turn expositions on or off.
       </p>
       <p className="text-sm sm:text-lg text-center text-green-700">
         Use the Menu to start exploring or jump right in from{" "}
