@@ -17,6 +17,10 @@ export default function Home() {
       <p className="text-sm sm:text-lg text-center mb-6">
         May your journey through the Word be enlightening and transformative.
       </p>
+      <p className="text-sm sm:text-lg text-center mb-6">
+        Tap on the <span className="underline text-green-700">Expositor</span>{" "}
+        at the top left to turn exporsitions ON or OFF.
+      </p>
       <p className="text-sm sm:text-lg text-center text-green-700">
         Use the Menu to start exploring or jump right in from{" "}
         <span>

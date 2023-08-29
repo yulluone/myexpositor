@@ -15,9 +15,29 @@ const Nav = ({ children }) => {
   const [menuIsOpen, setMenuIsOpen] = useState(false);
   const [menuSelected, setMenuSelected] = useState("A to Z");
   const [selectedBook, setSelectedBook] = useState(" ");
+  const [expositorOn, setExpositorOn] = useState(true);
 
   const handleToggleMenu = () => {
     setMenuIsOpen(!menuIsOpen);
+  };
+
+  const handleExpositorToggle = () => {
+    const exposition = document.getElementsByClassName("italic1");
+    // console.log(typeof exposition, exposition.length, exposition);
+
+    for (const item in exposition) {
+      // console.log(item, exposition[item]);
+      try {
+        {
+          expositorOn
+            ? (exposition[item].style.display = "none")
+            : (exposition[item].style.display = "inline");
+        }
+        setExpositorOn(!expositorOn);
+      } catch (err) {
+        console.log(err);
+      }
+    }
   };
 
   const menuSections = ["A to Z", "Old Testament", "New Testament"];
@@ -32,6 +52,18 @@ const Nav = ({ children }) => {
     <div className="h-screen w-full  ">
       {/* <!-- Nav --> */}
       <section className="sm:hidden w-screen h-16 bg-gray-800 fixed pointer">
+        <div
+          className=" w-26 h-10 fixed left-6 pt-4"
+          onClick={handleExpositorToggle}
+        >
+          <button
+            className={
+              expositorOn ? "text-green-500 text-xl " : "text-white text-xl"
+            }
+          >
+            {expositorOn ? "Expositor" : "Normal"}
+          </button>
+        </div>
         <div
           className="w-10 h-10 fixed right-6 top-4 "
           onClick={handleToggleMenu}
@@ -50,6 +82,20 @@ const Nav = ({ children }) => {
             menuIsOpen ? "inline" : "hidden"
           } sm:block pb-20 sm:pb-0 sm:px-4 mt-16 sm:mt-0 h-screen sm:inline fixed w-full items-center overflow-hidden bg-gray-800`}
         >
+          <div
+            className=" flex justify-center my-4"
+            onClick={handleExpositorToggle}
+          >
+            <button
+              className={
+                expositorOn
+                  ? "text-green-500  text-3xl "
+                  : "text-white  text-3xl"
+              }
+            >
+              {expositorOn ? "Expositor" : "Normal"}
+            </button>
+          </div>
           <div className=" flex flex-wrap w-full justify-center pl-2 sm:pl-0 sm:mt-0 items-center">
             {menuSections.map((section) => (
               <button
