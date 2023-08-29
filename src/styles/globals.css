@@ -10,13 +10,16 @@ h3 {
 
 h1 {
   font-size: 48px;
+  color: rgb(54, 60, 70);
 }
 h2 {
   font-size: 48px;
+  color: rgb(54, 60, 70);
 }
 
 h3 {
   font-size: 48px;
+  color: rgb(54, 60, 70);
 }
 
 p {
@@ -34,7 +37,12 @@ p {
   color: green;
 }
 a {
-  color: blue !important;
+  color: rgb(76, 76, 175) !important;
+}
+
+.calibre_20 {
+  font-weight: 600;
+  color: rgb(31 41 55);
 }
 
 /* width */
