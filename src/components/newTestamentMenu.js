@@ -8,7 +8,7 @@ export default function NewTestamentMenu({
   setSelectedBook,
 }) {
   return (
-    <div className="w-full h-full block px-10 mt-32 pb-32 overflow-y-scroll ">
+    <div className="w-full h-full block px-10 pt-4 pb-64 overflow-y-scroll ">
       {NewTestamentBooks.map((book) => (
         <div
           className="px-4 "

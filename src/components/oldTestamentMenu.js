@@ -8,7 +8,7 @@ export default function OldTestamentMenu({
   setSelectedBook,
 }) {
   return (
-    <div className="w-full h-full block px-10 mt-32 pb-32 overflow-y-scroll ">
+    <div className="w-full h-full block px-10 pt-4 pb-64 overflow-y-scroll ">
       {OldTestamentBooks.map((book) => (
         <div className="px-4">
           <Link href={`/bible${book.href}`}>
