@@ -139,7 +139,7 @@ const Nav = ({ children }) => {
           // style={{ display: `${menuIsOpen ? "none" : "block"}` }}
           className={`sm:fixed sm:block sm:right-0 h-full sm:w-2/3 ${
             menuIsOpen ? "hidden" : " block"
-          } col-span-2 px-10`}
+          } col-span-2 px-10 overflow-y-scroll`}
         >
           {children}
         </section>
