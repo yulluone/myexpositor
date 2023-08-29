@@ -27,8 +27,12 @@ p {
 .italic1 {
   color: green;
   font-style: italic;
+  /* display: none; */
 }
 
+.calibre7 {
+  color: green;
+}
 a {
   color: blue !important;
 }
