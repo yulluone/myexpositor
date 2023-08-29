@@ -83,7 +83,7 @@ const Nav = ({ children }) => {
           } sm:block pb-20 sm:pb-0 sm:px-4 mt-16 sm:mt-0 h-screen sm:inline fixed w-full items-center overflow-hidden bg-gray-800`}
         >
           <div
-            className=" flex justify-center my-4"
+            className=" flex justify-center my-4 hidden sm:block"
             onClick={handleExpositorToggle}
           >
             <button
