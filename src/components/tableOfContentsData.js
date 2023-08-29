@@ -1045,6 +1045,23 @@ export const BooksOfTheBibleAtoZ = new Map([
     ],
   ],
   [
+    "K",
+    [
+      {
+        name: "1 Kings",
+        title: "THE FIRST BOOK OF KINGS",
+        numberOfChapters: 22,
+        href: "/kings1",
+      },
+      {
+        name: "2 Kings",
+        title: "THE SECOND BOOK OF KINGS",
+        numberOfChapters: 25,
+        href: "/kings2",
+      },
+    ],
+  ],
+  [
     "L",
     [
       {
