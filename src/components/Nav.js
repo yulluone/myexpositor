@@ -52,14 +52,12 @@ const Nav = ({ children }) => {
     <div className="h-screen w-full  ">
       {/* <!-- Nav --> */}
       <section className="sm:hidden w-screen h-16 bg-gray-800 fixed pointer">
-        <div
-          className=" w-26 h-10 fixed left-6 pt-4"
-          onClick={handleExpositorToggle}
-        >
+        <div className=" w-26 h-10 fixed left-6 pt-4">
           <button
             className={
               expositorOn ? "text-green-500 text-xl " : "text-white text-xl"
             }
+            onClick={handleExpositorToggle}
           >
             {expositorOn ? "Expositor" : "Normal"}
           </button>
@@ -82,16 +80,12 @@ const Nav = ({ children }) => {
             menuIsOpen ? "inline" : "hidden"
           } sm:block pb-20 sm:pb-0 sm:px-4 mt-16 sm:mt-0 h-screen sm:inline fixed w-full items-center overflow-hidden bg-gray-800`}
         >
-          <div
-            className=" flex justify-center my-4 hidden sm:block"
-            onClick={handleExpositorToggle}
-          >
+          <div className="w-full justify-center my-4 hidden sm:flex">
             <button
-              className={
-                expositorOn
-                  ? "text-green-500  text-3xl "
-                  : "text-white  text-3xl"
-              }
+              className={` text-3xl justify-center
+                ${expositorOn ? "text-green-500  " : "text-white  "} 
+																		`}
+              onClick={handleExpositorToggle}
             >
               {expositorOn ? "Expositor" : "Normal"}
             </button>
