@@ -1,38 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Expositor's Bible Web App
+
+This web app is a digital version of the Expositor's Study Bible, transformed from PDF to a dynamic Next.js application. It allows users to explore and read Bible verses along with explanations.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Build Process](#build-process)
+- [Contributing](#contributing)
+- [Get in Touch](#get-in-touch)
+- [License](#license)
+
+## Introduction
+
+The Expositor's Bible Web App is an interactive platform that brings the richness of the Expositor's Study Bible to digital users. This project started by transforming a PDF version of the Bible into JSX components using Python for parsing.
+
+## Features
+
+- Browse and read Bible verses.
+- Access detailed explanations for each verse.
+- Navigate through different books seamlessly.
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. **Clone this repository:**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/yulluone/myexpositor.git
+   ```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+2. **cd into project**
+   ```bash
+   cd myexpositor
+   ```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+4. **Run Project**
+   ```bash
+   npm run dev
+   ```
+5. **Open your browser and visit** [http://localhost:3000](http://localhost:3000).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ## Build Process
 
-## Learn More
+The transformation from PDF to JSX components involved the following steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. **PDF to Text Conversion:**
+   - Used Python libraries to convert PDF pages to plain text.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Text Processing:**
+   - Parsed the text to extract relevant information like book names, chapter numbers, verses, and explanations.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **JSX Component Generation:**
+   - Dynamically generated JSX components for each chapter and verse.
 
-## Deploy on Vercel
+4. **Integration with Next.js:**
+   - Integrated the generated JSX components into a Next.js application for a seamless web experience.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions are welcome! Feel free to open issues or submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## Get in Touch
+
+For inquiries or more information, please contact us at:
+
+- **Email:** [yulluone@outlook.com](mailto:yulluone@outlook.com)
+- **Twitter:** [@yulluone](https://twitter.com/yulluone)
+
+## License
+
+This project is licensed under the MIT License
+
